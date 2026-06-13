@@ -50,7 +50,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 <a id="claim-t-66817"></a>
 - t-002
   global_id: t-66817
-  teiginys: '1358 m. Niurnbergo krikšto pasiūlymas buvo politikos manevras, nes jo sąlygos netiko deryboms.'
+  teiginys: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
     - t-001
 
 - c-002
+  santrauka: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tiesa, 1358 met.

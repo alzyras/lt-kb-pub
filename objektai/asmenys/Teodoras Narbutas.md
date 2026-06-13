@@ -45,7 +45,7 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
 <a id="claim-t-82751"></a>
 - t-003
   global_id: t-82751
-  teiginys: 'Narbutas susilaukė rūsčios jo kritikos.'
+  teiginys: 'Tuo metu Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios M. Balinskio kritikos.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     - t-001
 
 - c-002
+  santrauka: 'Tuo metu Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios M. Balinskio kritikos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu Lietu­

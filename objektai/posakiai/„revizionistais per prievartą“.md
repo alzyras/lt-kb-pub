@@ -20,13 +20,14 @@ tags:
 <a id="claim-t-77855"></a>
 - t-001
   global_id: t-77855
-  teiginys: 'Žinoma, kad lietuviai tapo „revizionistais per prievartą“.'
+  teiginys: 'Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ta-

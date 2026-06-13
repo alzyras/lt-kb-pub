@@ -24,13 +24,6 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
   pagrindžia:
     - c-001
 
-<a id="claim-t-75473"></a>
-- t-002
-  global_id: t-75473
-  teiginys: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -22,20 +22,21 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
 <a id="claim-t-22171"></a>
 - t-001
   global_id: t-22171
-  teiginys: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
+  teiginys: 'Jakobinų klubas rengė manifestacijas, kurios privertė teismą paskelbti mirties nuosprendžius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-22172"></a>
 - t-002
   global_id: t-22172
-  teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
+  teiginys: 'Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
@@ -54,6 +55,7 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
     - t-002
 
 - c-002
+  santrauka: 'Jakobinų klubas rengė manifestacijas, kurios privertė teismą paskelbti mirties nuosprendžius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos

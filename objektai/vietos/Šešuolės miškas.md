@@ -21,13 +21,14 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
 <a id="claim-t-86275"></a>
 - t-001
   global_id: t-86275
-  teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
+  teiginys: 'Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,

@@ -35,7 +35,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 <a id="claim-t-101612"></a>
 - t-002
   global_id: t-101612
-  teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
+  teiginys: 'Prancūzija Georges''o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo.'
   pagrindžia:
     - c-004
 
@@ -49,34 +49,35 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 <a id="claim-t-101614"></a>
 - t-004
   global_id: t-101614
-  teiginys: 'Abi minimos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
+  teiginys: 'Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-101615"></a>
 - t-005
   global_id: t-101615
-  teiginys: 'Prancūzija Georges B. Clemenceau rašte aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
+  teiginys: 'Prancūzija Georges''o B. Clemenceau rašte aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-183477"></a>
 - t-006
   global_id: t-183477
-  teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  teiginys: 'Abi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-183478"></a>
 - t-007
   global_id: t-183478
-  teiginys: 'Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrindu ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietuva yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami visi buvę valstybiniai ryšiai su kitomis valstybėmis.'
+  teiginys: '1917 m. gruodžio 11 d. rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi.'
   pagrindžia:
     - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pliuralistinė lietuvių politinė vi-
@@ -154,7 +155,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - t-002
 
 - c-005
-  santrauka: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  santrauka: 'Abi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai nebuvo
@@ -175,7 +176,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - t-006
 
 - c-006
-  santrauka: 'Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrindu ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietuva yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami visi buvę valstybiniai ryšiai su kitomis valstybėmis.'
+  santrauka: '1917 m. gruodžio 11 d. rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Oberostas, rezidavęs

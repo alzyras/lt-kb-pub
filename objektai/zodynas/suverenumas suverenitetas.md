@@ -36,7 +36,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 <a id="claim-t-183472"></a>
 - t-003
   global_id: t-183472
-  teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
+  teiginys: 'Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
     - t-002
 
 - c-003
-  santrauka: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
+  santrauka: 'Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pradiniame etape Sąjūdis iš es-

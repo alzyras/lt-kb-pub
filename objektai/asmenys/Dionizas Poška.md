@@ -31,13 +31,6 @@ periodo_grupes:
   pagrindžia:
     - c-001
 
-<a id="claim-t-183528"></a>
-- t-002
-  global_id: t-183528
-  teiginys: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-59695"></a>
 - t-001
   global_id: t-59695
-  teiginys: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet, žinoma, [tikėjo] ne taip, kaip dera.'
+  teiginys: 'Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toks didelis buvo jo autoritetas,

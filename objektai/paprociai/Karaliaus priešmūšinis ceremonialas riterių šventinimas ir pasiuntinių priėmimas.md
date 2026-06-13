@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-103838"></a>
 - t-002
   global_id: t-103838
-  teiginys: 'Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio.'
+  teiginys: 'Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
@@ -86,5 +87,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/asmenys/Olesnickio]]
-- [[objektai/asmenys/Zbignievo Olesnickio]]

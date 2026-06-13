@@ -29,14 +29,14 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 <a id="claim-t-40311"></a>
 - t-001
   global_id: t-40311
-  teiginys: 'Plk. M. Dejevas žuvo per ataką, kai priešą iš apdegusių pastatų apšaudė Užupio gyventojai.'
+  teiginys: 'Plk. M. Dejevas žuvo per ataką, kai besitraukiantį priešą iš apdegusių pastatų apšaudė Užupio gyventojai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-40312"></a>
 - t-002
   global_id: t-40312
-  teiginys: 'Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus.'
+  teiginys: '1919 m. liepos 20 d. plk. M. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     - t-003
 
 - c-002
+  santrauka: 'Plk. M. Dejevas žuvo per ataką, kai besitraukiantį priešą iš apdegusių pastatų apšaudė Užupio gyventojai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besitraukiantį priešą iš apdegusių pastatų
@@ -81,6 +82,7 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
     - t-001
 
 - c-003
+  santrauka: '1919 m. liepos 20 d. plk. M. Dejevo daliniai mėgino įsiveržti į miestą per Bernardinų bokštą ir Spaso vartus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. Mejeno

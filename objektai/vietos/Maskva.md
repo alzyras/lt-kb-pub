@@ -54,7 +54,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177704"></a>
 - t-004
   global_id: t-177704
-  teiginys: 'Atsidūrusi Maskvoje ir iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu, senosios Lietuvos valstybės likimo ženklu.'
+  teiginys: 'Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.'
   pagrindžia:
     - c-056
 
@@ -103,7 +103,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177712"></a>
 - t-011
   global_id: t-177712
-  teiginys: 'Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasiprašė neva savanoriškai įeiti į SSRS sudėtį.'
+  teiginys: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
   pagrindžia:
     - c-045
 
@@ -124,7 +124,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177715"></a>
 - t-014
   global_id: t-177715
-  teiginys: 'Apšvieta ateina į LDK Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.'
+  teiginys: 'Karai su Maskvos didžiąja kunigaikštyste dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus.'
   pagrindžia:
     - c-062
 
@@ -149,17 +149,10 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-069
 
-<a id="claim-t-177719"></a>
-- t-018
-  global_id: t-177719
-  teiginys: '1427 m. žygiavo į Maskvą padėti vaikaičiui Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą.'
-  pagrindžia:
-    - c-032
-
 <a id="claim-t-177720"></a>
 - t-019
   global_id: t-177720
-  teiginys: 'Jo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-067
 
@@ -201,7 +194,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177726"></a>
 - t-025
   global_id: t-177726
-  teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos sutartį.'
+  teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos sutartį ir sutartį dėl Vilniaus perdavimo.'
   pagrindžia:
     - c-051
 
@@ -215,7 +208,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177728"></a>
 - t-027
   global_id: t-177728
-  teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
+  teiginys: 'Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su Vytauto dukteria Sofija.'
   pagrindžia:
     - c-075
 
@@ -243,7 +236,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177734"></a>
 - t-031
   global_id: t-177734
-  teiginys: 'Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – Maskva ir Leningradas.'
+  teiginys: 'Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai.'
   pagrindžia:
     - c-054
 
@@ -278,7 +271,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177739"></a>
 - t-036
   global_id: t-177739
-  teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  teiginys: 'Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.'
   pagrindžia:
     - c-003
 
@@ -306,7 +299,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177743"></a>
 - t-040
   global_id: t-177743
-  teiginys: 'Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš.'
+  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos.'
   pagrindžia:
     - c-059
 
@@ -327,7 +320,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177746"></a>
 - t-043
   global_id: t-177746
-  teiginys: 'Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis » ir nuteriojęs apylinkę, jis grįžo atgal^17.'
+  teiginys: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
   pagrindžia:
     - c-071
 
@@ -348,7 +341,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177749"></a>
 - t-046
   global_id: t-177749
-  teiginys: 'Tačiau Napoleonui teko trauktis iš Maskvos, o besitraukiant neliko ir jo kariuomenės.'
+  teiginys: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
   pagrindžia:
     - c-037
 
@@ -362,7 +355,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177752"></a>
 - t-048
   global_id: t-177752
-  teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  teiginys: 'Autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis.'
   pagrindžia:
     - c-073
 
@@ -383,7 +376,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177755"></a>
 - t-051
   global_id: t-177755
-  teiginys: 'Maskvos kunigaikštis, pasinaudojęs tuo metu vyriausioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai), gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų senosios Rusios.'
+  teiginys: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
   pagrindžia:
     - c-061
 
@@ -418,7 +411,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177761"></a>
 - t-057
   global_id: t-177761
-  teiginys: 'Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino, užėmė Maskvą.'
+  teiginys: '1610 m. lenkų kariuomenė, sumušusi rusus prie Klušino, užėmė Maskvą.'
   pagrindžia:
     - c-012
 
@@ -446,7 +439,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177765"></a>
 - t-061
   global_id: t-177765
-  teiginys: 'Jis, klajodamas po tremtį Maskvoje, mirė nunuodytas kažkokiame vienuolyne.'
+  teiginys: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
   pagrindžia:
     - c-031
 
@@ -460,7 +453,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177767"></a>
 - t-063
   global_id: t-177767
-  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais.'
   pagrindžia:
     - c-059
 
@@ -491,13 +484,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginys: 'Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjusios stalininės jėgos prisidėjo prie valdymo sugriežtinimo.'
   pagrindžia:
     - c-058
-
-<a id="claim-t-177772"></a>
-- t-068
-  global_id: t-177772
-  teiginys: 'Maskva ir Leningradas buvo pagrindiniai iš Lietuvos išvežamų maisto produktų vartotojai.'
-  pagrindžia:
-    - c-054
 
 <a id="claim-t-177773"></a>
 - t-069
@@ -530,7 +516,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177777"></a>
 - t-073
   global_id: t-177777
-  teiginys: '1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar.'
+  teiginys: '1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje pranešė apie TTGK įkūrimą.'
   pagrindžia:
     - c-044
 
@@ -576,13 +562,6 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-001
 
-<a id="claim-t-177785"></a>
-- t-080
-  global_id: t-177785
-  teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
-  pagrindžia:
-    - c-049
-
 <a id="claim-t-177786"></a>
 - t-081
   global_id: t-177786
@@ -593,7 +572,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177787"></a>
 - t-082
   global_id: t-177787
-  teiginys: 'Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
+  teiginys: 'Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
   pagrindžia:
     - c-076
 
@@ -632,26 +611,12 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-030
 
-<a id="claim-t-177793"></a>
-- t-088
-  global_id: t-177793
-  teiginys: 'Lietuvos žydų sunaikinimas – Holokaustas Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pasitraukė į Rytus, sovietai vos spėjo išgabenti į Maskvą LSSR vyriausybę.'
-  pagrindžia:
-    - c-021
-
 <a id="claim-t-177794"></a>
 - t-089
   global_id: t-177794
   teiginys: 'Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.'
   pagrindžia:
     - c-055
-
-<a id="claim-t-177796"></a>
-- t-090
-  global_id: t-177796
-  teiginys: '1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje pranešė apie TTGK įkūrimą.'
-  pagrindžia:
-    - c-044
 
 <a id="claim-t-177797"></a>
 - t-091
@@ -698,7 +663,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177803"></a>
 - t-097
   global_id: t-177803
-  teiginys: 'Batorui ateinant į sostą, tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Livonijos (žiūr.'
+  teiginys: 'Steponui Batorui ateinant į sostą, Lietuvos ir Maskvos ginčas dėl Livonijos tebebuvo neišspręstas.'
   pagrindžia:
     - c-017
 
@@ -740,7 +705,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177811"></a>
 - t-103
   global_id: t-177811
-  teiginys: 'Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927).'
+  teiginys: 'Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje.'
   pagrindžia:
     - c-063
 
@@ -754,7 +719,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177813"></a>
 - t-105
   global_id: t-177813
-  teiginys: 'Chodkevičiui buvo pavesta vadovauti Maskvoje apsuptos lenkų ir lietuvių įgulos deblokavimui, tačiau ši, nesulaukusi pagalbos, kapituliavo.'
+  teiginys: '1611 m. Jonui Karoliui Chodkevičiui buvo pavesta deblokuoti Maskvoje apsuptą lenkų ir lietuvių įgulą, bet ji kapituliavo.'
   pagrindžia:
     - c-011
 
@@ -768,16 +733,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-177815"></a>
 - t-107
   global_id: t-177815
-  teiginys: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
+  teiginys: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.'
   pagrindžia:
     - c-053
-
-<a id="claim-t-177816"></a>
-- t-108
-  global_id: t-177816
-  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
-  pagrindžia:
-    - c-067
 
 <a id="claim-t-183050"></a>
 - t-110
@@ -803,7 +761,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 <a id="claim-t-185042"></a>
 - t-113
   global_id: t-185042
-  teiginys: 'Karaliaus legatai Maskvoje pasiūlė ginčą dėl titulų perduoti karaliui ir laikinai pasirašyti paliaubas pagal senąją formulę.'
+  teiginys: 'Karaliaus legatai pasiūlė ginčą dėl titulų perduoti karaliui, o paliaubas laikinai pasirašyti pagal senąją formulę.'
   pagrindžia:
     - c-084
 
@@ -1378,6 +1336,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-049
 
 - c-031
+  santrauka: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1452
@@ -1396,6 +1355,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-061
 
 - c-032
+  santrauka: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atėjo metas Lietuvos ir Lenkijos santykių
@@ -1496,6 +1456,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-037
 
 - c-037
+  santrauka: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus katedroje, dalyvaujant Varšuvos
@@ -1646,6 +1607,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-073
 
 - c-045
+  santrauka: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
@@ -1748,7 +1710,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-091
 
 - c-051
-  santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos sutartį.'
+  santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos sutartį ir sutartį dėl Vilniaus perdavimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
@@ -1784,6 +1746,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-034
 
 - c-053
+  santrauka: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo šiol trijulės likimas
@@ -1847,6 +1810,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-089
 
 - c-056
+  santrauka: 'Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi Lietuvos
@@ -1935,6 +1899,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-044
 
 - c-061
+  santrauka: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
@@ -2121,6 +2086,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-058
 
 - c-071
+  santrauka: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors priešas buvo užkluptas netikėtai, tačiau
@@ -2153,6 +2119,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-030
 
 - c-073
+  santrauka: 'Autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK būtent Vytauto
@@ -2188,6 +2155,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-026
 
 - c-075
+  santrauka: 'Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su Vytauto dukteria Sofija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bėgdamas iš totorių nelaisvės, Mask-
@@ -2358,7 +2326,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-112
 
 - c-084
-  santrauka: 'Karaliaus legatai Maskvoje pasiūlė ginčą dėl titulų perduoti karaliui ir laikinai pasirašyti paliaubas pagal senąją formulę.'
+  santrauka: 'Karaliaus legatai pasiūlė ginčą dėl titulų perduoti karaliui, o paliaubas laikinai pasirašyti pagal senąją formulę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Susitikę su maskvėnais, karaliaus le­

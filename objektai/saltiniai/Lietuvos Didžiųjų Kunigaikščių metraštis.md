@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-31801"></a>
 - t-001
   global_id: t-31801
-  teiginys: '(^106) Jis dar parašė : Lietuvos Didžiųjų Kunigaikščių metraštis (AkMD, t.'
+  teiginys: '„Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Žr. LE, t. 36, 384-385 p.**

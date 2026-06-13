@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvių senato vadovai Mikalojus Radvila ir Eustachijus Valavičius išsiuntė Maskvos didikams laišką dėl karo vengiančio karaliaus pozicijos.
+Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 
 ## Teiginiai
 
 <a id="claim-t-186341"></a>
 - t-001
   global_id: t-186341
-  teiginys: 'Lietuvių senato vadovai Mikalojus Radvila ir Eustachijus Valavičius išsiuntė Maskvos didikams laišką dėl karo vengiančio karaliaus pozicijos.'
+  teiginys: 'Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvių senato vadovai Mikalojus Radvila ir Eustachijus Valavičius išsiuntė Maskvos didikams laišką dėl karo vengiančio karaliaus pozicijos.'
+  santrauka: 'Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai dėl to jis ir prašąs, kad, paisydamas

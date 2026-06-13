@@ -39,6 +39,13 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   pagrindžia:
     - c-001
 
+<a id="claim-t-183037"></a>
+- t-003
+  global_id: t-183037
+  teiginys: 'Susikūrus nepriklausomai Latvijai, jos ir Lietuvos siena iš pradžių buvo laikoma buvusios Kuršo gubernijos siena.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +73,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
     - t-002
 
 - c-002
-  santrauka: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
+  santrauka: 'Susikūrus nepriklausomai Latvijai, jos ir Lietuvos siena iš pradžių buvo laikoma buvusios Kuršo gubernijos siena.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **2. Lietuvos Latvijos sienos nustatymas**

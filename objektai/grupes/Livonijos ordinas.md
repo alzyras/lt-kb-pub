@@ -44,7 +44,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179352"></a>
 - t-002
   global_id: t-179352
-  teiginys: '1380 m. kovo 26 d. Rygoje buvo sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
+  teiginys: '1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
   pagrindžia:
     - c-053
 
@@ -79,7 +79,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179358"></a>
 - t-007
   global_id: t-179358
-  teiginys: '«Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  teiginys: 'Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų.'
   pagrindžia:
     - c-018
 
@@ -184,7 +184,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179374"></a>
 - t-022
   global_id: t-179374
-  teiginys: 'Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai ir daug komtūrų.'
+  teiginys: '1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų.'
   pagrindžia:
     - c-042
 
@@ -198,7 +198,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179377"></a>
 - t-024
   global_id: t-179377
-  teiginys: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
+  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.'
   pagrindžia:
     - c-027
 
@@ -303,7 +303,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179394"></a>
 - t-039
   global_id: t-179394
-  teiginys: '1424 m. Niešavo sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Livonijos ordino žemėse.'
+  teiginys: '1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.'
   pagrindžia:
     - c-007
 
@@ -317,7 +317,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179396"></a>
 - t-041
   global_id: t-179396
-  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  teiginys: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   pagrindžia:
     - c-014
 
@@ -341,13 +341,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   teiginys: 'Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   pagrindžia:
     - c-056
-
-<a id="claim-t-179400"></a>
-- t-045
-  global_id: t-179400
-  teiginys: 'Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų.'
-  pagrindžia:
-    - c-042
 
 <a id="claim-t-179402"></a>
 - t-046
@@ -380,7 +373,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179407"></a>
 - t-050
   global_id: t-179407
-  teiginys: 'Konstancijos susirinkimas Vytautą padarė Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.'
+  teiginys: 'Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.'
   pagrindžia:
     - c-033
 
@@ -440,24 +433,17 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   pagrindžia:
     - c-005
 
-<a id="claim-t-179416"></a>
-- t-059
-  global_id: t-179416
-  teiginys: 'Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo jų vyskupijas.'
-  pagrindžia:
-    - c-033
-
 <a id="claim-t-179417"></a>
 - t-060
   global_id: t-179417
-  teiginys: 'Mūšio padariniai 1260 m. liepos 13 d. Durbės mūšis yra vienas pačių didžiausių Lietuvos kare prieš Kryžiuočių ordino agresiją ir pats didžiausias xIII a.'
+  teiginys: '1260 m. liepos 13 d. Durbės mūšis laikomas didžiausiu XIII a. baltų kovų mūšiu.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-179420"></a>
 - t-061
   global_id: t-179420
-  teiginys: 'Taikos sutartyje iš Ordino Livonijoje pusės minėti tik Jonas de Lovenbinkė, Mintaujos komtūras ir brolis Otto iš Eželio.'
+  teiginys: 'Taikos sutartyje iš Ordino Livonijoje pusės paminėti tik brolis Jonas de Lovenbinkė, Mintaujos komtūras, ir brolis Otto iš Eželio.'
   pagrindžia:
     - c-021
 
@@ -513,7 +499,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179428"></a>
 - t-069
   global_id: t-179428
-  teiginys: 'Tad, Jogailos pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva ir Žemaičiai.'
+  teiginys: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
   pagrindžia:
     - c-041
 
@@ -534,7 +520,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179431"></a>
 - t-072
   global_id: t-179431
-  teiginys: 'Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  teiginys: '1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
   pagrindžia:
     - c-040
 
@@ -562,14 +548,14 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 <a id="claim-t-179435"></a>
 - t-076
   global_id: t-179435
-  teiginys: 'Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu — nuo Nemuno ir Marių, buvo palikta ordinni.'
+  teiginys: 'Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.'
   pagrindžia:
     - c-026
 
 <a id="claim-t-179436"></a>
 - t-077
   global_id: t-179436
-  teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  teiginys: 'Dinaburgo komtūras pranešė Livonijos magistrui apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
   pagrindžia:
     - c-028
 
@@ -668,6 +654,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-013
 
 - c-007
+  santrauka: '1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1424 metais buvo dar padaryta prekybos sutar­
@@ -758,6 +745,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-010
 
 - c-013
+  santrauka: '1260 m. liepos 13 d. Durbės mūšis laikomas didžiausiu XIII a. baltų kovų mūšiu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -782,6 +770,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-060
 
 - c-014
+  santrauka: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
@@ -1013,6 +1002,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-066
 
 - c-026
+  santrauka: 'Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jūros upės krantu siena pasislinko
@@ -1031,6 +1021,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-076
 
 - c-027
+  santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
@@ -1271,6 +1262,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-072
 
 - c-041
+  santrauka: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kronikininko žodžiais, «Vytautas
@@ -1498,7 +1490,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-056
 
 - c-053
-  santrauka: '1380 m. kovo 26 d. Rygoje buvo sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
+  santrauka: '1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     29
@@ -1744,6 +1736,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - [[objektai/asmenys/Jonas]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]

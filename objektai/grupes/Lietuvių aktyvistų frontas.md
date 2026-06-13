@@ -100,7 +100,7 @@ Nenurodyta
 <a id="claim-t-26626"></a>
 - t-007
   global_id: t-26626
-  teiginys: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
+  teiginys: 'Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
   pagrindžia:
     - c-004
 
@@ -159,6 +159,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vyriausybės pir-
@@ -215,6 +216,5 @@ Nenurodyta
 - [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Abveras]]
-- [[objektai/grupes/Laikinoji vyriausybė]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]
 - [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]

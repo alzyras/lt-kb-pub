@@ -24,13 +24,6 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
   pagrindžia:
     - c-001
 
-<a id="claim-t-183749"></a>
-- t-002
-  global_id: t-183749
-  teiginys: 'Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Kerskorfas, maršalas Nesselrodė, žuvo dauguma Livonijos komtūrų ir riterijos krito, paimta į nelaisvę daug Švitrigailos karių.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +50,7 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
     - t-001
 
 - c-002
-  santrauka: 'Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Kerskorfas, maršalas Nesselrodė, žuvo dauguma Livonijos komtūrų ir riterijos krito, paimta į nelaisvę daug Švitrigailos karių.'
+  santrauka: 'Livonijos magistras Kerskorfas žuvo Pabaisko, arba Šventosios, mūšyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dar nesuspėję į mūšį
@@ -87,5 +80,4 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]

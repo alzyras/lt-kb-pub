@@ -24,22 +24,15 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 
 ## Teiginiai
 
-<a id="claim-t-74188"></a>
-- t-001
-  global_id: t-74188
-  teiginys: 'Kadangi Maskva visur stengėsi pakenkti Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš Lietuvą – sovietai sakė neliksią stebėtojai.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-74189"></a>
-- t-002
+- t-001
   global_id: t-74189
-  teiginys: 'Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui.'
+  teiginys: 'Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-74190"></a>
-- t-003
+- t-002
   global_id: t-74190
   teiginys: 'Klaipėdos krašto surašymo duomenimis, krašte gyveno 37 000 lietuvių ir 34 000 lietuviškai namuose kalbėjusių „klaipėdiečių“.'
   pagrindžia:
@@ -48,6 +41,7 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Klaipėdos krašto lietuviai politiškai liko ištikimi Vokietijai ir patys sukilti nesiruošė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi Maskva visur stengėsi pakenkti
@@ -62,7 +56,6 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 - c-002
@@ -77,7 +70,7 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

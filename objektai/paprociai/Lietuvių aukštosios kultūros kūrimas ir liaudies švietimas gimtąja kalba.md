@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-67138"></a>
 - t-001
   global_id: t-67138
-  teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
+  teiginys: 'XIX a. pradžioje lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius paskelbė poezijos knygą su „Šlovė žemaičių“.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-183321"></a>
 - t-004
   global_id: t-183321
-  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrę Simonas Daukantas, Simonas Stanevičius ir kiti žemaičių inteligentai plėtojo aukštąją kultūrą lietuvių kalba.'
   pagrindžia:
     - c-003
 
@@ -103,6 +103,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'XIX a. pradžioje lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius paskelbė poezijos knygą su „Šlovė žemaičių“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Parašytas ir išleistas tiems lai-
@@ -133,7 +134,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrę Simonas Daukantas, Simonas Stanevičius ir kiti žemaičių inteligentai plėtojo aukštąją kultūrą lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau tuomet pripažinta, kad

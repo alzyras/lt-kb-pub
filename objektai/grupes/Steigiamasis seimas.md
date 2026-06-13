@@ -38,7 +38,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 <a id="claim-t-74944"></a>
 - t-002
   global_id: t-74944
-  teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
+  teiginys: 'Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 <a id="claim-t-74948"></a>
 - t-005
   global_id: t-74948
-  teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
+  teiginys: 'Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.'
   pagrindžia:
     - c-008
 
@@ -73,7 +73,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 <a id="claim-t-74950"></a>
 - t-007
   global_id: t-74950
-  teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino demokratijos principus.'
   pagrindžia:
     - c-007
 
@@ -101,6 +101,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - t-008
 
 - c-002
+  santrauka: 'Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos pirmųjų metų pajamas į biudžetą teikė dau-
@@ -191,6 +192,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - t-001
 
 - c-007
+  santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino demokratijos principus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo pirmininku
@@ -209,6 +211,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - t-007
 
 - c-008
+  santrauka: 'Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
@@ -245,5 +248,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 - [[objektai/zodynas/Valstybinis žemės fondas]]
 - [[objektai/zodynas/litas]]
 - [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]
+- [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
+- [[objektai/posakiai/„etnologinėmis sienomis“]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
 - [[objektai/zodynas/„etnologinės sienos“]]

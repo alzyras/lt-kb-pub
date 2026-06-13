@@ -45,7 +45,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 <a id="claim-t-07570"></a>
 - t-001
   global_id: t-07570
-  teiginys: '997 m. balandžio 23 d. vietiniai gyventojai nužudė Vaitiekų šventajame miške.'
+  teiginys: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
   pagrindžia:
     - c-004
 
@@ -115,6 +115,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - t-004
 
 - c-004
+  santrauka: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vieną rytą, kai visi trys

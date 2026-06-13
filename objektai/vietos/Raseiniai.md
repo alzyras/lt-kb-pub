@@ -49,7 +49,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-183804"></a>
 - t-003
   global_id: t-183804
-  teiginys: 'Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.'
+  teiginys: 'Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius.'
   pagrindžia:
     - c-005
 
@@ -63,7 +63,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 <a id="claim-t-184395"></a>
 - t-005
   global_id: t-184395
-  teiginys: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
+  teiginys: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   pagrindžia:
     - c-001
 
@@ -84,7 +84,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
+  santrauka: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet jau 1352.II. Kniprodė smarkiai
@@ -152,7 +152,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
     - t-002
 
 - c-005
-  santrauka: 'Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.'
+  santrauka: 'Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos

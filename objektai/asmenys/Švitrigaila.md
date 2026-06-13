@@ -48,7 +48,7 @@ periodo_grupes:
 <a id="claim-t-179690"></a>
 - t-003
   global_id: t-179690
-  teiginys: 'Švitrigaila vėl pabėgo iš Lietuvos: šį kartą į Maskvą, pas totorius ir galiausiai pas Ordiną.'
+  teiginys: 'Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.'
   pagrindžia:
     - c-032
 
@@ -118,7 +118,7 @@ periodo_grupes:
 <a id="claim-t-179701"></a>
 - t-013
   global_id: t-179701
-  teiginys: 'Per Švitrigailos sąjungas prekyba išsiplėtė iki atokiausių Vokietijos žemių.'
+  teiginys: 'Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.'
   pagrindžia:
     - c-022
 
@@ -237,7 +237,7 @@ periodo_grupes:
 <a id="claim-t-179720"></a>
 - t-031
   global_id: t-179720
-  teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė net Lenkijos vainiką arba valdyti Lietuvą, bet ryšyje su Lenkija.'
+  teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą ryšyje su Lenkija.'
   pagrindžia:
     - c-026
 
@@ -258,7 +258,7 @@ periodo_grupes:
 <a id="claim-t-179723"></a>
 - t-034
   global_id: t-179723
-  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  teiginys: 'Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   pagrindžia:
     - c-025
 
@@ -279,7 +279,7 @@ periodo_grupes:
 <a id="claim-t-179726"></a>
 - t-037
   global_id: t-179726
-  teiginys: 'Šiuos pirmuosius Žygimanto potvarkius Vytauto soste nutraukė ketinantis grįžti Švitrigaila.'
+  teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila 1432 m. rudenį vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-016
 
@@ -289,13 +289,6 @@ periodo_grupes:
   teiginys: 'Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   pagrindžia:
     - c-004
-
-<a id="claim-t-179728"></a>
-- t-039
-  global_id: t-179728
-  teiginys: 'Per galingas Švitrigailos sąjungas prekyba išsiplėtė net iki atokiausių Vokietijos žemių.'
-  pagrindžia:
-    - c-005
 
 <a id="claim-t-179729"></a>
 - t-040
@@ -328,7 +321,7 @@ periodo_grupes:
 <a id="claim-t-179734"></a>
 - t-045
   global_id: t-179734
-  teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o jis pats pabėgo į Polocką.'
+  teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.'
   pagrindžia:
     - c-037
 
@@ -447,7 +440,7 @@ periodo_grupes:
     - t-043
 
 - c-005
-  santrauka: 'Per galingas Švitrigailos sąjungas prekyba išsiplėtė net iki atokiausių Vokietijos žemių.'
+  santrauka: 'Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Livonija vis glaudžiau šliejosi prie
@@ -658,6 +651,7 @@ periodo_grupes:
     - t-012
 
 - c-016
+  santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila 1432 m. rudenį vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
@@ -825,6 +819,7 @@ periodo_grupes:
     - t-008
 
 - c-022
+  santrauka: 'Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -884,6 +879,7 @@ periodo_grupes:
     - t-014
 
 - c-025
+  santrauka: 'Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -904,6 +900,7 @@ periodo_grupes:
     - t-034
 
 - c-026
+  santrauka: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą ryšyje su Lenkija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkijos valdantieji sluoksniai Švitrigailai
@@ -1032,6 +1029,7 @@ periodo_grupes:
     - t-036
 
 - c-032
+  santrauka: 'Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik Vytautas buvo kryžiuočių
@@ -1137,6 +1135,7 @@ periodo_grupes:
     - t-004
 
 - c-037
+  santrauka: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     lenkų daliniais. 1432 m.

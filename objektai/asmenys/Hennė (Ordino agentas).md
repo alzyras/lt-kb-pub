@@ -51,14 +51,14 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 <a id="claim-t-184260"></a>
 - t-004
   global_id: t-184260
-  teiginys: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
+  teiginys: 'Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-184261"></a>
 - t-005
   global_id: t-184261
-  teiginys: 'Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.'
+  teiginys: '1427 m. Hennė pranešė apie triumfatorišką Vytauto ekspediciją rytiniu valstybės pakraščiu.'
   pagrindžia:
     - c-005
 
@@ -113,7 +113,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-003
 
 - c-004
-  santrauka: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
+  santrauka: 'Hennė buvo laikomas žymiausiu Vytauto juokdariu ir kartu vokiečių agentu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žiaurumų ir dabar juk pasaulyje yra kiek reik,
@@ -129,7 +129,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-004
 
 - c-005
-  santrauka: 'Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.'
+  santrauka: '1427 m. Hennė pranešė apie triumfatorišką Vytauto ekspediciją rytiniu valstybės pakraščiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Maskvos kunigaikštija, kurioje viešpatavo

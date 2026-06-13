@@ -46,13 +46,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-183224"></a>
-- t-002
-  global_id: t-183224
-  teiginys: 'Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

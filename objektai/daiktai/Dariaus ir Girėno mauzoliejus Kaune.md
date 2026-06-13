@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-77922"></a>
 - t-001
   global_id: t-77922
-  teiginys: 'Kaune laukiančią ore pasirodant lėktuvo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė.'
+  teiginys: 'Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaune laukiančią ore pasirodant lėktu-

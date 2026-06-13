@@ -22,13 +22,14 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
 <a id="claim-t-60366"></a>
 - t-001
   global_id: t-60366
-  teiginys: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
+  teiginys: 'Prūsai nužudė Konradą iš Dortmundo su visa jo šeimyna per žemutinių Prūsijos apygardų puolimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai nužudė Konradą iš Dortmundo su visa jo šeimyna per žemutinių Prūsijos apygardų puolimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,

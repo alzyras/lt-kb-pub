@@ -60,11 +60,12 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
   pagrindžia:
     - c-003
+    - c-008
 
 <a id="claim-t-93049"></a>
 - t-004
   global_id: t-93049
-  teiginys: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
+  teiginys: '1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas.'
   pagrindžia:
     - c-004
 
@@ -121,6 +122,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     - t-003
 
 - c-004
+  santrauka: '1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.

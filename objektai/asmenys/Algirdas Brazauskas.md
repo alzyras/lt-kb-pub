@@ -32,14 +32,14 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 <a id="claim-t-75681"></a>
 - t-001
   global_id: t-75681
-  teiginys: 'Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pageidauja tapti šios organizacijos nare.'
+  teiginys: '1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-75682"></a>
 - t-002
   global_id: t-75682
-  teiginys: 'Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą, ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus arkikatedrą.'
+  teiginys: 'Spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir įgijo didelį visuomenės pasitikėjimą.'
   pagrindžia:
     - c-001
 
@@ -53,27 +53,28 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 <a id="claim-t-75684"></a>
 - t-004
   global_id: t-75684
-  teiginys: '2003 m. Atėnuose Lietuvos prezidentas Algirdas Brazauskas pasirašė stojimo į Europos Sąjungą sutartį.'
+  teiginys: '2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75685"></a>
 - t-005
   global_id: t-75685
-  teiginys: 'Per 1992 m. Seimo rinkimus A. Brazausko vadovaujama LDDP gavo daugumą.'
+  teiginys: 'Per 1992 m. Seimo rinkimus Algirdo Brazausko vadovaujama LDDP gavo daugumą.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-75686"></a>
 - t-006
   global_id: t-75686
-  teiginys: 'Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir.'
+  teiginys: 'Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir įgijo didelį visuomenės pasitikėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kiekvienas žmogus, dalyvaujantis tokioje akcijoje,
@@ -112,6 +113,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-003
 
 - c-003
+  santrauka: '1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
@@ -127,7 +129,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-001
 
 - c-004
-  santrauka: '2003 m. Atėnuose Lietuvos prezidentas Algirdas Brazauskas pasirašė stojimo į Europos Sąjungą sutartį.'
+  santrauka: '2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Narystė ES siejama su stabilumu tų insti-
@@ -184,5 +186,4 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/asmenys/Manfredas Verneris]]

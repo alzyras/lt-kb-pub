@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-75253"></a>
 - t-002
   global_id: t-75253
-  teiginys: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
+  teiginys: 'Per 1990 m. sausio 11–13 d. Michailo Gorbačiovo vizitą Vilniuje Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.'
   pagrindžia:
     - c-002
 

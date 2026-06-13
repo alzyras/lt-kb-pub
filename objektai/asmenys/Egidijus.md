@@ -29,7 +29,14 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 <a id="claim-t-60271"></a>
 - t-001
   global_id: t-60271
-  teiginys: 'Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.'
+  teiginys: 'Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-184059"></a>
+- t-002
+  global_id: t-184059
+  teiginys: 'Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   pagrindžia:
     - c-001
 

@@ -22,27 +22,28 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 <a id="claim-t-60061"></a>
 - t-001
   global_id: t-60061
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
+  teiginys: 'Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60062"></a>
 - t-002
   global_id: t-60062
-  teiginys: 'Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Todėl broliai, matydami, jog jiems gresia nauji karai, atsižadėjo Sartovicų pilies ir ją su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui1.'
+  teiginys: 'Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60063"></a>
 - t-003
   global_id: t-60063
-  teiginys: 'Dusburgietis teigia, kad samboras, matydamas, kad iš savo dalies negalėsiąs gyventi taip iškilniai, kaip dera jo padėties žmogui, atidavė ją broliams, kad šie jį bei jo šeimyną visa kuo aprūpintų.'
+  teiginys: 'Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     213 (208). Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
@@ -59,6 +60,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     - t-001
 
 - c-002
+  santrauka: 'Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     46(45). Apie Svečės pilies pastatymą ir jos užpuolimą
@@ -74,6 +76,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
     - t-002
 
 - c-003
+  santrauka: 'Samboras savo kunigaikštystės dalį atidavė broliams, kad jie aprūpintų jį ir jo šeimyną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
@@ -96,5 +99,6 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
-- [[objektai/asmenys/Mstivojus]]
+- [[objektai/asmenys/Samboras]]
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/asmenys/Mstivojus]]

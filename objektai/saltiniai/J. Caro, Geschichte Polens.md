@@ -27,7 +27,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 <a id="claim-t-121038"></a>
 - t-001
   global_id: t-121038
-  teiginys: 'Caro : Geschichte Polens, III, 1869, 211 p.'
+  teiginys: 'J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.'
   pagrindžia:
     - c-002
 

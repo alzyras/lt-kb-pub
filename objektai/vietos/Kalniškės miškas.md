@@ -28,14 +28,14 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 <a id="claim-t-171634"></a>
 - t-001
   global_id: t-171634
-  teiginys: '1945 m. gegužės 16 dienos mūšyje dalyvavo apie 90 partizanų NKVD pajėgos Partizanus kalniškės miške puolė 1-ojo Pabaltijo fronto NKvp kariuomenės 220-asis Kutuzovo ordino pulkas.'
+  teiginys: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-171635"></a>
 - t-002
   global_id: t-171635
-  teiginys: '1944 m. jis su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
+  teiginys: '1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
   pagrindžia:
     - c-003
 
@@ -83,6 +83,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-004
 
 - c-002
+  santrauka: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     4 ginkluotų partizanų. 1945 m.
@@ -104,6 +105,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-001
 
 - c-003
+  santrauka: '1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Grįžus

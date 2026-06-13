@@ -21,7 +21,7 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 <a id="claim-t-35051"></a>
 - t-001
   global_id: t-35051
-  teiginys: 'Cigala antrame savo atsakyme gina, kad karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.'
+  teiginys: 'Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     - t-002
 
 - c-002
+  santrauka: 'Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Krokuvos profesoriai Romos karalių teisę kitų karū­

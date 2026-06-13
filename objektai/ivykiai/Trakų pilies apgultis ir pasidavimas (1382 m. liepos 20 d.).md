@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-100044"></a>
 - t-001
   global_id: t-100044
-  teiginys: 'Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 , Skirgailai pasisekė įgulą įtikinti pasiduoti (VII.20).'
+  teiginys: '1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį^16 ,

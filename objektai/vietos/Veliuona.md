@@ -33,7 +33,7 @@ saugoti Dubysos upyną.
 <a id="claim-t-180736"></a>
 - t-001
   global_id: t-180736
-  teiginys: 'Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį manytume buvus.'
+  teiginys: 'Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje.'
   pagrindžia:
     - c-009
 
@@ -42,7 +42,7 @@ saugoti Dubysos upyną.
   global_id: t-180737
   teiginys: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-180738"></a>
 - t-003
@@ -68,16 +68,16 @@ saugoti Dubysos upyną.
 <a id="claim-t-180741"></a>
 - t-006
   global_id: t-180741
-  teiginys: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
+  teiginys: 'Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių.'
   pagrindžia:
-    - c-017
+    - c-016
 
 <a id="claim-t-180743"></a>
 - t-008
   global_id: t-180743
   teiginys: 'Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.'
   pagrindžia:
-    - c-016
+    - c-015
 
 <a id="claim-t-180744"></a>
 - t-009
@@ -89,16 +89,16 @@ saugoti Dubysos upyną.
 <a id="claim-t-180746"></a>
 - t-010
   global_id: t-180746
-  teiginys: 'Atvykus naujai pagalbai Ordinui, „daug vokiečių, anglų“, kryžiuočiai vėl veikė prie Nemuno, rugpjūtį magistrui pavyko sunaikinti svarbią lietuvių Veliuonos pilį.'
+  teiginys: 'Atvykus naujai pagalbai Ordinui, kryžiuočiai vėl veikė prie Nemuno ir rugpjūtį sunaikino svarbią lietuvių Veliuonos pilį.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-180747"></a>
 - t-011
   global_id: t-180747
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.'
   pagrindžia:
-    - c-018
+    - c-017
 
 <a id="claim-t-180748"></a>
 - t-012
@@ -107,93 +107,87 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-008
 
-<a id="claim-t-180749"></a>
-- t-013
-  global_id: t-180749
-  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
-  pagrindžia:
-    - c-011
-
 <a id="claim-t-180751"></a>
-- t-014
+- t-013
   global_id: t-180751
   teiginys: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-180752"></a>
-- t-015
+- t-014
   global_id: t-180752
-  teiginys: 'Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą.'
+  teiginys: 'Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-180754"></a>
-- t-017
+- t-016
   global_id: t-180754
   teiginys: 'Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-180755"></a>
-- t-018
+- t-017
   global_id: t-180755
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-180756"></a>
-- t-019
+- t-018
   global_id: t-180756
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-180757"></a>
-- t-020
+- t-019
   global_id: t-180757
-  teiginys: 'Tais metais maršalo vadovaujama Ordino kariuomenė, su talkininkais iš Vokietijos atplaukusi laivais, puolė Veliuonos pilį, padarė jai daug žalos.'
+  teiginys: '1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-180758"></a>
-- t-021
+- t-020
   global_id: t-180758
   teiginys: 'Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-180759"></a>
-- t-022
+- t-021
   global_id: t-180759
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   pagrindžia:
-    - c-015
+    - c-014
 
 <a id="claim-t-180760"></a>
-- t-023
+- t-022
   global_id: t-180760
   teiginys: 'M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-185171"></a>
-- t-025
+- t-024
   global_id: t-185171
   teiginys: 'Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.'
   pagrindžia:
-    - c-019
+    - c-018
 
 <a id="claim-t-185172"></a>
-- t-026
+- t-025
   global_id: t-185172
   teiginys: 'Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   pagrindžia:
-    - c-020
+    - c-019
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Grįždami jie sudegino
@@ -208,7 +202,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -227,9 +221,10 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
 - c-003
+  santrauka: '1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1360 m.
@@ -246,7 +241,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -263,7 +258,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
     - t-009
 
 - c-005
@@ -277,7 +272,7 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -294,7 +289,7 @@ saugoti Dubysos upyną.
   statusas: verified
   pagrindžia:
     - t-005
-    - t-017
+    - t-016
 
 - c-007
   santrauka: 'Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
@@ -329,7 +324,7 @@ saugoti Dubysos upyną.
   statusas: verified
   pagrindžia:
     - t-003
-    - t-014
+    - t-013
 
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -346,9 +341,10 @@ saugoti Dubysos upyną.
   statusas: verified
   pagrindžia:
     - t-012
-    - t-019
+    - t-018
 
 - c-009
+  santrauka: 'Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
@@ -385,67 +381,9 @@ saugoti Dubysos upyną.
   statusas: verified
   pagrindžia:
     - t-004
-    - t-023
+    - t-022
 
 - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Valikonytė I. 78-79
-    Valimantaičiai 368
-    Valimantaitis Kęsgailą 354
-    Valkaviskas (Vilkaviškis) 88, 125,
-    164, 215, 286
-    Valuinė 28, žr. Volinija
-    Varakauskas R. 42, 77, 123, 151,
-    186, 192, 202, 210, 224, 232
-    Varėna 98, 108, 356
-    Varmė (Varmija) 220
-    Varnėnai 177
-    Varniai 46, 171, 177, 226, 351
-    Varputis, dievaitis 143
-    Varšuva 39, 45, 47 ; Varšuvos archy­
-    vas 314
-    Vasario 16 aktas 34, 40
-    Vasibutas 335
-    Vasil’evskij V. 232
-    Vasilkas Romanaitis, Volinijos kng.
-    138, 163, 165, 194, 200
-    Vasmer M. 116, 122, 124, 128, 159
-    Vatikano archyvas 51, 75, 207
-    Vavelio pilis 284
-    Vazų dinastija 5, 34, 35, 39, 48, 64
-    Veblaitis P. 257
-    Vėbra R. 81
-    Vechra, upė 287, 312
-    Vedrošos kautynės 39
-    Veiviržo upė 180
-    Vėjukų pilis 227, 235
-    Velikaja, upė 158
-    Veliuona 77, 100, 105, 216, 236, 237,
-    244, 251, 256, 345-347, 352, 353,
-    357, 358, 360
-    Vėluva, Prūsuose 250, 252
-    Vencelis, Čekijos karalius 62, 373,
-    žr. Vaclovas, Čekijos kar.
-    Venclova A. 92
-    Vengrija 6, 83, 102, 103, 249, 259,
-    260, 267, 269, 275, 282-284, 287,
-    293, 312, 336
-    Venta 115, 127, 180, 187
-    Veredava 207
-    Verona 167
-    Versalio taika 30, 41
-    Veršvai 76, 106, 147
-    Vestfalija 202
-    Viazma 313, 320, 321
-    Vidas ar Vilkas, Traidenio tėvas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-012
   santrauka: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -464,7 +402,8 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-002
 
-- c-013
+- c-012
+  santrauka: 'Atvykus naujai pagalbai Ordinui, kryžiuočiai vėl veikė prie Nemuno ir rugpjūtį sunaikino svarbią lietuvių Veliuonos pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau tą patį vykdė šioje
@@ -486,7 +425,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-010
 
-- c-014
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Senoji pi­
@@ -503,7 +442,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-007
 
-- c-015
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mažas upeliu­
@@ -518,9 +457,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-021
 
-- c-016
+- c-015
   santrauka: 'Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -547,9 +486,10 @@ saugoti Dubysos upyną.
   statusas: verified
   pagrindžia:
     - t-008
-    - t-024
+    - t-023
 
-- c-017
+- c-016
+  santrauka: 'Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai rytiniame savo šone Lietuva
@@ -564,7 +504,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-006
 
-- c-018
+- c-017
   santrauka: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -582,7 +522,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-011
 
-- c-019
+- c-018
   santrauka: 'Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -605,9 +545,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024
 
-- c-020
+- c-019
   santrauka: 'Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -639,4 +579,4 @@ saugoti Dubysos upyną.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-025

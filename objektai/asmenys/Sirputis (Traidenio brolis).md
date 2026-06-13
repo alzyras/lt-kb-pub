@@ -45,7 +45,7 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 <a id="claim-t-79158"></a>
 - t-003
   global_id: t-79158
-  teiginys: 'Senovės lietuvių tradicijų besilaikantis Traidenis didžiausias pastangas sutelkė gynybai nuo kryžiuočių, o savo broliams, priėmusiems graikų stačiatikių tikėjimą, buvo pavedes pietrytinių valdų ribų apsaugą.'
+  teiginys: 'Rytų krikščionybę perėmęs Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją.'
   pagrindžia:
     - c-002
 

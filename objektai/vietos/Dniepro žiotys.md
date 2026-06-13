@@ -29,7 +29,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 <a id="claim-t-67818"></a>
 - t-001
   global_id: t-67818
-  teiginys: 'Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė tvirtovę « Tavan’ » (šv.'
+  teiginys: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
@@ -68,7 +69,7 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
     - t-002
 
 - c-003
-  santrauka: 'Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė tvirtovę « Tavan’ » (šv.'
+  santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gavę sau privilegijas iš

@@ -45,7 +45,7 @@ amziai:
 <a id="claim-t-184397"></a>
 - t-003
   global_id: t-184397
-  teiginys: 'Nuo Lenkijos pakraščio, nuo Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos aukštupių (Rževo).'
+  teiginys: 'Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu.'
   pagrindžia:
     - c-003
 
@@ -83,7 +83,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Nuo Lenkijos pakraščio, nuo Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos aukštupių (Rževo).'
+  santrauka: 'Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant

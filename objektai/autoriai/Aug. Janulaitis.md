@@ -22,13 +22,14 @@ Janulaitis, nors dar labiau daugiadarbis. Surinkdamas daug archyvinės medžiago
 <a id="claim-t-30563"></a>
 - t-001
   global_id: t-30563
-  teiginys: 'Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).'
+  teiginys: 'Aug. Janulaitis, surinkęs daug archyvinės medžiagos, parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aug. Janulaitis, surinkęs daug archyvinės medžiagos, parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),

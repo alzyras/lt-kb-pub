@@ -25,13 +25,14 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
 <a id="claim-t-80655"></a>
 - t-001
   global_id: t-80655
-  teiginys: 'Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spaudos skyriaus viršininku, rezistencinių laikraščių „Laisvės žvalgas“ ir „Kovos keliu“ redaktoriumi.'
+  teiginys: 'Tapęs partizanu, šis asmuo prisidėjo organizuojant visų Lietuvos partizanų Vyriausiąją vadovybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tapęs partizanu, šis asmuo prisidėjo organizuojant visų Lietuvos partizanų Vyriausiąją vadovybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tapes partizanu, buvo paskirtas Tauro apy-

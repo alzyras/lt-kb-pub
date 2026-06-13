@@ -3,17 +3,11 @@ tipas: ivykis
 pavadinimas: 'Vytauto karūnacijos byla'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1934 m.'
-date_start: '1934'
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - valstybė
-amziai:
-  - 'XX'
 ---
 # Vytauto karūnacijos byla
 
@@ -53,13 +47,6 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-183287"></a>
-- t-003
-  global_id: t-183287
-  teiginys: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,7 +66,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

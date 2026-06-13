@@ -37,7 +37,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 <a id="claim-t-58621"></a>
 - t-002
   global_id: t-58621
-  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  teiginys: 'Ordino broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.'
   pagrindžia:
     - c-002
 

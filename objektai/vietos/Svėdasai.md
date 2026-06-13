@@ -19,13 +19,14 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 <a id="claim-t-42174"></a>
 - t-001
   global_id: t-42174
-  teiginys: 'Z. Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
+  teiginys: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po nepavykusio

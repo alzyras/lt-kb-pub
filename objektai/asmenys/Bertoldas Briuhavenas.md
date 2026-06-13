@@ -53,4 +53,5 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)]]

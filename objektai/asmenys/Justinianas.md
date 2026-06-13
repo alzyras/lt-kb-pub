@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Justinianui viešpataujant Belizarijus pasinaudojo Getero vadovaujamų herulų pagalba ir nugalėjo persus.
+Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
 
 ## Teiginiai
 
 <a id="claim-t-186121"></a>
 - t-001
   global_id: t-186121
-  teiginys: 'Justinianui viešpataujant Belizarijus pasinaudojo Getero vadovaujamų herulų pagalba ir nugalėjo persus.'
+  teiginys: 'Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Justinianui viešpataujant Belizarijus pasinaudojo Getero vadovaujamų herulų pagalba ir nugalėjo persus.'
+  santrauka: 'Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tačiau didelė herulų da­

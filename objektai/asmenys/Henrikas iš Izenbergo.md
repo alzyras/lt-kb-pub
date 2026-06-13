@@ -30,13 +30,14 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 <a id="claim-t-60313"></a>
 - t-001
   global_id: t-60313
-  teiginys: 'Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas.'
+  teiginys: '1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti Girdavų pilį Bartos žemėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti Girdavų pilį Bartos žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     360 (353). Apie daugybės miestų bei pilių pastatymą

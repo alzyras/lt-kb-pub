@@ -62,3 +62,4 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 - [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/daiktai/Vytauto ženklas]]

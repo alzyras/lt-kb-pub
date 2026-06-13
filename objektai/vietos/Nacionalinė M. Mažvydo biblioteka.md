@@ -28,13 +28,14 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 <a id="claim-t-41954"></a>
 - t-002
   global_id: t-41954
-  teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos punktas.'
+  teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios medicinos pagalbos ir medicininio vadovavimo punktą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mažesni šaudmenys leido kariams nešiotis didesnes jų atsargas

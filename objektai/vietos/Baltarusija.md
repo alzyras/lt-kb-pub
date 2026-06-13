@@ -37,28 +37,28 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 <a id="claim-t-76166"></a>
 - t-002
   global_id: t-76166
-  teiginys: 'Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.'
+  teiginys: '1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-76167"></a>
 - t-003
   global_id: t-76167
-  teiginys: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
+  teiginys: 'Lietuvos Didžiosios Kunigaikštijos teritorija, apėmusi ir dabartinę Baltarusiją, ilgainiui pradėta vadinti Lietuva.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-76168"></a>
 - t-004
   global_id: t-76168
-  teiginys: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
+  teiginys: 'Lietuvos ir Baltarusijos politinius santykius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-76169"></a>
 - t-005
   global_id: t-76169
-  teiginys: 'Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina.'
+  teiginys: 'ATR ir LDK erdvėje susiformavo keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija ir Ukraina.'
   pagrindžia:
     - c-004
 
@@ -123,6 +123,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-001
 
 - c-003
+  santrauka: 'Lietuvos ir Baltarusijos politinius santykius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     bendradarbiavimo ir dėl valstybės sienos. Gerai klostėsi ekonominiai san-
@@ -157,6 +158,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-005
 
 - c-005
+  santrauka: '1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe –

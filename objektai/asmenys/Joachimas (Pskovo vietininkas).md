@@ -28,13 +28,14 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 <a id="claim-t-87706"></a>
 - t-001
   global_id: t-87706
-  teiginys: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
+  teiginys: '1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palenkdamas rusų bojari-
@@ -76,3 +77,4 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 - [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]
 - [[objektai/zodynas/posadnikas bojarinas vietininkas]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Bajorai]]

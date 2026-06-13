@@ -34,7 +34,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64221"></a>
 - t-001
   global_id: t-64221
-  teiginys: 'Dusburgietis, pvz., tiksliai nurodo, kada buvo išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d. (III, 354).'
+  teiginys: 'Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.'
   pagrindžia:
     - c-004
 
@@ -55,7 +55,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64224"></a>
 - t-004
   global_id: t-64224
-  teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
+  teiginys: 'Norint atremti Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-003
 
@@ -69,14 +69,14 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64226"></a>
 - t-006
   global_id: t-64226
-  teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
+  teiginys: 'Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-64227"></a>
 - t-007
   global_id: t-64227
-  teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
+  teiginys: 'Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai po sumos kasdien skaitytų evangeliją.'
   pagrindžia:
     - c-011
 
@@ -90,21 +90,21 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64229"></a>
 - t-009
   global_id: t-64229
-  teiginys: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
+  teiginys: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-64230"></a>
 - t-010
   global_id: t-64230
-  teiginys: 'Dusburgietis teigia, kad veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame bus taisytina.'
+  teiginys: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-64231"></a>
 - t-011
   global_id: t-64231
-  teiginys: 'Dusburgietis teigia, kad su šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių, neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo.'
+  teiginys: '1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.'
   pagrindžia:
     - c-005
 
@@ -115,24 +115,17 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   pagrindžia:
     - c-010
 
-<a id="claim-t-64233"></a>
-- t-013
-  global_id: t-64233
-  teiginys: 'Veikalas buvo įteiktas Verneriui peržiūrėti ir pataisyti, jei kas jame būtų taisytina.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-64234"></a>
 - t-014
   global_id: t-64234
-  teiginys: 'Dusburgietis teigia, kad 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
+  teiginys: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-64235"></a>
 - t-015
   global_id: t-64235
-  teiginys: 'Dusburgietis teigia, kad apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras, tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas vyriausiojoje būstinėje.'
+  teiginys: 'Verneris iš Orzelno 1324 m. liepos 6 d. Marienburge buvo išrinktas keturioliktuoju didžiuoju magistru.'
   pagrindžia:
     - c-012
 
@@ -151,6 +144,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-008
 
 - c-002
+  santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio dedikacija kronikos pradžioje rodo, kad  jis buvęs Kryžiuočių ordino
@@ -182,6 +176,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-004
 
 - c-004
+  santrauka: 'Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis, pvz.,  tiksliai nurodo, kada buvo
@@ -220,6 +215,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-017
 
 - c-006
+  santrauka: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     20. Apie didžiojo magistro mirtį
@@ -262,6 +258,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-016
 
 - c-008
+  santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
@@ -274,6 +271,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-010
 
 - c-009
+  santrauka: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
@@ -332,6 +330,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - t-003
 
 - c-012
+  santrauka: 'Verneris iš Orzelno 1324 m. liepos 6 d. Marienburge buvo išrinktas keturioliktuoju didžiuoju magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą
@@ -381,7 +380,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
 - [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]
 - [[objektai/asmenys/Jonas iš Endorfo]]
-- [[objektai/asmenys/Jėzus Kristus]]
 - [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
-- [[objektai/zodynas/mišparai]]
 - [[objektai/zodynas/suma]]
+- [[objektai/asmenys/Jėzus Kristus]]
+- [[objektai/zodynas/mišparai]]

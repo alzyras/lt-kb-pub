@@ -85,7 +85,7 @@ Nenurodyta
 <a id="claim-t-183334"></a>
 - t-006
   global_id: t-183334
-  teiginys: 'Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti.'
+  teiginys: 'Po 1863–1864 m. sukilimo vyskupas Motiejus Valančius per kunigus ragino kaimiečius neleisti vaikų į rusiškas mokyklas.'
   pagrindžia:
     - c-003
 
@@ -162,4 +162,5 @@ Nenurodyta
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
 - [[objektai/zodynas/gubernija]]
+- [[objektai/asmenys/Motiejus]]
 - [[objektai/zodynas/daraktorinės mokyklėlės]]

@@ -38,13 +38,14 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 <a id="claim-t-68691"></a>
 - t-002
   global_id: t-68691
-  teiginys: '27 d. prie Melno ežero (netoli Vislos)^1 ).'
+  teiginys: '1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik

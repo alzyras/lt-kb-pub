@@ -28,7 +28,7 @@ amziai:
 <a id="claim-t-78114"></a>
 - t-001
   global_id: t-78114
-  teiginys: 'Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.'
+  teiginys: 'A. Šapokos redaguota 1936 m. Lietuvos istorija vadinama bene žinomiausia tautine Lietuvos valstybės ir lietuvių tautos istorija.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Šapokos redaguota 1936 m. Lietuvos istorija vadinama bene žinomiausia tautine Lietuvos valstybės ir lietuvių tautos istorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių

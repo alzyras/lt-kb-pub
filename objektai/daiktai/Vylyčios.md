@@ -37,7 +37,7 @@ Nenurodyta
 <a id="claim-t-08348"></a>
 - t-001
   global_id: t-08348
-  teiginys: 'Perūno atvaizde rankoje buvo vylyčios.'
+  teiginys: 'Vienas aprašytas stabas rankoje turėjo vylyčias.'
   pagrindžia:
     - c-001
 
@@ -51,6 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienas aprašytas stabas rankoje turėjo vylyčias.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tarp tų stabų vienas buvęs

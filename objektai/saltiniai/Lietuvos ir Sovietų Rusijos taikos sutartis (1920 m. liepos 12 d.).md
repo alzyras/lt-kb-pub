@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-75461"></a>
 - t-001
   global_id: t-75461
-  teiginys: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
+  teiginys: '1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą.'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ amziai:
 <a id="claim-t-75468"></a>
 - t-006
   global_id: t-75468
-  teiginys: 'Pagal abiejų tų sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
+  teiginys: 'Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
   pagrindžia:
     - c-005
 
@@ -76,30 +76,24 @@ amziai:
   pagrindžia:
     - c-004
 
-<a id="claim-t-75470"></a>
-- t-008
-  global_id: t-75470
-  teiginys: 'Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-75471"></a>
 - t-009
   global_id: t-75471
-  teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
+  teiginys: 'Prie 1920 m. taikos sutarties 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183368"></a>
 - t-011
   global_id: t-183368
-  teiginys: 'Lietuviai sutiko įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
+  teiginys: 'Lietuviai sutiko į 1920 m. taikos sutartį įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
   pagrindžia:
     - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie 1920 m. taikos sutarties 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apskritai 1920 m. liepos 12 d.
@@ -173,6 +167,7 @@ amziai:
     - t-007
 
 - c-005
+  santrauka: 'Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal abiejų tų sutarčių punktus dėl
@@ -190,6 +185,7 @@ amziai:
     - t-006
 
 - c-006
+  santrauka: '1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
@@ -203,7 +199,7 @@ amziai:
     - t-008
 
 - c-007
-  santrauka: 'Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.'
+  santrauka: '1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams

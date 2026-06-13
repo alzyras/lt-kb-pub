@@ -27,7 +27,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 <a id="claim-t-183201"></a>
 - t-002
   global_id: t-183201
-  teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  teiginys: 'Vyšnioveckiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.'
   pagrindžia:
     - c-001
 
@@ -61,6 +61,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
-- [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Sanguškos]]
+- [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Čartoriskiai]]

@@ -45,14 +45,14 @@ Nenurodyta
 <a id="claim-t-78718"></a>
 - t-001
   global_id: t-78718
-  teiginys: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
+  teiginys: 'Teresboro stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78719"></a>
 - t-002
   global_id: t-78719
-  teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
+  teiginys: 'Kunigas A. Mackevičius Teresboro stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-002
 

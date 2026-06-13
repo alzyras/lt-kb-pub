@@ -30,7 +30,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 <a id="claim-t-65147"></a>
 - t-001
   global_id: t-65147
-  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.'
   pagrindžia:
     - c-001
 
@@ -41,9 +41,24 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   pagrindžia:
     - c-002
 
+<a id="claim-t-183125"></a>
+- t-003
+  global_id: t-183125
+  teiginys: 'Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-183126"></a>
+- t-004
+  global_id: t-183126
+  teiginys: 'Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karaliaučiuje žymaus
@@ -87,7 +102,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - t-002
 
 - c-003
-  santrauka: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
+  santrauka: 'Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
@@ -104,7 +119,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - t-003
 
 - c-004
-  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  santrauka: 'Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau tuomet pripažinta, kad
@@ -138,6 +153,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 - [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/autoriai/S. Daukantas]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

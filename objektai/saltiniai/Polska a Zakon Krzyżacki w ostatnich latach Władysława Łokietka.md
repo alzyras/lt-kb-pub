@@ -28,13 +28,14 @@ amziai:
 <a id="claim-t-31889"></a>
 - t-001
   global_id: t-31889
-  teiginys: '„Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m. ir daug rašo apie 1325 m. sutartį.'
+  teiginys: 'St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,

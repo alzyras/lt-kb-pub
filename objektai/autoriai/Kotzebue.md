@@ -22,13 +22,14 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 <a id="claim-t-88072"></a>
 - t-001
   global_id: t-88072
-  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
+  teiginys: 'Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nė kiek nenorėdami su­
@@ -60,7 +61,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
-- [[objektai/grupes/Hanza Šiaurės Vokietijos pajūrio miestai]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]

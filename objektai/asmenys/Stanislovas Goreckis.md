@@ -27,13 +27,14 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 <a id="claim-t-87579"></a>
 - t-001
   global_id: t-87579
-  teiginys: 'Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.'
+  teiginys: 'Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
@@ -66,4 +67,4 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/bursa konviktas]]
-- [[objektai/zodynas/suma]]
+- [[objektai/zodynas/fundacija]]

@@ -32,41 +32,42 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 <a id="claim-t-59900"></a>
 - t-001
   global_id: t-59900
-  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
+  teiginys: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-59901"></a>
 - t-002
   global_id: t-59901
-  teiginys: 'Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol.'
+  teiginys: 'Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59902"></a>
 - t-003
   global_id: t-59902
-  teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
+  teiginys: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59903"></a>
 - t-004
   global_id: t-59903
-  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas.'
+  teiginys: '1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59904"></a>
 - t-005
   global_id: t-59904
-  teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
+  teiginys: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
@@ -82,6 +83,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-004
 
 - c-002
+  santrauka: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
@@ -96,6 +98,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-003
 
 - c-003
+  santrauka: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
@@ -130,6 +133,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     - t-006
 
 - c-005
+  santrauka: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
@@ -155,8 +159,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/reskriptas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]
+- [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.)]]
 - [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]
 - [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]
-- [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]
 - [[objektai/zodynas/bulė]]
-- [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.)]]

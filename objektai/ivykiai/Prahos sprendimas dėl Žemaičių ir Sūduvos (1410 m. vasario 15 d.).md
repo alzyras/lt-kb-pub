@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-97031"></a>
 - t-001
   global_id: t-97031
-  teiginys: 'Pusbroliai nesutiko su tokiu sprendimu.'
+  teiginys: 'Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pusbroliai nesutiko su tokiu sprendimu.

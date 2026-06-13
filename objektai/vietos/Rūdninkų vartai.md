@@ -22,13 +22,14 @@ Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kel
 <a id="claim-t-86231"></a>
 - t-001
   global_id: t-86231
-  teiginys: 'Mikalojaus kapinių netoli Rūdninkų vartų, o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir aikštes, ir namus, net su gyventojais11.'
+  teiginys: 'Vladislovas Jogaila skyrė katedrai ir vyskupams Vilniaus plotą iki Šv. Mikalojaus kapinių netoli Rūdninkų vartų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovas Jogaila skyrė katedrai ir vyskupams Vilniaus plotą iki Šv. Mikalojaus kapinių netoli Rūdninkų vartų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ati­

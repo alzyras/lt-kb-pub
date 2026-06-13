@@ -33,7 +33,7 @@ Nenurodyta
 <a id="claim-t-09597"></a>
 - t-001
   global_id: t-09597
-  teiginys: 'Šeimininkai stebėdavo aplinką ir perspėdavo partizanus apie pavojų.'
+  teiginys: 'Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų.'
   pagrindžia:
     - c-001
 

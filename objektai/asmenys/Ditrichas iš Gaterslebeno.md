@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Br
 <a id="claim-t-60265"></a>
 - t-001
   global_id: t-60265
-  teiginys: 'Dusburgietis teigia, kad apie brolį Ditrichą, aštuntą Prūsijos magistrą Brolis Ditrichas iš Gaterslebeno, aštuntas Prūsijos žemės magistras, vadovavo šešerius metus405, pradėjęs 1271 viešpaties metais.'
+  teiginys: 'Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     132 (127). Apie brolį Ditrichą, aštuntą Prūsijos magistrą

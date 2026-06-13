@@ -37,7 +37,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 <a id="claim-t-110179"></a>
 - t-003
   global_id: t-110179
-  teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  teiginys: 'Vilniaus vyskupijos bažnyčiose kovota už lietuvių kalbos teises, o ši kova neretai virsdavo lenkų ir lietuvių muštynėmis.'
   pagrindžia:
     - c-005
 
@@ -177,6 +177,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-005
 
 - c-005
+  santrauka: 'Vilniaus vyskupijos bažnyčiose kovota už lietuvių kalbos teises, o ši kova neretai virsdavo lenkų ir lietuvių muštynėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartu su

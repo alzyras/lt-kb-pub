@@ -43,7 +43,7 @@ amziai:
 <a id="claim-t-181429"></a>
 - t-003
   global_id: t-181429
-  teiginys: 'Unitarinė, unifikacinė SSRS politika gerokai nusmukdė Latvijos ir Estijos lygį, bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijome kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus.'
+  teiginys: 'SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.'
   pagrindžia:
     - c-004
 
@@ -57,7 +57,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
+  santrauka: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ORiebiniai
@@ -110,6 +110,7 @@ amziai:
     - t-001
 
 - c-004
+  santrauka: 'SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keliais, autostrada, geležinkeliais, galų

@@ -18,21 +18,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Kazimieras atidavė Podolės kunigaikščiui Aleksandrui Narimantaičiui Volynę su sąlyga dėl Lenkijos karaliaus viršenybės.
+Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 
 ## Teiginiai
 
 <a id="claim-t-186175"></a>
 - t-001
   global_id: t-186175
-  teiginys: 'Kazimieras atidavė Podolės kunigaikščiui Aleksandrui Narimantaičiui Volynę su sąlyga dėl Lenkijos karaliaus viršenybės.'
+  teiginys: 'Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kazimieras atidavė Podolės kunigaikščiui Aleksandrui Narimantaičiui Volynę su sąlyga dėl Lenkijos karaliaus viršenybės.'
+  santrauka: 'Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tais pačiais metais

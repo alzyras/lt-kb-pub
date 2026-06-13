@@ -28,13 +28,14 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
 <a id="claim-t-87846"></a>
 - t-001
   global_id: t-87846
-  teiginys: 'Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.'
+  teiginys: 'Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA

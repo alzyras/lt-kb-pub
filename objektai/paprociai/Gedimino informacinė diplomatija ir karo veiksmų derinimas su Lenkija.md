@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-67075"></a>
 - t-001
   global_id: t-67075
-  teiginys: 'Šiam tikslui jis pasitelkė ne tik karines, bet ir informacines priemones, savo laiškais popiežiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip sumažindamas Vakarų Europos krikščionių teikiamą paramą kryžiuočiams.'
+  teiginys: 'Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.'
   pagrindžia:
     - c-001
 
@@ -84,7 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Šiam tikslui jis pasitelkė ne tik karines, bet ir informacines priemones, savo laiškais popiežiui ir vakarų visuomenei gerindamas Lietuvos įvaizdį ir taip sumažindamas Vakarų Europos krikščionių teikiamą paramą kryžiuočiams.'
+  santrauka: 'Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiam tikslui jis pasitelkė ne

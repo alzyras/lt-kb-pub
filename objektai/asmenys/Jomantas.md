@@ -30,7 +30,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 <a id="claim-t-63713"></a>
 - t-001
   global_id: t-63713
-  teiginys: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
+  teiginys: 'Vytautas, užėmęs Smolenską, paskyrė kunigaikštį Jomantą savo vietininku mieste.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas, užėmęs Smolenską, paskyrė kunigaikštį Jomantą savo vietininku mieste.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos valdovas Vytautas,

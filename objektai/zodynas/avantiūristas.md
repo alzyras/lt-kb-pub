@@ -26,13 +26,14 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
 <a id="claim-t-36768"></a>
 - t-001
   global_id: t-36768
-  teiginys: 'Iki 1392 m. Vytautas atrodė nepastovus avantiūristas, o nuo 1392 m. virto rimtu valdovu monarchu.'
+  teiginys: '1930 m. veikale Vytautas iki 1392 m. vaizduojamas kaip nepastovus avantiūristas, o nuo 1392 m. - kaip rimtas valdovas monarchas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1930 m. veikale Vytautas iki 1392 m. vaizduojamas kaip nepastovus avantiūristas, o nuo 1392 m. - kaip rimtas valdovas monarchas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Atitinkamai keičiasi ir jo elgesys. Jeigu iki tol Vytautas

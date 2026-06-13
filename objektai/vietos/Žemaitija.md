@@ -74,7 +74,7 @@ amziai:
 <a id="claim-t-123005"></a>
 - t-004
   global_id: t-123005
-  teiginys: 'Vytautas brendo audringu Lietuvos valstybės laikotarpiu, kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač smarkiai.'
+  teiginys: 'Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.'
   pagrindžia:
     - c-001
 
@@ -109,14 +109,14 @@ amziai:
 <a id="claim-t-123010"></a>
 - t-009
   global_id: t-123010
-  teiginys: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui.'
+  teiginys: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje.'
   pagrindžia:
     - c-035
 
 <a id="claim-t-123011"></a>
 - t-010
   global_id: t-123011
-  teiginys: 'Dusburgietis teigia, kad 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos.'
+  teiginys: '1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   pagrindžia:
     - c-029
 
@@ -179,7 +179,7 @@ amziai:
 <a id="claim-t-123020"></a>
 - t-019
   global_id: t-123020
-  teiginys: 'Apie 880 m. tremtiniai iš Danijos persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  teiginys: 'Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   pagrindžia:
     - c-031
 
@@ -207,7 +207,7 @@ amziai:
 <a id="claim-t-123024"></a>
 - t-023
   global_id: t-123024
-  teiginys: 'Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  teiginys: '1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
   pagrindžia:
     - c-014
 
@@ -239,17 +239,10 @@ amziai:
   pagrindžia:
     - c-013
 
-<a id="claim-t-123029"></a>
-- t-028
-  global_id: t-123029
-  teiginys: 'Pasakojama, kad tremtiniai persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
-  pagrindžia:
-    - c-031
-
 <a id="claim-t-123030"></a>
 - t-029
   global_id: t-123030
-  teiginys: 'Tačiau pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
+  teiginys: 'Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
   pagrindžia:
     - c-037
 
@@ -263,14 +256,14 @@ amziai:
 <a id="claim-t-123032"></a>
 - t-031
   global_id: t-123032
-  teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
+  teiginys: 'Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
   pagrindžia:
     - c-017
 
 <a id="claim-t-123033"></a>
 - t-032
   global_id: t-123033
-  teiginys: 'Žemaitijoje buvę Milžinų Kapais vadinti didžiuliai pilkapiai laikomi Skandinavijos įtakos Lietuvoje paminklais.'
+  teiginys: 'Balińskis Žemaitijoje Milžinų Kapais vadintus didžiulius pilkapius laikė Skandinavijos įtakos Lietuvoje liudijimu.'
   pagrindžia:
     - c-019
 
@@ -312,7 +305,7 @@ amziai:
 <a id="claim-t-123039"></a>
 - t-038
   global_id: t-123039
-  teiginys: 'Dusburgietis teigia, kad autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
+  teiginys: 'Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.'
   pagrindžia:
     - c-023
 
@@ -340,7 +333,7 @@ amziai:
 <a id="claim-t-123043"></a>
 - t-042
   global_id: t-123043
-  teiginys: 'Vytautui priskirta bažnyčios fundacija laikyta viena pirmųjų Žemaitijoje po krikščionybės įvedimo.'
+  teiginys: 'Vytautui priskirta pirmoji bažnyčios fundacija buvo laikoma viena pirmųjų Žemaitijoje po krikščionybės įvedimo.'
   pagrindžia:
     - c-034
 
@@ -354,14 +347,14 @@ amziai:
 <a id="claim-t-123046"></a>
 - t-044
   global_id: t-123046
-  teiginys: 'Dusburgietis teigia, kad dievo ir švenčiausios panelės globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333).'
+  teiginys: 'Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.'
   pagrindžia:
     - c-032
 
 <a id="claim-t-123047"></a>
 - t-045
   global_id: t-123047
-  teiginys: 'Taip po Žalgirio mūšio atsirado Vytauto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.'
+  teiginys: 'Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija.'
   pagrindžia:
     - c-020
 
@@ -382,7 +375,7 @@ amziai:
 <a id="claim-t-123050"></a>
 - t-048
   global_id: t-123050
-  teiginys: 'Dusburgietis teigia, kad antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai.'
+  teiginys: 'Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.'
   pagrindžia:
     - c-026
 
@@ -410,14 +403,14 @@ amziai:
 <a id="claim-t-123054"></a>
 - t-052
   global_id: t-123054
-  teiginys: 'Istorijos šaltinių jis naudojo labai mažai^57 , o atkėlė savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą į senus laikus.'
+  teiginys: 'Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.'
   pagrindžia:
     - c-022
 
 <a id="claim-t-123055"></a>
 - t-053
   global_id: t-123055
-  teiginys: 'Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
+  teiginys: 'Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei.'
   pagrindžia:
     - c-011
 
@@ -839,7 +832,7 @@ amziai:
     - t-017
 
 - c-019
-  santrauka: 'Žemaitijoje buvę Milžinų Kapais vadinti didžiuliai pilkapiai laikomi Skandinavijos įtakos Lietuvoje paminklais.'
+  santrauka: 'Balińskis Žemaitijoje Milžinų Kapais vadintus didžiulius pilkapius laikė Skandinavijos įtakos Lietuvoje liudijimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laikui bėgant tie atėjūnai uo­
@@ -866,6 +859,7 @@ amziai:
     - t-032
 
 - c-020
+  santrauka: 'Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai
@@ -899,6 +893,7 @@ amziai:
     - t-037
 
 - c-022
+  santrauka: 'Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Daukan­
@@ -914,6 +909,7 @@ amziai:
     - t-052
 
 - c-023
+  santrauka: 'Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
@@ -973,6 +969,7 @@ amziai:
     - t-007
 
 - c-026
+  santrauka: 'Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     atsižvelgti į keletą momentų. Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
@@ -1025,6 +1022,7 @@ amziai:
     - t-041
 
 - c-029
+  santrauka: '1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
@@ -1085,6 +1083,7 @@ amziai:
     - t-028
 
 - c-032
+  santrauka: 'Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
@@ -1122,7 +1121,7 @@ amziai:
     - t-020
 
 - c-034
-  santrauka: 'Vytautui priskirta bažnyčios fundacija laikyta viena pirmųjų Žemaitijoje po krikščionybės įvedimo.'
+  santrauka: 'Vytautui priskirta pirmoji bažnyčios fundacija buvo laikoma viena pirmųjų Žemaitijoje po krikščionybės įvedimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pats miestelis dali­
@@ -1141,6 +1140,7 @@ amziai:
     - t-042
 
 - c-035
+  santrauka: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas
@@ -1176,6 +1176,7 @@ amziai:
     - t-034
 
 - c-037
+  santrauka: 'Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis komitetas turėjo organizuoti sukilimą va­

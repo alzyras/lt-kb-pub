@@ -21,7 +21,7 @@ Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius", kuriais ji pasi
 <a id="claim-t-67430"></a>
 - t-001
   global_id: t-67430
-  teiginys: 'Valstybės Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius“, kuriais perėmė suvereninės Lietuvos galią.'
+  teiginys: 'Valstybės Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius“, kuriais prisiėmė suvereninės Lietuvos galią.'
   pagrindžia:
     - c-002
 
@@ -49,6 +49,7 @@ Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius", kuriais ji pasi
     - t-002
 
 - c-002
+  santrauka: 'Valstybės Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius“, kuriais prisiėmė suvereninės Lietuvos galią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą pačią dieną V. Taryba priėmė „Laikinės konstitucijos pa-

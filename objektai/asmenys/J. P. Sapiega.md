@@ -33,7 +33,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 <a id="claim-t-53892"></a>
 - t-003
   global_id: t-53892
-  teiginys: 'J. P. Sapiegos husarų ir petihorų vėliavos turėjo atlaikyti pagrindinį Švedijos kariuomenės smūgį.'
+  teiginys: 'J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.'
   pagrindžia:
     - c-003
 
@@ -70,6 +70,7 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
     - t-001
 
 - c-003
+  santrauka: 'J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuomet didžiojo etmono dėmesys buvo

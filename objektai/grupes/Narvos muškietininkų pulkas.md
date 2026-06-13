@@ -19,7 +19,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 <a id="claim-t-78388"></a>
 - t-001
   global_id: t-78388
-  teiginys: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d. Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo.'
+  teiginys: 'Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - t-002
 
 - c-002
+  santrauka: 'Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais

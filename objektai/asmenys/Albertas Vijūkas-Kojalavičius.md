@@ -19,13 +19,14 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
 <a id="claim-t-18765"></a>
 - t-001
   global_id: t-18765
-  teiginys: 'Alberto Vijūko-Kojalavičiaus lituanistiniai darbai skleidė Vilniaus intelektinę įtaką Lietuvoje.'
+  teiginys: 'Alberto Vijūko-Kojalavičiaus lituanistiniai darbai skleidė vilniečių įtaką Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Alberto Vijūko-Kojalavičiaus lituanistiniai darbai skleidė vilniečių įtaką Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-

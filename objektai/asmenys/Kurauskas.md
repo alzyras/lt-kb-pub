@@ -19,13 +19,14 @@ Eilinis Kurauskas atbėgo pas mane.
 <a id="claim-t-80738"></a>
 - t-001
   global_id: t-80738
-  teiginys: 'Eilinis Kurauskas atbėgo pas mane.'
+  teiginys: 'Eilinis Kurauskas per kautynes paruošinėjo granatas, kurias pasakotojas metė į gulinčius bolševikus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eilinis Kurauskas per kautynes paruošinėjo granatas, kurias pasakotojas metė į gulinčius bolševikus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūsų šaudymas labai suretėjo, nes pradėjo išsibaigti šovinių ištekliai. Bolševikai artėjo

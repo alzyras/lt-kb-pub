@@ -20,14 +20,14 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 <a id="claim-t-183509"></a>
 - t-001
   global_id: t-183509
-  teiginys: 'Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos.'
+  teiginys: 'Oficialios kalbos apie „tarybinių tautų suartėjimą ir susiliejimą“ rodė unifikuotos, rusiškai kalbančios sovietinės nacijos formavimo kryptį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos.'
+  santrauka: 'Oficialios kalbos apie „tarybinių tautų suartėjimą ir susiliejimą“ rodė unifikuotos, rusiškai kalbančios sovietinės nacijos formavimo kryptį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nemažai jaunimo
@@ -51,5 +51,4 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/homo sovieticus]]
 - [[objektai/zodynas/rusinimas dvikalbystė]]

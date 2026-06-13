@@ -52,7 +52,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-177908"></a>
 - t-002
   global_id: t-177908
-  teiginys: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p.'
+  teiginys: 'Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   pagrindžia:
     - c-010
 
@@ -87,7 +87,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-177913"></a>
 - t-007
   global_id: t-177913
-  teiginys: 'Susidarius grėsmingai situacijai, Abiejų Tautų Respublikos valdovas Zigmantas Vaza nurodė LDx kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
+  teiginys: 'Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
   pagrindžia:
     - c-021
 
@@ -108,21 +108,21 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-177916"></a>
 - t-010
   global_id: t-177916
-  teiginys: 'Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos.'
+  teiginys: 'Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.'
   pagrindžia:
     - c-028
 
 <a id="claim-t-177917"></a>
 - t-011
   global_id: t-177917
-  teiginys: 'Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino brolis Teodoras.'
+  teiginys: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
   pagrindžia:
     - c-022
 
 <a id="claim-t-177918"></a>
 - t-012
   global_id: t-177918
-  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  teiginys: '1395 m. Vytautas paskyrė savo vietininką Podolėje.'
   pagrindžia:
     - c-008
 
@@ -213,7 +213,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-177933"></a>
 - t-025
   global_id: t-177933
-  teiginys: 'Po Torno taikos Jogaila išsprendė lietuvių ir lenkų ginčą dėl Podolijos, 1403 m. davęs Vytautui vakarinę jos dalį su Kamieniecu.'
+  teiginys: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   pagrindžia:
     - c-030
 
@@ -230,13 +230,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginys: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   pagrindžia:
     - c-026
-
-<a id="claim-t-177936"></a>
-- t-028
-  global_id: t-177936
-  teiginys: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
-  pagrindžia:
-    - c-006
 
 <a id="claim-t-177937"></a>
 - t-029
@@ -255,21 +248,21 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-177939"></a>
 - t-031
   global_id: t-177939
-  teiginys: '1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.'
+  teiginys: 'Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-177940"></a>
 - t-032
   global_id: t-177940
-  teiginys: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  teiginys: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-177941"></a>
 - t-033
   global_id: t-177941
-  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  teiginys: '1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.'
   pagrindžia:
     - c-027
 
@@ -287,13 +280,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - c-017
 
-<a id="claim-t-177944"></a>
-- t-036
-  global_id: t-177944
-  teiginys: '1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės atkvietė į Vilnių keturiolika pranciškonų vienuolių.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-177945"></a>
 - t-037
   global_id: t-177945
@@ -304,7 +290,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-177946"></a>
 - t-038
   global_id: t-177946
-  teiginys: 'Petras Goštautas per žmoną Bučiacką iš Podolės priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
+  teiginys: 'Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   pagrindžia:
     - c-019
 
@@ -360,7 +346,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 <a id="claim-t-185091"></a>
 - t-046
   global_id: t-185091
-  teiginys: 'Lietuviai teigė, kad dėl Jogailos pažadų siekiant karaliaus sosto Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  teiginys: 'Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
   pagrindžia:
     - c-037
 
@@ -512,6 +498,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-036
 
 - c-008
+  santrauka: '1395 m. Vytautas paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
@@ -541,6 +528,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-005
 
 - c-010
+  santrauka: 'Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne kartą jau minoritai, apaš­
@@ -622,6 +610,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-018
 
 - c-014
+  santrauka: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
@@ -735,6 +724,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-034
 
 - c-019
+  santrauka: 'Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia pirmiausia Petras Goš­
@@ -798,6 +788,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-024
 
 - c-022
+  santrauka: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Podolėje Karijotaičiai
@@ -892,6 +883,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-039
 
 - c-027
+  santrauka: '1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^262) ii skyrius: valstybės iškilimas
@@ -911,6 +903,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-033
 
 - c-028
+  santrauka: 'Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Valdovo Stepono Batoro laikais paskleista Stryjkovskio Kro­
@@ -945,6 +938,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-017
 
 - c-030
+  santrauka: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
@@ -1100,7 +1094,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-045
 
 - c-037
-  santrauka: 'Lietuviai teigė, kad dėl Jogailos pažadų siekiant karaliaus sosto Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  santrauka: 'Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau, susi­

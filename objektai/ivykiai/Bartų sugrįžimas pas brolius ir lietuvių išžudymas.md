@@ -37,20 +37,21 @@ Nenurodyta
 <a id="claim-t-66482"></a>
 - t-001
   global_id: t-66482
-  teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
+  teiginys: 'Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66483"></a>
 - t-002
   global_id: t-66483
-  teiginys: 'Dusburgietis teigia, kad apie bartų sugrįžimą ir daugybės lietuvių žūtį Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai, pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė prieš Lenkiją, iš kur, neskaitant kitų ten.'
+  teiginys: 'Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
@@ -76,6 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
@@ -101,3 +103,5 @@ Nenurodyta
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Numa]]
+- [[objektai/asmenys/Derska]]
+- [[objektai/zodynas/žygis]]

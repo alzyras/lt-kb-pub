@@ -26,7 +26,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 <a id="claim-t-58872"></a>
 - t-001
   global_id: t-58872
-  teiginys: 'Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 ir kt.).'
+  teiginys: 'Petras Dusburgietis terminu terra paprastai vadino stambiausius prūsų ir lietuvių teritorinius vienetus.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
     - t-002
 
 - c-002
+  santrauka: 'Petras Dusburgietis terminu terra paprastai vadino stambiausius prūsų ir lietuvių teritorinius vienetus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     189 2 D.— in XI partes, Jer.— in eilf teil, tačiau toliau D. jau vartoja terminą terra
@@ -74,3 +75,4 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vygandas]]
+- [[objektai/autoriai/Petras Dusburgietis]]

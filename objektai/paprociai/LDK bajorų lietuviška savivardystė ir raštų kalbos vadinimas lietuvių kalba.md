@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-183315"></a>
 - t-002
   global_id: t-183315
-  teiginys: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
+  teiginys: 'Visa LDK teritorija, apėmusi dabartinę Lietuvą ir Baltarusiją, ilgainiui pradėta vadinti Lietuva, o šiandien vadinama istorine Lietuva.'
   pagrindžia:
     - c-001
 

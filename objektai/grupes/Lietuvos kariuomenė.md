@@ -2,7 +2,6 @@
 tipas: grupe
 pavadinimas: 'Lietuvos kariuomenė'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -42,7 +41,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 <a id="claim-t-182741"></a>
 - t-002
   global_id: t-182741
-  teiginys: 'LDK didysis etmonas Karolis Chodkevičius, matydamas jau išsirikiavusius priešo karius, išvedė į mūšio lauką ir savo kariuomenę.'
+  teiginys: 'Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę.'
   pagrindžia:
     - c-003
 
@@ -56,21 +55,21 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 <a id="claim-t-182743"></a>
 - t-004
   global_id: t-182743
-  teiginys: 'Kristupas Radvila Perkūnas Lietuvos kariuomenei vadovavo Kunigaikštis Kristupas Radvila Perkūnas (1547-1603 m.).'
+  teiginys: 'Kristupas Radvila Perkūnas 1589–1603 m. buvo Lietuvos Didžiosios Kunigaikštystės kariuomenės didysis etmonas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183157"></a>
 - t-005
   global_id: t-183157
-  teiginys: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
+  teiginys: '1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-183158"></a>
 - t-006
   global_id: t-183158
-  teiginys: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
+  teiginys: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-006
 
@@ -84,7 +83,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 <a id="claim-t-183160"></a>
 - t-008
   global_id: t-183160
-  teiginys: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
+  teiginys: 'Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.'
   pagrindžia:
     - c-008
 
@@ -98,7 +97,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 <a id="claim-t-183162"></a>
 - t-010
   global_id: t-183162
-  teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
+  teiginys: 'Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene.'
   pagrindžia:
     - c-010
 
@@ -112,7 +111,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 <a id="claim-t-184333"></a>
 - t-012
   global_id: t-184333
-  teiginys: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
+  teiginys: 'Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.'
   pagrindžia:
     - c-012
 
@@ -139,6 +138,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-003
 
 - c-002
+  santrauka: 'Kristupas Radvila Perkūnas 1589–1603 m. buvo Lietuvos Didžiosios Kunigaikštystės kariuomenės didysis etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kristupas Radvila Perkūnas
@@ -161,6 +161,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-004
 
 - c-003
+  santrauka: 'Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LDK didysis etmo-
@@ -207,7 +208,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-001
 
 - c-005
-  santrauka: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
+  santrauka: '1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
@@ -222,7 +223,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-005
 
 - c-006
-  santrauka: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
+  santrauka: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
@@ -252,7 +253,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-007
 
 - c-008
-  santrauka: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
+  santrauka: 'Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
@@ -285,7 +286,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-009
 
 - c-010
-  santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
+  santrauka: 'Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
@@ -314,7 +315,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-011
 
 - c-012
-  santrauka: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
+  santrauka: 'Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Yra duomenų spręsti, kad Jogaila ir Vytautas yra veikę drauge
@@ -425,17 +426,20 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]
 - [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]
 - [[objektai/zodynas/etatiniai vienetai]]
-- [[objektai/zodynas/lietuvos lengvoji kavalerija]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/rankovės garnizonai]]
 - [[objektai/zodynas/telefonograma]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
 - [[objektai/daiktai/Kardas]]
+- [[objektai/ivykiai/Lietuvos kariuomenės pertvarkymas į Liaudies kariuomenę ir Šaulių sąjungos veiklos sustabdymas (1940 m. liepos 3-11 d.)]]
+- [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- [[objektai/posakiai/„Lietuvos kariuomenė pasilieka ir toliau...“]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/ivykiai/Lietuvos kariuomenės pertvarkymas į Liaudies kariuomenę ir Šaulių sąjungos veiklos sustabdymas (1940 m. liepos 3-11 d.)]]
 - [[objektai/grupes/Lietuvos šaulių sąjunga]]
 - [[objektai/grupes/Raudonoji armija]]

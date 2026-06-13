@@ -54,14 +54,14 @@ Nenurodyta
 <a id="claim-t-75181"></a>
 - t-002
   global_id: t-75181
-  teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m.'
+  teiginys: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75182"></a>
 - t-003
   global_id: t-75182
-  teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
   pagrindžia:
     - c-007
 
@@ -82,7 +82,7 @@ Nenurodyta
 <a id="claim-t-75185"></a>
 - t-006
   global_id: t-75185
-  teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
+  teiginys: 'Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m.'
   pagrindžia:
     - c-001
 
@@ -103,6 +103,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
@@ -151,6 +152,7 @@ Nenurodyta
     - t-007
 
 - c-004
+  santrauka: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagalbos iš užsienio tikėtis nebuvo

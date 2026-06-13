@@ -28,7 +28,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 <a id="claim-t-59142"></a>
 - t-001
   global_id: t-59142
-  teiginys: 'Dusburgietis teigia, kad vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso.'
+  teiginys: 'Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     - t-002
 
 - c-002
+  santrauka: 'Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.

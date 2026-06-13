@@ -29,7 +29,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 <a id="claim-t-49271"></a>
 - t-002
   global_id: t-49271
-  teiginys: 'Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais to meto husarams burės formos skydais (šalia jų parašyta Litauen).'
+  teiginys: 'Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 <a id="claim-t-49273"></a>
 - t-004
   global_id: t-49273
-  teiginys: 'Ilgomis ietimis ginkluoti raitininkai - husarai (ietimis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai išnykusi iki xvii a.).'
+  teiginys: 'Lietuvoje ir Lenkijoje husarai buvo ilgomis ietimis ginkluoti sunkieji raiteliai.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos pasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas

@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-62900"></a>
 - t-001
   global_id: t-62900
-  teiginys: 'Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų padarinių.'
+  teiginys: '1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Teutonų ordiną dėl Ordino priešų veiklos ir kryžiuočiams keltų kaltinimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. popiežius Jonas XXII pagrasino ekskomunikuoti Teutonų ordiną dėl Ordino priešų veiklos ir kryžiuočiams keltų kaltinimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų

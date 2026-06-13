@@ -22,7 +22,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 <a id="claim-t-59973"></a>
 - t-001
   global_id: t-59973
-  teiginys: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje.'
+  teiginys: 'Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje.'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 <a id="claim-t-59975"></a>
 - t-003
   global_id: t-59975
-  teiginys: 'Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.'
+  teiginys: 'Henrikui iš Kunceno pasižadėjus įstoti į Teutonų ordiną, išnyko jį gąsdinęs sambūris ir regėjimai.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - t-004
 
 - c-002
+  santrauka: 'Henrikui iš Kunceno pasižadėjus įstoti į Teutonų ordiną, išnyko jį gąsdinęs sambūris ir regėjimai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgokai jam grasinę, galop tarėjai paprašė

@@ -52,14 +52,14 @@ Nenurodyta
 <a id="claim-t-71775"></a>
 - t-002
   global_id: t-71775
-  teiginys: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
+  teiginys: 'Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71776"></a>
 - t-003
   global_id: t-71776
-  teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
+  teiginys: 'Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.'
   pagrindžia:
     - c-004
 
@@ -75,11 +75,12 @@ Nenurodyta
   global_id: t-71778
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Steponas

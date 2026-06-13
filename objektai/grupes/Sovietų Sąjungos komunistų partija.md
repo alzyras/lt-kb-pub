@@ -19,20 +19,21 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 <a id="claim-t-74929"></a>
 - t-001
   global_id: t-74929
-  teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
+  teiginys: '1989 m. gruodį LKP XX suvažiavime atsiskyrus nuo SSKP atsirado nacionalinė eurokomunistinio tipo partija.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74930"></a>
 - t-002
   global_id: t-74930
-  teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
+  teiginys: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Sovietų Sąjungos komunistų partijos istoriją ir nutarimų medžiagą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Sovietų Sąjungos komunistų partijos istoriją ir nutarimų medžiagą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas
@@ -48,6 +49,7 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
     - t-002
 
 - c-002
+  santrauka: '1989 m. gruodį LKP XX suvažiavime atsiskyrus nuo SSKP atsirado nacionalinė eurokomunistinio tipo partija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
@@ -66,6 +68,7 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/eurokomunistinio tipo partija]]
 - [[objektai/asmenys/J. Stalinas]]
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Karlas Marksas]]

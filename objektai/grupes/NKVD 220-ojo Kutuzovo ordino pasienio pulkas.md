@@ -27,13 +27,14 @@ amziai:
 <a id="claim-t-80643"></a>
 - t-001
   global_id: t-80643
-  teiginys: '1945 m. gegužės 16 dienos mūšyje dalyvavo apie 90 partizanų NKVD pajėgos Partizanus kalniškės miške puolė 1-ojo Pabaltijo fronto NKvp kariuomenės 220-asis Kutuzovo ordino pulkas.'
+  teiginys: '1945 m. gegužės 16 d. Kalniškės miške partizanus puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1945 m. gegužės 16 d. Kalniškės miške partizanus puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     4 ginkluotų partizanų. 1945 m.

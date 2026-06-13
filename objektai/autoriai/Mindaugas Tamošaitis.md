@@ -48,7 +48,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 <a id="claim-t-169891"></a>
 - t-003
   global_id: t-169891
-  teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
+  teiginys: '2013 m. antrajame leidime Mindaugui Tamošaičiui nurodytos autorių teisės.'
   pagrindžia:
     - c-003
 
@@ -107,6 +107,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     - t-002
 
 - c-003
+  santrauka: '2013 m. antrajame leidime Mindaugui Tamošaičiui nurodytos autorių teisės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redakcinė kolegija:

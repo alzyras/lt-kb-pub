@@ -56,13 +56,14 @@ Nenurodyta
 <a id="claim-t-47811"></a>
 - t-002
   global_id: t-47811
-  teiginys: 'Iš žymiai pigesnės geležies tada buvo galima pasigaminti ginklų (iečių, kirvių) bei įrankių (dalgių, piautuvų, peilių, ylų ir kt.).'
+  teiginys: 'Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš žymiai pigesnės geležies tada
@@ -96,3 +97,4 @@ Nenurodyta
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Gintaras]]
 - [[objektai/daiktai/Papuošalai]]
+- [[objektai/daiktai/Ietys]]

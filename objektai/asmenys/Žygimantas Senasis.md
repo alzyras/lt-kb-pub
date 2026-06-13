@@ -171,7 +171,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 <a id="claim-t-173329"></a>
 - t-022
   global_id: t-173329
-  teiginys: '1514 m. Lenkijos karalius Žygimantas buvo siejamas su raštu Varmės kanauninkui Andriui Kopernikui.'
+  teiginys: '1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.'
   pagrindžia:
     - c-023
 
@@ -213,7 +213,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 <a id="claim-t-173336"></a>
 - t-029
   global_id: t-173336
-  teiginys: 'Naujasis LDK valdovas Žygimantas Senasis ir taip turėjo reikalų į valias, todėl sąjunga su Krymu buvo patvirtinta.'
+  teiginys: 'Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.'
   pagrindžia:
     - c-010
 
@@ -449,6 +449,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-014
 
 - c-010
+  santrauka: 'Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasiuntinys
@@ -759,7 +760,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-031
 
 - c-023
-  santrauka: '1514 m. Lenkijos karalius Žygimantas buvo siejamas su raštu Varmės kanauninkui Andriui Kopernikui.'
+  santrauka: '1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokūbo, apaštalo, šventės išvakarėse, tūkstantis
@@ -1065,6 +1066,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - [[objektai/zodynas/vaitas]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
 - [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]

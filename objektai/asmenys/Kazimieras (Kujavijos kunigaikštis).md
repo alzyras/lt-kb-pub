@@ -29,48 +29,49 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 <a id="claim-t-63803"></a>
 - t-002
   global_id: t-63803
-  teiginys: 'Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.'
+  teiginys: 'Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-63804"></a>
 - t-003
   global_id: t-63804
-  teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
+  teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-63805"></a>
 - t-004
   global_id: t-63805
-  teiginys: 'Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas man nesuprantamais sumetimais sudarė kuriam laikui tarp krikščionių ir netikėlių paliaubas, jų metu lenkai, nesitikėdami jokių pavojų, ramiai sau dirbo visokius darbus, tuo tarpu lietuviai, nutraukę šį.'
+  teiginys: 'Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-63806"></a>
 - t-005
   global_id: t-63806
-  teiginys: 'Dusburgietis teigia, kad kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą.'
+  teiginys: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-63808"></a>
 - t-006
   global_id: t-63808
-  teiginys: 'Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką.'
+  teiginys: 'Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-63809"></a>
 - t-007
   global_id: t-63809
-  teiginys: 'Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
+  teiginys: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
@@ -89,6 +90,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - t-007
 
 - c-002
+  santrauka: 'Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
@@ -103,6 +105,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - t-002
 
 - c-003
+  santrauka: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi
@@ -120,6 +123,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - t-005
 
 - c-004
+  santrauka: 'Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius
@@ -206,4 +210,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]

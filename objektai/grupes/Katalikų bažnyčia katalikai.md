@@ -21,13 +21,14 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 <a id="claim-t-65303"></a>
 - t-001
   global_id: t-65303
-  teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
+  teiginys: 'Bažnyčios su dviem grakščiais bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bažnyčios su dviem grakščiais bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokykla išsiskiria dekoratyvių, kompozicinių ir

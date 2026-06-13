@@ -25,13 +25,14 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 <a id="claim-t-80653"></a>
 - t-001
   global_id: t-80653
-  teiginys: 'Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po kelių mėnesių Ramanauskas-Vanagas
@@ -52,5 +53,6 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
 - [[objektai/grupes/LLKS gynybos pajėgos]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]

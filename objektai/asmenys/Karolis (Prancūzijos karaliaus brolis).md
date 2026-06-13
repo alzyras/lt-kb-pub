@@ -30,13 +30,14 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
 <a id="claim-t-60353"></a>
 - t-001
   global_id: t-60353
-  teiginys: 'Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.'
+  teiginys: 'Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas per įvykį, kuriame nukentėjo ir popiežius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas per įvykį, kuriame nukentėjo ir popiežius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.

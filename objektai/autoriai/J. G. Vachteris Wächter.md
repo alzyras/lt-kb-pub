@@ -20,13 +20,14 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 <a id="claim-t-88010"></a>
 - t-001
   global_id: t-88010
-  teiginys: 'Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų a Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai principis comitatus - praedium cum pastarąja prasme; juk folwark -.'
+  teiginys: 'J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar (dėmė Könige) sudegė Vytauto vienuoli­
@@ -63,3 +64,4 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 ### Susiję objektai
 - [[objektai/zodynas/lenas]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/grupes/Germanai]]

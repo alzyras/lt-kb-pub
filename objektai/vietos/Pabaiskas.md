@@ -54,36 +54,29 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   pagrindžia:
     - c-003
 
-<a id="claim-t-171928"></a>
-- t-005
-  global_id: t-171928
-  teiginys: 'Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-171929"></a>
-- t-006
+- t-005
   global_id: t-171929
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-171930"></a>
-- t-007
+- t-006
   global_id: t-171930
   teiginys: 'Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-171932"></a>
-- t-008
+- t-007
   global_id: t-171932
-  teiginys: 'Ties Pabaisku, netoli Ukmergės, Zigmanto sūnaus Mykolo vedama lietuvių ir lenkų kariuomenė pastojo kelią prie Šventosios.'
+  teiginys: 'Ties Pabaisku, netoli Ukmergės, prie Šventosios kelią pastojo Mykolo vedama lietuvių ir lenkų kariuomenė.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-171933"></a>
-- t-009
+- t-008
   global_id: t-171933
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
@@ -107,8 +100,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-006
+    - t-008
+    - t-005
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -135,7 +128,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   statusas: verified
   pagrindžia:
     - t-003
-    - t-007
+    - t-006
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -163,6 +156,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - t-004
 
 - c-004
+  santrauka: 'Ties Pabaisku, netoli Ukmergės, prie Šventosios kelią pastojo Mykolo vedama lietuvių ir lenkų kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
@@ -172,7 +166,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -210,23 +204,3 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Taip jos kelias paras stovėjo, susikaupę
-    laukė mūšio. Šią kariuomenių išsidėstymo
-    situaciją natūroje atitinka ne Žirnajos (kaip
-    įprasta istoriografijoje), bet jos dešiniojo
-    intako Vintaros, tekančios per dabartinį
-    Pabaisko miestelį, padėtis.
-
-    Kokiose pozicijose buvo sustojusi kelyje
-    Gelvonų link Švitrigailos - Ordino ka-
-    riuomenė, ar buvo perėjusi Žirnajos upę
-    (kaip teigiama istoriografijoje), nėra aišku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005

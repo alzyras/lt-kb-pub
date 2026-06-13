@@ -28,13 +28,14 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 <a id="claim-t-60730"></a>
 - t-001
   global_id: t-60730
-  teiginys: 'Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus Cezaris, o po jo mirties suskilo senatas (Ptol.'
+  teiginys: 'Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Komestorius rašė, kad panašūs ženklai rodėsi mirštant Julijui Cezariui, o po jo mirties suskilo senatas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,

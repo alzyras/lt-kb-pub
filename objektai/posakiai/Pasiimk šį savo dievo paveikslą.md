@@ -27,7 +27,7 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 <a id="claim-t-89600"></a>
 - t-002
   global_id: t-89600
-  teiginys: 'Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu.'
+  teiginys: 'Dusburgietis Skomanto atsivertimą vaizduoja kaip perėjimą nuo Dievo bažnyčios persekiojimo prie krikščionių vado vaidmens.'
   pagrindžia:
     - c-001
 

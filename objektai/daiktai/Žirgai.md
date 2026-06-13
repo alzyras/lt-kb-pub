@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-59717"></a>
 - t-001
   global_id: t-59717
-  teiginys: 'Dusburgietis teigia, kad kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“.'
+  teiginys: 'Henriko arklys sustojo prie skardžio, nes, pasak pasakojimo, matė pavojų, kurio raitelis nakties tamsoje negalėjo išvysti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henriko arklys sustojo prie skardžio, nes, pasak pasakojimo, matė pavojų, kurio raitelis nakties tamsoje negalėjo išvysti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartą
@@ -138,4 +139,7 @@ Nenurodyta
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/zodynas/žirgų kapai]]
 - [[objektai/zodynas/žygūnai]]
+- [[objektai/asmenys/Dargis]]
+- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- [[objektai/asmenys/Henrikas iš Ceico]]
 - [[objektai/zodynas/lengvoji kavalerija]]

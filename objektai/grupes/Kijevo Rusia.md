@@ -27,13 +27,14 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 <a id="claim-t-181458"></a>
 - t-001
   global_id: t-181458
-  teiginys: 'Lietuva patyrė Kijevo Rusios agresiją.'
+  teiginys: 'XI a. Lietuva patyrė Kijevo Rusios agresiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XI a. Lietuva patyrė Kijevo Rusios agresiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos valstybė

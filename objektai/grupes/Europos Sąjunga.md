@@ -26,79 +26,80 @@ amziai:
 
 ## Teiginiai
 
-<a id="claim-t-74108"></a>
-- t-001
-  global_id: t-74108
-  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
-  pagrindžia:
-    - c-010
-
 <a id="claim-t-74109"></a>
-- t-002
+- t-001
   global_id: t-74109
-  teiginys: 'Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.'
+  teiginys: 'Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-74110"></a>
-- t-003
+- t-002
   global_id: t-74110
-  teiginys: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
+  teiginys: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-74111"></a>
-- t-004
+- t-003
   global_id: t-74111
-  teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
+  teiginys: '2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-74112"></a>
-- t-005
+- t-004
   global_id: t-74112
   teiginys: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74113"></a>
-- t-006
+- t-005
   global_id: t-74113
   teiginys: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-74114"></a>
-- t-007
+- t-006
   global_id: t-74114
-  teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
+  teiginys: '2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-74115"></a>
-- t-008
+- t-007
   global_id: t-74115
-  teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
+  teiginys: 'Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-74116"></a>
-- t-009
+- t-008
   global_id: t-74116
   teiginys: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-74117"></a>
-- t-010
+- t-009
   global_id: t-74117
   teiginys: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   pagrindžia:
     - c-008
 
+<a id="claim-t-183127"></a>
+- t-010
+  global_id: t-183127
+  teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą kartu su kitomis demokratinėmis valstybėmis kurti žemyno ateities.'
+  pagrindžia:
+    - c-010
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
@@ -113,7 +114,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-002
   santrauka: 'Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
@@ -129,9 +130,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-003
+  santrauka: '2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Glaudus trijų Baltijos valstybių bendradarbia-
@@ -148,7 +150,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -169,9 +171,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-005
+  santrauka: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir ES pasirašė Prekybos
@@ -185,9 +188,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-006
+  santrauka: 'Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiuo atveju didžiausią naudą gauna vartotojai.
@@ -197,9 +201,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-007
+  santrauka: 'Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
@@ -214,7 +219,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-008
   santrauka: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
@@ -229,7 +234,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-009
   santrauka: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
@@ -250,26 +255,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-010
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ES ir toliau griežtai laikantis savo nustatytų kriterijų, Lie-
-    tuva pamažu nusileido – strateginiai šalies tikslai buvo pernelyg svarbūs.
-    Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
-    va akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtė-
-    jo ekonomiškai. Dabartinė Lietuva yra visavertė demokratinė Europos
-    valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
-    Europos valstybių likimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-011
-  santrauka: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
+  santrauka: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą kartu su kitomis demokratinėmis valstybėmis kurti žemyno ateities.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo oficialių diplomatinių
@@ -282,7 +271,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

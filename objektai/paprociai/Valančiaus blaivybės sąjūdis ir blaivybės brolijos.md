@@ -41,27 +41,21 @@ Nenurodyta
 <a id="claim-t-54359"></a>
 - t-001
   global_id: t-54359
-  teiginys: 'M. Valančius, remdamasis kituose katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-54360"></a>
-- t-002
-  global_id: t-54360
-  teiginys: 'Motiejus Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
+  teiginys: '1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-54361"></a>
 - t-003
   global_id: t-54361
-  teiginys: 'Po poros metų blaivybės brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų.'
+  teiginys: 'Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai kuriose vietovėse mokančių
@@ -79,6 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ne-

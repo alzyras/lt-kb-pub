@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-75334"></a>
 - t-001
   global_id: t-75334
-  teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė paskelbė reikalavimą legalizuoti trispalvę ir „Tautišką giesmę“.'
+  teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-002
 
@@ -82,20 +82,21 @@ Nenurodyta
 <a id="claim-t-75338"></a>
 - t-005
   global_id: t-75338
-  teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
+  teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje partija oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75339"></a>
 - t-006
   global_id: t-75339
-  teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
+  teiginys: '1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
@@ -114,6 +115,7 @@ Nenurodyta
     - t-006
 
 - c-002
+  santrauka: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti trispalvę ir „Tautišką giesmę“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmieji
@@ -184,5 +186,5 @@ Nenurodyta
 - [[objektai/zodynas/de facto]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/daiktai/Lėktuvai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

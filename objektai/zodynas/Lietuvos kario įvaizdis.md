@@ -22,13 +22,14 @@ tags:
 <a id="claim-t-80628"></a>
 - t-001
   global_id: t-80628
-  teiginys: 'Šio leidinio tikslas - per karų kulminacinius momentus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
+  teiginys: 'Leidinyje gausios iliustracijos turėjo padėti skaitytojui susikurti įvairių laikotarpių Lietuvos kario įvaizdį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leidinyje gausios iliustracijos turėjo padėti skaitytojui susikurti įvairių laikotarpių Lietuvos kario įvaizdį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šio leidinio tikslas - per karų kulminacinius momen-

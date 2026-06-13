@@ -51,21 +51,21 @@ Nenurodyta
 <a id="claim-t-55157"></a>
 - t-001
   global_id: t-55157
-  teiginys: 'Vytautas paprastai gerdavo iš auksu aptaisytų tauro ragų dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose.'
+  teiginys: 'Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš auksu aptaisytų tauro ragų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-55158"></a>
 - t-002
   global_id: t-55158
-  teiginys: 'Vieną tauro ragą Vytautas 1429 m. Lucko valdovų ir kunigaikščių suvažiavime įteikė Zigmantui kaip didžią dovaną.'
+  teiginys: 'Pasak Strijkovskio, 1429 m. Lucko suvažiavime Vytautas vieną auksu aptaisytą tauro ragą įteikė Zigmantui kaip didžią dovaną.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-81868"></a>
 - t-003
   global_id: t-81868
-  teiginys: 'Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų.'
+  teiginys: 'Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų.'
   pagrindžia:
     - c-001
 

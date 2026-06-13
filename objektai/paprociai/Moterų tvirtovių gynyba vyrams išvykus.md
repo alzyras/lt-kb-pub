@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-59808"></a>
 - t-001
   global_id: t-59808
-  teiginys: 'Dusburgietis teigia, kad šitai matydamos, moterys, nusisegusios moteriškus papuošalus, pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo į sienas, taip ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.'
+  teiginys: 'Vyrams išvykus, moterys prisisegdavo kalavijus, stodavo ant sienų ir savo drąsa apgindavo tvirtoves nuo praradimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyrams išvykus, moterys prisisegdavo kalavijus, stodavo ant sienų ir savo drąsa apgindavo tvirtoves nuo praradimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,

@@ -85,3 +85,4 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Jonas Lonei]]

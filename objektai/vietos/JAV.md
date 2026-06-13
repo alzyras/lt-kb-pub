@@ -41,7 +41,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 <a id="claim-t-109256"></a>
 - t-003
   global_id: t-109256
-  teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
+  teiginys: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą JAV, Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 <a id="claim-t-109258"></a>
 - t-005
   global_id: t-109258
-  teiginys: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
+  teiginys: '1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai.'
   pagrindžia:
     - c-006
 
@@ -89,6 +89,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą JAV, Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą. Tad

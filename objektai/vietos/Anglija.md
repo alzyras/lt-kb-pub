@@ -46,7 +46,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 <a id="claim-t-111493"></a>
 - t-003
   global_id: t-111493
-  teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
+  teiginys: 'Anglijoje gyveno apie 6 000 lietuvių, o JAV – apie 350 000 ir Vilniaus krašte – apie 100 000 lietuvių.'
   pagrindžia:
     - c-004
 
@@ -88,7 +88,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 <a id="claim-t-111499"></a>
 - t-009
   global_id: t-111499
-  teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
+  teiginys: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.'
   pagrindžia:
     - c-002
 
@@ -113,6 +113,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - t-005
 
 - c-002
+  santrauka: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
@@ -154,6 +155,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - t-008
 
 - c-004
+  santrauka: 'Anglijoje gyveno apie 6 000 lietuvių, o JAV – apie 350 000 ir Vilniaus krašte – apie 100 000 lietuvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     visų prekybos

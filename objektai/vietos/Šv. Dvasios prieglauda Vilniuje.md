@@ -43,14 +43,14 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 <a id="claim-t-85854"></a>
 - t-004
   global_id: t-85854
-  teiginys: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
+  teiginys: 'Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-85855"></a>
 - t-005
   global_id: t-85855
-  teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
+  teiginys: 'Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai.'
   pagrindžia:
     - c-003
 
@@ -109,6 +109,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - t-001
 
 - c-003
+  santrauka: 'Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mišias, klausyti išpažinčių ir dalinti švenčiausiąją
@@ -162,6 +163,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - t-006
 
 - c-005
+  santrauka: 'Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba

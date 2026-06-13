@@ -78,14 +78,7 @@ Nenurodyta
 <a id="claim-t-171472"></a>
 - t-006
   global_id: t-171472
-  teiginys: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-171473"></a>
-- t-007
-  global_id: t-171473
-  teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė prieš Krymo totorius ir pirmoji tokia pergalė po Vedrošos kautynių.'
+  teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.'
   pagrindžia:
     - c-004
 

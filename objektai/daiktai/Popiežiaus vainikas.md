@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-59702"></a>
 - t-001
   global_id: t-59702
-  teiginys: 'Dusburgietis teigia, kad mat jo žirgas suklupo, jį užvertė akmenys, o jam nuo galvos nulėkė vainikas, iš kurio iškrito ir pradingo brangakmenis rubinas, įtaisytas vainiko viršuje ir kainavęs galybę pinigo, o šitai parodė, kokia būsianti jo ateitis (Mart.'
+  teiginys: 'Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežiui nukentėjus, nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo viršuje įtaisytas rubinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.

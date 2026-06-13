@@ -61,3 +61,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Guagnini]]
+- [[objektai/daiktai/Medžio noragai geležiniai noragai]]

@@ -27,7 +27,7 @@ amziai:
 <a id="claim-t-42268"></a>
 - t-001
   global_id: t-42268
-  teiginys: 'Antanas Šukys prisiminė, kad 6-ojo pėstininkų pulko kariai Vidugirių kaime susitiko to paties pulko I batalioną.'
+  teiginys: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
   pagrindžia:
     - c-003
 
@@ -41,7 +41,7 @@ amziai:
 <a id="claim-t-42270"></a>
 - t-003
   global_id: t-42270
-  teiginys: '1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai buvo prie mūšyje netoli Vidugirio žuvusio leitenanto Jono Kuklierio kūno.'
+  teiginys: '1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     | mir bataliono kariai sustoję žiūrėjo į seniai bematy-
@@ -76,6 +77,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 batalionas irgi

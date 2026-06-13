@@ -29,14 +29,14 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 <a id="claim-t-65776"></a>
 - t-002
   global_id: t-65776
-  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
+  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-65777"></a>
 - t-003
   global_id: t-65777
-  teiginys: 'Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja.'
+  teiginys: '1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 <a id="claim-t-65779"></a>
 - t-005
   global_id: t-65779
-  teiginys: 'Aukščiausiosios Tarybos Prezidiumas spalio 6 d. suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
+  teiginys: 'Spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   pagrindžia:
     - c-003
 
@@ -64,6 +64,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
@@ -105,7 +106,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     - t-006
 
 - c-003
-  santrauka: 'Aukščiausiosios Tarybos Prezidiumas spalio 6 d. suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
+  santrauka: 'Spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per keletą mėnesių LPS pa-
@@ -141,6 +142,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     - t-004
 
 - c-005
+  santrauka: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-

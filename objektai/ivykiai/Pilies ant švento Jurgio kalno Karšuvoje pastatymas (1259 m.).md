@@ -44,7 +44,14 @@ Nenurodyta
 <a id="claim-t-62896"></a>
 - t-001
   global_id: t-62896
-  teiginys: 'Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras.'
+  teiginys: '1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183955"></a>
+- t-002
+  global_id: t-183955
+  teiginys: 'Karšuvos pilis ant švento Jurgio kalno buvo pastatyta Livonijos ir Prūsijos brolių lėšomis bei darbu.'
   pagrindžia:
     - c-001
 

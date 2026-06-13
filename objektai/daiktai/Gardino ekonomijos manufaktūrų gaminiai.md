@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-77924"></a>
 - t-001
   global_id: t-77924
-  teiginys: 'Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.'
+  teiginys: 'Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
@@ -80,4 +81,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/daiktai/Vežimai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/ekonomija]]

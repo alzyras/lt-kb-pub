@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-62806"></a>
 - t-001
   global_id: t-62806
-  teiginys: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
+  teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
   pagrindžia:
     - c-001
     - c-002
@@ -46,6 +46,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartą, kai popiežius Honorijus III
@@ -65,6 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai venedai buvo smarkiai sutramdyti po maišto, sukelto

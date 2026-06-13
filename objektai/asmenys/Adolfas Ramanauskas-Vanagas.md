@@ -35,13 +35,14 @@ periodo_grupes:
 <a id="claim-t-63405"></a>
 - t-002
   global_id: t-63405
-  teiginys: 'Puolimo sėkmę nulėmė išnaudotas netikėtumo faktorius, Vanagas vėliau įtarė, kad informacija apie rengiamą puolimą (dėl kai kurių žemesnės grandies vadų netinkamo paslapčių saugojimo) galėjo pasiekti priešą, tačiau sovietai atmetė partizanų puolimo galimybę.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dar 5 stribai nukauti kitą dieną
@@ -99,4 +100,6 @@ periodo_grupes:
 - [[objektai/zodynas/maršalas]]
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
+- [[objektai/grupes/Dainavos apygarda]]
+- [[objektai/grupes/Lietuvos gynybos pajėgos]]
 - [[objektai/grupes/Marcinkonių batalionas]]

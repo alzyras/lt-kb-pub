@@ -20,13 +20,14 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 <a id="claim-t-35043"></a>
 - t-001
   global_id: t-35043
-  teiginys: 'XVII a. pabaigoje Vilniaus vyskupas Bžostovskis atsisakė klausyti Gniezno arkivyskupo ir juridiškai buvo teisus.'
+  teiginys: 'Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvos bažnyčia jokiai me­

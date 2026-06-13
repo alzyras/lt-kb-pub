@@ -53,21 +53,21 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 <a id="claim-t-79225"></a>
 - t-004
   global_id: t-79225
-  teiginys: 'Rugsėjį į frontą atvyko ir naujasis Abiejų Tautų Respublikos valdovas Vladislovas Vaza su 15 tūkst.'
+  teiginys: '1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-79226"></a>
 - t-005
   global_id: t-79226
-  teiginys: '1626-1629 m. Lietuvos ir Lenkijos kariuomenėms teko patirti naujosios Švedijos kariuomenės jėgą vėl suintensyvėjusiame kare, po kurio, ATR valdovas Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas didinti ugnies galią.'
+  teiginys: '1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-79227"></a>
 - t-006
   global_id: t-79227
-  teiginys: 'ATR valdovo Vladislovo Vazos vadovaujama jungtinė lietuvių ir lenkų kariuomenė po atkaklių susirėmimų nustūmė rusus nuo miesto, apsupo sumenkusias priešo pajėgas ir 1634 m. sausio 24 d. privertė kapituliuoti.'
+  teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.'
   pagrindžia:
     - c-001
 
@@ -95,6 +95,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     komplikuotis - tuo metu į pietines Rusijos
@@ -127,6 +128,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - t-008
 
 - c-003
+  santrauka: '1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagrindinis tiek „vokiečių“
@@ -189,6 +191,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - t-001
 
 - c-007
+  santrauka: '1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-

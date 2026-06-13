@@ -57,4 +57,3 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/ivykiai/Gnievkovo suvažiavimas]]

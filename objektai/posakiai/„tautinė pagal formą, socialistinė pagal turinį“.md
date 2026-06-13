@@ -34,7 +34,7 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 <a id="claim-t-75622"></a>
 - t-003
   global_id: t-75622
-  teiginys: 'Ilgainiui, ypač Dainų šventėse, privaloma socialistinė programa liko apvalkalu, o kita dalis buvo skirta lietuviškai dainai ar šokiui.'
+  teiginys: 'Dainų šventėse privaloma socialistinė programa ilgainiui liko apvalkalu, o kita dalis buvo skirta lietuviškai dainai ar šokiui.'
   pagrindžia:
     - c-001
 

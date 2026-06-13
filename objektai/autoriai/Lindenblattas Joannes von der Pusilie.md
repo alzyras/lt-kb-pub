@@ -35,13 +35,14 @@ tags:
 <a id="claim-t-88029"></a>
 - t-003
   global_id: t-88029
-  teiginys: '45 Lindenblatto kronikos leidėjai Visevaldės pilį vadina Vižemais.'
+  teiginys: 'Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     45

@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-183228"></a>
 - t-002
   global_id: t-183228
-  teiginys: 'Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.'
+  teiginys: '1893 m. Kražių įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo formavimuisi.'
   pagrindžia:
     - c-001
 

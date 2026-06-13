@@ -34,7 +34,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-10099"></a>
 - t-001
   global_id: t-10099
-  teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas jo pergalingoms kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
+  teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   pagrindžia:
     - c-023
 
@@ -69,7 +69,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-113968"></a>
 - t-006
   global_id: t-113968
-  teiginys: 'Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva 1581 m.'
+  teiginys: 'Steponas Batoras plačiai naudojo Vilniaus patrankų liejykloje pagamintus pabūklus karuose su Maskva.'
   pagrindžia:
     - c-005
 
@@ -104,16 +104,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-113973"></a>
 - t-011
   global_id: t-113973
-  teiginys: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
+  teiginys: 'Steponas Batoras Livonijos karo metu rūpinosi Vilniaus universiteto kūrimu.'
   pagrindžia:
     - c-018
-
-<a id="claim-t-113974"></a>
-- t-012
-  global_id: t-113974
-  teiginys: 'Lietuvos ir Lenkijos valdovo Stepono Batoro paradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu (1558-1582) atminti.'
-  pagrindžia:
-    - c-023
 
 <a id="claim-t-113975"></a>
 - t-013
@@ -132,7 +125,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-113977"></a>
 - t-015
   global_id: t-113977
-  teiginys: 'Balinskis miesto istorinę apžvalgą užbaigia Stepono Batoro valdymo metais 1586 m.'
+  teiginys: 'M. Balinskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.'
   pagrindžia:
     - c-013
 
@@ -174,7 +167,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-113983"></a>
 - t-021
   global_id: t-113983
-  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  teiginys: '1579 m. balandžio 1 d. Steponas Batoras parėmė Valerijono Protasevičiaus pastangas dėl Vilniaus universiteto.'
   pagrindžia:
     - c-025
 
@@ -195,7 +188,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-113987"></a>
 - t-024
   global_id: t-113987
-  teiginys: 'Steponas Batoras rūpinosi Vilniaus patrankų liejykla ir 1581 m. plačiai naudojo jos pabūklus karuose su Maskva.'
+  teiginys: 'Steponas Batoras rūpinosi Žygimanto Augusto įsteigta Vilniaus patrankų liejykla ir naudojo jos pabūklus karuose su Maskva.'
   pagrindžia:
     - c-005
 
@@ -258,7 +251,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 <a id="claim-t-113996"></a>
 - t-033
   global_id: t-113996
-  teiginys: 'Tokiomis aplinkybėmis laus varianto ir nebeplėtoti Kitos Batoro kampanijų metu užgrobtos Ivanas IV suvokė, kad teks galimo tolimesnio veržirusų teritorijos (Didieji Lukai, Zavoločė, Sebežas, Nevelis, Voronežas) buvo sugrąžintos Rusijai.'
+  teiginys: 'Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.'
   pagrindžia:
     - c-019
 
@@ -534,6 +527,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-005
 
 - c-013
+  santrauka: 'M. Balinskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau didžiausia nuostaba ano meto skaitytojui, verčiant
@@ -688,6 +682,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-020
 
 - c-018
+  santrauka: 'Steponas Batoras Livonijos karo metu rūpinosi Vilniaus universiteto kūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
@@ -709,6 +704,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-011
 
 - c-019
+  santrauka: 'Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Batoras savo 10 metų paliaubų sutartis, Lietuva atgavo
@@ -851,6 +847,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-029
 
 - c-025
+  santrauka: '1579 m. balandžio 1 d. Steponas Batoras parėmė Valerijono Protasevičiaus pastangas dėl Vilniaus universiteto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau svarbiausia buvo valdovo
@@ -995,10 +992,13 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
+- [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
+- [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
+- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
 - [[objektai/zodynas/reliacinis sprendimas]]

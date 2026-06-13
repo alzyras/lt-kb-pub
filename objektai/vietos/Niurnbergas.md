@@ -26,45 +26,24 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 
 ## Teiginiai
 
-<a id="claim-t-47036"></a>
+<a id="claim-t-47037"></a>
 - t-001
-  global_id: t-47036
-  teiginys: 'Niurnbergas, 1741 m. vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių tikslų.'
+  global_id: t-47037
+  teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-47037"></a>
-- t-002
-  global_id: t-47037
-  teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183063"></a>
-- t-003
+- t-002
   global_id: t-183063
   teiginys: 'Algirdas ir Kęstutis pasiuntė į Niurnbergą šeimos narį, kuris įtikino imperatorių, kad Lietuva krikštysis.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis
-    Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
-    Niurnbergas, 1741 m.
-    vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių
-    tikslų. Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
-    roko epochą, jų būta gerokai mažiau nei lenkiškų ar lotyniškų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Niurnbergo
@@ -75,9 +54,9 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Algirdas ir Kęstutis pasiuntė į Niurnbergą šeimos narį, kuris įtikino imperatorių, kad Lietuva krikštysis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -92,4 +71,4 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

@@ -35,7 +35,7 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
 <a id="claim-t-97254"></a>
 - t-002
   global_id: t-97254
-  teiginys: ') Lietuviškoje Enciklopedijoje (Kaune) rodė jo gilią erudiciją.'
+  teiginys: 'Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ buvo originali, bet nebaigta.'
   pagrindžia:
     - c-001
 

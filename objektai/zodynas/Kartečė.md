@@ -57,14 +57,14 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 <a id="claim-t-78900"></a>
 - t-005
   global_id: t-78900
-  teiginys: 'Tačiau apskritai kartečė buvo skirta žeisti priešo karius gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos efektyviai naudoti tolimesniais atstumais.'
+  teiginys: 'Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida ribojo jos efektyvumą toliau.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78901"></a>
 - t-006
   global_id: t-78901
-  teiginys: 'Kartečė buvo skirstoma pagal kulkų svorį į artimojo ir tolimojo nuotolių.'
+  teiginys: 'Pagal kulkų svorį kartečė buvo skirstoma į artimojo ir tolimojo nuotolio kartečę.'
   pagrindžia:
     - c-001
 
@@ -85,6 +85,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagal kulkų svorį kartečė buvo skirstoma į artimojo ir tolimojo nuotolio kartečę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kartečė buvo skirstoma pagal kulkų svorį į artimojo ir tolimojo

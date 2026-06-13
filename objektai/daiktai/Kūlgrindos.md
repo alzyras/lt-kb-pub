@@ -78,6 +78,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Apgulties mašinos]]

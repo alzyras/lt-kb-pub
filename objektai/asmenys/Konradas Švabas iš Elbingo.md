@@ -22,7 +22,7 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 <a id="claim-t-60369"></a>
 - t-001
   global_id: t-60369
-  teiginys: 'Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi šalys patyrė didelių nuostolių sužeistaisiais.'
+  teiginys: 'Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.'
   pagrindžia:
     - c-001
 
@@ -57,3 +57,4 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 - [[objektai/asmenys/Jonas (Sarginio sūnus)]]
 - [[objektai/grupes/Marienverderio miestiečiai]]
 - [[objektai/grupes/Pamedėnai]]
+- [[objektai/zodynas/ginklanešiai]]

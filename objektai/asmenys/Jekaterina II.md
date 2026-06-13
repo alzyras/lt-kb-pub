@@ -39,7 +39,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 <a id="claim-t-170051"></a>
 - t-002
   global_id: t-170051
-  teiginys: 'Augusto Poniatovskio globėjus Čartoriskius, savo ruožtu, rėmė Rusijos imperatorė Jekaterina 11.'
+  teiginys: 'Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 <a id="claim-t-170053"></a>
 - t-004
   global_id: t-170053
-  teiginys: 'Todėl Jekaterina 11 parėmė jų priešininkus Vilniaus-Radomo bajorų konfederaciją (1767-1768 m.).'
+  teiginys: 'Jekaterina II parėmė Čartoriskių priešininkę Vilniaus-Radomo bajorų konfederaciją, veikusią 1767-1768 m.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Augusto Poniatovskio globėjus
@@ -84,6 +85,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     - t-002
 
 - c-002
+  santrauka: 'Jekaterina II parėmė Čartoriskių priešininkę Vilniaus-Radomo bajorų konfederaciją, veikusią 1767-1768 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Todėl Jekaterina 11 parėmė

@@ -31,7 +31,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 <a id="claim-t-176551"></a>
 - t-001
   global_id: t-176551
-  teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
+  teiginys: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   pagrindžia:
     - c-003
 
@@ -59,7 +59,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 <a id="claim-t-176556"></a>
 - t-005
   global_id: t-176556
-  teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė paskutinį patepimą.'
+  teiginys: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė paskutinį patepimą.'
   pagrindžia:
     - c-003
 

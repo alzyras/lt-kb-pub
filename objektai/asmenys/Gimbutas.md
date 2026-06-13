@@ -43,4 +43,3 @@ Gimbutui buvo paskirta valdyti Žemaitija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/ivykiai/Gnievkovo suvažiavimas]]

@@ -22,20 +22,21 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 <a id="claim-t-58846"></a>
 - t-001
   global_id: t-58846
-  teiginys: 'Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti.'
+  teiginys: 'Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58847"></a>
 - t-002
   global_id: t-58847
-  teiginys: 'Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama suktuvu.'
+  teiginys: 'Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     106 (101). Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
@@ -52,6 +53,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
     - t-002
 
 - c-002
+  santrauka: 'Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop vieną dieną visi pakilo  į
@@ -77,5 +79,6 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/daiktai/Arbaletas]]
 - [[objektai/asmenys/Henrikas Tupadelis]]
 - [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]

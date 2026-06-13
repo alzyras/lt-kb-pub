@@ -47,7 +47,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 <a id="claim-t-82002"></a>
 - t-003
   global_id: t-82002
-  teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
+  teiginys: '„Latopisiec Litewski“ pasakoja, kad mūšis vyko prie Vilijos upės, ties Horodoku, Weyiszczuszki vadintoje vietovėje.'
   pagrindžia:
     - c-004
 
@@ -116,6 +116,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     - t-004
 
 - c-004
+  santrauka: '„Latopisiec Litewski“ pasakoja, kad mūšis vyko prie Vilijos upės, ties Horodoku, Weyiszczuszki vadintoje vietovėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Iš

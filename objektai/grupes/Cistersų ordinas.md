@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 <a id="claim-t-88536"></a>
 - t-001
   global_id: t-88536
-  teiginys: 'Dusburgietis teigia, kad antra knygos dalis BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ 1.'
+  teiginys: 'Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams.'
   pagrindžia:
     - c-003
 
@@ -44,14 +44,14 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 <a id="claim-t-88538"></a>
 - t-003
   global_id: t-88538
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  teiginys: 'Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-88539"></a>
 - t-004
   global_id: t-88539
-  teiginys: 'Dusburgietis teigia, kad 161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis, tiesiogiai susijęs su Olivos (prie Gdansko) vienuolynu, kur buvo danų konventas (siejamas.'
+  teiginys: '1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     - t-002
 
 - c-002
+  santrauka: '1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios

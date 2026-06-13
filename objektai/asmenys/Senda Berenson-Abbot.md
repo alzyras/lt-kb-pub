@@ -29,13 +29,14 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 <a id="claim-t-78070"></a>
 - t-001
   global_id: t-78070
-  teiginys: 'Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio motina Senda Berenson-Abbot (Senda Berenson-Abot, g.'
+  teiginys: 'Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O beveik
@@ -67,4 +68,3 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 - [[objektai/asmenys/Oskaras Milašius]]
 - [[objektai/asmenys/Romain Garry]]
 - [[objektai/asmenys/Vitas]]
-- [[objektai/asmenys/Arvydas Sabonis]]

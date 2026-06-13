@@ -47,44 +47,58 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 <a id="claim-t-58799"></a>
 - t-003
   global_id: t-58799
-  teiginys: 'Dusburgietis teigia, kad šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.'
+  teiginys: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą brolių karo laivą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58800"></a>
 - t-004
   global_id: t-58800
-  teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
+  teiginys: '1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, o vėliau su visa šeimyna priėmė krikštą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58802"></a>
 - t-005
   global_id: t-58802
-  teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
+  teiginys: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-58803"></a>
 - t-006
   global_id: t-58803
-  teiginys: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
+  teiginys: '1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-58804"></a>
 - t-007
   global_id: t-58804
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  teiginys: '1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-58805"></a>
 - t-008
   global_id: t-58805
-  teiginys: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
+  teiginys: 'Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.'
   pagrindžia:
     - c-007
+
+<a id="claim-t-184015"></a>
+- t-009
+  global_id: t-184015
+  teiginys: '1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, kurie įsiveržę vėl sugriovė pilį iki pamatų.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-184016"></a>
+- t-010
+  global_id: t-184016
+  teiginys: '1314 m. Sizditės pilėnai Medininkų valsčiuje narsiai priešinosi maršalo Henriko puolimui.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -127,6 +141,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-002
 
 - c-003
+  santrauka: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą brolių karo laivą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną brolių karo laivą
@@ -143,6 +158,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-003
 
 - c-004
+  santrauka: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
@@ -184,6 +200,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-001
 
 - c-006
+  santrauka: '1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
@@ -208,6 +225,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-006
 
 - c-007
+  santrauka: 'Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
@@ -272,12 +290,13 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/Anonas (didysis magistras)]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
+- [[objektai/grupes/Brunsbergo miestiečiai]]
 - [[objektai/asmenys/Folradas]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/pilėnas]]
+- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
-- [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]
 - [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]

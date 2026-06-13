@@ -25,13 +25,14 @@ Krakių vlsč.
 <a id="claim-t-38492"></a>
 - t-001
   global_id: t-38492
-  teiginys: '1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenė puolė partizanų stovyklavietę.'
+  teiginys: '1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LENČIŲ KAUTYNES

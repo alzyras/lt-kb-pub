@@ -26,13 +26,14 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 <a id="claim-t-80708"></a>
 - t-002
   global_id: t-80708
-  teiginys: 'Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos.'
+  teiginys: 'Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Po kaštanais mes persiskyrėme į dvi grupes po šešiolika vyrų. Pirmoji grupė, vadovau-

@@ -20,7 +20,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 <a id="claim-t-84557"></a>
 - t-001
   global_id: t-84557
-  teiginys: '1711 m. ties Prutu caras vos nežuvo su visa kariuomene, bet išsigelbėjo ir sudarė sau palankią taiką.'
+  teiginys: '1711 m. ties Prutu caras, papirkęs sultono ministerius, išsigelbėjo su kariuomene ir sudarė sau gana palankią taiką.'
   pagrindžia:
     - c-002
 
@@ -94,6 +94,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
     - t-003
 
 - c-002
+  santrauka: '1711 m. ties Prutu caras, papirkęs sultono ministerius, išsigelbėjo su kariuomene ir sudarė sau gana palankią taiką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Karo pabaiga.** Karolis XII dar tikėjosi atsigauti, sukėlęs

@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-81839"></a>
 - t-003
   global_id: t-81839
-  teiginys: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
+  teiginys: 'Akademijos teatro įrangoje buvo mediniai laipteliai, mūriniai lentomis apkalti laiptai ir podėlis scenos rykams laikyti.'
   pagrindžia:
     - c-002
 

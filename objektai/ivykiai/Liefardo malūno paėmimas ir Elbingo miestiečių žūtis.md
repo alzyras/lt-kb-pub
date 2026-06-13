@@ -44,27 +44,28 @@ Nenurodyta
 <a id="claim-t-62854"></a>
 - t-001
   global_id: t-62854
-  teiginys: 'Dusburgietis teigia, kad galop sutarė, kad miestiečiai jiems atiduosią 25 savo žymesniuosius vyrus, kad kiti liktų gyvi.'
+  teiginys: 'Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62855"></a>
 - t-002
   global_id: t-62855
-  teiginys: 'Dusburgietis teigia, kad sklido nemaža patikimų pasakojimų, kuriais abejoti neturime pagrindo, kad tuo metu, kai šitai dėjosi, kai kurie miestiečiai, stovėdami ant Elbingo sienų, matę atsivėrusį dangų ir ten angelų vedamas nukautųjų sielas.'
+  teiginys: 'Dusburgiečio pasakojimu, Elbingo miestiečiai nuo sienų matė atsivėrusį dangų ir angelų vedamas nukautųjų sielas.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-62856"></a>
 - t-003
   global_id: t-62856
-  teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
+  teiginys: '1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
@@ -85,6 +86,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rengdamiesi antrą kartą pakilti  į kovą, pagudėnai pradėjo įtikinėti
@@ -101,6 +103,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Dusburgiečio pasakojimu, Elbingo miestiečiai nuo sienų matė atsivėrusį dangų ir angelų vedamas nukautųjų sielas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šitai padarė, pagudėnai, sulaužę taikos susitarimą, vėl pradėjo pulti; kadangi

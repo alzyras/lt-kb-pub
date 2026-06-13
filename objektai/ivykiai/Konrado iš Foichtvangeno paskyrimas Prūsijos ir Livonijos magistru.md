@@ -43,20 +43,21 @@ Nenurodyta
 <a id="claim-t-66630"></a>
 - t-001
   global_id: t-66630
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  teiginys: 'Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66631"></a>
 - t-002
   global_id: t-66631
-  teiginys: 'Dusburgietis teigia, kad ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas R., Kautynės ties Ašerade..., p. 123—132; Lietuvių karas..., p. 179 180).'
+  teiginys: 'Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
@@ -98,3 +99,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/zodynas/didysis magistras]]

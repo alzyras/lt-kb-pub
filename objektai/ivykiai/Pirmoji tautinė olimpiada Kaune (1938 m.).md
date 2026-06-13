@@ -42,14 +42,7 @@ Nenurodyta
 <a id="claim-t-75258"></a>
 - t-001
   global_id: t-75258
-  teiginys: 'Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75259"></a>
-- t-002
-  global_id: t-75259
-  teiginys: '1, kaip tautinės pergalės simbolis, dvasios ir kūno lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams.'
+  teiginys: '1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.'
   pagrindžia:
     - c-001
 

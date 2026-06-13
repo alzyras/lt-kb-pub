@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.
+Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 
 ## Teiginiai
 
 <a id="claim-t-185452"></a>
 - t-001
   global_id: t-185452
-  teiginys: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.'
+  teiginys: 'Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.'
+  santrauka: 'Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip paprastai esti, kai vienoje
@@ -51,6 +51,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.
 - [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/žygūnas]]
 - [[objektai/asmenys/Mikalojus Kurovskis]]
 - [[objektai/paprociai/Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą|Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)]]
 - [[objektai/zodynas/luomas]]

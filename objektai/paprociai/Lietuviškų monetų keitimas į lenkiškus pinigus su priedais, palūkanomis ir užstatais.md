@@ -47,58 +47,23 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-87136"></a>
-- t-001
-  global_id: t-87136
-  teiginys: 'Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr., 9 den.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-87137"></a>
-- t-002
+- t-001
   global_id: t-87137
   teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-87138"></a>
-- t-003
+- t-002
   global_id: t-87138
-  teiginys: 'Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor.'
+  teiginys: 'Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­
-    statyta grandinė karališk. did. reikalams, o die 11 May ad
-    18 Augusti [nuo gegužės 11 dienos iki rugpjūčio 18 dienos]
-    už šimtą zlotų, per savaitę nuo jų po 1 zl., palūkanos sudaro
-    14 zlotų.
-    Be to, Lebedis mokėjo skolas lietuviškomis monetomis,
-    pridėjau 69 flor., 4 gr., 9 den.
-    Be to, buvo keturi sidabriniai dubenys, užstatyti pas
-    auksakalį Adomą a die 16 May ad diem 18 Aug. [nuo gegu­
-    žės 16 dienos iki rugpj. 18 dienos] už tris šimtus flor. Nuo to
-    20 flor. palūkanų. Taip pat buvo trys sidabriniai dubenys
-    442
-
-    ## Puslapis 459
-
-    IV  KNYGA
-    pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.
-    [nuo liepos 10 dienos iki rugpjūčio 18 dienos], nuo pustre­
-    čio šimto zlotų - 16 flor. palūkanų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -119,9 +84,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
+  santrauka: 'Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
@@ -137,15 +103,12 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Lebedis]]
-- [[objektai/asmenys/Markas (žydas kreditorius)]]
 - [[objektai/asmenys/Turčinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/suma]]
 - [[objektai/daiktai/Monetos]]
+- [[objektai/zodynas/florinai]]

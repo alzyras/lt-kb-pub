@@ -40,14 +40,15 @@ Nenurodyta
 <a id="claim-t-62706"></a>
 - t-001
   global_id: t-62706
-  teiginys: 'Dusburgietis teigia, kad jų krašte niekam neleidžiama elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada tinkami.'
+  teiginys: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pagal seną paprotį, kurį
@@ -63,6 +64,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Prūsų krašte nebuvo leidžiama elgetauti, o pavargėliai galėjo vaikščioti nuo namo prie namo ir valgyti kada tinkami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to žmoną

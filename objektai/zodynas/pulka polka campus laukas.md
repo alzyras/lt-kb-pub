@@ -21,13 +21,14 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
 <a id="claim-t-58864"></a>
 - t-001
   global_id: t-58864
-  teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
+  teiginys: 'Prūsijoje žemiausias teritorinio padalijimo vienetas vadintas pulka arba polka, o Dusburgietis jį perteikė lotynišku campus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsijoje žemiausias teritorinio padalijimo vienetas vadintas pulka arba polka, o Dusburgietis jį perteikė lotynišku campus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.

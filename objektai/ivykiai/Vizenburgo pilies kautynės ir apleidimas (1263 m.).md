@@ -44,15 +44,15 @@ Nenurodyta
 <a id="claim-t-62951"></a>
 - t-001
   global_id: t-62951
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
+  teiginys: '1263 m. broliai dėl maisto stokos paliko Vizenburgo pilį ir su ginklanešiais slapta pasitraukė Mazovijos link.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-003
 
 <a id="claim-t-62952"></a>
 - t-002
   global_id: t-62952
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
+  teiginys: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
   pagrindžia:
     - c-001
     - c-002
@@ -60,6 +60,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
@@ -95,6 +96,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1263 m. broliai dėl maisto stokos paliko Vizenburgo pilį ir su ginklanešiais slapta pasitraukė Mazovijos link.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus broliai, pristigę

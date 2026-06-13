@@ -47,7 +47,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 <a id="claim-t-117308"></a>
 - t-003
   global_id: t-117308
-  teiginys: 'Nutraukęs gerus santykius su vokiečiais, turėjo gintis nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu.'
+  teiginys: 'Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.'
   pagrindžia:
     - c-008
 
@@ -61,7 +61,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 <a id="claim-t-117310"></a>
 - t-005
   global_id: t-117310
-  teiginys: 'Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi.'
+  teiginys: 'Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.'
   pagrindžia:
     - c-001
 
@@ -103,7 +103,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 <a id="claim-t-117319"></a>
 - t-013
   global_id: t-117319
-  teiginys: 'Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias veiklos sąlygas kaip Europoje.'
+  teiginys: 'Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti.'
   pagrindžia:
     - c-007
 
@@ -124,6 +124,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sužinoję apie didelį lietuvių
@@ -226,6 +227,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-001
 
 - c-007
+  santrauka: 'Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminas taip pat išsiuntė laiškus Vokietijos
@@ -240,6 +242,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-013
 
 - c-008
+  santrauka: 'Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O
@@ -298,7 +301,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-014
 
 - c-012
-  santrauka: 'Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi.'
+  santrauka: 'Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šitam karo žygiui buvo surinkta kariuomenė ne vien tik iš Že­
@@ -605,7 +608,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/Lietuvos laisvės armija]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]
-- [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
 - [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
 - [[objektai/autoriai/Lindenblattas Johannes Lindenblatt]]
@@ -785,7 +787,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
 - [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
 - [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]
-- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
 - [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
 - [[objektai/ivykiai/Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
@@ -899,7 +900,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
 - [[objektai/autoriai/J. Venta]]
 - [[objektai/asmenys/Jonas XXIII]]
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
@@ -915,5 +915,5 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/Vokiečių saksų batalionas]]
 - [[objektai/autoriai/W. Eckert]]
 - [[objektai/autoriai/Werminghoee, A]]
+- [[objektai/zodynas/neofitas]]
 - [[objektai/zodynas/tautiška politika]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]

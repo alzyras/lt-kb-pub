@@ -40,7 +40,7 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 <a id="claim-t-76527"></a>
 - t-003
   global_id: t-76527
-  teiginys: 'Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
+  teiginys: 'Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-001
 

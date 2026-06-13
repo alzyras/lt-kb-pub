@@ -35,13 +35,14 @@ Nenurodyta
 <a id="claim-t-62218"></a>
 - t-001
   global_id: t-62218
-  teiginys: 'Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol.'
+  teiginys: 'Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu

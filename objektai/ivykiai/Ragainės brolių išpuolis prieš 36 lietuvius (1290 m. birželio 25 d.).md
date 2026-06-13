@@ -44,20 +44,21 @@ Nenurodyta
 <a id="claim-t-62904"></a>
 - t-001
   global_id: t-62904
-  teiginys: 'Dusburgietis teigia, kad tuo tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo būsimų pavojų, pasiuntė žvalgus, turėjusius saugoti kelius; vienas iš jų skubiai sugrįžo ir pasisakė matęs minėtuosius plėšikautojus.'
+  teiginys: 'Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62905"></a>
 - t-002
   global_id: t-62905
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
+  teiginys: '1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
@@ -73,6 +74,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to tučtuojau pasuko atgal. Tuo
@@ -95,5 +97,6 @@ Nenurodyta
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas iš Revelingės]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Burtų metimas prieš karo išpuolį]]
 - [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus]]

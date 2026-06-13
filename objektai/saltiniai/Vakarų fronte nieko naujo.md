@@ -25,13 +25,14 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
 <a id="claim-t-96066"></a>
 - t-001
   global_id: t-96066
-  teiginys: 'Remarko „VAKARŲ FRONTE NIEKO NAUJO“.'
+  teiginys: 'E. M. Remarko „Vakarų fronte nieko naujo“ iš originalo vertė J. Kalnėnas, o viršelį piešė J. Burba.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. M. Remarko „Vakarų fronte nieko naujo“ iš originalo vertė J. Kalnėnas, o viršelį piešė J. Burba.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1. E. M. Remarko „VAKARŲ FRONTE NIEKO NAUJO“. Iš originalo

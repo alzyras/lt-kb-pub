@@ -29,13 +29,14 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
 <a id="claim-t-87922"></a>
 - t-001
   global_id: t-87922
-  teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius.'
+  teiginys: '1485 m. Mykolas Laurinavičius buvo burmistras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1485 m. Mykolas Laurinavičius buvo burmistras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.

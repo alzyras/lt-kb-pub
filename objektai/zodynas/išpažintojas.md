@@ -28,13 +28,14 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
 <a id="claim-t-58905"></a>
 - t-001
   global_id: t-58905
-  teiginys: 'Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą 1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.'
+  teiginys: '1313 m. gegužės 5 d. popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, buvusį popiežių Celestiną V.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1313 m. gegužės 5 d. popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, buvusį popiežių Celestiną V.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą

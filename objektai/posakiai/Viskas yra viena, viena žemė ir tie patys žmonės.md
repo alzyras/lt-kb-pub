@@ -55,13 +55,6 @@ amziai:
   pagrindžia:
     - c-002
 
-<a id="claim-t-71822"></a>
-- t-004
-  global_id: t-71822
-  teiginys: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

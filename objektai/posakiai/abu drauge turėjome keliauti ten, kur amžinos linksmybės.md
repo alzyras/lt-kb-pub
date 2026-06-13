@@ -20,7 +20,7 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
 <a id="claim-t-59071"></a>
 - t-001
   global_id: t-59071
-  teiginys: 'Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio mirtį, jis tarė: „Tikrai nebuvome sulygę, kad jis keliausiąs pirmiau, o aš — paskiau, anaiptol, abu drauge turėjome keliauti ten, kur amžinos linksmybės“.'
+  teiginys: 'Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.'
   pagrindžia:
     - c-001
 

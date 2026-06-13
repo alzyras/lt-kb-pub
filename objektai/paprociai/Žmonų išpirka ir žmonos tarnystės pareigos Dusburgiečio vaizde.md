@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62731"></a>
 - t-001
   global_id: t-62731
-  teiginys: 'Dusburgietis teigia, kad pagal seną paprotį, kurį prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211.'
+  teiginys: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   pagrindžia:
     - c-002
     - c-004
@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-62732"></a>
 - t-002
   global_id: t-62732
-  teiginys: 'Dusburgietis, regis, supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
+  teiginys: 'Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Dusburgietis, regis, supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
+  santrauka: 'Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
@@ -70,6 +70,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pagal seną paprotį, kurį
@@ -99,6 +100,7 @@ Nenurodyta
   statusas: verified
 
 - c-004
+  santrauka: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui

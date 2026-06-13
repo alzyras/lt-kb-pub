@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75130"></a>
 - t-001
   global_id: t-75130
-  teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
+  teiginys: 'Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį, o Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius.'
   pagrindžia:
     - c-001
 
@@ -81,5 +81,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
-- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- [[objektai/grupes/Mokslo bičiulių draugija]]
 - [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
+- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]

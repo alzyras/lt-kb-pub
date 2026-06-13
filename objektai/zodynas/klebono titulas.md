@@ -19,13 +19,14 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
 <a id="claim-t-86594"></a>
 - t-001
   global_id: t-86594
-  teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
+  teiginys: 'Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Dvasios vienuolyno vyresnysis ir broliai prisiėmė panaikintą prieglaudos klebono titulą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šv. sakramentų dalijimas ir rūpinimasis vargšais ir kitais žmo­

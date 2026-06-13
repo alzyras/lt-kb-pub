@@ -20,20 +20,21 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
 <a id="claim-t-61000"></a>
 - t-001
   global_id: t-61000
-  teiginys: 'Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų kronikos, XVI a.'
+  teiginys: '„Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-61001"></a>
 - t-002
   global_id: t-61001
-  teiginys: 'Dusburgietis teigia, kad henriko iš Hohenlohės „Pranešimas...“ — svarbiausias Dusburgiečio kronikos II dalies bei III dalies pradžios šaltinis (iki 60 ar net 67 .)114.'
+  teiginys: 'Henriko iš Hohenlohės „Pranešimas“ buvo svarbiausias Dusburgiečio kronikos II dalies ir III dalies pradžios šaltinis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
@@ -46,6 +47,7 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
     - t-001
 
 - c-002
+  santrauka: 'Henriko iš Hohenlohės „Pranešimas“ buvo svarbiausias Dusburgiečio kronikos II dalies ir III dalies pradžios šaltinis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Henriko iš Hohenlohės „Pranešimas...“ —

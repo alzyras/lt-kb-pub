@@ -71,7 +71,6 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
-- [[objektai/grupes/Kęstučio apygarda]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
 - [[objektai/grupes/Tauro apygarda]]

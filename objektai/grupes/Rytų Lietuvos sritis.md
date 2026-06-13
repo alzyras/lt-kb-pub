@@ -41,7 +41,7 @@ amziai:
 <a id="claim-t-183667"></a>
 - t-003
   global_id: t-183667
-  teiginys: 'Nematydami kitos išeities, bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas kartu su savo žmona, RL štabo nare, štabo sekretore Joana Railaite-Neringa ir partizanu Juozu JovaišaLokiu.'
+  teiginys: 'Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: 'Nematydami kitos išeities, bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas kartu su savo žmona, RL štabo nare, štabo sekretore Joana Railaite-Neringa ir partizanu Juozu JovaišaLokiu.'
+  santrauka: 'Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Išdavikus ly-
@@ -109,5 +109,4 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]

@@ -40,7 +40,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 <a id="claim-t-75551"></a>
 - t-002
   global_id: t-75551
-  teiginys: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
+  teiginys: 'XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.'
   pagrindžia:
     - c-002
 
@@ -54,14 +54,14 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 <a id="claim-t-75553"></a>
 - t-004
   global_id: t-75553
-  teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
+  teiginys: 'Autoriai mano, kad be vokiečių puolimo ir slavų ekspansijos Lietuvos vardas būtų aprėpęs platesnes baltų genčių žemes.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75554"></a>
 - t-005
   global_id: t-75554
-  teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+  teiginys: 'Lietuvių kalbos ir savimonės teritorijai rytuose bei pietuose siaurėjant, Lietuvos vardas su LDK ribomis išplito į rytų slavų žemes.'
   pagrindžia:
     - c-001
 
@@ -189,3 +189,4 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/ekspansija]]

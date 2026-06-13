@@ -34,7 +34,7 @@ periodo_grupes:
 <a id="claim-t-183566"></a>
 - t-002
   global_id: t-183566
-  teiginys: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
+  teiginys: 'Silvestras Valiūnas buvo tarp Žemaitijoje gyvenusių inteligentų, kuriuos Ksavero Bogušo mintis paskatino rašyti poeziją žemaitiškai arba lietuviškai.'
   pagrindžia:
     - c-001
 

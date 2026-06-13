@@ -39,7 +39,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 <a id="claim-t-183553"></a>
 - t-002
   global_id: t-183553
-  teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  teiginys: 'Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 <a id="claim-t-184757"></a>
 - t-004
   global_id: t-184757
-  teiginys: 'Karalius, užbaigęs karą su Maskva, pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
+  teiginys: 'Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
   pagrindžia:
     - c-004
 
@@ -89,7 +89,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
     - t-001
 
 - c-002
-  santrauka: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  santrauka: 'Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia gotika tapo
@@ -135,7 +135,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
     - t-003
 
 - c-004
-  santrauka: 'Karalius, užbaigęs karą su Maskva, pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
+  santrauka: 'Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto

@@ -28,13 +28,14 @@ ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,.
 <a id="claim-t-43783"></a>
 - t-001
   global_id: t-43783
-  teiginys: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
+  teiginys: 'Lietuvos rytinės teritorijos linija ėjo per Miastros ežerą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos rytinės teritorijos linija ėjo per Miastros ežerą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą

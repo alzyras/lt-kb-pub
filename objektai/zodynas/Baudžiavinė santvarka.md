@@ -37,7 +37,7 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 <a id="claim-t-183706"></a>
 - t-002
   global_id: t-183706
-  teiginys: 'Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyriausybė suprato, kad didžiausia kliūtis šalies ūkinei sistemai yra baudžiavinė santvarka, kurią buvo nuspręsta panaikinti.'
+  teiginys: 'Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui.'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
     - t-001
 
 - c-002
-  santrauka: 'Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyriausybė suprato, kad didžiausia kliūtis šalies ūkinei sistemai yra baudžiavinė santvarka, kurią buvo nuspręsta panaikinti.'
+  santrauka: 'Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dauguma

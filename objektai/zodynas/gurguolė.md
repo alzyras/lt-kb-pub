@@ -34,7 +34,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 <a id="claim-t-113626"></a>
 - t-001
   global_id: t-113626
-  teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+  teiginys: 'Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.'
   pagrindžia:
     - c-002
 
@@ -105,6 +105,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     - t-003
 
 - c-002
+  santrauka: 'Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
@@ -305,6 +306,6 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - [[objektai/asmenys/Sudimantas]]
 - [[objektai/zodynas/ariergardas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kolektyvizacija]]
+- [[objektai/asmenys/Liudvikas Pliateris]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]

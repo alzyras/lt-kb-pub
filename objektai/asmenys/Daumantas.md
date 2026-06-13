@@ -39,14 +39,14 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   global_id: t-05162
   teiginys: 'Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-05163"></a>
 - t-003
   global_id: t-05163
   teiginys: 'Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-05164"></a>
 - t-004
@@ -62,61 +62,54 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindžia:
     - c-003
 
-<a id="claim-t-82250"></a>
-- t-006
-  global_id: t-82250
-  teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-82252"></a>
-- t-007
+- t-006
   global_id: t-82252
   teiginys: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-184683"></a>
-- t-008
+- t-007
   global_id: t-184683
   teiginys: 'Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-184684"></a>
-- t-009
+- t-008
   global_id: t-184684
   teiginys: 'Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-184685"></a>
-- t-010
+- t-009
   global_id: t-184685
   teiginys: 'Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-184686"></a>
-- t-011
+- t-010
   global_id: t-184686
   teiginys: 'Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-184687"></a>
-- t-012
+- t-011
   global_id: t-184687
   teiginys: 'Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-184689"></a>
-- t-013
+- t-012
   global_id: t-184689
   teiginys: '1441 m. žemaičiai išsirinko Daumantą kunigaikščiu ir visi lyg vienas rėmė Mykolą.'
   pagrindžia:
-    - c-013
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -176,25 +169,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
-    daugas ne tik sugebėjo sukurti valstybę, bet ir įeiti, nors laikinai, į Europos
-    šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
-    vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
-    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
-    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
-    Mindaugą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jau nuo seniau susitelkusi Treniotos neapykanta Mindaugui užaštrėjo
@@ -214,7 +191,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per krikštą priėmęs Timofėjaus vardą, Daumantas, kaip veiklus
@@ -238,7 +215,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindžia:
     - t-003
 
-- c-008
+- c-007
   santrauka: 'Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -260,9 +237,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
+- c-008
   santrauka: 'Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -297,9 +274,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-010
+- c-009
   santrauka: 'Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -319,9 +296,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-011
+- c-010
   santrauka: 'Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -343,9 +320,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-012
+- c-011
   santrauka: 'Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -373,9 +350,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
-- c-013
+- c-012
   santrauka: '1441 m. žemaičiai išsirinko Daumantą kunigaikščiu ir visi lyg vienas rėmė Mykolą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -400,15 +377,13 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Estai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lybiai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

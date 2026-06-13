@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-184340"></a>
 - t-002
   global_id: t-184340
-  teiginys: 'Tipiškame rusu kolonizacijos ir dalinių valdančiosios Riuriko giminės kunigaikščių visiško susiskaldymo laikotarpyje didelį piūvį rusu politiniame ir kultūriniame gyvenime padarė mongolu (totorių) invazija (1237- 1240).'
+  teiginys: 'Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Tipiškame rusu kolonizacijos ir dalinių valdančiosios Riuriko giminės kunigaikščių visiško susiskaldymo laikotarpyje didelį piūvį rusu politiniame ir kultūriniame gyvenime padarė mongolu (totorių) invazija (1237- 1240).'
+  santrauka: 'Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Rusijos isto­

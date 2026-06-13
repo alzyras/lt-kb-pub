@@ -109,7 +109,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 <a id="claim-t-80776"></a>
 - t-008
   global_id: t-80776
-  teiginys: 'Oficialus jungtinės valstybės pavadinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina Žečpospolita: plg.'
+  teiginys: 'Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.'
   pagrindžia:
     - c-012
 
@@ -119,13 +119,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   teiginys: '1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-80778"></a>
-- t-010
-  global_id: t-80778
-  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-80779"></a>
 - t-011
@@ -144,7 +137,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 <a id="claim-t-80781"></a>
 - t-013
   global_id: t-80781
-  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
+  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisą, pavadintą Abiejų Tautų tarpusavio įžadu.'
   pagrindžia:
     - c-006
 
@@ -158,7 +151,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 <a id="claim-t-80783"></a>
 - t-015
   global_id: t-80783
-  teiginys: 'Jų sūnus Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
+  teiginys: 'Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   pagrindžia:
     - c-009
 
@@ -327,6 +320,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-001
 
 - c-009
+  santrauka: 'Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -387,6 +381,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-002
 
 - c-012
+  santrauka: 'Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
@@ -656,18 +651,21 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/grupes/Bajorijos konfederacija]]
 - [[objektai/asmenys/Davidas Suchetas]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/daiktai/Karacenos šarvų komplektas]]
+- [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
 - [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]
 - [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje|Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)]]
@@ -681,6 +679,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
+- [[objektai/posakiai/„idealiąją Lietuvą“]]
 - [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]

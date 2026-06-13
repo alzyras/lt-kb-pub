@@ -36,9 +36,16 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 <a id="claim-t-60027"></a>
 - t-003
   global_id: t-60027
-  teiginys: 'Dusburgietis teigia, kad šitai išvydęs, valdovas Henrikas iš Lichtenšteino staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį.'
+  teiginys: 'Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-184081"></a>
+- t-004
+  global_id: t-184081
+  teiginys: 'Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -66,6 +73,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - t-002
 
 - c-002
+  santrauka: 'Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
@@ -101,7 +109,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - t-001
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad šitai išvydęs, valdovas Henrikas iš Lichtenšteino staiga užgriuvo priešus ir sugrąžino į pirmykštę vietą atimtą grobį.'
+  santrauka: 'Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė

@@ -28,7 +28,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101466"></a>
 - t-001
   global_id: t-101466
-  teiginys: 'Birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
+  teiginys: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
   pagrindžia:
     - c-002
 
@@ -49,14 +49,14 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101469"></a>
 - t-004
   global_id: t-101469
-  teiginys: 'Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).'
+  teiginys: 'Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-101470"></a>
 - t-005
   global_id: t-101470
-  teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
+  teiginys: 'Priėmus Lenkijos ultimatumą valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos.'
   pagrindžia:
     - c-005
 
@@ -77,41 +77,42 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 <a id="claim-t-101473"></a>
 - t-008
   global_id: t-101473
-  teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoje A. Merkio ministru pirmininku paskirti gen. S. Raštikį.'
+  teiginys: '1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-101474"></a>
 - t-009
   global_id: t-101474
-  teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
+  teiginys: 'Priėmus Lenkijos ultimatumą prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-101475"></a>
 - t-010
   global_id: t-101475
-  teiginys: 'K. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę.'
+  teiginys: 'Spaudžiamas perversmininkų Kazys Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-101476"></a>
 - t-011
   global_id: t-101476
-  teiginys: 'Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąlyginai sugrįžo į valdžią.'
+  teiginys: 'Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-183166"></a>
 - t-012
   global_id: t-183166
-  teiginys: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
+  teiginys: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai sudarė naują valdančiąją koaliciją, prie kurios prisidėjo septyni tautinių mažumų atstovai.'
   pagrindžia:
     - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
@@ -131,6 +132,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-004
 
 - c-002
+  santrauka: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O čia dar po kie-
@@ -147,6 +149,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-001
 
 - c-003
+  santrauka: 'Spaudžiamas perversmininkų Kazys Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
@@ -198,6 +201,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-009
 
 - c-006
+  santrauka: 'Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos
@@ -231,7 +235,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-003
 
 - c-008
-  santrauka: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
+  santrauka: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai sudarė naują valdančiąją koaliciją, prie kurios prisidėjo septyni tautinių mažumų atstovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –

@@ -28,13 +28,14 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 <a id="claim-t-38878"></a>
 - t-002
   global_id: t-38878
-  teiginys: 'Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos valdovo dvaro pulko, dalyvavo ir totoriai, vadovaujami murzos Sivinduko, kunigaikščio Madyko sūnaus.'
+  teiginys: 'Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Be Naugardo, Pskovo, Tverės bei kitų
@@ -76,7 +77,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     - t-001
 
 - c-003
-  santrauka: 'Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos valdovo dvaro pulko, dalyvavo ir totoriai, vadovaujami murzos Sivinduko, kunigaikščio Madyko sūnaus.'
+  santrauka: 'Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kai kurių šiuolaikinių istorikų ver-
@@ -105,3 +106,4 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - [[objektai/grupes/Livonijos valstybė]]
 - [[objektai/asmenys/Zigmantas Herberšteinas]]
 - [[objektai/asmenys/Sivindukas]]
+- [[objektai/grupes/Totoriai]]

@@ -31,7 +31,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 <a id="claim-t-60523"></a>
 - t-001
   global_id: t-60523
-  teiginys: 'Dusburgietis teigia, kad manyta, jog Dusburgiečio rutėnai — galbūt Galičo (SRP, 1, p. 133 — Töppen M.) ar Smolensko kunigaikščių rusai (Pašuta V., Lietuvos.., p. 306—307), nors rusų metraščiai tokios prielaidos neparemia.'
+  teiginys: 'V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami

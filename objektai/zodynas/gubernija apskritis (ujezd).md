@@ -26,13 +26,14 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 <a id="claim-t-22157"></a>
 - t-002
   global_id: t-22157
-  teiginys: 'Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų.'
+  teiginys: 'Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     BUVUSIO VALSTYBINGUMO TRAUKOJE

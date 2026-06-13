@@ -1,12 +1,8 @@
 ---
 tipas: autorius
-pavadinimas: "A. Vanagas"
+pavadinimas: 'A. Vanagas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-aliases:
-  - 'Vanagas A'
-variantai:
-  - 'Vanagas A'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,20 +16,37 @@ tags:
 Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189).
 
 ## Teiginiai
+
 <a id="claim-t-184447"></a>
 - t-001
   global_id: t-184447
-  teiginys: 'Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, raguva, slėnys’ (Vanagas A., Dėl vietovardžio Labguva..., p. 185—189).'
+  teiginys: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
   pagrindžia:
     - c-001
+
 <a id="claim-t-184448"></a>
 - t-002
   global_id: t-184448
-  teiginys: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
+  teiginys: 'A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį.'
   pagrindžia:
-    - c-004
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
+    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
+    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vardas Labguva/ Labgava kilęs iš tokio pat
@@ -42,18 +55,6 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
     A., Dėl vietovardžio Labguva..., p. 185—189).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-- c-004
-  santrauka: 'Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
-    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
-    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-002

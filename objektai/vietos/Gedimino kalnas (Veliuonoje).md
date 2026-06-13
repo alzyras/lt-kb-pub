@@ -21,7 +21,7 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 <a id="claim-t-86069"></a>
 - t-001
   global_id: t-86069
-  teiginys: 'Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.'
+  teiginys: 'Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
     - t-002
 
 - c-002
+  santrauka: 'Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visas kalnas parko dalyje nusėtas nuolaužomis, bet ki-

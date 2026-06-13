@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-26769"></a>
 - t-002
   global_id: t-26769
-  teiginys: 'Vilniuje pašalinamas Lenino paminklas.'
+  teiginys: '1991 m. rugpjūčio 23 d. Vilniuje buvo pašalintas Lenino paminklas.'
   pagrindžia:
     - c-001
 

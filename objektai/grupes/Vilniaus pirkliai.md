@@ -78,7 +78,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 <a id="claim-t-172858"></a>
 - t-008
   global_id: t-172858
-  teiginys: 'Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado daug lobingų, su svečiais kraštais mainus vykdančių pirklių19.'
+  teiginys: 'Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba ir atsirado daug turtingų su užsienio kraštais prekiavusių pirklių.'
   pagrindžia:
     - c-006
 
@@ -264,6 +264,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-007
 
 - c-006
+  santrauka: 'Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba ir atsirado daug turtingų su užsienio kraštais prekiavusių pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ulrikas uoliai įvykdė karaliaus

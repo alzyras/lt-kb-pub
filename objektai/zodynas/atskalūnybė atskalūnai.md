@@ -22,27 +22,28 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 <a id="claim-t-58806"></a>
 - t-001
   global_id: t-58806
-  teiginys: 'Dusburgietis teigia, kad visa tai leidžia daryti išvadą ir nedvejojant tikėti, kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos šį buvusių ir būsimų atskalūnybių antkrytį, norėdamas, kad nukautieji gautų danguje pelnytą atpildą, o likę gyvi.'
+  teiginys: 'Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58807"></a>
 - t-002
   global_id: t-58807
-  teiginys: 'Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginimą Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su minėtosios žemės kilmingaisiais.'
+  teiginys: 'Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58808"></a>
 - t-003
   global_id: t-58808
-  teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
+  teiginys: 'Kuršiai po sprendimo dėl belaisvių užpuolė krikščionis iš užnugario, kai broliai pradėjo pulti lietuvius.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     88 (83). Apie Lencenbergo pilies bei daugybės prūsų sudeginimą
@@ -60,6 +61,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     - t-002
 
 - c-002
+  santrauka: 'Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šių dviejų vyrų regėjimai sutapo vienas su kitu net ir tuo, kad visos sielos, kurių kūnai
@@ -77,6 +79,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     - t-001
 
 - c-003
+  santrauka: 'Kuršiai po sprendimo dėl belaisvių užpuolė krikščionis iš užnugario, kai broliai pradėjo pulti lietuvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
@@ -98,7 +101,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     - t-003
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
+  santrauka: 'Kuršiai po sprendimo dėl belaisvių užpuolė krikščionis iš užnugario, kai broliai pradėjo pulti lietuvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -124,5 +127,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - [[objektai/asmenys/Noliubas]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/fogtas]]
 - [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

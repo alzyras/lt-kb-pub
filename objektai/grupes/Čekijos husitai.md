@@ -33,7 +33,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 <a id="claim-t-41207"></a>
 - t-002
   global_id: t-41207
-  teiginys: 'Ordinas, pirmiausia jo Livonijos šaka, toliau liko Švitrigailos rėmėja, nes siekė, kad pastarasis organizuotų platų pietryčių frontą (su voluiniečiais, podoliečiais, totoriais) prieš Lenkiją, kuri su husitais vakaruose rengėsi kovoti prieš Ordiną.'
+  teiginys: 'Lenkija su husitais vakaruose rengėsi kovoti prieš Ordiną.'
   pagrindžia:
     - c-003
 
@@ -82,6 +82,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     - t-003
 
 - c-003
+  santrauka: 'Lenkija su husitais vakaruose rengėsi kovoti prieš Ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ordinas, pirmiausia jo Livonijos šaka,

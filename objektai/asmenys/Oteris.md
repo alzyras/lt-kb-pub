@@ -19,13 +19,14 @@ Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai
 <a id="claim-t-60398"></a>
 - t-001
   global_id: t-60398
-  teiginys: 'Dusburgietis teigia, kad pakliuvo į nelaisvę ir brolis Oteris, tačiau neilgai trukus jam pavyko stebuklingai išsigelbėti.'
+  teiginys: 'Brolis Oteris pateko į nelaisvę, bet netrukus iš jos išsigelbėjo ir dešimt dienų keliavo be maisto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Oteris pateko į nelaisvę, bet netrukus iš jos išsigelbėjo ir dešimt dienų keliavo be maisto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai neteko trijų Notangos vyrų, kritusių kovoje, ir dviejų,

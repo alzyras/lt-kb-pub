@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-169855"></a>
 - t-003
   global_id: t-169855
-  teiginys: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
+  teiginys: '1991 m. sausio 13-ąją Lietuvos AT-AS kreipėsi į SSRS žmones ir ragino stabdyti sovietų kariuomenės agresiją.'
   pagrindžia:
     - c-004
 
@@ -131,6 +131,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: '1991 m. sausio 13-ąją Lietuvos AT-AS kreipėsi į SSRS žmones ir ragino stabdyti sovietų kariuomenės agresiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1991 m. sausio 13-ąją,

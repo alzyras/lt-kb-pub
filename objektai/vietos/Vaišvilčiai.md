@@ -22,13 +22,14 @@ tags:
 <a id="claim-t-32629"></a>
 - t-001
   global_id: t-32629
-  teiginys: 'Nuo Vaišvilčių kaimo Nevėžio aukštupyje siena buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
+  teiginys: 'Salyno akte nuo Vaišvilčių kaimo Nevėžio aukštupyje ordinui tenkančių žemių siena buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Salyno akte nuo Vaišvilčių kaimo Nevėžio aukštupyje ordinui tenkančių žemių siena buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Salyno akte pirmą kartą apytikriai

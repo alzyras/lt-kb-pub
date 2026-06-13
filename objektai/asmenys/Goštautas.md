@@ -315,8 +315,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
 - [[objektai/daiktai/Goštauto liepa]]
-- [[objektai/ivykiai/Grabovo derybos]]
-- [[objektai/ivykiai/Kriavo aktas]]
 - [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]

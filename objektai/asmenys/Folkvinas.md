@@ -29,13 +29,14 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
 <a id="claim-t-60276"></a>
 - t-001
   global_id: t-60276
-  teiginys: 'Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos žemė Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje, šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų ordino didįjį magistrą, prijungti.'
+  teiginys: 'Folkvinas, antras Kristaus karių ordino magistras Livonijoje, šešerius metus ragino Hermaną iš Zalcos prijungti jo ordiną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Folkvinas, antras Kristaus karių ordino magistras Livonijoje, šešerius metus ragino Hermaną iš Zalcos prijungti jo ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
@@ -59,3 +60,4 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]

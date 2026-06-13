@@ -72,14 +72,14 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 <a id="claim-t-89544"></a>
 - t-004
   global_id: t-89544
-  teiginys: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
+  teiginys: 'Priėję dykras, Kristburgo broliai iš pėdsakų suprato, kad lietuvių plėšikautojai pasiskirstė į du būrius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89545"></a>
 - t-005
   global_id: t-89545
-  teiginys: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
+  teiginys: 'Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.'
   pagrindžia:
     - c-008
 
@@ -107,7 +107,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 <a id="claim-t-89549"></a>
 - t-009
   global_id: t-89549
-  teiginys: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
+  teiginys: 'Siena per dykrą ėjo į Preivosto šilus, Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.'
   pagrindžia:
     - c-006
 
@@ -128,7 +128,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 <a id="claim-t-89553"></a>
 - t-013
   global_id: t-89553
-  teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
+  teiginys: 'Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų, išvadavo belaisvius krikščionis ir beveik visus užpuolikus išžudė.'
   pagrindžia:
     - c-009
 
@@ -220,6 +220,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - t-010
 
 - c-006
+  santrauka: 'Siena per dykrą ėjo į Preivosto šilus, Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šiauriau ji kilo stačiai per tyrus į pu­
@@ -251,6 +252,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - t-012
 
 - c-008
+  santrauka: 'Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir šiame karo žygyje, ir ankstyvesniajame begėdiškai išniekino
@@ -313,4 +315,5 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/asmenys/Gundramas]]
 - [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
 - [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]

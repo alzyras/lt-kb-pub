@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-88177"></a>
 - t-002
   global_id: t-88177
-  teiginys: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
+  teiginys: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis LDK gamintus ginklus ir amuniciją.'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
+  santrauka: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis LDK gamintus ginklus ir amuniciją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA

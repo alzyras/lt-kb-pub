@@ -34,14 +34,14 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 <a id="claim-t-64642"></a>
 - t-001
   global_id: t-64642
-  teiginys: 'J. Puzinas parašė Naujausių Proistorinių Tyrinėjimų Duomens.'
+  teiginys: 'J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-64643"></a>
 - t-002
   global_id: t-64643
-  teiginys: 'J. Puzinas parašė Aisčiai istorinių šaltinių šviesoje.'
+  teiginys: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - t-003
 
 - c-002
+  santrauka: 'J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1 (iki 1356 m.),
@@ -83,6 +84,7 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - t-001
 
 - c-003
+  santrauka: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Mulevičienė, I. : _Žiedžiamojo
@@ -104,4 +106,3 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 ### Susiję objektai
 - [[objektai/daiktai/Iždo ir pilių raktai]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/grupes/Aisčiai]]

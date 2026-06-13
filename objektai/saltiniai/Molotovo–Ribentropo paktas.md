@@ -58,7 +58,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 <a id="claim-t-13525"></a>
 - t-004
   global_id: t-13525
-  teiginys: '1989 m. Lietuvos SSR Aukščiausiosios Tarybos sudaryta komisija viešai pasmerkė pakto ir slaptųjų protokolų padarinius.'
+  teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
   pagrindžia:
     - c-003
 
@@ -72,27 +72,28 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 <a id="claim-t-23405"></a>
 - t-006
   global_id: t-23405
-  teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas dėl Molotovo–Ribentropo pakto.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-24565"></a>
 - t-007
   global_id: t-24565
-  teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
+  teiginys: '1940 m. birželio 15 d., realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupavo ir aneksavo Lietuvos Respubliką.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-26663"></a>
 - t-008
   global_id: t-26663
-  teiginys: 'LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.'
+  teiginys: 'LLL siekė, kad SSRS paskelbtų Molotovo–Ribentropo pakto slaptuosius protokolus ir pripažintų paktą negaliojančiu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1940 m. birželio 15 d., realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupavo ir aneksavo Lietuvos Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1940 VI 15
@@ -173,6 +174,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - t-003
 
 - c-005
+  santrauka: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas dėl Molotovo–Ribentropo pakto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors nuolat persekiojama, LLL – vienintelė pogrindžio organizacija,

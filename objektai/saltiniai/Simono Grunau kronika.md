@@ -41,7 +41,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 <a id="claim-t-89540"></a>
 - t-002
   global_id: t-89540
-  teiginys: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
+  teiginys: 'Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 <a id="claim-t-89543"></a>
 - t-005
   global_id: t-89543
-  teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
+  teiginys: 'Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   pagrindžia:
     - c-001
 
@@ -89,6 +89,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - t-001
 
 - c-002
+  santrauka: 'Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.

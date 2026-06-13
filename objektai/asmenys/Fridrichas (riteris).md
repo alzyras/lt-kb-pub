@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Riteris Fridrichas vykdė tai, ko iš jo buvo reikalaujama šv. Grigaliaus vardu.
+Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
 
 ## Teiginiai
 
 <a id="claim-t-186203"></a>
 - t-001
   global_id: t-186203
-  teiginys: 'Riteris Fridrichas vykdė tai, ko iš jo buvo reikalaujama šv. Grigaliaus vardu.'
+  teiginys: 'Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Riteris Fridrichas vykdė tai, ko iš jo buvo reikalaujama šv. Grigaliaus vardu.'
+  santrauka: 'Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vestfalijos vėliavininkas Degenhar-

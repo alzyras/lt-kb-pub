@@ -65,21 +65,21 @@ Nenurodyta
 <a id="claim-t-59726"></a>
 - t-002
   global_id: t-59726
-  teiginys: 'Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
+  teiginys: 'Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59727"></a>
 - t-003
   global_id: t-59727
-  teiginys: 'Dusburgietis teigia, kad rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219, 223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.'
+  teiginys: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų rado prieglobstį Lietuvos valstybės teritorijoje ir toliau dalyvavo bendroje kovoje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59728"></a>
 - t-004
   global_id: t-59728
-  teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
+  teiginys: 'Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.'
   pagrindžia:
     - c-003
 
@@ -106,6 +106,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų rado prieglobstį Lietuvos valstybės teritorijoje ir toliau dalyvavo bendroje kovoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
@@ -124,6 +125,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
@@ -141,6 +143,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė

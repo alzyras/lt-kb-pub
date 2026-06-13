@@ -29,7 +29,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 <a id="claim-t-182566"></a>
 - t-001
   global_id: t-182566
-  teiginys: 'Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
+  teiginys: 'Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **11. Kryžiuočių ordino atsikraustymas į Prūsus**

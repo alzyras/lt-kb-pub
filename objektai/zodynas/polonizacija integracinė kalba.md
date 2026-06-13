@@ -29,7 +29,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 <a id="claim-t-22249"></a>
 - t-002
   global_id: t-22249
-  teiginys: 'Seime lenkų kalba Lietuvos bajorų reikalavimu įteisinta kaip oficiali raštinių kalba vietoje anksčiau vartotos rusėnų raštų kalbos.'
+  teiginys: 'Seime lenkų kalba Lietuvos bajorų reikalavimu įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - t-001
 
 - c-002
+  santrauka: 'Seime lenkų kalba Lietuvos bajorų reikalavimu įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seime jai suteikiamas oficialios raštinių kalbos

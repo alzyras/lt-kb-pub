@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-45477"></a>
 - t-002
   global_id: t-45477
-  teiginys: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
+  teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.'
   pagrindžia:
     - c-002
 
@@ -85,6 +85,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi

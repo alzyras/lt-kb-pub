@@ -35,13 +35,14 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 <a id="claim-t-97721"></a>
 - t-002
   global_id: t-97721
-  teiginys: 'Per Prūsus, Lietuvai paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki Aistmarių.'
+  teiginys: 'Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­

@@ -66,4 +66,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/autoriai/Hermanas Vartbergė]]
-- [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]

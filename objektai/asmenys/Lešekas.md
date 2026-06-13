@@ -101,4 +101,5 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvių žygis į Sembą Prūsijoje]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]
 - [[objektai/grupes/Lenkai]]

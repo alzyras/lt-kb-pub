@@ -22,13 +22,14 @@ Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams
 <a id="claim-t-100002"></a>
 - t-001
   global_id: t-100002
-  teiginys: 'Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net jėga priversti » paklusti Romos Bažnyčiai.'
+  teiginys: 'Jogaila dokumente įsipareigojo lietuvių tautos gyventojus „patraukti, pašaukti, net jėga priversti“ paklusti Romos Bažnyčiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogaila dokumente įsipareigojo lietuvių tautos gyventojus „patraukti, pašaukti, net jėga priversti“ paklusti Romos Bažnyčiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie to jie « gali

@@ -73,7 +73,7 @@ periodo_grupes:
 <a id="claim-t-172928"></a>
 - t-015
   global_id: t-172928
-  teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
+  teiginys: 'Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.'
   pagrindžia:
     - c-015
 
@@ -556,6 +556,7 @@ periodo_grupes:
     - t-008
 
 - c-015
+  santrauka: 'Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7

@@ -22,7 +22,7 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 <a id="claim-t-35148"></a>
 - t-001
   global_id: t-35148
-  teiginys: 'Kujavų vyskupas Jonas Kropidla Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas.'
+  teiginys: 'Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo, tiesa, tik didelio darbo pradmens, bet tuo metu nie­

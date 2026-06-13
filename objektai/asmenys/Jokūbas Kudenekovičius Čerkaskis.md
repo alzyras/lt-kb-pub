@@ -45,7 +45,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 <a id="claim-t-183743"></a>
 - t-003
   global_id: t-183743
-  teiginys: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
+  teiginys: 'Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.'
   pagrindžia:
     - c-002
 
@@ -96,4 +96,3 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]

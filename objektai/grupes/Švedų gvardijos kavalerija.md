@@ -28,13 +28,14 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
 <a id="claim-t-41216"></a>
 - t-002
   global_id: t-41216
-  teiginys: 'T. Lackio husarai ryžtingu puolimu nubloškė Švedų gvardijos kavaleriją iš mūšio lauko.'
+  teiginys: 'T. Lackio husarai ryžtingu puolimu nubloškė Švedų gvardijos kavaleriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Lackio husarai ryžtingu puolimu nubloškė Švedų gvardijos kavaleriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka

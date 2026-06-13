@@ -19,13 +19,14 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
 <a id="claim-t-80659"></a>
 - t-001
   global_id: t-80659
-  teiginys: 'Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo anksčiau, kol jie delsė, į Vilnių spėjo atvykti rusų Gvardijos divizija, artėjo ir 1-oji rezervo divizija.'
+  teiginys: 'Sukilėliams delsiant pulti Vilnių, į miestą spėjo atvykti Rusijos Gvardijos divizija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sukilėliams delsiant pulti Vilnių, į miestą spėjo atvykti Rusijos Gvardijos divizija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vangus sukilėlių kariuo-

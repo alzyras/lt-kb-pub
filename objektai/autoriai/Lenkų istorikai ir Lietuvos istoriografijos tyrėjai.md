@@ -108,14 +108,14 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 <a id="claim-t-179522"></a>
 - t-012
   global_id: t-179522
-  teiginys: 'Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus universiteto Lietuvos istorijos katedros prof. St.'
+  teiginys: 'St. Zajączkowskis skyrė dėmesio Lietuvos istorijai, rašė apie žemaičius, jotvingius ir kitus XIII-XV a. Lietuvos klausimus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-179523"></a>
 - t-013
   global_id: t-179523
-  teiginys: 'Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių santykius su Lietuva iki vokiečių ordino žlugimo (1525); atskirai išleido dar Geschichte des deutschen Ritterordens (1857-1859) ir CDPr.'
+  teiginys: 'J. Voigtas 1827-1838 m. devyniatomiame veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m.'
   pagrindžia:
     - c-009
 
@@ -129,7 +129,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 <a id="claim-t-179525"></a>
 - t-015
   global_id: t-179525
-  teiginys: 'Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra iš 1947 m.'
+  teiginys: 'W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius.'
   pagrindžia:
     - c-003
 
@@ -164,6 +164,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'St. Zajączkowskis skyrė dėmesio Lietuvos istorijai, rašė apie žemaičius, jotvingius ir kitus XIII-XV a. Lietuvos klausimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus

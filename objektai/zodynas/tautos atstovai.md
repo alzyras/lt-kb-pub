@@ -35,7 +35,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 <a id="claim-t-70357"></a>
 - t-002
   global_id: t-70357
-  teiginys: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
+  teiginys: '1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.'
   pagrindžia:
     - c-002
 

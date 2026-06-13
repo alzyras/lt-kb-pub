@@ -21,27 +21,28 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 <a id="claim-t-60046"></a>
 - t-001
   global_id: t-60046
-  teiginys: 'Dusburgietis teigia, kad po pergalės jie aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį atiduodami minėtajam kriviui, kuris tą dalį degino.'
+  teiginys: 'Po pergalės kriviui atiduodavo trečdalį karo grobio aukos, o krivis tą dalį sudegindavo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60047"></a>
 - t-002
   global_id: t-60047
-  teiginys: 'Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų207 bei.'
+  teiginys: 'Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60048"></a>
 - t-003
   global_id: t-60048
-  teiginys: 'Dusburgietis teigia, kad dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas nedvejodamas pasakydavo, kokie buvo.'
+  teiginys: 'Dusburgiečio pasakojime krivis mirusiojo tėvams nurodydavo mirusiojo drabužius, ginklus, žirgus ir šeimyną.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
@@ -89,6 +90,7 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/zodynas/krivūlė]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/prastuomenė]]
+- [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
 - [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/zodynas/Romuva krivis]]
-- [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]

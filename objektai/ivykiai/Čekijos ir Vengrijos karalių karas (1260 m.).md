@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-62539"></a>
 - t-001
   global_id: t-62539
-  teiginys: 'Dusburgietis teigia, kad apie Čekijos ir Vengrijos karalių karą 1260 viešpaties metais Vengrijos karalius užpuolė Čekijos karalių, turėdamas įvairiatautę 40 tūkstančių raitiją.'
+  teiginys: '1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Čekijos ir Vengrijos karalių karą

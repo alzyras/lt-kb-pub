@@ -30,14 +30,14 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 <a id="claim-t-87899"></a>
 - t-001
   global_id: t-87899
-  teiginys: 'Karalaitis Kazimieras mirė nuo džiovos Žemutinėje pilyje kovo 4 d.'
+  teiginys: 'Karalaitis Kazimieras mirė nuo džiovos Vilniaus Žemutinėje pilyje 1484 m. kovo 4 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalaitis Kazimieras mirė nuo džiovos Žemutinėje pilyje kovo 4 d.'
+  santrauka: 'Karalaitis Kazimieras mirė nuo džiovos Vilniaus Žemutinėje pilyje 1484 m. kovo 4 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­

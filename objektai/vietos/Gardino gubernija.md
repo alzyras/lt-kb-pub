@@ -26,7 +26,7 @@ amziai:
 <a id="claim-t-101721"></a>
 - t-001
   global_id: t-101721
-  teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
+  teiginys: '1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.'
   pagrindžia:
     - c-004
 

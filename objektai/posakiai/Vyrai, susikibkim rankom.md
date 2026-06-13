@@ -27,13 +27,14 @@ tags:
 <a id="claim-t-09681"></a>
 - t-001
   global_id: t-09681
-  teiginys: 'Bokšto gynėjams esant mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę“.'
+  teiginys: 'Kai prie bokšto buvo mažiau gynėjų, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kai prie bokšto buvo mažiau gynėjų, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Čia bokšto

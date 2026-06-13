@@ -35,13 +35,14 @@ Nenurodyta
 <a id="claim-t-66908"></a>
 - t-001
   global_id: t-66908
-  teiginys: 'Nors bankų veiklos sukrėtimai Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, sumažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.'
+  teiginys: '1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi

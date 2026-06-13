@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-89368"></a>
 - t-001
   global_id: t-89368
-  teiginys: 'Dusburgietis teigia, kad sitai padaręs, magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava, ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog jiems bus leista netrukdomiems iš čia išeiti su visa manta.'
+  teiginys: 'Magistras su kariuomene įsiveržė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį su sąlyga, kad jie galės išeiti su manta.'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-89370"></a>
 - t-003
   global_id: t-89370
-  teiginys: 'Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.'
+  teiginys: 'Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.'
   pagrindžia:
     - c-002
     - c-003
@@ -66,6 +66,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras su kariuomene įsiveržė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį su sąlyga, kad jie galės išeiti su manta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai padaręs,
@@ -84,6 +85,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;

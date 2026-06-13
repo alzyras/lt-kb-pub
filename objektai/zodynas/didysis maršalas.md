@@ -27,13 +27,14 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 <a id="claim-t-58898"></a>
 - t-001
   global_id: t-58898
-  teiginys: 'Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus 100 kelių į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti, kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau.'
+  teiginys: 'Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo 1312 m. Karaliaučiuje buvo didžiojo maršalo rezidencija, iš kurios jis organizavo žygius į Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
@@ -61,4 +62,3 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 - [[objektai/asmenys/Stanislovas Soltanas]]
 - [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]
 - [[objektai/asmenys/Frydrichas fon Valenrodas]]
-- [[objektai/asmenys/Kunas fon Lichtenšteinas]]

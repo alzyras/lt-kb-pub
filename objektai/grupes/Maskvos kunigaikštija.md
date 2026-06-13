@@ -50,14 +50,14 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 <a id="claim-t-92730"></a>
 - t-004
   global_id: t-92730
-  teiginys: 'Tveriaus kunigaikštis, turėjęs žemes Maskvos kairėje, 1427 m. buvo užmezgęs taikius santykius su Vytautu.'
+  teiginys: '1427 m. Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-92731"></a>
 - t-005
   global_id: t-92731
-  teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  teiginys: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   pagrindžia:
     - c-002
 
@@ -89,6 +89,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-001
 
 - c-002
+  santrauka: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad ir po didelių pastangų, bet į gyvenimo galą
@@ -162,7 +163,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-003
 
 - c-006
-  santrauka: 'Tveriaus kunigaikštis, turėjęs žemes Maskvos kairėje, 1427 m. buvo užmezgęs taikius santykius su Vytautu.'
+  santrauka: '1427 m. Maskvos kunigaikštija buvo apsupta žemių, kurios vienu ar kitu būdu pripažino Vytauto autoritetą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat Tveriaus kunigaikštis, turėjęs savo že­
@@ -189,7 +190,8 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/saar]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
+- [[objektai/asmenys/Vosylius]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

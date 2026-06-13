@@ -19,13 +19,14 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 <a id="claim-t-32331"></a>
 - t-001
   global_id: t-32331
-  teiginys: 'Žemė „Magus“ laikoma lietuvių ir latvių plotais.'
+  teiginys: 'Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'-

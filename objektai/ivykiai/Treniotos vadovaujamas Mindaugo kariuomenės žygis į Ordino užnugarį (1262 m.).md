@@ -45,14 +45,15 @@ Nenurodyta
 <a id="claim-t-62940"></a>
 - t-001
   global_id: t-62940
-  teiginys: 'Dusburgietis teigia, kad štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160).'
+  teiginys: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
@@ -67,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Priešiškuose lietuviams
@@ -89,6 +91,6 @@ Nenurodyta
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/asmenys/Treniota]]
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/asmenys/Treniota]]

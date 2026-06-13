@@ -45,7 +45,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 <a id="claim-t-40517"></a>
 - t-003
   global_id: t-40517
-  teiginys: '1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje.'
+  teiginys: '1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.'
   pagrindžia:
     - c-003
 
@@ -59,7 +59,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 <a id="claim-t-184858"></a>
 - t-006
   global_id: t-184858
-  teiginys: 'Po pergalės Vladislovas per pasiuntinius pasiūlė broliui tartis dėl santarvės.'
+  teiginys: 'Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.'
   pagrindžia:
     - c-006
 
@@ -138,6 +138,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-001
 
 - c-003
+  santrauka: '1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1435 m. gruodžio 31 d. sudaryta Bresto
@@ -225,7 +226,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-005
 
 - c-006
-  santrauka: 'Po pergalės Vladislovas per pasiuntinius pasiūlė broliui tartis dėl santarvės.'
+  santrauka: 'Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sumuštas vos ne vos paspruko iš

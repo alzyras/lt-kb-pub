@@ -54,14 +54,14 @@ Nenurodyta
 <a id="claim-t-78701"></a>
 - t-002
   global_id: t-78701
-  teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
+  teiginys: 'Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78702"></a>
 - t-003
   global_id: t-78702
-  teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
+  teiginys: 'Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos.'
   pagrindžia:
     - c-002
 
@@ -101,6 +101,7 @@ Nenurodyta
     - t-005
 
 - c-002
+  santrauka: 'Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Garsiajame
@@ -151,4 +152,5 @@ Nenurodyta
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/Antemurale Christianitatis]]

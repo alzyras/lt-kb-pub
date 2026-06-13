@@ -33,7 +33,7 @@ amziai:
 <a id="claim-t-184355"></a>
 - t-002
   global_id: t-184355
-  teiginys: 'Šitaip atsirado dvilaukė sistema.'
+  teiginys: 'Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti.'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Šitaip atsirado dvilaukė sistema.'
+  santrauka: 'Dvilaukė sistema atsirado iš lydiminės žemdirbystės, kai nulaisintas lydimas ilgai turėjo pūdymauti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitaip

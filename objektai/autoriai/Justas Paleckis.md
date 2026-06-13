@@ -35,7 +35,7 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 <a id="claim-t-183345"></a>
 - t-003
   global_id: t-183345
-  teiginys: 'Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto.'
+  teiginys: '1940 m. birželio 17 d. Justas Paleckis buvo paskirtas sovietų remtos „Liaudies vyriausybės“ ministru pirmininku.'
   pagrindžia:
     - c-002
 

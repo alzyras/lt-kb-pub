@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-97104"></a>
 - t-001
   global_id: t-97104
-  teiginys: 'Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
+  teiginys: 'E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės

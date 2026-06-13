@@ -45,7 +45,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 <a id="claim-t-174026"></a>
 - t-003
   global_id: t-174026
-  teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
+  teiginys: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
     - c-001
 
@@ -59,6 +59,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiaurės karas

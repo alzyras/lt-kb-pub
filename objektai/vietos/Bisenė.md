@@ -31,41 +31,42 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 <a id="claim-t-58379"></a>
 - t-001
   global_id: t-58379
-  teiginys: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir.'
+  teiginys: 'Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58380"></a>
 - t-002
   global_id: t-58380
-  teiginys: 'Dusburgietis teigia, kad apie 80 lietuvių žūtį 1316 metais Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies, turėjo iš čia pasitraukti, o į jų vietą ateiti.'
+  teiginys: '1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58381"></a>
 - t-003
   global_id: t-58381
-  teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
+  teiginys: '1316 m. balandžio 4 d. broliai su Ragainės ginklanešiais įėjo į tuščią Bisenės pilį ir sudegino ją iki pamatų.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-58382"></a>
 - t-004
   global_id: t-58382
-  teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
+  teiginys: '1313 m. rudenį Henrikas su broliais ir Sembos bei Notangos vyrais puolė Bisenės pilį, o per kovas sudegė abu jos papiliai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184933"></a>
 - t-005
   global_id: t-184933
-  teiginys: 'Kraštą niokoję pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
+  teiginys: 'Kraštą niokoję kryžiuočių pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1313 m. rudenį Henrikas su broliais ir Sembos bei Notangos vyrais puolė Bisenės pilį, o per kovas sudegė abu jos papiliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     319 (312). Apie Bisenės papilių sudeginimą 1313 metais
@@ -85,6 +86,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-004
 
 - c-002
+  santrauka: 'Henrikas iš Plockės su kariuomene ilgai puolė Bisenės pilį, bet nutraukė apgulą jos neužėmęs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
@@ -99,6 +101,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-001
 
 - c-003
+  santrauka: '1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
@@ -119,6 +122,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-002
 
 - c-004
+  santrauka: '1316 m. balandžio 4 d. broliai su Ragainės ginklanešiais įėjo į tuščią Bisenės pilį ir sudegino ją iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bisenės pilies sudeginimą 1316 metais
@@ -137,7 +141,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-003
 
 - c-005
-  santrauka: 'Kraštą niokoję pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
+  santrauka: 'Kraštą niokoję kryžiuočių pulkai buvo sutraukti prie Bisenės pilies ir ją apgulė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,

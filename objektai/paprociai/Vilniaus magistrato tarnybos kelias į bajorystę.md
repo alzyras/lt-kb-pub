@@ -48,14 +48,14 @@ Nenurodyta
 <a id="claim-t-87308"></a>
 - t-001
   global_id: t-87308
-  teiginys: 'Gardino seimas suteikė bajorystę Vilniaus miestiečiams, nepriekaištingai ėjusiems vaito, tarybos nario ar šuolininko pareigas magistrate.'
+  teiginys: 'Gardino seimo privilegija Vilniaus miestiečius, nepriekaištingai ėjusius vaito, tarybos nario ar šuolininko pareigas, pakėlė į bajorų luomą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gardino seimas suteikė bajorystę Vilniaus miestiečiams, nepriekaištingai ėjusiems vaito, tarybos nario ar šuolininko pareigas magistrate.'
+  santrauka: 'Gardino seimo privilegija Vilniaus miestiečius, nepriekaištingai ėjusius vaito, tarybos nario ar šuolininko pareigas, pakėlė į bajorų luomą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O 1568 metų

@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-89378"></a>
 - t-001
   global_id: t-89378
-  teiginys: 'Dusburgietis teigia, kad tvirtindama savo pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru62.'
+  teiginys: 'Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.'
   pagrindžia:
     - c-001
 

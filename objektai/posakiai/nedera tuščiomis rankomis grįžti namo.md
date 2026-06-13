@@ -20,13 +20,21 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 <a id="claim-t-59136"></a>
 - t-001
   global_id: t-59136
-  teiginys: 'Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo.'
+  teiginys: 'Broliai nusprendė negrįžti namo tuščiomis rankomis, įsiveržė į Aukaimio pilies apylinkes ir jas nuniokojo.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184037"></a>
+- t-002
+  global_id: t-184037
+  teiginys: 'Birželio 29 d. Henriko Cutsverto vadovaujami broliai nusprendė negrįžti tuščiomis ir nuniokojo Aukaimio pilies apylinkes.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Broliai nusprendė negrįžti namo tuščiomis rankomis, įsiveržė į Aukaimio pilies apylinkes ir jas nuniokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to broliai,
@@ -41,7 +49,7 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo.'
+  santrauka: 'Birželio 29 d. Henriko Cutsverto vadovaujami broliai nusprendė negrįžti tuščiomis ir nuniokojo Aukaimio pilies apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Aukaimio valsčiaus nusiaubimą
@@ -68,3 +76,4 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 - [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

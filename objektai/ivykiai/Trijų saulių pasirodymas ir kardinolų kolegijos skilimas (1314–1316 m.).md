@@ -45,21 +45,22 @@ Nenurodyta
 <a id="claim-t-62941"></a>
 - t-001
   global_id: t-62941
-  teiginys: 'Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.'
+  teiginys: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-003
 
 <a id="claim-t-62942"></a>
 - t-002
   global_id: t-62942
-  teiginys: 'Dusburgietis teigia, kad sitai ir buvo ženklas bei požymis, rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija.'
+  teiginys: 'Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,
@@ -74,6 +75,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
@@ -90,6 +92,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     115. Apie tris saulės spindulius ir kolegijos suskilimą
@@ -109,4 +112,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kardinolų kolegija]]
 - [[objektai/autoriai/Komestorius]]

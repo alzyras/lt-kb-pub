@@ -49,37 +49,11 @@ Nenurodyta
   global_id: t-179463
   teiginys: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-179464"></a>
-- t-002
-  global_id: t-179464
-  teiginys: 'Jai užimti, be kitų karo pabūklų, turėjo pasidarę aštuoniolika svaidomųjų mašinų ir pilį apgulę laikė penkias savaites.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pasitelkdami amate įgudusių žmonių, lietuviai atlikdavo ir
-    savo karo žygius, nes, čia pat miške prisikirtę medžių, jie dirbdavosi
-    pilims imti mašinas, kurias stumdavo prie aukštų bokštų ir sienų.
-    Prie apgultos pilies jie pasidarydavo ir įtaisų (lyg katapultų) ak­
-    menims į pilį svaidyti (LReim. 2505, 10.025, 10.050). Per naktį
-    jie sugebėdavo nusitiesti ir tiltą Dauguvai pereiti. Patyrimo rei­
-    kėjo taip pat statant pilis ant aukštų upių skardžių ir išvystant
-    visą gynimosi sistemą, kurioje svarbią rolę vaidino pelkėse po
-    vandeniu išgrįsti vingiuoti keliai, vadinamos « kūlgrindos ». Jų liku­
-    čiai aptinkami keliose vietose Žemaičiuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -97,7 +71,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/grupes/Žiemgaliai]]

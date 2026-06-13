@@ -31,7 +31,14 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 <a id="claim-t-60214"></a>
 - t-001
   global_id: t-60214
-  teiginys: 'Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus.'
+  teiginys: 'Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo apibūdinamas kaip itin stipraus kūno sudėjimo brolis.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-184136"></a>
+- t-002
+  global_id: t-184136
+  teiginys: 'Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.'
   pagrindžia:
     - c-001
 

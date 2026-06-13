@@ -35,13 +35,14 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 <a id="claim-t-86024"></a>
 - t-002
   global_id: t-86024
-  teiginys: 'Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo.'
+  teiginys: 'Dinaburgo komtūro pranešimas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dinaburgo komtūro pranešimas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dinaburgo komtūras praneša Livonijos magistrui, kad

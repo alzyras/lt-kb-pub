@@ -22,13 +22,14 @@ Saremas brolis Otto (Blanehom).
 <a id="claim-t-87815"></a>
 - t-001
   global_id: t-87815
-  teiginys: 'Saremas brolis Otto (Blanehom).'
+  teiginys: 'Otto Blanehomas buvo Eželio, dabartinio Saremos, brolis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Otto Blanehomas buvo Eželio, dabartinio Saremos, brolis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Myko­

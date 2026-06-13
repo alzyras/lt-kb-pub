@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-108570"></a>
 - t-003
   global_id: t-108570
-  teiginys: 'Po Napoleono sutriuškinimo Rusijoje drąsiau kelti valdžios reformavimo ir baudžiavos paveldo klausimai.'
+  teiginys: 'Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai.'
   pagrindžia:
     - c-010
 
@@ -82,14 +82,14 @@ Nenurodyta
 <a id="claim-t-108572"></a>
 - t-005
   global_id: t-108572
-  teiginys: 'Po 1447 m. privilegijos palengva prasidėjo tikroji baudžiava (žiūr.'
+  teiginys: 'Po 1447 m. privilegijos palengva prasidėjo tikroji baudžiava, o valstiečiai buvo apkraunami didesniais mokesčiais ir darbais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-108573"></a>
 - t-006
   global_id: t-108573
-  teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
     - c-009
 
@@ -103,7 +103,7 @@ Nenurodyta
 <a id="claim-t-108575"></a>
 - t-008
   global_id: t-108575
-  teiginys: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  teiginys: '1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   pagrindžia:
     - c-005
 
@@ -152,7 +152,7 @@ Nenurodyta
 <a id="claim-t-108583"></a>
 - t-016
   global_id: t-108583
-  teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  teiginys: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
   pagrindžia:
     - c-007
 
@@ -227,6 +227,7 @@ Nenurodyta
     - t-007
 
 - c-005
+  santrauka: '1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai reiškė Lenkijos karalystės ne-
@@ -258,6 +259,7 @@ Nenurodyta
     - t-002
 
 - c-007
+  santrauka: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
@@ -296,6 +298,7 @@ Nenurodyta
     - t-015
 
 - c-009
+  santrauka: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
@@ -312,6 +315,7 @@ Nenurodyta
     - t-006
 
 - c-010
+  santrauka: 'Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas

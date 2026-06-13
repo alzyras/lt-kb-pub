@@ -27,13 +27,14 @@ periodo_grupes:
 <a id="claim-t-39626"></a>
 - t-001
   global_id: t-39626
-  teiginys: 'Žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila (Prisikėlimo apygardos vadas) ir Bronius Liesis-Naktis, Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.'
+  teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. rugpjūčio 13 d. Radviliškio r.

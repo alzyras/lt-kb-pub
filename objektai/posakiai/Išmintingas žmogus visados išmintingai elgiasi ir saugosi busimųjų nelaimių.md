@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
 <a id="claim-t-59097"></a>
 - t-001
   global_id: t-59097
-  teiginys: 'Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.'
+  teiginys: 'Petras Dusburgietis posakiu apie išmintingą žmogų aiškina markgrafo sprendimą pastatyti du karo laivus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis posakiu apie išmintingą žmogų aiškina markgrafo sprendimą pastatyti du karo laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     15. Apie karo laivus ir markgrafo pasitraukimą
@@ -44,4 +45,4 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
+- [[objektai/autoriai/Petras Dusburgietis]]

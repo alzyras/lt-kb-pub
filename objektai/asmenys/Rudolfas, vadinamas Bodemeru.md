@@ -20,7 +20,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 <a id="claim-t-90009"></a>
 - t-001
   global_id: t-90009
-  teiginys: 'Dusburgietis teigia, kad rudolfas, vadinamas Bodemeru subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
+  teiginys: 'Stanta su bendrais Bartenšteino pilyje paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru.'
   pagrindžia:
     - c-001
 
@@ -62,4 +62,3 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - [[objektai/asmenys/Stanta]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Sabinas]]

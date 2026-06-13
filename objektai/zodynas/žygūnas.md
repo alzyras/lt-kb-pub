@@ -255,5 +255,6 @@ atnaujinta: ''
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenčicos seimas|Lenčicos seimas (seimas)]]
 - [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]
 - [[objektai/asmenys/Trepka]]

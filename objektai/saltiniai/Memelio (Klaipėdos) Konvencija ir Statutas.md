@@ -26,27 +26,28 @@ amziai:
 <a id="claim-t-67488"></a>
 - t-001
   global_id: t-67488
-  teiginys: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
+  teiginys: 'Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-67489"></a>
 - t-002
   global_id: t-67489
-  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
+  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183377"></a>
 - t-003
   global_id: t-183377
-  teiginys: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
+  teiginys: '1939 m. pradžioje britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
@@ -63,6 +64,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
@@ -79,7 +81,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
+  santrauka: '1939 m. pradžioje britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-

@@ -21,13 +21,14 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 <a id="claim-t-60391"></a>
 - t-001
   global_id: t-60391
-  teiginys: 'Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo.'
+  teiginys: 'Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
@@ -46,3 +47,4 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/uolektis]]
+- [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų]]

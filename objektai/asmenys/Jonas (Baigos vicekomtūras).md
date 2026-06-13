@@ -28,13 +28,14 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
 <a id="claim-t-60339"></a>
 - t-001
   global_id: t-60339
-  teiginys: 'Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius, pasikliovus viešpačiu, drąsiai stoti į kovą.'
+  teiginys: 'Brolis Jonas, Baigos vicekomtūras, nepritarė sutarčiai ir ragino brolius drąsiai stoti į kovą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Jonas, Baigos vicekomtūras, nepritarė sutarčiai ir ragino brolius drąsiai stoti į kovą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitokia sutartis nepatiko

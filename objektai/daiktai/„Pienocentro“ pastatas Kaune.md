@@ -43,13 +43,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-71581"></a>
-- t-002
-  global_id: t-71581
-  teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +58,6 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 ## Ryšiai

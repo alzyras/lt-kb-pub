@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-77932"></a>
 - t-001
   global_id: t-77932
-  teiginys: 'Be to, prieš vykdami į bendrus seimus, Lietuvos atstovai surengdavo savo „seimavimus“ bendrai pozicijai aptarti.'
+  teiginys: 'Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira

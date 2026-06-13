@@ -21,7 +21,14 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 <a id="claim-t-60320"></a>
 - t-001
   global_id: t-60320
-  teiginys: 'Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir.'
+  teiginys: 'Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-184086"></a>
+- t-002
+  global_id: t-184086
+  teiginys: 'Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę.'
   pagrindžia:
     - c-001
 

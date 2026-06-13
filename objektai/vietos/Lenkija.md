@@ -55,9 +55,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 <a id="claim-t-177339"></a>
 - t-003
   global_id: t-177339
-  teiginys: 'Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
+  teiginys: 'Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
   pagrindžia:
-    - c-057
+    - c-056
 
 <a id="claim-t-177340"></a>
 - t-004
@@ -78,567 +78,546 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177342
   teiginys: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.'
   pagrindžia:
-    - c-069
+    - c-067
 
 <a id="claim-t-177343"></a>
 - t-007
   global_id: t-177343
-  teiginys: 'Lenkija buvo LDK mokytoja.'
+  teiginys: 'Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą.'
   pagrindžia:
-    - c-054
+    - c-053
 
 <a id="claim-t-177344"></a>
 - t-008
   global_id: t-177344
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
+  teiginys: 'Tais pačiais metais totoriai nuniokojo Vengriją ir Lenkiją.'
   pagrindžia:
-    - c-064
+    - c-062
 
 <a id="claim-t-177345"></a>
 - t-009
   global_id: t-177345
   teiginys: 'Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją.'
   pagrindžia:
-    - c-051
+    - c-050
 
 <a id="claim-t-177346"></a>
 - t-010
   global_id: t-177346
   teiginys: 'Lenkija siekė išsaugoti uniją, kad ji neliktų suardyta.'
   pagrindžia:
-    - c-047
-
-<a id="claim-t-177347"></a>
-- t-011
-  global_id: t-177347
-  teiginys: 'Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon- | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant 2 Prūsijai sutiko su pirmu ATR padalijimu.'
-  pagrindžia:
-    - c-060
+    - c-046
 
 <a id="claim-t-177348"></a>
-- t-012
+- t-011
   global_id: t-177348
   teiginys: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
   pagrindžia:
-    - c-041
+    - c-040
 
 <a id="claim-t-177349"></a>
-- t-013
+- t-012
   global_id: t-177349
   teiginys: 'XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą.'
   pagrindžia:
-    - c-068
+    - c-066
 
 <a id="claim-t-177350"></a>
-- t-014
+- t-013
   global_id: t-177350
   teiginys: 'XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.'
   pagrindžia:
-    - c-068
+    - c-066
 
 <a id="claim-t-177351"></a>
-- t-015
+- t-014
   global_id: t-177351
-  teiginys: 'Vokietija kartojo nebeturinti regione interesų, Anglija ir Prancūzija kariavo, o sutriuškinus Lenkiją jų įtaka regione apskritai sumažėjo.'
+  teiginys: 'Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų.'
   pagrindžia:
     - c-022
 
 <a id="claim-t-177352"></a>
-- t-016
+- t-015
   global_id: t-177352
-  teiginys: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  teiginys: 'Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
   pagrindžia:
     - c-028
 
 <a id="claim-t-177353"></a>
-- t-017
+- t-016
   global_id: t-177353
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-177354"></a>
-- t-018
+- t-017
   global_id: t-177354
   teiginys: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
   pagrindžia:
     - c-026
 
 <a id="claim-t-177355"></a>
-- t-019
+- t-018
   global_id: t-177355
-  teiginys: '1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.'
+  teiginys: '1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
   pagrindžia:
-    - c-058
+    - c-057
 
 <a id="claim-t-177356"></a>
-- t-020
+- t-019
   global_id: t-177356
   teiginys: 'Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.'
   pagrindžia:
     - c-007
 
-<a id="claim-t-177357"></a>
-- t-021
-  global_id: t-177357
-  teiginys: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
-  pagrindžia:
-    - c-038
-
 <a id="claim-t-177358"></a>
-- t-022
+- t-020
   global_id: t-177358
   teiginys: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-177359"></a>
-- t-023
+- t-021
   global_id: t-177359
   teiginys: '1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.'
   pagrindžia:
-    - c-066
+    - c-064
 
 <a id="claim-t-177360"></a>
-- t-024
+- t-022
   global_id: t-177360
   teiginys: 'Lietuvos pietvakariuose buvo dar ir trečia valstybė — Lenkija, su kuria išsivystė ilgametis konfliktas.'
   pagrindžia:
     - c-037
 
 <a id="claim-t-177361"></a>
-- t-025
+- t-023
   global_id: t-177361
-  teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
+  teiginys: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.'
   pagrindžia:
-    - c-048
+    - c-047
 
 <a id="claim-t-177362"></a>
-- t-026
+- t-024
   global_id: t-177362
   teiginys: 'Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų.'
   pagrindžia:
     - c-036
 
 <a id="claim-t-177363"></a>
-- t-027
+- t-025
   global_id: t-177363
   teiginys: 'Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva.'
   pagrindžia:
-    - c-049
+    - c-048
 
 <a id="claim-t-177364"></a>
-- t-028
+- t-026
   global_id: t-177364
   teiginys: 'Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-177365"></a>
-- t-029
+- t-027
   global_id: t-177365
-  teiginys: 'Pasauliui, net kai kuriems lietuviams ligi šiol ši konstitucija yra tik Lenkijos konstitucija, nors Lietuvos atstovai 1791 m. rudenį padarė esminę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių valstybės institucijose.'
+  teiginys: '1791 m. rudenį Lietuvos atstovai priėmė Spalio 20-osios pataisą, užtikrinusią Lietuvai pusę pareigybių valstybės institucijose.'
   pagrindžia:
-    - c-039
+    - c-038
 
 <a id="claim-t-177366"></a>
-- t-030
+- t-028
   global_id: t-177366
   teiginys: 'Suvokę, kad būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas krikštas nebūtų išsprendęs ordinų agresijos problemos).'
   pagrindžia:
-    - c-070
+    - c-068
 
 <a id="claim-t-177367"></a>
-- t-031
+- t-029
   global_id: t-177367
-  teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-019
 
 <a id="claim-t-177368"></a>
-- t-032
+- t-030
   global_id: t-177368
   teiginys: 'Regiono šalių bendradarbiavimas negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
   pagrindžia:
     - c-028
 
 <a id="claim-t-177369"></a>
-- t-033
+- t-031
   global_id: t-177369
   teiginys: 'Su Lietuvos kaimynais reikalus tvarkė Lietuvos ministeriai, o su Lenkijos kaimynais - Lenkijos ministeriai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-177371"></a>
-- t-034
+- t-032
   global_id: t-177371
-  teiginys: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
+  teiginys: 'Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-177372"></a>
-- t-035
+- t-033
   global_id: t-177372
   teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
   pagrindžia:
-    - c-052
+    - c-051
 
 <a id="claim-t-177373"></a>
-- t-036
+- t-034
   global_id: t-177373
   teiginys: 'Per aštuoniolika laisvo valdymo metų Vytautas paskleidė savo įtaką rusų kraštuose, Lenkijoje ir Aukso Ordoje.'
   pagrindžia:
     - c-029
 
 <a id="claim-t-177374"></a>
-- t-037
+- t-035
   global_id: t-177374
   teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   pagrindžia:
     - c-024
 
 <a id="claim-t-177375"></a>
-- t-038
+- t-036
   global_id: t-177375
   teiginys: 'Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu.'
   pagrindžia:
-    - c-045
+    - c-044
 
 <a id="claim-t-177376"></a>
-- t-039
+- t-037
   global_id: t-177376
   teiginys: '1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai.'
   pagrindžia:
     - c-020
 
 <a id="claim-t-177377"></a>
-- t-040
+- t-038
   global_id: t-177377
   teiginys: 'Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-177378"></a>
-- t-041
+- t-039
   global_id: t-177378
   teiginys: 'Nors dalį ginčijamų žemių kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.'
   pagrindžia:
-    - c-044
+    - c-043
 
 <a id="claim-t-177379"></a>
-- t-042
+- t-040
   global_id: t-177379
-  teiginys: 'Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija.'
+  teiginys: 'Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai.'
   pagrindžia:
-    - c-053
+    - c-052
 
 <a id="claim-t-177380"></a>
-- t-043
+- t-041
   global_id: t-177380
   teiginys: 'Užpuolusi Lenkiją Vokietija spaudė Lietuvą žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.'
   pagrindžia:
     - c-019
 
 <a id="claim-t-177381"></a>
-- t-044
+- t-042
   global_id: t-177381
   teiginys: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-177382"></a>
-- t-045
+- t-043
   global_id: t-177382
-  teiginys: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  teiginys: '1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-177383"></a>
-- t-046
+- t-044
   global_id: t-177383
   teiginys: 'Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą.'
   pagrindžia:
-    - c-067
+    - c-065
 
 <a id="claim-t-177384"></a>
-- t-047
+- t-045
   global_id: t-177384
-  teiginys: 'Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 dieną Lietuva ultimatumą priėmė.'
+  teiginys: '1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nereikalavo pripažinti Vilniaus Lenkijai.'
   pagrindžia:
     - c-020
 
 <a id="claim-t-177385"></a>
-- t-048
+- t-046
   global_id: t-177385
   teiginys: '1410 m. liepos pradžioje LDK kariuomenė prie Vyslos susijungė su Lenkijos kariuomene.'
   pagrindžia:
-    - c-043
+    - c-042
 
 <a id="claim-t-177386"></a>
-- t-049
+- t-047
   global_id: t-177386
-  teiginys: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  teiginys: '1920 m. spalio 9 d. generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui.'
   pagrindžia:
     - c-011
 
-<a id="claim-t-177387"></a>
-- t-050
-  global_id: t-177387
-  teiginys: 'Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Europoje tolerancijos uostą.'
-  pagrindžia:
-    - c-027
-
 <a id="claim-t-177388"></a>
-- t-051
+- t-049
   global_id: t-177388
   teiginys: '1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-177389"></a>
-- t-052
+- t-050
   global_id: t-177389
   teiginys: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
   pagrindžia:
-    - c-063
+    - c-061
 
 <a id="claim-t-177390"></a>
-- t-053
+- t-051
   global_id: t-177390
   teiginys: 'Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą.'
   pagrindžia:
-    - c-065
+    - c-063
 
 <a id="claim-t-177391"></a>
-- t-054
+- t-052
   global_id: t-177391
   teiginys: 'Per derybas Lenkija jau kontroliavo dalį žemių, kurias A. Jofė sutiko priskirti Lietuvai kartu su Vilniumi.'
   pagrindžia:
     - c-033
 
 <a id="claim-t-177392"></a>
-- t-055
+- t-053
   global_id: t-177392
   teiginys: 'Su Lietuvos kaimynais reikalus tvarkė Lietuvos ministeriai, o su Lenkijos kaimynais – Lenkijos ministeriai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-177393"></a>
-- t-056
+- t-054
   global_id: t-177393
-  teiginys: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
+  teiginys: 'Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu.'
   pagrindžia:
-    - c-061
+    - c-059
 
 <a id="claim-t-177394"></a>
-- t-057
+- t-055
   global_id: t-177394
   teiginys: 'Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   pagrindžia:
-    - c-046
+    - c-045
 
 <a id="claim-t-177395"></a>
-- t-058
+- t-056
   global_id: t-177395
-  teiginys: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
+  teiginys: '1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius.'
   pagrindžia:
-    - c-076
+    - c-074
 
 <a id="claim-t-177396"></a>
-- t-059
+- t-057
   global_id: t-177396
-  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
+  teiginys: 'Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą.'
   pagrindžia:
-    - c-042
+    - c-041
 
 <a id="claim-t-177397"></a>
-- t-060
+- t-058
   global_id: t-177397
-  teiginys: 'Be to, Vengrija su Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo kryžiuočių ir totorių.'
+  teiginys: 'Pagal susitarimą Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių.'
   pagrindžia:
-    - c-040
+    - c-039
 
 <a id="claim-t-177398"></a>
-- t-061
+- t-059
   global_id: t-177398
   teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, tačiau Lietuva pati gynėsi ir sudarinėjo atskiras sutartis.'
   pagrindžia:
-    - c-062
+    - c-060
 
 <a id="claim-t-177399"></a>
-- t-062
+- t-060
   global_id: t-177399
   teiginys: 'Artimiausia Lietuvos kaimynė buvo Lenkija ir Krėvos sutartis atskleidė naują Lietuvos istorijos puslapį: Lietuva atsigręžė į Lenkiją.'
   pagrindžia:
     - c-017
 
 <a id="claim-t-177400"></a>
-- t-063
+- t-061
   global_id: t-177400
   teiginys: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija.'
   pagrindžia:
     - c-035
 
 <a id="claim-t-177401"></a>
-- t-064
+- t-062
   global_id: t-177401
   teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   pagrindžia:
-    - c-062
+    - c-060
 
 <a id="claim-t-177402"></a>
-- t-065
+- t-063
   global_id: t-177402
   teiginys: 'Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste.'
   pagrindžia:
-    - c-042
+    - c-041
 
 <a id="claim-t-177403"></a>
-- t-066
+- t-064
   global_id: t-177403
-  teiginys: 'Kaimynystėje vyravo ūkiai iki 5 ha (Lenkijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio dydžio ūkių procentas panašus: 62 ir 64 proc.).'
+  teiginys: 'Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-177404"></a>
-- t-067
+- t-065
   global_id: t-177404
   teiginys: 'Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.'
   pagrindžia:
-    - c-055
+    - c-054
 
 <a id="claim-t-177406"></a>
-- t-069
+- t-067
   global_id: t-177406
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
+  teiginys: '1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.'
   pagrindžia:
     - c-030
 
 <a id="claim-t-177407"></a>
-- t-070
+- t-068
   global_id: t-177407
   teiginys: 'Ordino viršininkas siekė pasinaudoti nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-177408"></a>
-- t-071
+- t-069
   global_id: t-177408
-  teiginys: 'Kadangi Lenkijos ir Lietuvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos nepriklausomybės.'
+  teiginys: 'Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinis Lietuvos nepriklausomybės siekis.'
   pagrindžia:
     - c-034
 
 <a id="claim-t-177409"></a>
-- t-072
+- t-070
   global_id: t-177409
   teiginys: '1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-177410"></a>
-- t-073
+- t-071
   global_id: t-177410
   teiginys: 'Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.'
   pagrindžia:
-    - c-061
+    - c-059
 
 <a id="claim-t-177411"></a>
-- t-074
+- t-072
   global_id: t-177411
   teiginys: 'Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-177412"></a>
-- t-075
+- t-073
   global_id: t-177412
   teiginys: 'Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti.'
   pagrindžia:
-    - c-056
+    - c-055
 
 <a id="claim-t-177413"></a>
-- t-076
+- t-074
   global_id: t-177413
-  teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis.'
+  teiginys: 'Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus.'
   pagrindžia:
     - c-025
 
 <a id="claim-t-177414"></a>
-- t-077
+- t-075
   global_id: t-177414
-  teiginys: 'Didelė Lietuvos ir Lenkijos tautų neLIETUVA Pe laimė vertė jy visuomenes, dalyvaujant net = a o 60 = I o o m = X Geninias 6 M ir karaliui, bandyti gelbėti valstybę.'
+  teiginys: 'Lietuvos ir Lenkijos tautų nelaimė skatino jų visuomenes ir karalių bandyti gelbėti ATR valstybę.'
   pagrindžia:
-    - c-059
+    - c-058
 
 <a id="claim-t-177415"></a>
-- t-078
+- t-076
   global_id: t-177415
-  teiginys: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
+  teiginys: 'Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė.'
   pagrindžia:
-    - c-050
+    - c-049
 
 <a id="claim-t-177416"></a>
-- t-079
+- t-077
   global_id: t-177416
   teiginys: 'Lenkijoje bajorija jau turėjo plačias politines teises, savivaldybes ir savus teismus.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-177417"></a>
-- t-080
+- t-078
   global_id: t-177417
   teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   pagrindžia:
     - c-032
 
 <a id="claim-t-177418"></a>
-- t-081
+- t-079
   global_id: t-177418
   teiginys: 'Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
   pagrindžia:
     - c-031
 
 <a id="claim-t-177419"></a>
-- t-082
+- t-080
   global_id: t-177419
   teiginys: 'Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją.'
   pagrindžia:
     - c-021
 
 <a id="claim-t-177420"></a>
-- t-083
+- t-081
   global_id: t-177420
   teiginys: 'Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-177421"></a>
-- t-084
+- t-082
   global_id: t-177421
   teiginys: 'Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-183043"></a>
-- t-085
+- t-083
   global_id: t-183043
   teiginys: 'Ordinui varžant Lietuvos prekybą, didelė dalis pietų Lietuvos prekių ėmė keliauti per Lenkiją.'
   pagrindžia:
-    - c-071
+    - c-069
 
 <a id="claim-t-183044"></a>
-- t-086
+- t-084
   global_id: t-183044
   teiginys: 'Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą.'
   pagrindžia:
-    - c-072
+    - c-070
 
 <a id="claim-t-185002"></a>
-- t-092
+- t-090
   global_id: t-185002
   teiginys: 'Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos.'
   pagrindžia:
-    - c-077
+    - c-075
 
 ## Reikšmingi paminėjimai
 
@@ -656,7 +635,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-087
+    - t-085
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -670,8 +649,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-044
-    - t-033
+    - t-042
+    - t-031
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -687,7 +666,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-053
 
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -710,8 +689,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-074
-    - t-017
+    - t-072
+    - t-016
 
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -723,7 +702,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-079
+    - t-077
 
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -739,7 +718,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-083
+    - t-081
 
 - c-007
   santrauka: 'Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.'
@@ -757,8 +736,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
-    - t-020
+    - t-038
+    - t-019
 
 - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -777,6 +756,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     - t-001
 
 - c-009
+  santrauka: 'Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaimynystėje vyravo ūkiai iki 5 ha (Len-
@@ -786,7 +766,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-066
+    - t-064
 
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -808,8 +788,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-070
-    - t-022
+    - t-068
+    - t-020
 
 - c-011
   santrauka: '1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.'
@@ -831,8 +811,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-072
-    - t-049
+    - t-070
+    - t-047
 
 - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -848,7 +828,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-026
 
 - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -878,9 +858,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-049
 
 - c-015
+  santrauka: '1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
@@ -897,7 +878,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-043
 
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -912,7 +893,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-084
+    - t-082
 
 - c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -925,9 +906,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-062
+    - t-060
 
 - c-018
+  santrauka: 'Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
@@ -943,7 +925,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-032
 
 - c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -960,8 +942,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
-    - t-043
+    - t-029
+    - t-041
 
 - c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -977,8 +959,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-047
-    - t-039
+    - t-045
+    - t-037
 
 - c-021
   santrauka: 'Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją.'
@@ -996,9 +978,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-082
+    - t-080
 
 - c-022
+  santrauka: 'Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
@@ -1014,7 +997,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-023
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1046,9 +1029,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
+    - t-035
 
 - c-025
+  santrauka: 'Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie Lenkijos žemės nuniokojimą
@@ -1066,7 +1050,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-076
+    - t-074
 
 - c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1080,9 +1064,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
 - c-027
+  santrauka: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybinė religija ar dešimt konfesijų?
@@ -1093,7 +1078,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-050
+    - t-048
 
 - c-028
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1111,8 +1096,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-    - t-032
+    - t-015
+    - t-030
 
 - c-029
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1128,9 +1113,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-034
 
 - c-030
+  santrauka: '1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
@@ -1147,7 +1133,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-069
+    - t-067
 
 - c-031
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1161,7 +1147,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-081
+    - t-079
 
 - c-032
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1176,7 +1162,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-080
+    - t-078
 
 - c-033
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1192,7 +1178,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-054
+    - t-052
 
 - c-034
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1212,7 +1198,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-071
+    - t-069
     - t-005
 
 - c-035
@@ -1236,7 +1222,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-063
+    - t-061
 
 - c-036
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1251,7 +1237,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-024
 
 - c-037
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1268,24 +1254,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-022
 
 - c-038
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ši trijų dalių Lietuvos sampra-
-    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
-    nebeatitinkanti istorinės tikrovės. Iš tikrųjų tai buvo lenkiška Lietuvos
-    samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
-    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
-    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-021
-
-- c-039
+  santrauka: '1791 m. rudenį Lietuvos atstovai priėmė Spalio 20-osios pataisą, užtikrinusią Lietuvai pusę pareigybių valstybės institucijose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
@@ -1303,9 +1275,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-027
 
-- c-040
+- c-039
+  santrauka: 'Pagal susitarimą Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Už tai Liudvikas jam turėjo iš popie­
@@ -1318,9 +1291,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-060
+    - t-058
 
-- c-041
+- c-040
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, kad
@@ -1334,9 +1307,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
-- c-042
+- c-041
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
@@ -1353,10 +1326,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-065
-    - t-059
+    - t-063
+    - t-057
 
-- c-043
+- c-042
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto pastangos davė rezultatų.
@@ -1368,9 +1341,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-046
 
-- c-044
+- c-043
   santrauka: 'Nors dalį ginčijamų žemių kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1384,9 +1357,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-039
 
-- c-045
+- c-044
   santrauka: 'Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1401,9 +1374,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-036
 
-- c-046
+- c-045
   santrauka: 'Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1424,10 +1397,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-057
-    - t-068
+    - t-055
+    - t-066
 
-- c-047
+- c-046
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
@@ -1440,7 +1413,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-010
 
-- c-048
+- c-047
+  santrauka: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl kunigaikštis pasiuntė pas
@@ -1457,9 +1431,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-023
 
-- c-049
+- c-048
   santrauka: 'Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1472,9 +1446,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-025
 
-- c-050
+- c-049
+  santrauka: 'Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kolektyviza-
@@ -1489,9 +1464,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-078
+    - t-076
 
-- c-051
+- c-050
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
@@ -1512,7 +1487,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-009
 
-- c-052
+- c-051
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiam tikslui jis pasitelkė ne
@@ -1526,9 +1501,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-033
 
-- c-053
+- c-052
+  santrauka: 'Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
@@ -1540,9 +1516,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-040
 
-- c-054
+- c-053
+  santrauka: 'Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau viską nulė-
@@ -1556,7 +1533,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-007
 
-- c-055
+- c-054
   santrauka: 'Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1572,9 +1549,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-067
+    - t-065
 
-- c-056
+- c-055
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečių ir lenkų mažumos darė žygių gauti tautinę
@@ -1593,9 +1570,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-075
+    - t-073
 
-- c-057
+- c-056
+  santrauka: 'Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
@@ -1609,7 +1587,8 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-003
 
-- c-058
+- c-057
+  santrauka: '1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
@@ -1624,9 +1603,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
-- c-059
+- c-058
+  santrauka: 'Lietuvos ir Lenkijos tautų nelaimė skatino jų visuomenes ir karalių bandyti gelbėti ATR valstybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ko gero, tai buvo
@@ -1660,24 +1640,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-077
+    - t-075
 
-- c-060
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tai suerzino kaimyni-
-    Ž i : nes monarchijas ir tapo pirmojo padalijimo pretekstu.
-    Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon-
-    | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant
-
-    2 Prūsijai sutiko su pirmu ATR padalijimu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-061
+- c-059
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
@@ -1692,10 +1657,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-073
-    - t-056
+    - t-071
+    - t-054
 
-- c-062
+- c-060
   santrauka: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1711,10 +1676,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-064
-    - t-061
+    - t-062
+    - t-059
 
-- c-063
+- c-061
   santrauka: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1729,9 +1694,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-050
 
-- c-064
+- c-062
+  santrauka: 'Tais pačiais metais totoriai nuniokojo Vengriją ir Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     22. Apie Vengrijos ir Lenkijos nusiaubimą
@@ -1743,7 +1709,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-008
 
-- c-065
+- c-063
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visiems bendrai ir kiekvie­
@@ -1783,9 +1749,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-053
+    - t-051
 
-- c-066
+- c-064
   santrauka: '1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1803,9 +1769,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-021
 
-- c-067
+- c-065
   santrauka: 'Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1820,9 +1786,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-044
 
-- c-068
+- c-066
   santrauka: 'XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1852,10 +1818,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
     - t-013
+    - t-012
 
-- c-069
+- c-067
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
@@ -1868,7 +1834,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-006
 
-- c-070
+- c-068
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIETUVOS KRIKŠTAS
@@ -1886,9 +1852,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-028
 
-- c-071
+- c-069
   santrauka: 'Ordinui varžant Lietuvos prekybą, didelė dalis pietų Lietuvos prekių ėmė keliauti per Lenkiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1904,9 +1870,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-085
+    - t-083
 
-- c-072
+- c-070
   santrauka: 'Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1929,9 +1895,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-086
+    - t-084
 
-- c-073
+- c-071
   santrauka: 'Lenkijoje bajorija jau turėjo plačias politines teises, savivaldybes ir savus teismus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1945,9 +1911,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-088
+    - t-086
 
-- c-074
+- c-072
   santrauka: 'Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1966,9 +1932,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-089
+    - t-087
 
-- c-075
+- c-073
   santrauka: '1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1981,9 +1947,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-090
+    - t-088
 
-- c-076
+- c-074
   santrauka: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2005,10 +1971,10 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-091
-    - t-058
+    - t-089
+    - t-056
 
-- c-077
+- c-075
   santrauka: 'Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2025,4 +1991,4 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-092
+    - t-090

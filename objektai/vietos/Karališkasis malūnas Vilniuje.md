@@ -49,7 +49,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 <a id="claim-t-55249"></a>
 - t-002
   global_id: t-55249
-  teiginys: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statytis Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
+  teiginys: '1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
   pagrindžia:
     - c-002
 

@@ -30,7 +30,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 <a id="claim-t-66128"></a>
 - t-001
   global_id: t-66128
-  teiginys: 'Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.'
+  teiginys: 'Skandinavai turėjo nuolatinį upių susisiekimą su Bizantija.'
   pagrindžia:
     - c-002
 
@@ -40,6 +40,13 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-182922"></a>
+- t-003
+  global_id: t-182922
+  teiginys: 'Vienas svarbiųjų skandinavų upių kelių į Bizantiją ėjo Dauguva ir Dniepru.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -59,6 +66,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-002
 
 - c-002
+  santrauka: 'Skandinavai turėjo nuolatinį upių susisiekimą su Bizantija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu jie pasiekė ir
@@ -75,7 +83,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-001
 
 - c-003
-  santrauka: 'Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.'
+  santrauka: 'Vienas svarbiųjų skandinavų upių kelių į Bizantiją ėjo Dauguva ir Dniepru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu pasauly geriausiai klestėjo Bizantijos imperija:

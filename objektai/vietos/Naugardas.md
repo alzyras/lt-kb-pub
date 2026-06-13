@@ -90,16 +90,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 <a id="claim-t-94770"></a>
 - t-009
   global_id: t-94770
-  teiginys: 'Livonijos Ordinas padarė prieš Vytautą nukreiptą taiką su Pskovu (1417) ir Naugardu (1421), kas Bažnyčių unijai dar labiau pakenkė.'
+  teiginys: 'Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.'
   pagrindžia:
     - c-010
-
-<a id="claim-t-94771"></a>
-- t-010
-  global_id: t-94771
-  teiginys: 'Vytauto laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
-  pagrindžia:
-    - c-011
 
 <a id="claim-t-94772"></a>
 - t-011
@@ -344,6 +337,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - t-013
 
 - c-010
+  santrauka: 'Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kijeve ir apleisti tikinčiuosius. Livonijos Ordinas padarė

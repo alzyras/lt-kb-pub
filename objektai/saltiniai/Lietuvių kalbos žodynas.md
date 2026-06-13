@@ -36,14 +36,14 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 <a id="claim-t-67439"></a>
 - t-002
   global_id: t-67439
-  teiginys: 'Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno) valdžios ženklas, lazda žmonėms į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661; Lietuvių etnografijos bruožai, p. 528—529; MLTE, 2, p. 220).'
+  teiginys: 'Lietuvių kalbos žodyne krivūlė aiškinama kaip kreiva lazda, buvusi krivio valdžios ženklu ir žmonių šaukimo į kuopą priemone.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183364"></a>
 - t-003
   global_id: t-183364
-  teiginys: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
+  teiginys: 'Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių.'
   pagrindžia:
     - c-003
 
@@ -61,6 +61,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
     - t-001
 
 - c-002
+  santrauka: 'Lietuvių kalbos žodyne krivūlė aiškinama kaip kreiva lazda, buvusi krivio valdžios ženklu ir žmonių šaukimo į kuopą priemone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
@@ -73,7 +74,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
     - t-002
 
 - c-003
-  santrauka: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
+  santrauka: 'Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tęstas 1902 m. Kazi-

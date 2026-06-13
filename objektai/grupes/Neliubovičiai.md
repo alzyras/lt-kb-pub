@@ -27,13 +27,14 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 <a id="claim-t-86814"></a>
 - t-001
   global_id: t-86814
-  teiginys: 'Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.'
+  teiginys: '1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1583. Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių

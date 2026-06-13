@@ -49,7 +49,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 <a id="claim-t-180707"></a>
 - t-003
   global_id: t-180707
-  teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
+  teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
   pagrindžia:
     - c-004
 
@@ -105,7 +105,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 <a id="claim-t-180715"></a>
 - t-011
   global_id: t-180715
-  teiginys: 'Čia prisijungė Livonijos magistro kariuomenė ir šios jungtinės pajėgos „Užnerio puse“ žygiavo į Vilkmergę (Ukmergę).'
+  teiginys: 'Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę.'
   pagrindžia:
     - c-015
 
@@ -119,16 +119,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 <a id="claim-t-180717"></a>
 - t-013
   global_id: t-180717
-  teiginys: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
+  teiginys: '1919 m. gegužės 24 d. Silvestras Žukauskas įsakė Kaziui Ladygai vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-180718"></a>
-- t-014
-  global_id: t-180718
-  teiginys: 'Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, kariuomenės vadovybė įsakė tolimesnį puolimą sustabdyti, kad išsilygintų fronto linija.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-180719"></a>
 - t-015
@@ -151,26 +144,12 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-012
 
-<a id="claim-t-180723"></a>
-- t-018
-  global_id: t-180723
-  teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-180724"></a>
 - t-019
   global_id: t-180724
-  teiginys: 'Vytautas tuo metu veikė Bopartėnų, Ukmergės ir Kulvos srityse.'
+  teiginys: 'Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse.'
   pagrindžia:
     - c-014
-
-<a id="claim-t-180725"></a>
-- t-020
-  global_id: t-180725
-  teiginys: '1919 m. gegužės 24 d. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti į Uteną.'
-  pagrindžia:
-    - c-005
 
 <a id="claim-t-180726"></a>
 - t-021
@@ -182,7 +161,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 <a id="claim-t-180727"></a>
 - t-022
   global_id: t-180727
-  teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  teiginys: 'Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   pagrindžia:
     - c-006
 
@@ -217,7 +196,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 <a id="claim-t-180732"></a>
 - t-027
   global_id: t-180732
-  teiginys: 'Persekiojamas priešininkas patyrė nesėkmę brastoje per Šventąją ties Ukmerge, kur nuskendo daug jo kareivių.'
+  teiginys: 'Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių.'
   pagrindžia:
     - c-008
 
@@ -272,6 +251,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-006
 
 - c-003
+  santrauka: 'Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Birželio 3 d. buvo užimti Daugailiai,
@@ -528,6 +508,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - t-025
 
 - c-015
+  santrauka: 'Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį

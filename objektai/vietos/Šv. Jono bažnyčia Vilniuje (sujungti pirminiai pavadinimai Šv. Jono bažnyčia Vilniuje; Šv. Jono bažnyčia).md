@@ -54,7 +54,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 <a id="claim-t-85996"></a>
 - t-004
   global_id: t-85996
-  teiginys: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
+  teiginys: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
   pagrindžia:
     - c-003
 
@@ -75,13 +75,14 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 <a id="claim-t-85999"></a>
 - t-007
   global_id: t-85999
-  teiginys: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
+  teiginys: 'Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
@@ -124,6 +125,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     - t-006
 
 - c-003
+  santrauka: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčia, ir 1667 metų lapkričio 19 dieną

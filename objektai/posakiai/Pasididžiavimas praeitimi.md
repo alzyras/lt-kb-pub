@@ -20,13 +20,14 @@ Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skir
 <a id="claim-t-41461"></a>
 - t-001
   global_id: t-41461
-  teiginys: 'Vis dėlto pasididžiavimas praeitimi, susietas su sunkiu darbu ir tinkamai skirtomis priemonėmis, yra mūsų stiprybė ir privalumas.'
+  teiginys: 'Zikaras pasididžiavimą praeitimi, siejamą su darbu ir tinkamomis priemonėmis, vertina kaip lietuvių stiprybę ir privalumą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zikaras pasididžiavimą praeitimi, siejamą su darbu ir tinkamomis priemonėmis, vertina kaip lietuvių stiprybę ir privalumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai ne tik šaunūs patrio-

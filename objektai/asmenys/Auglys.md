@@ -29,13 +29,14 @@ Jai vadovavo lietuvis karininkas Auglys.
 <a id="claim-t-40047"></a>
 - t-001
   global_id: t-40047
-  teiginys: 'Jai vadovavo lietuvis karininkas Auglys.'
+  teiginys: 'Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvis karininkas Auglys vadovavo Jiezno miestelio pakraštyje išdėstytai bolševikų kuopai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu

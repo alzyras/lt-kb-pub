@@ -28,7 +28,7 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
 <a id="claim-t-78926"></a>
 - t-002
   global_id: t-78926
-  teiginys: 'Gavusi erdvės įsibėgėjimui, dar kartą smogė dešinioji lietuvių kolona.'
+  teiginys: 'Bychoveco kronikoje teigiama, kad LDK daliniai taip suspaudė totorius, jog šie nebegalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
     - t-001
 
 - c-002
+  santrauka: 'Bychoveco kronikoje teigiama, kad LDK daliniai taip suspaudė totorius, jog šie nebegalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gavusi erdvės įsibėgėjimui, dar kartą smogė

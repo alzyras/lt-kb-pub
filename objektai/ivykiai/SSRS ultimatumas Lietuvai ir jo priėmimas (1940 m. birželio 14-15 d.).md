@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-45444"></a>
 - t-003
   global_id: t-45444
-  teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  teiginys: 'Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-006
 
@@ -86,7 +86,7 @@ Nenurodyta
 <a id="claim-t-183277"></a>
 - t-007
   global_id: t-183277
-  teiginys: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
+  teiginys: 'Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo Lietuvos pasienio postus.'
   pagrindžia:
     - c-007
 
@@ -184,6 +184,7 @@ Nenurodyta
     - t-002
 
 - c-006
+  santrauka: 'Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Smetonos siūlymą priešintis ginklu palaikė
@@ -197,7 +198,7 @@ Nenurodyta
     - t-003
 
 - c-007
-  santrauka: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
+  santrauka: 'Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo Lietuvos pasienio postus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai dar pavasarį slapta
@@ -223,8 +224,8 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/asmenys/V. Vitkauskas]]
 - [[objektai/asmenys/Juozas Urbšys]]
 - [[objektai/asmenys/Michailas Kalininas]]
-- [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/asmenys/Viačeslavas Molotovas]]

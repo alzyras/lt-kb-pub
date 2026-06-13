@@ -20,13 +20,14 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 <a id="claim-t-59176"></a>
 - t-001
   global_id: t-59176
-  teiginys: 'Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką išgėrus, ir svečias privaląs tiek pat išgerti; tokios gėrynės taip ilgai tęsiasi, iki.'
+  teiginys: 'Prūsai laikėsi papročio vaišėse gerti po lygiai ir be saiko, kol nusigerdavo svečias ir namiškiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai laikėsi papročio vaišėse gerti po lygiai ir be saiko, kol nusigerdavo svečias ir namiškiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jiems rodosi, jog svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki

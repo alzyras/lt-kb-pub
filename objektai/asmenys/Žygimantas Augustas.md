@@ -32,14 +32,14 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 <a id="claim-t-182749"></a>
 - t-001
   global_id: t-182749
-  teiginys: 'Gavęs šią žinią, Žygimantas Augustas net apsiverkė.'
+  teiginys: 'Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183581"></a>
 - t-002
   global_id: t-183581
-  teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
+  teiginys: 'Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 <a id="claim-t-183848"></a>
 - t-007
   global_id: t-183848
-  teiginys: 'Ten visas laisvesnes akimirkas Augustas praleisdavo šalia Barboros, kol pagaliau su ja susituokė30.'
+  teiginys: 'Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.'
   pagrindžia:
     - c-007
 
@@ -95,7 +95,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 <a id="claim-t-183851"></a>
 - t-010
   global_id: t-183851
-  teiginys: 'Barboros bažnyčia, kurią Augustas nemažomis lėšomis pastatydino mylimos žmonos atminimui, po jos mirties visur ieškodamas paguodos savo skausmui numalšinti35.'
+  teiginys: 'Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.'
   pagrindžia:
     - c-010
 
@@ -151,6 +151,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nors miestas didvyriškai gynėsi, po dviejų
@@ -167,7 +168,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-001
 
 - c-002
-  santrauka: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
+  santrauka: 'Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
@@ -249,7 +250,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-006
 
 - c-007
-  santrauka: 'Ten visas laisvesnes akimirkas Augustas praleisdavo šalia Barboros, kol pagaliau su ja susituokė30.'
+  santrauka: 'Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     272
@@ -316,7 +317,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-009
 
 - c-010
-  santrauka: 'Barboros bažnyčia, kurią Augustas nemažomis lėšomis pastatydino mylimos žmonos atminimui, po jos mirties visur ieškodamas paguodos savo skausmui numalšinti35.'
+  santrauka: 'Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be kitų, Že­

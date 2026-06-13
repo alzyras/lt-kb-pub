@@ -39,14 +39,14 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 <a id="claim-t-170246"></a>
 - t-002
   global_id: t-170246
-  teiginys: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
+  teiginys: '1992 m. Seimo pirmininkas Vytautas Landsbergis Vilniaus senamiestyje prie Aušros vartų priėmė Prancūzijos prezidentą Fransua Miteraną.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-170247"></a>
 - t-003
   global_id: t-170247
-  teiginys: 'Landsbergį, nors sunkumai buvo senosios ekonomikos pasekmės.'
+  teiginys: 'Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį.'
   pagrindžia:
     - c-005
 
@@ -60,34 +60,28 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 <a id="claim-t-170249"></a>
 - t-005
   global_id: t-170249
-  teiginys: '1991 m. sausio 13 d. valstybės vadovas V. Landsbergis ragino susirinkusius prie parlamento nepasiduoti provokacijoms ir dainuoti.'
+  teiginys: '1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-170250"></a>
 - t-006
   global_id: t-170250
-  teiginys: 'Landsbergio vadovaujamus konservatorius.'
+  teiginys: '1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-170251"></a>
-- t-007
-  global_id: t-170251
-  teiginys: 'Landsbergis, kreipdamasis į susirinkusius prie parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-170253"></a>
 - t-008
   global_id: t-170253
-  teiginys: 'Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.'
+  teiginys: '1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 260, Aukščiausiosios Tarybos pirmininkas ir šalies vadovas Vytautas Lansbergis 1991 m.
@@ -137,6 +131,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-004
 
 - c-004
+  santrauka: '1992 m. Seimo pirmininkas Vytautas Landsbergis Vilniaus senamiestyje prie Aušros vartų priėmė Prancūzijos prezidentą Fransua Miteraną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Planinės
@@ -153,6 +148,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-002
 
 - c-005
+  santrauka: 'Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paaiškėjus, kad dauguma buvusių ko-
@@ -173,6 +169,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-003
 
 - c-006
+  santrauka: '1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
@@ -217,6 +214,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
 - [[objektai/zodynas/Planinė ekonomika]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
 - [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]
 - [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
 - [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]

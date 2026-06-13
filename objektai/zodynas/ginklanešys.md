@@ -29,14 +29,14 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 <a id="claim-t-175175"></a>
 - t-001
   global_id: t-175175
-  teiginys: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
+  teiginys: 'Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-175176"></a>
 - t-002
   global_id: t-175176
-  teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
+  teiginys: '1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.'
   pagrindžia:
     - c-004
 
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 <a id="claim-t-175178"></a>
 - t-004
   global_id: t-175178
-  teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
+  teiginys: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - t-003
 
 - c-002
+  santrauka: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
@@ -118,6 +119,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - t-005
 
 - c-004
+  santrauka: '1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Skalvių pilies puolimą 1293

@@ -27,7 +27,7 @@ amziai:
 <a id="claim-t-88235"></a>
 - t-001
   global_id: t-88235
-  teiginys: 'Martyno Smigleckio veikalas „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 1640 m. išleistas Krokuvoje.'
+  teiginys: 'Martyno Smigleckio veikalo „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 7-asis leidimas 1640 m. išleistas Krokuvoje.'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Martyno Smigleckio veikalas „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 1640 m. išleistas Krokuvoje.'
+  santrauka: 'Martyno Smigleckio veikalo „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 7-asis leidimas 1640 m. išleistas Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. VII priedą.

@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-87089"></a>
 - t-001
   global_id: t-87089
-  teiginys: 'XVI amžiaus pradžioje tame kaime buvo gausiau negu dabar gyventojų, šis tas iš technikos, tarp kurių - malūnas, kalvė ir lentpjūvė.'
+  teiginys: 'XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To dvaro lankose iki šiol dunkso pilkapis, arba

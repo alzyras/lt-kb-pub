@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-05287"></a>
 - t-002
   global_id: t-05287
-  teiginys: '1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunas Vytautas, visi lietuvių kunigaikščiai ir Smolensko jėga.'
+  teiginys: '1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunasis Vytautas, lietuvių kunigaikščiai ir Smolensko pajėgos.'
   pagrindžia:
     - c-001
 

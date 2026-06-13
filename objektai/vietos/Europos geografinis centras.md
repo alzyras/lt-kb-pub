@@ -41,23 +41,16 @@ Nenurodyta
 <a id="claim-t-76260"></a>
 - t-001
   global_id: t-76260
-  teiginys: 'Europos žemėlapyje nubrėžus linijas, jungiančias Gibraltarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta Lietuvoje, kurioje ir yra geografinis Europos centras.'
+  teiginys: 'Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-76261"></a>
 - t-002
   global_id: t-76261
-  teiginys: 'Visai neseniai Prancūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pagal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra 25 km į šiaurę nuo Lietuvos sostinės Vilniaus.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-76262"></a>
-- t-003
-  global_id: t-76262
   teiginys: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
   pagrindžia:
-    - c-002
+    - c-003
 
 <a id="claim-t-76263"></a>
 - t-004
@@ -69,6 +62,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
@@ -111,6 +105,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visai neseniai Pran-

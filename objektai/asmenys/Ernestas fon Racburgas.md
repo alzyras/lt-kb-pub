@@ -37,7 +37,7 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 <a id="claim-t-183738"></a>
 - t-002
   global_id: t-183738
-  teiginys: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
+  teiginys: 'Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.'
   pagrindžia:
     - c-001
 

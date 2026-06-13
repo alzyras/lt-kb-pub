@@ -33,7 +33,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 <a id="claim-t-45829"></a>
 - t-001
   global_id: t-45829
-  teiginys: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
+  teiginys: 'Lietuvos valdovų valstybės pakraščiuose įkurdinti ištikimi žmonės galėjo būti aplinkinių vadinami leičiais arba liečiais.'
   pagrindžia:
     - c-001
 
@@ -81,3 +81,4 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]
+- [[objektai/grupes/Rusėnai]]

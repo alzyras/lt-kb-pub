@@ -22,20 +22,21 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 <a id="claim-t-58862"></a>
 - t-001
   global_id: t-58862
-  teiginys: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas pasauliečiu, jis garsėjo kaip baisus žiauruolis, didelis grobikas ir piktadarys. Kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu.'
+  teiginys: 'Henrikas iš Kunceno, dar būdamas pasauliečiu, garsėjo kaip žiauruolis, grobikas ir piktadarys.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58863"></a>
 - t-002
   global_id: t-58863
-  teiginys: 'Dusburgietis teigia, kad šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą, davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis. Vieną kartą, sunkios negalės.'
+  teiginys: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henrikas iš Kunceno, dar būdamas pasauliečiu, garsėjo kaip žiauruolis, grobikas ir piktadarys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Henriką iš Kunceno
@@ -52,6 +53,7 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - t-001
 
 - c-002
+  santrauka: 'Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Moteris, tiek kartų ir taip
@@ -78,5 +80,5 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Henrikas iš Kunceno]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Henrikas iš Kunceno]]

@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-75099"></a>
 - t-002
   global_id: t-75099
-  teiginys: 'Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-003
 
@@ -64,17 +64,10 @@ Nenurodyta
   pagrindžia:
     - c-003
 
-<a id="claim-t-75101"></a>
-- t-004
-  global_id: t-75101
-  teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-75102"></a>
 - t-005
   global_id: t-75102
-  teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
+  teiginys: 'Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
     - c-004
 

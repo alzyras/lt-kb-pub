@@ -27,7 +27,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 <a id="claim-t-75008"></a>
 - t-001
   global_id: t-75008
-  teiginys: 'Landsbergio vadovaujamus konservatorius.'
+  teiginys: '1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
@@ -83,6 +84,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]
 - [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
 - [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]

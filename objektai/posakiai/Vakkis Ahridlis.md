@@ -27,7 +27,7 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
 <a id="claim-t-184364"></a>
 - t-002
   global_id: t-184364
-  teiginys: 'Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių, nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.'
+  teiginys: 'Anot Dlugošo, žemaičiai sakė „Vakkis Ahridlis“, maldaudami Vytautą neatiduoti jų kryžiuočiams ir neatplėšti nuo lietuvių.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
     - t-001
 
 - c-002
-  santrauka: 'Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių, nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.'
+  santrauka: 'Anot Dlugošo, žemaičiai sakė „Vakkis Ahridlis“, maldaudami Vytautą neatiduoti jų kryžiuočiams ir neatplėšti nuo lietuvių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dubysos rajone

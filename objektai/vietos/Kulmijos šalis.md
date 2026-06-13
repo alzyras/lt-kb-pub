@@ -22,13 +22,14 @@ Daugiausia buvo varginama Kulmijos šalis.
 <a id="claim-t-95916"></a>
 - t-001
   global_id: t-95916
-  teiginys: 'Daugiausia buvo varginama Kulmijos šalis.'
+  teiginys: 'Per karo veiksmus Prūsijoje apie Vyslą ir Dravę daugiausia buvo varginama Kulmijos šalis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per karo veiksmus Prūsijoje apie Vyslą ir Dravę daugiausia buvo varginama Kulmijos šalis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau šį kartą Vytautui neteko

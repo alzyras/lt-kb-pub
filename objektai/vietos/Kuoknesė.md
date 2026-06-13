@@ -47,7 +47,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-79514"></a>
 - t-003
   global_id: t-79514
-  teiginys: 'Pagaliau birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
+  teiginys: 'Birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-183788"></a>
 - t-007
   global_id: t-183788
-  teiginys: 'Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a.'
+  teiginys: 'Gegužės 28 d. Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus laivus, kuriais Dauguva buvo plukdomas maistas ir amunicija.'
   pagrindžia:
     - c-005
 
@@ -108,6 +108,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-002
 
 - c-002
+  santrauka: 'Birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     maistą ir amuniciją. Birželio 2-3 d. LDK di-
@@ -169,7 +170,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-004
 
 - c-005
-  santrauka: 'Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a.'
+  santrauka: 'Gegužės 28 d. Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus laivus, kuriais Dauguva buvo plukdomas maistas ir amunicija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ge-

@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-87222"></a>
 - t-001
   global_id: t-87222
-  teiginys: 'Didesnioji Vilniaus miestiečių dalis buvo graikų apeigų tikėjimą išpažinę rusinai, todėl Vytautas neskubėjo vykdyti privilegijų.'
+  teiginys: '1424 m. Vytauto Vilniui suteiktomis privilegijomis nuo įvairių duoklių buvo atleidžiami tik Romos katalikai miestiečiai.'
   pagrindžia:
     - c-001
 

@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-86996"></a>
 - t-001
   global_id: t-86996
-  teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
+  teiginys: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
   pagrindžia:
     - c-003
 
@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-86998"></a>
 - t-003
   global_id: t-86998
-  teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
+  teiginys: 'Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.'
   pagrindžia:
     - c-001
 
@@ -76,6 +76,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
@@ -109,6 +110,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-

@@ -88,7 +88,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176259"></a>
 - t-009
   global_id: t-176259
-  teiginys: '1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
+  teiginys: 'Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
   pagrindžia:
     - c-010
 
@@ -102,7 +102,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176261"></a>
 - t-011
   global_id: t-176261
-  teiginys: 'O Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet, nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į žmonas savo seserį.'
+  teiginys: 'Jogaila paskyrė Vaidilą Lydos vietininku ir, nepaisydamas Kęstučio prieštaravimų, atidavė jam į žmonas savo seserį.'
   pagrindžia:
     - c-007
 
@@ -186,7 +186,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-184647"></a>
 - t-024
   global_id: t-184647
-  teiginys: 'Karalius vėliau laikinai paskyrė Spiteką šių valdų vietininku.'
+  teiginys: 'Karalius laikinai paskyrė Spiteką valdų vietininku.'
   pagrindžia:
     - c-019
 
@@ -374,6 +374,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-006
 
 - c-010
+  santrauka: 'Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palenkdamas rusų bojari-
@@ -584,7 +585,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     - t-023
 
 - c-019
-  santrauka: 'Karalius vėliau laikinai paskyrė Spiteką šių valdų vietininku.'
+  santrauka: 'Karalius laikinai paskyrė Spiteką valdų vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vėliau šių valdų vietininku kara­
@@ -766,5 +767,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/tėvūnas]]
 - [[objektai/asmenys/Fiodoras Grigorovičius]]

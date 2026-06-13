@@ -26,7 +26,7 @@ amziai:
 <a id="claim-t-88348"></a>
 - t-001
   global_id: t-88348
-  teiginys: '8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos.'
+  teiginys: '„Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos“ buvo išleista Vilniuje 1968 m.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos“ buvo išleista Vilniuje 1968 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V., 1999, p. 1.

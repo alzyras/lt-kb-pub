@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Penktą naktį Jogailos pasiųsti budeliai pasmaugė Kęstutį Krėvos kalėjime.
+Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185731"></a>
 - t-001
   global_id: t-185731
-  teiginys: 'Penktą naktį Jogailos pasiųsti budeliai pasmaugė Kęstutį Krėvos kalėjime.'
+  teiginys: 'Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Penktą naktį Jogailos pasiųsti budeliai pasmaugė Kęstutį Krėvos kalėjime.'
+  santrauka: 'Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tą pačią naktį Jogaila, pamynęs draugystės bei

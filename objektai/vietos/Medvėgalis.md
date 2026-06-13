@@ -30,21 +30,21 @@ amziai:
 <a id="claim-t-98613"></a>
 - t-001
   global_id: t-98613
-  teiginys: 'Dusburgietis teigia, kad medvėgalio pilis buvo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.'
+  teiginys: 'Medvėgalio pilis stovėjo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-98614"></a>
 - t-002
   global_id: t-98614
-  teiginys: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
+  teiginys: '1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-98615"></a>
 - t-003
   global_id: t-98615
-  teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava į riterius.'
+  teiginys: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
   pagrindžia:
     - c-005
 
@@ -138,6 +138,7 @@ amziai:
     - t-007
 
 - c-004
+  santrauka: 'Medvėgalio pilis stovėjo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     575 D.— anre castrum Medewagam, Jer.— von Medewagiln. Medvėgalio pilis buvo
@@ -152,6 +153,7 @@ amziai:
     - t-001
 
 - c-005
+  santrauka: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais

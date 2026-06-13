@@ -22,20 +22,21 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
 <a id="claim-t-77835"></a>
 - t-001
   global_id: t-77835
-  teiginys: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
+  teiginys: 'Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-77836"></a>
 - t-002
   global_id: t-77836
-  teiginys: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
+  teiginys: 'Klaipėda „nelipo“ prie Lietuvos ir dėl žemesnio Lietuvos išsivystymo lygio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Klaipėda „nelipo“ prie Lietuvos ir dėl žemesnio Lietuvos išsivystymo lygio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
@@ -56,6 +57,7 @@ Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svar
     - t-002
 
 - c-002
+  santrauka: 'Klaipėda „neprilipo“ prie Lietuvos dėl nesėkmingos integracijos ir vokiškosios Klaipėdos krašto direktorijos orientacijos į Vokietiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmasis Europoje procesas prieš nacius

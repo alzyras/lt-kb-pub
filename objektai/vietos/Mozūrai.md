@@ -27,7 +27,7 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 <a id="claim-t-52958"></a>
 - t-001
   global_id: t-52958
-  teiginys: 'Prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus, kai jų gynėjai išvykdavo namo.'
+  teiginys: 'Prūsai nusiaubdavo Mozūrus, Kulmą ir aplinkinius krikščioniškuosius kraštus, kai kryžeivių būriai išvykdavo namo.'
   pagrindžia:
     - c-001
 

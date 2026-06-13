@@ -31,7 +31,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 <a id="claim-t-87362"></a>
 - t-001
   global_id: t-87362
-  teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
+  teiginys: 'Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 <a id="claim-t-87366"></a>
 - t-005
   global_id: t-87366
-  teiginys: 'Ulrikui Hozijui 1536 m. rugpjūčio 6 d. buvo suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
+  teiginys: '1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
   pagrindžia:
     - c-001
 
@@ -80,7 +80,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Ulrikui Hozijui 1536 m. rugpjūčio 6 d. buvo suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
+  santrauka: '1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
@@ -116,6 +116,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-005
 
 - c-002
+  santrauka: 'Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ho-

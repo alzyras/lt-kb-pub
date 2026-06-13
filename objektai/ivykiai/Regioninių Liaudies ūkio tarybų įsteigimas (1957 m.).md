@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-183268"></a>
 - t-002
   global_id: t-183268
-  teiginys: 'Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino respublikinio pavaldumo įmonių gamybos planus, skirstė jų gaminamą produkciją, o 1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas (LŪT).'
+  teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas, pramonės valdymas turėjo pereiti iš šakinio į teritorinį.'
   pagrindžia:
     - c-001
 

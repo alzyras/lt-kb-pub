@@ -31,27 +31,28 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 <a id="claim-t-59008"></a>
 - t-001
   global_id: t-59008
-  teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas iš Španheimo, grafas Adolfas iš Vintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo.'
+  teiginys: '1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59009"></a>
 - t-002
   global_id: t-59009
-  teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
+  teiginys: '1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59010"></a>
 - t-003
   global_id: t-59010
-  teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+  teiginys: '1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
@@ -70,6 +71,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
     - t-003
 
 - c-002
+  santrauka: '1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     296 (289). Apie maldininkų atvykimą
@@ -121,5 +123,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]

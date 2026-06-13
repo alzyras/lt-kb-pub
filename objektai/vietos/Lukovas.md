@@ -20,7 +20,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 <a id="claim-t-86082"></a>
 - t-001
   global_id: t-86082
-  teiginys: 'Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor.'
+  teiginys: 'Lukove Turčinas, keisdamas lietuviškas monetas į lenkiškas, prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lukove Turčinas, keisdamas lietuviškas monetas į lenkiškas, prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     -

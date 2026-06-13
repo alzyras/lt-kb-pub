@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-75207"></a>
 - t-001
   global_id: t-75207
-  teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
+  teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.'
   pagrindžia:
     - c-001
 
@@ -53,16 +53,10 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-75209"></a>
-- t-003
-  global_id: t-75209
-  teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1939 m. Kaune Lietuva antrą

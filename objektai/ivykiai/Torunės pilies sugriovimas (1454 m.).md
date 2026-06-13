@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-59613"></a>
 - t-001
   global_id: t-59613
-  teiginys: 'Dusburgietis teigia, kad pirmas mūrinės pilies statybos etapas truko iki 1300 m. XIV a.'
+  teiginys: 'Torunės pilis buvo sugriauta 1454 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Torunės pilis buvo sugriauta 1454 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmas mūrinės pilies statybos

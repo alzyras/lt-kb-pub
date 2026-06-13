@@ -24,13 +24,6 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
   pagrindžia:
     - c-001
 
-<a id="claim-t-183508"></a>
-- t-002
-  global_id: t-183508
-  teiginys: 'Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą, dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,3 +54,4 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/Suverenitetas]]

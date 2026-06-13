@@ -45,20 +45,21 @@ Nenurodyta
 <a id="claim-t-64943"></a>
 - t-001
   global_id: t-64943
-  teiginys: 'Maskvos kunigaikštienė iš Smolensko į Maskvą atsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
+  teiginys: 'Vytauto dukra Zofija iš Smolensko į Maskvą parsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-64944"></a>
 - t-002
   global_id: t-64944
-  teiginys: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
+  teiginys: 'Vytauto dukra Zofija, Maskvos kunigaikštienė, į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto dukra Zofija, Maskvos kunigaikštienė, į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad laimėjimas būtų tikresnis, no­
@@ -76,7 +77,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Maskvos kunigaikštienė iš Smolensko į Maskvą atsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
+  santrauka: 'Vytauto dukra Zofija iš Smolensko į Maskvą parsivežė dovanų ir dalį Kristaus Kančios relikvijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per dvi savaiti Vytau­

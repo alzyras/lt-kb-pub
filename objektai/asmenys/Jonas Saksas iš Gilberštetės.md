@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
 <a id="claim-t-60349"></a>
 - t-001
   global_id: t-60349
-  teiginys: 'Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Karaliaučiaus pilyje mirė brolis Jonas Saksas iš Gilberštetės, kuris, kol buvo pasaulietis, gyveno nedorovingai.'
+  teiginys: 'Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje, o prieš tapdamas ordino broliu gyveno nedorovingai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje, o prieš tapdamas ordino broliu gyveno nedorovingai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie nuostabų vieno vyro atsivertimą

@@ -29,13 +29,14 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
 <a id="claim-t-75012"></a>
 - t-001
   global_id: t-75012
-  teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
+  teiginys: '1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

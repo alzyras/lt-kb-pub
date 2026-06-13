@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-67195"></a>
 - t-002
   global_id: t-67195
-  teiginys: 'Dusburgietis teigia, kad rašo, jog prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį (III, 91), taip pat darę ir lietuviai (III, 338).'
+  teiginys: 'Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada

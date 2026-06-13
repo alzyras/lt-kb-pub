@@ -21,13 +21,14 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
 <a id="claim-t-22349"></a>
 - t-001
   global_id: t-22349
-  teiginys: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinę žmonės, bet ir visi valstybės piliečiai ar valdiniai.'
+  teiginys: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vyskupo M. Valančiaus

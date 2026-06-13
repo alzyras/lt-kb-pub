@@ -37,7 +37,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 <a id="claim-t-169560"></a>
 - t-002
   global_id: t-169560
-  teiginys: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
+  teiginys: 'Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje.'
   pagrindžia:
     - c-008
 
@@ -79,16 +79,9 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 <a id="claim-t-169566"></a>
 - t-008
   global_id: t-169566
-  teiginys: 'Seimas pirmą kartą bandė miestiečiams suteikti beveik lygias teises su bajorais.'
+  teiginys: 'Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.'
   pagrindžia:
     - c-004
-
-<a id="claim-t-169567"></a>
-- t-009
-  global_id: t-169567
-  teiginys: 'Žinoma, bajorai savo valstybę prarado, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
-  pagrindžia:
-    - c-009
 
 <a id="claim-t-169568"></a>
 - t-010
@@ -100,7 +93,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 <a id="claim-t-183120"></a>
 - t-011
   global_id: t-183120
-  teiginys: 'Tačiau politinėmis teisėmis naudojosi tik bajorų luomas (bet net XIX a.'
+  teiginys: 'Politinėmis teisėmis naudojosi tik bajorų luomas.'
   pagrindžia:
     - c-010
 
@@ -155,6 +148,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     - t-010
 
 - c-004
+  santrauka: 'Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gegužės trečiosios konstitucija ir
@@ -248,6 +242,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     - t-007
 
 - c-009
+  santrauka: 'Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama
@@ -268,7 +263,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     - t-009
 
 - c-010
-  santrauka: 'Tačiau politinėmis teisėmis naudojosi tik bajorų luomas (bet net XIX a.'
+  santrauka: 'Politinėmis teisėmis naudojosi tik bajorų luomas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo
@@ -601,6 +596,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/posakiai/Esąs tik vienas būdas suteikti valstybei saugią ramybę]]
 - [[objektai/asmenys/Gregoras Kierdėjus]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]
 - [[objektai/asmenys/Jurgis Galminas]]
 - [[objektai/asmenys/Jurgis Gedgaudas]]

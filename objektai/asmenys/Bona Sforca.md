@@ -83,4 +83,5 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje]]
 - [[objektai/daiktai/Šakutė]]

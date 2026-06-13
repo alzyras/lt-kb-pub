@@ -19,13 +19,14 @@ Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — k
 <a id="claim-t-58911"></a>
 - t-001
   global_id: t-58911
-  teiginys: 'Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno) valdžios ženklas, lazda žmonėms į kuopą šaukti (Lietuvių kalbos žodynas, VI, p. 661; Lietuvių etnografijos bruožai, p. 528—529; MLTE, 2, p. 220).'
+  teiginys: 'Krivūlė buvo kreiva lazda, krivio arba vėlesnio seniūno valdžios ženklas ir lazda žmonėms į kuopą šaukti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krivūlė buvo kreiva lazda, krivio arba vėlesnio seniūno valdžios ženklas ir lazda žmonėms į kuopą šaukti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     206 D.— baculum. Krivės baculum buvo krivūlė — kreiva lazda, krivio (vėliau seniūno)
@@ -41,3 +42,4 @@ Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — k
 ### Susiję objektai
 - [[objektai/asmenys/Krivis]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seniūnas]]

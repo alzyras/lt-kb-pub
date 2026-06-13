@@ -54,7 +54,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 <a id="claim-t-78853"></a>
 - t-004
   global_id: t-78853
-  teiginys: 'Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko prisiminimų.'
+  teiginys: 'Juozo Miliausko prisiminimuose aprašytas rusų pajėgų puolimas prieš sukilėlių stovyklą Švėkšnos apylinkių miškuose.'
   pagrindžia:
     - c-004
 
@@ -120,6 +120,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     - t-005
 
 - c-004
+  santrauka: 'Juozo Miliausko prisiminimuose aprašytas rusų pajėgų puolimas prieš sukilėlių stovyklą Švėkšnos apylinkių miškuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusija, Tula, XIX a. antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius

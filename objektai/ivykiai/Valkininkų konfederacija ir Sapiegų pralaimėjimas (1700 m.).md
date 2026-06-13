@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-78642"></a>
 - t-004
   global_id: t-78642
-  teiginys: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
+  teiginys: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
   pagrindžia:
     - c-001
 
@@ -89,6 +89,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O LDK bajorijai taip ir nepavyko

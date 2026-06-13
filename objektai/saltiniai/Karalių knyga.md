@@ -22,7 +22,7 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
 <a id="claim-t-61095"></a>
 - t-001
   global_id: t-61095
-  teiginys: 'Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas iš Sembos stovėjo ir klojo priešus taip, kaip Karalių knygoje skaitome apie Ahohietį (2 Kar 23, 9 ir toliau): „Kolei jo rankos nepailso“ ir kalavijas neatšipo jo rankose.'
+  teiginys: 'Dusburgietis kovojusį prūsą iš Sembos palygino su Karalių knygoje minimu Ahohiečiu.'
   pagrindžia:
     - c-001
 

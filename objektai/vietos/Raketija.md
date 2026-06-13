@@ -19,13 +19,14 @@ Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo 
 <a id="claim-t-80610"></a>
 - t-001
   global_id: t-80610
-  teiginys: 'Tai buvo Raketijos ir Liubavo raitųjų emvedistų susitikimas, baigus apsupimo žiedą.'
+  teiginys: 'Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     [...] pastebėjome visai arti bekylančią raketą. Sukritom ant žemės. Išgirdome rusiškų

@@ -29,27 +29,21 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 <a id="claim-t-89573"></a>
 - t-001
   global_id: t-89573
-  teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  teiginys: 'Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89574"></a>
 - t-002
   global_id: t-89574
-  teiginys: 'Petro iš Dusburgo kronikoje visa `Prūsijos žemė` (`terra Prussiae`) skirstoma į vienuolika atskirų žemių.'
+  teiginys: 'Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-89575"></a>
-- t-003
-  global_id: t-89575
-  teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai ir Lietuva
@@ -69,6 +63,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     - t-003
 
 - c-002
+  santrauka: 'Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
@@ -85,6 +80,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     - t-001
 
 - c-003
+  santrauka: 'Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
@@ -102,7 +98,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     - t-002
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  santrauka: 'Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -131,3 +127,4 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 - [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]
 - [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/autoriai/Petras Dusburgietis]]

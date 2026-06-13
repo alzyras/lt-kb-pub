@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-09538"></a>
 - t-001
   global_id: t-09538
-  teiginys: 'Didesnė ginkluotės dalis galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
+  teiginys: 'Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.'
   pagrindžia:
     - c-001
 

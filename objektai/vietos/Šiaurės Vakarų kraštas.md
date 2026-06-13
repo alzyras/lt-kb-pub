@@ -35,7 +35,7 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
 <a id="claim-t-77716"></a>
 - t-002
   global_id: t-77716
-  teiginys: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
+  teiginys: 'Vilniuje statytomis ir „atstatytomis“ cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
     - t-004
 
 - c-003
+  santrauka: 'Vilniuje statytomis ir „atstatytomis“ cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vil-

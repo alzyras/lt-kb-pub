@@ -38,14 +38,14 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 <a id="claim-t-88272"></a>
 - t-002
   global_id: t-88272
-  teiginys: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
+  teiginys: 'Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-88273"></a>
 - t-003
   global_id: t-88273
-  teiginys: 'Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi apatija, ir miestiečių gyvenimas, pirma buvęs.'
+  teiginys: 'Viena Balińskio aptarta privilegija vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.'
   pagrindžia:
     - c-003
 
@@ -71,7 +71,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - t-001
 
 - c-002
-  santrauka: '1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.'
+  santrauka: 'Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
@@ -95,6 +95,7 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
     - t-002
 
 - c-003
+  santrauka: 'Viena Balińskio aptarta privilegija vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikšminga pergalė prie Griunvaldo pirmą kar­

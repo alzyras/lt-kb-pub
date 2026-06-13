@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-71806"></a>
 - t-001
   global_id: t-71806
-  teiginys: 'Kai tik išėjome iš Pagirių bažnytkaimio, mus nustebino papuoštas vieškelis.'
+  teiginys: 'Prie Pagirių bažnytkaimio kariuomenė buvo sutikta papuoštu vieškeliu su vainikais, gėlių puokštėmis, vartais ir žmonių būriais.'
   pagrindžia:
     - c-002
 

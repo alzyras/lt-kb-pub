@@ -133,7 +133,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 <a id="claim-t-173210"></a>
 - t-012
   global_id: t-173210
-  teiginys: '1333 m. Petras Goštautas iš Rusios ir Podolės atkvietė į Vilnių keturiolika Šv. Pranciškaus regulos vienuolių.'
+  teiginys: 'Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.'
   pagrindžia:
     - c-003
 
@@ -154,14 +154,14 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 <a id="claim-t-184821"></a>
 - t-015
   global_id: t-184821
-  teiginys: 'Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
+  teiginys: 'Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-184822"></a>
 - t-016
   global_id: t-184822
-  teiginys: 'Algirdas, paskelbęs Podolę savo valda, paskyrė Goštautą jos seniūnu.'
+  teiginys: 'Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.'
   pagrindžia:
     - c-009
 
@@ -385,7 +385,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-014
 
 - c-008
-  santrauka: 'Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
+  santrauka: 'Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vienas būrelis iš sep­
@@ -415,7 +415,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-015
 
 - c-009
-  santrauka: 'Algirdas, paskelbęs Podolę savo valda, paskyrė Goštautą jos seniūnu.'
+  santrauka: 'Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karą prieš maištininką pradėjo pats Algir­

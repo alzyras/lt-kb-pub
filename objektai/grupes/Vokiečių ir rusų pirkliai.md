@@ -22,13 +22,14 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
 <a id="claim-t-86834"></a>
 - t-001
   global_id: t-86834
-  teiginys: 'Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti.'
+  teiginys: 'Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto neteisingumo įbauginti vokiečių ir rusų pirkliai nebegalėjo tikėtis ankstesnio saugumo Vytauto sostinėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypa­
@@ -54,4 +55,6 @@ Net pirkliai negalėjo jaustis saugūs dėl jo nežaboto gobšumo, ir Vilnius ė
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Rusų pirkliai]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

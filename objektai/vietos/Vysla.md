@@ -34,7 +34,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-181211"></a>
 - t-001
   global_id: t-181211
-  teiginys: '1231 m. Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
+  teiginys: '1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus.'
   pagrindžia:
     - c-010
 
@@ -62,7 +62,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-181216"></a>
 - t-005
   global_id: t-181216
-  teiginys: 'Pirmajame tūkstantmetyje baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
+  teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
     - c-002
 
@@ -94,13 +94,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-015
 
-<a id="claim-t-181221"></a>
-- t-010
-  global_id: t-181221
-  teiginys: 'Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
-  pagrindžia:
-    - c-010
-
 <a id="claim-t-181222"></a>
 - t-011
   global_id: t-181222
@@ -111,21 +104,21 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-181223"></a>
 - t-012
   global_id: t-181223
-  teiginys: 'Dusburgietis teigia, kad neradę laivų, jie supuolė į Vyslą ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė kalavijo282.'
+  teiginys: 'Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-181224"></a>
 - t-013
   global_id: t-181224
-  teiginys: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
+  teiginys: 'Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-181225"></a>
 - t-014
   global_id: t-181225
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus tas pats kunigaikštis prikalbino magistrą susitikti su Sventopelku vienoje Vyslos saloje302, kur po ilgų derybų, kurias vedė vienas su kitu, galop išsiskyrė nesudarę taikaus susitarimo.'
+  teiginys: 'Magistras ir Sventopelkas susitiko vienoje Vyslos saloje, bet po ilgų derybų išsiskyrė nesudarę taikos.'
   pagrindžia:
     - c-006
 
@@ -153,14 +146,14 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-181230"></a>
 - t-018
   global_id: t-181230
-  teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  teiginys: 'Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
     - c-017
 
 <a id="claim-t-181231"></a>
 - t-019
   global_id: t-181231
-  teiginys: 'Tardamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines ordino jėgas surinko prie Vyslos (Schwetz).'
+  teiginys: 'Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos.'
   pagrindžia:
     - c-019
 
@@ -174,14 +167,14 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 <a id="claim-t-181233"></a>
 - t-021
   global_id: t-181233
-  teiginys: 'Dusburgietis teigia, kad autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio.'
+  teiginys: 'Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-181234"></a>
 - t-022
   global_id: t-181234
-  teiginys: 'Dusburgietis teigia, kad todėl dviejų upių santakoje, būtent: Vyslos ir Nogato283, pastatė pilį, vardu Santyras284, kurioje įkurdino nedorų vyrų.'
+  teiginys: 'Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
   pagrindžia:
     - c-003
 
@@ -206,17 +199,10 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-007
 
-<a id="claim-t-181238"></a>
-- t-026
-  global_id: t-181238
-  teiginys: 'Susijungusios Červinske prie Vyslos lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą^5.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-181239"></a>
 - t-027
   global_id: t-181239
-  teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
+  teiginys: 'Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.'
   pagrindžia:
     - c-011
 
@@ -281,6 +267,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-005
 
 - c-003
+  santrauka: 'Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi broliai jam nesugrąžino sūnaus, jis kaip ir anksčiau
@@ -295,6 +282,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-022
 
 - c-004
+  santrauka: 'Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau nesulauksite, nedorieji, nesulauksite, nes esate nelyginant dulkės,
@@ -310,6 +298,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-012
 
 - c-005
+  santrauka: 'Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
@@ -330,6 +319,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-021
 
 - c-006
+  santrauka: 'Magistras ir Sventopelkas susitiko vienoje Vyslos saloje, bet po ilgų derybų išsiskyrė nesudarę taikos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi tiesa sukelia neapykantą,
@@ -425,6 +415,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-010
 
 - c-011
+  santrauka: 'Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės aprašymas
@@ -467,6 +458,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-008
 
 - c-013
+  santrauka: 'Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     ——————————————————
@@ -533,6 +525,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-020
 
 - c-017
+  santrauka: 'Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
@@ -566,6 +559,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - t-002
 
 - c-019
+  santrauka: 'Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočiai savo kariuomenę

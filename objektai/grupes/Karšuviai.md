@@ -26,13 +26,14 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
 <a id="claim-t-62603"></a>
 - t-001
   global_id: t-62603
-  teiginys: 'Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis Folčas, arba Folradas, Ragainės komtūras, išgirdęs, jog karšuviai išžygiavo su kariuomene prieš Klaipėdos brolius, įsakė broliui Hildebrandui iš Rebergo traukti į karą prieš juos; šis, pasiėmęs keletą brolių.'
+  teiginys: '1307 metais Ragainės komtūro pasiųstas Hildebrandas iš Rebergo įsiveržė į Karšuvos žemę, ją degino, plėšė ir išsivarė 70 belaisvių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1307 metais Ragainės komtūro pasiųstas Hildebrandas iš Rebergo įsiveržė į Karšuvos žemę, ją degino, plėšė ir išsivarė 70 belaisvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     297 (290). Apie Karšuvos žemės nusiaubimą 1307 metais
@@ -56,3 +57,4 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
+- [[objektai/zodynas/komtūras]]

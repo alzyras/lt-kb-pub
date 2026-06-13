@@ -44,21 +44,21 @@ Nenurodyta
 <a id="claim-t-89409"></a>
 - t-001
   global_id: t-89409
-  teiginys: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
+  teiginys: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89410"></a>
 - t-002
   global_id: t-89410
-  teiginys: 'Dusburgietis teigia, kad taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti.'
+  teiginys: '1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89411"></a>
 - t-003
   global_id: t-89411
-  teiginys: 'Dusburgietis teigia, kad ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu, duodami viešpačiui.'
+  teiginys: 'Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   pagrindžia:
     - c-001
 
@@ -92,6 +92,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs

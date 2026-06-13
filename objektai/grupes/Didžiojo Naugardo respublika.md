@@ -40,7 +40,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 <a id="claim-t-05245"></a>
 - t-003
   global_id: t-05245
-  teiginys: 'Prieš Algirdo mirtį Naugarde laimėjo Maskvos įtaka, ir 1375 m. Didysis Naugardas padarė sutartį su Dimitru.'
+  teiginys: 'Prieš Algirdo mirtį Didžiajame Naugarde įsigalėjo Maskvos įtaka, todėl 1375 m. Naugardas sudarė sutartį su Dimitru.'
   pagrindžia:
     - c-002
 
@@ -61,21 +61,21 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 <a id="claim-t-103735"></a>
 - t-006
   global_id: t-103735
-  teiginys: 'Nuo XII amž. antros pusės yra žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų prekybos respublikų (Pskovo, Novgorodo) šiaurėje.'
+  teiginys: 'Nuo XII a. antros pusės lietuvių ginkluoti būriai rengė plėšiamuosius puolimus iki Pskovo ir Novgorodo respublikų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-103736"></a>
 - t-007
   global_id: t-103736
-  teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
+  teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-103737"></a>
 - t-008
   global_id: t-103737
-  teiginys: 'Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją priversti paklusti.'
+  teiginys: 'Algirdas siekė priversti Naugardo respubliką paklusti, nors ji ilgą laiką priešinosi Lietuvos ir Maskvos įtakai.'
   pagrindžia:
     - c-002
 

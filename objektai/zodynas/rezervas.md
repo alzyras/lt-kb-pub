@@ -26,20 +26,21 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 <a id="claim-t-42503"></a>
 - t-001
   global_id: t-42503
-  teiginys: 'Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą.'
+  teiginys: 'Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-42504"></a>
 - t-002
   global_id: t-42504
-  teiginys: 'Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
+  teiginys: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu len
@@ -56,6 +57,7 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
     - t-001
 
 - c-002
+  santrauka: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočiai, pamanę, jog mūšis laimė-
@@ -96,3 +98,4 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 - [[objektai/zodynas/bendrasis rezervas]]
 - [[objektai/zodynas/kovinė-agentūrinė grupė]]
 - [[objektai/grupes/oji rezervo divizija]]
+- [[objektai/zodynas/pozicinė gynyba]]

@@ -28,13 +28,14 @@ periodo_grupes:
 <a id="claim-t-80724"></a>
 - t-001
   global_id: t-80724
-  teiginys: '1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro Vilhelmo fon Helfelšteino, plaukdami Nemunu, Nerimi, patraukė į Vilnių.'
+  teiginys: '1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1402 m. viduryje didžiojo komtūro Vilhelmo fon Helfelšteino vadovaujami kryžiuočiai Nemunu ir Nerimi patraukė į Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1402 m. viduryje kryžiuočiai, vedami didžiojo komtūro Vilhelmo fon Helfelšteino, plaukdami Nemunu, Nerimi,

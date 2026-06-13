@@ -49,13 +49,6 @@ amziai:
   pagrindžia:
     - c-003
 
-<a id="claim-t-49117"></a>
-- t-004
-  global_id: t-49117
-  teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, 1949 m.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

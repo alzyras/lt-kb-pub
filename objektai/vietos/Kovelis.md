@@ -26,7 +26,7 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 <a id="claim-t-76585"></a>
 - t-002
   global_id: t-76585
-  teiginys: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai.'
+  teiginys: 'Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     - t-001
 
 - c-002
+  santrauka: 'Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje

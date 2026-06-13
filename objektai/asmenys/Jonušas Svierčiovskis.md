@@ -20,13 +20,14 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 <a id="claim-t-40232"></a>
 - t-001
   global_id: t-40232
-  teiginys: 'Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.'
+  teiginys: 'Jonušas Svierčiovskis vadovavo samdinių pulkams, kurie turėjo sudaryti daugiau kaip 8000 karių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonušas Svierčiovskis vadovavo samdinių pulkams, kurie turėjo sudaryti daugiau kaip 8000 karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Samdinių

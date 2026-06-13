@@ -22,13 +22,14 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
 <a id="claim-t-58929"></a>
 - t-001
   global_id: t-58929
-  teiginys: 'Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten turėjo savo šeimynos žmonių (vergų ir baudžiauninkų), be to, jis dar buvo ir viešės (žemdirbių gyvenvietės) valdovas (viešės pats), taip pat visos žemės valdovas, bajorų karo vadas (Łowmiański H., Studja..., 1.'
+  teiginys: 'Kunigaikštis buvo viešės, žemdirbių gyvenvietės, valdovas, vadintas viešės patu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštis buvo viešės, žemdirbių gyvenvietės, valdovas, vadintas viešės patu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kunigaikštis valdė keletą ar daugiau kaimų, ten turėjo savo šeimynos žmonių (vergų

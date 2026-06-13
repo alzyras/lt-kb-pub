@@ -57,7 +57,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 <a id="claim-t-54932"></a>
 - t-002
   global_id: t-54932
-  teiginys: 'Aleksandras iš Balino Balinskis buvo Krokuvos bajoraitis nuo Olkušo, paskendęs alchemijoje ir garsėjęs gydymo sėkme.'
+  teiginys: 'Aleksandras Balinskis buvo Krokuvos bajoraitis nuo Olkušo, garsėjęs alchemijos išmanymu ir sėkmingu gydymu.'
   pagrindžia:
     - c-002
 
@@ -71,14 +71,14 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 <a id="claim-t-54934"></a>
 - t-004
   global_id: t-54934
-  teiginys: 'Aleksandras Balinskis siejamas su karališkosios vaistinės dalimi, kuri liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
+  teiginys: 'Aleksandro Balinskio iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo miesto vaistinės pradžia.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-173117"></a>
 - t-005
   global_id: t-173117
-  teiginys: 'Sun- 47 kiai atkentėjo Balinskis už savo gydyStrijkovskis savo metraštyje, mo ir alchemijos aistrą; pirmiausia po 1.'
+  teiginys: 'Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.'
   pagrindžia:
     - c-004
 
@@ -110,6 +110,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     - t-001
 
 - c-002
+  santrauka: 'Aleksandras Balinskis buvo Krokuvos bajoraitis nuo Olkušo, garsėjęs alchemijos išmanymu ir sėkmingu gydymu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aleksandras iš Balino Balinskis, Kro­

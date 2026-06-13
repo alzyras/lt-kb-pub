@@ -50,13 +50,14 @@ Nenurodyta
 <a id="claim-t-05235"></a>
 - t-001
   global_id: t-05235
-  teiginys: 'L. Nakaitė rašė apie sidabro naudojimą, sidabrą kaip vertės matą ir sidabro dirbinius Lietuvoje iki XIII a.'
+  teiginys: 'L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą ir sidabro dirbinius iki XIII a.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą ir sidabro dirbinius iki XIII a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Rudaičių ir Veliuonos

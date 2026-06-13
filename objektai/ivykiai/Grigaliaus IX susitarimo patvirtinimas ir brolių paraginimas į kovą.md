@@ -44,18 +44,18 @@ Nenurodyta
 <a id="claim-t-62796"></a>
 - t-001
   global_id: t-62796
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
+  teiginys: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-62797"></a>
 - t-002
   global_id: t-62797
   teiginys: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +80,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į

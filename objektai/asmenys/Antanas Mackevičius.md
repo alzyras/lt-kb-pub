@@ -37,35 +37,28 @@ Mackevičius, vėliau K.
 <a id="claim-t-75695"></a>
 - t-002
   global_id: t-75695
-  teiginys: 'Po Z. Sierakausko mirties Antanas Mackevičius paskirtas Kauno gubernijos sukilėlių karo vadu.'
+  teiginys: 'Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-75696"></a>
 - t-003
   global_id: t-75696
-  teiginys: 'Mackevičiui nepavyko tinkamai išdėstyti gynybai savo šaulių, klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
+  teiginys: 'Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-75697"></a>
 - t-004
   global_id: t-75697
-  teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
+  teiginys: 'Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-75698"></a>
-- t-005
-  global_id: t-75698
-  teiginys: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
-  pagrindžia:
-    - c-007
 
 <a id="claim-t-75699"></a>
 - t-006
   global_id: t-75699
-  teiginys: 'Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
+  teiginys: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   pagrindžia:
     - c-006
 
@@ -82,13 +75,6 @@ Mackevičius, vėliau K.
   teiginys: 'Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-75702"></a>
-- t-009
-  global_id: t-75702
-  teiginys: 'Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -113,6 +99,7 @@ Mackevičius, vėliau K.
     - t-001
 
 - c-002
+  santrauka: 'Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Joje vykdė naujokų ap-
@@ -163,6 +150,7 @@ Mackevičius, vėliau K.
     - t-007
 
 - c-005
+  santrauka: 'Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     I. Ganeckio rinktinė pasuko iš Medeikių
@@ -182,6 +170,7 @@ Mackevičius, vėliau K.
     - t-003
 
 - c-006
+  santrauka: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Į nelaisvę pakliuvo Z. Sierakauskas,

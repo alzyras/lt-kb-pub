@@ -27,7 +27,7 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
 <a id="claim-t-183660"></a>
 - t-002
   global_id: t-183660
-  teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
+  teiginys: 'Lietuvos jungtines pajėgas prie Vorsklos sudarė lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamyšo totoriai, lenkų talkininkai, Kryžiuočių ordino kariai ir moldavai.'
   pagrindžia:
     - c-001
 
@@ -81,3 +81,4 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/grupes/Lenkai]]

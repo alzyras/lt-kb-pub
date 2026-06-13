@@ -28,13 +28,14 @@ periodo_grupes:
 <a id="claim-t-78075"></a>
 - t-001
   global_id: t-78075
-  teiginys: 'Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vytauto Sirvydžio kardiochirurgijos mokykla.'
+  teiginys: 'Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos čem-

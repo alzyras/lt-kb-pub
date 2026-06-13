@@ -21,13 +21,14 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
 <a id="claim-t-80709"></a>
 - t-001
   global_id: t-80709
-  teiginys: 'Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad reikia prašyti Pušaloto valsčiaus valdžios, kad leistų surinkti miške likusius lavonus.'
+  teiginys: 'Apylinkės pirmininkas Blinkevičius nusprendė prašyti Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apylinkės pirmininkas Blinkevičius nusprendė prašyti Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po

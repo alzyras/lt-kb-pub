@@ -27,14 +27,14 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 <a id="claim-t-88520"></a>
 - t-001
   global_id: t-88520
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol.'
+  teiginys: 'Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-88521"></a>
 - t-002
   global_id: t-88521
-  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     - t-003
 
 - c-002
+  santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepasitikėta ir savųjų įgūdžiais,
@@ -76,6 +77,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
     - t-002
 
 - c-003
+  santrauka: 'Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių

@@ -19,13 +19,14 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
 <a id="claim-t-80742"></a>
 - t-001
   global_id: t-80742
-  teiginys: 'Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.'
+  teiginys: 'Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai. Kai

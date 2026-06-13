@@ -40,9 +40,16 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 <a id="claim-t-42378"></a>
 - t-003
   global_id: t-42378
-  teiginys: 'Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo rengiami srities vadų sąskrydžiai.'
+  teiginys: 'Šimonių girioje bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-183819"></a>
+- t-004
+  global_id: t-183819
+  teiginys: 'Algimanto apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -81,6 +88,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - t-002
 
 - c-003
+  santrauka: 'Šimonių girioje bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apygardos teritorijoje, Šimonių girioje,
@@ -96,7 +104,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
     - t-003
 
 - c-004
-  santrauka: 'Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo rengiami srities vadų sąskrydžiai.'
+  santrauka: 'Algimanto apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Algimanto apygardą sudarė trys rinktinės:

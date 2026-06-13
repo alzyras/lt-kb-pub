@@ -55,48 +55,41 @@ Nenurodyta.
   global_id: t-05445
   teiginys: 'Gediminui nepasisekė išlaikyti Lietuvos metropolijos.'
   pagrindžia:
-    - c-008
     - c-001
     - c-002
     - c-003
     - c-004
     - c-005
     - c-006
+    - c-007
 
 <a id="claim-t-05446"></a>
 - t-002
   global_id: t-05446
   teiginys: 'Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-05450"></a>
 - t-003
   global_id: t-05450
   teiginys: '1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-12566"></a>
-- t-004
-  global_id: t-12566
-  teiginys: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
-  pagrindžia:
     - c-007
 
 <a id="claim-t-97282"></a>
-- t-005
+- t-004
   global_id: t-97282
   teiginys: '1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-97283"></a>
-- t-006
+- t-005
   global_id: t-97283
   teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -116,7 +109,7 @@ Nenurodyta.
   statusas: verified
   pagrindžia:
     - t-001
-    - t-005
+    - t-004
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -193,29 +186,6 @@ Nenurodyta.
     - t-001
 
 - c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lie­
-    tuvai rivalizuojant su Maskva dėl subūrimo apie save rusų že­
-    mių buvo labai nepatogu, kad aukščiausias vietinis jų bažny­
-    čios autoritetas yra Maskvos pusėje, kad rusai į Maskvą žiūri,
-    kaip į savo tikybinį centrą. Dėl to jau Algirdas buvo dėjęs daug
-    pastangų, ir jam pagaliau buvo pasisekę įkurti Lietuvos kuni­
-    gaikštijos ribose gyvenantiems pravoslavams atskirą metropo­
-    liją, nes senąjį metropolitą grąžinti į Kijevą jau buvo nebegalima.
-    Vytautas tą savos metropolijos svarbą suprato labai gerai ir po
-    visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti
-    klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho
-    priešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­
-    tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį
-    Cemblaką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-008
   santrauka: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -228,7 +198,7 @@ Nenurodyta.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
     - t-001
     - t-002
     - t-003
@@ -243,7 +213,6 @@ Nenurodyta.
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

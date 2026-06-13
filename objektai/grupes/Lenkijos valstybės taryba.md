@@ -22,14 +22,14 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 <a id="claim-t-74512"></a>
 - t-001
   global_id: t-74512
-  teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
+  teiginys: 'Po Krėvos sutarties bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74513"></a>
 - t-002
   global_id: t-74513
-  teiginys: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
+  teiginys: 'Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.'
   pagrindžia:
     - c-004
 
@@ -67,6 +67,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     - t-003
 
 - c-002
+  santrauka: 'Po Krėvos sutarties bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
@@ -109,6 +110,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     - t-004
 
 - c-004
+  santrauka: 'Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
@@ -136,8 +138,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]

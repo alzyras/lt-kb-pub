@@ -29,7 +29,7 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 <a id="claim-t-34342"></a>
 - t-001
   global_id: t-34342
-  teiginys: 'Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.'
+  teiginys: 'Kai Jogaila vedė trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai dėl priesaikos Jadvygai.'
   pagrindžia:
     - c-002
 
@@ -82,3 +82,4 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/apsikarūnavimas]]

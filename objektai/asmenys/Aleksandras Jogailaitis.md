@@ -90,7 +90,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 <a id="claim-t-54939"></a>
 - t-005
   global_id: t-54939
-  teiginys: 'Aleksandro veiksmams stigo ryžto, o 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
+  teiginys: 'Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
   pagrindžia:
     - c-003
 
@@ -104,7 +104,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 <a id="claim-t-54941"></a>
 - t-007
   global_id: t-54941
-  teiginys: 'Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.'
+  teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.'
   pagrindžia:
     - c-016
 
@@ -118,7 +118,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 <a id="claim-t-82170"></a>
 - t-009
   global_id: t-82170
-  teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
+  teiginys: 'Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.'
   pagrindžia:
     - c-010
 
@@ -181,7 +181,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 <a id="claim-t-82179"></a>
 - t-018
   global_id: t-82179
-  teiginys: 'Mes, Aleksandras, Dievo malone didysis Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis.'
+  teiginys: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
   pagrindžia:
     - c-013
 
@@ -202,7 +202,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 <a id="claim-t-82182"></a>
 - t-021
   global_id: t-82182
-  teiginys: 'Ši trokštama žinia jau merdintį Aleksandrą pasiekė Vilniuje.'
+  teiginys: 'Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.'
   pagrindžia:
     - c-014
 
@@ -301,6 +301,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - t-004
 
 - c-003
+  santrauka: 'Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tarp Aleksan­
@@ -467,6 +468,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - t-015
 
 - c-010
+  santrauka: 'Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Krymo totorių
@@ -577,6 +579,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - t-014
 
 - c-013
+  santrauka: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes, Aleksandras, Dievo malone didysis
@@ -600,6 +603,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - t-018
 
 - c-014
+  santrauka: 'Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gausūs Krymo ordos ka­

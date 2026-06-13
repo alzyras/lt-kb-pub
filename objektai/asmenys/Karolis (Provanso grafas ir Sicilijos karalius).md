@@ -30,27 +30,28 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 <a id="claim-t-60040"></a>
 - t-001
   global_id: t-60040
-  teiginys: 'Dusburgietis teigia, kad apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II nesantuokinio sūnaus, mirtį 1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį Sicilijos karaliumi, kurią jam davė popiežius Urbonas.'
+  teiginys: '1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60041"></a>
 - t-002
   global_id: t-60041
-  teiginys: 'Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui, Sicilijos karalystę, kurią Manfredas buvo užgrobęs, norėdamas ją iš jo atimti (Mart.'
+  teiginys: '1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60042"></a>
 - t-003
   global_id: t-60042
-  teiginys: 'Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart.'
+  teiginys: '1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1263 m. popiežius Urbonas atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui
@@ -65,6 +66,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
     - t-002
 
 - c-002
+  santrauka: '1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
@@ -81,6 +83,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
     - t-001
 
 - c-003
+  santrauka: '1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
@@ -97,4 +100,5 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Karolis]]
+- [[objektai/asmenys/Klemensas IV]]
 - [[objektai/asmenys/Fridrichas II]]

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose. Pasroviui atskubėję lietuviai, praradę tik vieną saviškį, privertė priešą pasukti atgal. Lietuviai per žvalgus sužinojo apie Kunono pasalas, pasislėpė miškuose ir po jo kariuomenės paleidimo nuniokojo kraštą.
+1299 m. Brandenburgo komtūras Kanonas įsibrovė į Lietuvą ir sudegino namus Junigedos bei Pieštvės papiliuose. Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal. Lietuviai per žvalgus sužinojo apie Kunono pasalas, pasislėpė miškuose ir po jo kariuomenės paleidimo nuniokojo kraštą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-185556"></a>
 - t-002
   global_id: t-185556
-  teiginys: 'Pasroviui atskubėję lietuviai, praradę tik vieną saviškį, privertė priešą pasukti atgal.'
+  teiginys: 'Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.'
   pagrindžia:
     - c-002
 
@@ -82,7 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Pasroviui atskubėję lietuviai, praradę tik vieną saviškį, privertė priešą pasukti atgal.'
+  santrauka: 'Pasroviui atskubėję lietuviai Nemune prarado tik vieną saviškį ir privertė priešų laivus pasukti atgal.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasroviui atskubėjo lietuviai ir, praradę

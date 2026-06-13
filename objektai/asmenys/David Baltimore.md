@@ -25,13 +25,14 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 <a id="claim-t-78048"></a>
 - t-001
   global_id: t-78048
-  teiginys: 'O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.'
+  teiginys: 'David Baltimore''as minimas kaip 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, tiesiogiai susijęs su Lietuva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'David Baltimore''as minimas kaip 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, tiesiogiai susijęs su Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-

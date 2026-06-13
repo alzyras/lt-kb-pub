@@ -36,7 +36,7 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 <a id="claim-t-79104"></a>
 - t-002
   global_id: t-79104
-  teiginys: 'Sleževičius pasveikino vyr.'
+  teiginys: '1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Zarasų operacija 1919 m. rugpjūtį

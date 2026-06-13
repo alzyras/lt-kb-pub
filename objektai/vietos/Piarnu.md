@@ -35,7 +35,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 <a id="claim-t-42025"></a>
 - t-002
   global_id: t-42025
-  teiginys: 'Mūšio išvakarėse Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti karo veiksmus siekiant panaikinti Rygos miesto blokadą.'
+  teiginys: 'Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     - t-001
 
 - c-002
+  santrauka: 'Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio išvakarėse
@@ -82,7 +83,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     - t-002
 
 - c-003
-  santrauka: 'Mūšio išvakarėse Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti karo veiksmus siekiant panaikinti Rygos miesto blokadą.'
+  santrauka: 'Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kaip karo grobis lietuviams atiteko

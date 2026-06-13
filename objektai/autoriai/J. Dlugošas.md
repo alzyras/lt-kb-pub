@@ -38,7 +38,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 <a id="claim-t-172866"></a>
 - t-002
   global_id: t-172866
-  teiginys: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  teiginys: 'J. Dlugošas pateikia Ordino pasiuntinio Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po vizito Jogailos stovykloje.'
   pagrindžia:
     - c-007
 
@@ -73,7 +73,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 <a id="claim-t-172873"></a>
 - t-007
   global_id: t-172873
-  teiginys: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
+  teiginys: 'J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.'
   pagrindžia:
     - c-004
 
@@ -101,7 +101,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 <a id="claim-t-172878"></a>
 - t-012
   global_id: t-172878
-  teiginys: 'Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė.'
+  teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.'
   pagrindžia:
     - c-003
 
@@ -169,6 +169,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-012
 
 - c-004
+  santrauka: 'J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
@@ -227,6 +228,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-004
 
 - c-007
+  santrauka: 'J. Dlugošas pateikia Ordino pasiuntinio Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po vizito Jogailos stovykloje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Raitelio

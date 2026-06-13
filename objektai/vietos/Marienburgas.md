@@ -60,14 +60,14 @@ rijenburgas.
 <a id="claim-t-177687"></a>
 - t-005
   global_id: t-177687
-  teiginys: 'Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti.'
+  teiginys: 'Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-177688"></a>
 - t-006
   global_id: t-177688
-  teiginys: 'Dusburgietis teigia, kad apie Marienburgo pilies pastatymą 1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios šlovei bei garbei ji čia ir buvo perkelta500.'
+  teiginys: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi.'
   pagrindžia:
     - c-011
 
@@ -81,7 +81,7 @@ rijenburgas.
 <a id="claim-t-177690"></a>
 - t-008
   global_id: t-177690
-  teiginys: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas žinojo arba nujautė jo pasiuntinystės tikslus.'
+  teiginys: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus.'
   pagrindžia:
     - c-010
 
@@ -95,21 +95,21 @@ rijenburgas.
 <a id="claim-t-177693"></a>
 - t-010
   global_id: t-177693
-  teiginys: 'Dusburgietis teigia, kad jo nuorašas su kitais Ordino dokumentais į Marienburgą galėjo pakliūti defektuotas, nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos.'
+  teiginys: 'Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-177694"></a>
 - t-011
   global_id: t-177694
-  teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
+  teiginys: 'Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-177695"></a>
 - t-012
   global_id: t-177695
-  teiginys: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
+  teiginys: 'Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos.'
   pagrindžia:
     - c-012
 
@@ -123,7 +123,7 @@ rijenburgas.
 <a id="claim-t-177697"></a>
 - t-014
   global_id: t-177697
-  teiginys: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam valdyti pavestas pilis.'
+  teiginys: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
   pagrindžia:
     - c-001
 
@@ -151,7 +151,7 @@ rijenburgas.
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino dar dvi jam valdyti pavestas pilis.'
+  santrauka: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
@@ -207,6 +207,7 @@ rijenburgas.
     - t-001
 
 - c-005
+  santrauka: 'Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
@@ -245,6 +246,7 @@ rijenburgas.
     - t-015
 
 - c-007
+  santrauka: 'Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po
@@ -314,6 +316,7 @@ rijenburgas.
     - t-002
 
 - c-010
+  santrauka: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
@@ -330,6 +333,7 @@ rijenburgas.
     - t-008
 
 - c-011
+  santrauka: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
@@ -349,6 +353,7 @@ rijenburgas.
     - t-006
 
 - c-012
+  santrauka: 'Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Yra duomenų spręsti, kad Jogaila ir Vytautas yra veikę drauge
@@ -363,6 +368,7 @@ rijenburgas.
     - t-012
 
 - c-013
+  santrauka: 'Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pažymėtos vienodai (I, 2, 3, 4, 5; IV, 33; III, 309, 314). iš to daroma išvada, kad jau

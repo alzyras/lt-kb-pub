@@ -21,7 +21,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
 <a id="claim-t-63736"></a>
 - t-001
   global_id: t-63736
-  teiginys: 'Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteriai savanoriai (10 vėliavų), vadovaujami Jono Tarnovskio (būsimo Lenkijos didžiojo etmono), visų pirma - karaliaus dvarionys, kuriems vadovavo Albertas (Vaitiekus) Sampolinskis.'
+  teiginys: 'Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
     - t-002
 
 - c-002
+  santrauka: 'Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pastariesiems vadovavo

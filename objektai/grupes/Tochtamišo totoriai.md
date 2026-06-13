@@ -36,14 +36,14 @@ tags:
 <a id="claim-t-171392"></a>
 - t-003
   global_id: t-171392
-  teiginys: 'Tochtamišo karių dalis, jau prieš mūšį susisiekusi su priešais, galėjo pereiti į chano Timūr-Kutluko šalininkų pusę (greta stovėta keletą dienų).'
+  teiginys: 'Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183668"></a>
 - t-004
   global_id: t-183668
-  teiginys: 'Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaikščiai, Tochtamišo totoriai, talkininkai iš Lenkijos, Kryžiuočių ordino kariai, moldavai.'
+  teiginys: 'Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos.'
   pagrindžia:
     - c-003
 
@@ -78,6 +78,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tochtamišo karių dalis, jau prieš mūšį su-

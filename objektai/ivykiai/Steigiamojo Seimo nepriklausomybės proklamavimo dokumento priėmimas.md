@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-77915"></a>
 - t-001
   global_id: t-77915
-  teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
+  teiginys: 'Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
@@ -75,5 +76,6 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

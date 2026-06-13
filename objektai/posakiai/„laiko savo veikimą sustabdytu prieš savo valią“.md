@@ -19,13 +19,14 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
 <a id="claim-t-77848"></a>
 - t-001
   global_id: t-77848
-  teiginys: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
+  teiginys: 'Naciams 1941 m. rugpjūčio 5 d. uždraudus LV veiklą, J. Ambrazevičius konstatavo, kad vyriausybė veikimą sustabdė prieš savo valią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Naciams 1941 m. rugpjūčio 5 d. uždraudus LV veiklą, J. Ambrazevičius konstatavo, kad vyriausybė veikimą sustabdė prieš savo valią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-

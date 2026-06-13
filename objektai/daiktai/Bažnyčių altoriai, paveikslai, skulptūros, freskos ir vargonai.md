@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-77921"></a>
 - t-001
   global_id: t-77921
-  teiginys: 'Statomos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – daugybė paveikslų, skulptūrų bei freskų, o nuo XV a.'
+  teiginys: 'Iki XVI a. vidurio vienuolynų bažnyčiose buvo prabangūs altoriai, daug paveikslų, skulptūrų ir freskų, o nuo XV a. pabaigos ir vargonai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iki XVI a. vidurio vienuolynų bažnyčiose buvo prabangūs altoriai, daug paveikslų, skulptūrų ir freskų, o nuo XV a. pabaigos ir vargonai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iki XVI  a. vidurio susikūrė sep-

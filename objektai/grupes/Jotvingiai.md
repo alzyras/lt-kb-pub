@@ -33,7 +33,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 <a id="claim-t-178767"></a>
 - t-001
   global_id: t-178767
-  teiginys: 'Jeigu lietuvių skaičius nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra atsitikę su jotvingiais.'
+  teiginys: 'Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.'
   pagrindžia:
     - c-009
 
@@ -42,7 +42,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178768
   teiginys: 'II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-178769"></a>
 - t-003
@@ -75,7 +75,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 <a id="claim-t-178774"></a>
 - t-007
   global_id: t-178774
-  teiginys: 'Toliau į pietvakarius ėjo jotvingių žemė.'
+  teiginys: 'XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   pagrindžia:
     - c-010
 
@@ -96,7 +96,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 <a id="claim-t-178778"></a>
 - t-010
   global_id: t-178778
-  teiginys: 'Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių pavyzdys.'
+  teiginys: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių.'
   pagrindžia:
     - c-007
 
@@ -107,24 +107,17 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - c-003
 
-<a id="claim-t-178780"></a>
-- t-012
-  global_id: t-178780
-  teiginys: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
-  pagrindžia:
-    - c-011
-
 <a id="claim-t-178781"></a>
-- t-013
+- t-012
   global_id: t-178781
   teiginys: '1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-178782"></a>
-- t-014
+- t-013
   global_id: t-178782
-  teiginys: 'Jotvingių pavyzdys rodo, kad žemės ūkis buvo greitai pažeidžiamas.'
+  teiginys: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.'
   pagrindžia:
     - c-004
 
@@ -142,7 +135,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
     - t-004
 
 - c-002
@@ -184,6 +177,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-011
 
 - c-004
+  santrauka: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
@@ -199,7 +193,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -247,6 +241,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-006
 
 - c-007
+  santrauka: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar neturint masinio šakniavaisių pakaitalo,
@@ -279,6 +274,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-008
 
 - c-009
+  santrauka: 'Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tačiau atrodo, kad tie skaičiai yra per maži, nes kitaip
@@ -298,6 +294,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-001
 
 - c-010
+  santrauka: 'XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Išskyrus Gardiną, tos sritys buvo
@@ -314,22 +311,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-007
 
 - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
-    triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
-    Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami
-    apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.
-    Galėjo tas pat būti ir Lietuvoje, kai gyventojai iš sunkiau apgi­
-    namų vietų ordino karų laikais vis labiau traukėsi į uždarų sodybų
-    plotus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau,

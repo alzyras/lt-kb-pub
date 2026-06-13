@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-75231"></a>
 - t-001
   global_id: t-75231
-  teiginys: 'Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst.'
+  teiginys: '1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje.'
   pagrindžia:
     - c-005
 
@@ -147,6 +147,7 @@ Nenurodyta
     - t-004
 
 - c-005
+  santrauka: '1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė

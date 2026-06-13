@@ -26,7 +26,7 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 <a id="claim-t-183526"></a>
 - t-002
   global_id: t-183526
-  teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  teiginys: 'Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų.'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
     - t-001
 
 - c-002
-  santrauka: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  santrauka: 'Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip

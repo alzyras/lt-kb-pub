@@ -28,13 +28,14 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
 <a id="claim-t-34716"></a>
 - t-001
   global_id: t-34716
-  teiginys: 'Devletas 1422 m. bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.'
+  teiginys: '1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai 1422 met. Devletas pabandė iš

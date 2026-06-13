@@ -61,7 +61,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 <a id="claim-t-172961"></a>
 - t-005
   global_id: t-172961
-  teiginys: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
+  teiginys: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   pagrindžia:
     - c-003
 
@@ -131,6 +131,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-001
 
 - c-003
+  santrauka: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
@@ -177,5 +178,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]

@@ -36,13 +36,14 @@ Nenurodyta
 <a id="claim-t-62473"></a>
 - t-001
   global_id: t-62473
-  teiginys: 'Dusburgietis teigia, kad apie brolių ir sembų susitaikymą Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
+  teiginys: 'Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     109 (104). Apie brolių ir sembų susitaikymą

@@ -38,14 +38,14 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 <a id="claim-t-90003"></a>
 - t-002
   global_id: t-90003
-  teiginys: 'Dusburgietis teigia, kad iII, 235), sukilimą prūsai galėjo rengti 1289 m. Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės.'
+  teiginys: 'Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-90004"></a>
 - t-003
   global_id: t-90004
-  teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
+  teiginys: 'Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.'
   pagrindžia:
     - c-001
 
@@ -87,6 +87,7 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-001
 
 - c-002
+  santrauka: 'Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     523 Apie Pagudėje ir Bartoje rengiamą sukilimą prieš Ordiną Dusburgietis kalba kaip
@@ -156,8 +157,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]
-- [[objektai/asmenys/Stavimėlas]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
+- [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]
 - [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
+- [[objektai/asmenys/Stavimėlas]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

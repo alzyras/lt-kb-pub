@@ -28,7 +28,7 @@ amziai:
 <a id="claim-t-75455"></a>
 - t-001
   global_id: t-75455
-  teiginys: 'Juolab kad kai kurie Europos mokslininkai lingvistai jau buvo nustatę, jog kalba, kuria kalba Lietuvos valstiečiai, yra bene archajiškiausia iš visų, kaip dabar sakytume, gyvųjų indoeuropiečių kalbų.'
+  teiginys: '1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juolab kad kai kurie Eu-

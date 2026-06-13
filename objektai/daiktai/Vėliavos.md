@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-10166"></a>
 - t-004
   global_id: t-10166
-  teiginys: 'Algirdas prie Maskvos pasirodė su savo pajėgomis, išskleidęs vėliavas.'
+  teiginys: '1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
   pagrindžia:
     - c-013
 
@@ -127,7 +127,7 @@ Nenurodyta
 <a id="claim-t-176207"></a>
 - t-012
   global_id: t-176207
-  teiginys: 'Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų.'
+  teiginys: 'Vytauto vadovaujami Lietuvos pulkai paskui save buvo patraukę kelias priešo vėliavas.'
   pagrindžia:
     - c-016
 
@@ -148,14 +148,14 @@ Nenurodyta
 <a id="claim-t-176211"></a>
 - t-015
   global_id: t-176211
-  teiginys: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
+  teiginys: 'Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-176212"></a>
 - t-016
   global_id: t-176212
-  teiginys: 'Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  teiginys: 'Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
   pagrindžia:
     - c-006
 
@@ -169,28 +169,28 @@ Nenurodyta
 <a id="claim-t-176214"></a>
 - t-018
   global_id: t-176214
-  teiginys: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
+  teiginys: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-176215"></a>
 - t-019
   global_id: t-176215
-  teiginys: 'Šis karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
+  teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-176216"></a>
 - t-020
   global_id: t-176216
-  teiginys: 'Pridengę jų kraštines pozicijas trimis Smolensko vėliavomis, lietuviai pradėjo manevrą atsitraukdami.'
+  teiginys: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-176217"></a>
 - t-021
   global_id: t-176217
-  teiginys: 'Kai ryte po pamaldų „Maskvos kunigaikštis su bajorais ir su kunigaikščiais išeina iš cerkvės, Algirdas su visomis savo pajėgomis, išskleidęs savo vėliavas, pasirodė ant Pasveikinimo kalno (Paklonaja gara)“ prie Maskvos.'
+  teiginys: 'Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.'
   pagrindžia:
     - c-013
 
@@ -363,6 +363,7 @@ Nenurodyta
     - t-009
 
 - c-012
+  santrauka: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Karaliui buvo parinkta saugi vieta,
@@ -407,6 +408,7 @@ Nenurodyta
     - t-004
 
 - c-014
+  santrauka: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pradėti
@@ -440,6 +442,7 @@ Nenurodyta
     - t-011
 
 - c-016
+  santrauka: 'Vytauto vadovaujami Lietuvos pulkai paskui save buvo patraukę kelias priešo vėliavas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jiems galėjo atrodyti, jog susilpnėjęs prie­
@@ -469,6 +472,7 @@ Nenurodyta
     - t-013
 
 - c-018
+  santrauka: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagal istorinę tradiciją Vytautas
@@ -595,11 +599,13 @@ Nenurodyta
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/grupes/ojo fuzilierių regimento]]
 - [[objektai/zodynas/petihorai]]
+- [[objektai/asmenys/Zyndramas iš Moškovicų]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/grupes/Smolenskiečiai]]
 - [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
 - [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/asmenys/Zyndramas iš Moškovicų]]

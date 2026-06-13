@@ -19,13 +19,14 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
 <a id="claim-t-30938"></a>
 - t-001
   global_id: t-30938
-  teiginys: 'Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje^98.'
+  teiginys: 'R. Jablonskytė-Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Jablonskytė-Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     P. Kulikauskas, R. Kulikauskienė ir A. Tautavi­

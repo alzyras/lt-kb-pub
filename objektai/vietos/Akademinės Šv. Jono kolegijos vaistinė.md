@@ -28,7 +28,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 <a id="claim-t-86000"></a>
 - t-001
   global_id: t-86000
-  teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
+  teiginys: '1546 m. dabartinės Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1546 m. dabartinės Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono Kolegijos Vaistinės kronika

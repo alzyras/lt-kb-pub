@@ -42,14 +42,15 @@ Nenurodyta
 <a id="claim-t-62739"></a>
 - t-001
   global_id: t-62739
-  teiginys: 'Dusburgietis teigia, kad apie Akono miesto sugriovimą 1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart.'
+  teiginys: '1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
@@ -66,6 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     77. Apie Akono miesto sugriovimą

@@ -88,7 +88,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 <a id="claim-t-54961"></a>
 - t-006
   global_id: t-54961
-  teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams.'
+  teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   pagrindžia:
     - c-005
 
@@ -137,7 +137,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 <a id="claim-t-82287"></a>
 - t-013
   global_id: t-82287
-  teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
+  teiginys: 'Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.'
   pagrindžia:
     - c-008
 
@@ -253,6 +253,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - t-005
 
 - c-005
+  santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet, kai totoriai didele
@@ -339,6 +340,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - t-016
 
 - c-008
+  santrauka: 'Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės

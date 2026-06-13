@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-67866"></a>
 - t-001
   global_id: t-67866
-  teiginys: 'Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410).'
+  teiginys: 'Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ amziai:
 <a id="claim-t-67869"></a>
 - t-004
   global_id: t-67869
-  teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
+  teiginys: 'Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.'
   pagrindžia:
     - c-004
 
@@ -74,6 +74,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
@@ -114,6 +115,7 @@ amziai:
     - t-003
 
 - c-004
+  santrauka: 'Eiliuota Livonijos kronika Durbės mūšio išvakarėse ir pačiame mūšyje mini lietuvius arba „pagonis“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pajėgos

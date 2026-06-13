@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-77962"></a>
 - t-001
   global_id: t-77962
-  teiginys: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
+  teiginys: 'Užsienio lietuviams remti sukurta draugija turėjo padėti emigrantams ir palaikyti jų ryšius su tėvyne.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Užsienio lietuviams remti sukurta draugija turėjo padėti emigrantams ir palaikyti jų ryšius su tėvyne.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-

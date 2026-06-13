@@ -45,14 +45,14 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 <a id="claim-t-177250"></a>
 - t-003
   global_id: t-177250
-  teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
+  teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-177251"></a>
 - t-004
   global_id: t-177251
-  teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart.'
+  teiginys: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
   pagrindžia:
     - c-005
 
@@ -62,13 +62,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginys: 'Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-177254"></a>
-- t-006
-  global_id: t-177254
-  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
-  pagrindžia:
-    - c-006
 
 <a id="claim-t-177256"></a>
 - t-008
@@ -83,6 +76,13 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginys: 'Tuomet Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184164"></a>
+- t-010
+  global_id: t-184164
+  teiginys: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -179,6 +179,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     - t-001
 
 - c-005
+  santrauka: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     42. Apie Konstantinopolio miesto atgavimą
@@ -210,7 +211,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     - t-006
 
 - c-007
-  santrauka: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
+  santrauka: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą

@@ -22,7 +22,7 @@ tags:
 <a id="claim-t-63885"></a>
 - t-001
   global_id: t-63885
-  teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
+  teiginys: 'Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ tags:
     - t-003
 
 - c-002
+  santrauka: 'Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-

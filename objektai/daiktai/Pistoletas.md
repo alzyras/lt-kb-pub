@@ -73,3 +73,4 @@ Nenurodyta
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/ATAS]]
 - [[objektai/asmenys/Gaidys]]
+- [[objektai/daiktai/TT pistoletas]]

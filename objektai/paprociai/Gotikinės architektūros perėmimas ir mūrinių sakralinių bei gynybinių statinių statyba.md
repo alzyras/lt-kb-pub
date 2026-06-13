@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-77935"></a>
 - t-001
   global_id: t-77935
-  teiginys: 'Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa (Vilniuje katedra, Šv.'
+  teiginys: 'Valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa paskatino gotikinės architektūros plitimą Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa paskatino gotikinės architektūros plitimą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas

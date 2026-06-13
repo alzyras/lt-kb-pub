@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-41271"></a>
 - t-001
   global_id: t-41271
-  teiginys: 'Lenkų pajėgos prie Giedraičių patyrė didelių nuostolių, tačiau ir lietuvių nuostoliai buvo nemenki, žuvo 15 karių ir keli karininkai, apie 60 buvo sužeista, apie 70 dingo be žinios.'
+  teiginys: 'Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau kovos

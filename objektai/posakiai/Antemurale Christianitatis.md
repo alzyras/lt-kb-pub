@@ -42,7 +42,7 @@ amziai:
 <a id="claim-t-78920"></a>
 - t-002
   global_id: t-78920
-  teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
+  teiginys: 'Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir taip formavo „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-001
 
@@ -100,4 +100,5 @@ amziai:
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]

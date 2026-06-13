@@ -28,27 +28,28 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 <a id="claim-t-89580"></a>
 - t-002
   global_id: t-89580
-  teiginys: 'Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.'
+  teiginys: 'Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89581"></a>
 - t-003
   global_id: t-89581
-  teiginys: 'Dusburgietis teigia, kad nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“ (III, 179).'
+  teiginys: 'Dusburgietis apie Nadruvą pažymėjo, kad su šia žeme daug kartų buvo vedami karai, kurių jis plačiau neaprašė.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89582"></a>
 - t-004
   global_id: t-89582
-  teiginys: 'Dusburgietis teigia, kad kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir.'
+  teiginys: 'Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis apie Nadruvą pažymėjo, kad su šia žeme daug kartų buvo vedami karai, kurių jis plačiau neaprašė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
@@ -109,3 +110,4 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]

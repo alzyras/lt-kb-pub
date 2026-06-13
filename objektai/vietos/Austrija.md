@@ -31,7 +31,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 <a id="claim-t-182067"></a>
 - t-001
   global_id: t-182067
-  teiginys: 'Nuo «nebylių seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos, kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.'
+  teiginys: 'Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     - t-002
 
 - c-002
+  santrauka: 'Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Abu rusų valdovai stengėsi savo

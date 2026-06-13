@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62432"></a>
 - t-001
   global_id: t-62432
-  teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
+  teiginys: 'Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagudėnai prie Kristburgo užpuolė pamedėnų pilaitę, ją užėmė ir iš pagrindų sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
@@ -66,3 +67,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Pamedėnai]]

@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-09610"></a>
 - t-003
   global_id: t-09610
-  teiginys: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
+  teiginys: 'Rengiantis Aukščiausiosios Tarybos gynybai jos rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Rengiantis Aukščiausiosios Tarybos gynybai jos rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rengiantis gynybai AT rūsyje buvo įreng-

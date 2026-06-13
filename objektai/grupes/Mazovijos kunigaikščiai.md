@@ -31,14 +31,14 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 <a id="claim-t-86734"></a>
 - t-001
   global_id: t-86734
-  teiginys: 'Tuo laikotarpiu Mazovijoje valdė Venceslavas, o 1325 metais kitose krašto žemėse viešpatavo Ziemovitas ir Traidenis.'
+  teiginys: '1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-86735"></a>
 - t-002
   global_id: t-86735
-  teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
+  teiginys: '1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, vienintelio
@@ -99,7 +100,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-003
 
 - c-003
-  santrauka: 'Tuo laikotarpiu Mazovijoje valdė Venceslavas, o 1325 metais kitose krašto žemėse viešpatavo Ziemovitas ir Traidenis.'
+  santrauka: '1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Niekur nevaliojome rasti Ma­

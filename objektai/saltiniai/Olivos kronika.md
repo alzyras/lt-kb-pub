@@ -60,14 +60,14 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 <a id="claim-t-60856"></a>
 - t-005
   global_id: t-60856
-  teiginys: 'Dusburgietis teigia, kad 280 Kautynės įvyko 1243 (1242?) m. birželio 15 d. Senojoje Olivos kronikoje (joje įrašyti originalūs Olivos papildymai bei Pamedės tradicija — PKD, p. 100—101) aiškiai pasakyta, jog tuo metu Sventopelkas buvo sudaręs su Ordinu paliaubas (factae fuerunt.'
+  teiginys: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-60857"></a>
 - t-006
   global_id: t-60857
-  teiginys: 'Dusburgietis teigia, kad 330 D.— Tirsko (III, 175), Jer — Tirske, Dirske; Olivos kronika— Kirske (SRP, 5, p. 602), Kirsko (SRP, 1, p. 685).'
+  teiginys: 'Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.'
   pagrindžia:
     - c-005
 
@@ -156,6 +156,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-001
 
 - c-005
+  santrauka: 'Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     330 D.— Tirsko (III, 175), Jer — Tirske, Dirske; Olivos kronika— Kirske (SRP, 5, p.
@@ -183,6 +184,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-002
 
 - c-007
+  santrauka: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     280 Kautynės įvyko 1243 (1242?) m. birželio 15 d. Senojoje Olivos kronikoje (joje

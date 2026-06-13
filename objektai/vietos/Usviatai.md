@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-80620"></a>
 - t-001
   global_id: t-80620
-  teiginys: '1580 m. dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų, Jezeriščės tvirtoves.'
+  teiginys: '1580 m. K. Radvila dalyvavo paimant Usviatų tvirtovę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1580 m. K. Radvila dalyvavo paimant Usviatų tvirtovę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     K. Radvila savo netikėtais antpuo-

@@ -74,7 +74,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-120087"></a>
 - t-007
   global_id: t-120087
-  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
+  teiginys: 'Balińskis Vilniaus vardą siejo su Vilnios upe ir iš to sprendė, kad pirmykštė gyvenvietė turėjo būti prie Vilnios.'
   pagrindžia:
     - c-008
 
@@ -116,7 +116,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-120093"></a>
 - t-013
   global_id: t-120093
-  teiginys: 'Šventaragio slėnyje Gediminas susapnavęs sapną, kurį išaiškino vyriausias žynys Lizdeika.'
+  teiginys: 'Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika.'
   pagrindžia:
     - c-007
 
@@ -137,7 +137,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-185217"></a>
 - t-016
   global_id: t-185217
-  teiginys: 'Skirgaila Šventaragio slėnyje surengė savo dėdei karališkas šermenis ir laidotuves.'
+  teiginys: 'Skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotuves.'
   pagrindžia:
     - c-011
 
@@ -262,6 +262,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-010
 
 - c-007
+  santrauka: 'Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gražia legenda yra apipintas Vilniuje valstybės sostinės
@@ -370,7 +371,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-005
 
 - c-011
-  santrauka: 'Skirgaila Šventaragio slėnyje surengė savo dėdei karališkas šermenis ir laidotuves.'
+  santrauka: 'Skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši­

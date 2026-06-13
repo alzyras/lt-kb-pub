@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-59677"></a>
 - t-001
   global_id: t-59677
-  teiginys: 'Dusburgietis teigia, kad po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge, kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš altorių, o.'
+  teiginys: 'Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdęs
@@ -88,7 +89,6 @@ Nenurodyta
 - [[objektai/zodynas/viečė]]
 - [[objektai/asmenys/Šv. Stanislovas]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje]]
 - [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]
 - [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]

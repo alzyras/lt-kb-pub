@@ -32,7 +32,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 <a id="claim-t-63557"></a>
 - t-001
   global_id: t-63557
-  teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  teiginys: 'Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.'
   pagrindžia:
     - c-001
 
@@ -46,6 +46,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių pajėgos
@@ -84,7 +85,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
     - t-002
 
 - c-003
-  santrauka: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  santrauka: 'Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos jungtinės pajėgos

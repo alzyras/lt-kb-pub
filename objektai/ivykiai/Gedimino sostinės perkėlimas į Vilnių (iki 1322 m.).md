@@ -48,20 +48,21 @@ Nenurodyta
 <a id="claim-t-97018"></a>
 - t-002
   global_id: t-97018
-  teiginys: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
+  teiginys: 'Zenonas Ivinskis rašė, kad nuo XIX a. Vilniaus įkūrimo legenda siejama su Pilies kalno medžiokle ir Gedimino Geležinio vilko sapnu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184338"></a>
 - t-003
   global_id: t-184338
-  teiginys: 'Gediminas Vilniun jau buvo perkėlęs savo sostinę^15.'
+  teiginys: 'Gediminas perkėlė savo sostinę į Vilnių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zenonas Ivinskis rašė, kad nuo XIX a. Vilniaus įkūrimo legenda siejama su Pilies kalno medžiokle ir Gedimino Geležinio vilko sapnu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
@@ -90,7 +91,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Gediminas Vilniun jau buvo perkėlęs savo sostinę^15.'
+  santrauka: 'Gediminas perkėlė savo sostinę į Vilnių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gediminas Vilniun
@@ -108,3 +109,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]

@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-110637"></a>
 - t-002
   global_id: t-110637
-  teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst.'
+  teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį

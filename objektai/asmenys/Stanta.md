@@ -20,13 +20,14 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 <a id="claim-t-60207"></a>
 - t-001
   global_id: t-60207
-  teiginys: 'Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir.'
+  teiginys: 'Stanta su bendrais slapta įsibrovė į Bartenšteino pilį ir paėmė į nelaisvę brolius Rudolfą Bodemerą ir Fridrichą iš Libencelės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stanta su bendrais slapta įsibrovė į Bartenšteino pilį ir paėmė į nelaisvę brolius Rudolfą Bodemerą ir Fridrichą iš Libencelės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose

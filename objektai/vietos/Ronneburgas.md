@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-32511"></a>
 - t-001
   global_id: t-32511
-  teiginys: 'Pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
+  teiginys: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­

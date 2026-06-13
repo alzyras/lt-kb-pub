@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-54329"></a>
 - t-001
   global_id: t-54329
-  teiginys: 'Prūsų dievų trejetą sudarė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas ir javų dievas Patrimpas.'
+  teiginys: 'Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.'
   pagrindžia:
     - c-001
 
@@ -61,6 +61,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prū-

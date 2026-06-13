@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-62678"></a>
 - t-001
   global_id: t-62678
-  teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
+  teiginys: 'Prūsai pasistatydino daug laivų, kad naikintų maistą į Karaliaučiaus pilį gabenusius brolių laivus.'
   pagrindžia:
     - c-001
     - c-002
@@ -50,21 +50,22 @@ Nenurodyta
 <a id="claim-t-62679"></a>
 - t-002
   global_id: t-62679
-  teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
+  teiginys: 'Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais.'
   pagrindžia:
-    - c-004
     - c-003
+    - c-004
 
 <a id="claim-t-62680"></a>
 - t-003
   global_id: t-62680
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  teiginys: 'Prūsai pastatė tiltą per Priegliaus upę ir įrengė kuorus, siekdami trukdyti reikmenų gabenimui į Karaliaučiaus pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai pasistatydino daug laivų, kad naikintų maistą į Karaliaučiaus pilį gabenusius brolių laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viešpats tą vietą buvo pasirinkęs savo vardui garbinti ir šlovinti373, todėl, bausdamas juos
@@ -107,6 +108,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
@@ -121,6 +123,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė

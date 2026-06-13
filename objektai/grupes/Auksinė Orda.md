@@ -76,7 +76,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 <a id="claim-t-92026"></a>
 - t-008
   global_id: t-92026
-  teiginys: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
+  teiginys: 'Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras.'
   pagrindžia:
     - c-007
 
@@ -184,6 +184,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     - t-006
 
 - c-007
+  santrauka: 'Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pajutęs savo galy­

@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-75174"></a>
 - t-001
   global_id: t-75174
-  teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m.'
+  teiginys: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75175"></a>
 - t-002
   global_id: t-75175
-  teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
   pagrindžia:
     - c-004
 
@@ -77,7 +77,7 @@ Nenurodyta
 <a id="claim-t-75178"></a>
 - t-005
   global_id: t-75178
-  teiginys: 'Pereita prie įprasto partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir šnipų naikinimo.'
+  teiginys: '1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.'
   pagrindžia:
     - c-006
 
@@ -91,6 +91,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagalbos iš užsienio tikėtis nebuvo

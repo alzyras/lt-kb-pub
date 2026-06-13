@@ -45,20 +45,21 @@ Nenurodyta
 <a id="claim-t-66652"></a>
 - t-001
   global_id: t-66652
-  teiginys: 'Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų.'
+  teiginys: 'Prūsai po kelerių metų nusiaubė Kulmo žemę, pavertė ją dykra, o krikščionis išžudė arba išsivarė į nelaisvę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66653"></a>
 - t-002
   global_id: t-66653
-  teiginys: 'Dusburgietis teigia, kad 162 Kulmo (dab.'
+  teiginys: 'Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
@@ -99,5 +100,6 @@ Nenurodyta
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/amžina vergovė]]
 - [[objektai/zodynas/amžina vergovė amžini vergai]]

@@ -21,13 +21,14 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
 <a id="claim-t-77826"></a>
 - t-001
   global_id: t-77826
-  teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
+  teiginys: 'Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių or-
@@ -50,3 +51,4 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/asmenys/Romanas Dmovskis]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

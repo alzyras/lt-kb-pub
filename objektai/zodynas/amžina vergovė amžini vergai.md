@@ -28,7 +28,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 <a id="claim-t-58891"></a>
 - t-002
   global_id: t-58891
-  teiginys: 'Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų.'
+  teiginys: 'Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais.'
   pagrindžia:
     - c-002
 
@@ -74,5 +74,6 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/vergai]]
 - [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
 - [[objektai/zodynas/amžina vergovė]]

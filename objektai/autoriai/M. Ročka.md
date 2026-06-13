@@ -27,13 +27,14 @@ periodo_grupes:
 <a id="claim-t-88030"></a>
 - t-001
   global_id: t-88030
-  teiginys: 'Štai, [vertė MRočka], Vilnius, Mintis, 1966.'
+  teiginys: 'M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­

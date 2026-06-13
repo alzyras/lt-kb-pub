@@ -33,6 +33,13 @@ Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Feder
   pagrindžia:
     - c-001
 
+<a id="claim-t-183366"></a>
+- t-002
+  global_id: t-183366
+  teiginys: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,7 +60,7 @@ Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Feder
     - t-001
 
 - c-002
-  santrauka: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  santrauka: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Draugiški valstybių vadovų santykiai leido

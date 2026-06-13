@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-87116"></a>
 - t-001
   global_id: t-87116
-  teiginys: 'Nuo ugnies, įsiliepsnojusios pilies kieme, kunigaikščio arklidėse, kilo toks baisus gaisras, kad, be Žemutinės pilies ir Katedros, ištisai visas miestas sudegė.'
+  teiginys: 'Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1400 m. gaisras, prasidėjęs kunigaikščio arklidėse pilies kieme, sunaikino beveik visą Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šie politiniai kivirčai nebuvo Vilniui tokie skaudūs (1399

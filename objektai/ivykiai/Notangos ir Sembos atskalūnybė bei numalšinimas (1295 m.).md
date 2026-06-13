@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-66800"></a>
 - t-001
   global_id: t-66800
-  teiginys: 'Dusburgietis teigia, kad po to Karaliaučiaus komtūras negaišdamas sugrįžo su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos maištą.'
+  teiginys: 'Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto.'
   pagrindžia:
     - c-001
 
@@ -58,13 +58,14 @@ Nenurodyta
 <a id="claim-t-66802"></a>
 - t-003
   global_id: t-66802
-  teiginys: 'Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas.'
+  teiginys: 'Sembos valstiečiai susimokė išžudyti savo kilminguosius ir karvedžiu išsirinko Naudžiotą, Juodučio sūnų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau dievas, kuris neleidžia, kad juo įtikėjusios
@@ -82,6 +83,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Sembos valstiečiai susimokė išžudyti savo kilminguosius ir karvedžiu išsirinko Naudžiotą, Juodučio sūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto, kai
@@ -146,6 +148,6 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/piktadarystė]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/asmenys/Sabinas]]
+- [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]

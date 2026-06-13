@@ -50,21 +50,21 @@ Nenurodyta
 <a id="claim-t-20467"></a>
 - t-002
   global_id: t-20467
-  teiginys: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.'
+  teiginys: 'Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183270"></a>
 - t-003
   global_id: t-183270
-  teiginys: 'Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusijos finansų krizei.'
+  teiginys: '1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183271"></a>
 - t-004
   global_id: t-183271
-  teiginys: 'Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.'
+  teiginys: 'Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.'
   pagrindžia:
     - c-004
 
@@ -87,6 +87,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos eksporto, o rusiškų prekių importas su-
@@ -101,7 +102,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusijos finansų krizei.'
+  santrauka: '1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
@@ -117,7 +118,7 @@ Nenurodyta
     - t-003
 
 - c-004
-  santrauka: 'Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.'
+  santrauka: 'Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš

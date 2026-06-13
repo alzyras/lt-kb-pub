@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-45355"></a>
 - t-001
   global_id: t-45355
-  teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
+  teiginys: 'Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.'
   pagrindžia:
     - c-001
 

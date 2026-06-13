@@ -32,7 +32,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116726"></a>
 - t-001
   global_id: t-116726
-  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  teiginys: 'Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo.'
   pagrindžia:
     - c-009
 
@@ -46,14 +46,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116728"></a>
 - t-003
   global_id: t-116728
-  teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
+  teiginys: 'XIII-XIV a. Lietuvos istorijai nušviesti svarbios kronikos apie kovas prieš Kryžiuočių ordiną, Vakarų Europos feodalus ir katalikų bažnyčią.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-116729"></a>
 - t-004
   global_id: t-116729
-  teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
+  teiginys: 'Bažnyčios su dviem grakščiais bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   pagrindžia:
     - c-003
 
@@ -116,7 +116,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116738"></a>
 - t-013
   global_id: t-116738
-  teiginys: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  teiginys: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
   pagrindžia:
     - c-002
 
@@ -144,7 +144,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116742"></a>
 - t-017
   global_id: t-116742
-  teiginys: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
+  teiginys: 'Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto.'
   pagrindžia:
     - c-012
 
@@ -158,14 +158,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116744"></a>
 - t-019
   global_id: t-116744
-  teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  teiginys: 'Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-116745"></a>
 - t-020
   global_id: t-116745
-  teiginys: 'Nors „Kronika“ skirta tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.'
+  teiginys: '„Kronika“ virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
   pagrindžia:
     - c-010
 
@@ -195,6 +195,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-016
 
 - c-002
+  santrauka: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo ruožtu pagrindinis tikslas – Lietu-
@@ -217,6 +218,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-013
 
 - c-003
+  santrauka: 'Bažnyčios su dviem grakščiais bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryškiausias ypatumas – ypač aukšti ir
@@ -348,6 +350,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-018
 
 - c-009
+  santrauka: 'Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
@@ -362,6 +365,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-001
 
 - c-010
+  santrauka: '„Kronika“ virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
@@ -402,6 +406,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-005
 
 - c-012
+  santrauka: 'Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
@@ -453,6 +458,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-009
 
 - c-015
+  santrauka: 'XIII-XIV a. Lietuvos istorijai nušviesti svarbios kronikos apie kovas prieš Kryžiuočių ordiną, Vakarų Europos feodalus ir katalikų bažnyčią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
@@ -599,7 +605,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/asmenys/Martynas V]]
-- [[objektai/zodynas/akcijos]]
+- [[objektai/zodynas/kirilika]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]
 - [[objektai/asmenys/Andrius Štirlandas]]
 - [[objektai/autoriai/Henrikas Latvis]]

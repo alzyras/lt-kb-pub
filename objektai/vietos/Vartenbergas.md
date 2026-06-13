@@ -22,20 +22,21 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 <a id="claim-t-58650"></a>
 - t-001
   global_id: t-58650
-  teiginys: 'Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių.'
+  teiginys: 'Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58651"></a>
 - t-002
   global_id: t-58651
-  teiginys: 'Dusburgietis teigia, kad sūduviai, subūrę dar didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių, kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko.'
+  teiginys: 'Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     158 (153). Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
@@ -52,6 +53,7 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     - t-001
 
 - c-002
+  santrauka: 'Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sūduviai, subūrę dar

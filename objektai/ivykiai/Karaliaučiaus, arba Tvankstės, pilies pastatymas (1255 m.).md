@@ -44,14 +44,15 @@ Nenurodyta
 <a id="claim-t-62819"></a>
 - t-001
   global_id: t-62819
-  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, arba Tvankstės, pilies pastatymą Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas reikalinga pilių statybai, ir, pasitelkę jiems ištikimus prūsus, atžygiavo su didele kariuomene 1255 viešpaties metais ir.'
+  teiginys: '1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas
@@ -69,6 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     72 (71). Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą

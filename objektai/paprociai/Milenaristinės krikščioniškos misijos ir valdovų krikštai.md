@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-54313"></a>
 - t-002
   global_id: t-54313
-  teiginys: 'Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
+  teiginys: '1009 m. šv. Brunonas Bonifacijus Lietuvoje rado „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   pagrindžia:
     - c-001
 

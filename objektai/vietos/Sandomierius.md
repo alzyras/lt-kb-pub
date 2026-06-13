@@ -27,7 +27,7 @@ amziai:
 <a id="claim-t-32532"></a>
 - t-001
   global_id: t-32532
-  teiginys: 'Lietuviai drauge su rusais vėl puolė Sandomieriaus ir Liublino žemes.'
+  teiginys: '1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1300 jie vėl pasirodė Dobry­

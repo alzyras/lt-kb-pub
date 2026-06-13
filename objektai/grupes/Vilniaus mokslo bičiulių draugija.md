@@ -21,20 +21,21 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 <a id="claim-t-66288"></a>
 - t-001
   global_id: t-66288
-  teiginys: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
+  teiginys: 'Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius, kai nepavyko atkurti universiteto Vilniuje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66289"></a>
 - t-002
   global_id: t-66289
-  teiginys: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
+  teiginys: 'Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus mokslo bičiulių draugija ir Lietuvių mokslo draugija daug dėmesio skyrė praeičiai ir LDK paveldui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi draugijos daug dėmesio skyrė
@@ -53,6 +54,7 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
     - t-002
 
 - c-002
+  santrauka: 'Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius, kai nepavyko atkurti universiteto Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, etnografi-
@@ -75,6 +77,7 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/grupes/Mokslo bičiulių draugija]]
+- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]

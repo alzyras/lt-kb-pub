@@ -23,13 +23,6 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   pagrindžia:
     - c-001
 
-<a id="claim-t-183659"></a>
-- t-002
-  global_id: t-183659
-  teiginys: 'Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,21 +39,3 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prasidėjus karui paleistas.
-    Po antros sovietų okupacijos priklausė pogrindžio
-    Lietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos
-    partizanų sąjūdžio organizacinio skyriaus viršininkas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos partizanų sąjūdis]]

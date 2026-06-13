@@ -27,13 +27,14 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 <a id="claim-t-61327"></a>
 - t-001
   global_id: t-61327
-  teiginys: 'Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi 87 Пашуто В.'
+  teiginys: '„Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi

@@ -28,21 +28,21 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 <a id="claim-t-58815"></a>
 - t-002
   global_id: t-58815
-  teiginys: 'Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų207 bei.'
+  teiginys: 'Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58816"></a>
 - t-003
   global_id: t-58816
-  teiginys: 'Dusburgietis teigia, kad mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский А.'
+  teiginys: 'A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-58817"></a>
 - t-004
   global_id: t-58817
-  teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
+  teiginys: 'Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.'
   pagrindžia:
     - c-003
 
@@ -64,6 +64,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - t-001
 
 - c-002
+  santrauka: 'Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
@@ -79,6 +80,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - t-002
 
 - c-003
+  santrauka: 'Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
@@ -90,6 +92,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - t-004
 
 - c-004
+  santrauka: 'A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     A. Mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский
@@ -112,6 +115,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - [[objektai/posakiai/negęstančiąją ugnį]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/prastuomenė]]
 - [[objektai/autoriai/Jurginis J]]
 - [[objektai/autoriai/Kosman М]]
 - [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]

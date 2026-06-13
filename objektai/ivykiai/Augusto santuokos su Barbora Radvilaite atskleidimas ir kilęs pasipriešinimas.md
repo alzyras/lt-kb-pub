@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Augustas Lenkijoje susitiko su karaliumi Žygimantu ir paprašė tėvą pritarti jo santuokai.
+Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185691"></a>
 - t-001
   global_id: t-185691
-  teiginys: 'Augustas Lenkijoje susitiko su karaliumi Žygimantu ir paprašė tėvą pritarti jo santuokai.'
+  teiginys: 'Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Augustas Lenkijoje susitiko su karaliumi Žygimantu ir paprašė tėvą pritarti jo santuokai.'
+  santrauka: 'Augustas Lenkijoje susitiko su tėvu Žygimantu ir paprašė pritarti santuokai su Barbora Radvilaite.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Augustas, baimindamasis,
@@ -62,4 +62,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Žygimantas]]

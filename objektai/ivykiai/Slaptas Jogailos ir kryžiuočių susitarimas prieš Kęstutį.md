@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis. Sąmokslininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.
+Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis. Jogailos šalininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185773"></a>
 - t-002
   global_id: t-185773
-  teiginys: 'Sąmokslininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
+  teiginys: 'Jogailos šalininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Sąmokslininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
+  santrauka: 'Jogailos šalininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto nutariama tol nestoti į atvirą kovą, kol

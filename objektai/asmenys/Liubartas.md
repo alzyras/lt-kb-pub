@@ -37,7 +37,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 <a id="claim-t-05197"></a>
 - t-002
   global_id: t-05197
-  teiginys: 'Remdamasis paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. su Lenkija kovojo dėl kitos palikimo dalies.'
+  teiginys: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
   pagrindžia:
     - c-002
 
@@ -150,6 +150,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-001
 
 - c-002
+  santrauka: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai Boleslovas-Jurgis 1340 m. buvo bajorų nunuodytas,
@@ -455,3 +456,4 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/ivykiai/Kazimiero įvykdytas rusų valdų perėmimas iš lietuvių (1366 m.)]]
 - [[objektai/asmenys/Pisimantas]]
+- [[objektai/grupes/Žemaičiai]]

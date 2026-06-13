@@ -31,7 +31,7 @@ amziai:
 <a id="claim-t-47949"></a>
 - t-001
   global_id: t-47949
-  teiginys: 'Tai rodo jo laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą, bet ir pastangas « mūsų kraštą pavergti »^15.'
+  teiginys: 'Vytauto laiškuose imperatoriui Zigmantui ir ordino magistrui draudimas vainikuotis reiškė jo laisvės varžymą ir pastangas pavergti kraštą.'
   pagrindžia:
     - c-001
 

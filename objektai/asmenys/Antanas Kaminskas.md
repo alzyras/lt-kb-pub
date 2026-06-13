@@ -28,7 +28,7 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
 <a id="claim-t-183727"></a>
 - t-002
   global_id: t-183727
-  teiginys: 'Jiems vadovavo kapitonas Antanas Kaminskas.'
+  teiginys: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
     - t-001
 
 - c-002
-  santrauka: 'Jiems vadovavo kapitonas Antanas Kaminskas.'
+  santrauka: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     per Muchaveco upę. Tarp miesto ir prie-

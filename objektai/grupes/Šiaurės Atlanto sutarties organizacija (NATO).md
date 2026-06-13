@@ -38,7 +38,7 @@ amziai:
 <a id="claim-t-75051"></a>
 - t-002
   global_id: t-75051
-  teiginys: 'Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
+  teiginys: 'Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju.'
   pagrindžia:
     - c-006
 
@@ -52,7 +52,7 @@ amziai:
 <a id="claim-t-75053"></a>
 - t-004
   global_id: t-75053
-  teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
+  teiginys: '2004 m. Lietuva buvo priimta į karinę Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.'
   pagrindžia:
     - c-001
 
@@ -87,6 +87,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2004 m. Lietuva buvo priimta į karinę Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Glaudus trijų Baltijos valstybių bendradarbia-

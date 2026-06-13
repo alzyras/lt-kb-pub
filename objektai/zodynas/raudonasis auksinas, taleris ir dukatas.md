@@ -26,13 +26,14 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 <a id="claim-t-86493"></a>
 - t-002
   global_id: t-86493
-  teiginys: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
+  teiginys: 'Lenkijoje už talerį mokėta po 30 grašių, o Lietuvoje Jo Karališkosios Didenybės paliepimu - po 25 lietuviškus grašius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijoje už talerį mokėta po 30 grašių, o Lietuvoje Jo Karališkosios Didenybės paliepimu - po 25 lietuviškus grašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus universiteto bibliotekoje)

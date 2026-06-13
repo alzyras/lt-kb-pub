@@ -35,13 +35,14 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 <a id="claim-t-69879"></a>
 - t-002
   global_id: t-69879
-  teiginys: 'Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
+  teiginys: 'Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nuo gegužės 17 d. pra-

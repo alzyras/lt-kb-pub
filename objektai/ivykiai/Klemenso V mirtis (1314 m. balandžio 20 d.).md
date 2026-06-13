@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-62321"></a>
 - t-001
   global_id: t-62321
-  teiginys: 'Dusburgietis teigia, kad apie popiežiaus mirtį Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo tos dienos, kai ėmė rodytis kometa (Ptol.'
+  teiginys: 'Popiežius Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežius Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     116. Apie popiežiaus mirtį

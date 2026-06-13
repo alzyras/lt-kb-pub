@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-86979"></a>
 - t-001
   global_id: t-86979
-  teiginys: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
+  teiginys: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Unia v-a

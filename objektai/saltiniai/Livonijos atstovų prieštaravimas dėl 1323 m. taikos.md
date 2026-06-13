@@ -29,20 +29,21 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
 <a id="claim-t-60990"></a>
 - t-001
   global_id: t-60990
-  teiginys: 'Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen, Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg.'
+  teiginys: 'J. Otrembskis nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze apie Lietuvos karaliaus pusę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60991"></a>
 - t-002
   global_id: t-60991
-  teiginys: 'Dusburgietis teigia, kad livonijos atstovų prieštaravimo originale rašoma: van des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe und alle de Russen (LUB, 2, Nr. 694, p. 155).'
+  teiginys: 'Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van
@@ -72,6 +73,7 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
     - t-002
 
 - c-002
+  santrauka: 'J. Otrembskis nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze apie Lietuvos karaliaus pusę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skirti aukštaičius nuo lietuvių paskatino

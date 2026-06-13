@@ -30,7 +30,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 <a id="claim-t-71336"></a>
 - t-001
   global_id: t-71336
-  teiginys: 'Muravjovo Koriko laikais XIX a.'
+  teiginys: 'XIX a. Michailo Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais.'
   pagrindžia:
     - c-001
     - c-003
@@ -38,7 +38,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 <a id="claim-t-71337"></a>
 - t-002
   global_id: t-71337
-  teiginys: 'Muravjovui nurodoma, kad 128 sukilėliai nuteisti mirties bausme.'
+  teiginys: 'Vilniaus karinės apygardos kariuomenės štabo ataskaitoje Michailui Muravjovui nurodyta, kad 128 sukilėliai nuteisti mirties bausme.'
   pagrindžia:
     - c-002
 
@@ -80,6 +80,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-003
 
 - c-002
+  santrauka: 'Vilniaus karinės apygardos kariuomenės štabo ataskaitoje Michailui Muravjovui nurodyta, kad 128 sukilėliai nuteisti mirties bausme.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Teroro sąlygomis su-
@@ -97,6 +98,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - t-002
 
 - c-003
+  santrauka: 'XIX a. Michailo Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį

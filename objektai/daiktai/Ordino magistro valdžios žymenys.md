@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-59696"></a>
 - t-001
   global_id: t-59696
-  teiginys: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
+  teiginys: 'Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.'
   pagrindžia:
     - c-001
 
@@ -77,6 +77,7 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

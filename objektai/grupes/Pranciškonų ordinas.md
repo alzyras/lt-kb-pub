@@ -39,14 +39,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108280"></a>
 - t-002
   global_id: t-108280
-  teiginys: 'Pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
+  teiginys: '1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-108281"></a>
 - t-003
   global_id: t-108281
-  teiginys: 'Maždaug 1522 metais pranciškonai vietoje sudegusios medinės taip pat išmūrijo iki šios dienos tebestovinčią Šv.'
+  teiginys: 'Maždaug 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią.'
   pagrindžia:
     - c-021
 
@@ -60,7 +60,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108283"></a>
 - t-005
   global_id: t-108283
-  teiginys: 'Dusburgietis teigia, kad mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.'
+  teiginys: 'Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III.'
   pagrindžia:
     - c-017
 
@@ -74,7 +74,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108285"></a>
 - t-007
   global_id: t-108285
-  teiginys: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  teiginys: 'Dviejų pranciškonų nužudymo Vilniuje Gedimino valdymo pabaigoje istorija davė pradžią ilgaamžei Vilniaus legendai.'
   pagrindžia:
     - c-003
 
@@ -109,16 +109,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108290"></a>
 - t-012
   global_id: t-108290
-  teiginys: 'Kryžiuočiai retam laimėjimui atminti pastatė du pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje.'
+  teiginys: 'Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-108291"></a>
-- t-013
-  global_id: t-108291
-  teiginys: 'Jo paties dvare sukinėjosi ir turėjo įtakos pranciškonai, kurie tvarkė kanceliariją.'
-  pagrindžia:
-    - c-009
 
 <a id="claim-t-108292"></a>
 - t-014
@@ -137,7 +130,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108294"></a>
 - t-016
   global_id: t-108294
-  teiginys: 'Nuo Gedimino laiku jau buvo paaugęs ir katalikų skaičius, kurį didino iš Lenkijos ir ordino žemiu vis naujai atvedami belaisvių būriai.'
+  teiginys: 'Gedimino laikais katalikų skaičių didino iš Lenkijos ir ordino žemių atvedami belaisvių būriai.'
   pagrindžia:
     - c-002
 
@@ -172,7 +165,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108299"></a>
 - t-021
   global_id: t-108299
-  teiginys: 'O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo vienuolyną.'
+  teiginys: 'Pranciškonai ir toliau veikė sostinėje, kur turėjo savo vienuolyną.'
   pagrindžia:
     - c-002
 
@@ -207,7 +200,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108304"></a>
 - t-026
   global_id: t-108304
-  teiginys: 'Vytenis prašė atsiųsti minoritų į jau pastatytą bažnyčią, bet Ordinas pasiuntė ginkluotą būrį jos sudeginti.'
+  teiginys: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į jau pastatytą bažnyčią.'
   pagrindžia:
     - c-012
 
@@ -260,17 +253,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - c-032
 
-<a id="claim-t-108313"></a>
-- t-034
-  global_id: t-108313
-  teiginys: '1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-108315"></a>
 - t-035
   global_id: t-108315
-  teiginys: 'Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.'
+  teiginys: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.'
   pagrindžia:
     - c-016
 
@@ -326,7 +312,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108323"></a>
 - t-043
   global_id: t-108323
-  teiginys: 'Trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
+  teiginys: '1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
   pagrindžia:
     - c-004
 
@@ -340,7 +326,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108325"></a>
 - t-045
   global_id: t-108325
-  teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart.'
+  teiginys: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
   pagrindžia:
     - c-028
 
@@ -418,6 +404,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-021
 
 - c-003
+  santrauka: 'Dviejų pranciškonų nužudymo Vilniuje Gedimino valdymo pabaigoje istorija davė pradžią ilgaamžei Vilniaus legendai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
@@ -433,6 +420,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-007
 
 - c-004
+  santrauka: '1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O vieno jų
@@ -465,6 +453,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-014
 
 - c-006
+  santrauka: 'Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
@@ -508,6 +497,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-034
 
 - c-009
+  santrauka: 'Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O pats Lietuvos valdovas nebuvo joks
@@ -680,6 +670,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-001
 
 - c-016
+  santrauka: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
@@ -694,6 +685,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-035
 
 - c-017
+  santrauka: 'Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
@@ -929,6 +921,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-044
 
 - c-028
+  santrauka: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
@@ -1244,9 +1237,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/zodynas/popiežiaus legatas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Jokūbas I]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
+- [[objektai/asmenys/Jonas Pliekta]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/kustodas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Antoni Melissanius de Macro]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
@@ -1257,11 +1251,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]
 - [[objektai/zodynas/oratorija]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
 - [[objektai/asmenys/Gotfridas fon Ustas]]
 - [[objektai/grupes/Jastžembcų giminė]]
-- [[objektai/asmenys/Jonas Pliekta]]
 - [[objektai/asmenys/Jonas Rygietis]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/grupes/Lenkų didžponiai]]

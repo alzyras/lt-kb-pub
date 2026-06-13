@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-42071"></a>
 - t-001
   global_id: t-42071
-  teiginys: '7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.'
+  teiginys: '7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     7-asis pulkas turėjo pulti Širvintas ir

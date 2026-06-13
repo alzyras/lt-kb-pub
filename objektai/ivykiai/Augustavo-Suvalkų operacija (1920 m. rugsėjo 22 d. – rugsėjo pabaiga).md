@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-66461"></a>
 - t-004
   global_id: t-66461
-  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.'
+  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir tęsė puolimą Varėnos kryptimi.'
   pagrindžia:
     - c-001
 
@@ -76,6 +76,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir tęsė puolimą Varėnos kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 23 d. lenkų divizijos perėjo tiltą

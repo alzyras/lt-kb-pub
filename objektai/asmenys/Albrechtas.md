@@ -58,3 +58,5 @@ tags:
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/zodynas/papilys]]
 - [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
+- [[objektai/ivykiai/Adolfo žūtis ir Albrechto sosto paveldėjimas (1298 m.)]]
+- [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]]

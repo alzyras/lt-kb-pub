@@ -119,7 +119,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 <a id="claim-t-176969"></a>
 - t-014
   global_id: t-176969
-  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  teiginys: 'Vytauto laikais Brasta minima kaip galima pilies statybos vieta Palenkėje, rusėniškose LDK žemėse.'
   pagrindžia:
     - c-016
 
@@ -189,7 +189,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 <a id="claim-t-176979"></a>
 - t-024
   global_id: t-176979
-  teiginys: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už užstatą sidabrui.'
+  teiginys: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.'
   pagrindžia:
     - c-009
 
@@ -220,13 +220,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginys: 'Rugsėjo 11 dieną Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir savo centru paskelbė Gardiną.'
   pagrindžia:
     - c-010
-
-<a id="claim-t-176984"></a>
-- t-029
-  global_id: t-176984
-  teiginys: 'Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos seimo kartu su karaliene Elžbieta ir didele dvariškių svita, tais pačiais metais ir su geriausiomis pranašystėmis perėmė valdžios vadžias.'
-  pagrindžia:
-    - c-013
 
 <a id="claim-t-176985"></a>
 - t-030
@@ -396,6 +389,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
     - t-027
 
 - c-009
+  santrauka: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man buvo ati­

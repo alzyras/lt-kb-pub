@@ -45,7 +45,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 <a id="claim-t-108753"></a>
 - t-003
   global_id: t-108753
-  teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
+  teiginys: '1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 <a id="claim-t-108755"></a>
 - t-005
   global_id: t-108755
-  teiginys: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
+  teiginys: 'J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-006
 
@@ -73,13 +73,14 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 <a id="claim-t-183534"></a>
 - t-007
   global_id: t-183534
-  teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
+  teiginys: 'E. Galvanauskas siekė J. Pilsudskio pavyzdžiu pastatyti dėl Klaipėdos visus į fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
@@ -170,6 +171,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     - t-006
 
 - c-006
+  santrauka: 'J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Delegacija
@@ -192,7 +194,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     - t-005
 
 - c-007
-  santrauka: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
+  santrauka: 'E. Galvanauskas siekė J. Pilsudskio pavyzdžiu pastatyti dėl Klaipėdos visus į fait accompli padėtį ir tada derėtis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-

@@ -257,7 +257,6 @@ amziai:
 - [[objektai/asmenys/Vaclovas (čekų kunigaikštis)]]
 - [[objektai/asmenys/Vaclovas Pragiečius]]
 - [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
 - [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -285,3 +284,4 @@ amziai:
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/asmenys/Hinka iš Valdšteino]]
 - [[objektai/asmenys/Lada]]
+- [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos (arkivyskupas, XIII a.)]]

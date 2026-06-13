@@ -19,13 +19,14 @@ Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai prie�
 <a id="claim-t-80600"></a>
 - t-001
   global_id: t-80600
-  teiginys: 'Jis pranešė liūdną naujieną: Puvočių kaime, poilsio metu netikėtai priešo užkluptas, žuvo Marcinkonių bataliono vadas Šernas (Itn.'
+  teiginys: 'Puvočių kaime priešo netikėtai užkluptas žuvo Marcinkonių bataliono vadas Šernas, dar vadintas leitenantu Kondrotu, ir du jo kovos draugai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Puvočių kaime priešo netikėtai užkluptas žuvo Marcinkonių bataliono vadas Šernas, dar vadintas leitenantu Kondrotu, ir du jo kovos draugai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netikėtai atvyko mano adjutantas Gegutis. Jis pranešė liūdną naujieną: Puvočių

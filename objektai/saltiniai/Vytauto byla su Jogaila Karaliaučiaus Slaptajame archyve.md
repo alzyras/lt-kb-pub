@@ -22,7 +22,7 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
 <a id="claim-t-88355"></a>
 - t-001
   global_id: t-88355
-  teiginys: 'Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč.'
+  teiginys: 'Vytauto byloje su Jogaila aiškinta, kad Jogaila slapta sudarė taiką su Prūsija ir Livonija.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto byloje su Jogaila aiškinta, kad Jogaila slapta sudarė taiką su Prūsija ir Livonija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Net ir pats Vytautas

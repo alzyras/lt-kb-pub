@@ -66,7 +66,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 <a id="claim-t-51880"></a>
 - t-006
   global_id: t-51880
-  teiginys: 'Salyno saloje Nemune įvyko iškilmingas sutarties ratifikavimas.'
+  teiginys: 'Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.'
   pagrindžia:
     - c-001
 
@@ -80,6 +80,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iškilmingas tos sutarties ratifikavimas (patvir­

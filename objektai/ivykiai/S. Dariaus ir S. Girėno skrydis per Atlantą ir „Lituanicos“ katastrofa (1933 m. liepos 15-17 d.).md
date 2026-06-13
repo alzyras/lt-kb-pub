@@ -39,38 +39,24 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-66865"></a>
+<a id="claim-t-66866"></a>
 - t-001
-  global_id: t-66865
-  teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
+  global_id: t-66866
+  teiginys: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-66866"></a>
+<a id="claim-t-183273"></a>
 - t-002
-  global_id: t-66866
-  teiginys: 'Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.'
+  global_id: t-183273
+  teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šventės
-    pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
-    vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
-    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
-    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     11 minučių ir įveikę 6 411 km, antrą tuo
@@ -83,10 +69,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
-  santrauka: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
+- c-002
+  santrauka: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
@@ -101,10 +87,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
-  santrauka: 'Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.'
+- c-003
+  santrauka: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaune laukiančią ore pasirodant lėktu-
@@ -117,7 +103,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -126,8 +112,8 @@ Nenurodyta
 - [[objektai/asmenys/V. Landsbergis-Žemkalnis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- [[objektai/asmenys/Stasys Girėnas]]
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/daiktai/Dariaus ir Girėno mauzoliejus Kaune]]
-- [[objektai/asmenys/Stasys Girėnas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]
 - [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

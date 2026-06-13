@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-91910"></a>
 - t-001
   global_id: t-91910
-  teiginys: 'Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės 511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis.'
+  teiginys: 'Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Fridricho Holės ir 30 vyrų žūtį
@@ -80,4 +81,5 @@ Nenurodyta
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas, vadinamas Hole]]

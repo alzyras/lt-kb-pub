@@ -38,13 +38,14 @@ Nenurodyta
 <a id="claim-t-62922"></a>
 - t-001
   global_id: t-62922
-  teiginys: 'Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu.'
+  teiginys: 'Skomantas mirties patale broliui Konradui pasakojo, kad prieš atsivertimą buvo pagerbęs pagrobtą Marijos ir jos sūnaus paveikslą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skomantas mirties patale broliui Konradui pasakojo, kad prieš atsivertimą buvo pagerbęs pagrobtą Marijos ir jos sūnaus paveikslą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai koks  iš aukščiausiojo malonės nuostabus atsivertimas  ir pasikeitimas,  štai
@@ -69,4 +70,5 @@ Nenurodyta
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Skomantas]]
 - [[objektai/asmenys/Konradas (Baigos kunigas)]]

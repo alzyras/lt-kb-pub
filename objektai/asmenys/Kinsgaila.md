@@ -50,4 +50,3 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/asmenys/Sungaila]]
-- [[objektai/asmenys/Čupurna]]

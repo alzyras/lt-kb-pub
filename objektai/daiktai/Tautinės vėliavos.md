@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-19602"></a>
 - t-001
   global_id: t-19602
-  teiginys: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos antisovietinių grupių nariai keldavo tautines vėliavas.'
+  teiginys: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos neformalių jaunimo grupių nariai keldavo tautines vėliavas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos neformalių jaunimo grupių nariai keldavo tautines vėliavas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-

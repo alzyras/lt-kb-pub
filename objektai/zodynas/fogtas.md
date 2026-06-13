@@ -40,21 +40,21 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 <a id="claim-t-58811"></a>
 - t-002
   global_id: t-58811
-  teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
+  teiginys: 'Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo sembus nuo paklydimo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58812"></a>
 - t-003
   global_id: t-58812
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+  teiginys: 'Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-58813"></a>
 - t-004
   global_id: t-58813
-  teiginys: 'Dusburgietis teigia, kad 459 Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p. 76).'
+  teiginys: 'Ditrichas iš Lidelau 1278-1292 m. buvo Sembos fogtas.'
   pagrindžia:
     - c-003
 
@@ -111,6 +111,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     - t-001
 
 - c-003
+  santrauka: 'Ditrichas iš Lidelau 1278-1292 m. buvo Sembos fogtas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     459  Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p.
@@ -122,6 +123,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     - t-004
 
 - c-004
+  santrauka: 'Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
@@ -208,4 +210,9 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
 - [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
 - [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
+- [[objektai/posakiai/Atėjo baisenybė, kurios bijojau]]
+- [[objektai/asmenys/Gerhardas, pravarde Rudė]]
+- [[objektai/asmenys/Hugonas (Sembos fogtas)]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/zodynas/atskalūnybė atskalūnai]]
+- [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]

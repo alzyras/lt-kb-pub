@@ -20,14 +20,14 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 <a id="claim-t-88077"></a>
 - t-001
   global_id: t-88077
-  teiginys: 'Olivos metraščiai rašo, kad Gediminą prie pilies aptvaro pataikė kario Marijano iš bombardos paleistas šūvis.'
+  teiginys: 'Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Olivos metraščiai rašo, kad Gediminą prie pilies aptvaro pataikė kario Marijano iš bombardos paleistas šūvis.'
+  santrauka: 'Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IX,

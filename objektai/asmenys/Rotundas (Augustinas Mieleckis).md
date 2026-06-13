@@ -28,13 +28,14 @@ periodo_grupes:
 <a id="claim-t-87476"></a>
 - t-001
   global_id: t-87476
-  teiginys: '„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną.'
+  teiginys: '1560 m. vasario 12 d. Vilniaus vaitas Rotundas (Augustinas Mieleckis) Mikalojui Radvilai įteikė savo Lietuvos istoriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1560 m. vasario 12 d. Vilniaus vaitas Rotundas (Augustinas Mieleckis) Mikalojui Radvilai įteikė savo Lietuvos istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
@@ -60,3 +61,7 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/vaitas]]

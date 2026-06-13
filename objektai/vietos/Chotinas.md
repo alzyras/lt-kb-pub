@@ -37,7 +37,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-102181"></a>
 - t-002
   global_id: t-102181
-  teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
+  teiginys: 'Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.'
   pagrindžia:
     - c-001
 
@@ -65,6 +65,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šis laimėjimas - puikus gy-
@@ -192,7 +193,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-006
 
 - c-006
-  santrauka: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
+  santrauka: 'Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Darnios pėstininkų muškietų salvės

@@ -4,7 +4,6 @@ pavadinimas: 'Sankt Peterburgas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1772 m.'
   - '1775 m.'
@@ -37,7 +36,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 <a id="claim-t-80109"></a>
 - t-002
   global_id: t-80109
-  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
   pagrindžia:
     - c-002
 
@@ -66,6 +65,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     - t-001
 
 - c-002
+  santrauka: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.

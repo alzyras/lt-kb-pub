@@ -25,14 +25,14 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
 <a id="claim-t-80103"></a>
 - t-001
   global_id: t-80103
-  teiginys: 'Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“.'
+  teiginys: 'Riazanės didysis kunigaikštis Olegas su sąjungininkais puolė Lietuvą ir jai padarė žalos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-80104"></a>
 - t-002
   global_id: t-80104
-  teiginys: 'Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas Smolenske.'
+  teiginys: 'Vytautas puolė Riazanės kunigaikštystę, gindamas savo pozicijas Smolenske.'
   pagrindžia:
     - c-001
 

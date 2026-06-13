@@ -22,13 +22,14 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
 <a id="claim-t-60237"></a>
 - t-001
   global_id: t-60237
-  teiginys: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
+  teiginys: 'Makabėjai nugalėjo Antiochą Epifaną ir apvalė šventas vietas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Makabėjai nugalėjo Antiochą Epifaną ir apvalė šventas vietas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —

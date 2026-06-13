@@ -21,13 +21,14 @@ Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pi
 <a id="claim-t-58707"></a>
 - t-001
   global_id: t-58707
-  teiginys: 'Dusburgietis teigia, kad paskui ši kariuomenė nužygiavo prie kitų dviejų pilių bei Naklo pilies1 ir vieną po kitos užgrobė šias tris pilis, paėmusi į nelaisvę arba išžudžiusi visus žmones, jas pavertė pelenais.'
+  teiginys: 'Kariuomenė užgrobė Naklo pilį ir dar dvi pilis, paėmė į nelaisvę arba išžudė jų žmones ir pilis sudegino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kariuomenė užgrobė Naklo pilį ir dar dvi pilis, paėmė į nelaisvę arba išžudė jų žmones ir pilis sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to kariuomenė patraukė toliau ir apgulė vieną

@@ -31,7 +31,7 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 <a id="claim-t-87501"></a>
 - t-001
   global_id: t-87501
-  teiginys: 'Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių.'
+  teiginys: 'Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     - t-002
 
 - c-002
+  santrauka: 'Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atskirus pulkus vedė: Silezijos
@@ -91,3 +92,4 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -49,7 +49,7 @@ amziai:
 <a id="claim-t-183432"></a>
 - t-004
   global_id: t-183432
-  teiginys: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
+  teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
   pagrindžia:
     - c-003
 
@@ -90,7 +90,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
+  santrauka: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaunas bandė remtis atvykėliais iš Didžio-

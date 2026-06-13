@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
+Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
 
 ## Teiginiai
 
 <a id="claim-t-185409"></a>
 - t-001
   global_id: t-185409
-  teiginys: 'Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
+  teiginys: 'Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
+  santrauka: 'Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šis, labiau
@@ -59,5 +59,4 @@ Aleksandras įsakė Vilniaus vyskupui Vaitiekui Taborui ir Smolensko Juozapui So
 - [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Taurės]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/asmenys/Aleksandras]]
 - [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui]]

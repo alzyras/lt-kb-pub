@@ -69,13 +69,14 @@ amziai:
 <a id="claim-t-77819"></a>
 - t-006
   global_id: t-77819
-  teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
+  teiginys: '2004 m. Lietuva buvo priimta į karinę Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2004 m. Lietuva buvo priimta į karinę Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Glaudus trijų Baltijos valstybių bendradarbia-

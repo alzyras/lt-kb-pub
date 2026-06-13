@@ -20,13 +20,14 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
 <a id="claim-t-35743"></a>
 - t-001
   global_id: t-35743
-  teiginys: 'Susitikimas su mažalenkiais galėjo Vytautą įtikinti, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
+  teiginys: 'Vytauto susitikimas su mažalenkiais, autoriaus vertinimu, galėjo įtikinti Vytautą, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto susitikimas su mažalenkiais, autoriaus vertinimu, galėjo įtikinti Vytautą, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šitas jo skubus sugrįži­

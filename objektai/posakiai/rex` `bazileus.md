@@ -22,13 +22,14 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 <a id="claim-t-77841"></a>
 - t-001
   global_id: t-77841
-  teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  teiginys: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo „rex“, o Algirdas laiškuose Bizantijos imperijai – „bazileus“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo „rex“, o Algirdas laiškuose Bizantijos imperijai – „bazileus“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIETUVOS KRIKŠTAS

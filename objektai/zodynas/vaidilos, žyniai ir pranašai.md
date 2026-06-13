@@ -28,7 +28,7 @@ amziai:
 <a id="claim-t-86494"></a>
 - t-001
   global_id: t-86494
-  teiginys: 'Čia pat medinė šventykla, prie kurios šliejosi pagonių vaidilų būstai.'
+  teiginys: 'Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.'
   pagrindžia:
     - c-002
 
@@ -82,6 +82,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikš­

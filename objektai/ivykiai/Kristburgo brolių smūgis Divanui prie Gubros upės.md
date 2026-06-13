@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-91915"></a>
 - t-001
   global_id: t-91915
-  teiginys: 'Dusburgietis teigia, kad vis dėlto Kristburgo ir Elbingo broliai, pasitikėdami tuo, kurio galybės remiamas vienas karys išgali persekioti tūkstantį, o du išvaiko dešimt tūkstančių, priartėjo su centras tapatintas su vėlesniu Marienburgu (Voigt J., Geschichte Marienburgs.., p. 7—8; to.'
+  teiginys: 'Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto Kristburgo ir Elbingo broliai, pasitikėdami tuo, kurio galybės remiamas
@@ -90,3 +91,4 @@ Nenurodyta
 - [[objektai/asmenys/Divanas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Dabaras]]

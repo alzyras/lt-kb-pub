@@ -35,7 +35,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 <a id="claim-t-72027"></a>
 - t-003
   global_id: t-72027
-  teiginys: 'Atskirus Lietuvos seimus tarpuvaldžiais dažnai šaukdavo patys Lietuvos ponai.'
+  teiginys: 'Tarpuvaldžiais atskirus Lietuvos seimus dar dažniau šaukdavo patys Lietuvos ponai.'
   pagrindžia:
     - c-003
 
@@ -80,6 +80,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
     - t-002
 
 - c-003
+  santrauka: 'Tarpuvaldžiais atskirus Lietuvos seimus dar dažniau šaukdavo patys Lietuvos ponai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant

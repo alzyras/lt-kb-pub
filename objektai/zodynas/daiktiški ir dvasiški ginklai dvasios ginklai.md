@@ -21,13 +21,14 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 <a id="claim-t-58935"></a>
 - t-001
   global_id: t-58935
-  teiginys: 'Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta vartoti naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios priešus.'
+  teiginys: 'Dvasios ginklai siejami su naujomis kovos priemonėmis prieš tikybos ir bažnyčios priešus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dvasios ginklai siejami su naujomis kovos priemonėmis prieš tikybos ir bažnyčios priešus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,

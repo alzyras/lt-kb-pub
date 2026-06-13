@@ -44,7 +44,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 <a id="claim-t-108340"></a>
 - t-003
   global_id: t-108340
-  teiginys: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru įstojo į SSRS ir kad SSRS dėl savo ano meto.'
+  teiginys: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.'
   pagrindžia:
     - c-004
 
@@ -54,6 +54,13 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   teiginys: 'Rusija Lietuvai išliko svarbi ekonominė partnerė, tačiau artimesni Lietuvos ir Rusijos santykiai nesusiklostė.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183178"></a>
+- t-005
+  global_id: t-183178
+  teiginys: '1991 m. liepos 29 d. V. Landsbergis ir B. Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +114,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
     - t-001
 
 - c-004
+  santrauka: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa,
@@ -121,7 +129,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
     - t-003
 
 - c-005
-  santrauka: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  santrauka: '1991 m. liepos 29 d. V. Landsbergis ir B. Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Draugiški valstybių vadovų santykiai leido
@@ -146,5 +154,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 - [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/posakiai/geopolitine katastrofa]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
 - [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]

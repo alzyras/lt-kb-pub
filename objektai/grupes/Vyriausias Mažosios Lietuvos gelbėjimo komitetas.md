@@ -20,7 +20,7 @@ tags:
 <a id="claim-t-66320"></a>
 - t-001
   global_id: t-66320
-  teiginys: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  teiginys: '1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą, o vasario 17 d. Ambasadorių konferencija Klaipėdos teises perleido Lietuvai.'
   pagrindžia:
     - c-003
 
@@ -66,6 +66,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: '1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą, o vasario 17 d. Ambasadorių konferencija Klaipėdos teises perleido Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino

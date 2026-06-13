@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-185510"></a>
 - t-004
   global_id: t-185510
-  teiginys: 'Tą pačią naktį Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
+  teiginys: 'Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   pagrindžia:
     - c-004
 
@@ -135,7 +135,7 @@ Nenurodyta
     - t-003
 
 - c-004
-  santrauka: 'Tą pačią naktį Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
+  santrauka: 'Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat nei geros savijautos,

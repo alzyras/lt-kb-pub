@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-62787"></a>
 - t-001
   global_id: t-62787
-  teiginys: 'Dusburgietis teigia, kad ), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,— Bajerburgą36.'
+  teiginys: '1337 m. Gedimino kariuomenė siekė likviduoti Bajerburgą, Ordino agresijos židinį prie Nemuno šalia Veliuonos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1337 m. Gedimino kariuomenė siekė likviduoti Bajerburgą, Ordino agresijos židinį prie Nemuno šalia Veliuonos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau sudėtinga tarptautinė

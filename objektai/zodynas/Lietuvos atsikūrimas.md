@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-183716"></a>
 - t-002
   global_id: t-183716
-  teiginys: '1918 m. Lietuvos valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos pagalba.'
+  teiginys: '1918 m. Lietuvos valstybė atsikūrė modernios lietuvių tautos padedama.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: '1918 m. Lietuvos valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos pagalba.'
+  santrauka: '1918 m. Lietuvos valstybė atsikūrė modernios lietuvių tautos padedama.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Laisvę lengviau prarasti, nei ją atgauti. 1918 m. Lietuvos

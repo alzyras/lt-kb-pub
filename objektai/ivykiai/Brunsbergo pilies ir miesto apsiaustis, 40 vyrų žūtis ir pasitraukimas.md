@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-59289"></a>
 - t-002
   global_id: t-59289
-  teiginys: 'Dusburgietis teigia, kad kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų, kurie visi buvo priešo nukauti.'
+  teiginys: 'Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Per Brunsbergo pilies ir miesto apsiaustį priešai nukovė 40 vyrų, išėjusių pasišienauti ir pamalkauti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,

@@ -19,13 +19,14 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
 <a id="claim-t-77847"></a>
 - t-001
   global_id: t-77847
-  teiginys: 'Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „kas buvo pavogta, turi būti grąžinta“.'
+  teiginys: 'V. Landsbergis Kovo 11 Akto atšaukimo reikalavimą atmetė remdamasis principu, kad „kas buvo pavogta, turi būti grąžinta“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Landsbergis Kovo 11 Akto atšaukimo reikalavimą atmetė remdamasis principu, kad „kas buvo pavogta, turi būti grąžinta“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Euro-

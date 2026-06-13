@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-62377"></a>
 - t-001
   global_id: t-62377
-  teiginys: 'Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol.'
+  teiginys: '1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.'
   pagrindžia:
     - c-001
 

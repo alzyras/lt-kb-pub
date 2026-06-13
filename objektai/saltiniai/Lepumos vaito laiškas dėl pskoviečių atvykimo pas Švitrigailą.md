@@ -20,13 +20,14 @@ Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
 <a id="claim-t-88443"></a>
 - t-001
   global_id: t-88443
-  teiginys: 'Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.'
+  teiginys: 'Lepumos vaito laiške, datuotame Šv. Lauryno dieną, pranešta, kad pskoviečiai atvyko pas didįjį kunigaikštį prašyti valdytojo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lepumos vaito laiške, datuotame Šv. Lauryno dieną, pranešta, kad pskoviečiai atvyko pas didįjį kunigaikštį prašyti valdytojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Slaptajame archyve yra Lepu-

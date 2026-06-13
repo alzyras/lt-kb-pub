@@ -31,14 +31,14 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 <a id="claim-t-121122"></a>
 - t-001
   global_id: t-121122
-  teiginys: 'Iš Gedimino giminės ten buvo paskutinis kunigaikštis Jogailos pusbrolis Patrikas, prie Strėvos (1348) žuvusio Narimanto sūnus.'
+  teiginys: 'Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-121123"></a>
 - t-002
   global_id: t-121123
-  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  teiginys: '1365 m. Patrikas su Kęstučiu, Algirdu ir Aleksandru įsiveržė į Ordino valdas ir jas nuniokojo.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žymioji pirklių respublika, ir toliau prekybiškai apskaičiuodama ir
@@ -67,6 +68,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - t-001
 
 - c-002
+  santrauka: '1365 m. Patrikas su Kęstučiu, Algirdu ir Aleksandru įsiveržė į Ordino valdas ir jas nuniokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1365 m. Kęstutis,

@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-62902"></a>
 - t-001
   global_id: t-62902
-  teiginys: 'Dusburgietis teigia, kad kai apie tai sužinojo prūsai, jie, smarkiai suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.'
+  teiginys: 'Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kunigaikštis

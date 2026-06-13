@@ -31,7 +31,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 <a id="claim-t-74186"></a>
 - t-001
   global_id: t-74186
-  teiginys: 'Jos įstatus 1791 m. patvirtino Ketverių metų seimas, parodydamas savo prielankumą tokiam „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvenseną.'
+  teiginys: 'Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.'
   pagrindžia:
     - c-001
 
@@ -59,6 +59,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
@@ -145,5 +146,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
 - [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]

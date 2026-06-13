@@ -24,13 +24,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   pagrindžia:
     - c-001
 
-<a id="claim-t-183767"></a>
-- t-002
-  global_id: t-183767
-  teiginys: 'Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +45,7 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     - t-001
 
 - c-002
-  santrauka: 'Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio.'
+  santrauka: 'Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvo sudegintas užmiestis

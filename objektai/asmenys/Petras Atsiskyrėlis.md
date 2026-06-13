@@ -36,20 +36,21 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 <a id="claim-t-90007"></a>
 - t-003
   global_id: t-90007
-  teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę ir, nuo ilgo budėjimo pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus dėl šventosios žemės išvadavimo.'
+  teiginys: 'Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-90008"></a>
 - t-004
   global_id: t-90008
-  teiginys: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas.'
+  teiginys: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
@@ -114,7 +115,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     - t-002
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas.'
+  santrauka: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie šventosios žemės reikalus

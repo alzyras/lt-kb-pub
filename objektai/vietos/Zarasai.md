@@ -28,13 +28,14 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 <a id="claim-t-47471"></a>
 - t-001
   global_id: t-47471
-  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  teiginys: 'Voldemaras buvo ištremtas iš Zarasų į Paryžių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Voldemaras buvo ištremtas iš Zarasų į Paryžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš

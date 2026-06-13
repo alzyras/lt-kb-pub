@@ -23,31 +23,17 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 
 ## Teiginiai
 
-<a id="claim-t-49256"></a>
-- t-001
-  global_id: t-49256
-  teiginys: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-49257"></a>
-- t-002
+- t-001
   global_id: t-49257
   teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-49258"></a>
-- t-003
-  global_id: t-49258
-  teiginys: 'Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-49259"></a>
-- t-004
+- t-002
   global_id: t-49259
-  teiginys: 'Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuomenė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:.'
+  teiginys: 'Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke.'
   pagrindžia:
     - c-002
 
@@ -65,9 +51,10 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
+  santrauka: 'Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
@@ -76,22 +63,4 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Z. Sierakausko nurodymu jie
-
-    : SUKILĖLIŲ PULKAI
-
-    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
-    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
-
-    „Štai vieną dieną bažnyčioje visais varpais skambina.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-003
+    - t-002

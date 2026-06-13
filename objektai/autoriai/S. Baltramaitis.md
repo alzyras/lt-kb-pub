@@ -19,13 +19,14 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
 <a id="claim-t-29592"></a>
 - t-001
   global_id: t-29592
-  teiginys: 'Silvestro Baltramaičio Lietuvos istorijos bibliografijos veikalas buvo rūpestingai sudarytas, bet gerokai pasenęs.'
+  teiginys: 'Zenonas Ivinskis Silvestro Baltramaičio Lietuvos istorijos bibliografijos veikalą laikė rūpestingai sudarytu, bet gerokai pasenusiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zenonas Ivinskis Silvestro Baltramaičio Lietuvos istorijos bibliografijos veikalą laikė rūpestingai sudarytu, bet gerokai pasenusiu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug

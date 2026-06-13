@@ -28,41 +28,35 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 <a id="claim-t-74191"></a>
 - t-001
   global_id: t-74191
-  teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
+  teiginys: 'Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-74192"></a>
 - t-002
   global_id: t-74192
-  teiginys: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
+  teiginys: 'Tautininkai, susitarę su krikščionių demokratų bloku, gruodžio 19 d. sušaukė III Seimo nepaprastąjį posėdį.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-74193"></a>
-- t-003
-  global_id: t-74193
-  teiginys: 'Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-74194"></a>
 - t-004
   global_id: t-74194
-  teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  teiginys: 'Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-74195"></a>
 - t-005
   global_id: t-74195
-  teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
+  teiginys: 'Krikščionių demokratų blokas pralaimėjo 1926 m. gegužės 8–9 d. rinkimus į 85 vietų III Seimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krikščionių demokratų blokas pralaimėjo 1926 m. gegužės 8–9 d. rinkimus į 85 vietų III Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
@@ -81,6 +75,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - t-005
 
 - c-002
+  santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, gruodžio 19 d. sušaukė III Seimo nepaprastąjį posėdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gąsdinamas pilietinio karo galimybe, kuria galėjo pasinaudoti Lenkija,
@@ -97,6 +92,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - t-002
 
 - c-003
+  santrauka: 'Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šia kons-
@@ -137,7 +133,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - t-001
 
 - c-005
-  santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
+  santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, gruodžio 19 d. sušaukė III Seimo nepaprastąjį posėdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,

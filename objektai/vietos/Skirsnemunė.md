@@ -32,7 +32,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 <a id="claim-t-80132"></a>
 - t-001
   global_id: t-80132
-  teiginys: 'Šis vedė derybas ir pasirašė sutartį su Ordinu (kryžiuočių ir Livonijos šakomis), „Romos karaliaus garbei“ 1431 m. birželio 19 d., Skirsnemunėje.'
+  teiginys: '1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 <a id="claim-t-80135"></a>
 - t-003
   global_id: t-80135
-  teiginys: 'Dėl vandens seklumo jie nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė nesijudinti.'
+  teiginys: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
   pagrindžia:
     - c-001
 
@@ -74,13 +74,14 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 <a id="claim-t-80139"></a>
 - t-007
   global_id: t-80139
-  teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Su kryžiuočiais drauge buvo ir Vytautas. Dėl vandens seklumo jie
@@ -97,6 +98,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - t-003
 
 - c-002
+  santrauka: '1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kilo
@@ -182,7 +184,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
     - t-006
 
 - c-007
-  santrauka: 'Dėl vandens seklumo jie nuo Skirsnemunės nebegalėjo toliau plaukti, o Jogaila iš Dubysos žiočių salos, kur buvo atvykęs vėl su visa savo gimine, nutarė nesijudinti.'
+  santrauka: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ankstybesniu susitarimu Dubysos salon išsirengė vyriausias magis­

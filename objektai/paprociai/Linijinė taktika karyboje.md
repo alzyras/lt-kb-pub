@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-67164"></a>
 - t-002
   global_id: t-67164
-  teiginys: 'Linijinės taktikos kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo kulkų gausa šaudant salvėmis.'
+  teiginys: 'Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa.'
   pagrindžia:
     - c-004
 
@@ -114,7 +114,7 @@ Nenurodyta
     - t-004
 
 - c-004
-  santrauka: 'Linijinės taktikos kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo kulkų gausa šaudant salvėmis.'
+  santrauka: 'Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kariai šaudydavo nesitaikydami, tiesiog nu-

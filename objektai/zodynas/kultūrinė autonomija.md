@@ -38,7 +38,7 @@ amziai:
 <a id="claim-t-169914"></a>
 - t-002
   global_id: t-169914
-  teiginys: 'Žodžiu, kraštas įgijo kultūrinę autonomiją.'
+  teiginys: 'Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje, teismuose, švietimo sistemoje ir Vilniaus universitete.'
   pagrindžia:
     - c-003
 
@@ -48,6 +48,13 @@ amziai:
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183439"></a>
+- t-004
+  global_id: t-183439
+  teiginys: 'Kultūrinė autonomija krašte apėmė Lietuvos Statuto galiojimą ir lenkų kalbos vartojimą savivaldoje, administracijoje, teismuose bei švietime.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +92,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: 'Kultūrinė autonomija krašte apėmė lenkų kalbos vartojimą administracijoje, teismuose, švietimo sistemoje ir Vilniaus universitete.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     krities administracijoje, žemutinėje teismų grandyje, švietimo sistemoje, o
@@ -100,7 +108,7 @@ amziai:
     - t-002
 
 - c-004
-  santrauka: 'Žodžiu, kraštas įgijo kultūrinę autonomiją.'
+  santrauka: 'Kultūrinė autonomija krašte apėmė Lietuvos Statuto galiojimą ir lenkų kalbos vartojimą savivaldoje, administracijoje, teismuose bei švietime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liko ga-
@@ -155,4 +163,5 @@ amziai:
 - [[objektai/zodynas/autokratinė monarchinė imperija]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]
+- [[objektai/zodynas/statutas]]
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]

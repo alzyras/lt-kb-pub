@@ -26,14 +26,14 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 <a id="claim-t-39348"></a>
 - t-002
   global_id: t-39348
-  teiginys: 'Kapitoną Kruglovą nukovė Tigras pirmaisiais šūviais.'
+  teiginys: 'Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183730"></a>
 - t-003
   global_id: t-183730
-  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  teiginys: 'Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.'
   pagrindžia:
     - c-003
 
@@ -51,6 +51,7 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
     - t-001
 
 - c-002
+  santrauka: 'Kapitoną Arkadijų Kruglovą Tigras nukovė pirmaisiais šūviais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
@@ -63,7 +64,7 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
     - t-002
 
 - c-003
-  santrauka: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  santrauka: 'Prie durų stovėjęs Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio.

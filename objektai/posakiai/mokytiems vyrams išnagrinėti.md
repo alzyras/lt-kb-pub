@@ -19,13 +19,14 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
 <a id="claim-t-31561"></a>
 - t-001
   global_id: t-31561
-  teiginys: 'Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyrams išnagrinėti »^55.'
+  teiginys: 'Daukantas daug painių klausimų paliko, jo paties žodžiais, „mokytiems vyrams išnagrinėti“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Daukantas daug painių klausimų paliko, jo paties žodžiais, „mokytiems vyrams išnagrinėti“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Platus Daukanto susirašinėjimas su Teodoru Narbutu ir kitais

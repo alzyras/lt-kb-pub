@@ -25,14 +25,7 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
 <a id="claim-t-78164"></a>
 - t-001
   global_id: t-78164
-  teiginys: '256 AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m. Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-78165"></a>
-- t-002
-  global_id: t-78165
-  teiginys: 'Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.'
+  teiginys: 'Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.'
   pagrindžia:
     - c-001
 

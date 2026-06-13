@@ -34,19 +34,12 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   pagrindžia:
     - c-001
 
-<a id="claim-t-63397"></a>
-- t-002
-  global_id: t-63397
-  teiginys: 'NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183019"></a>
-- t-003
+- t-002
   global_id: t-183019
   teiginys: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -72,18 +65,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     - t-001
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
-
-    p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija. Donato Babensko nuotr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl vienas dideles savo jėgas jis paliko sau-
@@ -94,7 +75,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   teiginio_tipas: faktas
   statusas: verified
 
-- c-004
+- c-003
   santrauka: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -106,4 +87,4 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

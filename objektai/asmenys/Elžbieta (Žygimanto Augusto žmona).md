@@ -31,14 +31,14 @@ periodo_grupes:
 <a id="claim-t-173147"></a>
 - t-001
   global_id: t-173147
-  teiginys: 'Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos seimo kartu su karaliene Elžbieta ir didele dvariškių svita, tais pačiais metais ir su geriausiomis pranašystėmis perėmė valdžios vadžias.'
+  teiginys: '1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-173148"></a>
 - t-002
   global_id: t-173148
-  teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
+  teiginys: 'Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ periodo_grupes:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaunasis karalius nejau­
@@ -78,6 +79,7 @@ periodo_grupes:
     - t-002
 
 - c-002
+  santrauka: '1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
@@ -124,4 +126,5 @@ periodo_grupes:
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]

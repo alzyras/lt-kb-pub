@@ -36,7 +36,7 @@ amziai:
 <a id="claim-t-184405"></a>
 - t-002
   global_id: t-184405
-  teiginys: '1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė Tverės sritį.'
+  teiginys: '1285 m. pavasarį lietuviai plėšė Tverės sritį.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: '1284 jie vėl žygiavo Lenkijon; 1285 pavasarį plėšė Tverės sritį.'
+  santrauka: '1285 m. pavasarį lietuviai plėšė Tverės sritį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­

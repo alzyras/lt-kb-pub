@@ -25,13 +25,14 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
 <a id="claim-t-96070"></a>
 - t-001
   global_id: t-96070
-  teiginys: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
+  teiginys: 'P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.

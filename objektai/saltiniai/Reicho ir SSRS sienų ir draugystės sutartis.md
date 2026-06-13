@@ -27,7 +27,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 <a id="claim-t-75511"></a>
 - t-002
   global_id: t-75511
-  teiginys: 'Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).'
+  teiginys: '1939 m. rugsėjo 28 d. Reicho ir SSRS sienų ir draugystės sutarties slaptasis protokolas priskyrė Lietuvą SSRS įtakos sferai.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-001
 
 - c-002
+  santrauka: '1939 m. rugsėjo 28 d. Reicho ir SSRS sienų ir draugystės sutarties slaptasis protokolas priskyrė Lietuvą SSRS įtakos sferai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai

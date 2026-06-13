@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-95956"></a>
 - t-001
   global_id: t-95956
-  teiginys: '1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1.'
+  teiginys: '1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tų visų faktų akivaiz­
@@ -101,3 +102,4 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]

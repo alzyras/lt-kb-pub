@@ -125,5 +125,5 @@ periodo_grupes:
 - [[objektai/asmenys/Butigeidis]]
 - [[objektai/asmenys/Butvydas]]
 - [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]
-- [[objektai/grupes/Valimantaičiai]]
 - [[objektai/asmenys/Vytenis]]
+- [[objektai/asmenys/Treniota]]

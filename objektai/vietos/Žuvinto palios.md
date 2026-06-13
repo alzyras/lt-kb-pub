@@ -36,7 +36,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 <a id="claim-t-183821"></a>
 - t-003
   global_id: t-183821
-  teiginys: 'Dalis jų rado prieglobstį Žuvinto paliose.'
+  teiginys: 'Dalis iš apsupties pasitraukusių partizanų rado prieglobstį Žuvinto paliose.'
   pagrindžia:
     - c-003
 
@@ -101,7 +101,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     - t-001
 
 - c-003
-  santrauka: 'Dalis jų rado prieglobstį Žuvinto paliose.'
+  santrauka: 'Dalis iš apsupties pasitraukusių partizanų rado prieglobstį Žuvinto paliose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kiti parti-

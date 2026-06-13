@@ -21,13 +21,14 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
 <a id="claim-t-86816"></a>
 - t-001
   global_id: t-86816
-  teiginys: 'Piastų giminės karaliai bene energingiausiai prie to prisidėjo.'
+  teiginys: 'XIII a. Piastų giminės karaliai prisidėjo prie vokiečių miestų teisių ir turtų perkėlimo Lenkijos miestams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII a. Piastų giminės karaliai prisidėjo prie vokiečių miestų teisių ir turtų perkėlimo Lenkijos miestams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [O savo Martinas Callas apie Boleslovą,

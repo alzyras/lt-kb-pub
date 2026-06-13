@@ -32,7 +32,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 <a id="claim-t-183624"></a>
 - t-002
   global_id: t-183624
-  teiginys: 'Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų.'
+  teiginys: 'Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias po žiaurių kankinimų nužudyti 76 asmenys.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
     - t-001
 
 - c-002
-  santrauka: 'Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų.'
+  santrauka: 'Prie Rainių buvo surengtos masinės kalinių žudynės, per kurias po žiaurių kankinimų nužudyti 76 asmenys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kurių nespėjo, elemen-

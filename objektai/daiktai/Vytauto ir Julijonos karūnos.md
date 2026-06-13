@@ -66,13 +66,6 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-183303"></a>
-- t-004
-  global_id: t-183303
-  teiginys: 'Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001

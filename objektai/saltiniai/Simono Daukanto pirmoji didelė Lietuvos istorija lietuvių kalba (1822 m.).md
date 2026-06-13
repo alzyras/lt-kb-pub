@@ -27,7 +27,7 @@ Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmą
 <a id="claim-t-75512"></a>
 - t-001
   global_id: t-75512
-  teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
+  teiginys: 'Simonas Stanevičius išleido poezijos knygą, kurioje buvo eilėraštis „Šlovė žemaičių“, vadinamas šio sąjūdžio poetiniu manifestu.'
   pagrindžia:
     - c-001
 

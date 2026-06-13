@@ -36,7 +36,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 <a id="claim-t-68997"></a>
 - t-002
   global_id: t-68997
-  teiginys: 'Dusburgietis teigia, kad magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio, kurio.'
+  teiginys: '1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.'
   pagrindžia:
     - c-003
 
@@ -50,21 +50,21 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 <a id="claim-t-69000"></a>
 - t-004
   global_id: t-69000
-  teiginys: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino, Pomeranijos, hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
+  teiginys: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-69001"></a>
 - t-005
   global_id: t-69001
-  teiginys: 'Dusburgietis teigia, kad apie taikos atkūrimą tarp Sventopelko ir brolių Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis sunaikinti brolius bei tikėjimo daigyną.'
+  teiginys: 'Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino, Pomeranijos, hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
+  santrauka: '1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai
@@ -95,6 +95,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - t-001
 
 - c-003
+  santrauka: '1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
@@ -132,6 +133,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - t-003
 
 - c-005
+  santrauka: 'Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     56 (55). Apie taikos atkūrimą tarp Sventopelko ir brolių

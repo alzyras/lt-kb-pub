@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-75132"></a>
 - t-001
   global_id: t-75132
-  teiginys: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
+  teiginys: 'Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija.'
   pagrindžia:
     - c-001
 

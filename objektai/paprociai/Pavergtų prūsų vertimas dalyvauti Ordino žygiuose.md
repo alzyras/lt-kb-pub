@@ -51,13 +51,14 @@ Nenurodyta
 <a id="claim-t-62707"></a>
 - t-001
   global_id: t-62707
-  teiginys: 'Dusburgietis teigia, kad ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma, kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III, 226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis.'
+  teiginys: 'Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,

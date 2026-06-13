@@ -73,7 +73,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 <a id="claim-t-176417"></a>
 - t-007
   global_id: t-176417
-  teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
+  teiginys: 'Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno.'
   pagrindžia:
     - c-014
 
@@ -94,7 +94,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 <a id="claim-t-176421"></a>
 - t-010
   global_id: t-176421
-  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-010
 
@@ -104,13 +104,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginys: 'Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-176423"></a>
-- t-012
-  global_id: t-176423
-  teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
-  pagrindžia:
-    - c-013
 
 <a id="claim-t-176424"></a>
 - t-013
@@ -129,7 +122,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 <a id="claim-t-176427"></a>
 - t-015
   global_id: t-176427
-  teiginys: 'Pastarąjį susiartinimą pagreitino labai netikėta Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.'
+  teiginys: 'Netikėta Jadvygos mirtis įvyko pora savaičių prieš Vorsklos mūšį ir pagreitino naują susiartinimą.'
   pagrindžia:
     - c-008
 
@@ -306,6 +299,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - t-006
 
 - c-008
+  santrauka: 'Netikėta Jadvygos mirtis įvyko pora savaičių prieš Vorsklos mūšį ir pagreitino naują susiartinimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo būdu po 1398 m. susitarimo
@@ -339,6 +333,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - t-001
 
 - c-010
+  santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio karo
@@ -553,7 +548,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/grupes/Jastžembcų giminė]]
 - [[objektai/grupes/Lenkų didžponiai]]
 - [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]

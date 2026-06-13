@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-62467"></a>
 - t-002
   global_id: t-62467
-  teiginys: 'Dusburgietis teigia, kad apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis, jis, nepaprastai irzdamas ir apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės naujakrikščius, atsimetusius.'
+  teiginys: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį

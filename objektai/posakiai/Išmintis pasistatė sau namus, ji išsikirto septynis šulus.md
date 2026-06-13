@@ -29,30 +29,23 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 <a id="claim-t-89583"></a>
 - t-001
   global_id: t-89583
-  teiginys: 'Dusburgietis teigia, kad šitokie dvasiniai šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie.'
+  teiginys: 'Petras Dusburgietis dvasiniais šulais vadina klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89584"></a>
 - t-002
   global_id: t-89584
-  teiginys: 'Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.'
+  teiginys: 'Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-89585"></a>
 - t-003
   global_id: t-89585
-  teiginys: 'Dusburgietis teigia, kad mat prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant karalienė Saba, norėjusi patirti Saliamono išmintingumą.'
+  teiginys: 'Petras Dusburgietis Celestiną III lygina su Saliamonu, kurio mokymo trokšta visuotinė bažnyčia.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-89586"></a>
-- t-004
-  global_id: t-89586
-  teiginys: 'Dusburgietis teigia, kad kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -83,6 +76,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - t-004
 
 - c-002
+  santrauka: 'Petras Dusburgietis Celestiną III lygina su Saliamonu, kurio mokymo trokšta visuotinė bažnyčia.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat
@@ -103,6 +97,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - t-003
 
 - c-003
+  santrauka: 'Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai šis popiežius Celestinas
@@ -135,4 +130,5 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

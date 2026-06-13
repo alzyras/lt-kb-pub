@@ -38,7 +38,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 <a id="claim-t-64609"></a>
 - t-003
   global_id: t-64609
-  teiginys: 'Livonijos ordino kronikininkas Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
+  teiginys: 'Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
   pagrindžia:
     - c-003
 
@@ -76,7 +76,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     - t-002
 
 - c-003
-  santrauka: 'Livonijos ordino kronikininkas Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
+  santrauka: 'Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O Livonijos ordino kronikininkas Henrikas (va-
@@ -207,6 +207,24 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
+- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
+- [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]
+- [[objektai/daiktai/Geležinis vainikas]]
+- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
+- [[objektai/autoriai/Henrikas Latvis]]
+- [[objektai/asmenys/Henrikas Rutėnas]]
+- [[objektai/asmenys/Henrikas Stange]]
+- [[objektai/asmenys/Henrikas iš Berkos]]
+- [[objektai/asmenys/Henrikas iš Ceico]]
 - [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]
+- [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]
+- [[objektai/ivykiai/Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.)]]
+- [[objektai/ivykiai/Henriko vainikavimas Achene (1309 m. sausio 6 d.)]]
+- [[objektai/posakiai/Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!]]
 - [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
+- [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]
+- [[objektai/ivykiai/Paštuvos valsčiaus nusiaubimas (1316 m. žiema)]]
+- [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]
+- [[objektai/grupes/Sembai]]
 - [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo]]

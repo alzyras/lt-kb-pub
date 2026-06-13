@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-20409"></a>
 - t-001
   global_id: t-20409
-  teiginys: 'Sovietų kariuomenė ir specialios paskirties būriai „Alfa“ turėjo įsikišti į „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
+  teiginys: '1991 m. sausio 10–11 d. sovietų kariuomenė ir „Alfa“ būriai turėjo įsikišti į tariamą „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
   pagrindžia:
     - c-001
 

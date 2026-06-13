@@ -20,13 +20,14 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
 <a id="claim-t-19957"></a>
 - t-001
   global_id: t-19957
-  teiginys: 'Iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia Rusiją.'
+  teiginys: 'Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į NVS, pirmiausia į Rusiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į NVS, pirmiausia į Rusiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-

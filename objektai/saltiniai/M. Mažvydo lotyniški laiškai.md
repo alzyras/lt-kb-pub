@@ -25,13 +25,14 @@ Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragne
 <a id="claim-t-61151"></a>
 - t-001
   global_id: t-61151
-  teiginys: 'Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M., Pirmoji.., p. 251, 257).'
+  teiginys: '1549 m. M. Mažvydo lotyniškuose laiškuose vartojami vietovardžiai „Ragneta“ ir „in Ragnet“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1549 m. M. Mažvydo lotyniškuose laiškuose vartojami vietovardžiai „Ragneta“ ir „in Ragnet“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,

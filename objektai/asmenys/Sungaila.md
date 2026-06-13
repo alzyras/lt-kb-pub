@@ -20,13 +20,14 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 <a id="claim-t-30386"></a>
 - t-001
   global_id: t-30386
-  teiginys: 'Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas Sungaila, Ukmergės — Kinsgaila ir kt.'
+  teiginys: 'Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^340) III skyrius: valstybės suklestėjimas
@@ -50,4 +51,3 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Čupurna]]

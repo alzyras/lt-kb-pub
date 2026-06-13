@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-183320"></a>
 - t-004
   global_id: t-183320
-  teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
+  teiginys: 'Motiejus Valančius nurodė kunigams prie bažnyčių steigti lietuviškas mokyklas ir sakyti pamokslus lietuviškai.'
   pagrindžia:
     - c-002
 
@@ -118,3 +118,4 @@ Nenurodyta
 - [[objektai/asmenys/Linkas]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Motiejus]]

@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-62301"></a>
 - t-001
   global_id: t-62301
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo.'
+  teiginys: '1293 m. žiemą magistras su kariuomene užpuolė Junigedos pilį, išžudė daug žmonių ir sudegino du jos papilius.'
   pagrindžia:
     - c-001
 

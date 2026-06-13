@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-62191"></a>
 - t-001
   global_id: t-62191
-  teiginys: 'Dusburgietis teigia, kad apie Adolfo, Romos karaliaus, žūtį 1298 viešpaties metais Albrechtas, Austrijos kunigaikštis, nukovė Adolfą, Romos karalių, ir paveldėjo sostą (Ptol.'
+  teiginys: '1298 m. Austrijos kunigaikštis Albrechtas nukovė Romos karalių Adolfą ir paveldėjo sostą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1298 m. Austrijos kunigaikštis Albrechtas nukovė Romos karalių Adolfą ir paveldėjo sostą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     85. Apie Adolfo, Romos karaliaus, žūtį
@@ -62,3 +63,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]

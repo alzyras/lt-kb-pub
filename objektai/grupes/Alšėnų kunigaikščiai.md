@@ -29,7 +29,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 <a id="claim-t-74069"></a>
 - t-002
   global_id: t-74069
-  teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  teiginys: 'Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     - t-001
 
 - c-002
+  santrauka: 'Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau

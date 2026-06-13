@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Jėzaus draugijos Lietuvos provincijos viršininkas leido spausdinti Alberto Vijūko-Kojelavičiaus Lietuvos istorijos antrą dalį.
+Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ antrą dalį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -38,14 +38,14 @@ Nenurodyta
 <a id="claim-t-185873"></a>
 - t-001
   global_id: t-185873
-  teiginys: 'Jėzaus draugijos Lietuvos provincijos viršininkas leido spausdinti Alberto Vijūko-Kojelavičiaus Lietuvos istorijos antrą dalį.'
+  teiginys: 'Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ antrą dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jėzaus draugijos Lietuvos provincijos viršininkas leido spausdinti Alberto Vijūko-Kojelavičiaus Lietuvos istorijos antrą dalį.'
+  santrauka: 'Jonas Rivockis 1663 m. rugsėjo 9 d. Gardine leido spausdinti Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ antrą dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šviesiausiosios Tavo Aukštybės

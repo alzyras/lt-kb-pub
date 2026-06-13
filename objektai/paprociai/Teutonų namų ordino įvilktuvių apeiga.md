@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-175141"></a>
 - t-001
   global_id: t-175141
-  teiginys: 'Dusburgietis teigia, kad po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge, kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš altorių, o.'
+  teiginys: 'Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdęs
@@ -75,4 +76,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/daiktai/Altorius]]

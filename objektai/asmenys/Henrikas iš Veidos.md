@@ -30,14 +30,21 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 <a id="claim-t-60136"></a>
 - t-001
   global_id: t-60136
-  teiginys: 'Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius metus296.'
+  teiginys: 'Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60137"></a>
 - t-002
   global_id: t-60137
-  teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
+  teiginys: 'Henrikas iš Veidos sušaukė brolius ir maldininkus, patraukė į karą ir užėmė pamedėnų pilį.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-184083"></a>
+- t-003
+  global_id: t-184083
+  teiginys: 'Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.'
   pagrindžia:
     - c-001
 
@@ -66,6 +73,7 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
     - t-003
 
 - c-002
+  santrauka: 'Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1247
@@ -93,3 +101,4 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/ginklanešiai]]

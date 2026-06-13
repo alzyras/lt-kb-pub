@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-45375"></a>
 - t-001
   global_id: t-45375
-  teiginys: 'Neutralumo politika ir Molotovo–Ribentropo paktas Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti jų.'
+  teiginys: 'Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O tikros politinių

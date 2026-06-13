@@ -22,13 +22,14 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 <a id="claim-t-60465"></a>
 - t-001
   global_id: t-60465
-  teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
+  teiginys: 'Sventopelkas įkaitais broliams turėjo atsiųsti savo sūnų Mstivojų, burggrafą Vimarą ir kariuomenės vadą Vojaką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas įkaitais broliams turėjo atsiųsti savo sūnų Mstivojų, burggrafą Vimarą ir kariuomenės vadą Vojaką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita vertus, jis

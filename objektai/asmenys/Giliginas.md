@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Giliginui lemtingais metais mirė jo sūnus ir sosto įpėdinis Romuntas.
+Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 
 ## Teiginiai
 
 <a id="claim-t-186041"></a>
 - t-001
   global_id: t-186041
-  teiginys: 'Giliginui lemtingais metais mirė jo sūnus ir sosto įpėdinis Romuntas.'
+  teiginys: 'Giliginui mirė sūnus ir sosto įpėdinis Romuntas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Giliginui lemtingais metais mirė jo sūnus ir sosto įpėdinis Romuntas.'
+  santrauka: 'Giliginui mirė sūnus ir sosto įpėdinis Romuntas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vargu ar tuo skai­

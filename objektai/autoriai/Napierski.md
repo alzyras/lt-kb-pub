@@ -27,7 +27,7 @@ periodo_grupes: []
 <a id="claim-t-88002"></a>
 - t-001
   global_id: t-88002
-  teiginys: 'Napierskio veikale, aukščiau ne sykį cituotame Index Codicis Hist.'
+  teiginys: 'Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ periodo_grupes: []
     - t-003
 
 - c-003
+  santrauka: 'Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Napierskio  veikale, aukščiau

@@ -68,7 +68,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177644"></a>
 - t-004
   global_id: t-177644
-  teiginys: 'Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.'
+  teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.'
   pagrindžia:
     - c-008
 
@@ -86,17 +86,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - c-018
 
-<a id="claim-t-177648"></a>
-- t-007
-  global_id: t-177648
-  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
-  pagrindžia:
-    - c-018
-
 <a id="claim-t-177649"></a>
 - t-008
   global_id: t-177649
-  teiginys: 'Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta prieš jo pretenzijas į Lucką^1 ).'
+  teiginys: 'Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.'
   pagrindžia:
     - c-007
 
@@ -138,7 +131,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177655"></a>
 - t-014
   global_id: t-177655
-  teiginys: 'Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.'
+  teiginys: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
   pagrindžia:
     - c-005
 
@@ -229,7 +222,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177671"></a>
 - t-028
   global_id: t-177671
-  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  teiginys: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   pagrindžia:
     - c-014
 
@@ -271,7 +264,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 <a id="claim-t-177677"></a>
 - t-034
   global_id: t-177677
-  teiginys: 'Karaimai buvo apgyvendinti Lucke.'
+  teiginys: 'Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-006
 
@@ -409,6 +402,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-037
 
 - c-005
+  santrauka: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Netoliese nuo ten, būtent, Zaslavlyje (tarp
@@ -423,6 +417,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-014
 
 - c-006
+  santrauka: 'Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
@@ -572,6 +567,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
     - t-027
 
 - c-014
+  santrauka: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinis

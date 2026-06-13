@@ -37,14 +37,14 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 <a id="claim-t-114002"></a>
 - t-002
   global_id: t-114002
-  teiginys: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
+  teiginys: '1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-114003"></a>
 - t-003
   global_id: t-114003
-  teiginys: 'Tėvas ponas Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos įtraukti į sutartį.'
+  teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.'
   pagrindžia:
     - c-012
 
@@ -406,6 +406,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
     - t-016
 
 - c-012
+  santrauka: 'Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame vi­
@@ -521,8 +522,11 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
+- [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
 - [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
 - [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/zodynas/bursa konviktas]]
 - [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje]]
 - [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
 - [[objektai/asmenys/Kotryna Jogailaitė]]

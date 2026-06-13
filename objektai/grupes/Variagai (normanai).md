@@ -19,13 +19,14 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 <a id="claim-t-31364"></a>
 - t-001
   global_id: t-31364
-  teiginys: 'Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš Skandinavijos kariautojams-pirkliams, — lietuviai rytų link išvystė prekybinius santykius.'
+  teiginys: 'Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Variagų laikotarpiu Dniepro baseine lietuviai išplėtojo prekybinius santykius rytų kryptimi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai

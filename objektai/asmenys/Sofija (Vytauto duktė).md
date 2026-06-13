@@ -28,14 +28,14 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 <a id="claim-t-176612"></a>
 - t-002
   global_id: t-176612
-  teiginys: 'Po vyro mirties Sofija prašė Vytautą paimti jos sūnų Vosylių II globon, paliekant jam valstybę.'
+  teiginys: 'Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-176613"></a>
 - t-003
   global_id: t-176613
-  teiginys: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
+  teiginys: 'Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
   pagrindžia:
     - c-002
 
@@ -56,13 +56,14 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 <a id="claim-t-184830"></a>
 - t-006
   global_id: t-184830
-  teiginys: 'Vytautas Marienburge surengė dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus, dideles palydėtuves.'
+  teiginys: 'Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.'
   pagrindžia:
     - c-006
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko
@@ -76,6 +77,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     - t-002
 
 - c-002
+  santrauka: 'Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino pasiuntinys, žinoma, jo nepriėmė.
@@ -144,7 +146,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     - t-005
 
 - c-006
-  santrauka: 'Vytautas Marienburge surengė dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus, dideles palydėtuves.'
+  santrauka: 'Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be

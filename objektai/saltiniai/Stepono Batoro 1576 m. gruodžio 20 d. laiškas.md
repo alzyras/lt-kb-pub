@@ -26,47 +26,17 @@ amziai:
 
 ## Teiginiai
 
-<a id="claim-t-88336"></a>
+<a id="claim-t-88337"></a>
 - t-001
-  global_id: t-88336
-  teiginys: 'Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams •328 • VIII PRIEDAS.'
+  global_id: t-88337
+  teiginys: 'Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-88337"></a>
-- t-002
-  global_id: t-88337
-  teiginys: 'Stepono Batoro parašas paimtas iš 1576 m. gruodžio 20 d. rašyto laiško faksimilės.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Karaliaus Žygimanto Senojo privilegija prieš eretikus,
-    duota Vilniaus vyskupui, 1542 metais
-    •316 •
-    VI PRIEDAS.
-    Žygimanto Augusto raštas, paliudijantis
-    Vilniaus vyskupo Valerijono priešinimąsi
-    Augsburgo tikėjimui, 1559 m.
-    •324 •
-    VII PRIEDAS.
-    Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms,
-    turinys: apie muitus ir mokesčius
-    Vilniaus pirkliams ir miestiečiams
-    •328 •
-    VIII PRIEDAS.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Stepono Batoro parašas paimtas iš 1576 m. gruodžio 20 d. rašyto laiško faksimilės.'
+  santrauka: 'Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčia (planas) /
@@ -119,4 +89,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

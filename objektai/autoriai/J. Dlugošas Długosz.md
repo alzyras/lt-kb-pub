@@ -36,7 +36,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 <a id="claim-t-87986"></a>
 - t-003
   global_id: t-87986
-  teiginys: '29 Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'''' apie Vilniaus pilių sudeginimą, taMūsų istorikai, būtent Dlugošas, tai iki šiol dar nėra išaiškinta.'
+  teiginys: 'Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     - t-001
 
 - c-003
+  santrauka: 'Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     29

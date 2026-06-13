@@ -29,20 +29,21 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 <a id="claim-t-42449"></a>
 - t-002
   global_id: t-42449
-  teiginys: 'Ordoje garsus emyras Edigėjus padrąsino chaną, ir derybos iš karto prasidėjo su Edigėjumi.'
+  teiginys: 'Ordoje garsus emyras Edigėjus padrąsino chaną, todėl derybos iš karto prasidėjo su Edigėjumi.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183709"></a>
 - t-003
   global_id: t-183709
-  teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  teiginys: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordoje garsus emyras Edigėjus padrąsino chaną, todėl derybos iš karto prasidėjo su Edigėjumi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip buvo delsiama, kol atvyko
@@ -83,7 +84,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
     - t-001
 
 - c-003
-  santrauka: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  santrauka: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos jungtinės pajėgos

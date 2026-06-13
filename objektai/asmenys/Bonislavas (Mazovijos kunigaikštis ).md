@@ -31,13 +31,14 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 <a id="claim-t-87639"></a>
 - t-001
   global_id: t-87639
-  teiginys: 'Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0.'
+  teiginys: 'Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­

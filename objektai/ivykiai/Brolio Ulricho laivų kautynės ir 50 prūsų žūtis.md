@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-91911"></a>
 - t-001
   global_id: t-91911
-  teiginys: 'Dusburgietis teigia, kad kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti prūsai; kai jie priplaukė su savo laivais arčiau, kėsindamiesi sunaikinti mūsiškius, brolis Ulrichas pagriebė savo laivo stiebą ir pradėjo daužyti jų laivus, o tiek jų.'
+  teiginys: 'Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti

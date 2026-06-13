@@ -26,20 +26,14 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
 <a id="claim-t-38912"></a>
 - t-001
   global_id: t-38912
-  teiginys: 'Apie 60 Žebenkšties rinktinės kovotojų, vadovaujamų Juozo Čeponio-Budrio, persikėlė į Virtukų pušyną.'
+  teiginys: 'Apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183673"></a>
-- t-002
-  global_id: t-183673
-  teiginys: '1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     2% VIRTUKŲ KAUTYNĖS
@@ -55,22 +49,3 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: '1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m. įstojo į partizanų
-    Žebenkšties rinktinę Raseinių rajone. J. Žemaitis
-    tapo šios rinktinės štabo viršininku. 1946 m. rug-
-    pjūčio 20 d. jis tapo Šerno rinktinės vadu, o nuo
-    1945 m. Žebenkšties rinktinės štabo viršininku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Šernas]]

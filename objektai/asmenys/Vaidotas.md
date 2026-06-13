@@ -86,5 +86,4 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
-- [[objektai/autoriai/J. Fijałek]]
 - [[objektai/asmenys/Vinrichas fon Kniprodė]]

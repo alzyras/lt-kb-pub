@@ -19,13 +19,14 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 <a id="claim-t-80651"></a>
 - t-001
   global_id: t-80651
-  teiginys: 'Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko, karių su kovinėmis desanto mašinomis BMD-1 ir BMD-2 (dėl vikšrinės važiuoklės šnekamojoje kalboje žmonių dažnai vadintomis tanketėmis, t.'
+  teiginys: 'Vilniaus įgulai sustiprinti buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus įgulai sustiprinti buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sustiprinti esamą Vilniaus įgulą buvo at-

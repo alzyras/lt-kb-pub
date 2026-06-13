@@ -37,7 +37,7 @@ amziai:
 <a id="claim-t-80591"></a>
 - t-002
   global_id: t-80591
-  teiginys: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
+  teiginys: 'Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
   pagrindžia:
     - c-001
 
@@ -48,17 +48,10 @@ amziai:
   pagrindžia:
     - c-003
 
-<a id="claim-t-80593"></a>
-- t-004
-  global_id: t-80593
-  teiginys: 'Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-80594"></a>
 - t-005
   global_id: t-80594
-  teiginys: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
+  teiginys: 'Pritrūkę valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė Žuvinto ežeru.'
   pagrindžia:
     - c-002
 

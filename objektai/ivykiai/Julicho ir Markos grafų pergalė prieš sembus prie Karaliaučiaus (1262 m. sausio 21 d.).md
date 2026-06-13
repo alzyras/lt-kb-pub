@@ -44,34 +44,35 @@ Nenurodyta
 <a id="claim-t-66571"></a>
 - t-001
   global_id: t-66571
-  teiginys: 'Dusburgietis teigia, kad prisiėjo tam reikalui pasikviesti į talką visus Karaliaučiaus brolius bei jų ginklanešius.'
+  teiginys: 'Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-66572"></a>
 - t-002
   global_id: t-66572
-  teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
+  teiginys: '1262 m. sausio 21 d. Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-66573"></a>
 - t-003
   global_id: t-66573
-  teiginys: 'Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.'
+  teiginys: 'Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66574"></a>
 - t-004
   global_id: t-66574
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
+  teiginys: 'Dusburgietis pasakoja, kad vienas prūsas iš anksto pranašavo sembų išžudymą švento Vincento dieną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis pasakoja, kad vienas prūsas iš anksto pranašavo sembų išžudymą švento Vincento dieną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
@@ -89,6 +90,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
@@ -111,6 +113,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
@@ -125,6 +128,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: '1262 m. sausio 21 d. Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl jie nuolankiai ir gailiai kėlė
@@ -145,5 +149,6 @@ Nenurodyta
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Dar šiandien sembai bus išžudyti]]
 - [[objektai/asmenys/Engelbertas I]]

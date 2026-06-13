@@ -31,7 +31,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 <a id="claim-t-87458"></a>
 - t-001
   global_id: t-87458
-  teiginys: 'Stanislovas Sabina, medicinos daktaras, valdė - 1584 m.'
+  teiginys: 'Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.'
   pagrindžia:
     - c-002
 
@@ -93,6 +93,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
     - t-002
 
 - c-002
+  santrauka: 'Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Augustinas Rotundas Milesijus (Mieleskis),

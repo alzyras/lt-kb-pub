@@ -34,7 +34,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 <a id="claim-t-170844"></a>
 - t-002
   global_id: t-170844
-  teiginys: 'Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
+  teiginys: 'Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
   pagrindžia:
     - c-003
 
@@ -48,9 +48,16 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
 <a id="claim-t-170847"></a>
 - t-004
   global_id: t-170847
-  teiginys: '11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
+  teiginys: '„Lituanica“ aviatoriai, be nusileidimo įveikę 6 411 km per 37 val. 11 min., patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183632"></a>
+- t-006
+  global_id: t-183632
+  teiginys: 'Be nusileidimo 6 411 km įveikę aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -71,6 +78,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - t-003
 
 - c-002
+  santrauka: '„Lituanica“ aviatoriai, be nusileidimo įveikę 6 411 km per 37 val. 11 min., patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
@@ -103,7 +111,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - t-001
 
 - c-004
-  santrauka: '11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
+  santrauka: 'Be nusileidimo 6 411 km įveikę aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nu-

@@ -45,7 +45,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 <a id="claim-t-176317"></a>
 - t-004
   global_id: t-176317
-  teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  teiginys: 'Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.'
   pagrindžia:
     - c-004
 
@@ -59,7 +59,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 <a id="claim-t-176319"></a>
 - t-006
   global_id: t-176319
-  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
+  teiginys: 'Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.'
   pagrindžia:
     - c-005
 
@@ -162,6 +162,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     - t-005
 
 - c-005
+  santrauka: 'Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,

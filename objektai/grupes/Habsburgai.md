@@ -49,7 +49,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 <a id="claim-t-182892"></a>
 - t-004
   global_id: t-182892
-  teiginys: 'Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV.'
+  teiginys: 'Austrų Habsburgai ir caras Jonas IV ypač rūpinosi po Zigmanto Augusto mirties įžengti į Lietuvos ir Lenkijos sostus.'
   pagrindžia:
     - c-004
 
@@ -105,7 +105,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     - t-003
 
 - c-004
-  santrauka: 'Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV.'
+  santrauka: 'Austrų Habsburgai ir caras Jonas IV ypač rūpinosi po Zigmanto Augusto mirties įžengti į Lietuvos ir Lenkijos sostus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karas tuo būdu lai-
@@ -138,3 +138,4 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - [[objektai/autoriai/Simono Grunau]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
+- [[objektai/grupes/Romanovų dinastija]]

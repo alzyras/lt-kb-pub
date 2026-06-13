@@ -38,7 +38,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 <a id="claim-t-133640"></a>
 - t-002
   global_id: t-133640
-  teiginys: 'Tokiu tat laiku Jogaila vėl sukvietė visus savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).'
+  teiginys: '1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą.'
   pagrindžia:
     - c-001
 
@@ -59,6 +59,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Paskelbti šiuo metu Lietuvai karą būtų

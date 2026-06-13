@@ -20,13 +20,14 @@ Aikštė, kur bausti nusikaltėliai.
 <a id="claim-t-86171"></a>
 - t-001
   global_id: t-86171
-  teiginys: 'Aikštė, kur bausti nusikaltėliai.'
+  teiginys: 'Bausmių aikštėje buvo baudžiami nusikaltėliai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bausmių aikštėje buvo baudžiami nusikaltėliai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     22. Aikštė, kur bausti nusikaltėliai.

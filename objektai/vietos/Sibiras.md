@@ -22,14 +22,14 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 <a id="claim-t-69238"></a>
 - t-001
   global_id: t-69238
-  teiginys: 'Tad lietuvių inteligentija iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...'
+  teiginys: 'Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-69239"></a>
 - t-002
   global_id: t-69239
-  teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
+  teiginys: 'Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.'
   pagrindžia:
     - c-004
 
@@ -43,13 +43,14 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 <a id="claim-t-69241"></a>
 - t-004
   global_id: t-69241
-  teiginys: 'Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
+  teiginys: 'Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nemažai stribų
@@ -92,6 +93,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-003
 
 - c-003
+  santrauka: 'Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad lietuvių inteligentija
@@ -103,6 +105,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-001
 
 - c-004
+  santrauka: 'Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
@@ -119,7 +122,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-002
 
 - c-005
-  santrauka: 'Represinės institucijos, slopindamos partizaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse.'
+  santrauka: 'Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dislo-

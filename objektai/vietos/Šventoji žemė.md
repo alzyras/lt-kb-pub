@@ -29,34 +29,35 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 <a id="claim-t-58407"></a>
 - t-001
   global_id: t-58407
-  teiginys: 'Dusburgietis teigia, kad šventoji žemė ragina krikščionis ją išvaduoti Maldauju — išgirskite, visos krikščionių tautos, ir išvyskite skausmą, kurį apleista kenčiu, turėkite omenyje, kas man nutiko, pamatykite ir suvokite, kaip esu paniekinta, griebkitės ginklo bei skydo ir kilkite.'
+  teiginys: 'Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58408"></a>
 - t-002
   global_id: t-58408
-  teiginys: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
+  teiginys: 'Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58409"></a>
 - t-003
   global_id: t-58409
-  teiginys: 'Dusburgietis teigia, kad dejonė dėl šventosios žemės apleidimo Šitaip tu, o šventa žadėtoji žeme, pamilta dievo ir pagerbta šventųjų angelų, žadinanti viso pasaulio nuostabą, viešpaties išrinktoji ir išskirtoji, nes tavimi jis akivaizdžiai puošė savo buvimą, o tavo vadavimo mums.'
+  teiginys: 'Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-58410"></a>
 - t-004
   global_id: t-58410
-  teiginys: 'Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip.'
+  teiginys: 'Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
@@ -78,6 +79,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     - t-002
 
 - c-002
+  santrauka: 'Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     80. Šventoji žemė ragina krikščionis ją išvaduoti
@@ -98,6 +100,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     - t-001
 
 - c-003
+  santrauka: 'Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     78. Apie šventosios žemės reikalus
@@ -115,6 +118,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     - t-004
 
 - c-004
+  santrauka: 'Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     79. Dejonė dėl šventosios žemės apleidimo

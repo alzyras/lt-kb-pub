@@ -46,13 +46,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-002
 
-<a id="claim-t-183806"></a>
-- t-004
-  global_id: t-183806
-  teiginys: 'Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -118,7 +111,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-002
 
 - c-004
-  santrauka: 'Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus.'
+  santrauka: 'Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dar mūšiui nepasibai-

@@ -27,13 +27,14 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 <a id="claim-t-40542"></a>
 - t-002
   global_id: t-40542
-  teiginys: 'G. Valdekas įsakė Walenrodto brandenburgiečiams keltis atgal, bet juos užpuolė ir sumušė V. Gosievskio pajėgos.'
+  teiginys: 'Generolo Walenrodto brandenburgiečius, G. Valdeko įsakytus keltis atgal, užpuolė ir sumušė V. Gosievskio pajėgos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Generolo Walenrodto brandenburgiečius, G. Valdeko įsakytus keltis atgal, užpuolė ir sumušė V. Gosievskio pajėgos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu G. Valdekas gavo žinią,

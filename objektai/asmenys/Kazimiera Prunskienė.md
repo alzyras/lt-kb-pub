@@ -33,14 +33,14 @@ tags:
 <a id="claim-t-183546"></a>
 - t-003
   global_id: t-183546
-  teiginys: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
+  teiginys: 'Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183547"></a>
 - t-004
   global_id: t-183547
-  teiginys: 'Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.'
+  teiginys: 'Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas pasinaudota rengiant planą nuversti teisėtą Lietuvos valdžią.'
   pagrindžia:
     - c-002
 
@@ -81,7 +81,7 @@ tags:
     - t-004
 
 - c-003
-  santrauka: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
+  santrauka: 'Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies

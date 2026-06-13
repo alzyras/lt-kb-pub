@@ -48,6 +48,13 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   pagrindžia:
     - c-001
 
+<a id="claim-t-183569"></a>
+- t-004
+  global_id: t-183569
+  teiginys: '1918 m. gruodį Simonas Rozenbaumas tapo Lietuvos užsienio reikalų viceministru.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -111,7 +118,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     - t-001
 
 - c-004
-  santrauka: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
+  santrauka: '1918 m. gruodį Simonas Rozenbaumas tapo Lietuvos užsienio reikalų viceministru.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –

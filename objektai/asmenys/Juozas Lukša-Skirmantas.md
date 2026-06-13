@@ -21,13 +21,14 @@ tags:
 <a id="claim-t-19015"></a>
 - t-001
   global_id: t-19015
-  teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus ir kitą svarbią medžiagą.'
+  teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pereita prie įprasto

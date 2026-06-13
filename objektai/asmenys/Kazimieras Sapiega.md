@@ -26,7 +26,7 @@ tags:
 <a id="claim-t-49420"></a>
 - t-002
   global_id: t-49420
-  teiginys: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
+  teiginys: 'Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą.'
   pagrindžia:
     - c-001
 
@@ -59,4 +59,5 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/įgula]]

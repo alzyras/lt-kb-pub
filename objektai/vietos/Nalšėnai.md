@@ -29,21 +29,21 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 <a id="claim-t-32381"></a>
 - t-001
   global_id: t-32381
-  teiginys: 'Gerdenis pralaimėjo ir tik su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267 m. žiemą) ir pats žuvo^219.'
+  teiginys: 'Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-32382"></a>
 - t-002
   global_id: t-32382
-  teiginys: 'Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo žymus Nalšėnų kunigas Suksė.'
+  teiginys: 'Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo Nalšėnų kunigas Suksė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-32383"></a>
 - t-003
   global_id: t-32383
-  teiginys: 'Vaišvilkui imant Nalšėnų pilis, Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.'
+  teiginys: 'Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.'
   pagrindžia:
     - c-003
 
@@ -57,6 +57,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tarp judviejų iki Gerdenio žuvimo
@@ -73,6 +74,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - t-001
 
 - c-002
+  santrauka: 'Vaišvilkui persekiojant Mindaugo nužudymo sąmokslininkus, į Livoniją pabėgo Nalšėnų kunigas Suksė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo
@@ -89,6 +91,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - t-002
 
 - c-003
+  santrauka: 'Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų

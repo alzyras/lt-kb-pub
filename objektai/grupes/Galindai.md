@@ -28,7 +28,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 <a id="claim-t-65156"></a>
 - t-001
   global_id: t-65156
-  teiginys: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
+  teiginys: 'Dusburgiečio pasakojime galindų pagausėjo tiek, kad jų žemė nebegalėjo jų išmaitinti.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,13 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   teiginys: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183881"></a>
+- t-003
+  global_id: t-183881
+  teiginys: 'Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -86,4 +93,5 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/autoriai/Вилинбахов В. Б]]
+- [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]
 - [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]

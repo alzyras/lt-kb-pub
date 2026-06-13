@@ -37,20 +37,21 @@ Nenurodyta
 <a id="claim-t-75226"></a>
 - t-001
   global_id: t-75226
-  teiginys: 'Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.'
+  teiginys: '1940 m. liepos 22 d. vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75227"></a>
 - t-002
   global_id: t-75227
-  teiginys: 'Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis.'
+  teiginys: '1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1940 m. liepos 22 d. vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Analogiškas farsas vyko ir Latvijoje bei Estijoje.
@@ -66,6 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-

@@ -42,14 +42,14 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 <a id="claim-t-64501"></a>
 - t-002
   global_id: t-64501
-  teiginys: 'Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai ir objektyviai vertinti.'
+  teiginys: 'Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-64502"></a>
 - t-003
   global_id: t-64502
-  teiginys: 'A. Alekna išleido « Žemaičiu vysk.'
+  teiginys: 'A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“.'
   pagrindžia:
     - c-005
 
@@ -63,7 +63,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 <a id="claim-t-64504"></a>
 - t-005
   global_id: t-64504
-  teiginys: 'Antanas Alekna 1922–1930 m. buvo pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete.'
+  teiginys: 'Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.'
   pagrindžia:
     - c-005
 

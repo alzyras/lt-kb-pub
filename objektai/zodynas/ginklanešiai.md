@@ -29,7 +29,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 <a id="claim-t-175170"></a>
 - t-001
   global_id: t-175170
-  teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
+  teiginys: '1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.'
   pagrindžia:
     - c-001
 
@@ -43,20 +43,21 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 <a id="claim-t-175172"></a>
 - t-003
   global_id: t-175172
-  teiginys: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
+  teiginys: 'Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-175174"></a>
 - t-004
   global_id: t-175174
-  teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
+  teiginys: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Skalvių pilies puolimą 1293
@@ -117,6 +118,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - t-002
 
 - c-004
+  santrauka: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
@@ -241,14 +243,19 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
-- [[objektai/asmenys/Ernekė]]
-- [[objektai/asmenys/Gotfridas Hohenlohė]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Helvigas iš Goldbacho]]
+- [[objektai/asmenys/Henrikas iš Veidos]]
 - [[objektai/asmenys/Jonas iš Vienos]]
 - [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
 - [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]
+- [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
+- [[objektai/asmenys/Konradas Švabas iš Elbingo]]
+- [[objektai/daiktai/Kuoras aukštai ąžuole]]
+- [[objektai/ivykiai/Spitenbergo pilies palikimas|Spitenbergo pilies palikimas (pilis)]]
+- [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]
 - [[objektai/asmenys/Tirskas]]
-- [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės]]
+- [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
-- [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]

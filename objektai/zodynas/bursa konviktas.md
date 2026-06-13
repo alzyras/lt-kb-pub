@@ -27,13 +27,14 @@ amziai:
 <a id="claim-t-86518"></a>
 - t-001
   global_id: t-86518
-  teiginys: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
+  teiginys: '1579 m. Valerijonas Protasevičius nustatė, kad Akademijai ir kolegijai užrašyti trys mūriniai namai būtų vadinami Valerijono bursomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1579 m. Valerijonas Protasevičius nustatė, kad Akademijai ir kolegijai užrašyti trys mūriniai namai būtų vadinami Valerijono bursomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
@@ -64,4 +65,5 @@ amziai:
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/suma]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]

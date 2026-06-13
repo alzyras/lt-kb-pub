@@ -42,7 +42,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 <a id="claim-t-65146"></a>
 - t-003
   global_id: t-65146
-  teiginys: 'Tolesnės kovos eigoje „broliams puolant lietuvius“, kuršiai „ėmė trauktis, kai estai tai pamatė, drauge bėgti suskato, palikę mūšio lauką“.'
+  teiginys: 'Broliams puolant lietuvius, estai kartu su kuršiais pasitraukė iš mūšio lauko.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
     - t-002
 
 - c-003
+  santrauka: 'Broliams puolant lietuvius, estai kartu su kuršiais pasitraukė iš mūšio lauko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšyje „Prūsijos kilmingieji ištikimai pa-
@@ -128,7 +129,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
 - [[objektai/asmenys/Burchardas iš Hornhauzeno]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/asmenys/Henrikas Botelis]]
 - [[objektai/asmenys/J. Pilsudskis]]
@@ -152,4 +152,5 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/Vidivarijai]]

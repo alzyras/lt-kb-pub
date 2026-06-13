@@ -54,7 +54,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-112066"></a>
 - t-004
   global_id: t-112066
-  teiginys: 'Dusburgietis teigia, kad neseniai Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
+  teiginys: 'Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   pagrindžia:
     - c-010
 
@@ -75,7 +75,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-112069"></a>
 - t-007
   global_id: t-112069
-  teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
+  teiginys: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Prancūzijoje ir kitose valstybėse, nepripažinusiose Lietuvos įjungimo į SSRS.'
   pagrindžia:
     - c-002
 
@@ -96,7 +96,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-112072"></a>
 - t-010
   global_id: t-112072
-  teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  teiginys: 'XVII–XVIII a. Italijos ir Ispanijos baroko kultūra plito katalikiškoje Prancūzijoje, Bavarijoje ir Flandrijoje.'
   pagrindžia:
     - c-005
 
@@ -131,14 +131,14 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-112077"></a>
 - t-015
   global_id: t-112077
-  teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
+  teiginys: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-112078"></a>
 - t-016
   global_id: t-112078
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artilerijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje), jam.'
+  teiginys: 'Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje, o vėliau buvo išrinktas LLKS Tarybos prezidiumo pirmininku.'
   pagrindžia:
     - c-003
 
@@ -262,6 +262,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-001
 
 - c-006
+  santrauka: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
@@ -328,6 +329,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-008
 
 - c-010
+  santrauka: 'Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai

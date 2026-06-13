@@ -228,5 +228,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/asmenys/Mengli Girėjus]]
 - [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]
+- [[objektai/asmenys/Zigmantas Vaza]]
 - [„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“](/objektai/posakiai/%E2%80%9Epagal%20Tavo%20palaiminim%C4%85%20jy%20%5Bpromaskvieti%C5%A1kas%5D%20metropolitas%20juos%20%5Bmaskv%C3%A9nus%5D%20laimina%20kraujo%20praliejimui%20iki%20%C5%A1iol%E2%80%9C)
 - [[objektai/asmenys/Vilhelmas Fiurstenbergas]]

@@ -77,14 +77,14 @@ Nenurodyta
 <a id="claim-t-23269"></a>
 - t-004
   global_id: t-23269
-  teiginys: 'O turima galvoje: žemės ūkio pažanga, lėktuvų projektavimas ir gamyba Kaune ir krepšininkų vyrų dukart – 1937 ir 1939 m. – iškovoti Europos čempionų titulai.'
+  teiginys: 'ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune kaip vienu iš Lietuvos Respublikos civilizacinių pasiekimų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-23270"></a>
 - t-005
   global_id: t-23270
-  teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
+  teiginys: 'Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.'
   pagrindžia:
     - c-004
 
@@ -137,6 +137,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-

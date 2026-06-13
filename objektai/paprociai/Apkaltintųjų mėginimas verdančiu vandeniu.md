@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-62104"></a>
 - t-001
   global_id: t-62104
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą 1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo nekaltas.'
+  teiginys: '1321 m. Slavijos žemėse trys nuodijimu apkaltinti vyrai buvo įmesti į verdantį vandenį, du žuvo, o trečias išliko gyvas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1321 m. Slavijos žemėse trys nuodijimu apkaltinti vyrai buvo įmesti į verdantį vandenį, du žuvo, o trečias išliko gyvas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     121. Apie vieną stebuklą

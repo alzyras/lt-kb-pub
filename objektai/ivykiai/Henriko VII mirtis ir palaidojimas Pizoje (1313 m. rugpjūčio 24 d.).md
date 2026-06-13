@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-62286"></a>
 - t-001
   global_id: t-62286
-  teiginys: 'Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metais, Baltramiejaus dieną (rugpjūčio 24), Sienos grafystėje mirė imperatorius Henrikas, o palaidojo jį Pizoje.'
+  teiginys: '1313 m. rugpjūčio 24 d. Sienos grafystėje mirė imperatorius Henrikas VII, o jo kūnas buvo palaidotas Pizoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1313 m. rugpjūčio 24 d. Sienos grafystėje mirė imperatorius Henrikas VII, o jo kūnas buvo palaidotas Pizoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     113. Apie Henriko, imperatoriaus, mirtį
@@ -65,4 +66,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Henrikas VII]]

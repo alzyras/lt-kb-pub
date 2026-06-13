@@ -20,13 +20,14 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
 <a id="claim-t-61055"></a>
 - t-001
   global_id: t-61055
-  teiginys: 'Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl vardo žr.'
+  teiginys: 'Brutenio—Videvučio įstatyme pabrėžiama, kad niekas nesikreiptų į prūsų dievus be Krivio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brutenio—Videvučio įstatyme pabrėžiama, kad niekas nesikreiptų į prūsų dievus be Krivio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl

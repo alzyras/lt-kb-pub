@@ -27,13 +27,14 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
 <a id="claim-t-88147"></a>
 - t-001
   global_id: t-88147
-  teiginys: 'Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.'
+  teiginys: '1325 m. Varmės vyskupas Eberhardas rašė, kad teiginiai apie lietuvių norą atsiversti į krikščionybę buvo melagingi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1325 m. Varmės vyskupas Eberhardas rašė, kad teiginiai apie lietuvių norą atsiversti į krikščionybę buvo melagingi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Slaptasis archyvas, Spinta

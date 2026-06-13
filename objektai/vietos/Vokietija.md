@@ -43,7 +43,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181163"></a>
 - t-002
   global_id: t-181163
-  teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  teiginys: '1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-011
 
@@ -78,7 +78,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181169"></a>
 - t-007
   global_id: t-181169
-  teiginys: 'Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo vadovaujama švedų kariuomenė ėmė skinti pergales prieš katalikų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618- 1648 m.), Vokietijoje.'
+  teiginys: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergales Trisdešimtmečio kare.'
   pagrindžia:
     - c-022
 
@@ -113,7 +113,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181176"></a>
 - t-012
   global_id: t-181176
-  teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  teiginys: '1939 m. rugsėjo 28 d. Lietuvos teritorijai pagal slaptą Reicho ir SSRS protokolą patekus į SSRS įtakos sferą, Vokietijos spaudimas Lietuvai baigėsi.'
   pagrindžia:
     - c-003
 
@@ -127,21 +127,21 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181179"></a>
 - t-014
   global_id: t-181179
-  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  teiginys: '1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-181180"></a>
 - t-015
   global_id: t-181180
-  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  teiginys: '1928 m. sausio 29 d. po ilgų derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-181181"></a>
 - t-016
   global_id: t-181181
-  teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  teiginys: '1939 m. rugpjūčio 23 d. Vokietijos ir SSRS slaptasis protokolas Lietuvą priskyrė Vokietijos įtakos sferai.'
   pagrindžia:
     - c-014
 
@@ -162,7 +162,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181184"></a>
 - t-019
   global_id: t-181184
-  teiginys: 'Dusburgietis teigia, kad jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
+  teiginys: 'Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
   pagrindžia:
     - c-031
 
@@ -225,7 +225,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181193"></a>
 - t-028
   global_id: t-181193
-  teiginys: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  teiginys: '1935 m. Stasys Lozoraitis siūlė Lietuvai atkurti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
   pagrindžia:
     - c-015
 
@@ -267,7 +267,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181199"></a>
 - t-034
   global_id: t-181199
-  teiginys: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  teiginys: 'Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją.'
   pagrindžia:
     - c-024
 
@@ -288,7 +288,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181202"></a>
 - t-037
   global_id: t-181202
-  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  teiginys: '1940 m. birželio 16 d. sovietų divizijos per Lietuvos teritoriją strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos padėjo okupuoti abi šalis.'
   pagrindžia:
     - c-005
 
@@ -305,13 +305,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   teiginys: 'Kaltinamieji teigė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
   pagrindžia:
     - c-025
-
-<a id="claim-t-181205"></a>
-- t-040
-  global_id: t-181205
-  teiginys: 'Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją.'
-  pagrindžia:
-    - c-024
 
 <a id="claim-t-181206"></a>
 - t-041
@@ -330,7 +323,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-181208"></a>
 - t-043
   global_id: t-181208
-  teiginys: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  teiginys: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.'
   pagrindžia:
     - c-021
 
@@ -666,6 +659,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-028
 
 - c-016
+  santrauka: '1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per trejus–ketverius metus į JAV pasisekė atvykti
@@ -746,6 +740,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-021
 
 - c-021
+  santrauka: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
@@ -769,6 +764,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-043
 
 - c-022
+  santrauka: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergales Trisdešimtmečio kare.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
@@ -915,6 +911,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-023
 
 - c-031
+  santrauka: 'Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.

@@ -43,14 +43,14 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 <a id="claim-t-101622"></a>
 - t-003
   global_id: t-101622
-  teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
+  teiginys: 'LDK visuomenėje susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183493"></a>
 - t-004
   global_id: t-183493
-  teiginys: 'Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a.'
+  teiginys: 'Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.'
   pagrindžia:
     - c-003
 
@@ -92,7 +92,7 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     - t-003
 
 - c-003
-  santrauka: 'Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a.'
+  santrauka: 'Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos sostuose sė-
@@ -122,6 +122,7 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Cechai]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]
 - [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]

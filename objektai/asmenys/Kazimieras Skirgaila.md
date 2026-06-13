@@ -10,35 +10,35 @@ atnaujinta: ''
 
 ## Santrauka
 
-Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą. Kazimieras Skirgaila, pasitenkinęs gautomis kunigaikštystėmis, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo. Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slaptai įpylė nuodų.
+Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo. Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slapta įpylė nuodų.
 
 ## Teiginiai
 
 <a id="claim-t-185949"></a>
 - t-001
   global_id: t-185949
-  teiginys: 'Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą.'
+  teiginys: 'Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-185950"></a>
 - t-002
   global_id: t-185950
-  teiginys: 'Kazimieras Skirgaila, pasitenkinęs gautomis kunigaikštystėmis, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
+  teiginys: 'Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-185951"></a>
 - t-003
   global_id: t-185951
-  teiginys: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slaptai įpylė nuodų.'
+  teiginys: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slapta įpylė nuodų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą.'
+  santrauka: 'Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Porą kartų pa-
@@ -65,7 +65,7 @@ Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą. Kazimiera
     - t-001
 
 - c-002
-  santrauka: 'Kazimieras Skirgaila, pasitenkinęs gautomis kunigaikštystėmis, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
+  santrauka: 'Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Alek­
@@ -98,7 +98,7 @@ Skirgaila skubėjo iš Rusios, norėdamas pralaužti apsupimo žiedą. Kazimiera
     - t-002
 
 - c-003
-  santrauka: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slaptai įpylė nuodų.'
+  santrauka: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slapta įpylė nuodų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto neil­

@@ -47,16 +47,9 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 <a id="claim-t-183137"></a>
 - t-003
   global_id: t-183137
-  teiginys: 'Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailaičių dinastija.'
+  teiginys: 'Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-183138"></a>
-- t-004
-  global_id: t-183138
-  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +86,7 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     - t-002
 
 - c-003
-  santrauka: 'Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailaičių dinastija.'
+  santrauka: 'Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
@@ -107,24 +100,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   pagrindžia:
     - t-003
 
-- c-004
-  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Okupacijos ir aneksijos, tremtys, genocidai ir
-    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
-    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
-    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
-    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
-    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
-    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
-    ninkų, audėjų, auklių, inžinierių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
@@ -134,13 +109,8 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Litvakai]]
 - [[objektai/zodynas/piastas]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/ivykiai/Mohačo mūšis]]
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
-- [[objektai/grupes/Gediminaičiai]]
-- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Kazimieras Didysis]]

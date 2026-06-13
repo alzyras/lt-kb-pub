@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Livonijos magistras Burchardas Harenas su savo ordino riteriais ir kariais iš Livonijos išsirengė į karą.
+Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.
 
 ## Teiginiai
 
 <a id="claim-t-186188"></a>
 - t-001
   global_id: t-186188
-  teiginys: 'Livonijos magistras Burchardas Harenas su savo ordino riteriais ir kariais iš Livonijos išsirengė į karą.'
+  teiginys: 'Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Livonijos magistras Burchardas Harenas su savo ordino riteriais ir kariais iš Livonijos išsirengė į karą.'
+  santrauka: 'Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atvyko į

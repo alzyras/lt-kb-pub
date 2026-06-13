@@ -52,10 +52,10 @@ Nenurodyta
 <a id="claim-t-62431"></a>
 - t-002
   global_id: t-62431
-  teiginys: 'Dusburgietis teigia, kad siekdamas pagrįsti kryžiuočių užkariavimus Prūsijoje ir jau kuris metas vedamą karą prieš Lietuvą, parodyti Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.).'
+  teiginys: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Siekdamas pagrįsti kryžiuočių

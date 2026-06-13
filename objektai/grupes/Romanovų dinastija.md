@@ -38,12 +38,13 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   global_id: t-66061
   teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
   pagrindžia:
+    - c-002
     - c-003
 
 <a id="claim-t-66062"></a>
 - t-003
   global_id: t-66062
-  teiginys: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
+  teiginys: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
   pagrindžia:
     - c-002
 
@@ -72,6 +73,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     - t-001
 
 - c-002
+  santrauka: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^32) ĮVADAS
@@ -122,7 +124,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/įgula]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Hohenzollernai]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

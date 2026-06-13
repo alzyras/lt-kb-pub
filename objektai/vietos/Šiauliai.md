@@ -37,14 +37,14 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 <a id="claim-t-182785"></a>
 - t-002
   global_id: t-182785
-  teiginys: 'Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada (ankščiau vadinta Kauno husarų).'
+  teiginys: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-182786"></a>
 - t-003
   global_id: t-182786
-  teiginys: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab.'
+  teiginys: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža buvo Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža.'
   pagrindžia:
     - c-003
 
@@ -74,6 +74,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-001
 
 - c-002
+  santrauka: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmoji kovų fazė: Vilniaus
@@ -92,6 +93,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-002
 
 - c-003
+  santrauka: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža buvo Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš

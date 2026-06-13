@@ -44,20 +44,21 @@ Nenurodyta
 <a id="claim-t-66632"></a>
 - t-001
   global_id: t-66632
-  teiginys: 'Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo.'
+  teiginys: 'Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66633"></a>
 - t-002
   global_id: t-66633
-  teiginys: 'Dusburgietis teigia, kad jis pasakė: „Nesunku atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės, bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime.'
+  teiginys: 'Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas Štangė padrąsino savo būrį ir prasiveržė pro lietuvių kariuomenę prie Junigedos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdę, broliai ir kiti,
@@ -76,6 +77,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
@@ -98,4 +100,5 @@ Nenurodyta
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Konradas Štangė]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/papilys]]

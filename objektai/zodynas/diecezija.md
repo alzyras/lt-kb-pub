@@ -101,7 +101,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Cvinglis]]
 - [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/grupes/Jastžembcų giminė]]
 - [[objektai/asmenys/Jokūbas Babičius]]
@@ -146,3 +145,4 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]
+- [[objektai/asmenys/Dovydas]]

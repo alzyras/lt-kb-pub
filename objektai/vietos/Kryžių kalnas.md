@@ -36,7 +36,7 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
 <a id="claim-t-183612"></a>
 - t-002
   global_id: t-183612
-  teiginys: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
+  teiginys: 'Priklausomybės dešimtmečiais Kryžių kalnas išryškino kryžiaus kaip stiprybės ir vilties šaltinio prasmę.'
   pagrindžia:
     - c-001
 

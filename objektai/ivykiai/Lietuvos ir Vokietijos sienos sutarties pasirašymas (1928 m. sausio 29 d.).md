@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-45361"></a>
 - t-001
   global_id: t-45361
-  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  teiginys: '1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva įgijo neužšalantį

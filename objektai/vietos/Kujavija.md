@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-90737"></a>
 - t-001
   global_id: t-90737
-  teiginys: 'Dusburgietis teigia, kad tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys būdami netikėliai ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo 160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo ir Lenčicos, 1229 ir 1241—1243 m..'
+  teiginys: 'Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.'
   pagrindžia:
     - c-006
 
@@ -44,28 +44,28 @@ amziai:
 <a id="claim-t-90739"></a>
 - t-003
   global_id: t-90739
-  teiginys: 'Dusburgietis teigia, kad apie laikos nutraukimą ir Kujavijos žemės nuniokojimą Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir visokiausias malones, kurių broliai ne kartą jam, patekusiam į bėdą, yra teikę, plėšė slaptomis brolių valdinius, vienus.'
+  teiginys: 'Sventopelkas slaptai plėšė brolių valdinius, o vėliau įsiveržė į kunigaikščiui Kazimierui priklausiusią Kujaviją.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-90740"></a>
 - t-004
   global_id: t-90740
-  teiginys: 'Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169.'
+  teiginys: 'Kunigaikštis davė Dobrynės broliams žemės plotą arba dvarą Kujavijoje, pavadintą Sedlcais.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-90741"></a>
 - t-005
   global_id: t-90741
-  teiginys: 'Dusburgietis teigia, kad galop, viešai išsižadėjęs taikos, įniko kaip ir seniau persekioti krikščionis ir, sutelkęs didelę kariuomenę, netikėtai įsiveržė į kunigaikščiui Kazimierui priklausomą Kujavijos žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių.'
+  teiginys: 'Sventopelkas, viešai išsižadėjęs taikos, įsiveržė į kunigaikščio Kazimiero Kujaviją ir ją nuniokojo.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-90742"></a>
 - t-006
   global_id: t-90742
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.'
   pagrindžia:
     - c-008
 
@@ -86,9 +86,16 @@ amziai:
 <a id="claim-t-90745"></a>
 - t-009
   global_id: t-90745
-  teiginys: 'Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
+  teiginys: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero Kujaviją, ją degino, plėšė ir išsivarė daug krikščionių į nelaisvę.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-184169"></a>
+- t-010
+  global_id: t-184169
+  teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -125,6 +132,7 @@ amziai:
     - t-007
 
 - c-003
+  santrauka: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero Kujaviją, ją degino, plėšė ir išsivarė daug krikščionių į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
@@ -183,6 +191,7 @@ amziai:
     - t-002
 
 - c-006
+  santrauka: 'Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
@@ -197,6 +206,7 @@ amziai:
     - t-001
 
 - c-007
+  santrauka: 'Kunigaikštis davė Dobrynės broliams žemės plotą arba dvarą Kujavijoje, pavadintą Sedlcais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė

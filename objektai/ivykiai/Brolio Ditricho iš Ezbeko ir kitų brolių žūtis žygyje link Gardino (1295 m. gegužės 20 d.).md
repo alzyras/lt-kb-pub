@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-66504"></a>
 - t-001
   global_id: t-66504
-  teiginys: 'Dusburgietis teigia, kad apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei netikėlių žūtį 1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo.'
+  teiginys: '1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
@@ -94,5 +95,7 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Ordino brolis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Heinmanas, vardu Kindas]]
 - [[objektai/asmenys/Listas]]

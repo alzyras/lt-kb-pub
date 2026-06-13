@@ -27,7 +27,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 <a id="claim-t-80250"></a>
 - t-002
   global_id: t-80250
-  teiginys: 'Kaunamojo poveikio spindulys - apie 10 m. Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė užėmusi liniją Aukštakalnis-Salakas-Kiemionys ir turėjo pulti Turmanto kryptimi.'
+  teiginys: '4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi.'
   pagrindžia:
     - c-001
 

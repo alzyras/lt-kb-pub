@@ -58,3 +58,4 @@ tags:
 - [[objektai/asmenys/Walenrodto]]
 - [[objektai/asmenys/M. P. Sapiega]]
 - [[objektai/zodynas/karakolė]]
+- [[objektai/daiktai/Šalmas „Pappenheimer“]]

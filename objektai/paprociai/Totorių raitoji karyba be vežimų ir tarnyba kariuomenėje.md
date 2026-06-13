@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-87227"></a>
 - t-001
   global_id: t-87227
-  teiginys: 'Seniau totoriai vertėsi audinių ir siūlų prekyba.'
+  teiginys: 'Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų dau­
@@ -86,3 +87,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/ulonai]]
+- [[objektai/grupes/Lietuvos totoriai]]

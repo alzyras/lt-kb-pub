@@ -34,20 +34,21 @@ amziai:
 <a id="claim-t-78384"></a>
 - t-002
   global_id: t-78384
-  teiginys: '1561 m. Livonijos konfederacijos likusi dalis buvo padalinta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.'
+  teiginys: '1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78385"></a>
 - t-003
   global_id: t-78385
-  teiginys: 'Karalius Steponas Batoras ir LDK didysis etmonas Mikalojus Radvila Rudasis suvokė, kad siekiant nutraukti rusų veržimąsi į Livoniją reikia atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus Vengriškasis-lenkiškasis kardas.'
+  teiginys: 'Steponas Batoras ir Mikalojus Radvila Rudasis siekė atkirsti Livoniją nuo Rusijos ir perkelti karo veiksmus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1561 m. Livonijos konfederacija nustojo egzis-
@@ -102,5 +103,4 @@ amziai:
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]

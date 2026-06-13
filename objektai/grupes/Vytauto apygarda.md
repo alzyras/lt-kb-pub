@@ -37,7 +37,7 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 <a id="claim-t-41201"></a>
 - t-002
   global_id: t-41201
-  teiginys: '1951 m. kovo 19 d. MGB kariuomenei puolant dvi žemines žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
+  teiginys: '1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
     - t-001
 
 - c-002
+  santrauka: '1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PASTOVIAIO)
@@ -88,7 +89,6 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 ### Susiję objektai
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
 - [[objektai/asmenys/Vaižgantas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]

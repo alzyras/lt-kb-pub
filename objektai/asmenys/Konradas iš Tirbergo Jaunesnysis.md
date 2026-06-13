@@ -37,27 +37,28 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 <a id="claim-t-175241"></a>
 - t-002
   global_id: t-175241
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
+  teiginys: 'Konradas iš Tirbergo Jaunesnysis buvo dvyliktas Prūsijos magistras ir vadovavo pusšeštų metų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-175242"></a>
 - t-003
   global_id: t-175242
-  teiginys: 'Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs.'
+  teiginys: 'Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-175243"></a>
 - t-004
   global_id: t-175243
-  teiginys: 'Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį.'
+  teiginys: 'Konradas iš Tirbergo Jaunesnysis su didele kariuomene puolė Bisenės pilį, ją užėmė ir pavertė pelenais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas iš Tirbergo Jaunesnysis buvo dvyliktas Prūsijos magistras ir vadovavo pusšeštų metų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     214 (209). Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
@@ -74,6 +75,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     - t-002
 
 - c-002
+  santrauka: 'Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     202 (197). Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
@@ -91,6 +93,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     - t-003
 
 - c-003
+  santrauka: 'Konradas iš Tirbergo Jaunesnysis su didele kariuomene puolė Bisenės pilį, ją užėmė ir pavertė pelenais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     222 (217). Apie Lietuvos pilies, vardu Bisenė, užkariavimą
@@ -138,5 +141,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas]]
 - [[objektai/ivykiai/Bisenės pilies užkariavimas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]

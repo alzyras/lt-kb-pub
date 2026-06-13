@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-54242"></a>
 - t-001
   global_id: t-54242
-  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijų Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.'
+  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.'
   pagrindžia:
     - c-001
 

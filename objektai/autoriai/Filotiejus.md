@@ -28,13 +28,14 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 <a id="claim-t-30614"></a>
 - t-001
   global_id: t-30614
-  teiginys: 'Eleazaro vienuolyno vienuolis Filotiejus laiške Vosyliui III rašė apie siekį jėga atimti žemes iš Lietuvos.'
+  teiginys: 'Eleazaro vienuolyno vienuolis Filotiejus laiške Vosyliui III rašė apie Maskvą kaip trečiąją Romą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eleazaro vienuolyno vienuolis Filotiejus laiške Vosyliui III rašė apie Maskvą kaip trečiąją Romą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O «antrajai Romai »
@@ -59,4 +60,3 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]
 - [[objektai/posakiai/sobiratel’ russkich žemeli]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

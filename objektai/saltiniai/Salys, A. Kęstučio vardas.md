@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-100209"></a>
 - t-001
   global_id: t-100209
-  teiginys: ': Kęstučio vardas, LE, t.'
+  teiginys: 'A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Kučinskas (Kučas), A. : _Kęstutis,_ Marijampolė 1938 (plati

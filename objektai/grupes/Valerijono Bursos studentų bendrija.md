@@ -55,7 +55,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 <a id="claim-t-55072"></a>
 - t-004
   global_id: t-55072
-  teiginys: 'Studentų bendriją ir jos namą buvo norima pavadinti Valerijono Bursa.'
+  teiginys: 'Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa.'
   pagrindžia:
     - c-003
 
@@ -69,7 +69,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 <a id="claim-t-81661"></a>
 - t-006
   global_id: t-81661
-  teiginys: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nesvarbu, kokios tautybės jie būtų.'
+  teiginys: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.'
   pagrindžia:
     - c-004
 
@@ -167,7 +167,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     - t-005
 
 - c-004
-  santrauka: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nesvarbu, kokios tautybės jie būtų.'
+  santrauka: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Praeterea ut iidem studiosi, qui

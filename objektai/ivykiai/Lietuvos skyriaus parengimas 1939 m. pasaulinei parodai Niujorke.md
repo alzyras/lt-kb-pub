@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-20358"></a>
 - t-001
   global_id: t-20358
-  teiginys: '1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija parengė specialų Lietuvos skyrių.'
+  teiginys: '1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialaus Lietuvos skyriaus parengimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialaus Lietuvos skyriaus parengimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-

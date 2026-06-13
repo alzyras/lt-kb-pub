@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-77926"></a>
 - t-001
   global_id: t-77926
-  teiginys: 'Nors valdžia ir žandarai knygnešius gaudė ir baudė dar Knygnešys.'
+  teiginys: 'J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susiformavo tvirta kontrabandinės

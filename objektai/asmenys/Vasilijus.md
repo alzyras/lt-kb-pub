@@ -153,6 +153,7 @@ Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Ku
 - [[objektai/zodynas/globėjas]]
 - [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas]]
 - [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]
+- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]
 - [[objektai/asmenys/Vasilijus Čartoriskis]]
 - [[objektai/posakiai/daugiau nebelieti krikščionių kraujo]]
 - [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]

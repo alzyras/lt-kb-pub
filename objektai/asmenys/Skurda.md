@@ -20,13 +20,14 @@ Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniek
 <a id="claim-t-60436"></a>
 - t-001
   global_id: t-60436
-  teiginys: 'Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.'
+  teiginys: 'Skurda, kitos Sūduvos dalies vadas, su savo žmonėmis pasitraukė į Lietuvos žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skurda, kitos Sūduvos dalies vadas, su savo žmonėmis pasitraukė į Lietuvos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,

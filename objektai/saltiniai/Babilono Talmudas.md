@@ -20,20 +20,21 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
 <a id="claim-t-78116"></a>
 - t-001
   global_id: t-78116
-  teiginys: 'Ne veltui sklido gandai, kad visi Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
+  teiginys: 'Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78117"></a>
 - t-002
   global_id: t-78117
-  teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  teiginys: 'Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
@@ -52,6 +53,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
     - t-002
 
 - c-002
+  santrauka: 'Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-

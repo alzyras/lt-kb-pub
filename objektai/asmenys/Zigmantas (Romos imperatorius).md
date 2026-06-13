@@ -44,7 +44,7 @@ periodo_grupes:
 <a id="claim-t-87381"></a>
 - t-003
   global_id: t-87381
-  teiginys: 'Nors iš kailio nėrėsi imperatorius Zigmantas ir diJurgis Lengvenaitis (vert.'
+  teiginys: 'Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.'
   pagrindžia:
     - c-001
 
@@ -65,6 +65,7 @@ periodo_grupes:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors iš kailio nėrėsi imperatorius Zigmantas ir di-
@@ -339,6 +340,7 @@ periodo_grupes:
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 - [[objektai/posakiai/„niekieno neatsiklausdamas“]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]

@@ -42,28 +42,28 @@ Nenurodyta
 <a id="claim-t-87024"></a>
 - t-001
   global_id: t-87024
-  teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
+  teiginys: 'Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-87025"></a>
 - t-002
   global_id: t-87025
-  teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
+  teiginys: 'Dlugošo tekste prūsiškos bombardos minimos kaip stovėjusios pievoje prie medžio, kur buvo kankinamas Narimundas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-87026"></a>
 - t-003
   global_id: t-87026
-  teiginys: 'Patrankų padariniai ir anglų lankininkų narsa bei sumanumas mūšiuose lėmė didelius Lietuvos patirtus smūgius.'
+  teiginys: 'Neseniai pažintų patrankų padariniai ir anglų lankininkų narsa lėmė didelius Lietuvos patirtus smūgius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Patrankų padariniai ir anglų lankininkų narsa bei sumanumas mūšiuose lėmė didelius Lietuvos patirtus smūgius.'
+  santrauka: 'Neseniai pažintų patrankų padariniai ir anglų lankininkų narsa lėmė didelius Lietuvos patirtus smūgius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto visi
@@ -92,6 +92,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Dlugošo tekste prūsiškos bombardos minimos kaip stovėjusios pievoje prie medžio, kur buvo kankinamas Narimundas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-
@@ -110,6 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­

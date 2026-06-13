@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-183686"></a>
 - t-002
   global_id: t-183686
-  teiginys: 'Pagrindiniai tokios kariuomenės ginklai buvo ietys ir kalavijai.'
+  teiginys: 'Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Pagrindiniai tokios kariuomenės ginklai buvo ietys ir kalavijai.'
+  santrauka: 'Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šių dalinių kovinė vertė buvo
@@ -111,7 +111,6 @@ Nenurodyta
 - [[objektai/asmenys/Margalis (Margirius )]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
 - [[objektai/daiktai/Skobnis]]
 - [[objektai/daiktai/Skydas]]
 - [[objektai/autoriai/Z. Raulinaitis]]

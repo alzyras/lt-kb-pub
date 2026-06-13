@@ -30,13 +30,14 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
 <a id="claim-t-60249"></a>
 - t-001
   global_id: t-60249
-  teiginys: 'Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas, Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho ir iš Vildenbergo pirmagimiai sūnūs, valdovas iš Lichtenbergo ir Plichto su savo broliu iš.'
+  teiginys: '1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
@@ -57,4 +58,5 @@ Dusburgietis teigia, kad 1322 viešpaties metais atvyko į Prūsijos žemę garb
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Bernardas]]
 - [[objektai/asmenys/Fridrichas iš Vildenbergo]]

@@ -29,7 +29,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
 <a id="claim-t-45675"></a>
 - t-002
   global_id: t-45675
-  teiginys: 'Lenkijos ir Lietuvos federacijos planas suiro, o triumfavo...'
+  teiginys: 'Lenkijos ir Lietuvos federacijos planas suiro, o Maskva tai vertino kaip didžiausią savo diplomatijos laimėjimą.'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
 <a id="claim-t-183360"></a>
 - t-005
   global_id: t-183360
-  teiginys: 'Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.'
+  teiginys: 'Lietuva ir Lenkija sutarė priimti Himanso planą kaip derybų pagrindą.'
   pagrindžia:
     - c-004
 
@@ -86,6 +86,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
     - t-001
 
 - c-003
+  santrauka: 'Lenkijos ir Lietuvos federacijos planas suiro, o Maskva tai vertino kaip didžiausią savo diplomatijos laimėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos federacijos planas suiro, o triumfavo... Maskva, tai

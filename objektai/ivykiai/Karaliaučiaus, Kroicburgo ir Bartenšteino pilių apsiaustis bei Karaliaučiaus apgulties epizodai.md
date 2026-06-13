@@ -47,14 +47,14 @@ Nenurodyta
 <a id="claim-t-59177"></a>
 - t-001
   global_id: t-59177
-  teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
+  teiginys: 'Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-59178"></a>
 - t-002
   global_id: t-59178
-  teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
+  teiginys: 'Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai.'
   pagrindžia:
     - c-005
 
@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-59180"></a>
 - t-004
   global_id: t-59180
-  teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo. Kiti, apspitę jį, didžiai stebėjosi, nežinodami.'
+  teiginys: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
   pagrindžia:
     - c-006
 
@@ -89,7 +89,7 @@ Nenurodyta
 <a id="claim-t-59183"></a>
 - t-007
   global_id: t-59183
-  teiginys: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
+  teiginys: 'Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
   pagrindžia:
     - c-002
 
@@ -122,6 +122,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
@@ -176,6 +177,7 @@ Nenurodyta
     - t-006
 
 - c-005
+  santrauka: 'Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai broliai minėtoje pilyje atsidūrė bado akivaizdoje, jie ryžosi verčiau žūti kovoje, nei
@@ -197,6 +199,7 @@ Nenurodyta
     - t-002
 
 - c-006
+  santrauka: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,

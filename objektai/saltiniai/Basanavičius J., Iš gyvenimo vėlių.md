@@ -32,34 +32,35 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 <a id="claim-t-60935"></a>
 - t-001
   global_id: t-60935
-  teiginys: 'Dusburgietis teigia, kad čia, pasak vietos žmonių, buvę du žuvingi ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183).'
+  teiginys: 'Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-60936"></a>
 - t-002
   global_id: t-60936
-  teiginys: 'Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).'
+  teiginys: 'Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60937"></a>
 - t-003
   global_id: t-60937
-  teiginys: 'Dusburgietis teigia, kad per 2 km į vakarus nuo Šereitlaukio yra apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint, ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių..., p. 182; SZM, p. 288—289; Remeika J..'
+  teiginys: 'Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60938"></a>
 - t-004
   global_id: t-60938
-  teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
+  teiginys: 'Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1344 m. čia minima  pilis — huse Sareibe
@@ -74,6 +75,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - t-003
 
 - c-002
+  santrauka: 'Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Didelė kalvos dalis, Nemuno paplauta,
@@ -89,6 +91,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - t-002
 
 - c-003
+  santrauka: 'Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
@@ -101,6 +104,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
     - t-004
 
 - c-004
+  santrauka: 'Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia, pasak vietos žmonių, buvę du žuvingi

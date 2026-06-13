@@ -43,20 +43,21 @@ Nenurodyta
 <a id="claim-t-62742"></a>
 - t-001
   global_id: t-62742
-  teiginys: 'Dusburgietis teigia, kad todėl, įsibrovę į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.'
+  teiginys: 'Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62743"></a>
 - t-002
   global_id: t-62743
-  teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
+  teiginys: '1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to broliai,
@@ -75,6 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis
@@ -97,3 +99,6 @@ Nenurodyta
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

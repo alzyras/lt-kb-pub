@@ -29,14 +29,14 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 <a id="claim-t-64646"></a>
 - t-001
   global_id: t-64646
-  teiginys: 'Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.'
+  teiginys: 'Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-64647"></a>
 - t-002
   global_id: t-64647
-  teiginys: 'Talmanto vertimas tiesiog iš originalo.'
+  teiginys: 'J. Talmantas „Venecijos pirklį“ išvertė tiesiog iš originalo.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Talmantas „Venecijos pirklį“ išvertė tiesiog iš originalo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     10. Šekspyro VENECIJOS PIRKLYS. J. Talmanto vertimas tiesiog
@@ -63,6 +64,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     - t-002
 
 - c-002
+  santrauka: 'Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     —

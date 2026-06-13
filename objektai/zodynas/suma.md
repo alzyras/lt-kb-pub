@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 <a id="claim-t-58926"></a>
 - t-001
   global_id: t-58926
-  teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
+  teiginys: 'Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1. Apie evangeliją: pradžioje buvo žodis
@@ -60,9 +61,8 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
 - [[objektai/zodynas/bursa konviktas]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
-- [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
-- [[objektai/asmenys/Laurynas Volskis]]
-- [[objektai/asmenys/Marcelis Suchodolskis]]
-- [[objektai/asmenys/Stanislovas Goreckis]]
-- [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
+- [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]

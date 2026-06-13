@@ -25,13 +25,14 @@ Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (o
 <a id="claim-t-100012"></a>
 - t-001
   global_id: t-100012
-  teiginys: 'Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis ».'
+  teiginys: 'Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal

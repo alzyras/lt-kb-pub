@@ -30,20 +30,21 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
 <a id="claim-t-93182"></a>
 - t-001
   global_id: t-93182
-  teiginys: 'Vytautas Didysis priėmė Benediktą Makrą, gausiai jį apdovanojo ir pakėlė į savo riterius.'
+  teiginys: 'Vytautas Didysis priėmė Benediktą Makrą Lietuvoje, gausiai jį apdovanojo ir pakėlė į savo riterius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-93183"></a>
 - t-002
   global_id: t-93183
-  teiginys: '12 d. patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą Benediktą Makrą, kad tas ištirtų Žemaitijos sienas ir išspręstų kilusį dėl jų Vytauto ir Ordino ginčą.'
+  teiginys: 'Benediktas Makras buvo pasiųstas į Lietuvą ištirti Žemaitijos sienų ir išspręsti Vytauto ginčo su Ordinu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas Didysis priėmė Benediktą Makrą Lietuvoje, gausiai jį apdovanojo ir pakėlė į savo riterius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mat, Vokiečių Ordinas,
@@ -64,6 +65,7 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
     - t-001
 
 - c-002
+  santrauka: 'Benediktas Makras buvo pasiųstas į Lietuvą ištirti Žemaitijos sienų ir išspręsti Vytauto ginčo su Ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     12 d. patvirtino Torno taiką,
@@ -84,3 +86,4 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

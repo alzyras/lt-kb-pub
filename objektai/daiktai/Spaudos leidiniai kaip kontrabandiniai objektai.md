@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-19594"></a>
 - t-001
   global_id: t-19594
-  teiginys: 'Vyskupas slapta suorganizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose ir nelegalų jos platinimą Lietuvoje.'
+  teiginys: 'Rytprūsiuose slapta spausdinta tradicinio raidyno lietuviška spauda buvo nelegaliai platinama Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -68,6 +68,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rytprūsiuose slapta spausdinta tradicinio raidyno lietuviška spauda buvo nelegaliai platinama Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl jų bemaž niekas ir ne-

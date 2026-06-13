@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-183313"></a>
 - t-003
   global_id: t-183313
-  teiginys: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
+  teiginys: 'Lietuviškų kirilikinių knygų boikotą skatino valdžios draudimai lietuviškoms mokykloms ir diskriminacinės priemonės prieš Katalikų bažnyčią.'
   pagrindžia:
     - c-002
 
@@ -78,7 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
+  santrauka: 'Lietuviškų kirilikinių knygų boikotą skatino valdžios draudimai lietuviškoms mokykloms ir diskriminacinės priemonės prieš Katalikų bažnyčią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį

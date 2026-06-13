@@ -51,14 +51,14 @@ Nenurodyta
 <a id="claim-t-89396"></a>
 - t-003
   global_id: t-89396
-  teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su.'
+  teiginys: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-89397"></a>
 - t-004
   global_id: t-89397
-  teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
+  teiginys: 'Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Sembos vyskupo pilį Fišhauzeną.'
   pagrindžia:
     - c-002
 
@@ -96,6 +96,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį

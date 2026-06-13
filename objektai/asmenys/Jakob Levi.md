@@ -27,13 +27,14 @@ Jakob Levi, iš Vilniaus, 1427 m. rašė hebrajiškas knygas ir turėjo Moreno, 
 <a id="claim-t-87697"></a>
 - t-001
   global_id: t-87697
-  teiginys: 'Jakob Levi, iš Vilniaus, 1427 m. rašė hebrajiškas knygas ir turėjo Moreno, t.'
+  teiginys: 'Vilnietis Jakob Levi 1427 m. rašė hebrajiškas knygas ir turėjo teologijos daktaro Moreno vardą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilnietis Jakob Levi 1427 m. rašė hebrajiškas knygas ir turėjo teologijos daktaro Moreno vardą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau Vytauto laikais Vil­

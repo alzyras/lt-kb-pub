@@ -46,27 +46,29 @@ Nenurodyta
 <a id="claim-t-66552"></a>
 - t-001
   global_id: t-66552
-  teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
+  teiginys: 'Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66553"></a>
 - t-002
   global_id: t-66553
-  teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
+  teiginys: 'Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66554"></a>
 - t-003
   global_id: t-66554
-  teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
+  teiginys: 'Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva.'
   pagrindžia:
     - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
@@ -120,6 +122,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu Steinavas
@@ -147,3 +150,4 @@ Nenurodyta
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Teutonai]]

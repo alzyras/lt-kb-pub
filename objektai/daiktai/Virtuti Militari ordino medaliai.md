@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-40779"></a>
 - t-001
   global_id: t-40779
-  teiginys: 'S. A. Poniatovskis keliolika mūšio karininkų ir kareivių apdovanojo neseniai įsteigto Virtuti Militari ordino auksiniais ir sidabriniais medaliais.'
+  teiginys: 'Karalius S. A. Poniatovskis keliolika šio mūšio karininkų ir kareivių apdovanojo Virtuti Militari ordino aukso ir sidabro medaliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius S. A. Poniatovskis keliolika šio mūšio karininkų ir kareivių apdovanojo Virtuti Militari ordino aukso ir sidabro medaliais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     60 užmuštųjų. Iš tikrųjų jie turėjo būti bent

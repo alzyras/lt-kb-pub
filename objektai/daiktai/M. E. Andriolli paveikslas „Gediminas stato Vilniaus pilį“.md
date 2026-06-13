@@ -47,13 +47,14 @@ Nenurodyta
 <a id="claim-t-77930"></a>
 - t-001
   global_id: t-77930
-  teiginys: 'Gediminaičių dinastijai priklausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji Gediminas stato Vilniaus pilį.'
+  teiginys: 'M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminaičių dinastijai pri-
@@ -72,3 +73,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/M. E. Andriolli]]

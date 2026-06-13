@@ -19,7 +19,7 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 <a id="claim-t-21336"></a>
 - t-001
   global_id: t-21336
-  teiginys: 'Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.'
+  teiginys: 'Tarptautinėse misijose Afganistane ir kitose šalyse dalyvavo per du šimtus Lietuvos karių.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tarptautinėse misijose Afganistane ir kitose šalyse dalyvavo per du šimtus Lietuvos karių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi Lietuva neturi tinkamų priemonių apsaugoti savo oro erdvę,

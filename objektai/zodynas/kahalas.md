@@ -28,7 +28,7 @@ amziai:
 <a id="claim-t-86529"></a>
 - t-001
   global_id: t-86529
-  teiginys: 'Akademijos rektorius Juraha viderkafto mokestį nuo mūrinio namo priskyrė kahale investuotoms sumoms.'
+  teiginys: 'Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Akademijos rektorius Juraha viderkafto mokestį nuo mūrinio namo priskyrė kahale investuotoms sumoms.'
+  santrauka: 'Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­

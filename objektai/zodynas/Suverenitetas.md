@@ -219,5 +219,6 @@ Nenurodyta
 - [[objektai/posakiai/„seimokratija“]]
 - [[objektai/posakiai/„žingsnis po žingsnio“]]
 - [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
-- [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]
+- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]
+- [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]

@@ -31,35 +31,35 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 <a id="claim-t-59857"></a>
 - t-001
   global_id: t-59857
-  teiginys: 'Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.'
+  teiginys: 'Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59858"></a>
 - t-002
   global_id: t-59858
-  teiginys: 'Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m.'
+  teiginys: 'M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59859"></a>
 - t-003
   global_id: t-59859
-  teiginys: 'Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart.'
+  teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59860"></a>
 - t-004
   global_id: t-59860
-  teiginys: 'Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.'
+  teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-59861"></a>
 - t-005
   global_id: t-59861
-  teiginys: 'Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus, mirtį 1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį.'
+  teiginys: 'Konradas, imperatoriaus Fridricho II sūnus, 1251 m. užpuolė Apulijos karalystę ir Neapolį, bet kitais metais mirė nunuodytas.'
   pagrindžia:
     - c-007
 
@@ -73,13 +73,14 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 <a id="claim-t-59863"></a>
 - t-007
   global_id: t-59863
-  teiginys: 'Dusburgietis teigia, kad apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II nesantuokinio sūnaus, mirtį 1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį Sicilijos karaliumi, kurią jam davė popiežius Urbonas.'
+  teiginys: '1265 m. Karolis, popiežiaus Klemenso IV vainikuotas Sicilijos karaliumi, atėmė sostą ir gyvybę iš Manfredo, nesantuokinio Fridricho II sūnaus.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dievas jam buvo suteikęs tokių malonių,
@@ -98,6 +99,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-001
 
 - c-002
+  santrauka: 'M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
@@ -119,6 +121,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-002
 
 - c-003
+  santrauka: '1265 m. Karolis, popiežiaus Klemenso IV vainikuotas Sicilijos karaliumi, atėmė sostą ir gyvybę iš Manfredo, nesantuokinio Fridricho II sūnaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
@@ -135,6 +138,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-007
 
 - c-004
+  santrauka: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
@@ -171,6 +175,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-006
 
 - c-006
+  santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
@@ -191,6 +196,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-004
 
 - c-007
+  santrauka: 'Konradas, imperatoriaus Fridricho II sūnus, 1251 m. užpuolė Apulijos karalystę ir Neapolį, bet kitais metais mirė nunuodytas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,

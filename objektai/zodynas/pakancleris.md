@@ -34,7 +34,7 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 <a id="claim-t-70262"></a>
 - t-002
   global_id: t-70262
-  teiginys: 'Vienas pakancleris pripažino, kad nepildytų net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
+  teiginys: 'Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
     - t-001
 
 - c-002
+  santrauka: 'Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sis pastarasis, kaip karū­
@@ -92,7 +93,6 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/asmenys/Leonas Sapiega]]
-- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Radvila]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]

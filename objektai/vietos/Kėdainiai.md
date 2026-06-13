@@ -29,7 +29,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 <a id="claim-t-182770"></a>
 - t-001
   global_id: t-182770
-  teiginys: 'Variakojis su pirmuoju savanorių būriu paliko miestą ir atvyko į Kėdainius.'
+  teiginys: '1919 m. sausio 9 d. J. Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. sausio 9 d. J. Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 173

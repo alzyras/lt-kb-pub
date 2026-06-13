@@ -38,37 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-87199"></a>
-- t-001
-  global_id: t-87199
-  teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-87200"></a>
-- t-002
+- t-001
   global_id: t-87200
   teiginys: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
-    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv. Stanislovo katedra8.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -87,7 +66,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -96,7 +75,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šventaragis]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
-- [[objektai/zodynas/amžinoji ugnis Gabija]]

@@ -35,7 +35,7 @@ Brandenburgas: lietuvai jokios nau- dos. Lietuviai padėjo lenkams kariauti vien
 <a id="claim-t-72809"></a>
 - t-003
   global_id: t-72809
-  teiginys: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
+  teiginys: 'Brandenburgo hercogams atitekusi Ordino valstybė išaugo į pavojingą kaimyną ir germanizavo Mažosios Lietuvos lietuvius.'
   pagrindžia:
     - c-001
 

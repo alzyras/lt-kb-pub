@@ -31,13 +31,14 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
 <a id="claim-t-30544"></a>
 - t-001
   global_id: t-30544
-  teiginys: 'A. Tautavičius tyrinėjo pilkapius Rytų Lietuvoje, Kapitoniškes ir Vilniaus žemutinės pilies teritoriją.'
+  teiginys: 'A. Tautavičius tyrinėjo Rytų Lietuvos ir Kapitoniškių pilkapius bei Vilniaus žemutinės pilies teritoriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Tautavičius tyrinėjo Rytų Lietuvos ir Kapitoniškių pilkapius bei Vilniaus žemutinės pilies teritoriją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^76) ĮVADAS

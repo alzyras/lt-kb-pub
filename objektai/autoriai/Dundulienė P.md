@@ -22,7 +22,7 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
 <a id="claim-t-64573"></a>
 - t-001
   global_id: t-64573
-  teiginys: 'Dusburgietis teigia, kad žinomi balti ir juodi Perkūno žirgai, šio plauko žirgai buvę ypatingai gerbiami (Dundulienė P., Arklys..., p. 83—101).'
+  teiginys: 'Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
     - t-002
 
 - c-002
+  santrauka: 'Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarp šių pilių, netoli ežero, pavadinto Pipino ežeru,

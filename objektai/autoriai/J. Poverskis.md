@@ -46,7 +46,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 <a id="claim-t-64634"></a>
 - t-003
   global_id: t-64634
-  teiginys: 'J. Poverskis atskleidė Dusburgiečio panaudotą žuvusį XIII a. vidurio šaltinį.'
+  teiginys: 'J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio šaltinį, kuris yra neišlikęs.'
   pagrindžia:
     - c-001
 
@@ -67,7 +67,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'J. Poverskis atskleidė Dusburgiečio panaudotą žuvusį XIII a. vidurio šaltinį.'
+  santrauka: 'J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio šaltinį, kuris yra neišlikęs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     G. Liabuda, tyrinėdamas XIII—XV a. Pamario bei Ordino valstybės analistiką, be kitų

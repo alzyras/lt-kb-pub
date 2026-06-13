@@ -27,13 +27,14 @@ amziai:
 <a id="claim-t-181977"></a>
 - t-001
   global_id: t-181977
-  teiginys: 'Pasuko Kijevo link, paėmė iš jo 3000 rublių kontribucijos.'
+  teiginys: 'Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­

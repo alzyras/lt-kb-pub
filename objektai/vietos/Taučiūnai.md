@@ -34,7 +34,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 <a id="claim-t-172014"></a>
 - t-002
   global_id: t-172014
-  teiginys: 'Tačiau kitą akimirką į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
+  teiginys: 'Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     - t-001
 
 - c-002
+  santrauka: 'Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Raudonarmiečiai

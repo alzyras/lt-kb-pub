@@ -21,13 +21,14 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
 <a id="claim-t-95923"></a>
 - t-001
   global_id: t-95923
-  teiginys: 'Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita.'
+  teiginys: 'Vytautui reikėjo sudaryti kompromisą su viena iš dviejų Lietuvos nepriklausomybei grėsusių valstybių, kad galėtų kovoti su kita.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautui reikėjo sudaryti kompromisą su viena iš dviejų Lietuvos nepriklausomybei grėsusių valstybių, kad galėtų kovoti su kita.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Abi tos valstybės trokšta Lietuvos ir jos
@@ -50,4 +51,5 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -75,4 +75,5 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 - [[objektai/grupes/Konstancos suvažiavimas]]
 - [[objektai/ivykiai/Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/posakiai/brangią žinių kasyklą]]
 - [[objektai/zodynas/grašis]]

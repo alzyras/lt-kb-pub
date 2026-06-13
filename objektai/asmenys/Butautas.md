@@ -57,9 +57,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Goštauto liepa]]
-- [[objektai/autoriai/J. Fijałek]]
 - [[objektai/asmenys/Vaidotas]]
-- [[objektai/grupes/Valimantaičiai]]
 - [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
 - [[objektai/asmenys/Survila]]

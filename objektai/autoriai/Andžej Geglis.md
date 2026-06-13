@@ -60,22 +60,15 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   pagrindžia:
     - c-003
 
-<a id="claim-t-71500"></a>
-- t-006
-  global_id: t-71500
-  teiginys: 'LIETUVOS ATSIKŪRIMAS p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Geglis.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-71501"></a>
-- t-007
+- t-006
   global_id: t-71501
   teiginys: 'Andžej Geglis buvo teksto „XVIII a. linijinė taktika“ autorius ir dailininkas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71502"></a>
-- t-008
+- t-007
   global_id: t-71502
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
@@ -91,7 +84,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -138,7 +131,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   statusas: verified
   pagrindžia:
     - t-001
-    - t-008
+    - t-007
 
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -153,8 +146,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-006
+    - t-008
     - t-002
 
 ## Ryšiai

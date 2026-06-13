@@ -22,13 +22,14 @@ tags:
 <a id="claim-t-100077"></a>
 - t-001
   global_id: t-100077
-  teiginys: 'Šitaip pirmą kartą buvo įvykdytas prancūzų riterio Philippe de Mezières siūlymas — į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius^26.'
+  teiginys: 'Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     pavedė Krokuvos

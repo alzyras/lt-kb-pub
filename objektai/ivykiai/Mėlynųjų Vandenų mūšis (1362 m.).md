@@ -44,35 +44,35 @@ Nenurodyta
 <a id="claim-t-171474"></a>
 - t-001
   global_id: t-171474
-  teiginys: 'Pergalės tarptautinė reikšmė Algirdo pajėgų žygis prieš totorius ir pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
+  teiginys: 'Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-171475"></a>
 - t-002
   global_id: t-171475
-  teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
+  teiginys: 'Istorinė tradicija teigia, kad Algirdas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-171477"></a>
 - t-003
   global_id: t-171477
-  teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+  teiginys: 'Rogožos metraštyje prie 1363 m. nurodoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-171478"></a>
 - t-004
   global_id: t-171478
-  teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  teiginys: 'Motiejus Strijkovskis perteikė tradiciją, kad Algirdas ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-171479"></a>
 - t-005
   global_id: t-171479
-  teiginys: 'Didžiausia tikimybė, kad Mėlynieji Vandenys, tai Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
+  teiginys: 'Labiausiai tikėtina, kad Mėlynieji Vandenys yra Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
   pagrindžia:
     - c-002
 
@@ -101,6 +101,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Labiausiai tikėtina, kad Mėlynieji Vandenys yra Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didžiausia tikimybė, kad Mėlynieji Van-
@@ -126,6 +127,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Algirdo pajėgų pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi po mūšio buvo nusiaub-
@@ -152,6 +154,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Rogožos metraštyje prie 1363 m. nurodoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -190,4 +193,5 @@ Nenurodyta
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Motiejus Strijkovskis]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]

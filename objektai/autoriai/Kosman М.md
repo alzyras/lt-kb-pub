@@ -19,13 +19,14 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
 <a id="claim-t-60731"></a>
 - t-001
   global_id: t-60731
-  teiginys: 'Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra buvę (Kosman М., Drogi zaniku..., р.'
+  teiginys: 'M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     A. Mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский

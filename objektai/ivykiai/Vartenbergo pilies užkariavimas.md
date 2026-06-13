@@ -36,13 +36,14 @@ Nenurodyta
 <a id="claim-t-62522"></a>
 - t-001
   global_id: t-62522
-  teiginys: 'Dusburgietis teigia, kad apie Vartenbergo pilies užkariavimą Pagonys, tiek kartų ir taip gausiai lieję krikščionių kraują, ir toliau nesiliovė jų persekioję.'
+  teiginys: 'Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Vartenbergo pilies užkariavimą
@@ -57,3 +58,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Sūduviai]]

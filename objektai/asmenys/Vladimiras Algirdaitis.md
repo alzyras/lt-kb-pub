@@ -2,7 +2,6 @@
 tipas: asmuo
 pavadinimas: 'Vladimiras Algirdaitis'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -31,7 +30,7 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 <a id="claim-t-182865"></a>
 - t-001
   global_id: t-182865
-  teiginys: 'Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius valsčius (« volosti »).'
+  teiginys: '1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.'
   pagrindžia:
     - c-001
 
@@ -52,6 +51,7 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip bėglys, prie jo pri­

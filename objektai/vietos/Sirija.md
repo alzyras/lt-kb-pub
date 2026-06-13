@@ -28,7 +28,7 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 <a id="claim-t-91383"></a>
 - t-001
   global_id: t-91383
-  teiginys: 'Dusburgietis teigia, kad ), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais ir aprašomi pastarųjų žygiai prieš Siriją bei kitas.'
+  teiginys: 'Kryžiaus žygių istorijos atpasakojime aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
   pagrindžia:
     - c-001
 

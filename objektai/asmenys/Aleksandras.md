@@ -40,14 +40,14 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 <a id="claim-t-89627"></a>
 - t-002
   global_id: t-89627
-  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  teiginys: '1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89628"></a>
 - t-003
   global_id: t-89628
-  teiginys: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.'
+  teiginys: 'Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1365 m. Kęstutis,
@@ -231,10 +232,12 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/daiktai/Aleksandro lektika]]
 - [[objektai/posakiai/Lietuvos reikalų neleidusi sutvarkyti laiko stoka]]
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/zodynas/Romos tikėjimas]]
 - [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
+- [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/zodynas/Zabójnica]]
+- [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/svečiai Svečių namai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]

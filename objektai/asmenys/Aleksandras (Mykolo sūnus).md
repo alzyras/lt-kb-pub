@@ -35,7 +35,7 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 <a id="claim-t-30194"></a>
 - t-002
   global_id: t-30194
-  teiginys: 'Greičiausiai dėl artimų ryšių su Gediminu, Aleksandras su sūnumi totorių ordoje buvo nužudyti.'
+  teiginys: 'Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
     - t-001
 
 - c-002
+  santrauka: 'Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Volgos totorių

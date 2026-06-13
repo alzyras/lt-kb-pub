@@ -31,7 +31,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 <a id="claim-t-73958"></a>
 - t-001
   global_id: t-73958
-  teiginys: 'Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn.'
+  teiginys: 'Sūduvos dykroje siena ėjo Lieponos paupiu iki Širvintos ir Širvintos krantu iki jos įtekėjimo į Šešupę.'
   pagrindžia:
     - c-002
 
@@ -56,22 +56,15 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-001
 
-<a id="claim-t-73962"></a>
-- t-005
-  global_id: t-73962
-  teiginys: '89 Šešuoliai 233 Šešupė 326, 333, 359 Šiauliai 68, 108, 168, 180 ; Šiaulių ekonomija 79 ; žr.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-73963"></a>
-- t-006
+- t-005
   global_id: t-73963
   teiginys: 'Salyno sutartimi ordinui palikta šiaurinė Suvalkų krašto dalis ir kairysis Šešupės krantas.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-73964"></a>
-- t-007
+- t-006
   global_id: t-73964
   teiginys: 'Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   pagrindžia:
@@ -131,7 +124,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-004
   santrauka: 'Salyno sutartimi ordinui palikta šiaurinė Suvalkų krašto dalis ir kairysis Šešupės krantas.'
@@ -144,36 +137,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
     ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
     rytuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    4, 24, 132
-    Šalūga R. 43
-    Šapoka Ad. 25, 41, 63, 64, 67, 69,
-    170, 179, 210, 244, 279, 289, 293,
-    319, 363, 370
-    Šarmaitis R. 42
-    Šaulys Jurgis 18
-    Šeduva 105
-    Šeptyckyj A., metr. 89
-    Šešuoliai 233
-    Šešupė 326, 333, 359
-    Šiauliai 68, 108, 168, 180 ; Šiaulių
-    ekonomija 79 ; žr. Saulės-Šiaulių
-    mūšis
-    Šidlauskas A. 50, 81
-    Šilutė 109
-    Šiluva 75
-    Širvinta 359
-    Šlapgirio senkapis 76
-    Šležas P. 60, 63, 66, 68, 69, 180,
-    210, 217, 257, 270, 279, 353, 362,
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

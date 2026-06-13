@@ -29,7 +29,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 <a id="claim-t-58881"></a>
 - t-002
   global_id: t-58881
-  teiginys: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
+  teiginys: 'Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
     - t-001
 
 - c-002
+  santrauka: 'Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
@@ -70,7 +71,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
     - t-002
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
+  santrauka: 'Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė

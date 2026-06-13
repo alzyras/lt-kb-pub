@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62694"></a>
 - t-001
   global_id: t-62694
-  teiginys: 'Dusburgietis teigia, kad ir kiti naujakrikščiai vėliau buvo valdomi, remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.'
+  teiginys: 'Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems.'
   pagrindžia:
     - c-001
     - c-002
@@ -49,6 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taip žiauriai jis
@@ -66,6 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taip smarkiai ir taip

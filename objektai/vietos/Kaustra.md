@@ -22,21 +22,21 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 <a id="claim-t-58572"></a>
 - t-001
   global_id: t-58572
-  teiginys: 'Dešiniajame Kaustros krante, į pietus nuo miesto, išliko aukštas piliakalnis su pilies griuvėsiais.'
+  teiginys: 'Dešiniajame Kaustros krante į pietus nuo miesto išliko aukštas piliakalnis su pilies griuvėsiais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58573"></a>
 - t-002
   global_id: t-58573
-  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  teiginys: 'Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Dešiniajame Kaustros krante, į pietus nuo miesto, išliko aukštas piliakalnis su pilies griuvėsiais.'
+  santrauka: 'Dešiniajame Kaustros krante į pietus nuo miesto išliko aukštas piliakalnis su pilies griuvėsiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aukštas piliakalnis su
@@ -50,6 +50,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     - t-001
 
 - c-002
+  santrauka: 'Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio

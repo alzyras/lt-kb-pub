@@ -21,20 +21,21 @@ tags:
 <a id="claim-t-40826"></a>
 - t-001
   global_id: t-40826
-  teiginys: 'Pervedus į lenkų frontą visą 6-ąjį pėstininkų pulką, jo kariai ir vadas Vidugirių kaime susitiko su pulko I batalionu.'
+  teiginys: 'Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, pulko kariai ir vadas Vidugiriuose susitiko su pulko I batalionu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-40827"></a>
 - t-002
   global_id: t-40827
-  teiginys: 'Batalionas ankstyvą popietį pasiekė Aukštadvarį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
+  teiginys: 'Batalionas ankstyvą popietę pasiekė Aukštadvarį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Batalionas ankstyvą popietę pasiekė Aukštadvarį ir išsirikiavo prieš 6-ojo pėstininkų Pilėnų Kunigaikščio Margio pulko štabą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Batalionas, [...], ankstyvą popietį pasiekė Aukštadvario miestelį ir
@@ -46,6 +47,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Pervedus 6-ąjį pėstininkų pulką į lenkų frontą, pulko kariai ir vadas Vidugiriuose susitiko su pulko I batalionu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 batalionas irgi

@@ -31,28 +31,28 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 <a id="claim-t-59915"></a>
 - t-001
   global_id: t-59915
-  teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
+  teiginys: 'Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59916"></a>
 - t-002
   global_id: t-59916
-  teiginys: 'Dusburgietis teigia, kad brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos, kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą.'
+  teiginys: 'Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59917"></a>
 - t-003
   global_id: t-59917
-  teiginys: 'Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su 1200 vyrų, turėjusių jam pastoti kelią.'
+  teiginys: 'Magistras pasiuntė Henriką Cutsvertą su 29 broliais ir 1200 vyrų pastoti kelią priešininkui.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59918"></a>
 - t-004
   global_id: t-59918
-  teiginys: 'Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi.'
+  teiginys: 'Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras pasiuntė Henriką Cutsvertą su 29 broliais ir 1200 vyrų pastoti kelią priešininkui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su
@@ -86,6 +87,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     - t-003
 
 - c-002
+  santrauka: 'Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     užpuolė. Šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką
@@ -99,6 +101,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     - t-004
 
 - c-003
+  santrauka: 'Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     247 (240). Apie Aukaimio valsčiaus nusiaubimą
@@ -118,6 +121,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     - t-001
 
 - c-004
+  santrauka: 'Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
@@ -198,6 +202,12 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Bertoldas]]
+- [[objektai/asmenys/Jazbutas]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
+- [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]

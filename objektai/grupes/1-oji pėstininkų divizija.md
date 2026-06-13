@@ -26,7 +26,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 <a id="claim-t-40819"></a>
 - t-002
   global_id: t-40819
-  teiginys: 'Spalio 21 d. lenkų kavalerija Širvintų apylinkėse paėmė į nelaisvę gen. ltn. S. Nastopką su beveik visu I divizijos štabu.'
+  teiginys: 'Spalio 21 d. lenkų kavalerija Širvintų apylinkėse paėmė į nelaisvę generolą leitenantą S. Nastopką su beveik visu I divizijos štabu.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     - t-001
 
 - c-002
+  santrauka: 'Spalio 21 d. lenkų kavalerija Širvintų apylinkėse paėmė į nelaisvę generolą leitenantą S. Nastopką su beveik visu I divizijos štabu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ Spalio 21 d. lenkų kavalerija apeina lietuvių pozicijas ir

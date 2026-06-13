@@ -43,17 +43,10 @@ Nenurodyta
 <a id="claim-t-89384"></a>
 - t-001
   global_id: t-89384
-  teiginys: 'Dusburgietis teigia, kad sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
+  teiginys: '1281 m. Traidenis pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario.'
   pagrindžia:
     - c-001
     - c-002
-
-<a id="claim-t-89385"></a>
-- t-002
-  global_id: t-89385
-  teiginys: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -76,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1281 m. Traidenis pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,

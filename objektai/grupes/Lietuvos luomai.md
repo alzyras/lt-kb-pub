@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus. Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila. Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.
+Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus. Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila. Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.
 
 ## Teiginiai
 
@@ -31,7 +31,7 @@ Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Pio
 <a id="claim-t-185435"></a>
 - t-003
   global_id: t-185435
-  teiginys: 'Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.'
+  teiginys: 'Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.'
   pagrindžia:
     - c-003
 
@@ -98,7 +98,7 @@ Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Pio
     - t-002
 
 - c-003
-  santrauka: 'Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.'
+  santrauka: 'Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po priešo niokojamo antpuolio

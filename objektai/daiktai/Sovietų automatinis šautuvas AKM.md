@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-78681"></a>
 - t-002
   global_id: t-78681
-  teiginys: 'Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba, tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai paplito po visą pasaulį.'
+  teiginys: 'AKM buvo modernizuota, palengvinta ir supaprastintos konstrukcijos AK-47 versija.'
   pagrindžia:
     - c-001
 

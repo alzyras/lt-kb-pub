@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-75141"></a>
 - t-002
   global_id: t-75141
-  teiginys: 'Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.'
+  teiginys: 'Andrejaus Sacharovo iniciatyva SSRS kūrėsi grupės, stebėjusios Helsinkio Baigiamojo akto įgyvendinimą ir žmogaus teisių pažeidimus.'
   pagrindžia:
     - c-002
 

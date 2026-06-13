@@ -27,20 +27,22 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 <a id="claim-t-63883"></a>
 - t-002
   global_id: t-63883
-  teiginys: 'Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.'
+  teiginys: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-63884"></a>
 - t-003
   global_id: t-63884
-  teiginys: 'Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno įpėdinio.'
+  teiginys: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   pagrindžia:
     - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Susidėjo tokios aplinkybės, kad dėl to ilgai galvos laužyt
@@ -55,6 +57,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
     - t-003
 
 - c-002
+  santrauka: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tą žemę Kazimieras III buvo atidavęs
@@ -70,6 +73,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
     - t-002
 
 - c-003
+  santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik čia tvirtai stovėjo Lietuva, ir dėl tų žemių
@@ -131,4 +135,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkijos senatas]]
 - [[objektai/grupes/Lenkų senatas]]
+- [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]
+- [[objektai/daiktai/Viešpaties erškėčių vainikas]]
+- [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

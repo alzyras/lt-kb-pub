@@ -185,7 +185,6 @@ Nenurodyta
 - [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Čupurna]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
 - [[objektai/zodynas/perdėtinis]]
 - [[objektai/zodynas/sankcija]]

@@ -65,7 +65,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
 <a id="claim-t-101555"></a>
 - t-006
   global_id: t-101555
-  teiginys: 'Bendras vidaus politinis gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lietuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovaujasi.'
+  teiginys: 'Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais.'
   pagrindžia:
     - c-009
 
@@ -79,7 +79,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
 <a id="claim-t-101557"></a>
 - t-008
   global_id: t-101557
-  teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  teiginys: 'Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.'
   pagrindžia:
     - c-008
 
@@ -100,7 +100,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
 <a id="claim-t-101560"></a>
 - t-011
   global_id: t-101560
-  teiginys: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
+  teiginys: '1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma.'
   pagrindžia:
     - c-006
 
@@ -194,6 +194,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - t-005
 
 - c-006
+  santrauka: '1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -225,6 +226,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - t-007
 
 - c-008
+  santrauka: 'Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bajorai turėjo
@@ -251,6 +253,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - t-008
 
 - c-009
+  santrauka: 'Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэцкага

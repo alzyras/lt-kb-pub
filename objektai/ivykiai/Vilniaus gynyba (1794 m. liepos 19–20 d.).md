@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-80676"></a>
 - t-001
   global_id: t-80676
-  teiginys: 'Antroji kovų fazė: Vilniaus gynyba Liepos 19 d. gen.'
+  teiginys: '1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antroji kovų fazė:

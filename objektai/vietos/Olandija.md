@@ -19,7 +19,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 <a id="claim-t-68837"></a>
 - t-001
   global_id: t-68837
-  teiginys: 'Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.'
+  teiginys: 'XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-

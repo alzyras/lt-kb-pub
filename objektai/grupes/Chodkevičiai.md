@@ -41,7 +41,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 <a id="claim-t-183124"></a>
 - t-003
   global_id: t-183124
-  teiginys: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
+  teiginys: '1605 m. prie Kirchholmo Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-003
 
@@ -78,7 +78,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     - t-002
 
 - c-003
-  santrauka: 'Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.'
+  santrauka: '1605 m. prie Kirchholmo Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
@@ -126,6 +126,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - [[objektai/grupes/Švedijos kariuomenė]]
 - [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
 - [[objektai/asmenys/Ivanas Fiodorovas]]
+- [[objektai/asmenys/Augustinas Rotundas]]
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
 - [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

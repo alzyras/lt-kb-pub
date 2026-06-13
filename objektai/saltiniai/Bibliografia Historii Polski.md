@@ -32,7 +32,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 <a id="claim-t-179572"></a>
 - t-002
   global_id: t-179572
-  teiginys: 'Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
+  teiginys: 'Zenono Ivinskio vertinimu, Varšuvoje išleista „Bibliografia Historii Polski“ Lietuvos istorijai skyrė kiek mažiau dėmesio.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
     - t-001
 
 - c-002
+  santrauka: 'Zenono Ivinskio vertinimu, Varšuvoje išleista „Bibliografia Historii Polski“ Lietuvos istorijai skyrė kiek mažiau dėmesio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Varšuvoje išleistoji**

@@ -74,4 +74,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]

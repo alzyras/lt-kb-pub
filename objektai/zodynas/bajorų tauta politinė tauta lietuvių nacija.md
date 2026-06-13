@@ -22,7 +22,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 <a id="claim-t-101568"></a>
 - t-001
   global_id: t-101568
-  teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
+  teiginys: 'LDK visuomenei įsiliejant į Vakarų civilizaciją susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
   pagrindžia:
     - c-001
 

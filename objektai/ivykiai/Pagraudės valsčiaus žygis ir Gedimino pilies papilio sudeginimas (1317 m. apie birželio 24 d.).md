@@ -58,7 +58,14 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 <a id="claim-t-56683"></a>
 - t-003
   global_id: t-56683
-  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  teiginys: '1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies; pilėnai pilį apgynė, bet papilys sudegė.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183951"></a>
+- t-004
+  global_id: t-183951
+  teiginys: '1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.'
   pagrindžia:
     - c-001
 
@@ -113,7 +120,8 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
 - [[objektai/asmenys/Sudargas]]
+- [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/papilys]]

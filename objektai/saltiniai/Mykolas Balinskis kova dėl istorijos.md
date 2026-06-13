@@ -20,7 +20,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
 <a id="claim-t-88264"></a>
 - t-001
   global_id: t-88264
-  teiginys: 'Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio kūryboje galima rasti tik romantinei istoriografijai būdingų bruožų, o vėliau jo jau stengtasi rašyti pagal naują manierą.'
+  teiginys: 'Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.'
   pagrindžia:
     - c-002
 
@@ -49,6 +49,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
     - t-002
 
 - c-002
+  santrauka: 'Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio

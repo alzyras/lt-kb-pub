@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-59697"></a>
 - t-001
   global_id: t-59697
-  teiginys: 'Dusburgietis teigia, kad sventopelkas, matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo galima patekti į pilį.'
+  teiginys: 'Sventopelkas pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo buvo galima patekti į pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo buvo galima patekti į pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
@@ -68,3 +69,4 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/asmenys/Sventopelkas]]

@@ -42,20 +42,21 @@ Nenurodyta
 <a id="claim-t-62804"></a>
 - t-001
   global_id: t-62804
-  teiginys: 'Dusburgietis teigia, kad 411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4, p. 108; Jasas R., Didysis.., p. 61).'
+  teiginys: 'Herkus Mantas žuvo 1273 m. vasarą arba rudenį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62805"></a>
 - t-002
   global_id: t-62805
-  teiginys: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
+  teiginys: 'Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Herkus Mantas žuvo 1273 m. vasarą arba rudenį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A. L., Die Eroberung.., 4,
@@ -67,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiam kunigaikščiui išvykus, notangai pradėjo baimintis net to, dėl ko kitados nejautė
@@ -89,3 +91,4 @@ Nenurodyta
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/grupes/Notangai]]
+- [[objektai/asmenys/Henrikas iš Šenenbergo]]

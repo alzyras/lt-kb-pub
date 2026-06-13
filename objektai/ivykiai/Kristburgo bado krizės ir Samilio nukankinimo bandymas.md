@@ -37,27 +37,28 @@ Nenurodyta
 <a id="claim-t-89371"></a>
 - t-001
   global_id: t-89371
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
+  teiginys: 'Apsupti Kristburgo broliai maistą ir būtinus daiktus iš Elbingo Zirgūnos upe gabendavo sunkiai ir pavojingai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89372"></a>
 - t-002
   global_id: t-89372
-  teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
+  teiginys: 'Per vėlesnį badą Kristburgo broliai ragino ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89373"></a>
 - t-003
   global_id: t-89373
-  teiginys: 'Dusburgietis teigia, kad šitai sužinoję, prūsai įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies, tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams, ten jis, ilgesnį laiką pasirgęs, galop pagijo.'
+  teiginys: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per vėlesnį badą Kristburgo broliai ragino ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
@@ -76,6 +77,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Apsupti Kristburgo broliai maistą ir būtinus daiktus iš Elbingo Zirgūnos upe gabendavo sunkiai ir pavojingai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
@@ -96,6 +98,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai sužinoję, prūsai
@@ -114,5 +117,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
 - [[objektai/grupes/Pamedėnai]]
+- [[objektai/asmenys/Samilis]]
+- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]

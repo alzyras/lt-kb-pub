@@ -29,13 +29,14 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 <a id="claim-t-31065"></a>
 - t-001
   global_id: t-31065
-  teiginys: 'Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127.'
+  teiginys: 'W. Kętrzyńskis nagrinėjo Mindaugo donacinių dokumentų klausimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'W. Kętrzyńskis nagrinėjo Mindaugo donacinių dokumentų klausimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     J. Latkowskis buvo pirmasis, kuris bandė nustatyti

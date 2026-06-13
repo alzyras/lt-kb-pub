@@ -49,28 +49,35 @@ Nenurodyta
 <a id="claim-t-63377"></a>
 - t-001
   global_id: t-63377
-  teiginys: 'Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“.'
+  teiginys: 'Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-63382"></a>
 - t-002
   global_id: t-63382
-  teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
+  teiginys: 'Vorsklos kautynėse daug lėmė Aukso ordos karių kiekybinė persvara.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-63383"></a>
 - t-003
   global_id: t-63383
-  teiginys: '1399 m. rugpjūčio 12 d., „dvi valandos iki saulėlydžio“ prasidėjo „didžiausias mūšis“.'
+  teiginys: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-183677"></a>
+- t-004
+  global_id: t-183677
+  teiginys: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
+  pagrindžia:
+    - c-008
 
 <a id="claim-t-184235"></a>
 - t-005
   global_id: t-184235
-  teiginys: 'Kautynėms vieta buvo numatyta Vorsklos upės apylinkės.'
+  teiginys: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   pagrindžia:
     - c-009
 
@@ -89,6 +96,7 @@ Nenurodyta
   statusas: verified
 
 - c-002
+  santrauka: 'Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vytautas 5 dienas stovėjo kitoje Vorsklos
@@ -108,6 +116,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
@@ -123,6 +132,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: 'Vorsklos kautynėse daug lėmė Aukso ordos karių kiekybinė persvara.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -185,7 +195,7 @@ Nenurodyta
   statusas: verified
 
 - c-008
-  santrauka: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
+  santrauka: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Talkininkų
@@ -213,7 +223,7 @@ Nenurodyta
     - t-004
 
 - c-009
-  santrauka: 'Kautynėms vieta buvo numatyta Vorsklos upės apylinkės.'
+  santrauka: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Visos tos didžiulės kariuomenės susirinkimo vieta buvo
@@ -240,7 +250,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/autoriai/J. Dlugošas]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Vytauto ženklas]]

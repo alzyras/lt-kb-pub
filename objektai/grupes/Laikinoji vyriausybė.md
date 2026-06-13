@@ -26,22 +26,15 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   pagrindžia:
     - c-001
 
-<a id="claim-t-19774"></a>
-- t-002
-  global_id: t-19774
-  teiginys: 'Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir nebuvo nacių politinių intrigų darinys.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-19775"></a>
-- t-003
+- t-002
   global_id: t-19775
   teiginys: '1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-19776"></a>
-- t-004
+- t-003
   global_id: t-19776
   teiginys: 'Laikinoji vyriausybė realiai nevaldė padėties, nes negalėjo palaikyti ryšių su visu kraštu.'
   pagrindžia:
@@ -86,7 +79,7 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,53 +96,17 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daugumai ministrų atsisakius tapti
-    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
-    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
-    baigėsi legalių lietuvių organizacijų veikla.
-    Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo
-    lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir
-    nebuvo nacių politinių intrigų darinys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  santrauka: 'Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir nebuvo nacių politinių intrigų darinys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip nacių okupuotoje Lietuvoje
-    baigėsi legalių lietuvių organizacijų veikla.
-    Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo
-    lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir
-    nebuvo nacių politinių intrigų darinys.
-    Svarbiausias įvykis – Birželio sukilimas, sugriovęs sovietų mitą apie
-    savanorišką Lietuvos įsijungimą į Sovietų Sąjungą, neva atitikusį lietuvių
-    tautos lūkesčius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/autoriai/Juozas Ambrazevičius]]
 - [[objektai/asmenys/Leonas]]
 - [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

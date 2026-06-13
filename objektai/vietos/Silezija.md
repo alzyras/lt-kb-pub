@@ -74,7 +74,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 <a id="claim-t-95166"></a>
 - t-007
   global_id: t-95166
-  teiginys: 'Švitrigaila prašė garantijų savo dvariškiams, su reikalais vykstantiems į Sileziją.'
+  teiginys: 'Švitrigaila prašė garantijų savo dvariškiams Hansui Tscheizui ir Mikalojui Sachsei, vykusiems į Sileziją.'
   pagrindžia:
     - c-006
 
@@ -88,7 +88,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 <a id="claim-t-95168"></a>
 - t-009
   global_id: t-95168
-  teiginys: 'Į Vilnių atvykęs Žygimantas buvo Glogovo kunigaikštis iš Silezijos ir mirusio karaliaus brolis.'
+  teiginys: 'Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis.'
   pagrindžia:
     - c-007
 
@@ -227,7 +227,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-007
 
 - c-007
-  santrauka: 'Į Vilnių atvykęs Žygimantas buvo Glogovo kunigaikštis iš Silezijos ir mirusio karaliaus brolis.'
+  santrauka: 'Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarosios pergalės iš­

@@ -53,7 +53,7 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 <a id="claim-t-55131"></a>
 - t-002
   global_id: t-55131
-  teiginys: 'Po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.'
+  teiginys: 'Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.'
   pagrindžia:
     - c-001
 

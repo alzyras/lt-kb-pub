@@ -28,13 +28,14 @@ Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini 
 <a id="claim-t-88315"></a>
 - t-001
   global_id: t-88315
-  teiginys: 'Vilniaus universiteto bibliotekoje, prie Diplomatinio koJekso) In Nomine Domini Amen.'
+  teiginys: 'Karaliaus Aleksandro 1506 metų testamentas pateiktas iš Dogelio rankraščių, buvusių Vilniaus universiteto bibliotekoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaus Aleksandro 1506 metų testamentas pateiktas iš Dogelio rankraščių, buvusių Vilniaus universiteto bibliotekoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui

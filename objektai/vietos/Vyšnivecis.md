@@ -26,7 +26,7 @@ tags:
 <a id="claim-t-77708"></a>
 - t-002
   global_id: t-77708
-  teiginys: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai.'
+  teiginys: 'Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje

@@ -58,7 +58,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 <a id="claim-t-113352"></a>
 - t-001
   global_id: t-113352
-  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba.'
   pagrindžia:
     - c-006
 
@@ -100,7 +100,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 <a id="claim-t-113358"></a>
 - t-007
   global_id: t-113358
-  teiginys: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  teiginys: 'Vilniaus universitetas tapo Vilniaus švietimo apygardos centru, kai į ją pateko buvusios LLV žemės ir 9 mln. gyventojų.'
   pagrindžia:
     - c-003
 
@@ -142,7 +142,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 <a id="claim-t-113365"></a>
 - t-013
   global_id: t-113365
-  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  teiginys: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   pagrindžia:
     - c-012
 
@@ -177,7 +177,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 <a id="claim-t-113370"></a>
 - t-018
   global_id: t-113370
-  teiginys: 'Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje europinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas.'
+  teiginys: 'Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje.'
   pagrindžia:
     - c-011
 
@@ -378,6 +378,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - t-017
 
 - c-011
+  santrauka: 'Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai padalyto, okupuoto, suskaldyto, aneksuoto, prisitaikiusio ir
@@ -397,6 +398,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - t-018
 
 - c-012
+  santrauka: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
@@ -497,6 +499,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
 - [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/ivykiai/1830-1831 m. sukilimas]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]

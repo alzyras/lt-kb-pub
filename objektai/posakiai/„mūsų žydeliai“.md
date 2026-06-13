@@ -20,13 +20,14 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
 <a id="claim-t-20920"></a>
 - t-001
   global_id: t-20920
-  teiginys: 'Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dėl to, kad nebuvo aukšto ūgio ir užsiėmė valstiečių neigiamai vertinama prekyba, o ne „rimtu“ darbu) garsėjo visuotiniu raštingumu, pomėgiu knygai ir tuo atžvilgiu buvo geras pavyzdys.'
+  teiginys: 'Lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliai“ garsėjo visuotiniu raštingumu ir pomėgiu knygai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliai“ garsėjo visuotiniu raštingumu ir pomėgiu knygai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos piliečiai žydai ir lenkai

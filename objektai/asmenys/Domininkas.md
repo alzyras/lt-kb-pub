@@ -19,13 +19,14 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 <a id="claim-t-60268"></a>
 - t-001
   global_id: t-60268
-  teiginys: 'Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.'
+  teiginys: 'Pasakojime šventasis Domininkas sapne žygiavo brolių priekyje kartu su Bernardu, Pranciškumi ir Augustinu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojime šventasis Domininkas sapne žygiavo brolių priekyje kartu su Bernardu, Pranciškumi ir Augustinu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir

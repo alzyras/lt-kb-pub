@@ -5,7 +5,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1945 m.'
-  - '1952 m.'
   - '1965 m.'
 date_start: '1945'
 date_end: '1965'
@@ -27,20 +26,14 @@ amziai:
 <a id="claim-t-38360"></a>
 - t-001
   global_id: t-38360
-  teiginys: 'P. Končius slapstėsi Latvijoje, vėliau Kretingos rajone, o 1965 m. apsuptas Kretingos saugumiečių nusišovė.'
+  teiginys: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m. apsuptas Kretingos saugumiečių nusišovė.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183787"></a>
-- t-002
-  global_id: t-183787
-  teiginys: '1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m. apsuptas Kretingos saugumiečių nusišovė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Slapstėsi Latvijos teritorijoje,
@@ -54,18 +47,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: '1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1945 m.
-    vadovavo Kretingos apskrities partizanų Klevo kuopai. Vienas iš Kardo
-    rinktinės organizatorių, nuo 1945 m. lapkričio paskirtas jos vado pavaduo-
-    toju, 1949 m. šiai rinktinei vadovavo (vėliau kurį laiką buvo iš šių pareigų
-    pasitraukęs). 1952 m. žuvo patekęs į sovietų pasalą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

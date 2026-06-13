@@ -23,13 +23,6 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   pagrindžia:
     - c-001
 
-<a id="claim-t-184358"></a>
-- t-002
-  global_id: t-184358
-  teiginys: 'Jo «sostapilio» jieškota net keliose Žemaičių vietose.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +39,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
     - t-001
 
 - c-002
-  santrauka: 'Jo «sostapilio» jieškota net keliose Žemaičių vietose.'
+  santrauka: 'Mindaugo sostapilio ieškota keliose Žemaičių vietose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Taip pat neaišku, ar Mindaugas teturėjo

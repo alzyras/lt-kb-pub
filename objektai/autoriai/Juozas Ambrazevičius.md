@@ -26,35 +26,17 @@ periodo_grupes:
 
 ## Teiginiai
 
-<a id="claim-t-64660"></a>
+<a id="claim-t-183343"></a>
 - t-001
-  global_id: t-64660
-  teiginys: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
+  global_id: t-183343
+  teiginys: 'Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau naciai vis
-    tiek tos vyriausybės nepripažino, dėl to dauguma iš jos priimtų per 100
-    įstatymų ir nutarimų neveikė. Realiai LV situacijos nevaldė, nes negalė-
-    jo palaikyti ryšių su visu kraštu – paštas, telegrafas, telefonas naudoti tik
-    vokiečių kariniams reikalams. Sugrąžinus iki 1940 m. birželio 15 d. bu-
-    vusią tvarką, atkūrus apskritis, miestų savivaldybes, organizavus policiją,
-    vokiečių okupacinė valdžia neleido iš partizanų ir Lietuvos kariuomenės
-    dalių, pasitraukusių iš Raudonosios armijos, sudaryti reguliariąją Lietu-
-    vos kariuomenę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
+  santrauka: 'Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Realiai LV situacijos nevaldė, nes negalė-
@@ -76,7 +58,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

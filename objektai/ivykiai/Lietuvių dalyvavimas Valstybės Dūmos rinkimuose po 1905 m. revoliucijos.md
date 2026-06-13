@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75125"></a>
 - t-001
   global_id: t-75125
-  teiginys: 'Lietuva po 1905-ųjų – kultūrinė kova Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tiesa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Valstybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi įstatymų leidyba.'
+  teiginys: 'Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose.'
   pagrindžia:
     - c-001
 

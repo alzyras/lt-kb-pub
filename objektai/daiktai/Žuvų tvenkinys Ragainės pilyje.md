@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-59718"></a>
 - t-001
   global_id: t-59718
-  teiginys: 'Dusburgietis teigia, kad mat jie turėję viduryje pilies 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems apsiaustiesiems maitintis.'
+  teiginys: 'Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop

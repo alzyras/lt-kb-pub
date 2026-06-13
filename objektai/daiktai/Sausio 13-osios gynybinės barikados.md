@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-23303"></a>
 - t-002
   global_id: t-23303
-  teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
+  teiginys: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   pagrindžia:
     - c-001
 

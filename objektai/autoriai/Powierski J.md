@@ -34,7 +34,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 <a id="claim-t-60507"></a>
 - t-002
   global_id: t-60507
-  teiginys: 'Dusburgietis teigia, kad kai kas mano, kad sukilimas galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204, 211).'
+  teiginys: 'J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu.'
   pagrindžia:
     - c-003
 
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 <a id="claim-t-60514"></a>
 - t-008
   global_id: t-60514
-  teiginys: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
+  teiginys: 'J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją.'
   pagrindžia:
     - c-008
 
@@ -114,6 +114,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - t-006
 
 - c-003
+  santrauka: 'J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -184,6 +185,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - t-007
 
 - c-008
+  santrauka: 'J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281

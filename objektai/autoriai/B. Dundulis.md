@@ -37,8 +37,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   global_id: t-71508
   teiginys: 'B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje.'
   pagrindžia:
-    - c-005
     - c-002
+    - c-005
 
 <a id="claim-t-71509"></a>
 - t-002
@@ -50,7 +50,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 <a id="claim-t-71510"></a>
 - t-003
   global_id: t-71510
-  teiginys: 'B. Dundulis parašė Lietuvos konfliktas su ordinu dėl Žemaitijos sienų ir imperatoriaus atstovo B. Makros misija Lietuvoje 1413 m. bei Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-1418).'
+  teiginys: 'B. Dundulis 1958 m. paskelbė darbus apie Žemaitijos sienų konfliktą ir Lietuvos kovą prieš kryžiuočius Konstanco susirinkime.'
   pagrindžia:
     - c-004
 
@@ -108,6 +108,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-004
 
 - c-004
+  santrauka: 'B. Dundulis 1958 m. paskelbė darbus apie Žemaitijos sienų konfliktą ir Lietuvos kovą prieš kryžiuočius Konstanco susirinkime.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Berlin 1914. — Dundulis, B. :

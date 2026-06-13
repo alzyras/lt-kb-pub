@@ -55,21 +55,21 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 <a id="claim-t-63419"></a>
 - t-004
   global_id: t-63419
-  teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
+  teiginys: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-63420"></a>
 - t-005
   global_id: t-63420
-  teiginys: 'Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol.'
+  teiginys: 'Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-63421"></a>
 - t-006
   global_id: t-63421
-  teiginys: 'Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešpaties metais, šventų Pilypo bei Jokūbo dieną (gegužės 1), Albrechtą, Romos karalių, nužudė kunigaikštis Jonas, vadinamas Anlantu, jo vaikaitis, iš kurio buvo atėmęs Austrijos kunigaikštystę, nors tas ir buvo.'
+  teiginys: '1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.'
   pagrindžia:
     - c-002
 
@@ -128,6 +128,7 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 - [[objektai/grupes/Flandrai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/Romos karalius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.)]]
 - [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]]

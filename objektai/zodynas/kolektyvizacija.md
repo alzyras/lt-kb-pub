@@ -27,7 +27,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 <a id="claim-t-75556"></a>
 - t-001
   global_id: t-75556
-  teiginys: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
+  teiginys: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   pagrindžia:
     - c-003
 
@@ -90,6 +90,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - t-004
 
 - c-003
+  santrauka: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – ne-
@@ -131,7 +132,6 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vienkiemiai]]
-- [[objektai/zodynas/gurguolė]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
 - [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]
 - [[objektai/zodynas/kolūkiai kolūkietis darbadieniai]]

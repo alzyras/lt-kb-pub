@@ -28,14 +28,14 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
 <a id="claim-t-86596"></a>
 - t-001
   global_id: t-86596
-  teiginys: '1522 m. Žygimanto įsakymu miesto sargyba ir policija buvo grąžinta magistratui, kuris turėjo išlaikyti 24 sargybinius.'
+  teiginys: '1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1522 m. Žygimanto įsakymu miesto sargyba ir policija buvo grąžinta magistratui, kuris turėjo išlaikyti 24 sargybinius.'
+  santrauka: '1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­

@@ -19,13 +19,14 @@ Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.
 <a id="claim-t-77782"></a>
 - t-001
   global_id: t-77782
-  teiginys: 'Petro ir Povilo bažnyčia ar Pažaislio vienuolyno ansamblis prie Kauno.'
+  teiginys: 'Pažaislio vienuolyno ansamblis prie Kauno laikomas europinės reikšmės kūriniu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pažaislio vienuolyno ansamblis prie Kauno laikomas europinės reikšmės kūriniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-

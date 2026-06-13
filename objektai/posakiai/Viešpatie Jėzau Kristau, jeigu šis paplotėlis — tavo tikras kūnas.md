@@ -20,20 +20,21 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 <a id="claim-t-59167"></a>
 - t-001
   global_id: t-59167
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją — mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo.'
+  teiginys: 'Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59168"></a>
 - t-002
   global_id: t-59168
-  teiginys: 'Dusburgietis teigia, kad sitai išvydęs, jis išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė, neapsakomai džiaugdamasis.'
+  teiginys: 'Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     232 (225). Dar apie tą patį
@@ -51,6 +52,7 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
     - t-001
 
 - c-002
+  santrauka: 'Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vos šitaip tarė, staiga pasirodė viešpaties kūnas
@@ -75,3 +77,4 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/daiktai/Paplotėlis]]
+- [[objektai/zodynas/žygis]]

@@ -20,14 +20,14 @@ Girėno žygdarbį ir t.
 <a id="claim-t-78078"></a>
 - t-001
   global_id: t-78078
-  teiginys: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
+  teiginys: 'Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
+  santrauka: 'Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero bažnyčioje atidarytas Ateiz-

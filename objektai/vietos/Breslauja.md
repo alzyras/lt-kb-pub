@@ -39,7 +39,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 <a id="claim-t-114196"></a>
 - t-002
   global_id: t-114196
-  teiginys: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
+  teiginys: 'Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - t-001
 
 - c-002
+  santrauka: 'Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tais metais

@@ -21,13 +21,14 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 <a id="claim-t-60425"></a>
 - t-001
   global_id: t-60425
-  teiginys: 'Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
+  teiginys: 'Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
@@ -45,7 +46,7 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
+  santrauka: 'Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
@@ -67,5 +68,5 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
-- [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]
 - [[objektai/zodynas/kiemai habitaciones curia]]
+- [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]

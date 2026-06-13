@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-59350"></a>
 - t-001
   global_id: t-59350
-  teiginys: 'Dusburgietis teigia, kad žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M. Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152).'
+  teiginys: '1218 m. žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1218 m. žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos

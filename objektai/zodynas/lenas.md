@@ -72,7 +72,6 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vosylius I]]

@@ -24,13 +24,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   pagrindžia:
     - c-001
 
-<a id="claim-t-183182"></a>
-- t-002
-  global_id: t-183182
-  teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

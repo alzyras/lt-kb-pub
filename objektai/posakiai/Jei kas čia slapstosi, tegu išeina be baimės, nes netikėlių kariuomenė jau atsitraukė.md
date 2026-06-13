@@ -27,7 +27,7 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
 <a id="claim-t-89589"></a>
 - t-002
   global_id: t-89589
-  teiginys: 'Dusburgietis teigia, kad apie prūsų, mokančių vokiečių kalbą, niekšiškumą Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai, netikėlių kariuomenei traukiant brolių.'
+  teiginys: 'Herkus Mantas vokiškai viliojo besislapstančius krikščionis išeiti, o patikėjusiuosius jo vyrai paimdavo į nelaisvę arba nužudydavo.'
   pagrindžia:
     - c-001
 

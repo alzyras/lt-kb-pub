@@ -67,7 +67,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 <a id="claim-t-97305"></a>
 - t-006
   global_id: t-97305
-  teiginys: 'Dusburgietis teigia, kad 592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
+  teiginys: 'Gedimino duktė Aldona 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero.'
   pagrindžia:
     - c-006
 
@@ -102,14 +102,14 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 <a id="claim-t-97312"></a>
 - t-011
   global_id: t-97312
-  teiginys: 'Gediminas išleido už Vladislovo sūnaus, būsimojo Lenkijos karaliaus Kazimiero Didžiojo, savo dukterį Aldoną.'
+  teiginys: '1325 m. Gediminas išleido dukterį Aldoną už Vladislovo Lokietkos sūnaus Kazimiero Didžiojo.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-97313"></a>
 - t-012
   global_id: t-97313
-  teiginys: '1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.'
+  teiginys: '1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   pagrindžia:
     - c-001
 
@@ -162,6 +162,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-003
 
 - c-004
+  santrauka: '1325 m. Gediminas išleido dukterį Aldoną už Vladislovo Lokietkos sūnaus Kazimiero Didžiojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą numanydamas, Gediminas ir ruošėsi karui. Ieš-
@@ -211,6 +212,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
     - t-010
 
 - c-006
+  santrauka: 'Gedimino duktė Aldona 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neumark, dab. Nowe Miasto

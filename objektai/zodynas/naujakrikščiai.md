@@ -88,4 +88,5 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - [[objektai/zodynas/konsistorija]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]
 - [[objektai/zodynas/naujakrikštis]]

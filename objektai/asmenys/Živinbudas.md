@@ -28,7 +28,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 <a id="claim-t-60477"></a>
 - t-001
   global_id: t-60477
-  teiginys: 'Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė.'
+  teiginys: 'Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
@@ -190,6 +191,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Pajauta]]
 - [[objektai/asmenys/Kernius]]
-- [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
+- [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
 - [[objektai/grupes/Pamarėnai]]

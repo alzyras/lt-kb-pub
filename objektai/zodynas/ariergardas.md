@@ -44,7 +44,7 @@ amziai:
 <a id="claim-t-185355"></a>
 - t-004
   global_id: t-185355
-  teiginys: 'Užpuolęs ariergardinę vorą ir gurguolių apsaugai paliktus būrius, lietuvių vadas sumušė priešą ir atsiėmė grobį.'
+  teiginys: 'Lietuvių vadas užpuolė Prūsijos maršalo ariergardinę vorą, sumušė priešą ir atsiėmė grobį.'
   pagrindžia:
     - c-004
 
@@ -124,7 +124,7 @@ amziai:
     - t-003
 
 - c-004
-  santrauka: 'Užpuolęs ariergardinę vorą ir gurguolių apsaugai paliktus būrius, lietuvių vadas sumušė priešą ir atsiėmė grobį.'
+  santrauka: 'Lietuvių vadas užpuolė Prūsijos maršalo ariergardinę vorą, sumušė priešą ir atsiėmė grobį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to nuvedė
@@ -157,4 +157,5 @@ amziai:
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/maršalas]]
 - [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]

@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-80680"></a>
 - t-001
   global_id: t-80680
-  teiginys: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
+  teiginys: '1794 m. rugpjūčio 11 d. vakare Vilniaus įgula sėkmingai atsitraukė per Žaliąjį tiltą, dengiama Kazimiero Sapiegos artilerijos baterijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1794 m. rugpjūčio 11 d. vakare Vilniaus įgula sėkmingai atsitraukė per Žaliąjį tiltą, dengiama Kazimiero Sapiegos artilerijos baterijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     q Priešui pralaužus vilniečių gy-
@@ -137,3 +138,5 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/zodynas/įgula]]

@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-100045"></a>
 - t-001
   global_id: t-100045
-  teiginys: 'Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000), Kęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie Skirgailos valdomų Trakų.'
+  teiginys: '1383 m. Vytautas, Žemaičiuose surinkęs gausų kovotojų būrį, su magistru Zollneriu žygiavo prie Skirgailos valdomų Trakų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1383 m. Vytautas, Žemaičiuose surinkęs gausų kovotojų būrį, su magistru Zollneriu žygiavo prie Skirgailos valdomų Trakų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000),

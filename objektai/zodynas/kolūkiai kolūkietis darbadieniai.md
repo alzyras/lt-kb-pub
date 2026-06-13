@@ -41,7 +41,7 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 <a id="claim-t-183435"></a>
 - t-003
   global_id: t-183435
-  teiginys: 'Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc.'
+  teiginys: '1949 m. pradžioje į kolūkius buvo įstoję 4 proc. valstiečių, o metų pabaigoje - jau 62 proc.'
   pagrindžia:
     - c-002
 

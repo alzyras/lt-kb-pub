@@ -45,7 +45,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 <a id="claim-t-173182"></a>
 - t-003
   global_id: t-173182
-  teiginys: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
+  teiginys: 'Jonui Hozijui buvo suteikta teisė atvesti vandenį į jo namus Vokiečių gatvėje.'
   pagrindžia:
     - c-001
 
@@ -66,6 +66,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonui Hozijui buvo suteikta teisė atvesti vandenį į jo namus Vokiečių gatvėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     už

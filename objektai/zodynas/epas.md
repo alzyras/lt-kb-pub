@@ -27,7 +27,7 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
 <a id="claim-t-183420"></a>
 - t-002
   global_id: t-183420
-  teiginys: 'Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.'
+  teiginys: 'Lietuvių epas, autorių vertinimu, buvo pradėjęs formuotis.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
     - t-001
 
 - c-002
-  santrauka: 'Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.'
+  santrauka: 'Lietuvių epas, autorių vertinimu, buvo pradėjęs formuotis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius

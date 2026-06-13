@@ -38,7 +38,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 <a id="claim-t-79074"></a>
 - t-002
   global_id: t-79074
-  teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
+  teiginys: 'Karolis Carlsonas Gyllenhielmas buvo paskirtas vadovauti švedų kariuomenės aprūpinimo operacijai.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     - t-003
 
 - c-002
+  santrauka: 'Karolis Carlsonas Gyllenhielmas buvo paskirtas vadovauti švedų kariuomenės aprūpinimo operacijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     2500 švedų karių įsitvirtino mieste ir

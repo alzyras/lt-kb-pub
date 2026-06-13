@@ -34,7 +34,7 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 <a id="claim-t-183497"></a>
 - t-002
   global_id: t-183497
-  teiginys: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
+  teiginys: 'Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
     - t-001
 
 - c-002
-  santrauka: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
+  santrauka: 'Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-

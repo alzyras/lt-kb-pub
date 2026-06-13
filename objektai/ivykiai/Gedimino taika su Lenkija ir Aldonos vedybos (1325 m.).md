@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-100022"></a>
 - t-001
   global_id: t-100022
-  teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
+  teiginys: 'Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,7 @@ Nenurodyta
 <a id="claim-t-100024"></a>
 - t-003
   global_id: t-100024
-  teiginys: '1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.000 Lietuvoje buvusių lenkų karo belaisvių.'
+  teiginys: '1325 m. Gedimino ir Lokietkos sąjungininkai taikos sutartį sutvirtino Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   pagrindžia:
     - c-001
 
@@ -136,5 +136,6 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
 - [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]

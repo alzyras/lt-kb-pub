@@ -68,7 +68,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 <a id="claim-t-183710"></a>
 - t-005
   global_id: t-183710
-  teiginys: 'Priekinė šaulių eilė, iššovusi salvę, pasisuka dešinėn ir pro rikiuotės šoną žygiuoja į savo rikiuotės galą ir ten užtaiso ginklus, tai vadinamoji karakolė arba „sraigė“.'
+  teiginys: 'Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus.'
   pagrindžia:
     - c-002
 
@@ -140,4 +140,5 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/muškietininkai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/raitarai]]

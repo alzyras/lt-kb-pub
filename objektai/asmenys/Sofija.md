@@ -35,7 +35,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 <a id="claim-t-183842"></a>
 - t-002
   global_id: t-183842
-  teiginys: 'Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringailė 47 miręs nuo įduotų nuodų.'
+  teiginys: 'Sofija buvo Vytauto ir Onos duktė.'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
     - t-001
 
 - c-002
-  santrauka: 'Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringailė 47 miręs nuo įduotų nuodų.'
+  santrauka: 'Sofija buvo Vytauto ir Onos duktė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Skubina būtiny­
@@ -87,4 +87,5 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Spycinas]]
+- [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]

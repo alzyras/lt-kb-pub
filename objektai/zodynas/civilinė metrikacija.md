@@ -28,13 +28,14 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
 <a id="claim-t-77790"></a>
 - t-001
   global_id: t-77790
-  teiginys: 'Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis katalikų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų dvasininkams), ėmė mažinti karininkų skaičių.'
+  teiginys: 'III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-92024"></a>
 - t-001
   global_id: t-92024
-  teiginys: 'Vokiečiams užgulus jūrines jų pilis, beje: Klaipėdos, Liepojos, Lielupio ir Daugavos, kad nebgalėjo patys su svečia šalia per jūrą beprekioti, tad, nebgaudami nė nuo kur geležies žambių noragams, iš medžio juos dirbo; todėl nuo senų laikų tariama yra.'
+  teiginys: 'Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vokiečiams užgulus jūrines jų
@@ -75,3 +76,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Noragai]]

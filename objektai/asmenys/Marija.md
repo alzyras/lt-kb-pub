@@ -65,5 +65,7 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
 - [[objektai/asmenys/Marija (Liudviko duktė)]]
 - [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
+- [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/ivykiai/Perudžos stebuklas su nubausto plėšiko galva (1302 m.)]]
 - [[objektai/daiktai/Smilkytuvas ir žvakės]]
+- [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]

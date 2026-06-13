@@ -21,20 +21,21 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 <a id="claim-t-60208"></a>
 - t-001
   global_id: t-60208
-  teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
+  teiginys: 'Steinavas buvo Glapo mėgtas valdinys, kurį varmių vadas daug kartų buvo išgelbėjęs iš mirtino pavojaus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60209"></a>
 - t-002
   global_id: t-60209
-  teiginys: 'Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo.'
+  teiginys: 'Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Steinavas buvo Glapo mėgtas valdinys, kurį varmių vadas daug kartų buvo išgelbėjęs iš mirtino pavojaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     136 (131). Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
@@ -71,3 +72,4 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
+- [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę]]

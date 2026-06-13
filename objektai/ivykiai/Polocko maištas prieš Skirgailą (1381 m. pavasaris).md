@@ -45,13 +45,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-184341"></a>
-- t-002
-  global_id: t-184341
-  teiginys: 'Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė 1381 pavasarį atvirą maištą.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,7 +62,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė 1381 pavasarį atvirą maištą.'
+  santrauka: '1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lieka paslaptis, kodėl Jogaila uždelsė žygį į

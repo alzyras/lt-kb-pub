@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-59736"></a>
 - t-001
   global_id: t-59736
-  teiginys: 'Dusburgietis teigia, kad apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais.'
+  teiginys: 'Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59737"></a>
 - t-002
   global_id: t-59737
-  teiginys: 'Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.'
+  teiginys: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.'
   pagrindžia:
     - c-003
 
@@ -59,6 +59,13 @@ Nenurodyta
   teiginys: 'Kimenavos sūduvių vadas Gedetas su savo namais, šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183988"></a>
+- t-004
+  global_id: t-183988
+  teiginys: 'Kilmingas sūduvis Ruseinis bematant leidosi apkrikštijamas su visa savo šeimyna.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -83,6 +90,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Skomanto, sūduvių vado, atsivertimą
@@ -125,6 +133,7 @@ Nenurodyta
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/asmenys/Gedetas]]
+- [[objektai/asmenys/Ruseinis]]
 - [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]
 - [[objektai/daiktai/Medinis kryžius]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]

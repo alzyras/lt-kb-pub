@@ -29,13 +29,14 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
 <a id="claim-t-87912"></a>
 - t-001
   global_id: t-87912
-  teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
+  teiginys: 'Jonas Kazimieras 1667 m. sausio 15 d. dekretu panaikino Andriaus Katavičiaus neteisėtai gautą Vilniaus vaitystės privilegiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Kazimieras 1667 m. sausio 15 d. dekretu panaikino Andriaus Katavičiaus neteisėtai gautą Vilniaus vaitystės privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juozapas Petravičius, iš Vilniaus miesto

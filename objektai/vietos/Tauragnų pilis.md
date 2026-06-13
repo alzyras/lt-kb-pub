@@ -29,7 +29,7 @@ amziai:
 <a id="claim-t-115024"></a>
 - t-001
   global_id: t-115024
-  teiginys: 'Jogaila 1387 m. vasario 17 d. Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį.'
+  teiginys: '1387 m. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1387 m. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­

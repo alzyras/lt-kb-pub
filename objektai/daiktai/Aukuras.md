@@ -61,13 +61,14 @@ Nenurodyta
 <a id="claim-t-81841"></a>
 - t-003
   global_id: t-81841
-  teiginys: 'Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį, išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą — Vytautą.'
+  teiginys: 'Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš

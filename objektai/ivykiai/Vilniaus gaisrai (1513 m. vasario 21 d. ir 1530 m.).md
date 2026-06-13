@@ -68,7 +68,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
 <a id="claim-t-54455"></a>
 - t-004
   global_id: t-54455
-  teiginys: 'Šie gaisrai buvo viena iš priežasčių, nulėmusių karaliaus pastangas aprūpinti miestą vandeniu.'
+  teiginys: '1513 m. vasario 21 d. ir 1530 m. Vilniaus gaisrai buvo viena iš priežasčių, paskatinusių karaliaus pastangas aprūpinti miestą vandeniu.'
   pagrindžia:
     - c-001
 

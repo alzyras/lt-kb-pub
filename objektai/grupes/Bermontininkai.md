@@ -35,14 +35,14 @@ amziai:
 <a id="claim-t-40867"></a>
 - t-002
   global_id: t-40867
-  teiginys: '1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, spalio 16 d. buvo priimtas sprendimas jėga išvaryti bermontininkus iš Lietuvos.'
+  teiginys: '1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-40868"></a>
 - t-003
   global_id: t-40868
-  teiginys: 'Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.'
+  teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bermontininkų rankose atsi-
@@ -98,6 +99,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: '1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasirengimas operacijai

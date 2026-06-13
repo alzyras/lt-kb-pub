@@ -19,7 +19,7 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
 <a id="claim-t-60322"></a>
 - t-001
   global_id: t-60322
-  teiginys: 'Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo.'
+  teiginys: 'Hermanas, Henriko Stange brolis, stojo į kovą, kai prūsai apsupo ir nuo žirgo nubloškė jo brolį.'
   pagrindžia:
     - c-001
 

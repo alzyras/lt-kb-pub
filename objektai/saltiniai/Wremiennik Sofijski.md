@@ -62,7 +62,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 <a id="claim-t-82035"></a>
 - t-005
   global_id: t-82035
-  teiginys: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p. 334.'
+  teiginys: 'Wremiennik Sofijski nurodo, kad Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   pagrindžia:
     - c-005
 
@@ -174,6 +174,7 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - t-004
 
 - c-005
+  santrauka: 'Wremiennik Sofijski nurodo, kad Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­

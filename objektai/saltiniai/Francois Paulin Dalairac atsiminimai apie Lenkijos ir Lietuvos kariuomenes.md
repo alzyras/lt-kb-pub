@@ -42,7 +42,7 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 <a id="claim-t-67391"></a>
 - t-002
   global_id: t-67391
-  teiginys: 'Fiift Radeiviel begegnetim Mann: Lich, wiewel mit ebwas ver wirrhee, : E rs 46 G) Ištrauka iš Prancūzijos armijos kario Francois Paulin Dalairac (1699 m.) atsiminimų apie Lenkijos ir Lietuvos kariuomenes.'
+  teiginys: 'Francois Paulin Dalairac atsiminimuose Karūnos ir Lietuvos kariuomenė apibūdinta kaip padalyta į dvi dalis.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Francois Paulin Dalairac atsiminimuose Karūnos ir Lietuvos kariuomenė apibūdinta kaip padalyta į dvi dalis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lager, imine Vierfache Wagenlurg

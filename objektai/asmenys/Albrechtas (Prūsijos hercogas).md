@@ -27,13 +27,14 @@ Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įk�
 <a id="claim-t-60230"></a>
 - t-001
   global_id: t-60230
-  teiginys: 'Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įkūrėjo Prūsijos hercogo Albrechto (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką.'
+  teiginys: 'Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,

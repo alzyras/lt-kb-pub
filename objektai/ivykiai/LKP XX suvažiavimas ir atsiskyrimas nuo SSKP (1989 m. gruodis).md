@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-183261"></a>
 - t-002
   global_id: t-183261
-  teiginys: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
+  teiginys: '1989 m. gruodį Vilniuje vykusiame LKP XX suvažiavime 855 iš 1 033 delegatų balsavo už savarankišką LKP, ir partija atsiskyrė nuo SSKP.'
   pagrindžia:
     - c-001
 

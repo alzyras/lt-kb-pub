@@ -29,20 +29,21 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 <a id="claim-t-60056"></a>
 - t-002
   global_id: t-60056
-  teiginys: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus.'
+  teiginys: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-60057"></a>
 - t-003
   global_id: t-60057
-  teiginys: 'Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222.'
+  teiginys: 'Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus  jis išdavė
@@ -80,6 +81,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     - t-001
 
 - c-003
+  santrauka: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,

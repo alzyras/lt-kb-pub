@@ -21,7 +21,7 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 <a id="claim-t-63297"></a>
 - t-001
   global_id: t-63297
-  teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
+  teiginys: 'Bartų vadas Divanas su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   pagrindžia:
     - c-002
 
@@ -38,6 +38,7 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
   statusas: verified
 
 - c-002
+  santrauka: 'Bartų vadas Divanas su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį

@@ -27,21 +27,21 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 <a id="claim-t-78014"></a>
 - t-001
   global_id: t-78014
-  teiginys: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
+  teiginys: 'Šv. Kazimiero kultas rodė Lietuvoje susiformavusią stiprią, į Vakarų Europą orientuotą religinę savimonę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78015"></a>
 - t-002
   global_id: t-78015
-  teiginys: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
+  teiginys: 'Šv. Kazimiero garbinimo tradicijos klostymasis tapo Lietuvos krikščionėjimo simboliu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78016"></a>
 - t-003
   global_id: t-78016
-  teiginys: 'Kazimiero, Lenkijos globėjo šv.'
+  teiginys: '1792 m. ant katedros frontono buvo baigta Lietuvos globėjo šv. Kazimiero skulptūra.'
   pagrindžia:
     - c-004
 
@@ -71,6 +71,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - t-004
 
 - c-002
+  santrauka: 'Šv. Kazimiero garbinimo tradicijos klostymasis tapo Lietuvos krikščionėjimo simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     pradžioje krikščionybė
@@ -88,6 +89,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - t-002
 
 - c-003
+  santrauka: 'Šv. Kazimiero kultas rodė Lietuvoje susiformavusią stiprią, į Vakarų Europą orientuotą religinę savimonę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero
@@ -102,6 +104,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - t-001
 
 - c-004
+  santrauka: '1792 m. ant katedros frontono buvo baigta Lietuvos globėjo šv. Kazimiero skulptūra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos

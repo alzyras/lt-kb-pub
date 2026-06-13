@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62217"></a>
 - t-001
   global_id: t-62217
-  teiginys: 'Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe maldininkų atvyko kilnusis ir pamaldusis Otonas.'
+  teiginys: 'Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     25. Apie Braunšveigo kunigaikščio atvykimą

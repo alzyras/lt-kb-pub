@@ -27,7 +27,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 <a id="claim-t-75617"></a>
 - t-002
   global_id: t-75617
-  teiginys: 'Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tarybinę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido suprasti, kad einama unifikuotos.'
+  teiginys: 'Dainos žodžiais „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ apibūdintas homo sovieticus be tautinių požymių.'
   pagrindžia:
     - c-001
 

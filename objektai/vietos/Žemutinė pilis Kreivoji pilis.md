@@ -29,7 +29,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-86140"></a>
 - t-002
   global_id: t-86140
-  teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per tiltus per Vilnią ir Vingrių upokšnį.'
+  teiginys: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-001
 
 - c-002
-  santrauka: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per tiltus per Vilnią ir Vingrių upokšnį.'
+  santrauka: 'Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,

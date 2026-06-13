@@ -19,13 +19,14 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 <a id="claim-t-60267"></a>
 - t-001
   global_id: t-60267
-  teiginys: 'Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę minėtuosius laužų dūmus, visi kaimynystėje gyvenę stabmeldžiai ir įniko juos puldinėti; abiejose šalyse daug karių buvo sunkiai sužeista, žuvo brolis Ditrichas iš Piremonto ir krito daug netikėlių.'
+  teiginys: 'Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai
@@ -49,4 +50,3 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 ### Susiję objektai
 - [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/pilėnas pilėnai]]
-- [[objektai/zodynas/netikėliai]]

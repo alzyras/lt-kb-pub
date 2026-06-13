@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-87285"></a>
 - t-001
   global_id: t-87285
-  teiginys: 'O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasiuntė į Naugarduką.'
+  teiginys: 'Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
@@ -66,3 +67,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Totoriai]]

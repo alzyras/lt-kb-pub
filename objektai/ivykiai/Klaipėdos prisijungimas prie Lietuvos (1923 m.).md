@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-23325"></a>
 - t-001
   global_id: t-23325
-  teiginys: 'E. Galvanauskas nusistatė užimti Klaipėdos kraštą jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
+  teiginys: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   pagrindžia:
     - c-007
 
@@ -103,7 +103,7 @@ Nenurodyta
 <a id="claim-t-26841"></a>
 - t-010
   global_id: t-26841
-  teiginys: 'VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
+  teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos.'
   pagrindžia:
     - c-009
 
@@ -211,6 +211,7 @@ Nenurodyta
     - t-008
 
 - c-007
+  santrauka: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, nes nemanė, kad Lietuva jį gaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ministras pirminin-
@@ -247,6 +248,7 @@ Nenurodyta
     - t-005
 
 - c-009
+  santrauka: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1923 m. sausio 17 d.
@@ -300,6 +302,7 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Gabrielis Žanas Petisnė]]
 - [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas (miestas)]]

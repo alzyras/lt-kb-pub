@@ -19,13 +19,14 @@ Valančiaus, VAIKŲ KNYGELĖ.
 <a id="claim-t-96060"></a>
 - t-001
   global_id: t-96060
-  teiginys: 'Valančiaus, VAIKŲ KNYGELĖ.'
+  teiginys: 'Vyskupas Valančius parašė „Vaikų knygelę“, kuri išleista su K. Šimonio iliustracijomis ir spalvotu viršeliu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyskupas Valančius parašė „Vaikų knygelę“, kuri išleista su K. Šimonio iliustracijomis ir spalvotu viršeliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     6. Vysk. Valančiaus, VAIKŲ KNYGELĖ. L. Kuodžio redaguota, su

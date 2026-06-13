@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-62724"></a>
 - t-001
   global_id: t-62724
-  teiginys: 'Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].'
+  teiginys: 'Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.'
   pagrindžia:
     - c-001
     - c-002
@@ -50,13 +50,14 @@ Nenurodyta
 <a id="claim-t-62725"></a>
 - t-002
   global_id: t-62725
-  teiginys: 'Dusburgietis teigia, kad kai dar buvo pasaulietis, jis kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti į vienuolius, darė atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame mieste su procesija basomis ir plika galva, puolė.'
+  teiginys: 'Brolis Konradas Friclare ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti rykšte.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie viešąją krikščionių atgailą
@@ -74,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai
@@ -91,6 +93,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Brolis Konradas Friclare ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti rykšte.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai dar buvo pasaulietis, jis

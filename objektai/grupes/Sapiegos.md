@@ -95,5 +95,7 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - [[objektai/zodynas/dvarų milicija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/petihorai]]
+- [[objektai/asmenys/Kazimieras Sapiega]]
 - [[objektai/grupes/Valkininkų konfederacija]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1794 m. rugpjūčio 11–12 d.)]]
 - [[objektai/grupes/Sapiegų giminė]]

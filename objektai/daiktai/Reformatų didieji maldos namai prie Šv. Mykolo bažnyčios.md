@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-87092"></a>
 - t-001
   global_id: t-87092
-  teiginys: 'Mykolo bažnyčia buvo išmūryti didieji maldos namai.'
+  teiginys: 'Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5 pasakoja, kad

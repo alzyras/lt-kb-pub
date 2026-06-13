@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-78709"></a>
 - t-003
   global_id: t-78709
-  teiginys: 'Tačiau Lietuvos vyriausybė maištą numalSino ir lenkai prarado pretekstą atviram Kauno puolimui.'
+  teiginys: '1920 m. vasario 22–23 d. Lietuvos vyriausybė numalšino Kaune kilusį bolševikų sukurstytą maištą, todėl lenkai prarado pretekstą pulti Kauną.'
   pagrindžia:
     - c-002
 
@@ -74,14 +74,14 @@ Nenurodyta
 <a id="claim-t-78711"></a>
 - t-005
   global_id: t-78711
-  teiginys: '1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos teritorijos glumą.'
+  teiginys: '1919 m. rudenį, pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino veržtis į Lietuvos teritorijos gilumą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78712"></a>
 - t-006
   global_id: t-78712
-  teiginys: '[137 Ašmeną, | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas prieš rusus.'
+  teiginys: 'Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus.'
   pagrindžia:
     - c-003
 

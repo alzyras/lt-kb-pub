@@ -19,13 +19,14 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
 <a id="claim-t-40514"></a>
 - t-001
   global_id: t-40514
-  teiginys: 'Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos viceministras, buvęs sssR oro desanto kariuomenės vadas generolas pulkininkas Vladislavas Ačalovas ir sssR sausumos kariuomenės TANKAI PRIEŠ BEGINKLIUS ŽMONES Sausio 13 d.'
+  teiginys: 'Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apie 400 „raudonraiš-

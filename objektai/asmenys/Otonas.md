@@ -20,7 +20,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 <a id="claim-t-60400"></a>
 - t-001
   global_id: t-60400
-  teiginys: 'Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras brolis Otonas vadovavo daug metų, o mirė birželio 2 dieną ir palaidotas Akone156.'
+  teiginys: 'Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     3. Apie brolį Otoną, antrą magistrą
@@ -83,5 +84,6 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - [[objektai/asmenys/Otonas iš Cedlico]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]

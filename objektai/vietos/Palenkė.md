@@ -50,7 +50,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 <a id="claim-t-112044"></a>
 - t-003
   global_id: t-112044
-  teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
+  teiginys: 'Vytenis atgavo didžiąją dalį Palenkės ir prie Lietuvos prijungė Drohičiną bei Brastą.'
   pagrindžia:
     - c-005
 
@@ -85,7 +85,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 <a id="claim-t-112049"></a>
 - t-008
   global_id: t-112049
-  teiginys: 'Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje.'
+  teiginys: 'Palenkėje, Lenkijos kaimynijoje, pirmiausia buvo įvesti kaimai su trilaukiais.'
   pagrindžia:
     - c-002
 
@@ -99,14 +99,14 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 <a id="claim-t-112051"></a>
 - t-010
   global_id: t-112051
-  teiginys: 'Jis paveldėjo Trakus ir Gardiną su Palenke (Liet.'
+  teiginys: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-112052"></a>
 - t-011
   global_id: t-112052
-  teiginys: 'Tad Vytautas tegalėjo gauti Gardiną su Palenkė.'
+  teiginys: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.'
   pagrindžia:
     - c-013
 
@@ -127,7 +127,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 <a id="claim-t-112055"></a>
 - t-014
   global_id: t-112055
-  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  teiginys: 'Vytauto laikais Palenkėje, Melnyke ir galbūt Brastoje, imta statyti pilis rusėniškose LDK žemėse.'
   pagrindžia:
     - c-009
 
@@ -203,6 +203,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - t-001
 
 - c-002
+  santrauka: 'Palenkėje, Lenkijos kaimynijoje, pirmiausia buvo įvesti kaimai su trilaukiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toksai ūkis turėjo įtakos ir Lietuvai. Pirmiausia tokie
@@ -246,6 +247,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - t-018
 
 - c-005
+  santrauka: 'Vytenis atgavo didžiąją dalį Palenkės ir prie Lietuvos prijungė Drohičiną bei Brastą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Senasis
@@ -363,6 +365,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - t-009
 
 - c-011
+  santrauka: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
@@ -401,6 +404,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - t-016
 
 - c-013
+  santrauka: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis

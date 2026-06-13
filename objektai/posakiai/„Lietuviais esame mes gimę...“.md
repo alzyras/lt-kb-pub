@@ -20,14 +20,14 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 <a id="claim-t-75614"></a>
 - t-001
   global_id: t-75614
-  teiginys: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną „Lietuviais esame mes gimę“.'
+  teiginys: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75615"></a>
 - t-002
   global_id: t-75615
-  teiginys: 'Georgas Zauerveinas parašė Mažosios Lietuvos himną „Lietuviais esame mes gimę“, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
+  teiginys: 'Georgas Zauerveinas parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“, kuris išpopuliarėjo ir Didžiojoje Lietuvoje.'
   pagrindžia:
     - c-001
 

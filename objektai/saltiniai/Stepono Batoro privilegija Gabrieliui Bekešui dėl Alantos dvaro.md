@@ -35,21 +35,21 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 <a id="claim-t-88167"></a>
 - t-002
   global_id: t-88167
-  teiginys: 'Po Astiko Alantos dvaras Varšuvos seime paveldėjimo teise buvo atiduotas Gabrieliui Bekešui.'
+  teiginys: 'Varšuvos seime Alantos dvaras po Astiko pagal paveldėjimo teisę buvo atiduotas Gabrieliui Bekešui.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-88168"></a>
 - t-003
   global_id: t-88168
-  teiginys: 'Karalius po Astiko garsiajam Bekešui atidavė Ukmergės apskrityje buvusį Alantos dvarą.'
+  teiginys: 'Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po Astiko Alantos dvaras Varšuvos seime paveldėjimo teise buvo atiduotas Gabrieliui Bekešui.'
+  santrauka: 'Varšuvos seime Alantos dvaras po Astiko pagal paveldėjimo teisę buvo atiduotas Gabrieliui Bekešui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     61
@@ -130,7 +130,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     - t-001
 
 - c-003
-  santrauka: 'Karalius po Astiko garsiajam Bekešui atidavė Ukmergės apskrityje buvusį Alantos dvarą.'
+  santrauka: 'Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­

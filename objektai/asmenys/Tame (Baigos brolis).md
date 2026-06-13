@@ -28,13 +28,14 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 <a id="claim-t-60444"></a>
 - t-001
   global_id: t-60444
-  teiginys: 'Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų.'
+  teiginys: '1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Baigos brolį Tamę ir jo gyvenimą
@@ -64,7 +65,6 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
 - [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Hanza]]
 - [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
 - [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
 - [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]

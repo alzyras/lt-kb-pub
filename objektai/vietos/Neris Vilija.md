@@ -29,14 +29,14 @@ tags:
 <a id="claim-t-86093"></a>
 - t-002
   global_id: t-86093
-  teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
+  teiginys: 'Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-86094"></a>
 - t-003
   global_id: t-86094
-  teiginys: 'Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.'
+  teiginys: 'Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją.'
   pagrindžia:
     - c-003
 
@@ -74,6 +74,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     25
@@ -92,6 +93,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: 'Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios atkaklios Moskoževskio gynybos aplin­

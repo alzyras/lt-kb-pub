@@ -30,7 +30,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 <a id="claim-t-182731"></a>
 - t-001
   global_id: t-182731
-  teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
+  teiginys: 'Vėliau Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
   pagrindžia:
     - c-005
 
@@ -44,7 +44,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 <a id="claim-t-182735"></a>
 - t-003
   global_id: t-182735
-  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
+  teiginys: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
   pagrindžia:
     - c-004
 
@@ -72,7 +72,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 <a id="claim-t-183099"></a>
 - t-007
   global_id: t-183099
-  teiginys: 'Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės.'
+  teiginys: 'Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai atleisti nuo baudžiavos be žemės.'
   pagrindžia:
     - c-007
 
@@ -127,6 +127,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-002
 
 - c-004
+  santrauka: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo
@@ -144,6 +145,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-003
 
 - c-005
+  santrauka: 'Vėliau Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia Vytautas pakartoja ankstesnių Lie-
@@ -176,7 +178,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-004
 
 - c-007
-  santrauka: 'Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės.'
+  santrauka: 'Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai atleisti nuo baudžiavos be žemės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip

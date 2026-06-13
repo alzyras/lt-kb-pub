@@ -63,7 +63,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/grupes/Jastžembcų giminė]]
 - [[objektai/grupes/Lenkų didžponiai]]
 - [[objektai/grupes/Pranciškonų ordinas]]

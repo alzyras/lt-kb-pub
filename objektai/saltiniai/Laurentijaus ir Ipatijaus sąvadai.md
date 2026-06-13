@@ -19,13 +19,14 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
 <a id="claim-t-31784"></a>
 - t-001
   global_id: t-31784
-  teiginys: 'Laurentijaus ir Ipatijaus sąvaduose kartota vis daugiau žinių apie lietuvius nuo XII a. antros pusės, kai jie puldinėjo rusų žemes.'
+  teiginys: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose kartota vis daugiau žinių apie lietuvių puolimus į rusų žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose kartota vis daugiau žinių apie lietuvių puolimus į rusų žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar ne per arti vienas prie kito

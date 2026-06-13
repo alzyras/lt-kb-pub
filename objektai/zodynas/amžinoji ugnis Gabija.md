@@ -76,6 +76,5 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/gabija]]
-- [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]

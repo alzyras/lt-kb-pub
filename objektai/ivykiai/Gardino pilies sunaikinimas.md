@@ -43,21 +43,22 @@ Nenurodyta
 <a id="claim-t-62783"></a>
 - t-001
   global_id: t-62783
-  teiginys: 'Dusburgietis teigia, kad apie Gardino pilies sunaikinimą 1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius.'
+  teiginys: '1284 m. Ordino magistras su Skomantu patraukė prieš Gardino pilį, o broliai įsiveržė į ją ir sudegino.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62784"></a>
 - t-002
   global_id: t-62784
-  teiginys: 'Dusburgietis teigia, kad po to tūkstantis aštuoni šimtai vyrų užpuolė šios pilies apylinkes, jas nusiaubė, degindami bei piešdami, ir patraukė namo su didžiausiu grobiu, paėmę daug žmonių į nelaisvę ar išžudę.'
+  teiginys: 'Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1284 m. Ordino magistras su Skomantu patraukė prieš Gardino pilį, o broliai įsiveržė į ją ir sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Gardino pilies sunaikinimą
@@ -76,6 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
@@ -90,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Po Gardino pilies sudeginimo 1800 vyrų nusiaubė jos apylinkes ir grįžo su dideliu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop iš dievo malonės broliai įsiveržė
@@ -107,3 +110,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/magistras]]

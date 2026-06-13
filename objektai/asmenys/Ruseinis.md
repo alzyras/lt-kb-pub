@@ -22,13 +22,14 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 <a id="claim-t-60199"></a>
 - t-001
   global_id: t-60199
-  teiginys: 'Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.'
+  teiginys: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą ir netrukus buvo pakrikštytas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą ir netrukus buvo pakrikštytas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
@@ -47,4 +48,6 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
+- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
+- [[objektai/daiktai/Medinis kryžius]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]

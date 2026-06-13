@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-183220"></a>
 - t-002
   global_id: t-183220
-  teiginys: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
+  teiginys: 'Per didžiuosius pokario trėmimus 1948 m. gegužę iš Lietuvos ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyventojai.'
   pagrindžia:
     - c-001
 

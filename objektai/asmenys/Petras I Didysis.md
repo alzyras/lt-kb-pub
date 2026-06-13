@@ -44,7 +44,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 <a id="claim-t-184425"></a>
 - t-004
   global_id: t-184425
-  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
+  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dėl paramos prieš Švediją.'
   pagrindžia:
     - c-008
 
@@ -65,7 +65,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 <a id="claim-t-184428"></a>
 - t-007
   global_id: t-184428
-  teiginys: 'Petro Didžiojo epocha, valdant iš Peterburgo, įvedė Rusijos imperiją į Europos areną ir reiškė Respublikos patekimą Rusijos įtakon.'
+  teiginys: 'Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.'
   pagrindžia:
     - c-004
 
@@ -124,6 +124,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-003
 
 - c-004
+  santrauka: 'Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
@@ -196,6 +197,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-002
 
 - c-008
+  santrauka: 'Augustas II susitarė su Rusijos valdovu Petru I dėl paramos prieš Švediją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Todėl Augustas 11 nusprendė

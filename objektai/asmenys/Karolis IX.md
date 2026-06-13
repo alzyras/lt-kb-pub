@@ -31,14 +31,14 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 <a id="claim-t-79076"></a>
 - t-001
   global_id: t-79076
-  teiginys: 'SALASPILIO (KIRKCHOLMO) MUSIS riuomenės karališkosios gvardijos pėstininkų batalionas, už jo ant žirgo Švedijos karalius Karolis Ix.'
+  teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX ketino siųsti gvardijos kavaleriją į lemiamą ataką.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-79077"></a>
 - t-002
   global_id: t-79077
-  teiginys: 'Beje, Švedijos karalius Karolis 1x vos nepakliuvo į nelaisvę.'
+  teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.'
   pagrindžia:
     - c-005
 
@@ -59,7 +59,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 <a id="claim-t-79080"></a>
 - t-005
   global_id: t-79080
-  teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
+  teiginys: 'Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų.'
   pagrindžia:
     - c-004
 
@@ -138,6 +138,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-004
 
 - c-004
+  santrauka: 'Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     2500 švedų karių įsitvirtino mieste ir
@@ -153,6 +154,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-005
 
 - c-005
+  santrauka: 'Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švedų kariuomenė neatlaikė ir pra-

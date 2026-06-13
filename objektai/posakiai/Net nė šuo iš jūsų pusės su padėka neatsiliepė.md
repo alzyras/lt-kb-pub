@@ -49,7 +49,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 <a id="claim-t-82142"></a>
 - t-003
   global_id: t-82142
-  teiginys: 'Mūsų senoliai siuntė jums savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau] niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė dėl tų pasiūlymų.'
+  teiginys: 'Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
     - t-002
 
 - c-002
+  santrauka: 'Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Intrent et exe­

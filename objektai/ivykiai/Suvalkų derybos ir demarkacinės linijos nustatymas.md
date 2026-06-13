@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-41365"></a>
 - t-001
   global_id: t-41365
-  teiginys: 'Derybose Lietuvos delegacija reikalavo nustatyti laikiną demarkacijos liniją, pasibaigus lenkų-bolševikų kovoms, atitraukti lenkų pajėgas už Lietuvos su sovietais suderėtų sienų.'
+  teiginys: 'Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų.'
   pagrindžia:
     - c-003
 
@@ -89,6 +89,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Derybose Lietuvos delegacija reikalavo

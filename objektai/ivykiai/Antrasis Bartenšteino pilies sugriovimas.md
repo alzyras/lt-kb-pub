@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62195"></a>
 - t-001
   global_id: t-62195
-  teiginys: 'Dusburgietis teigia, kad apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo.'
+  teiginys: 'Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
@@ -66,6 +67,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

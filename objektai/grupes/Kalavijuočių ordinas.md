@@ -66,14 +66,14 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-175534"></a>
 - t-005
   global_id: t-175534
-  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  teiginys: '1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   pagrindžia:
     - c-019
 
 <a id="claim-t-175535"></a>
 - t-006
   global_id: t-175535
-  teiginys: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  teiginys: 'Kalavijuočių ordinas buvo pavadintas Kristaus Karių Brolija, bet dėl raudono kalavijo ant balto apsiausto paprastai vadintas Kalavijuočių ordinu.'
   pagrindžia:
     - c-015
 
@@ -102,7 +102,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-175539"></a>
 - t-010
   global_id: t-175539
-  teiginys: 'Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos žemė Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje, šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų ordino didįjį magistrą, prijungti.'
+  teiginys: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino.'
   pagrindžia:
     - c-018
 
@@ -116,7 +116,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-175541"></a>
 - t-012
   global_id: t-175541
-  teiginys: 'Dusburgietis teigia, kad šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei kitiems to paties.'
+  teiginys: '1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.'
   pagrindžia:
     - c-021
 
@@ -151,14 +151,14 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-175546"></a>
 - t-017
   global_id: t-175546
-  teiginys: 'Tačiau šis procesas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsikūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valstybei.'
+  teiginys: '1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-175547"></a>
 - t-018
   global_id: t-175547
-  teiginys: 'Sustiprėjusios Lietuvos valstybės kariuomenė buvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietuvių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietui viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .'
+  teiginys: '1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną.'
   pagrindžia:
     - c-013
 
@@ -179,14 +179,14 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-175551"></a>
 - t-021
   global_id: t-175551
-  teiginys: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
+  teiginys: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-175552"></a>
 - t-022
   global_id: t-175552
-  teiginys: 'Pagal Palestinoje su turkais kovojančių templininkų statutą, vyskupo priklausomybėje 1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( Fratres Militiae Christi ).'
+  teiginys: 'Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą.'
   pagrindžia:
     - c-004
 
@@ -214,14 +214,14 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-175556"></a>
 - t-026
   global_id: t-175556
-  teiginys: 'Vieni jų atsikraustė į Padauguvį (kalavijuočiai), o kiti į Pavyslį (kryžiuočiai).'
+  teiginys: 'XIII a. kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai atsikraustė į Pavyslį.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-175557"></a>
 - t-027
   global_id: t-175557
-  teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
+  teiginys: '1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.'
   pagrindžia:
     - c-009
 
@@ -235,7 +235,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 <a id="claim-t-184563"></a>
 - t-029
   global_id: t-184563
-  teiginys: 'Mūšyje kryžiuočių kariuomenė buvo sutriuškinta, žuvo keli tūkstančiai karių, magistras ir beveik 20 ordino riterių.'
+  teiginys: 'Viename mūšyje kryžiuočių kariuomenė buvo sutriuškinta, žuvo keli tūkstančiai karių, magistras ir beveik 20 ordino riterių.'
   pagrindžia:
     - c-023
 
@@ -382,6 +382,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-007
 
 - c-009
+  santrauka: '1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
@@ -441,6 +442,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-023
 
 - c-012
+  santrauka: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
@@ -559,6 +561,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-008
 
 - c-018
+  santrauka: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     28. Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
@@ -575,6 +578,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-010
 
 - c-019
+  santrauka: '1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
@@ -608,6 +612,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-002
 
 - c-021
+  santrauka: '1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
@@ -648,7 +653,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - t-028
 
 - c-023
-  santrauka: 'Mūšyje kryžiuočių kariuomenė buvo sutriuškinta, žuvo keli tūkstančiai karių, magistras ir beveik 20 ordino riterių.'
+  santrauka: 'Viename mūšyje kryžiuočių kariuomenė buvo sutriuškinta, žuvo keli tūkstančiai karių, magistras ir beveik 20 ordino riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Padrąsėjo širdys, ir užvi­
@@ -804,11 +809,13 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - [[objektai/asmenys/Volkvinas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]
+- [[objektai/grupes/Estai]]
 - [[objektai/asmenys/Gotardas Ketleris]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/asmenys/Vilhelmas Fiurstenbergas]]
 - [[objektai/zodynas/krašto magistras]]
+- [[objektai/zodynas/statutas]]
 - [[objektai/asmenys/Frankas Kirskorffas]]
 - [[objektai/asmenys/Fridrichas (Rygos vyskupas)]]
 - [[objektai/asmenys/Otonas]]

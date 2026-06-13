@@ -27,7 +27,7 @@ tags:
 <a id="claim-t-184363"></a>
 - t-002
   global_id: t-184363
-  teiginys: 'Įsakyme buvo įsakmiai pažymėta : jeigu kas butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti kataliką, ar katalikę » ir priimti Romos krikštą.'
+  teiginys: 'Jogailos įsakyme mišriose santuokose su rusais buvo reikalaujama sekti kataliką ar katalikę ir priimti Romos krikštą.'
   pagrindžia:
     - c-002
 
@@ -49,7 +49,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Įsakyme buvo įsakmiai pažymėta : jeigu kas butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti kataliką, ar katalikę » ir priimti Romos krikštą.'
+  santrauka: 'Jogailos įsakyme mišriose santuokose su rusais buvo reikalaujama sekti kataliką ar katalikę ir priimti Romos krikštą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įsakyme buvo įsakmiai pažymėta : jeigu kas

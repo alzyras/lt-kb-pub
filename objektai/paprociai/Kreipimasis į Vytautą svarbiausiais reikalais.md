@@ -45,22 +45,15 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-93032"></a>
-- t-002
-  global_id: t-93032
-  teiginys: 'Žodžiu, visur Vytautas buvo reikalingas, pageidaujamas ir laukiamas.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-93033"></a>
-- t-003
+- t-002
   global_id: t-93033
   teiginys: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-93034"></a>
-- t-004
+- t-003
   global_id: t-93034
   teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.'
   pagrindžia:
@@ -89,26 +82,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-004
+    - t-003
 
 - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet Vytautui šlėktą karštai užtariant ir
-    jam tarpininkaujant, kaip tai aiškiai pažymėta pačioje privile­
-    gijoje, Jogaila padidino bajorijos luomo teises^1 ). Lenkų sena­
-    toriai kreipdavosi į Vyt. ir tais atvejais, kai reikėdavo išdalinti
-    pasaulietiškus vakansus (vietas) ir vyskupų sostus, kad jis
-    prikalbėtų Jogailą nesiskubinti su paskyrimais, nepasitaręs su
-    karūnos pralotais ir didžiūnais. Žodžiu, visur Vytautas buvo
-    reikalingas, pageidaujamas ir laukiamas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -125,7 +101,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -135,7 +111,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Ciołek]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/luomas]]

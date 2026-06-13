@@ -24,7 +24,7 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 <a id="claim-t-29204"></a>
 - t-001
   global_id: t-29204
-  teiginys: 'Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš rankos, yra nemaža palietęs ir Didžiosios Lietuvos Kunigaikštystės istoriją.'
+  teiginys: 'Jokimas Lelevelis savo gausiuose veikaluose nemažai rašė apie Didžiosios Lietuvos Kunigaikštystės istoriją.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokimas Lelevelis savo gausiuose veikaluose nemažai rašė apie Didžiosios Lietuvos Kunigaikštystės istoriją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių

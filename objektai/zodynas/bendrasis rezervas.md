@@ -26,7 +26,7 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 <a id="claim-t-38707"></a>
 - t-001
   global_id: t-38707
-  teiginys: 'Rezervas parėmė koloną, o vadovavimą perėmė karininkas J. Reikala.'
+  teiginys: 'Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
     - t-002
 
 - c-002
+  santrauka: 'Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. Nastopka. Rezervas parėmė šią koloną,

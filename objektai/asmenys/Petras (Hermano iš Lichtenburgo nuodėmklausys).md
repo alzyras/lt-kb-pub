@@ -21,13 +21,14 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 <a id="claim-t-60407"></a>
 - t-001
   global_id: t-60407
-  teiginys: 'Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį subarė, sakydamas, kad karo metu dėl kitų šarvų svorio jis privaląs nusiimti grandininius, tas atrėžė, kad niekas jo negalįs priversti, kol gyvas, juos nusivilkti.'
+  teiginys: 'Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paprastai, susiruošęs  į

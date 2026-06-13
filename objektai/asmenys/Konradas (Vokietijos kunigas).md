@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
 <a id="claim-t-60363"></a>
 - t-001
   global_id: t-60363
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių atversti 1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė į Lietuvos kraštą atversti stabmeldžių.'
+  teiginys: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1285 m. Vokietijos kunigas Konradas persikėlė į Lietuvą atversti stabmeldžių, o po dvejų metų lietuviai jį nužudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip žuvo Konradas, Vokietijos kunigas, persikėlęs į Lietuvą stabmeldžių
@@ -54,4 +55,5 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/Konrado misionieriaus nužudymas Lietuvoje (1285-1287 m.)]]

@@ -27,7 +27,7 @@ tags:
 <a id="claim-t-83566"></a>
 - t-002
   global_id: t-83566
-  teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
+  teiginys: 'Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.'
   pagrindžia:
     - c-001
 

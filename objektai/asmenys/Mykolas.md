@@ -24,13 +24,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   pagrindžia:
     - c-001
 
-<a id="claim-t-64009"></a>
-- t-002
-  global_id: t-64009
-  teiginys: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +69,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
 - [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
 - [[objektai/daiktai/Kardas]]
@@ -121,16 +113,20 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Bajorų konfederacija]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje]]
 - [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę]]
+- [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas]]
 - [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/asmenys/Mykolas Kiełbasa]]
 - [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas]]
+- [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]

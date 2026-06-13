@@ -28,13 +28,14 @@ periodo_grupes:
 <a id="claim-t-100100"></a>
 - t-001
   global_id: t-100100
-  teiginys: '(^124) I SKYRIUS: LIETUVOS PROISTORĖ —-Zajączkowski, St.'
+  teiginys: 'St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^124) I SKYRIUS: LIETUVOS PROISTORĖ

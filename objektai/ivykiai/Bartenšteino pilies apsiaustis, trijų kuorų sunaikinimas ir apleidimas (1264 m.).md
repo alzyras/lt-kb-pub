@@ -45,21 +45,21 @@ Nenurodyta
 <a id="claim-t-66478"></a>
 - t-001
   global_id: t-66478
-  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies apleidimą Prūsams atstačius kuorus, ketvirtaisiais [apsupimo] metais, taigi 1264 viešpaties metais, broliai, trūkdami maisto ir negalėdami ilgiau prūsams priešintis, tris kartus vis dėlto juos apgavo štai kokiu būdu.'
+  teiginys: '1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir tris kartus juos apgavo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-66479"></a>
 - t-002
   global_id: t-66479
-  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
+  teiginys: 'Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66480"></a>
 - t-003
   global_id: t-66480
-  teiginys: 'Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes.'
+  teiginys: 'Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bartenšteino pilies puolimą
@@ -97,6 +98,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
@@ -115,6 +117,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: '1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir tris kartus juos apgavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bartenšteino pilies apleidimą

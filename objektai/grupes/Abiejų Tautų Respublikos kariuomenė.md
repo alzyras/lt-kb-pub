@@ -20,13 +20,14 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
 <a id="claim-t-40843"></a>
 - t-001
   global_id: t-40843
-  teiginys: 'ATR kariuomenės XVII a. pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebebuvo naudojamos.'
+  teiginys: 'XVII a. Abiejų Tautų Respublikos kariuomenė pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebenaudotos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVII a. Abiejų Tautų Respublikos kariuomenė pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebenaudotos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     _ palydos poreikius.
@@ -49,4 +50,5 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
 ### Susiję objektai
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]

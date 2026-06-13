@@ -54,7 +54,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 <a id="claim-t-173447"></a>
 - t-004
   global_id: t-173447
-  teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
+  teiginys: 'Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   pagrindžia:
     - c-006
 
@@ -71,13 +71,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginys: 'Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės pilį.'
   pagrindžia:
     - c-008
-
-<a id="claim-t-173450"></a>
-- t-007
-  global_id: t-173450
-  teiginys: 'Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.'
-  pagrindžia:
-    - c-001
 
 <a id="claim-t-173452"></a>
 - t-008
@@ -103,7 +96,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 <a id="claim-t-173455"></a>
 - t-011
   global_id: t-173455
-  teiginys: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
+  teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.'
   pagrindžia:
     - c-009
 
@@ -235,6 +228,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-010
 
 - c-006
+  santrauka: 'Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino
@@ -283,6 +277,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-006
 
 - c-009
+  santrauka: 'XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^244) II skyrius: valstybės iškilimas

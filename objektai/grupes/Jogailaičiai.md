@@ -55,13 +55,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   pagrindžia:
     - c-001
 
-<a id="claim-t-183136"></a>
-- t-005
-  global_id: t-183136
-  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -127,24 +120,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Okupacijos ir aneksijos, tremtys, genocidai ir
-    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
-    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
-    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
-    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
-    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
-    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
-    ninkų, audėjų, auklių, inžinierių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
@@ -168,7 +143,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/ivykiai/Mohačo mūšis]]
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Piastų dinastija]]
 - [[objektai/asmenys/Solikovskis]]
 - [[objektai/asmenys/Steponas Batoras]]

@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-75395"></a>
 - t-001
   global_id: t-75395
-  teiginys: 'Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.'
+  teiginys: 'Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas Sierakauskas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.'
   pagrindžia:
     - c-001
 

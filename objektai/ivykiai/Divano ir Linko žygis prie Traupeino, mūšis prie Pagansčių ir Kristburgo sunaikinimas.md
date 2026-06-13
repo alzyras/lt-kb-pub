@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-66521"></a>
 - t-003
   global_id: t-66521
-  teiginys: 'Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.'
+  teiginys: 'Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.'
   pagrindžia:
     - c-003
 
@@ -133,6 +133,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,
@@ -158,4 +159,5 @@ Nenurodyta
 - [[objektai/asmenys/Linkas]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Sirenas]]
 - [[objektai/zodynas/papilys]]

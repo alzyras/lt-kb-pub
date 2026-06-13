@@ -31,7 +31,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 <a id="claim-t-00046"></a>
 - t-002
   global_id: t-00046
-  teiginys: 'Rėza 1818 m. pirmą kartą paskelbė K. Duonelaičio raštus.'
+  teiginys: 'K. Duonelaičio raštus Rėza pirmą kartą paskelbė 1818 m.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. Duonelaičio raštus Rėza pirmą kartą paskelbė 1818 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskutiniai tos rūšies

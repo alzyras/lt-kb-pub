@@ -22,14 +22,14 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 <a id="claim-t-88452"></a>
 - t-001
   global_id: t-88452
-  teiginys: 'Miechovita savo metraščiuose kritikavo Aleksandro Balinskio gydymą Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.'
+  teiginys: 'Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, kai karalius Aleksandras vos neužduso garo vonioje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Miechovita savo metraščiuose kritikavo Aleksandro Balinskio gydymą Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.'
+  santrauka: 'Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, kai karalius Aleksandras vos neužduso garo vonioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     46

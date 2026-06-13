@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-88024"></a>
 - t-001
   global_id: t-88024
-  teiginys: '7; iš ten buvo perimta vėlesnių kronikininkų, būtent, Henneberger, p. 282.'
+  teiginys: 'Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas daly­

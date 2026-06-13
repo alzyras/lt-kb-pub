@@ -31,7 +31,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 <a id="claim-t-170077"></a>
 - t-001
   global_id: t-170077
-  teiginys: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
+  teiginys: 'Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.'
   pagrindžia:
     - c-001
 
@@ -80,7 +80,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 <a id="claim-t-170084"></a>
 - t-008
   global_id: t-170084
-  teiginys: 'Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį.'
+  teiginys: 'Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių veiklą ir laikė naudingu nuosaikų valstybinį reguliavimą.'
   pagrindžia:
     - c-002
 
@@ -94,6 +94,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. balandį

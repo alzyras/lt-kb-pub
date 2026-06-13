@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-59701"></a>
 - t-001
   global_id: t-59701
-  teiginys: 'Dusburgietis teigia, kad kai jis brovėsi į jo karalystę, to krašto kaimiečiai su pjūklais taip papjovė medžius miškuose, kuriais turėjo vengrai grįždami žygiuoti, kad vienas medis griūdamas parblokštų kitą ir taip toliau.'
+  teiginys: 'Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kaimiečiai pjūklais papjovė medžius miškuose, kad grįžtančius vengrus užgriūtų vienas kitą parbloškiantys medžiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dievo kerštą

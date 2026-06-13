@@ -181,7 +181,7 @@ Nenurodyta
 <a id="claim-t-26802"></a>
 - t-018
   global_id: t-26802
-  teiginys: 'O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.'
+  teiginys: 'Sąjūdis buvo tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius ir kėlęs laisvės, demokratijos bei nepriklausomybės idealus.'
   pagrindžia:
     - c-017
 
@@ -216,7 +216,7 @@ Nenurodyta
 <a id="claim-t-26807"></a>
 - t-023
   global_id: t-26807
-  teiginys: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
+  teiginys: '1988 m. lapkritį Lietuvos susirinkimuose ir mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, stiprinusioms centralizaciją.'
   pagrindžia:
     - c-020
 
@@ -230,7 +230,7 @@ Nenurodyta
 <a id="claim-t-26809"></a>
 - t-025
   global_id: t-26809
-  teiginys: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
+  teiginys: '1990 m. sausį–vasarį rinkimų kampanijoje susidūrė LPS, skleidęs nepriklausomos Lietuvos atkūrimo idėją, ir savarankiška LKP.'
   pagrindžia:
     - c-008
 
@@ -523,6 +523,7 @@ Nenurodyta
     - t-019
 
 - c-017
+  santrauka: 'Sąjūdis buvo tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius ir kėlęs laisvės, demokratijos bei nepriklausomybės idealus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     So-
@@ -577,6 +578,7 @@ Nenurodyta
     - t-022
 
 - c-020
+  santrauka: '1988 m. lapkritį Lietuvos susirinkimuose ir mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, stiprinusioms centralizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo šiol organi-

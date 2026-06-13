@@ -41,14 +41,15 @@ Nenurodyta
 <a id="claim-t-62677"></a>
 - t-001
   global_id: t-62677
-  teiginys: 'Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.'
+  teiginys: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai karalius jį paklausė, rodydamas
@@ -67,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė

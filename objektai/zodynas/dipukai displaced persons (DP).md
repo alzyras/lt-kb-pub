@@ -34,7 +34,7 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
 <a id="claim-t-101578"></a>
 - t-002
   global_id: t-101578
-  teiginys: 'Prasidėjus Šaltajam karui, JAV pakeitė požiūrį į dipukus ir 1948 m. priėmė Perkeltųjų asmenų įstatymą.'
+  teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, JAV ėmė keisti požiūrį į dipukus ir 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
   pagrindžia:
     - c-002
 

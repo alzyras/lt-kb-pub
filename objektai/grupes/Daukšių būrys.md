@@ -20,13 +20,14 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
 <a id="claim-t-40873"></a>
 - t-001
   global_id: t-40873
-  teiginys: 'Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vaclovas Vyšniauskas, Daukšių būrio kovotojai Alfonsas Kirtiklis, Juozas Laukaitis ir dar 6 laisvės kovotojai.'
+  teiginys: 'Sargyboje žuvo Daukšių būrio kovotojai Alfonsas Kirtiklis, Juozas Laukaitis ir dar šeši laisvės kovotojai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sargyboje žuvo Daukšių būrio kovotojai Alfonsas Kirtiklis, Juozas Laukaitis ir dar šeši laisvės kovotojai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Partizanai taip

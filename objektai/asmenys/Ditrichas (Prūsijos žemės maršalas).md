@@ -28,28 +28,28 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 <a id="claim-t-89685"></a>
 - t-001
   global_id: t-89685
-  teiginys: 'Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o palaidotas Kulmenzės bažnyčioje.'
+  teiginys: 'Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89686"></a>
 - t-002
   global_id: t-89686
-  teiginys: 'Dusburgietis teigia, kad kai apie tai išgirdo magistras brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.'
+  teiginys: 'Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89687"></a>
 - t-003
   global_id: t-89687
-  teiginys: 'Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas, įgudęs kariauti ir Kristui atsidavęs vyras.'
+  teiginys: 'Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89688"></a>
 - t-004
   global_id: t-89688
-  teiginys: 'Dusburgietis teigia, kad ditrichas (Prūsijos žemės maršalas) patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.'
+  teiginys: 'Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.'
   pagrindžia:
     - c-001
 
@@ -105,4 +105,5 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - [[objektai/grupes/Notangai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Helmerichas]]
 - [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]

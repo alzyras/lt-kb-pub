@@ -29,7 +29,7 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
 <a id="claim-t-183704"></a>
 - t-002
   global_id: t-183704
-  teiginys: 'Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų didelis mūšis ir nugalėjo Lietuva“.'
+  teiginys: 'Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokieči
     - t-001
 
 - c-002
-  santrauka: 'Rusų Maskvos sąvade kova prie Vilniaus taip pat atsispindi: „atėjo vokiečiai prie Vilniaus miesto prieš Vytautą, ir buvo tarp jų didelis mūšis ir nugalėjo Lietuva“.'
+  santrauka: 'Rusų Maskvos sąvade rašoma, kad prie Vilniaus prieš Vytautą atėjusius vokiečius dideliame mūšyje nugalėjo Lietuva.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besitraukiantys kryžiuočiai ir jų talkininkai, Vytauto ir jo

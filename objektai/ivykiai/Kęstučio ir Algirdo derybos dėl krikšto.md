@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-35845"></a>
 - t-001
   global_id: t-35845
-  teiginys: 'Tiesa, savo valdymo pradžioje Kęstutis su Algirdu buvo pradėję tartis dėl krikšto.'
+  teiginys: 'Valdymo pradžioje Kęstutis ir Algirdas buvo pradėję tartis dėl krikšto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdymo pradžioje Kęstutis ir Algirdas buvo pradėję tartis dėl krikšto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kęstučiui dar smarkiau, negu pirmtakū­

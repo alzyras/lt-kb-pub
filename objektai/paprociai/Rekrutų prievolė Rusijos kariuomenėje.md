@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-77948"></a>
 - t-001
   global_id: t-77948
-  teiginys: 'LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių padėties iš esmės nepakeitė.'
+  teiginys: 'Po LDK branduolio žemių prijungimo prie Rusijos valstiečiams didžiausia blogybė buvo 25 metų rekrutų tarnyba Rusijos kariuomenėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po LDK branduolio žemių prijungimo prie Rusijos valstiečiams didžiausia blogybė buvo 25 metų rekrutų tarnyba Rusijos kariuomenėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors didžiosios etninės

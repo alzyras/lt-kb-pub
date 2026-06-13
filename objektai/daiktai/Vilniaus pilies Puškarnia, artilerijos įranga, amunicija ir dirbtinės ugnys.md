@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-87101"></a>
 - t-001
   global_id: t-87101
-  teiginys: 'Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos bei amunicijos dirbtuvė.'
+  teiginys: 'Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il

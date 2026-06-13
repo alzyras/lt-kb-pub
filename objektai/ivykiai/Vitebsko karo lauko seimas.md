@@ -65,3 +65,4 @@ Nenurodyta
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/ivykiai/Liublino unija]]

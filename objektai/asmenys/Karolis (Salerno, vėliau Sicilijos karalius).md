@@ -28,7 +28,7 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
 <a id="claim-t-60354"></a>
 - t-001
   global_id: t-60354
-  teiginys: 'Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atidengimą 1280 viešpaties metais Karolis, Salerno, o vėliau Sicilijos karalius, atidengė Marijos Magdalietės palaikus (Ptol.'
+  teiginys: '1280 m. Karolis, Salerno ir vėlesnis Sicilijos karalius, atidengė Marijos Magdalietės palaikus.'
   pagrindžia:
     - c-001
 

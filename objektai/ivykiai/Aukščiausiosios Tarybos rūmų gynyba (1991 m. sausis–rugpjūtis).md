@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-171455"></a>
 - t-004
   global_id: t-171455
-  teiginys: 'Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros.'
+  teiginys: 'Pirmomis sausio įvykių dienomis dalis Aukščiausiosios Tarybos gynėjų turėjo ginti rūmus ir jų išorinį perimetrą.'
   pagrindžia:
     - c-001
 
@@ -92,7 +92,7 @@ Nenurodyta
 <a id="claim-t-171460"></a>
 - t-008
   global_id: t-171460
-  teiginys: 'Šimėno dingimas - tai proimperiniy jėgų darbo rezultatas, nes jį om Parlamento gynybos principai Galima išskirti tris principus: 1) sovietų agresijos fiksavimas ir informacijos sklaida Lietuvoje bei užsienyje, 2) gynyba kariniais metodais, 3) pilietinio.'
+  teiginys: 'Aukščiausiosios Tarybos rūmų gynyba rėmėsi trimis principais: agresijos fiksavimu, karine gynyba ir pilietiniu nesmurtiniu pasipriešinimu.'
   pagrindžia:
     - c-007
 
@@ -120,7 +120,7 @@ Nenurodyta
 <a id="claim-t-171464"></a>
 - t-012
   global_id: t-171464
-  teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
+  teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji AT gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
   pagrindžia:
     - c-001
 

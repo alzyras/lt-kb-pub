@@ -29,7 +29,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 <a id="claim-t-183515"></a>
 - t-002
   global_id: t-183515
-  teiginys: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  teiginys: 'Vytauto politika, autorių vertinimu, buvo orientuota į „švento valdovo“ įvaizdį Lietuvos christianizacijos kontekste.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
     - t-001
 
 - c-002
-  santrauka: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  santrauka: 'Vytauto politika, autorių vertinimu, buvo orientuota į „švento valdovo“ įvaizdį Lietuvos christianizacijos kontekste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-

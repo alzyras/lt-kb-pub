@@ -21,13 +21,14 @@ tags:
 <a id="claim-t-39631"></a>
 - t-001
   global_id: t-39631
-  teiginys: 'Pukuveras tais pačiais metais pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
+  teiginys: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Pukuveras, Lietuvos karalius, tais pačiais

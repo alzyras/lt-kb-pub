@@ -43,7 +43,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 <a id="claim-t-78877"></a>
 - t-001
   global_id: t-78877
-  teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  teiginys: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-003
 
@@ -66,8 +66,8 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   global_id: t-78880
   teiginys: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 

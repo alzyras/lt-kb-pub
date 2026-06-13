@@ -23,7 +23,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 <a id="claim-t-66254"></a>
 - t-001
   global_id: t-66254
-  teiginys: 'Dusburgietis teigia, kad apie dievo kerštą Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene patraukė prieš vieną karalių, jam pavaldų.'
+  teiginys: 'Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-002
 
 - c-002
+  santrauka: 'Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dievo kerštą

@@ -28,20 +28,21 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 <a id="claim-t-62996"></a>
 - t-001
   global_id: t-62996
-  teiginys: 'Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir, suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol.'
+  teiginys: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62997"></a>
 - t-002
   global_id: t-62997
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys prarado labai daug užmuštaisiais (Ptol.'
+  teiginys: 'Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
@@ -57,6 +58,7 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
     - t-002
 
 - c-002
+  santrauka: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,

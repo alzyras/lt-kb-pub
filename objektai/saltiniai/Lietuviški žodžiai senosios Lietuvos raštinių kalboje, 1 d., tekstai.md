@@ -26,13 +26,14 @@ Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuvišk
 <a id="claim-t-31789"></a>
 - t-001
   global_id: t-31789
-  teiginys: 'Su gausiomis originalių šaltinių ištraukomis jis išrinko gausius lietuviškus žodžius (299) iš senosios Lietuvos valstybės raštinių kalbos ir išleido vertingą šaltinių ištraukų rinkinį: «Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai».'
+  teiginys: '1941 m. rinkinyje „Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai“ pateikti 299 lietuviški žodžiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1941 m. rinkinyje „Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai“ pateikti 299 lietuviški žodžiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ten jis paskelbė beveik pusę

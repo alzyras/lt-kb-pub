@@ -38,7 +38,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 <a id="claim-t-182709"></a>
 - t-002
   global_id: t-182709
-  teiginys: 'Tačiau kitoje dalyje Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta keturiomis konvencijomis (karinė, transporto, finansų, muitų).'
+  teiginys: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija.'
   pagrindžia:
     - c-002
 
@@ -87,6 +87,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - t-006
 
 - c-002
+  santrauka: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kitoje dalyje
@@ -207,3 +208,4 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - [[objektai/ivykiai/Karaliaus Uracho rinkimas]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]
+- [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

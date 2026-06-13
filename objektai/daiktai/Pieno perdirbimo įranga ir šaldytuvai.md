@@ -43,16 +43,9 @@ Nenurodyta
 <a id="claim-t-45532"></a>
 - t-001
   global_id: t-45532
-  teiginys: 'Ūkininkai pradėjo kooperuotis, kūrėsi pieno perdirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-45533"></a>
-- t-002
-  global_id: t-45533
   teiginys: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   pagrindžia:
-    - c-001
+    - c-002
 
 <a id="claim-t-45534"></a>
 - t-003
@@ -81,6 +74,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-

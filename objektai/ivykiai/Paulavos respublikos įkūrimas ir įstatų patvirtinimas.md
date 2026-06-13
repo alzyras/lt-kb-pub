@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-77886"></a>
 - t-002
   global_id: t-77886
-  teiginys: 'Bžostovskio įkurta Paulavos respublika.'
+  teiginys: 'Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką, kurios įstatus 1791 m. patvirtino Ketverių metų seimas.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką, kurios įstatus 1791 m. patvirtino Ketverių metų seimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
@@ -108,3 +109,5 @@ Nenurodyta
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/zodynas/seimas]]

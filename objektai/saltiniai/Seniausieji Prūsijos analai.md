@@ -28,20 +28,21 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 <a id="claim-t-61006"></a>
 - t-001
   global_id: t-61006
-  teiginys: 'Dusburgietis teigia, kad „Pelplino analų“ teksto analizė leidžia manyti, kad „Seniausieji Prūsijos analai“, iš kurių padarytos mūsų minėtos išlikusios kopijos, pirmajame savo raidos etape apėmė iš esmės 1230—1293 m. įvykius101.'
+  teiginys: 'Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-61007"></a>
 - t-002
   global_id: t-61007
-  teiginys: 'Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstybėje buvusi oficiali analistika.'
+  teiginys: 'Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Volfenbiutelio bibliotekos kopija99. Šių tekstų tyrinėjimai parodė, kad Ordino valstybėje
@@ -53,6 +54,7 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
     - t-002
 
 - c-002
+  santrauka: 'Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pelplino analų“

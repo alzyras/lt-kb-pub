@@ -43,14 +43,14 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 <a id="claim-t-75450"></a>
 - t-003
   global_id: t-75450
-  teiginys: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
+  teiginys: 'Gruodžio 11-osios rezoliucija pravertė Vokietijai Bresto taikos derybose, į kurias Lietuvos Tarybos delegacija nebuvo pakviesta.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183359"></a>
 - t-004
   global_id: t-183359
-  teiginys: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
+  teiginys: 'Oberostas Kaune įteikė rezoliucijos projektą Lietuvos Tarybos prezidiumui, kuris gruodžio 11 d. grąžino jį kaip priimtą.'
   pagrindžia:
     - c-004
 
@@ -93,6 +93,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     - t-001
 
 - c-003
+  santrauka: 'Gruodžio 11-osios rezoliucija pravertė Vokietijai Bresto taikos derybose, į kurias Lietuvos Tarybos delegacija nebuvo pakviesta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, Vokietijai ši rezoliucija praver-
@@ -110,7 +111,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     - t-003
 
 - c-004
-  santrauka: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
+  santrauka: 'Oberostas Kaune įteikė rezoliucijos projektą Lietuvos Tarybos prezidiumui, kuris gruodžio 11 d. grąžino jį kaip priimtą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 metų Vasario 16 Aktas

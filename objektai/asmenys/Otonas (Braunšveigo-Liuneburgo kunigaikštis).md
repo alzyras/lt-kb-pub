@@ -29,20 +29,21 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 <a id="claim-t-60189"></a>
 - t-001
   global_id: t-60189
-  teiginys: 'Dusburgietis teigia, kad 253 Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das Kind), Henriko Liūto vaikaitis.'
+  teiginys: 'Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60190"></a>
 - t-002
   global_id: t-60190
-  teiginys: 'Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant gaivus vanduo troškulio iškamuotam ar iš tolimos šalies laukiama gera žinia į pagalbą broliams, atsidūrusiems sunkioje padėtyje252, į Prūsijos žemę su daugybe maldininkų atvyko kilnusis ir pamaldusis Otonas.'
+  teiginys: 'Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das
@@ -54,6 +55,7 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
     - t-001
 
 - c-002
+  santrauka: 'Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     25. Apie Braunšveigo kunigaikščio atvykimą

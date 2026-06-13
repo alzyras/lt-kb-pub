@@ -19,13 +19,14 @@ Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaimi
 <a id="claim-t-39068"></a>
 - t-001
   global_id: t-39068
-  teiginys: 'Algirdas Konstantinopolio patriarchui priekaištavo, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.'
+  teiginys: 'Algirdas priekaištavo Konstantinopolio patriarchui, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas priekaištavo Konstantinopolio patriarchui, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Algirdas priekaištauja Konstantinopolio patriarchui:

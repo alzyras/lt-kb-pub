@@ -130,3 +130,5 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 - [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
+- [[objektai/zodynas/tenuta laikytojas]]
+- [[objektai/ivykiai/Šventųjų Edmundo, Stanislovo ir Petro kanonizavimas]]

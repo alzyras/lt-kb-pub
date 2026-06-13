@@ -20,7 +20,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 <a id="claim-t-85950"></a>
 - t-001
   global_id: t-85950
-  teiginys: 'O Rūdninkų miškuose nieko panašaus ir neįmanoma būtų surasti.'
+  teiginys: 'Rūdninkų miškų pavadinimas kildintas iš geležies rūdos klodų, slypėjusių po pelkėmis ir girių tankmėmis.'
   pagrindžia:
     - c-002
 
@@ -34,13 +34,14 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 <a id="claim-t-85952"></a>
 - t-003
   global_id: t-85952
-  teiginys: 'Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso ir Rūdninkų medžionė, buvo nežmoniškai nuniokotas, išliko šiame žvėryne iki šiol yra likę puikaus miško pėdsakų.'
+  teiginys: 'Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jame veisėsi daug
@@ -58,6 +59,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     - t-003
 
 - c-002
+  santrauka: 'Rūdninkų miškų pavadinimas kildintas iš geležies rūdos klodų, slypėjusių po pelkėmis ir girių tankmėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Rūdninkų miškuose nieko panašaus ir neįmanoma

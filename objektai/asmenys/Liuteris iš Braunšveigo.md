@@ -29,13 +29,14 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
 <a id="claim-t-60380"></a>
 - t-001
   global_id: t-60380
-  teiginys: 'Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo (1331 — 1335 m.) laikais, tačiau rankraštis buvo sunaikintas.'
+  teiginys: 'Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė

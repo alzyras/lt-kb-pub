@@ -26,29 +26,22 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
 
 ## Teiginiai
 
-<a id="claim-t-78375"></a>
-- t-001
-  global_id: t-78375
-  teiginys: '1943 m. įstojo į Lietuvos laisvės armijos (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-78376"></a>
-- t-002
+- t-001
   global_id: t-78376
   teiginys: 'Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78377"></a>
-- t-003
+- t-002
   global_id: t-78377
-  teiginys: 'Tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys.'
+  teiginys: 'Kazimieras Kontrimas-Tėvas tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys ir 1943 m. įstojo į Lietuvos laisvės armiją.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-78378"></a>
-- t-004
+- t-003
   global_id: t-78378
   teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.'
   pagrindžia:
@@ -68,7 +61,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,22 +83,10 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tarnavo Lietuvos kariuomenėje,
-    buvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos
-    (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis. 1945 m.
-    vadovavo Kretingos apskrities partizanų Klevo kuopai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
+  santrauka: 'Kazimieras Kontrimas-Tėvas tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys ir 1943 m. įstojo į Lietuvos laisvės armiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras
@@ -116,7 +97,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

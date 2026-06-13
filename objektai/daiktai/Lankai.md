@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-40735"></a>
 - t-001
   global_id: t-40735
-  teiginys: 'Priedangą jų darbui teikė dviejų patrankų, šautuvų ir lankų ugnis.'
+  teiginys: 'LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo

@@ -37,14 +37,14 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 <a id="claim-t-85898"></a>
 - t-002
   global_id: t-85898
-  teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-85899"></a>
 - t-003
   global_id: t-85899
-  teiginys: 'Pagal sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.'
+  teiginys: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pagal sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.'
+  santrauka: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Tad tenai Gedimi­
@@ -168,7 +168,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     - t-004
 
 - c-004
-  santrauka: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  santrauka: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­

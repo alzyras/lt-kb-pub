@@ -61,14 +61,14 @@ amziai:
 <a id="claim-t-175382"></a>
 - t-005
   global_id: t-175382
-  teiginys: 'Dėl to rygiečiai kėlė balsą Hanzos sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
+  teiginys: 'Rygiečiai Hanzos sąjungoje, Liubeke ir Rostoke, skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-175383"></a>
 - t-006
   global_id: t-175383
-  teiginys: 'Dusburgietis teigia, kad bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai, kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos kilmingųjų.'
+  teiginys: 'Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.'
   pagrindžia:
     - c-008
 
@@ -247,6 +247,7 @@ amziai:
     - t-011
 
 - c-007
+  santrauka: 'Rygiečiai Hanzos sąjungoje, Liubeke ir Rostoke, skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
@@ -261,6 +262,7 @@ amziai:
     - t-005
 
 - c-008
+  santrauka: 'Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­

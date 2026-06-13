@@ -20,20 +20,21 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 <a id="claim-t-60139"></a>
 - t-001
   global_id: t-60139
-  teiginys: 'Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda vėliau ir užgijo.'
+  teiginys: 'Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60140"></a>
 - t-002
   global_id: t-60140
-  teiginys: 'Dusburgietis teigia, kad vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir nukovė daugybę sembų.'
+  teiginys: 'Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai todėl,
@@ -56,6 +57,7 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     - t-002
 
 - c-002
+  santrauka: 'Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Susidūrę su juo, broliai su savo
@@ -76,4 +78,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]
 - [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų]]

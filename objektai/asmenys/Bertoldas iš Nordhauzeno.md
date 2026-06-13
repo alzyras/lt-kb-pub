@@ -22,13 +22,14 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
 <a id="claim-t-60251"></a>
 - t-001
   global_id: t-60251
-  teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių apygardų nusiaubimą ir Klemento pilies sugriovimą Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus.'
+  teiginys: 'Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     192 (187). Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių

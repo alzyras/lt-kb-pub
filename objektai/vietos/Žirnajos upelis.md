@@ -21,13 +21,14 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
 <a id="claim-t-80621"></a>
 - t-001
   global_id: t-80621
-  teiginys: 'Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upelis.'
+  teiginys: 'Žirnajos upelis išteka šiauriau Žirnajų ežero, kur viena kitą pastebėjo priešingos kariuomenės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žirnajos upelis išteka šiauriau Žirnajų ežero, kur viena kitą pastebėjo priešingos kariuomenės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygimanto kariuomenė

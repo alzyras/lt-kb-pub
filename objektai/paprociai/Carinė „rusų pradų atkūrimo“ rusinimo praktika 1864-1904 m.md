@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-54215"></a>
 - t-002
   global_id: t-54215
-  teiginys: '1864–1904 m. rusinimo politikos ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
+  teiginys: 'Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
   pagrindžia:
     - c-003
 
@@ -118,7 +118,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: '1864–1904 m. rusinimo politikos ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
+  santrauka: 'Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje

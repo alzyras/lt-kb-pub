@@ -6,7 +6,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1499 m.'
-  - '1572 m.'
   - '1918 m.'
 date_start: '1499'
 date_end: '1918'
@@ -54,38 +53,31 @@ Nenurodyta
   global_id: t-182715
   teiginys: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-182716"></a>
-- t-002
-  global_id: t-182716
-  teiginys: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
-  pagrindžia:
-    - c-002
+    - c-004
 
 <a id="claim-t-182717"></a>
-- t-003
+- t-002
   global_id: t-182717
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-182718"></a>
-- t-004
+- t-003
   global_id: t-182718
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-182968"></a>
-- t-005
+- t-004
   global_id: t-182968
   teiginys: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-182969"></a>
-- t-006
+- t-005
   global_id: t-182969
   teiginys: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
   pagrindžia:
@@ -108,23 +100,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
-    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
-    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
-    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
-    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
@@ -143,9 +121,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
@@ -164,9 +142,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   santrauka: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -182,7 +160,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -198,15 +176,13 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikštija]]

@@ -31,27 +31,28 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 <a id="claim-t-60968"></a>
 - t-001
   global_id: t-60968
-  teiginys: 'Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos.'
+  teiginys: 'Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60969"></a>
 - t-002
   global_id: t-60969
-  teiginys: 'Dusburgietis teigia, kad „Pasakojimą...“ ir prologą panaudojo Dusburgietis, pateikdamas vokiškąją, tendencingą Ordino įsikūrimo versiją.'
+  teiginys: 'Dusburgietis panaudojo Vokiečių ordino statutų prologą, pateikdamas vokiškąją ir tendencingą Ordino įsikūrimo versiją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-60970"></a>
 - t-003
   global_id: t-60970
-  teiginys: 'Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1.'
+  teiginys: 'Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
@@ -69,6 +70,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
     - t-001
 
 - c-002
+  santrauka: 'Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prologas — pirmoji, viena iš svarbiausių Vokiečių ordino statutų dalis (1. prologas,
@@ -82,6 +84,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
     - t-003
 
 - c-003
+  santrauka: 'Dusburgietis panaudojo Vokiečių ordino statutų prologą, pateikdamas vokiškąją ir tendencingą Ordino įsikūrimo versiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pasakojimą...“ ir prologą panaudojo Dusburgietis, pateikdamas

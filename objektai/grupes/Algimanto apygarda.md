@@ -139,7 +139,6 @@ amziai:
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
-- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
 - [[objektai/asmenys/Vaižgantas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]

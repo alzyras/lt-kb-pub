@@ -25,14 +25,14 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 <a id="claim-t-78908"></a>
 - t-001
   global_id: t-78908
-  teiginys: 'Svetimšalių pėstinin- | kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai iš vokiškų kraštų.'
+  teiginys: 'Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą sudarė samdiniai iš vokiškų kraštų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78909"></a>
 - t-002
   global_id: t-78909
-  teiginys: 'Svetimšalių samdymas sistema tapo Vladislavo Vazos laikais.'
+  teiginys: 'Svetimšalių samdymas sistema tapo Vladislovo Vazos laikais.'
   pagrindžia:
     - c-003
 
@@ -59,6 +59,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - t-003
 
 - c-002
+  santrauka: 'Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą sudarė samdiniai iš vokiškų kraštų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Svetimšalių pėstinin- |
@@ -72,6 +73,7 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - t-001
 
 - c-003
+  santrauka: 'Svetimšalių samdymas sistema tapo Vladislovo Vazos laikais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pėstininkai turėjo

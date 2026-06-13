@@ -31,7 +31,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 <a id="claim-t-77996"></a>
 - t-001
   global_id: t-77996
-  teiginys: 'Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.'
+  teiginys: 'A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.'
   pagrindžia:
     - c-005
 
@@ -45,35 +45,35 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 <a id="claim-t-77998"></a>
 - t-003
   global_id: t-77998
-  teiginys: 'Voldemaras liko be nieko, nes neapdairiai atsisakė tapti užsienio reikalų ministru.'
+  teiginys: '1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-77999"></a>
 - t-004
   global_id: t-77999
-  teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
+  teiginys: 'A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-78000"></a>
 - t-005
   global_id: t-78000
-  teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  teiginys: '1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78001"></a>
 - t-006
   global_id: t-78001
-  teiginys: 'Voldemaras nieko negalėjo pakeisti.'
+  teiginys: 'Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78002"></a>
 - t-007
   global_id: t-78002
-  teiginys: 'Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus.'
+  teiginys: 'A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
   pagrindžia:
     - c-006
 
@@ -87,6 +87,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
@@ -120,6 +121,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - t-002
 
 - c-003
+  santrauka: 'Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
@@ -151,6 +153,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - t-008
 
 - c-005
+  santrauka: 'A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kol kas viešojoje erdvėje dominuoja ekstrava-
@@ -175,6 +178,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - t-001
 
 - c-006
+  santrauka: 'A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentas A. Smetona ir
@@ -194,6 +198,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - t-007
 
 - c-007
+  santrauka: '1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po gegužę įvykdyto studen-
@@ -213,6 +218,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - t-003
 
 - c-008
+  santrauka: 'A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
@@ -260,5 +266,5 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - [[objektai/posakiai/„seimų laikus“]]
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Voldemarininkai]]
-- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]
 - [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]
+- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]

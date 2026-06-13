@@ -28,7 +28,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 <a id="claim-t-86742"></a>
 - t-001
   global_id: t-86742
-  teiginys: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
+  teiginys: 'Steponas Batoras Vilniuje saugojo graikų apeigų išpažinėjus nuo teismų šventomis dienomis pagal senąjį kalendorių.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Steponas Batoras Vilniuje saugojo graikų apeigų išpažinėjus nuo teismų šventomis dienomis pagal senąjį kalendorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lygiai taip pat įžvalgiai karalius užkirto kelią
@@ -121,5 +122,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 - [[objektai/asmenys/Sabinas]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]

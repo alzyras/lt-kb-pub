@@ -21,7 +21,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 <a id="claim-t-58436"></a>
 - t-001
   global_id: t-58436
-  teiginys: 'Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.'
+  teiginys: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus.'
   pagrindžia:
     - c-003
 
@@ -35,13 +35,21 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 <a id="claim-t-58438"></a>
 - t-003
   global_id: t-58438
-  teiginys: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p..'
+  teiginys: 'Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184155"></a>
+- t-004
+  global_id: t-184155
+  teiginys: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė,
@@ -76,6 +84,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     - t-002
 
 - c-003
+  santrauka: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis Kulmo žemės kaimus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     268 (261) Apie penkių kaimų apiplėšimą
@@ -94,7 +103,7 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     - t-001
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.'
+  santrauka: 'Lietuvių kariuomenė Goliubo pilies apylinkėse apiplėšė penkis kaimus ir paėmė į nelaisvę arba nužudė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis,

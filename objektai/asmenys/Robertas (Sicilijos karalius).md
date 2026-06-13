@@ -30,13 +30,14 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
 <a id="claim-t-60427"></a>
 - t-001
   global_id: t-60427
-  teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart.'
+  teiginys: 'Sicilijos karalius Robertas buvo šventojo Liudviko brolis, kurį popiežius Jonas kanonizavo 1317 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sicilijos karalius Robertas buvo šventojo Liudviko brolis, kurį popiežius Jonas kanonizavo 1317 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
@@ -58,6 +59,7 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
 - [[objektai/grupes/Tauro apygarda]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba]]
 - [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
 - [[objektai/posakiai/„idealiąją Lietuvą“]]

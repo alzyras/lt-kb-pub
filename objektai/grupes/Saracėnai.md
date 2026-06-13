@@ -32,14 +32,14 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 <a id="claim-t-63210"></a>
 - t-001
   global_id: t-63210
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totorių Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių į Ispaniją ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį.'
+  teiginys: 'Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-63211"></a>
 - t-002
   global_id: t-63211
-  teiginys: 'Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai.'
+  teiginys: 'Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris po to turėjo jam kasdien mokėti duoklę.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
@@ -68,6 +69,7 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     - t-001
 
 - c-002
+  santrauka: 'Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris po to turėjo jam kasdien mokėti duoklę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių

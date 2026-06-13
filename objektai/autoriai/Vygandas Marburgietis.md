@@ -34,7 +34,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 <a id="claim-t-172965"></a>
 - t-001
   global_id: t-172965
-  teiginys: '“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja „Ir iškilo [Ordino.'
+  teiginys: 'Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.'
   pagrindžia:
     - c-001
 
@@ -64,8 +64,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   global_id: t-172970
   teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
   pagrindžia:
-    - c-004
     - c-002
+    - c-004
 
 <a id="claim-t-172971"></a>
 - t-006
@@ -81,23 +81,9 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   pagrindžia:
     - c-003
 
-<a id="claim-t-172973"></a>
-- t-008
-  global_id: t-172973
-  teiginys: 'STRĖVOS MUSIS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m. Strėvos mūšį.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-172974"></a>
 - t-009
   global_id: t-172974
-  teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-172975"></a>
-- t-010
-  global_id: t-172975
   teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
     - c-006

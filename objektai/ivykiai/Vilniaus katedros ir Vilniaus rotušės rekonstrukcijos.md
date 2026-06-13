@@ -45,20 +45,21 @@ Nenurodyta
 <a id="claim-t-77889"></a>
 - t-001
   global_id: t-77889
-  teiginys: 'Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus pastatų stiliumi.'
+  teiginys: 'Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-77890"></a>
 - t-002
   global_id: t-77890
-  teiginys: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių meto seimo nulemtomis permainomis.'
+  teiginys: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių metų Seimo nulemtomis permainomis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pats gyvenimas padėjo klasicizmui tapti svarbiausiu Vilniaus
@@ -76,6 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių metų Seimo nulemtomis permainomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių
@@ -97,6 +99,6 @@ Nenurodyta
 - [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/asmenys/Laurynas Gucevičius]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/T. Kosciuškos sukilimas]]

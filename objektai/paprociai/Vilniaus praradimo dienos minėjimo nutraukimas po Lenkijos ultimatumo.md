@@ -47,13 +47,14 @@ Nenurodyta
 <a id="claim-t-77963"></a>
 - t-001
   global_id: t-77963
-  teiginys: 'Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiuntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“.'
+  teiginys: 'Po Lenkijos ultimatumo Lietuva turėjo liautis minėti spalio 9-ąją kaip Vilniaus praradimo dieną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Lenkijos ultimatumo Lietuva turėjo liautis minėti spalio 9-ąją kaip Vilniaus praradimo dieną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko

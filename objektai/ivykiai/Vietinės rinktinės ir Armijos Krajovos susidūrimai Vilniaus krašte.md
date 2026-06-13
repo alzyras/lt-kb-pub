@@ -37,7 +37,7 @@ Nenurodyta
 <a id="claim-t-75294"></a>
 - t-001
   global_id: t-75294
-  teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
+  teiginys: 'Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į

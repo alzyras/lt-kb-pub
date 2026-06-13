@@ -49,7 +49,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 <a id="claim-t-101587"></a>
 - t-004
   global_id: t-101587
-  teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  teiginys: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.'
   pagrindžia:
     - c-005
 
@@ -63,7 +63,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 <a id="claim-t-183424"></a>
 - t-006
   global_id: t-183424
-  teiginys: 'Pageidaujama Lenkijos ir Lietuvos federacija niekaip nesilipdė, paaiškėjo, kad lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse etnografinėse ribose.'
+  teiginys: 'Lenkijos ir Lietuvos federacijos planas nesisekė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių Lietuvos ribų.'
   pagrindžia:
     - c-006
 
@@ -132,6 +132,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-005
 
 - c-005
+  santrauka: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai federacijos
@@ -150,7 +151,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
     - t-004
 
 - c-006
-  santrauka: 'Pageidaujama Lenkijos ir Lietuvos federacija niekaip nesilipdė, paaiškėjo, kad lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse etnografinėse ribose.'
+  santrauka: 'Lenkijos ir Lietuvos federacijos planas nesisekė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių Lietuvos ribų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo

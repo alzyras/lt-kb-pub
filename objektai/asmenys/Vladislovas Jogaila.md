@@ -66,7 +66,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 <a id="claim-t-173232"></a>
 - t-006
   global_id: t-173232
-  teiginys: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
+  teiginys: 'Beginklis Jogaila su visa palyda buvo įkalintas pilyje ir saugomas daugybės kareivių.'
   pagrindžia:
     - c-001
 
@@ -87,7 +87,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 <a id="claim-t-173237"></a>
 - t-009
   global_id: t-173237
-  teiginys: 'Tuomet, kai protai jau buvo nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila, gerai žinodamas, kas Lietuvoje dedasi, ir suprasdamas, jog namų karui nebus galo, kol nepavyks brolio nuo šio krašto valdžios nušalinti, nusprendė didžiuoju.'
+  teiginys: 'Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
   pagrindžia:
     - c-013
 
@@ -122,7 +122,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 <a id="claim-t-173242"></a>
 - t-014
   global_id: t-173242
-  teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos politinius siekius.'
+  teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.'
   pagrindžia:
     - c-021
 
@@ -185,6 +185,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Beginklis Jogaila su visa palyda buvo įkalintas pilyje ir saugomas daugybės kareivių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beprotiškai įniršęs, kaip sako
@@ -460,6 +461,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-005
 
 - c-013
+  santrauka: 'Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuomet, kai protai jau buvo
@@ -630,7 +632,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - t-007
 
 - c-021
-  santrauka: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos politinius siekius.'
+  santrauka: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailos siekius pata­
@@ -716,7 +718,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose]]
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/grupes/Jastžembcų giminė]]
 - [[objektai/grupes/Lenkų didžponiai]]
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]

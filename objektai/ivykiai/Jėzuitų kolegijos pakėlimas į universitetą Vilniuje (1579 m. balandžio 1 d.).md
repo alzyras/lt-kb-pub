@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-54451"></a>
 - t-001
   global_id: t-54451
-  teiginys: 'Vyskupo Protasevičiaus funduotą jėzuitų kolegiją karalius pakėlė iki universiteto laipsnio, o tai patvirtino balandžio 1-ą dieną išleisti dekretai.'
+  teiginys: 'Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA

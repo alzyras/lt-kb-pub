@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-80667"></a>
 - t-002
   global_id: t-80667
-  teiginys: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
+  teiginys: 'Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Chodkevičius pastebėjo, kad

@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-23344"></a>
 - t-001
   global_id: t-23344
-  teiginys: 'Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų, 1919 m. Lietuvoje jau veikė 1 036 mokyklos, jose buvo 45 540 mokinių, Aukštieji kursai Kaune netrukus peraugo į Lietuvos universitetą (atidarytas 1922 m. vasario 16 d.).'
+  teiginys: 'Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Laisvės sąlygomis sparčiai kilo švietimas, atsidarė naujų mokyklų,

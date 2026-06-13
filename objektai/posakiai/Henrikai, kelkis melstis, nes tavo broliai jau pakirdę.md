@@ -21,13 +21,14 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 <a id="claim-t-59094"></a>
 - t-001
   global_id: t-59094
-  teiginys: 'Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“.'
+  teiginys: 'Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to  ji kiekvieną
@@ -45,7 +46,7 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį, nelyginant kas kūju būtų daužęs į sieną, ir balsą, kuris sakė: „Henrikai, kelkis melstis, nes tavo broliai jau pakirdę“.'
+  santrauka: 'Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai jis antrą kartą apie tai papasakojo žmonai,

@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kunigaikštis Konstantinas Karigaila, Jogailos brolis, žuvo po to, kai Vytautas įsakė jam nukirsti galvą.
+Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą.
 
 ## Teiginiai
 
 <a id="claim-t-186131"></a>
 - t-001
   global_id: t-186131
-  teiginys: 'Kunigaikštis Konstantinas Karigaila, Jogailos brolis, žuvo po to, kai Vytautas įsakė jam nukirsti galvą.'
+  teiginys: 'Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kunigaikštis Konstantinas Karigaila, Jogailos brolis, žuvo po to, kai Vytautas įsakė jam nukirsti galvą.'
+  santrauka: 'Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti galvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kas liks

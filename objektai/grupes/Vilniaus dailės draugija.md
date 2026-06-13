@@ -20,7 +20,7 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
 <a id="claim-t-75018"></a>
 - t-001
   global_id: t-75018
-  teiginys: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
+  teiginys: 'Vilniaus dailės draugija veikė greta Lietuvių dailės draugijos, o kai kurie žmonės priklausė abiem draugijoms tuo pat metu.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
     - t-002
 
 - c-002
+  santrauka: 'Vilniaus dailės draugija veikė greta Lietuvių dailės draugijos, o kai kurie žmonės priklausė abiem draugijoms tuo pat metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dailės ir vaizduojamojo me-

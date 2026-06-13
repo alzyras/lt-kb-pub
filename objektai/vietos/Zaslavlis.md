@@ -28,20 +28,21 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 <a id="claim-t-172045"></a>
 - t-001
   global_id: t-172045
-  teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  teiginys: 'Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184407"></a>
 - t-002
   global_id: t-184407
-  teiginys: 'Netoliese nuo ten, būtent, Zaslavlyje (tarp Volinijos ir Podolės) valdė Jaunučio sūnus.'
+  teiginys: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Maskva
@@ -84,7 +85,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     - t-001
 
 - c-002
-  santrauka: 'Netoliese nuo ten, būtent, Zaslavlyje (tarp Volinijos ir Podolės) valdė Jaunučio sūnus.'
+  santrauka: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Senojoje

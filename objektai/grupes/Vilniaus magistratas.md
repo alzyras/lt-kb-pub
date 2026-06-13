@@ -44,7 +44,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 <a id="claim-t-172806"></a>
 - t-003
   global_id: t-172806
-  teiginys: 'Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą, įpareigodamas, kad magistratas procentus, nuo sumos už tą mūrinį namą gaunamus, mokėtų Švč.'
+  teiginys: '1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei.'
   pagrindžia:
     - c-016
 
@@ -107,7 +107,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 <a id="claim-t-172817"></a>
 - t-012
   global_id: t-172817
-  teiginys: 'Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.'
+  teiginys: '1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą.'
   pagrindžia:
     - c-009
 
@@ -374,6 +374,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-010
 
 - c-009
+  santrauka: '1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1536
@@ -522,6 +523,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
     - t-006
 
 - c-016
+  santrauka: '1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1632. Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo
@@ -605,12 +607,12 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Parulis]]
 - [[objektai/zodynas/miesto sargyba ir policija]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė]]
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
-- [[objektai/asmenys/Parulis]]
 - [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]

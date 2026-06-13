@@ -44,7 +44,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 <a id="claim-t-96867"></a>
 - t-003
   global_id: t-96867
-  teiginys: 'Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai.'
+  teiginys: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   pagrindžia:
     - c-003
 
@@ -103,6 +103,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-005
 
 - c-003
+  santrauka: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ir Gediminas, ir Jonas Kalita savo valdžioje
@@ -150,7 +151,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-001
 
 - c-006
-  santrauka: 'Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai.'
+  santrauka: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik Lietuvos daliniai kunigaikščiai,

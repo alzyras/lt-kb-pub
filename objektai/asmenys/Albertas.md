@@ -32,7 +32,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 <a id="claim-t-78932"></a>
 - t-001
   global_id: t-78932
-  teiginys: 'Jersikos karalius 2 Dauguva Žiemgaliai ; Sėliai X Saulė (Šiauliai) 1236 m. Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto.'
+  teiginys: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
   pagrindžia:
     - c-003
 
@@ -84,6 +84,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-002
 
 - c-003
+  santrauka: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jersikos karalius
@@ -158,3 +159,4 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - [[objektai/grupes/Vilniaus Akademija]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/asmenys/Volfgeris]]
+- [[objektai/zodynas/tenuta laikytojas]]

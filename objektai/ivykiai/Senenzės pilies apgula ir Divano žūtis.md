@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-66894"></a>
 - t-001
   global_id: t-66894
-  teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
+  teiginys: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
@@ -94,3 +95,5 @@ Nenurodyta
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/daiktai/Arbaletas]]
+- [[objektai/asmenys/Arnoldas Krofas]]

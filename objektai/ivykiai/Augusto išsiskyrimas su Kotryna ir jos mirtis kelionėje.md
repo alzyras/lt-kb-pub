@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, įgyvendindamas anksčiau sugalvotą sumanymą. Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį. Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.
+Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna. Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, anksčiau leidusį jam vesti mirusios žmonos seserį. Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,7 +29,7 @@ Nenurodyta
 <a id="claim-t-185551"></a>
 - t-001
   global_id: t-185551
-  teiginys: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, įgyvendindamas anksčiau sugalvotą sumanymą.'
+  teiginys: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, įgyvendindamas anksčiau sugalvotą sumanymą.'
+  santrauka: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jų atsimetimą nuo

@@ -39,7 +39,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 <a id="claim-t-184191"></a>
 - t-002
   global_id: t-184191
-  teiginys: 'Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163.'
+  teiginys: 'Nuniokojus Lenkijos žemę, kunigaikščiui prie Vyslos liko viena pilis, vadinama Plocku.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163.'
+  santrauka: 'Nuniokojus Lenkijos žemę, kunigaikščiui prie Vyslos liko viena pilis, vadinama Plocku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Lenkijos žemės nuniokojimą

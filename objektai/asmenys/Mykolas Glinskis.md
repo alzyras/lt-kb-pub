@@ -40,7 +40,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 <a id="claim-t-82625"></a>
 - t-002
   global_id: t-82625
-  teiginys: 'Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
+  teiginys: 'Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių.'
   pagrindžia:
     - c-006
 
@@ -259,6 +259,7 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - t-004
 
 - c-006
+  santrauka: 'Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     stovyklavietę. Paskutiniai

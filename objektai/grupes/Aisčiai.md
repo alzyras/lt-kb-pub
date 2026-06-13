@@ -123,5 +123,4 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/paprociai/Šventųjų žalčių laikymas namuose]]
 - [[objektai/grupes/Latviai]]
-- [[objektai/autoriai/J. Puzinas]]
 - [[objektai/autoriai/K. Būga]]

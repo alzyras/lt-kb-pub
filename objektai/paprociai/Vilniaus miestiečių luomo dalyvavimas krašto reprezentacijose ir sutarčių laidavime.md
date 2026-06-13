@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-87169"></a>
 - t-001
   global_id: t-87169
-  teiginys: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
+  teiginys: '1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės.'
   pagrindžia:
     - c-001
 
@@ -62,6 +62,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Valakijos kunigaikščiai jo globos sie­

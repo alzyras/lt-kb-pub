@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-78607"></a>
 - t-001
   global_id: t-78607
-  teiginys: 'Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
+  teiginys: '1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
   pagrindžia:
     - c-005
 
@@ -76,7 +76,7 @@ Nenurodyta
 <a id="claim-t-78612"></a>
 - t-006
   global_id: t-78612
-  teiginys: 'Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus.'
+  teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76–80 partizanų.'
   pagrindžia:
     - c-006
 
@@ -151,6 +151,7 @@ Nenurodyta
     - t-003
 
 - c-005
+  santrauka: '1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūsiškius paliko miške.“
@@ -168,6 +169,7 @@ Nenurodyta
     - t-001
 
 - c-006
+  santrauka: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76–80 partizanų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dienos pabaigoje,

@@ -31,14 +31,14 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 <a id="claim-t-74759"></a>
 - t-001
   global_id: t-74759
-  teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m.'
+  teiginys: '1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-74760"></a>
 - t-002
   global_id: t-74760
-  teiginys: 'Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą.'
+  teiginys: 'Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 <a id="claim-t-74763"></a>
 - t-005
   global_id: t-74763
-  teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo.'
   pagrindžia:
     - c-007
 
@@ -73,7 +73,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 <a id="claim-t-74765"></a>
 - t-007
   global_id: t-74765
-  teiginys: '1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų.'
+  teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   pagrindžia:
     - c-005
 
@@ -87,6 +87,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
@@ -119,6 +120,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-004
 
 - c-003
+  santrauka: '1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagalbos iš užsienio tikėtis nebuvo
@@ -152,6 +154,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-006
 
 - c-005
+  santrauka: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pereita prie įprasto
@@ -242,9 +245,9 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/pyliavos]]
-- [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
+- [[objektai/zodynas/pyliavos]]
 - [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
 - [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
 - [[objektai/asmenys/Pijus XII]]

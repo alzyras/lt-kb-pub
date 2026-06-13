@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-77896"></a>
 - t-001
   global_id: t-77896
-  teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
+  teiginys: '1792 m. vasarį 27 iš 33 susirinkusių LDK bajorų pavietų seimelių prisiekė Gegužės trečiosios konstitucijai, o dar šeši jai pritarė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1792 m. vasarį 27 iš 33 susirinkusių LDK bajorų pavietų seimelių prisiekė Gegužės trečiosios konstitucijai, o dar šeši jai pritarė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos

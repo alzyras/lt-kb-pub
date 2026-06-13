@@ -27,13 +27,14 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 <a id="claim-t-42434"></a>
 - t-002
   global_id: t-42434
-  teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  teiginys: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.

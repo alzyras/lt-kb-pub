@@ -22,7 +22,7 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 <a id="claim-t-45273"></a>
 - t-001
   global_id: t-45273
-  teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  teiginys: 'Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.'
   pagrindžia:
     - c-001
 
@@ -68,6 +68,6 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 - [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
-- [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Sanguškos]]
+- [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Vyšnioveckiai]]

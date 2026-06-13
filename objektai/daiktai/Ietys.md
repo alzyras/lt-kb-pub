@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-183684"></a>
 - t-002
   global_id: t-183684
-  teiginys: 'Pagrindiniai tokios kariuomenės ginklai buvo ietys ir kalavijai.'
+  teiginys: 'Ietys ir kalavijai buvo pagrindiniai aptariamų Lietuvos kariuomenės dalinių ginklai.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Pagrindiniai tokios kariuomenės ginklai buvo ietys ir kalavijai.'
+  santrauka: 'Ietys ir kalavijai buvo pagrindiniai aptariamų Lietuvos kariuomenės dalinių ginklai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šių dalinių kovinė vertė buvo
@@ -101,4 +101,5 @@ Nenurodyta
 - [[objektai/ivykiai/Ragainės karių klasta užimant Junigedą]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/žalvario amžius]]
+- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
 - [[objektai/daiktai/Karinė ginkluotė]]

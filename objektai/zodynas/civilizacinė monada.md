@@ -22,13 +22,14 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
 <a id="claim-t-77791"></a>
 - t-001
   global_id: t-77791
-  teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
+  teiginys: 'Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su pagonišku veidu Lietuva dar
@@ -58,3 +59,4 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

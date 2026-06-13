@@ -42,20 +42,21 @@ Nenurodyta
 <a id="claim-t-62665"></a>
 - t-001
   global_id: t-62665
-  teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
+  teiginys: 'Dusburgietis siekė išaukštinti Ordine jau užmirštus pirminius idealus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62666"></a>
 - t-002
   global_id: t-62666
-  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  teiginys: 'Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis siekė išaukštinti Ordine jau užmirštus pirminius idealus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai tokių didžiulių
@@ -71,6 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -89,6 +91,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Šarvai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]

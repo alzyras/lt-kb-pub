@@ -29,7 +29,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 <a id="claim-t-180499"></a>
 - t-001
   global_id: t-180499
-  teiginys: 'Roma buvo tvirtai įsitikinusi, kad tik abu lietuviai, t.'
+  teiginys: 'Roma buvo įsitikinusi, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     - t-003
 
 - c-002
+  santrauka: 'Roma buvo įsitikinusi, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Neapsirikta ir šį kartą.

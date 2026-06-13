@@ -56,7 +56,7 @@ Nenurodyta
 <a id="claim-t-169842"></a>
 - t-002
   global_id: t-169842
-  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjęs Lietuvos ir Lenkijos suartėjimas baigėsi 1569 m. Liublino unija.'
   pagrindžia:
     - c-007
 
@@ -70,14 +70,14 @@ Nenurodyta
 <a id="claim-t-169844"></a>
 - t-004
   global_id: t-169844
-  teiginys: 'Liublino unijos nauda pasireiškė jau netrukus.'
+  teiginys: 'Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-169845"></a>
 - t-005
   global_id: t-169845
-  teiginys: '1569 m. birželio 28 d. Liublino seime J. J. Chodkevičius priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.'
+  teiginys: '1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją kaip žiaurų kompromisą.'
   pagrindžia:
     - c-002
 
@@ -98,7 +98,7 @@ Nenurodyta
 <a id="claim-t-169848"></a>
 - t-008
   global_id: t-169848
-  teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
+  teiginys: 'Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.'
   pagrindžia:
     - c-001
 
@@ -112,7 +112,7 @@ Nenurodyta
 <a id="claim-t-169850"></a>
 - t-010
   global_id: t-169850
-  teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
+  teiginys: '1569 m. birželio 28 d. Jonas Jeronimaitis Chodkevičius Liublino seime priėmė unijos ir vieno antspaudo idėją.'
   pagrindžia:
     - c-002
 
@@ -140,6 +140,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi J. J. Chodkevičius surado išeities
@@ -179,6 +180,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
@@ -247,6 +249,7 @@ Nenurodyta
     - t-006
 
 - c-007
+  santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjęs Lietuvos ir Lenkijos suartėjimas baigėsi 1569 m. Liublino unija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
@@ -368,6 +371,8 @@ Nenurodyta
 - [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
 - [[objektai/zodynas/suverenas]]
 - [[objektai/zodynas/federacinė valstybė]]
 - [[objektai/zodynas/feodalinis imunitetas]]

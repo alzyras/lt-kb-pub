@@ -38,7 +38,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 <a id="claim-t-69127"></a>
 - t-002
   global_id: t-69127
-  teiginys: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
+  teiginys: 'Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
@@ -82,7 +83,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     - t-001
 
 - c-003
-  santrauka: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
+  santrauka: 'Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vis dėlto norėtųsi manyti, kad toks dokumentas

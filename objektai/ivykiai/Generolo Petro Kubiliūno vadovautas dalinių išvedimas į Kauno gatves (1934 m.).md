@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-77895"></a>
 - t-001
   global_id: t-77895
-  teiginys: 'Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias.'
+  teiginys: '1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagerėjo sveikatos apsauga, įsteigtos ir pastatytos ligoninės,
@@ -71,4 +72,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Voldemarininkai]]
 - [[objektai/asmenys/Petras Kubiliūnas]]

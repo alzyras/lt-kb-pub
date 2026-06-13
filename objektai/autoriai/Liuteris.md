@@ -22,7 +22,7 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 <a id="claim-t-01096"></a>
 - t-001
   global_id: t-01096
-  teiginys: 'Liuteris patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
+  teiginys: 'Liuteris patarė Albrechtui mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
   pagrindžia:
     - c-003
 
@@ -36,7 +36,7 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 <a id="claim-t-01098"></a>
 - t-003
   global_id: t-01098
-  teiginys: 'Liuterio mokslas krašte buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
+  teiginys: 'Ordino valstybėje Liuterio mokslas buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
     - t-002
 
 - c-002
+  santrauka: 'Ordino valstybėje Liuterio mokslas buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu ordino valstybėje buvo labai neramu: visi
@@ -69,6 +70,7 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
     - t-003
 
 - c-003
+  santrauka: 'Liuteris patarė Albrechtui mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir

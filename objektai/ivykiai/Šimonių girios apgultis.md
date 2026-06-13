@@ -49,13 +49,14 @@ Nenurodyta
 <a id="claim-t-39119"></a>
 - t-002
   global_id: t-39119
-  teiginys: '1949 m. lapkričio 1–2 d. Šimonių girioje MGB vidaus kariuomenės pajėgomis vykdytos karinės-čekistinės operacijos.'
+  teiginys: '1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priešo pajėgos

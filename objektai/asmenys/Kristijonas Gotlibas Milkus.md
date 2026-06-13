@@ -36,7 +36,7 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 <a id="claim-t-63851"></a>
 - t-002
   global_id: t-63851
-  teiginys: 'Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės.'
+  teiginys: 'Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmėje cituotas Immanuelis Kantas.'
   pagrindžia:
     - c-001
 

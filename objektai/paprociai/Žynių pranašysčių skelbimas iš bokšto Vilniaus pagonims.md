@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-87243"></a>
 - t-001
   global_id: t-87243
-  teiginys: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
+  teiginys: 'Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims.'
   pagrindžia:
     - c-001
 

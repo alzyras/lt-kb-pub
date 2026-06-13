@@ -22,7 +22,7 @@ tags:
 <a id="claim-t-85936"></a>
 - t-001
   global_id: t-85936
-  teiginys: 'Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
+  teiginys: 'Gaisras staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gaisras staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svetimšalių ataka buvo

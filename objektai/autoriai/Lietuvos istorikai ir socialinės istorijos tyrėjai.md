@@ -27,14 +27,14 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 <a id="claim-t-179531"></a>
 - t-001
   global_id: t-179531
-  teiginys: 'Lietuviškos spaudos draudimo XIX a.'
+  teiginys: 'R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-179533"></a>
 - t-002
   global_id: t-179533
-  teiginys: 'Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.'
+  teiginys: 'A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
   pagrindžia:
     - c-007
 
@@ -55,7 +55,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 <a id="claim-t-179537"></a>
 - t-005
   global_id: t-179537
-  teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
+  teiginys: 'L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.'
   pagrindžia:
     - c-009
 
@@ -76,7 +76,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 <a id="claim-t-179542"></a>
 - t-008
   global_id: t-179542
-  teiginys: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
+  teiginys: 'R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
   pagrindžia:
     - c-003
 
@@ -140,6 +140,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-006
 
 - c-003
+  santrauka: 'R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^80) ĮVADAS
@@ -198,6 +199,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-009
 
 - c-006
+  santrauka: 'R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
@@ -209,6 +211,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-001
 
 - c-007
+  santrauka: 'A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie bibliotekas Lietuvoje XIX a.
@@ -246,6 +249,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-007
 
 - c-009
+  santrauka: 'L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika

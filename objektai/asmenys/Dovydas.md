@@ -24,7 +24,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 <a id="claim-t-82261"></a>
 - t-001
   global_id: t-82261
-  teiginys: 'Dovydas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę ir ją nusiaubė prieš pat minėtas paliaubas.'
+  teiginys: 'Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Dovydas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę ir ją nusiaubė prieš pat minėtas paliaubas.'
+  santrauka: 'Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename dokumen­
@@ -124,5 +124,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - [[objektai/asmenys/Maukoldas]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]
+- [[objektai/zodynas/diecezija]]
 - [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
 - [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]

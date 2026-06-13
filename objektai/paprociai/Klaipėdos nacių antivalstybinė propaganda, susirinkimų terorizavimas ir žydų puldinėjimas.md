@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-77937"></a>
 - t-001
   global_id: t-77937
-  teiginys: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
+  teiginys: 'Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, rengėsi sukilimui, terorizavo lietuvių susirinkimus ir puldinėjo žydus.'
   pagrindžia:
     - c-001
 
@@ -63,6 +63,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, rengėsi sukilimui, terorizavo lietuvių susirinkimus ir puldinėjo žydus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmasis Europoje procesas prieš nacius
@@ -108,5 +109,6 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Ėrichas Kochas]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Vokiečių nacionalsocialistų partija]]
 - [[objektai/posakiai/„Klaipėda neprilipo prie Lietuvos“ „Klaipėda nelipo prie Lietuvos“]]

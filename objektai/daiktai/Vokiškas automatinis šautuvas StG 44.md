@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-40780"></a>
 - t-001
   global_id: t-40780
-  teiginys: 'Daugelyje šalių ši ginklų klasė vadinama vokišku terminu „šturmo karabinas“, Lietuvoje šis ginklas dažniau vadinamas automatu (oficialiai automatiniu šautuvu).'
+  teiginys: 'StG 44 priklausė ginklų klasei, daugelyje šalių vadinamai „šturmo karabinu“, o Lietuvoje dažniau vadinamai automatu arba automatiniu šautuvu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'StG 44 priklausė ginklų klasei, daugelyje šalių vadinamai „šturmo karabinu“, o Lietuvoje dažniau vadinamai automatu arba automatiniu šautuvu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1941 metais JAV buvo sukonstruotas Garando šau-

@@ -147,6 +147,8 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/zodynas/činšas]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/autoriai/Augustinas Mieleckis Rotundas]]
 - [[objektai/asmenys/Jachna Laurinavičius]]
+- [[objektai/asmenys/Rotundas (Augustinas Mieleckis)]]
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/asmenys/Žygimantas Senasis]]

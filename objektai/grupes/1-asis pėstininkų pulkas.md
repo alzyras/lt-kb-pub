@@ -19,7 +19,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 <a id="claim-t-78158"></a>
 - t-001
   global_id: t-78158
-  teiginys: 'Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.'
+  teiginys: '1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-002
 
 - c-002
+  santrauka: '1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Batalionui buvo įsakyta užimti svarbią

@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-05370"></a>
 - t-001
   global_id: t-05370
-  teiginys: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
+  teiginys: 'Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus.'
   pagrindžia:
     - c-001
 
@@ -64,20 +64,21 @@ Nenurodyta
 <a id="claim-t-97144"></a>
 - t-004
   global_id: t-97144
-  teiginys: 'O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t.'
+  teiginys: 'Trūkstant pinigų, valstiečiai mokesčius mokėjo ūkio produktais: javais, šienu, gyvuliais ir kiaušiniais.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-97145"></a>
 - t-005
   global_id: t-97145
-  teiginys: 'Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo verčiami statyti pilis, tiltus, tiesti kelius ir t.t.'
+  teiginys: 'Be rinkliavų ir mokesčių, valstiečiai buvo verčiami statyti pilis bei tiltus ir tiesti kelius.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
@@ -114,6 +115,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Be rinkliavų ir mokesčių, valstiečiai buvo verčiami statyti pilis bei tiltus ir tiesti kelius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš pradžių Lietuvoje savų pinigų ne-
@@ -153,6 +155,7 @@ Nenurodyta
     - t-002
 
 - c-005
+  santrauka: 'Trūkstant pinigų, valstiečiai mokesčius mokėjo ūkio produktais: javais, šienu, gyvuliais ir kiaušiniais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mat, buvo nelengva rasti žmogų, kurs turėtų nori-

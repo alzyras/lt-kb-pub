@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-62326"></a>
 - t-001
   global_id: t-62326
-  teiginys: 'Dusburgietis teigia, kad apie kometą Tais pačiais metais, apie šventą Jurgį (balandžio 23), pasirodė kometa, kuri vakarais 10 dienų kreipė uodegą į Italiją.'
+  teiginys: 'Apie balandžio 23 d. pasirodžiusi kometa dešimt vakarų kreipė uodegą į Italiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie balandžio 23 d. pasirodžiusi kometa dešimt vakarų kreipė uodegą į Italiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     112. Apie kometą

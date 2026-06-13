@@ -53,21 +53,21 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 <a id="claim-t-65557"></a>
 - t-004
   global_id: t-65557
-  teiginys: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
+  teiginys: 'Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-65558"></a>
 - t-005
   global_id: t-65558
-  teiginys: 'Dusburgietis teigia, kad materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių (žemutinių lietuvių) ir latvių13.'
+  teiginys: 'Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-65559"></a>
 - t-006
   global_id: t-65559
-  teiginys: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
+  teiginys: 'Istorijos priešaušryje kuršių ir kitų baltų žemėse turėjo būti daug atskirų sričių kunigų.'
   pagrindžia:
     - c-002
 
@@ -81,7 +81,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 <a id="claim-t-65561"></a>
 - t-008
   global_id: t-65561
-  teiginys: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
+  teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
   pagrindžia:
     - c-009
 
@@ -109,7 +109,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 <a id="claim-t-65566"></a>
 - t-012
   global_id: t-65566
-  teiginys: 'Dusburgietis teigia, kad lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t.'
+  teiginys: 'Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.'
   pagrindžia:
     - c-010
 
@@ -123,7 +123,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 <a id="claim-t-65568"></a>
 - t-014
   global_id: t-65568
-  teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.'
+  teiginys: 'Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   pagrindžia:
     - c-008
 
@@ -251,6 +251,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-009
 
 - c-007
+  santrauka: 'Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
@@ -266,6 +267,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-005
 
 - c-008
+  santrauka: 'Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -284,6 +286,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-014
 
 - c-009
+  santrauka: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     8345). Spindinčius metalo ginklus kronikininkai randa ir pas
@@ -297,6 +300,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-008
 
 - c-010
+  santrauka: 'Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į šiaurę nuo Nemuno žiočių, Minijos
@@ -428,6 +432,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
 - [[objektai/daiktai/Šventojo kryžiaus ženklas]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/zodynas/duoklė]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

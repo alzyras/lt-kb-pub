@@ -27,7 +27,7 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-G
 <a id="claim-t-183752"></a>
 - t-002
   global_id: t-183752
-  teiginys: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
+  teiginys: 'Jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-G
     - t-001
 
 - c-002
-  santrauka: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
+  santrauka: 'Jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pats žygis

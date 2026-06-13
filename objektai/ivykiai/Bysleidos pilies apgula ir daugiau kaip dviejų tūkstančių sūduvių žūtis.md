@@ -37,20 +37,21 @@ Nenurodyta
 <a id="claim-t-62762"></a>
 - t-001
   global_id: t-62762
-  teiginys: 'Dusburgietis teigia, kad šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį ir nukovė daugiau nei du tūkstančius priešo karių.'
+  teiginys: 'Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62763"></a>
 - t-002
   global_id: t-62763
-  teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
+  teiginys: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
@@ -66,6 +67,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
@@ -82,9 +84,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Nadruviai]]
+- [[objektai/asmenys/Nameda]]
+- [[objektai/grupes/Skalviai]]
 - [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
 - [[objektai/grupes/Mantiminų giminė]]
-- [[objektai/asmenys/Nameda]]
 - [[objektai/asmenys/Pasdrauputis]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

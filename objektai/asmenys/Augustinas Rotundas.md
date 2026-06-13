@@ -27,20 +27,21 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 <a id="claim-t-60086"></a>
 - t-001
   global_id: t-60086
-  teiginys: 'Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).'
+  teiginys: 'Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60087"></a>
 - t-002
   global_id: t-60087
-  teiginys: 'Dusburgietis teigia, kad sis tekstas rodo, jog tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau nepanaudojo75.'
+  teiginys: 'Augustinas Rotundas, gavęs Dusburgiečio rankraštį, perdavė jį Motiejui Strijkovskiui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
@@ -54,6 +55,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
     - t-001
 
 - c-002
+  santrauka: 'Augustinas Rotundas, gavęs Dusburgiečio rankraštį, perdavė jį Motiejui Strijkovskiui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sis tekstas rodo, jog
@@ -70,3 +72,4 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Stanislovas Sabina]]
+- [[objektai/grupes/Chodkevičiai]]

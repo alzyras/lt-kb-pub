@@ -37,14 +37,7 @@ Bodzanta Vladislovo vardu.
 <a id="claim-t-82242"></a>
 - t-002
   global_id: t-82242
-  teiginys: 'Gniezno arkivyskupas Bodzanta iškilmingai pašventino bažnyčią, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-82243"></a>
-- t-003
-  global_id: t-82243
-  teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
+  teiginys: 'Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.'
   pagrindžia:
     - c-002
 

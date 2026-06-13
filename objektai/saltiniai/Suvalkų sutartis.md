@@ -26,20 +26,21 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
 <a id="claim-t-10546"></a>
 - t-001
   global_id: t-10546
-  teiginys: 'Inscenizavus Lenkijos kariuomenės 1-osios lietuviųbaltarusių divizijos (jai vadovauti jis buvo paskirtas 1920 m. spalio pradžioje) maištą, pažeidžiant Suvalkų taikos sutartį įsiveržti į Lietuvą.'
+  teiginys: 'L. Želigovskiui buvo pavesta inscenizuoti 1-osios lietuvių-baltarusių divizijos maištą ir, pažeidžiant Suvalkų sutartį, įsiveržti į Lietuvą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78876"></a>
 - t-002
   global_id: t-78876
-  teiginys: 'LIETUVOS RESPUBLIKA Kautynių priešistorė Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, lenkai slapta rengėsi užimti Vilnių.'
+  teiginys: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, Lenkija slapta rengėsi užimti Vilnių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Želigovskiui buvo pavesta inscenizuoti 1-osios lietuvių-baltarusių divizijos maištą ir, pažeidžiant Suvalkų sutartį, įsiveržti į Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Asmeniniam Lenkijos prezidento Juzefo Pilsudskio
@@ -55,6 +56,7 @@ Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė 
     - t-001
 
 - c-002
+  santrauka: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, Lenkija slapta rengėsi užimti Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LIETUVOS

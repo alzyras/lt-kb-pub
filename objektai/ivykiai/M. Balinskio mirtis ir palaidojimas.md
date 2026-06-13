@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-86956"></a>
 - t-001
   global_id: t-86956
-  teiginys: 'Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.'
+  teiginys: '1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
@@ -67,5 +68,6 @@ Nenurodyta
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/ivykiai/1863 m. sukilimas]]
 - [[objektai/asmenys/Michailas Muravjovas-Korikas]]

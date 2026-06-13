@@ -25,13 +25,14 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
 <a id="claim-t-77822"></a>
 - t-001
   global_id: t-77822
-  teiginys: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
+  teiginys: 'Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Neprasigy-

@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-26386"></a>
 - t-002
   global_id: t-26386
-  teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolektyvizacijos ir ginkluotos rezistencijos laikotarpis.'
+  teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1941–1944

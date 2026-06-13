@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-80737"></a>
 - t-001
   global_id: t-80737
-  teiginys: 'Žygimanto Augusto paradiniai šarvai, pagaminti Niunberge meistro Kunzo Lochnerio, XVI a.'
+  teiginys: 'Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
@@ -63,5 +64,6 @@ tags:
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/daiktai/Šarvai]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/asmenys/Romanas Sanguška]]

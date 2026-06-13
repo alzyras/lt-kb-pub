@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-62733"></a>
 - t-001
   global_id: t-62733
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino; paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną.'
+  teiginys: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     41. Apie vieną stebuklą

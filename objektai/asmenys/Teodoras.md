@@ -39,7 +39,7 @@ periodo_grupes:
 <a id="claim-t-79203"></a>
 - t-002
   global_id: t-79203
-  teiginys: 'Lietuvai būdingą Desiukiškių tipo kalaviją Kijevo prijungimą tuo metu prie Lietuvos patvirtina faktas, kad vienalaikiai šaltiniai kiek vėliau, 1330-1331 m. jau aiškiai mini „Gedimino brolį“ Teodorą, Lietuvos valdovo vietininką Kijeve.'
+  teiginys: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,7 @@ periodo_grupes:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie krūtinšarvio pritvirtintos lapo formos pečių

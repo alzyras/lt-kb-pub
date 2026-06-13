@@ -76,7 +76,7 @@ Nenurodyta
 <a id="claim-t-77015"></a>
 - t-006
   global_id: t-77015
-  teiginys: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
+  teiginys: 'Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.'
   pagrindžia:
     - c-003
 

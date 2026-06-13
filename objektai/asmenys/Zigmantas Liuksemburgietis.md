@@ -64,7 +64,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 <a id="claim-t-176877"></a>
 - t-007
   global_id: t-176877
-  teiginys: 'Zigmantas dažnai klausinėja Vytautą apie karūnacijos terminą ir skatina jį negaišt.'
+  teiginys: 'Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.'
   pagrindžia:
     - c-004
 
@@ -143,6 +143,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - t-004
 
 - c-004
+  santrauka: 'Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Zigmantas dažnai klausinėja

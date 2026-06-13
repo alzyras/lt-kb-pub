@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-87015"></a>
 - t-001
   global_id: t-87015
-  teiginys: 'Prie jos šliejosi pats miesto centras, nedidelis, su mediniais namais, bet su tvirtų statinių tvorų ir griovių sutvirtinimais.'
+  teiginys: '1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais.'
   pagrindžia:
     - c-002
 
@@ -117,6 +117,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš

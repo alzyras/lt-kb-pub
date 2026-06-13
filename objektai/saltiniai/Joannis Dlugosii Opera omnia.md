@@ -31,13 +31,6 @@ amziai:
   pagrindžia:
     - c-001
 
-<a id="claim-t-183701"></a>
-- t-002
-  global_id: t-183701
-  teiginys: '5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,14 +47,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: '5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

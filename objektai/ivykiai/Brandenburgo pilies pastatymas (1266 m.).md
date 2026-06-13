@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-62750"></a>
 - t-001
   global_id: t-62750
-  teiginys: 'Dusburgietis teigia, kad apie Brandenburgo pilies pastatymą Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro bei brolių patariamas, pastatydino Brandenburgo pilį399.'
+  teiginys: '1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1266 m. Brandenburgo markgrafas, magistro ir brolių patariamas, Prūsijoje pastatydino Brandenburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     127 (122). Apie Brandenburgo pilies pastatymą

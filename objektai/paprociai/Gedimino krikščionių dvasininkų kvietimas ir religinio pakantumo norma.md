@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-87141"></a>
 - t-001
   global_id: t-87141
-  teiginys: 'Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis!'
+  teiginys: 'Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.'
   pagrindžia:
     - c-002
 
@@ -92,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jie sako, jog tai daro dėl to,

@@ -27,7 +27,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 <a id="claim-t-79415"></a>
 - t-001
   global_id: t-79415
-  teiginys: 'Vasario 9 d. priešakiniai pulko daliniai, susišaudę su lietuvių husarų žvalgais, užėmė netoli Prienų esantį Jiezną.'
+  teiginys: 'Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     - t-003
 
 - c-002
+  santrauka: 'Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Grojant „Internacionalą“, pulkas išžygiavo

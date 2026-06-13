@@ -28,13 +28,14 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
 <a id="claim-t-78153"></a>
 - t-001
   global_id: t-78153
-  teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+  teiginys: 'Lietuvos Respublikos Konstitucija buvo priimta 1992 m. spalio 25 d. piliečių referendume.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos Respublikos Konstitucija buvo priimta 1992 m. spalio 25 d. piliečių referendume.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-

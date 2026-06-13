@@ -46,14 +46,14 @@ amziai:
 <a id="claim-t-182801"></a>
 - t-003
   global_id: t-182801
-  teiginys: 'Lietuvos maršalkos Chreptavičiaus ataskaita liudijo, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė pajamų karaliaus iždui.'
+  teiginys: 'Chreptavičiaus ataskaita rodė, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė nemažai pajamų karaliaus iždui.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183373"></a>
 - t-004
   global_id: t-183373
-  teiginys: 'Lietuvos Metrika – tai Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a.'
+  teiginys: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
   pagrindžia:
     - c-004
 
@@ -79,7 +79,7 @@ amziai:
     - t-002
 
 - c-002
-  santrauka: 'Lietuvos maršalkos Chreptavičiaus ataskaita liudijo, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė pajamų karaliaus iždui.'
+  santrauka: 'Chreptavičiaus ataskaita rodė, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė nemažai pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus mo­
@@ -123,7 +123,7 @@ amziai:
     - t-001
 
 - c-004
-  santrauka: 'Lietuvos Metrika – tai Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a.'
+  santrauka: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Metrika – tai Lietuvos didžiojo kunigaikščio raštinėje nuo

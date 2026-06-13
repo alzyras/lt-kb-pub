@@ -28,14 +28,14 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 <a id="claim-t-78882"></a>
 - t-002
   global_id: t-78882
-  teiginys: 'Prieš mūšį Vytautas pokalbyje su chanu tarsi reikalavo pavaldumo ir Ordos pinigus žymėti Vytauto ženklu.'
+  teiginys: 'Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78883"></a>
 - t-003
   global_id: t-78883
-  teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  teiginys: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-003
 
@@ -59,6 +59,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     - t-001
 
 - c-002
+  santrauka: 'Prieš mūšį Vytautas pokalbyje su chanu Timūr-Kutluku tarsi reikalavo pavaldumo ir Ordos pinigų žymėjimo Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -77,6 +78,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     - t-002
 
 - c-003
+  santrauka: 'Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių pajėgos
@@ -172,7 +174,6 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 - [[objektai/asmenys/Uzbeko]]
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
-- [[objektai/grupes/Valimantaičiai]]
 - [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vosylius I]]

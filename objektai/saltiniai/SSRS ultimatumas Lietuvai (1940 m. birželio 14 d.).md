@@ -33,14 +33,14 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 <a id="claim-t-75518"></a>
 - t-003
   global_id: t-75518
-  teiginys: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
+  teiginys: 'Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75519"></a>
 - t-004
   global_id: t-75519
-  teiginys: 'Kariuomenės vadas gen. V. Vitkauskas ir gen. S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  teiginys: 'Kariuomenės vadas V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-001
 
 - c-003
+  santrauka: 'Kariuomenės vadas V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau ministro pirmininko
@@ -100,6 +101,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-004
 
 - c-004
+  santrauka: 'Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai dar pavasarį slapta

@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-78651"></a>
 - t-002
   global_id: t-78651
-  teiginys: 'Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.'
+  teiginys: 'Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido

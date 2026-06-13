@@ -27,7 +27,7 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 <a id="claim-t-79102"></a>
 - t-002
   global_id: t-79102
-  teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė kautynes, per kurias iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
+  teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė Užpelkių kautynes, kuriose iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
   pagrindžia:
     - c-001
 

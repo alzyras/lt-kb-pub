@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-71789"></a>
 - t-003
   global_id: t-71789
-  teiginys: 'Švedijos kariuomenės vadovybė iškart sureagavo į šį manevrą ir buvo duotas įsakymas pulti „besitraukiančius“ lietuvius (šis manevras labai primena 1270 m. Karusės, 1279 m. Aizkraulės, 1410 m. Žalgirio, 1514 m. Oršos mūšius ir daug kitų).'
+  teiginys: 'Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius.'
   pagrindžia:
     - c-001
 

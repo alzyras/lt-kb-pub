@@ -42,20 +42,21 @@ Nenurodyta
 <a id="claim-t-62829"></a>
 - t-001
   global_id: t-62829
-  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų.'
+  teiginys: '1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų smarkiai užpuolė Kolainių pilį.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62830"></a>
 - t-002
   global_id: t-62830
-  teiginys: 'Dusburgietis teigia, kad galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo.'
+  teiginys: 'Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
@@ -94,4 +95,5 @@ Nenurodyta
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/posakiai/prisiekęs dievų galybe]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]

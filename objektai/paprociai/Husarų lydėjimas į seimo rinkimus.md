@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-67085"></a>
 - t-003
   global_id: t-67085
-  teiginys: 'Visi šie kariai yra bajorai, o ypač husarai, karalius ir etmonai juos pagerbė suL Ąteikdami draugo [Touariche] vardą, kuris reiškia draugą arba palydovą, jie valgo už jų Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna.'
+  teiginys: 'Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus.'
   pagrindžia:
     - c-001
 

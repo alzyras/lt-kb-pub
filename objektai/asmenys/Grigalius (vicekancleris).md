@@ -73,7 +73,6 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]
 - [[objektai/asmenys/Gernuldas]]
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/ivykiai/Grabovo derybos]]
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]

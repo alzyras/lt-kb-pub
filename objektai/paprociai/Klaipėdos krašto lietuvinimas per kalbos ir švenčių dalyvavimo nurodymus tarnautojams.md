@@ -47,13 +47,14 @@ Nenurodyta
 <a id="claim-t-77956"></a>
 - t-001
   global_id: t-77956
-  teiginys: '1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos.'
+  teiginys: 'Nurodymai Klaipėdos krašto tarnautojams darbe kalbėti lietuviškai ir dalyvauti lietuviškose šventėse trukdė krašto integracijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nurodymai Klaipėdos krašto tarnautojams darbe kalbėti lietuviškai ir dalyvauti lietuviškose šventėse trukdė krašto integracijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos

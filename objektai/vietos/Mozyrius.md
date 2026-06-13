@@ -29,7 +29,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 <a id="claim-t-68717"></a>
 - t-001
   global_id: t-68717
-  teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  teiginys: 'Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jodami stepėmis tarp

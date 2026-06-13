@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-97140"></a>
 - t-004
   global_id: t-97140
-  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  teiginys: '1345–1382 m. ordino kronikose suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių į Lietuvą.'
   pagrindžia:
     - c-003
 

@@ -43,7 +43,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 <a id="claim-t-32448"></a>
 - t-003
   global_id: t-32448
-  teiginys: 'Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą.'
+  teiginys: 'Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą.'
   pagrindžia:
     - c-003
 
@@ -83,6 +83,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - t-002
 
 - c-003
+  santrauka: 'Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet kryžiuočiai tuojau pat surengė naują

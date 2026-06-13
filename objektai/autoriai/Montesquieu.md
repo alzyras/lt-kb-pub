@@ -19,13 +19,14 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 <a id="claim-t-01118"></a>
 - t-001
   global_id: t-01118
-  teiginys: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
+  teiginys: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ Montesquieu priskiriamas prie autorių, laikytų epochos dievaičiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ Montesquieu priskiriamas prie autorių, laikytų epochos dievaičiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     menkaverčiai, nepasižymį gilumu, o tik drąsių, viską neigiančių iš-

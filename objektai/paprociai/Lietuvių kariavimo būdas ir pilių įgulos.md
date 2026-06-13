@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-78714"></a>
 - t-001
   global_id: t-78714
-  teiginys: 'Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą ir buvo valdomos valdovo paskirtų pareigūnų.'
+  teiginys: 'XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų.'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Nenurodyta
 <a id="claim-t-78716"></a>
 - t-003
   global_id: t-78716
-  teiginys: 'Vokiečiai jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau, palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietuvių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo | valdomos ne savarankiškų kunigaikštukų, bet valdovo.'
+  teiginys: 'Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau.'
   pagrindžia:
     - c-001
 
@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-183693"></a>
 - t-005
   global_id: t-183693
-  teiginys: 'Lietuva tapo didvalstybe - regiono lydere.'
+  teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.'
   pagrindžia:
     - c-004
 
@@ -128,7 +128,7 @@ Nenurodyta
     - t-002
 
 - c-004
-  santrauka: 'Lietuva tapo didvalstybe - regiono lydere.'
+  santrauka: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-

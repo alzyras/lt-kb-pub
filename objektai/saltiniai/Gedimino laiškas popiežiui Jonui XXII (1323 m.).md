@@ -35,7 +35,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 <a id="claim-t-88132"></a>
 - t-002
   global_id: t-88132
-  teiginys: 'Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės Vokietijos pajūrio miestams, klastotę.'
+  teiginys: 'Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė.'
   pagrindžia:
     - c-003
 
@@ -116,6 +116,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
     - t-005
 
 - c-003
+  santrauka: 'Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui

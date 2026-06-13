@@ -22,7 +22,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 <a id="claim-t-63722"></a>
 - t-001
   global_id: t-63722
-  teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+  teiginys: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio ir kitų žymių lietuvių rašytojų knygos.'
   pagrindžia:
     - c-005
 
@@ -36,7 +36,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 <a id="claim-t-63724"></a>
 - t-003
   global_id: t-63724
-  teiginys: 'Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.'
+  teiginys: 'Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.'
   pagrindžia:
     - c-002
 
@@ -50,14 +50,14 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 <a id="claim-t-63726"></a>
 - t-005
   global_id: t-63726
-  teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
+  teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio ir kitų lietuvių autorių kūrinių.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-63727"></a>
 - t-006
   global_id: t-63727
-  teiginys: 'Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
+  teiginys: 'Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.'
   pagrindžia:
     - c-006
 
@@ -87,6 +87,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-002
 
 - c-002
+  santrauka: 'Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
@@ -125,6 +126,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-004
 
 - c-004
+  santrauka: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio ir kitų lietuvių autorių kūrinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -146,6 +148,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-005
 
 - c-005
+  santrauka: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio ir kitų žymių lietuvių rašytojų knygos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kultūros suvienodinimas
@@ -165,6 +168,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-001
 
 - c-006
+  santrauka: 'Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jas įsi-
@@ -192,6 +196,8 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/atšilimas]]
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

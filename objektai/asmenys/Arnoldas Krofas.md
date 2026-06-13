@@ -20,13 +20,14 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 <a id="claim-t-60240"></a>
 - t-001
   global_id: t-60240
-  teiginys: 'Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas reikalinga piliai pulti, o kita — kas reikalinga gynybai, prasidėjo puolimas; krito daug priešų, sužeistų ir nukautų, o brolis Arnoldas Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą.'
+  teiginys: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šioje pilyje tebuvo trys broliai ir keletas ginklanešių,
@@ -45,4 +46,6 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Divanas]]
+- [[objektai/daiktai/Arbaletas]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]

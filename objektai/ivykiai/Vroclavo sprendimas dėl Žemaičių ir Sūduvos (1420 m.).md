@@ -61,7 +61,7 @@ Nenurodyta
 <a id="claim-t-179458"></a>
 - t-004
   global_id: t-179458
-  teiginys: 'Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).'
+  teiginys: 'Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m.'
   pagrindžia:
     - c-004
 
@@ -119,6 +119,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordinas tačiau, tikėdamas atgauti prarastas pozicijas, neno­

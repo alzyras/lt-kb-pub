@@ -35,7 +35,7 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 <a id="claim-t-75521"></a>
 - t-002
   global_id: t-75521
-  teiginys: 'Neutralumo politika ir Molotovo–Ribentropo paktas Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti jų.'
+  teiginys: '1938 m. Baltijos šalių ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų net pagal Tautų Sąjungos Statuto 16 straipsnį.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
     - t-001
 
 - c-002
+  santrauka: '1938 m. Baltijos šalių ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų net pagal Tautų Sąjungos Statuto 16 straipsnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokią taktiką galima įvardyti kaip buvimą „tarp

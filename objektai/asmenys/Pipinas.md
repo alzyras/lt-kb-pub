@@ -22,27 +22,28 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 <a id="claim-t-59996"></a>
 - t-001
   global_id: t-59996
-  teiginys: 'Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas.'
+  teiginys: 'Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59998"></a>
 - t-002
   global_id: t-59998
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus jis išdavė savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės ir ten po medžiu pakorė221.'
+  teiginys: 'Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie jį nuvilko prie arklio uodegos iki Torunės ir pakorė po medžiu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59999"></a>
 - t-003
   global_id: t-59999
-  teiginys: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas.'
+  teiginys: 'Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie jį nuvilko prie arklio uodegos iki Torunės ir pakorė po medžiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop broliai susikovė su Ragavos pilėnais ir, dievui
@@ -62,6 +63,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     - t-002
 
 - c-002
+  santrauka: 'Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
@@ -81,6 +83,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     - t-003
 
 - c-003
+  santrauka: 'Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis

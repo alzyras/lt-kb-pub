@@ -31,14 +31,14 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 <a id="claim-t-89286"></a>
 - t-001
   global_id: t-89286
-  teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
+  teiginys: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-89287"></a>
 - t-002
   global_id: t-89287
-  teiginys: 'Dusburgietis teigia, kad tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo.'
+  teiginys: 'Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o Klemensas V jį panaikino Vieno suvažiavime 1312 m. kovo 23 d.'
   pagrindžia:
     - c-002
 
@@ -52,20 +52,21 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 <a id="claim-t-89289"></a>
 - t-004
   global_id: t-89289
-  teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
+  teiginys: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89290"></a>
 - t-005
   global_id: t-89290
-  teiginys: 'Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų padarinių.'
+  teiginys: 'Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
@@ -99,6 +100,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     - t-002
 
 - c-003
+  santrauka: 'Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
@@ -112,6 +114,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     - t-005
 
 - c-004
+  santrauka: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291

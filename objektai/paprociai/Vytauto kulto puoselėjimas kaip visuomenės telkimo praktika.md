@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-77954"></a>
 - t-001
   global_id: t-77954
-  teiginys: 'Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais pavadinama imperija.'
+  teiginys: 'Vytauto laikų Lietuva labiausiai priartėjo prie valstybės formos, kuri šiandien kartais vadinama imperija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto laikų Lietuva labiausiai priartėjo prie valstybės formos, kuri šiandien kartais vadinama imperija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien

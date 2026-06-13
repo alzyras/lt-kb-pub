@@ -19,7 +19,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
 <a id="claim-t-62620"></a>
 - t-001
   global_id: t-62620
-  teiginys: 'Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra arba jos 1-oji 1326 m. redakcija (2-oji 1326 m. ir 3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos cenzūruotas antrininkas94.'
+  teiginys: 'J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.'
   pagrindžia:
     - c-003
 
@@ -63,6 +63,7 @@ Dusburgietis teigia, kad venta iškėlė mintį, kad išlikusi Dusburgiečio kro
     - t-003
 
 - c-003
+  santrauka: 'J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pamario bei Ordino valstybės analistiką, be kitų

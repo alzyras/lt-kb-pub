@@ -90,14 +90,14 @@ Nenurodyta
 <a id="claim-t-176204"></a>
 - t-007
   global_id: t-176204
-  teiginys: 'Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik pradžioje tevartojo.'
+  teiginys: 'Žalgirio mūšyje patrankos buvo naudotos mažai ir tik mūšio pradžioje.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-176205"></a>
 - t-008
   global_id: t-176205
-  teiginys: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet jos sąjungininkų kariuomenėje sumišimo nesukėlė.'
+  teiginys: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
   pagrindžia:
     - c-005
 
@@ -169,7 +169,7 @@ Nenurodyta
     - t-006
 
 - c-005
-  santrauka: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet jos sąjungininkų kariuomenėje sumišimo nesukėlė.'
+  santrauka: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
@@ -240,7 +240,6 @@ Nenurodyta
 - [[objektai/zodynas/miesto sargyba ir policija]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
-- [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/V. Grigas]]
 - [[objektai/daiktai/Armotos]]
 - [[objektai/daiktai/Kardas]]

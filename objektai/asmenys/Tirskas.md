@@ -31,27 +31,28 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 <a id="claim-t-60067"></a>
 - t-001
   global_id: t-60067
-  teiginys: 'Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330 bei jo sūnų Maudelį331 su daugybe ginklanešių.'
+  teiginys: 'Tirskas su sūnumi Maudeliu ir daugybe ginklanešių buvo paliktas nadruvių pastatytoje pilyje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60068"></a>
 - t-002
   global_id: t-60068
-  teiginys: 'Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die.'
+  teiginys: 'Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60069"></a>
 - t-003
   global_id: t-60069
-  teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
+  teiginys: 'Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tirskas su sūnumi Maudeliu ir daugybe ginklanešių buvo paliktas nadruvių pastatytoje pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
@@ -68,6 +69,7 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
     - t-001
 
 - c-002
+  santrauka: 'Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
@@ -105,6 +107,7 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
     - t-002
 
 - c-003
+  santrauka: 'Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
@@ -140,9 +143,9 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pagudėnai]]
-- [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]

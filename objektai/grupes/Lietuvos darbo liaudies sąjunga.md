@@ -21,20 +21,21 @@ tags:
 <a id="claim-t-77820"></a>
 - t-001
   global_id: t-77820
-  teiginys: 'Į vieną vietą leista iškelti vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
+  teiginys: 'Visi 79 kandidatai 1940 m. rinkimuose į Liaudies seimą atstovavo Lietuvos darbo liaudies sąjungai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-77821"></a>
 - t-002
   global_id: t-77821
-  teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
+  teiginys: 'Oficialiais duomenimis, 99,19 proc. balsavusiųjų 1940 m. liepos 14-15 d. rinkimuose balsavo už Lietuvos darbo liaudies sąjungos kandidatus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Oficialiais duomenimis, 99,19 proc. balsavusiųjų 1940 m. liepos 14-15 d. rinkimuose balsavo už Lietuvos darbo liaudies sąjungos kandidatus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
@@ -52,6 +53,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Visi 79 kandidatai 1940 m. rinkimuose į Liaudies seimą atstovavo Lietuvos darbo liaudies sąjungai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į vieną vietą leista iškelti

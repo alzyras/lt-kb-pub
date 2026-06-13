@@ -24,14 +24,14 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 <a id="claim-t-113890"></a>
 - t-001
   global_id: t-113890
-  teiginys: 'Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, nurodė nedelsiant pradėti žygį jam užkirsti kelią.'
+  teiginys: 'Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-113891"></a>
 - t-002
   global_id: t-113891
-  teiginys: 'Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.'
+  teiginys: 'Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko.'
   pagrindžia:
     - c-001
 

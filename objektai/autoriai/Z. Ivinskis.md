@@ -86,7 +86,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 <a id="claim-t-179567"></a>
 - t-007
   global_id: t-179567
-  teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
+  teiginys: 'Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.'
   pagrindžia:
     - c-006
 
@@ -173,6 +173,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - t-006
 
 - c-006
+  santrauka: 'Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. Dusburgietis pažymi, kad „keturi
@@ -218,4 +219,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Zenonas]]
+- [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
+- [[objektai/ivykiai/Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)]]
+- [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
 - [[objektai/grupes/Žemaičiai]]

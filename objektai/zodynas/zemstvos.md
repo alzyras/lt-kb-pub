@@ -30,13 +30,14 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
 <a id="claim-t-77810"></a>
 - t-001
   global_id: t-77810
-  teiginys: 'Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos institucijos, vadinamosios zemstvos, veikusios Rusijoje nuo 1864 m. Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju.'
+  teiginys: 'Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1905-ųjų – kultūrinė kova

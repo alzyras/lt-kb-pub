@@ -28,34 +28,28 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 <a id="claim-t-97233"></a>
 - t-002
   global_id: t-97233
-  teiginys: 'Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą.'
+  teiginys: 'Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-97234"></a>
 - t-003
   global_id: t-97234
-  teiginys: 'Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
+  teiginys: 'Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-97235"></a>
 - t-004
   global_id: t-97235
-  teiginys: 'Tas žinias jis sako gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose lankęsis.'
+  teiginys: 'Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-97236"></a>
-- t-005
-  global_id: t-97236
-  teiginys: 'Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Be
@@ -93,6 +87,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     - t-005
 
 - c-003
+  santrauka: 'Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dažnai miglotos ankstyvesnių autorių žinios

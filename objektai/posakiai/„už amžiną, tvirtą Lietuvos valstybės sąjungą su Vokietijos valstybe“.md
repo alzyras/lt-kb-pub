@@ -39,7 +39,7 @@ amziai:
 <a id="claim-t-45873"></a>
 - t-002
   global_id: t-45873
-  teiginys: '1918 metų Vasario 16 Aktas 1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
+  teiginys: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 metų Vasario 16 Aktas

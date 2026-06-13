@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-62238"></a>
 - t-001
   global_id: t-62238
-  teiginys: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
+  teiginys: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
@@ -70,4 +71,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]

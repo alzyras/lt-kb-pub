@@ -22,13 +22,14 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
 <a id="claim-t-59151"></a>
 - t-001
   global_id: t-59151
-  teiginys: 'Dusburgietis teigia, kad retrospektyvinis požiūris į įvykius ryškus tokiuose kronikininko pareiškimuose,— kaip „po šiai dienai tebestovi apleista“ Spitenbergo pilis Pamedėje, paliko negyvenamos Nadruvos, Sūduvos žemės (III, 151, 179, 219).'
+  teiginys: 'Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo  principu  jis naudojasi, aprašydamas  Prūsijos žemių tarp Vyslos  ir

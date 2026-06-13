@@ -74,7 +74,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 <a id="claim-t-184356"></a>
 - t-004
   global_id: t-184356
-  teiginys: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  teiginys: 'Popiežiaus Aleksandro IV bulėmis buvo įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
   pagrindžia:
     - c-005
 
@@ -141,7 +141,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     - t-003
 
 - c-005
-  santrauka: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  santrauka: 'Popiežiaus Aleksandro IV bulėmis buvo įsakyta intensyviau skelbti kryžiaus karus prieš pagonis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio

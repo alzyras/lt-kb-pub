@@ -27,13 +27,14 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
 <a id="claim-t-96049"></a>
 - t-001
   global_id: t-96049
-  teiginys: 'Remarko „VAKARŲ FRONTE NIEKO NAUJO“.'
+  teiginys: '1929 m. išleistas E. M. Remarko „Vakarų fronte nieko naujo“ vertimas iš originalo, kurį vertė J. Kalnėnas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1929 m. išleistas E. M. Remarko „Vakarų fronte nieko naujo“ vertimas iš originalo, kurį vertė J. Kalnėnas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1. E. M. Remarko „VAKARŲ FRONTE NIEKO NAUJO“. Iš originalo

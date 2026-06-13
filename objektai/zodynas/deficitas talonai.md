@@ -19,20 +19,21 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 <a id="claim-t-70104"></a>
 - t-001
   global_id: t-70104
-  teiginys: 'Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trūko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų, ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, televizorius, be to.'
+  teiginys: 'Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183407"></a>
 - t-002
   global_id: t-183407
-  teiginys: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
+  teiginys: 'Komandinės planinės ekonomikos neefektyvumas pašieptas juoku, kad socializmas Sacharoje sukeltų smėlio deficitą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia
@@ -51,7 +52,7 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
     - t-001
 
 - c-002
-  santrauka: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
+  santrauka: 'Komandinės planinės ekonomikos neefektyvumas pašieptas juoku, kad socializmas Sacharoje sukeltų smėlio deficitą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šaipantis iš komandinės, planinės ekonomikos

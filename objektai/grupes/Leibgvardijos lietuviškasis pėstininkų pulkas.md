@@ -26,7 +26,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 <a id="claim-t-78196"></a>
 - t-001
   global_id: t-78196
-  teiginys: 'Fronto kairiajame ir dešiniajame sparnuose taip pat buvo išdėstyta artilerija, už jos rikiavosi pėstininkai, kiek toliau - kavalerija.'
+  teiginys: 'Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
     - t-002
 
 - c-002
+  santrauka: 'Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Fronto kairiajame
@@ -110,5 +111,5 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/ulonai]]
-- [[objektai/grupes/Leibgvardijos kazokų pulkas]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
+- [[objektai/grupes/Leibgvardijos kazokų pulkas]]

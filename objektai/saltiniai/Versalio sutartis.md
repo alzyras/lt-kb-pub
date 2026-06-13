@@ -22,7 +22,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
 <a id="claim-t-45767"></a>
 - t-001
   global_id: t-45767
-  teiginys: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
+  teiginys: 'Versalio sutarties 28 straipsnis atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė jį laikinai sąjungininkų kontrolei.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Versalio sutarties 28 straipsnis atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė jį laikinai sąjungininkų kontrolei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-

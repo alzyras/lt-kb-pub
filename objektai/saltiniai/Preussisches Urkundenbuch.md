@@ -27,20 +27,21 @@ PUB = Preussisches Urkundenbuch, t.
 <a id="claim-t-67523"></a>
 - t-001
   global_id: t-67523
-  teiginys: 'Dusburgietis teigia, kad 162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr. 41, p. 28).'
+  teiginys: '1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-67524"></a>
 - t-002
   global_id: t-67524
-  teiginys: 'Dusburgietis teigia, kad realizuojant popiežiaus planus, 1215 m. 2-oje pusėje ar 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu (PUB, 1, 1, Nr. 9, 10; Pakarklis P. Kryžiuočių..., p. 203—204). Kristijono misija apėmė gana didelę teritoriją, greičiausiai ir visą.'
+  teiginys: '1215 m. antroje pusėje arba 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
@@ -53,6 +54,7 @@ PUB = Preussisches Urkundenbuch, t.
     - t-001
 
 - c-002
+  santrauka: '1215 m. antroje pusėje arba 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Realizuojant popiežiaus

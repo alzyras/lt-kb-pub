@@ -32,7 +32,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 <a id="claim-t-101238"></a>
 - t-001
   global_id: t-101238
-  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinistų tikėjimą.'
+  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinizmą.'
   pagrindžia:
     - c-003
 
@@ -53,7 +53,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 <a id="claim-t-183129"></a>
 - t-004
   global_id: t-183129
-  teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
+  teiginys: 'Antruoju reformacijos etapu LDK didikai rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-002
 

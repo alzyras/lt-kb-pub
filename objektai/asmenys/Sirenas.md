@@ -21,13 +21,21 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 <a id="claim-t-60433"></a>
 - t-001
   global_id: t-60433
-  teiginys: 'Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.'
+  teiginys: 'Sirenas buvo pamedėnas, kurį Kristburgo pilyje laikė surakintą grandinėmis dėl kažkokio prasikaltimo.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184125"></a>
+- t-002
+  global_id: t-184125
+  teiginys: 'Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sirenas buvo pamedėnas, kurį Kristburgo pilyje laikė surakintą grandinėmis dėl kažkokio prasikaltimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo
@@ -44,7 +52,7 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, trys jų tarnai ir vienas pamedėnas, vardu Sirenas, kurį laikė grandinėmis surakintą, nes buvo kažkuo prasikaltęs.'
+  santrauka: 'Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,
@@ -63,3 +71,5 @@ Dusburgietis teigia, kad tuo metu Kristburgo pilyje tebuvo likę trys broliai, t
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pamedėnai]]
+- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]

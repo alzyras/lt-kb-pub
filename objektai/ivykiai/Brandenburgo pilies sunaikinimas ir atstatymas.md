@@ -36,14 +36,14 @@ Nenurodyta
 <a id="claim-t-62751"></a>
 - t-001
   global_id: t-62751
-  teiginys: 'Dusburgietis teigia, kad kai traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta Štai šiuo būdu.'
+  teiginys: 'Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62752"></a>
 - t-002
   global_id: t-62752
-  teiginys: 'Dusburgietis teigia, kad apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje pat.'
+  teiginys: 'Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.'
   pagrindžia:
     - c-001
     - c-003
@@ -51,6 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
@@ -67,6 +68,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai
@@ -84,6 +86,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
@@ -111,3 +114,4 @@ Nenurodyta
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vergai]]
+- [[objektai/asmenys/Glapas]]

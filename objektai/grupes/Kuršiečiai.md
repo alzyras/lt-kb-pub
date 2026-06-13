@@ -21,7 +21,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 <a id="claim-t-40966"></a>
 - t-001
   global_id: t-40966
-  teiginys: 'Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė didžiajam etmonui.'
+  teiginys: 'Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kairiajame Dauguvos krante buvęs

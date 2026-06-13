@@ -98,4 +98,5 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - [[objektai/zodynas/regencija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
 - [[objektai/asmenys/Vosylius II]]

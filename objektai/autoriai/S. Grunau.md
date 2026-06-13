@@ -19,20 +19,21 @@ tags:
 <a id="claim-t-64836"></a>
 - t-001
   global_id: t-64836
-  teiginys: 'Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas ąžuolas, kurio kamienas buvęs padalytas į tris lygias dalis, kiekvienoje jų — iškirstas langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.'
+  teiginys: 'S. Grunau XVI a. pirmoje pusėje rašė, kad Romuvoje augo milžiniškas ąžuolas su Perkūno, Patulo ir Patrimpo stabais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-64837"></a>
 - t-002
   global_id: t-64837
-  teiginys: 'Dusburgietis teigia, kad 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė dviem minėtiems.'
+  teiginys: 'S. Grunau ir vėlesni autoriai Krivį vadino Krivių Krivaičiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'S. Grunau ir vėlesni autoriai Krivį vadino Krivių Krivaičiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
@@ -51,6 +52,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'S. Grunau XVI a. pirmoje pusėje rašė, kad Romuvoje augo milžiniškas ąžuolas su Perkūno, Patulo ir Patrimpo stabais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis rašo, kad prūsai dievino griaustinį (pro deo coluerunt [...] tonitrua).

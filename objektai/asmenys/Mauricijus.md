@@ -28,7 +28,7 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 <a id="claim-t-87775"></a>
 - t-001
   global_id: t-87775
-  teiginys: 'O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.'
+  teiginys: 'Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­

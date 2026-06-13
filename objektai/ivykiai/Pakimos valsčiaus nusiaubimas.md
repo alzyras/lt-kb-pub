@@ -36,7 +36,14 @@ Nenurodyta
 <a id="claim-t-62425"></a>
 - t-001
   global_id: t-62425
-  teiginys: 'Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs.'
+  teiginys: 'Konradas iš Tirbergo Jaunesnysis įsiveržė į Sūduvos žemės Pakimos valsčių, jį nusiaubė, sudegino ir apiplėšė.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183952"></a>
+- t-002
+  global_id: t-183952
+  teiginys: 'Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.'
   pagrindžia:
     - c-001
 
@@ -73,3 +80,4 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]

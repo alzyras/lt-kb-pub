@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-62388"></a>
 - t-001
   global_id: t-62388
-  teiginys: 'Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.'
+  teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų.'
   pagrindžia:
     - c-001
 

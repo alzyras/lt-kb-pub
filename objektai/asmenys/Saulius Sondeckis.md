@@ -30,13 +30,14 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 <a id="claim-t-78069"></a>
 - t-001
   global_id: t-78069
-  teiginys: 'Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša.'
+  teiginys: 'Saulius Sondeckis buvo minimas kaip dirigentas, kurio orkestrai galėtų koncertuoti su Violeta Urmana ir Jascha Heifetzu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Saulius Sondeckis buvo minimas kaip dirigentas, kurio orkestrai galėtų koncertuoti su Violeta Urmana ir Jascha Heifetzu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-

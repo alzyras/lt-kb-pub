@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-93035"></a>
 - t-004
   global_id: t-93035
-  teiginys: 'Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.'
+  teiginys: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
   pagrindžia:
     - c-010
 
@@ -279,6 +279,7 @@ Nenurodyta
     - t-005
 
 - c-010
+  santrauka: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-

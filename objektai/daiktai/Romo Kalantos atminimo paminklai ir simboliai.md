@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-45539"></a>
 - t-002
   global_id: t-45539
-  teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
+  teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ši informacija neatitiko tikro-

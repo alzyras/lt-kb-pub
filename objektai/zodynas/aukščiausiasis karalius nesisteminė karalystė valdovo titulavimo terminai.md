@@ -31,7 +31,7 @@ amziai:
 <a id="claim-t-104181"></a>
 - t-001
   global_id: t-104181
-  teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  teiginys: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,13 @@ amziai:
   teiginys: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183398"></a>
+- t-004
+  global_id: t-183398
+  teiginys: 'Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -68,6 +75,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvokę, kad
@@ -85,7 +93,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  santrauka: 'Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus, visi

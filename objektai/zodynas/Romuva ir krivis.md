@@ -41,7 +41,7 @@ tags:
 <a id="claim-t-75586"></a>
 - t-004
   global_id: t-75586
-  teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
+  teiginys: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   pagrindžia:
     - c-004
 
@@ -83,6 +83,7 @@ tags:
   statusas: verified
 
 - c-004
+  santrauka: 'Romuva Nadruvoje ir jos krivis laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai-

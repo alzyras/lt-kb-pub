@@ -28,13 +28,14 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 <a id="claim-t-94746"></a>
 - t-001
   global_id: t-94746
-  teiginys: 'Apie gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir, pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).'
+  teiginys: 'Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apie

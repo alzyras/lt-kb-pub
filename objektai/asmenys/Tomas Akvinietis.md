@@ -29,13 +29,14 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
 <a id="claim-t-60447"></a>
 - t-001
   global_id: t-60447
-  teiginys: 'Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.'
+  teiginys: 'Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
@@ -52,7 +53,7 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.'
+  santrauka: 'Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Atsisakęs Regensburgo vyskupystės,  jis 18

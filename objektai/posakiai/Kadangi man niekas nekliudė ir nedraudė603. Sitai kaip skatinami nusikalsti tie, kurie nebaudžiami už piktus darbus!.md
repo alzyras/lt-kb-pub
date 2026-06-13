@@ -26,7 +26,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 <a id="claim-t-89594"></a>
 - t-002
   global_id: t-89594
-  teiginys: 'Dusburgietis teigia, kad pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs bei žiauriai kankinęs ir dvasininkus, ir pasauliečius, ir vienuolius, ir ne vienuolius bei visus kitus, kurie ėjo pro šalį.'
+  teiginys: 'Karvedys Henrikas pilyje grobė ir žiauriai kankino dvasininkus, pasauliečius, vienuolius ir kitus pro šalį ėjusius žmones.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
     - t-001
 
 - c-002
+  santrauka: 'Karvedys Henrikas pilyje grobė ir žiauriai kankino dvasininkus, pasauliečius, vienuolius ir kitus pro šalį ėjusius žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs
@@ -63,3 +64,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]

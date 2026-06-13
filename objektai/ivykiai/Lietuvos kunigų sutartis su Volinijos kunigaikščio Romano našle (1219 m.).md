@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-71752"></a>
 - t-001
   global_id: t-71752
-  teiginys: 'Vistik vien Lietuvos (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent keliasdešimt kunigų vardu.'
+  teiginys: '1219 m. sutarties proga Ipatijaus metraštyje buvo paminėtas 21 Lietuvos kunigų vardas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71753"></a>
 - t-002
   global_id: t-71753
-  teiginys: 'Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami Deltuvos kunigai.'
+  teiginys: '1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.'
   pagrindžia:
     - c-003
 
@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-71755"></a>
 - t-004
   global_id: t-71755
-  teiginys: 'Tarp vyresniųjų Lietuvos kunigų buvo minimi Živinbudas, Daujotas, Dausprungas ir jo brolis Mindaugas.'
+  teiginys: '1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas.'
   pagrindžia:
     - c-002
 
@@ -88,6 +88,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vistik vien Lietuvos
@@ -106,6 +107,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: '1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pvz., kai visa grupė Lietuvos kunigų

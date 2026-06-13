@@ -20,13 +20,14 @@ Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo prie�
 <a id="claim-t-78046"></a>
 - t-001
   global_id: t-78046
-  teiginys: 'Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
+  teiginys: 'XIII a. pabaigoje Butigeidis minimas kaip vienas iš Lietuvos didžiųjų kunigaikščių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII a. pabaigoje Butigeidis minimas kaip vienas iš Lietuvos didžiųjų kunigaikščių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
@@ -52,3 +53,4 @@ Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo prie�
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]

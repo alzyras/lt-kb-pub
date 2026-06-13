@@ -31,7 +31,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181459"></a>
 - t-001
   global_id: t-181459
-  teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
+  teiginys: 'Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.'
   pagrindžia:
     - c-007
 
@@ -70,31 +70,24 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindžia:
     - c-003
 
-<a id="claim-t-181465"></a>
-- t-007
-  global_id: t-181465
-  teiginys: 'Dusburgietis teigia, kad kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-181466"></a>
 - t-008
   global_id: t-181466
-  teiginys: 'Dusburgietis teigia, kad požėlos spaustuvė, Kaunas Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS Į ELEKTRONINĘ ERDVĘ“, 2013 TURINYS Pratarmė 5 Petro Dusburgiečio kronika 7 PRŪSIJOS ŽEMĖS KRONIKA 32 Pirma.'
+  teiginys: 'Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-181467"></a>
 - t-009
   global_id: t-181467
-  teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
+  teiginys: 'Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-181468"></a>
 - t-010
   global_id: t-181468
-  teiginys: 'Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo tarnu, netikusiu bei nenaudingu ir paslėpusiu pono jam duotą pinigą, todėl surašiau karus, kuriuose sėkmė lydėjo ir mus, ir mūsų protėvius, Ordino brolius, ir sudėjau į šią.'
+  teiginys: 'Petras iš Dusburgo rašė, kad į knygą sudėjo Ordino brolių karus ir užbaigė ją 1326 m.'
   pagrindžia:
     - c-011
 
@@ -115,14 +108,14 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181471"></a>
 - t-013
   global_id: t-181471
-  teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-181472"></a>
 - t-014
   global_id: t-181472
-  teiginys: 'Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo žemę, 0 po to stojo į mūšį.'
+  teiginys: 'Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.'
   pagrindžia:
     - c-012
 
@@ -143,7 +136,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181475"></a>
 - t-017
   global_id: t-181475
-  teiginys: 'Dusburgietis teigia, kad kaip ši knyga sutvarkyta Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę, trečia, apsakysiu karus, vykusius šioje žemėje, bei.'
+  teiginys: 'Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje.'
   pagrindžia:
     - c-009
 
@@ -153,6 +146,13 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginys: 'Dusburgietis teigia, kad petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
   pagrindžia:
     - c-010
+
+<a id="claim-t-183995"></a>
+- t-019
+  global_id: t-183995
+  teiginys: 'Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -211,6 +211,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-007
 
 - c-004
+  santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XIII a. Šilainiai,
@@ -268,6 +269,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-019
 
 - c-007
+  santrauka: 'Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
@@ -404,6 +406,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-002
 
 - c-012
+  santrauka: 'Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Eiliuota Livonijos kronika, aprašydama
@@ -447,7 +450,30 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/uolektis]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
+- [[objektai/posakiai/Eime, sakė, išnaikinsime juos]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]
+- [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
+- [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]
 - [[objektai/autoriai/M. Poliakuvna]]
+- [[objektai/posakiai/Maldininke, nuramink žęmę]]
+- [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs]]
+- [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
+- [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės]]
+- [[objektai/posakiai/moteriškos vilionės palaužė stiprųjį Samsoną]]
+- [[objektai/posakiai/nesibaiminkite visokeriopų vargų]]
+- [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]
+- [[objektai/zodynas/terra žemė]]
+- [[objektai/posakiai/težino vienas dievas]]
+- [[objektai/zodynas/tikybos ir bažnyčios priešai]]
+- [[objektai/zodynas/viešpaties darbas opus domini]]
+- [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
+- [[objektai/zodynas/viešpaties karas]]
 - [[objektai/posakiai/šio šventojo žygio atminimas]]
 - [[objektai/zodynas/šventasis žygis]]
 - [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų]]

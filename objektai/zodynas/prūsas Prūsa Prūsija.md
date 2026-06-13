@@ -48,14 +48,14 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 <a id="claim-t-58793"></a>
 - t-002
   global_id: t-58793
-  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
+  teiginys: 'XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58794"></a>
 - t-003
   global_id: t-58794
-  teiginys: 'Dusburgietis teigia, kad dėl prūsų.., p. 372—373; prūsis, prūsas iš pradžių galėjo būti vadinami išprusę, išsilavinę, daug žiną žmonės, plg.'
+  teiginys: 'Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.'
   pagrindžia:
     - c-005
 
@@ -76,6 +76,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
@@ -145,6 +146,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - t-005
 
 - c-005
+  santrauka: 'Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     М. Pretorijus gretino pruota, pruntu, prussu,  t. y. siejo su protas (Prätorius M.

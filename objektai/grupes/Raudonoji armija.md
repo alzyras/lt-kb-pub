@@ -31,7 +31,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 <a id="claim-t-78427"></a>
 - t-001
   global_id: t-78427
-  teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
+  teiginys: 'Liepos 3 d. priėmus Lietuvos kariuomenės pertvarkymo įstatymą, ji tapo Liaudies kariuomene, vėliau Raudonosios armijos 29-uoju šaulių korpusu.'
   pagrindžia:
     - c-005
 
@@ -45,42 +45,42 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 <a id="claim-t-78429"></a>
 - t-003
   global_id: t-78429
-  teiginys: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
+  teiginys: 'Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai atšaukė Lietuvoje rengtą sukilimą.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-78430"></a>
 - t-004
   global_id: t-78430
-  teiginys: 'Leidus parašyti Lietuvos istorijos sovietinę interpretaciją nustota dėkoti Raudonajai armijai už „išvadavimą“ iš lietuvių buržuazijos jungo 1940 m., nes sukonstruota socialistinės revoliucijos teorija, neva buvęs savarankiškas lietuvių tautos sprendimas.'
+  teiginys: 'Sovietinėje Lietuvos istorijos interpretacijoje nustota dėkoti Raudonajai armijai už 1940 m. „išvadavimą“ iš lietuvių buržuazijos jungo.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-78431"></a>
 - t-005
   global_id: t-78431
-  teiginys: 'Jį, „pasipuošusį“ raudonomis vėliavomis, išmargintomis įvairiais šūkiais Lietuvių pajėgos Lietuvos kariuomenės kario kokarda Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
+  teiginys: 'Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-78432"></a>
 - t-006
   global_id: t-78432
-  teiginys: 'Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis sparnas, kairėje – žydų ir lietuvių jaunimo dalis reiškė.'
+  teiginys: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78433"></a>
 - t-007
   global_id: t-78433
-  teiginys: 'Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.'
+  teiginys: 'Rusijos bolševikai metė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78434"></a>
 - t-008
   global_id: t-78434
-  teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
+  teiginys: 'Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.'
   pagrindžia:
     - c-007
 
@@ -101,6 +101,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusijos bolševikai metė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gavusi naujo Vo-
@@ -139,6 +140,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-010
 
 - c-003
+  santrauka: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
@@ -174,6 +176,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-009
 
 - c-005
+  santrauka: 'Liepos 3 d. priėmus Lietuvos kariuomenės pertvarkymo įstatymą, ji tapo Liaudies kariuomene, vėliau Raudonosios armijos 29-uoju šaulių korpusu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
@@ -188,6 +191,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-001
 
 - c-006
+  santrauka: 'Sovietinėje Lietuvos istorijos interpretacijoje nustota dėkoti Raudonajai armijai už 1940 m. „išvadavimą“ iš lietuvių buržuazijos jungo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galutiniu produktu turėjo tapti homo sovieticus – as-
@@ -230,6 +234,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-008
 
 - c-008
+  santrauka: 'Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     7-asis „lietuviškasis“ pulkas vasario 4 d.
@@ -276,7 +281,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - t-003
 
 - c-010
-  santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
+  santrauka: 'Liepos 3 d. priėmus Lietuvos kariuomenės pertvarkymo įstatymą, ji tapo Liaudies kariuomene, vėliau Raudonosios armijos 29-uoju šaulių korpusu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-

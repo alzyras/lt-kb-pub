@@ -37,20 +37,21 @@ amziai:
 <a id="claim-t-75480"></a>
 - t-003
   global_id: t-75480
-  teiginys: 'Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.'
+  teiginys: 'Lietuvos metraščiuose užrašyti keli lietuvių epinius pasakojimus atitinkantys siužetai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75481"></a>
 - t-004
   global_id: t-75481
-  teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
+  teiginys: 'Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos metraščiuose užrašyti keli lietuvių epinius pasakojimus atitinkantys siužetai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
@@ -106,6 +107,7 @@ amziai:
     - t-001
 
 - c-004
+  santrauka: 'Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-

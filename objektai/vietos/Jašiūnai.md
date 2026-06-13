@@ -27,21 +27,21 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 <a id="claim-t-85928"></a>
 - t-001
   global_id: t-85928
-  teiginys: 'Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę.'
+  teiginys: '1811 m. Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus ir vėliau juos įsigijo kaip nuosavybę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-85929"></a>
 - t-002
   global_id: t-85929
-  teiginys: 'Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.'
+  teiginys: '1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-85930"></a>
 - t-003
   global_id: t-85930
-  teiginys: 'Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.'
+  teiginys: '1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1811 m. Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus ir vėliau juos įsigijo kaip nuosavybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būsimo
@@ -69,6 +70,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-001
 
 - c-002
+  santrauka: '1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
@@ -83,6 +85,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     - t-003
 
 - c-003
+  santrauka: '1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo

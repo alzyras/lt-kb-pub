@@ -28,16 +28,9 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 <a id="claim-t-75626"></a>
 - t-001
   global_id: t-75626
-  teiginys: 'Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-75627"></a>
-- t-002
-  global_id: t-75627
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, siejamą su nuostata „Čia nebus Lenkijos“.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -63,6 +56,7 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     - t-002
 
 - c-002
+  santrauka: 'Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, siejamą su nuostata „Čia nebus Lenkijos“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.

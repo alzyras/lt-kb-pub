@@ -33,14 +33,14 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 <a id="claim-t-183466"></a>
 - t-002
   global_id: t-183466
-  teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
+  teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
+  santrauka: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:

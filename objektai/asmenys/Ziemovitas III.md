@@ -19,20 +19,21 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 <a id="claim-t-30474"></a>
 - t-001
   global_id: t-30474
-  teiginys: 'Jogaila geruoju susitarė su Mozūrijos Ziemovitu, kai mažlenkių ponai jėga išvarė Vilhelmą.'
+  teiginys: 'Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-30475"></a>
 - t-002
   global_id: t-30475
-  teiginys: 'O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios, ir jis — priešingai Krokuvos ponų nusistatymui — planavęs Jadvygą pagrobti prievarta.'
+  teiginys: '1383 m. pavasarį Ziemovitas III planavo prievarta pagrobti Jadvygą, nors tam priešinosi Krokuvos ponai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Normaliai, Karūnai turėjo būti pajungiama didžioji ku­
@@ -48,6 +49,7 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
     - t-001
 
 - c-002
+  santrauka: '1383 m. pavasarį Ziemovitas III planavo prievarta pagrobti Jadvygą, nors tam priešinosi Krokuvos ponai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo būdu jis siekęs Ziemovitui sutrukdyti tapti Len­

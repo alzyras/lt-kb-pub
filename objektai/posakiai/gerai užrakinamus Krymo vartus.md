@@ -19,7 +19,7 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 <a id="claim-t-78923"></a>
 - t-001
   global_id: t-78923
-  teiginys: 'Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės buveinės - Krymo pusiasalio nuošalumas nuo stiprių galios centrų, tokių kaip Lenkija, Lietuva ar Maskvos valstybė.'
+  teiginys: 'Totoriams strateginį pranašumą teikė Krymo pusiasalio nuošalumas ir įtvirtinta Perekopo sąsmauka, vadinta „gerai užrakinamais Krymo vartais“.'
   pagrindžia:
     - c-001
 

@@ -38,7 +38,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
 <a id="claim-t-178764"></a>
 - t-002
   global_id: t-178764
-  teiginys: 'Bazilijaus ordino vienuolius.'
+  teiginys: 'Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - t-003
 
 - c-003
+  santrauka: 'Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik tuo

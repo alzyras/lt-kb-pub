@@ -35,14 +35,14 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 <a id="claim-t-91762"></a>
 - t-002
   global_id: t-91762
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
+  teiginys: 'Vizenburgo pilis beveik trejus metus buvo prūsų apsupta ir kasdien puolama trimis apgulos mašinomis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-91764"></a>
 - t-003
   global_id: t-91764
-  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  teiginys: 'Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.'
   pagrindžia:
     - c-002
 

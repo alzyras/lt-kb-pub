@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-59435"></a>
 - t-001
   global_id: t-59435
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
+  teiginys: '1241 m. totoriai nuniokojo Vengriją ir Lenkiją.'
   pagrindžia:
     - c-002
 

@@ -21,13 +21,14 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
 <a id="claim-t-61316"></a>
 - t-001
   global_id: t-61316
-  teiginys: 'Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.'
+  teiginys: 'Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
@@ -49,7 +50,7 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.'
+  santrauka: 'Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     PRŪSIJOS ŽEMĖS

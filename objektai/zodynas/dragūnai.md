@@ -34,13 +34,14 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 <a id="claim-t-38712"></a>
 - t-002
   global_id: t-38712
-  teiginys: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
+  teiginys: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygyje jodavo raiti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygyje jodavo raiti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
@@ -69,7 +70,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     - t-001
 
 - c-003
-  santrauka: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
+  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygyje jodavo raiti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Regimentą sudarė kompanijos (kuopos), kurios dalijosi į vienetus

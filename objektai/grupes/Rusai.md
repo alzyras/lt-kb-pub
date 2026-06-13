@@ -91,7 +91,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 <a id="claim-t-117255"></a>
 - t-009
   global_id: t-117255
-  teiginys: 'Mūšyje, pirmiausia jo pradžioje, kaip pažymi kronikininkas Vygandas, lietuviai priešą atakavo svaidomosiomis ietimis, o Lietuvos kariai rusai šaudydami iš lankų.'
+  teiginys: 'Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų.'
   pagrindžia:
     - c-002
 
@@ -746,7 +746,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Pionierių organizacijos]]
 - [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]
-- [[objektai/daiktai/Pirmasis Lietuvos kariuomenės šarvuotis - rusų gamybos FIAT]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
 - [[objektai/asmenys/Pisimantas]]
 - [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]
@@ -800,7 +799,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
 - [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/autoriai/V. Pašuta]]
 - [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Vaižgantas]]
@@ -846,7 +844,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/zodynas/etnografinė siena]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/graikų schizma]]
-- [[objektai/zodynas/homo sovieticus]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/kirilika]]
@@ -855,7 +852,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/zodynas/liaudies demokratija]]
 - [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/zodynas/margutis]]
-- [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas metropolija]]
 - [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/grupes/oji rezervo divizija]]
@@ -895,5 +891,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/asmenys/Germantas]]
 - [[objektai/ivykiai/Lietuvių ir rusų žygis į Mazoviją (1262 m.)]]
+- [[objektai/grupes/NKGB]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/posakiai/Vieno smūgio bereikią]]

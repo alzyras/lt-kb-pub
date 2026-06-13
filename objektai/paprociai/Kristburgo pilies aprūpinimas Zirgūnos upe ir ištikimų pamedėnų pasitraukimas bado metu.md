@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62688"></a>
 - t-001
   global_id: t-62688
-  teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
+  teiginys: 'Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
   pagrindžia:
     - c-001
     - c-003
@@ -49,13 +49,14 @@ Nenurodyta
 <a id="claim-t-62689"></a>
 - t-002
   global_id: t-62689
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
+  teiginys: 'Apsuptiems Kristburgo broliams būtiniausius dalykus iš Elbingo Zirgūnos upe gabenti pavykdavo retai ir su dideliu vargu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
@@ -95,6 +96,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai sužinoję, prūsai
@@ -113,5 +115,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
 - [[objektai/grupes/Pamedėnai]]
+- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]

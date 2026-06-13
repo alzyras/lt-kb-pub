@@ -43,7 +43,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 <a id="claim-t-82430"></a>
 - t-003
   global_id: t-82430
-  teiginys: 'Jonas Olesnickis 1390 m. pasirodė kaip kariuomenės vadas.'
+  teiginys: 'Jonas Olesnickis 1390 m. užėmė Maskoževskio vietą ir pirmiausia pasirodė kaip kariuomenės vadas.'
   pagrindžia:
     - c-001
 
@@ -64,23 +64,16 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 <a id="claim-t-82433"></a>
 - t-006
   global_id: t-82433
-  teiginys: 'Jonas Olesnickis, gelbėdamas pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
+  teiginys: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-82434"></a>
 - t-007
   global_id: t-82434
-  teiginys: 'Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris karaliaus apie tą susitarimą jau buvo perspėtas49.'
+  teiginys: 'Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.'
   pagrindžia:
     - c-004
-
-<a id="claim-t-82435"></a>
-- t-008
-  global_id: t-82435
-  teiginys: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
-  pagrindžia:
-    - c-006
 
 <a id="claim-t-82436"></a>
 - t-009
@@ -113,6 +106,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Olesnickis 1390 m. užėmė Maskoževskio vietą ir pirmiausia pasirodė kaip kariuomenės vadas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nors Skirgaila ir turėjo krašte vyriausią valdžią, bet karinę tu­
@@ -304,3 +298,4 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/asmenys/Jonas]]

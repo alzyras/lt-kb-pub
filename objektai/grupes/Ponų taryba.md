@@ -80,7 +80,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 <a id="claim-t-72615"></a>
 - t-009
   global_id: t-72615
-  teiginys: 'Lenkų ponų taryba Radome davė garantiją, kaip lietuv.'
+  teiginys: 'Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.'
   pagrindžia:
     - c-002
 
@@ -110,6 +110,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - t-003
 
 - c-002
+  santrauka: 'Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų ponų
@@ -236,5 +237,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/perdėtinis]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/urėdas]]

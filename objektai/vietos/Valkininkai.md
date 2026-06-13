@@ -36,7 +36,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 <a id="claim-t-181535"></a>
 - t-002
   global_id: t-181535
-  teiginys: 'Mūšio padariniai Nugalėtojai su belaisviais ir visais trofėjais - 8 patrankom ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.'
+  teiginys: 'Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
     - t-001
 
 - c-002
+  santrauka: 'Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šie pabūklai

@@ -40,7 +40,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 <a id="claim-t-121909"></a>
 - t-002
   global_id: t-121909
-  teiginys: 'Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.'
+  teiginys: 'Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.'
   pagrindžia:
     - c-004
 
@@ -57,13 +57,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginys: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-121912"></a>
-- t-005
-  global_id: t-121912
-  teiginys: 'Lvovas buvo pastatydintas 1280 m. Leono, Danilos iš Haličo sūnaus.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-121913"></a>
 - t-006

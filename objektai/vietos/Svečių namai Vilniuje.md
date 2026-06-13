@@ -29,7 +29,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 <a id="claim-t-85954"></a>
 - t-002
   global_id: t-85954
-  teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
+  teiginys: 'Balińskio vertinimu, Aleksandras, leisdamas statyti Svečių namus, siekė miesto ir muito pelno bei išorinio saugumo.'
   pagrindžia:
     - c-004
 
@@ -43,7 +43,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 <a id="claim-t-85956"></a>
 - t-004
   global_id: t-85956
-  teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
+  teiginys: 'Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą.'
   pagrindžia:
     - c-002
 
@@ -83,6 +83,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - t-003
 
 - c-002
+  santrauka: 'Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Aleksandro ir Elenos santuoka išplė­
@@ -121,6 +122,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - t-001
 
 - c-004
+  santrauka: 'Balińskio vertinimu, Aleksandras, leisdamas statyti Svečių namus, siekė miesto ir muito pelno bei išorinio saugumo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     At­

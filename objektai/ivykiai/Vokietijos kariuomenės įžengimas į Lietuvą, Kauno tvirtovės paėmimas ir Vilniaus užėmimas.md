@@ -48,24 +48,17 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-75304"></a>
-- t-002
-  global_id: t-75304
-  teiginys: 'Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios Lietuvos koziriu bandydami jį internacionalizuoti.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-75305"></a>
-- t-003
+- t-002
   global_id: t-75305
   teiginys: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183286"></a>
-- t-004
+- t-003
   global_id: t-183286
-  teiginys: 'Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
+  teiginys: 'Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
   pagrindžia:
     - c-003
 
@@ -90,7 +83,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 - c-002
   santrauka: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
@@ -110,10 +102,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
-  santrauka: 'Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
+  santrauka: 'Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Toje teritorijoje gyveno lenkai,
@@ -125,7 +117,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -28,20 +28,21 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 <a id="claim-t-58428"></a>
 - t-002
   global_id: t-58428
-  teiginys: 'Dusburgietis teigia, kad arsos upelis ir čia nežinomas, tik spėjamas, kaip ir prie mūsų minėtų Tamoviškių. Pastarųjų pirminė forma Cammow bei išlikę vietovardžiai leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių Tamoviškių pilimi į rytus nuo.'
+  teiginys: 'Arsos upelis šioje vietoje nežinomas ir tik spėjamas, kaip ir prie anksčiau minėtų Tamoviškių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58429"></a>
 - t-003
   global_id: t-58429
-  teiginys: 'Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims.'
+  teiginys: 'Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Arsos upelis šioje vietoje nežinomas ir tik spėjamas, kaip ir prie anksčiau minėtų Tamoviškių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Arsos upelis ir čia nežinomas, tik spėjamas, kaip ir
@@ -68,6 +69,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     - t-001
 
 - c-003
+  santrauka: 'Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą

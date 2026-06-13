@@ -20,13 +20,14 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 <a id="claim-t-26342"></a>
 - t-001
   global_id: t-26342
-  teiginys: 'Lietuvos policijai pasiekus pergalių prieš organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.'
+  teiginys: 'Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalstamumą, nusikaltėlių grupės emigravo paskui tautiečius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos policijai pasiekus perga-

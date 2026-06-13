@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-80681"></a>
 - t-001
   global_id: t-80681
-  teiginys: 'Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didelėms priešų pajėgoms spaudžiant ATR pajėgos turėjo trauktis visu frontu, liepos 4 d.'
+  teiginys: '1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmasis didelis mūšis įvyko bir-

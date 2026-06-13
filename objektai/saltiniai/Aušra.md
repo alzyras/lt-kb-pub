@@ -31,7 +31,7 @@ amziai:
 <a id="claim-t-179569"></a>
 - t-001
   global_id: t-179569
-  teiginys: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
+  teiginys: 'Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,13 @@ amziai:
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183357"></a>
+- t-003
+  global_id: t-183357
+  teiginys: 'Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +70,7 @@ amziai:
     - t-002
 
 - c-002
-  santrauka: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
+  santrauka: 'Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors po trejų metų „Aušra“ dėl

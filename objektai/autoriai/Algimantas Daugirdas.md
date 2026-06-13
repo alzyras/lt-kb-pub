@@ -20,13 +20,14 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
 <a id="claim-t-39848"></a>
 - t-001
   global_id: t-39848
-  teiginys: 'Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno politechnikos institutą).'
+  teiginys: 'Algimantas Daugirdas gimė 1949 m., o 1972 m. baigė KTU, tuometinį Kauno politechnikos institutą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algimantas Daugirdas gimė 1949 m., o 1972 m. baigė KTU, tuometinį Kauno politechnikos institutą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU

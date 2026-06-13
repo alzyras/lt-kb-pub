@@ -52,14 +52,14 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 <a id="claim-t-183550"></a>
 - t-004
   global_id: t-183550
-  teiginys: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
+  teiginys: 'Birželio 19-ąją buvo sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183551"></a>
 - t-005
   global_id: t-183551
-  teiginys: 'Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius.'
+  teiginys: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
   pagrindžia:
     - c-004
 
@@ -117,7 +117,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     - t-003
 
 - c-004
-  santrauka: 'Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius.'
+  santrauka: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –

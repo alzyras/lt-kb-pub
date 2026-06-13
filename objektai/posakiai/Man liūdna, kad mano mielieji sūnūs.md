@@ -29,13 +29,14 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
 <a id="claim-t-59127"></a>
 - t-001
   global_id: t-59127
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
+  teiginys: 'Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -64,3 +65,4 @@ Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/autoriai/Petras Dusburgietis]]

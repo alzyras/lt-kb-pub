@@ -28,13 +28,14 @@ periodo_grupes:
 <a id="claim-t-35028"></a>
 - t-001
   global_id: t-35028
-  teiginys: 'Vyriausias brolis Andriejus rengė koaliciją prieš Jogailą.'
+  teiginys: 'Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prieš jį

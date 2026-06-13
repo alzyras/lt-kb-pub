@@ -48,3 +48,4 @@ Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldži
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]

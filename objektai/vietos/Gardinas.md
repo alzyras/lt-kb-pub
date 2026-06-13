@@ -60,7 +60,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179830"></a>
 - t-004
   global_id: t-179830
-  teiginys: 'Tad Vytautas tegalėjo gauti Gardiną su Palenkė.'
+  teiginys: 'Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.'
   pagrindžia:
     - c-044
 
@@ -74,21 +74,21 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179833"></a>
 - t-006
   global_id: t-179833
-  teiginys: '1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pradėjusiai veikti generalgubernatoriaus institucijai.'
+  teiginys: '1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
   pagrindžia:
     - c-045
 
 <a id="claim-t-179834"></a>
 - t-007
   global_id: t-179834
-  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  teiginys: '1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.'
   pagrindžia:
     - c-017
 
 <a id="claim-t-179835"></a>
 - t-008
   global_id: t-179835
-  teiginys: 'Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyventa išties mažai, priskirti Lietuvai.'
+  teiginys: 'A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.'
   pagrindžia:
     - c-014
 
@@ -137,7 +137,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179843"></a>
 - t-015
   global_id: t-179843
-  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  teiginys: 'Vytauto laikais Gardine, Naugarduke, Melnike ir Lucke imta statyti pilis toli nuo etninės Lietuvos.'
   pagrindžia:
     - c-008
 
@@ -193,7 +193,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179851"></a>
 - t-023
   global_id: t-179851
-  teiginys: 'Dusburgietis teigia, kad apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais Tų pačių metų žiemą brolis Eberhardas iš Firneburgo, Karaliaučiaus komtūras, su dviem tūkstančiais raitelių patraukė į Lietuvą.'
+  teiginys: '1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.'
   pagrindžia:
     - c-037
 
@@ -214,7 +214,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179854"></a>
 - t-026
   global_id: t-179854
-  teiginys: 'Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gardino (1380.V.31).'
+  teiginys: '1380 m. gegužės 31 d. slapta taikos sutartis su kryžiuočiais buvo surašyta Dovydiškėse, turbūt arti Gardino.'
   pagrindžia:
     - c-038
 
@@ -270,7 +270,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179863"></a>
 - t-034
   global_id: t-179863
-  teiginys: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d.'
+  teiginys: 'Gardine mėginta gaminti šautuvus, tačiau vadovybė savais gamintojais nepasitikėjo.'
   pagrindžia:
     - c-034
 
@@ -284,28 +284,28 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179866"></a>
 - t-036
   global_id: t-179866
-  teiginys: 'Kovo mėnesį Skirgailos padedamas valdovas šturmu užėmė Vytauto valdos sostinę Gardiną.'
+  teiginys: 'Kovo mėnesį karalius, Skirgailos padedamas, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-179867"></a>
 - t-037
   global_id: t-179867
-  teiginys: 'Dusburgietis teigia, kad apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei netikėlių žūtį 1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo.'
+  teiginys: '1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno.'
   pagrindžia:
     - c-051
 
 <a id="claim-t-179868"></a>
 - t-038
   global_id: t-179868
-  teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  teiginys: 'Lietuvos teritorinės aspiracijos apėmė Vilniaus, Kauno, Suvalkų ir Gardino gubernijų lietuvių žemes bei dalį Kuršo.'
   pagrindžia:
     - c-033
 
 <a id="claim-t-179869"></a>
 - t-039
   global_id: t-179869
-  teiginys: 'Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
+  teiginys: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą.'
   pagrindžia:
     - c-016
 
@@ -319,28 +319,28 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179872"></a>
 - t-041
   global_id: t-179872
-  teiginys: 'A. Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
+  teiginys: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
   pagrindžia:
     - c-052
 
 <a id="claim-t-179873"></a>
 - t-042
   global_id: t-179873
-  teiginys: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių nusiaubimą Tuo metu 60 brolių ir būrys vyrų iš Prūsijos patraukė link Gardino pilies, tačiau, patyrę, jog tie perspėti, pasiuntė 400 vyrų, kurie įsiveržė į šios pilies apylinkes, apiplėšė jas ir sugrįžo ten, kur stovėjo brolių.'
+  teiginys: 'Šešiasdešimt brolių su vyrais iš Prūsijos patraukė link Gardino pilies ir pasiuntė 400 vyrų apiplėšti jos apylinkių.'
   pagrindžia:
     - c-027
 
 <a id="claim-t-179874"></a>
 - t-043
   global_id: t-179874
-  teiginys: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
+  teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   pagrindžia:
     - c-048
 
 <a id="claim-t-179875"></a>
 - t-044
   global_id: t-179875
-  teiginys: 'Jis paveldėjo Trakus ir Gardiną su Palenke (Liet.'
+  teiginys: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.'
   pagrindžia:
     - c-040
 
@@ -354,7 +354,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179877"></a>
 - t-046
   global_id: t-179877
-  teiginys: 'Dusburgietis teigia, kad šis, bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada, kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs.'
+  teiginys: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
   pagrindžia:
     - c-031
 
@@ -382,7 +382,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179881"></a>
 - t-050
   global_id: t-179881
-  teiginys: 'Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garteno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano atėjo Brandenburgo komtūras Konradas Lichtenhagenas.'
+  teiginys: 'Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.'
   pagrindžia:
     - c-049
 
@@ -410,7 +410,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179886"></a>
 - t-054
   global_id: t-179886
-  teiginys: 'Jaučių daugiau buvo laikoma Vilniaus ir Gardino apylinkėse^3 ).'
+  teiginys: 'Jaučių daugiau buvo laikoma Vilniaus ir Gardino apylinkėse.'
   pagrindžia:
     - c-032
 
@@ -445,7 +445,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 <a id="claim-t-179891"></a>
 - t-059
   global_id: t-179891
-  teiginys: 'Vasarą su gausiais svetimšalių būriais ir savais kariais maršalas žygiavo Gardino link, bandė pereiti Nemuną brasta, bet jiems buvo sukliudyta.'
+  teiginys: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   pagrindžia:
     - c-022
 
@@ -525,13 +525,6 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: 'Lietuviai iš totorių nugalėtų Voluinės kunigaikščių atsiėmė Gardino, Naugarduko, Slanimo ir Volkovisko sritis.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-179905"></a>
-- t-071
-  global_id: t-179905
-  teiginys: 'Gardine mėginta gaminti šautuvus, tačiau vadovybė savais gamintojais nepasitikėjo.'
-  pagrindžia:
-    - c-034
 
 <a id="claim-t-179906"></a>
 - t-072
@@ -811,6 +804,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-062
 
 - c-014
+  santrauka: 'A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai pre-
@@ -844,6 +838,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-057
 
 - c-016
+  santrauka: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
@@ -959,6 +954,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-019
 
 - c-022
+  santrauka: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vasarą su gausiais svetimšalių būriais
@@ -1043,6 +1039,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-031
 
 - c-027
+  santrauka: 'Šešiasdešimt brolių su vyrais iš Prūsijos patraukė link Gardino pilies ir pasiuntė 400 vyrų apiplėšti jos apylinkių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie Gardino pilies apylinkių nusiaubimą
@@ -1106,6 +1103,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-067
 
 - c-031
+  santrauka: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
@@ -1287,6 +1285,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-069
 
 - c-037
+  santrauka: '1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     289 (282). Apie Pagraudės ir Gardino valsčių nusiaubimą 1305 metais
@@ -1341,6 +1340,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-022
 
 - c-040
+  santrauka: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
@@ -1399,6 +1399,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-012
 
 - c-044
+  santrauka: 'Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis
@@ -1412,6 +1413,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-004
 
 - c-045
+  santrauka: '1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
@@ -1468,6 +1470,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-040
 
 - c-048
+  santrauka: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
@@ -1485,6 +1488,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-043
 
 - c-049
+  santrauka: 'Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmą kartą jį Dusburgas mini prie 1304 metų
@@ -1534,6 +1538,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-021
 
 - c-051
+  santrauka: '1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     260 (253). Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
@@ -1550,6 +1555,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-037
 
 - c-052
+  santrauka: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
@@ -1591,7 +1597,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-049
 
 - c-054
-  santrauka: 'Vasarą su gausiais svetimšalių būriais ir savais kariais maršalas žygiavo Gardino link, bandė pereiti Nemuną brasta, bet jiems buvo sukliudyta.'
+  santrauka: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą

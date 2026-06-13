@@ -28,7 +28,7 @@ tags:
 <a id="claim-t-184381"></a>
 - t-002
   global_id: t-184381
-  teiginys: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
+  teiginys: 'Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
+  santrauka: 'Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo galvas tolimose stepėse
@@ -350,11 +350,13 @@ tags:
 - [[objektai/ivykiai/Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/asmenys/Jonas Hanulaitis]]
 - [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
 - [[objektai/daiktai/Patranka Hidra]]
 - [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]
+- [[objektai/grupes/Vokiečių ir rusų pirkliai]]
 - [[objektai/zodynas/mansionieriai]]
 - [[objektai/zodynas/sambrūzdis]]
 - [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]

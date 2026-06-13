@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-54228"></a>
 - t-001
   global_id: t-54228
-  teiginys: 'Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.'
+  teiginys: 'Didžiojo Vilniaus Seimo rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą.'
   pagrindžia:
     - c-001
 
@@ -58,9 +58,17 @@ Nenurodyta
   pagrindžia:
     - c-001
 
+<a id="claim-t-183308"></a>
+- t-003
+  global_id: t-183308
+  teiginys: 'Didžiojo Vilniaus Seimo rezoliucijų raginimai paskatino Lietuvos kaimus ir miestelius perimti valsčių savivaldybes.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didžiojo Vilniaus Seimo rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Joje reikalauta
@@ -78,7 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.'
+  santrauka: 'Didžiojo Vilniaus Seimo rezoliucijų raginimai paskatino Lietuvos kaimus ir miestelius perimti valsčių savivaldybes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į

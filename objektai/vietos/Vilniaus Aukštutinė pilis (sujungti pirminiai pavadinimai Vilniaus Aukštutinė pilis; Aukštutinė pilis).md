@@ -37,7 +37,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 <a id="claim-t-85845"></a>
 - t-002
   global_id: t-85845
-  teiginys: 'Pagal sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
+  teiginys: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 <a id="claim-t-85847"></a>
 - t-004
   global_id: t-85847
-  teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
+  teiginys: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai, o apačioje driekėsi Žemutinė pilis, vadinta Kreivąja.'
   pagrindžia:
     - c-006
 
@@ -72,14 +72,14 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 <a id="claim-t-85850"></a>
 - t-007
   global_id: t-85850
-  teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pagal sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
+  santrauka: 'Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Tad tenai Gedimi­
@@ -185,7 +185,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     - t-001
 
 - c-005
-  santrauka: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  santrauka: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
@@ -204,6 +204,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     - t-007
 
 - c-006
+  santrauka: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai, o apačioje driekėsi Žemutinė pilis, vadinta Kreivąja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš

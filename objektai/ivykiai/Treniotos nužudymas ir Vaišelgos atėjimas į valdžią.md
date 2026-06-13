@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-77909"></a>
 - t-001
   global_id: t-77909
-  teiginys: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
+  teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus

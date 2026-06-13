@@ -46,7 +46,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 <a id="claim-t-49286"></a>
 - t-001
   global_id: t-49286
-  teiginys: 'Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Švedijos kariuomenės smūgį ir sužlugdyti Karolio Ix planą apeiti Lietuvos kariuomenę.'
+  teiginys: 'J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno.'
   pagrindžia:
     - c-002
 
@@ -169,5 +169,5 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/zodynas/sunkioji kavalerija]]
-- [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/asmenys/H. Brantas]]
+- [[objektai/asmenys/J. P. Sapiega]]

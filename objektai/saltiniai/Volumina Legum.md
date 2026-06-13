@@ -35,13 +35,14 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 <a id="claim-t-67581"></a>
 - t-002
   global_id: t-67581
-  teiginys: '= Volumina legum, 6 t., Petersburg 1859.'
+  teiginys: '„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vol. 1. = Volumina legum, 6 t., Petersburg 1859.

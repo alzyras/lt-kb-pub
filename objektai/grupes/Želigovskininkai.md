@@ -20,13 +20,14 @@ tags:
 <a id="claim-t-20114"></a>
 - t-001
   global_id: t-20114
-  teiginys: 'Po L. Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
+  teiginys: 'Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Liucjano Želigovskio akcijos Lietuvai reikėjo stabdyti tolesnį želigovskininkų judėjimą į Lietuvos teritoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors 1920 m.
@@ -56,3 +57,4 @@ tags:
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/zodynas/akcijos]]
+- [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]

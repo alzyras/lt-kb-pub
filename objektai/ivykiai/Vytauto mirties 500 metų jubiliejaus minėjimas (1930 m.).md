@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-66989"></a>
 - t-001
   global_id: t-66989
-  teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
+  teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   pagrindžia:
     - c-002
 
@@ -80,6 +80,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto tolerancija patiko tautinėms mažumoms –
@@ -119,8 +120,8 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/daiktai/Vytauto paveikslas]]
 - [[objektai/zodynas/jubiliejus]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 - [[objektai/daiktai/Vytauto paminklai]]
+- [[objektai/daiktai/Vytauto paveikslas]]

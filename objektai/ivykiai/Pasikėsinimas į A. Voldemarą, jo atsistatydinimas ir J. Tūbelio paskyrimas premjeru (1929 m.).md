@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-20440"></a>
 - t-001
   global_id: t-20440
-  teiginys: 'Po 1929 m. gegužę įvykdyto studentų eserų pasikėsinimo į A. Voldemaro gyvybę rugsėjį turėjo atsistatydinti ir premjeras.'
+  teiginys: 'Po 1929 m. gegužės pasikėsinimo į A. Voldemarą rugsėjį atsistatydino ministrai, todėl turėjo atsistatydinti ir premjeras A. Voldemaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po 1929 m. gegužės pasikėsinimo į A. Voldemarą rugsėjį atsistatydino ministrai, todėl turėjo atsistatydinti ir premjeras A. Voldemaras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-

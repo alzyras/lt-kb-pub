@@ -22,14 +22,14 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 <a id="claim-t-62983"></a>
 - t-001
   global_id: t-62983
-  teiginys: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
+  teiginys: 'Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62984"></a>
 - t-002
   global_id: t-62984
-  teiginys: 'Dusburgietis teigia, kad miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė, manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui.'
+  teiginys: 'Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
   pagrindžia:
     - c-002
     - c-003
@@ -37,6 +37,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jiems narsiai pasipriešino miestiečiai
@@ -50,6 +51,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-001
 
 - c-002
+  santrauka: 'Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
@@ -64,6 +66,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-002
 
 - c-003
+  santrauka: 'Brunsbergo miestiečiai ir pilėnai, išsigandę antpuolio, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
@@ -80,4 +83,5 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]

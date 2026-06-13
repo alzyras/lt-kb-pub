@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62548"></a>
 - t-001
   global_id: t-62548
-  teiginys: 'Dusburgietis teigia, kad apie šventųjų Edmundo, Stanislovo ir Petro kanonizavimą Taip pat kanonizavo šventą Edmundą, Kenterberio arkivyskupą, šventą Stanislovą, Krokuvos, neteisingai valdovo nužudytą, ir šventą Petrą, pamokslininkų ordino kankinį (Ptol.'
+  teiginys: 'Buvo kanonizuoti šventieji Edmundas, Kenterberio arkivyskupas, Stanislovas iš Krokuvos ir pamokslininkų ordino kankinys Petras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Buvo kanonizuoti šventieji Edmundas, Kenterberio arkivyskupas, Stanislovas iš Krokuvos ir pamokslininkų ordino kankinys Petras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     31. Apie šventųjų Edmundo, Stanislovo ir Petro kanonizavimą
@@ -56,3 +57,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Stanislovas]]

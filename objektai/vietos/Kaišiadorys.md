@@ -28,13 +28,14 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 <a id="claim-t-68034"></a>
 - t-001
   global_id: t-68034
-  teiginys: 'Vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
+  teiginys: 'Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-

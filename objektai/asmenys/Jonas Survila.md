@@ -30,13 +30,14 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 <a id="claim-t-39563"></a>
 - t-001
   global_id: t-39563
-  teiginys: 'Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai Tėvynei du kryžiuočiai lietuviai, Jonas ir Tomas Survilos.'
+  teiginys: 'Kryžiuotis lietuvis Jonas Survila žuvo mūšyje tarnaudamas senajai Tėvynei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kryžiuotis lietuvis Jonas Survila žuvo mūšyje tarnaudamas senajai Tėvynei.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-

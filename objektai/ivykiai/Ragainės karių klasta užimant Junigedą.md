@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Užpuolikas išdėstė būrius pasalose abipus kelio ir įsakė Ragainės būriui traukti tiesiai prie pilies vartų.
+Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185826"></a>
 - t-001
   global_id: t-185826
-  teiginys: 'Užpuolikas išdėstė būrius pasalose abipus kelio ir įsakė Ragainės būriui traukti tiesiai prie pilies vartų.'
+  teiginys: 'Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Užpuolikas išdėstė būrius pasalose abipus kelio ir įsakė Ragainės būriui traukti tiesiai prie pilies vartų.'
+  santrauka: 'Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išdėstęs vi-

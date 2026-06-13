@@ -31,7 +31,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 <a id="claim-t-60862"></a>
 - t-001
   global_id: t-60862
-  teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
+  teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo.'
   pagrindžia:
     - c-005
 
@@ -52,14 +52,14 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 <a id="claim-t-60865"></a>
 - t-004
   global_id: t-60865
-  teiginys: 'Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš.'
+  teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-60866"></a>
 - t-005
   global_id: t-60866
-  teiginys: 'Dusburgietis teigia, kad nemuno kranto kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).'
+  teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.'
   pagrindžia:
     - c-003
 
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 <a id="claim-t-60868"></a>
 - t-007
   global_id: t-60868
-  teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
+  teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.'
   pagrindžia:
     - c-001
 
@@ -87,6 +87,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Patikimesni atrodo bandymai ją
@@ -115,6 +116,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-008
 
 - c-003
+  santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
@@ -140,6 +142,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-003
 
 - c-005
+  santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
@@ -153,6 +156,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - t-001
 
 - c-006
+  santrauka: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį

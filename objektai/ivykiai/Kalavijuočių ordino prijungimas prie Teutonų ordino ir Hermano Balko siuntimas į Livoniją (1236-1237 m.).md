@@ -45,21 +45,21 @@ Nenurodyta
 <a id="claim-t-62814"></a>
 - t-001
   global_id: t-62814
-  teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
+  teiginys: 'Gerlachas Rudasis pranešė popiežiui, kad magistras Folkvinas ir daug brolių bei maldininkų žuvo kovoje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62815"></a>
 - t-002
   global_id: t-62815
-  teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
+  teiginys: '1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62816"></a>
 - t-003
   global_id: t-62816
-  teiginys: 'Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus.'
+  teiginys: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.'
   pagrindžia:
     - c-003
 
@@ -68,8 +68,8 @@ Nenurodyta
   global_id: t-62817
   teiginys: 'Dusburgietis teigia, kad 263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +107,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
@@ -133,4 +134,7 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/asmenys/Folkvinas]]
+- [[objektai/asmenys/Gerlachas Rudasis]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]

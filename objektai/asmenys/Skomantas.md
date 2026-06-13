@@ -32,28 +32,28 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 <a id="claim-t-59824"></a>
 - t-001
   global_id: t-59824
-  teiginys: 'Dusburgietis teigia, kad apie Gardino pilies sunaikinimą 1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius.'
+  teiginys: '1284 m. Ordino magistras su vadovu Skomantu vasarą patraukė prieš Gardino pilį.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-59825"></a>
 - t-002
   global_id: t-59825
-  teiginys: 'Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu.'
+  teiginys: 'Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-59826"></a>
 - t-003
   global_id: t-59826
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
+  teiginys: 'Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59827"></a>
 - t-004
   global_id: t-59827
-  teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
+  teiginys: 'Skomantas pamėgo į nelaisvę patekusį Liudviką iš Libencelės ir nusivedė jį į Sūduvos diduomenės puotą.'
   pagrindžia:
     - c-008
 
@@ -67,21 +67,21 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 <a id="claim-t-59829"></a>
 - t-006
   global_id: t-59829
-  teiginys: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
+  teiginys: 'Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-59830"></a>
 - t-007
   global_id: t-59830
-  teiginys: 'Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
+  teiginys: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59831"></a>
 - t-008
   global_id: t-59831
-  teiginys: 'Dusburgietis teigia, kad be kita ko, sudegino Skomanto, galingo vyro bei šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu grobiu sugrįžo namo.'
+  teiginys: 'Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą.'
   pagrindžia:
     - c-001
 
@@ -116,6 +116,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
@@ -151,6 +152,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-009
 
 - c-003
+  santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto Lietuva ir toliau liko pagrindinė,
@@ -211,6 +213,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-005
 
 - c-006
+  santrauka: 'Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
@@ -229,6 +232,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-006
 
 - c-007
+  santrauka: 'Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     224 (219). Apie Skomanto mirtį
@@ -248,6 +252,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-002
 
 - c-008
+  santrauka: 'Skomantas pamėgo į nelaisvę patekusį Liudviką iš Libencelės ir nusivedė jį į Sūduvos diduomenės puotą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
@@ -263,6 +268,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-004
 
 - c-009
+  santrauka: '1284 m. Ordino magistras su vadovu Skomantu vasarą patraukė prieš Gardino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     223 (218). Apie Gardino pilies sunaikinimą
@@ -374,8 +380,11 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 - [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
 - [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]
 - [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]
-- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]
 - [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
+- [[objektai/ivykiai/Skomanto mirtis]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/posakiai/jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu]]
 - [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną]]
 - [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]

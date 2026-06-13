@@ -91,3 +91,4 @@ Nenurodyta
 - [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]
 - [[objektai/zodynas/Zabójnica]]
 - [[objektai/zodynas/šinkorystė propinacija]]
+- [[objektai/zodynas/pūdas talentas]]

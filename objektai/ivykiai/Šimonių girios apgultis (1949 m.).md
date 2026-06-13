@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-67011"></a>
 - t-003
   global_id: t-67011
-  teiginys: '1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.'
+  teiginys: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. spalio 24 d. MGB agentui V. Kučiui
@@ -137,7 +138,6 @@ Nenurodyta
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
-- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
 - [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]

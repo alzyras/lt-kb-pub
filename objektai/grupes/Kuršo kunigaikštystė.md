@@ -51,14 +51,14 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 <a id="claim-t-71647"></a>
 - t-004
   global_id: t-71647
-  teiginys: 'Tokie kardai kilo iš Vengrijos, kur jie formavosi turkų Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.'
+  teiginys: 'Po Liublino unijos Livonijos ir Kuršo kunigaikštystės buvo pripažintos bendromis Lenkijos ir LDK valdomis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-71648"></a>
 - t-005
   global_id: t-71648
-  teiginys: 'Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į 4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.'
+  teiginys: '1561 m. Livonijos konfederacijai nustojus egzistuoti, Kuršo ir Livonijos kunigaikštystės atiteko Lietuvai.'
   pagrindžia:
     - c-001
 

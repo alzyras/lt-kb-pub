@@ -26,13 +26,14 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
 <a id="claim-t-38953"></a>
 - t-001
   global_id: t-38953
-  teiginys: 'Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būriuose Plauginių kautynių stovykloje buvo 20 partizanų.'
+  teiginys: 'Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X PLAUGINIŲ KAUTYNĖS

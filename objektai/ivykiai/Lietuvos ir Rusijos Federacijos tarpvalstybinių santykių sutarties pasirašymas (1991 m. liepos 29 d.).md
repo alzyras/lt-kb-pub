@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-75146"></a>
 - t-001
   global_id: t-75146
-  teiginys: 'Sovietų Sąjungos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripažino Rusiją nepriklausoma valstybe.'
+  teiginys: 'Lietuva pripažino Rusiją nepriklausoma valstybe.'
   pagrindžia:
     - c-003
 
@@ -63,6 +63,13 @@ Nenurodyta
   teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183243"></a>
+- t-004
+  global_id: t-183243
+  teiginys: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -98,6 +105,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Lietuva pripažino Rusiją nepriklausoma valstybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietų Sąjun-
@@ -113,7 +121,7 @@ Nenurodyta
     - t-001
 
 - c-004
-  santrauka: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  santrauka: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Draugiški valstybių vadovų santykiai leido
@@ -137,3 +145,5 @@ Nenurodyta
 - [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Rusijos Federacija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Landsbergis]]

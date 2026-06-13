@@ -26,7 +26,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 <a id="claim-t-58523"></a>
 - t-001
   global_id: t-58523
-  teiginys: 'Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų, kurie plaukė laivais, ir, išdėstęs tinkamose.'
+  teiginys: 'Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     - t-002
 
 - c-002
+  santrauka: 'Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     177 (172). Apie Auktuolyčių pilies užkariavimą

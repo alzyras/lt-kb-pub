@@ -44,20 +44,21 @@ Nenurodyta
 <a id="claim-t-59449"></a>
 - t-001
   global_id: t-59449
-  teiginys: 'Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies, laivą pagriebė smarkus vėjas ir nubloškė prie kranto.'
+  teiginys: '1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59450"></a>
 - t-002
   global_id: t-59450
-  teiginys: 'Dusburgietis teigia, kad šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.'
+  teiginys: 'Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Junigedos pilėnai užpuolė prie kranto nublokštą Ordino laivą, bet broliai ir ginklanešiai apsigynė ir išsigelbėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išvydę, pilėnai, pasičiupę
@@ -70,6 +71,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1313 m. Ragainės komtūras Verneris pasistatydino sienomis sustiprintą karo laivą ir su kitais laivais išplaukė pulti Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     317 (310). Apie vieną brolių karo laivą
@@ -87,4 +89,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]

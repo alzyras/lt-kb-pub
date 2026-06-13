@@ -42,7 +42,7 @@ amziai:
 <a id="claim-t-23400"></a>
 - t-003
   global_id: t-23400
-  teiginys: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
+  teiginys: '„Kurier Litewski“ ir „Wiadomości literackie“ 1760 m. pradėjo eiti kaip pirmieji Lietuvos laikraščiai.'
   pagrindžia:
     - c-001
 

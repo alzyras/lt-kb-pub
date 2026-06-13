@@ -32,14 +32,14 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 <a id="claim-t-60019"></a>
 - t-001
   global_id: t-60019
-  teiginys: 'Dusburgietis teigia, kad apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'
+  teiginys: '1297 m. Gotfridas Hohenlohė buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60020"></a>
 - t-002
   global_id: t-60020
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių.'
+  teiginys: '1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.'
   pagrindžia:
     - c-003
 
@@ -91,6 +91,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
     - t-004
 
 - c-003
+  santrauka: '1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1298 viešpaties
@@ -122,7 +123,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]
 - [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]

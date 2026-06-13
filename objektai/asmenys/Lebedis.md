@@ -19,20 +19,21 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 <a id="claim-t-87540"></a>
 - t-001
   global_id: t-87540
-  teiginys: 'Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr., 9 den.'
+  teiginys: 'Lebedis skolas mokėjo lietuviškomis monetomis, prie kurių buvo pridėta 69 florinai, 4 grašiai ir 9 denarai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-87541"></a>
 - t-002
   global_id: t-87541
-  teiginys: 'Die 1 10 bris [gruodžio 1 dieną] Lebedis liet.'
+  teiginys: 'Gruodžio 1 d. Lebedis Varšuvoje, būdamas mokesčių rinkėjas, prie lietuviškų monetų pridėjo 3 florinus ir 19 grašių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gruodžio 1 d. Lebedis Varšuvoje, būdamas mokesčių rinkėjas, prie lietuviškų monetų pridėjo 3 florinus ir 19 grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 16 8 bris [spalio 16 dieną] 100 zl. pridėjau 7 flor.
@@ -46,6 +47,7 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     - t-002
 
 - c-002
+  santrauka: 'Lebedis skolas mokėjo lietuviškomis monetomis, prie kurių buvo pridėta 69 florinai, 4 grašiai ir 9 denarai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, Lebedis mokėjo skolas lietuviškomis monetomis,
@@ -58,4 +60,4 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]
+- [[objektai/zodynas/florinai]]

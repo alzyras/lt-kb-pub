@@ -46,27 +46,28 @@ Nenurodyta
 <a id="claim-t-80668"></a>
 - t-001
   global_id: t-80668
-  teiginys: 'Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. atvykę į Medeikius rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
+  teiginys: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-80669"></a>
 - t-002
   global_id: t-80669
-  teiginys: 'Mūšio pasekmės Kautynės Biržų girioje buvo didžiausios per visą 1863-1864 m. sukilimą.'
+  teiginys: 'Kautynės Biržų girioje buvo didžiausios per visą 1863–1864 m. sukilimą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-80670"></a>
 - t-003
   global_id: t-80670
-  teiginys: 'Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+  teiginys: 'Gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos
@@ -90,6 +91,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešimtą valandą ryto gen. mjr.
@@ -107,6 +109,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Kautynės Biržų girioje buvo didžiausios per visą 1863–1864 m. sukilimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio pasekmės

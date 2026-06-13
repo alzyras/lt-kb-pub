@@ -66,3 +66,4 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 ### Susiję objektai
 - [[objektai/grupes/Istorikų kolektyvas]]
 - [[objektai/grupes/Lotynai]]
+- [[objektai/autoriai/Jurginis J]]

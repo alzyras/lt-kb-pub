@@ -85,7 +85,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 <a id="claim-t-84415"></a>
 - t-009
   global_id: t-84415
-  teiginys: 'Algirdas kartais gyvendavo Paneriuose, šiandien priklausančiuose Vilniaus kapitulai.'
+  teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
   pagrindžia:
     - c-004
 
@@ -102,13 +102,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-84418"></a>
-- t-012
-  global_id: t-84418
-  teiginys: 'Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos, pro Panerius ir Vokę Valkininkų kryptimi išžygiavo Sapiegų pajėgos.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -169,6 +162,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - t-001
 
 - c-004
+  santrauka: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikra bent jau tai, kad iki jo nei istorijoje, nei
@@ -213,6 +207,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - t-011
 
 - c-006
+  santrauka: 'Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     panceriniais raiteliais (ši kavalerijos rūšis egzistavo Lenkijoje) ir ilgainiui jų skirtumai

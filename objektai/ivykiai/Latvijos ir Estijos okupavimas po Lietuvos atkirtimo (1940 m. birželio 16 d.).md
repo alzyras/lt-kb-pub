@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-45352"></a>
 - t-001
   global_id: t-45352
-  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  teiginys: 'Sovietų divizijoms žygiuojant per Lietuvą ir atkirtus Latviją bei Estiją nuo Vokietijos, 1940 m. birželio 16 d. abi valstybės buvo žaibiškai okupuotos.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Sovietų divizijoms žygiuojant per Lietuvą ir atkirtus Latviją bei Estiją nuo Vokietijos, 1940 m. birželio 16 d. abi valstybės buvo žaibiškai okupuotos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių tautos

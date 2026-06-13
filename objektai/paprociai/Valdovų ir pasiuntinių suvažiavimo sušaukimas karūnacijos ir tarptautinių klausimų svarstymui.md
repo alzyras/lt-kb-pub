@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-87148"></a>
 - t-001
   global_id: t-87148
-  teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
+  teiginys: '1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-002
 
@@ -85,6 +85,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toje pat Pulavų bibliotekoje

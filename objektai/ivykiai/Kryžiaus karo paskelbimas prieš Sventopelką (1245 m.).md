@@ -44,14 +44,15 @@ Nenurodyta
 <a id="claim-t-62841"></a>
 - t-001
   global_id: t-62841
-  teiginys: 'Dusburgietis teigia, kad šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose.'
+  teiginys: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kokie keisti, kokie
@@ -67,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai padarę, broliai išleido pasiuntinius pas apaštališkojo

@@ -22,7 +22,7 @@ tags:
 <a id="claim-t-75524"></a>
 - t-001
   global_id: t-75524
-  teiginys: 'Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
+  teiginys: 'Vašingtono sutarties 5-ajame straipsnyje pabrėžiamas pagrindinis narystės NATO pranašumas.'
   pagrindžia:
     - c-002
 

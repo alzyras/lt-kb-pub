@@ -27,7 +27,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 <a id="claim-t-85874"></a>
 - t-001
   global_id: t-85874
-  teiginys: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o kiti jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
+  teiginys: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o kiti jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
+  santrauka: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-

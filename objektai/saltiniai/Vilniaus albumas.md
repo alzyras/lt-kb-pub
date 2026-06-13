@@ -26,7 +26,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 <a id="claim-t-75528"></a>
 - t-001
   global_id: t-75528
-  teiginys: 'Vilčinskio „Vilniaus albumo“.'
+  teiginys: 'Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.'
   pagrindžia:
     - c-004
 
@@ -47,7 +47,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 <a id="claim-t-75531"></a>
 - t-004
   global_id: t-75531
-  teiginys: 'Vilniaus universiteto Didysis kiemas ir Šv.'
+  teiginys: 'J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas.'
   pagrindžia:
     - c-001
 
@@ -68,6 +68,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jonų bažnyčia
@@ -112,6 +113,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     - t-005
 
 - c-004
+  santrauka: 'Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ne-

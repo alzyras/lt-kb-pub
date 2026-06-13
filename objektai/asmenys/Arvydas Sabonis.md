@@ -29,13 +29,14 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 <a id="claim-t-78045"></a>
 - t-001
   global_id: t-78045
-  teiginys: 'Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio motina Senda Berenson-Abbot (Senda Berenson-Abot, g.'
+  teiginys: 'Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O beveik
@@ -56,15 +57,3 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Emmanuel Levinas]]
-- [[objektai/asmenys/Frank Lubin]]
-- [[objektai/asmenys/Jack Sharkey]]
-- [[objektai/asmenys/Johnny Unitas]]
-- [[objektai/asmenys/Oskaras Milašius]]
-- [[objektai/asmenys/Romain Garry]]
-- [[objektai/asmenys/Senda Berenson-Abbot]]
-- [[objektai/asmenys/Vitas]]

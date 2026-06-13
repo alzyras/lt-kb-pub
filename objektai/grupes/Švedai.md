@@ -39,7 +39,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 <a id="claim-t-75059"></a>
 - t-002
   global_id: t-75059
-  teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
+  teiginys: 'XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą.'
   pagrindžia:
     - c-004
 
@@ -233,7 +233,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Unitų bažnyčia unitai]]
 - [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
 - [[objektai/asmenys/Vaina]]
-- [[objektai/posakiai/Vakarų krikščionybės tvirtovė Rytuose]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/grupes/Vazų dinastija]]
 - [[objektai/zodynas/Vidivarijai]]

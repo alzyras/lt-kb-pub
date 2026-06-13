@@ -20,13 +20,14 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 <a id="claim-t-60431"></a>
 - t-001
   global_id: t-60431
-  teiginys: 'Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė įvairiose vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
+  teiginys: 'Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie  tai sužinojęs,
@@ -54,5 +55,5 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]
+- [[objektai/grupes/Notangai]]
 - [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]
-- [[objektai/asmenys/Rudolfas, vadinamas Bodemeru]]

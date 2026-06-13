@@ -39,13 +39,6 @@ amziai:
   pagrindžia:
     - c-002
 
-<a id="claim-t-183777"></a>
-- t-003
-  global_id: t-183777
-  teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-184934"></a>
 - t-004
   global_id: t-184934

@@ -26,20 +26,14 @@ tags:
 <a id="claim-t-21029"></a>
 - t-002
   global_id: t-21029
-  teiginys: 'Bresto taikos derybose Vokietijai pravertė rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
+  teiginys: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183358"></a>
-- t-003
-  global_id: t-183358
-  teiginys: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kitoje dalyje
@@ -77,7 +71,7 @@ tags:
     - t-001
 
 - c-003
-  santrauka: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
+  santrauka: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nebeliko

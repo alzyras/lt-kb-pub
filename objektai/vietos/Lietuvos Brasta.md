@@ -58,7 +58,7 @@ amziai:
 <a id="claim-t-79645"></a>
 - t-005
   global_id: t-79645
-  teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
+  teiginys: '1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos.'
   pagrindžia:
     - c-005
 
@@ -141,6 +141,7 @@ amziai:
     - t-001
 
 - c-005
+  santrauka: '1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų

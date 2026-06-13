@@ -48,6 +48,13 @@ Nenurodyta
   pagrindžia:
     - c-001
 
+<a id="claim-t-183240"></a>
+- t-002
+  global_id: t-183240
+  teiginys: 'Atkūrus Lietuvos nepriklausomybę, 1991 m. rugsėjo 6 d. Lietuvos diplomatinė tarnyba baigė darbą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Diplomatai savo atstovaujamose valstybėse simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais, dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.'
+  santrauka: 'Atkūrus Lietuvos nepriklausomybę, 1991 m. rugsėjo 6 d. Lietuvos diplomatinė tarnyba baigė darbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Diplomatai savo atstovaujamose valstybėse

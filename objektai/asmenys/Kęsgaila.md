@@ -47,8 +47,6 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka]]
 - [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]
-- [[objektai/grupes/Valimantaičiai]]
-- [[objektai/ivykiai/Vedrošos kautynės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]

@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-62527"></a>
 - t-001
   global_id: t-62527
-  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
+  teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   pagrindžia:
     - c-001
 
@@ -68,5 +68,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]]
 - [[objektai/daiktai/Viešpaties erškėčių vainikas]]

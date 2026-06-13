@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-20520"></a>
 - t-002
   global_id: t-20520
-  teiginys: 'Komitetas siekė katalikams lygių teisių su ateistais, atkreipė dėmesį į tikinčiųjų diskriminavimo faktus, prašė padėti apginti tikinčiųjų teises.'
+  teiginys: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
@@ -118,7 +119,7 @@ Nenurodyta
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
 - [[objektai/zodynas/kulto laisvė]]
 - [[objektai/autoriai/Sigitas Tamkevičius]]
+- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

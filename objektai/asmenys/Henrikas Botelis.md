@@ -32,14 +32,14 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 <a id="claim-t-116281"></a>
 - t-001
   global_id: t-116281
-  teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
+  teiginys: 'Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-116283"></a>
 - t-002
   global_id: t-116283
-  teiginys: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
+  teiginys: 'Prūsams pareikalavus, broliai davė įkaitu maršalą Henriką Botelį, kad nelaisvėje esantys broliai liktų gyvi.'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsams pareikalavus, broliai davė įkaitu maršalą Henriką Botelį, kad nelaisvėje esantys broliai liktų gyvi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vengoževą, prie
@@ -68,6 +69,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
     - t-002
 
 - c-002
+  santrauka: 'Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką sėkmei

@@ -36,7 +36,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 <a id="claim-t-172064"></a>
 - t-002
   global_id: t-172064
-  teiginys: '2-ajam pulkui buvo nurodyta susitelkti Želvoje ir iš ten pulti Giedraičių kryptimi ir užėmus Giedraičius, pasistūmėti iki lapkričio 21 d. 9 val.'
+  teiginys: '1919 m. lapkričio 19 d. 2-ajam pulkui nurodyta susitelkti Želvoje, pulti Giedraičių kryptimi ir užėmus Giedraičius stumtis kuo toliau.'
   pagrindžia:
     - c-004
 
@@ -114,6 +114,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - t-001
 
 - c-004
+  santrauka: '1919 m. lapkričio 19 d. 2-ajam pulkui nurodyta susitelkti Želvoje, pulti Giedraičių kryptimi ir užėmus Giedraičius stumtis kuo toliau.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pajėgos ėmė rengtis kontr-

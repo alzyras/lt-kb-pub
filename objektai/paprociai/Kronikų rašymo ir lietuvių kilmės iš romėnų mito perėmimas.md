@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-75363"></a>
 - t-001
   global_id: t-75363
-  teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje plito kronikų rašymo tradicija ir mitas apie valdovų kilmę iš kito krašto.'
+  teiginys: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-75364"></a>
 - t-002
   global_id: t-75364
-  teiginys: 'Perimant Vakarų kultūros idėjas, LDK visuomenėje atsirado kronikų rašymo tradicija ir poreikis pažinti savo istoriją.'
+  teiginys: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją.'
   pagrindžia:
     - c-003
 
@@ -115,6 +115,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė

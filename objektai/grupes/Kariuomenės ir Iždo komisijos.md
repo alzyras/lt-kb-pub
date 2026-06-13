@@ -36,16 +36,9 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 <a id="claim-t-183140"></a>
 - t-003
   global_id: t-183140
-  teiginys: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
+  teiginys: 'Teisių sargybai priklausė bendrų Lenkijos ir Lietuvos iždo, karo ir policijos komisijų pirmininkai.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-183141"></a>
-- t-004
-  global_id: t-183141
-  teiginys: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -84,7 +77,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     - t-001
 
 - c-003
-  santrauka: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
+  santrauka: 'Teisių sargybai priklausė bendrų Lenkijos ir Lietuvos iždo, karo ir policijos komisijų pirmininkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atšaukiama karalių renkamumo tvarka,
@@ -101,7 +94,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     - t-003
 
 - c-004
-  santrauka: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
+  santrauka: 'Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius

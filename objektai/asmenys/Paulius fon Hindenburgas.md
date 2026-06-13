@@ -28,13 +28,14 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 <a id="claim-t-78068"></a>
 - t-001
   global_id: t-78068
-  teiginys: 'Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) ir Ėrichas Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokietijos kariuomenės reikalams.'
+  teiginys: 'Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Besibrėžiantys naujos konsteliacijos kontūrai kėlė lietuvių susidomėji-

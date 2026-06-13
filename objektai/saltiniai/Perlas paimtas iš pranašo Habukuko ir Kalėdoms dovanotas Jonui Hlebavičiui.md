@@ -25,13 +25,14 @@ amziai:
 <a id="claim-t-88461"></a>
 - t-001
   global_id: t-88461
-  teiginys: '69 Perlas paimtas iš pranašo Habukuko ir Kalėdoms dovanotas Jonui Hlebavičiui.'
+  teiginys: 'Veikalas „Perlas paimtas iš pranašo Habukuko ir Kalėdoms dovanotas Jonui Hlebavičiui“ buvo išspausdintas Vilniuje pas Joną Karcaną 1583 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Veikalas „Perlas paimtas iš pranašo Habukuko ir Kalėdoms dovanotas Jonui Hlebavičiui“ buvo išspausdintas Vilniuje pas Joną Karcaną 1583 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau Mamoničių spaus­

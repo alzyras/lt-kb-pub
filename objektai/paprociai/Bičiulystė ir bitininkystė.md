@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-184346"></a>
 - t-005
   global_id: t-184346
-  teiginys: 'Atskirus papročius ir žmonių santykiavimo formas, vadinamą « bičiulystę » (iš čia ir « bičiulis ») sukūrė užsiėmimas bitininkyste.'
+  teiginys: 'Bitininkystė sukūrė papročius ir žmonių santykiavimo formas, vadintas bičiulyste.'
   pagrindžia:
     - c-005
 
@@ -142,7 +142,7 @@ Nenurodyta
     - t-003
 
 - c-005
-  santrauka: 'Atskirus papročius ir žmonių santykiavimo formas, vadinamą « bičiulystę » (iš čia ir « bičiulis ») sukūrė užsiėmimas bitininkyste.'
+  santrauka: 'Bitininkystė sukūrė papročius ir žmonių santykiavimo formas, vadintas bičiulyste.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš lietuvių auginamų paukščių yra žinomos vištos,

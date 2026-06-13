@@ -30,7 +30,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
 <a id="claim-t-97146"></a>
 - t-001
   global_id: t-97146
-  teiginys: 'Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.'
+  teiginys: 'A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
   pagrindžia:
     - c-001
 
@@ -40,13 +40,6 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   teiginys: 'A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-97148"></a>
-- t-003
-  global_id: t-97148
-  teiginys: 'A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 

@@ -56,7 +56,7 @@ Nenurodyta
 <a id="claim-t-80675"></a>
 - t-003
   global_id: t-80675
-  teiginys: 'Radvila buvo unijos su Lenkija nutraukimo ir sudarymo jos su Švedija šalininkas.'
+  teiginys: 'Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.'
   pagrindžia:
     - c-001
 

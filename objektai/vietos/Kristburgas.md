@@ -30,77 +30,77 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 <a id="claim-t-90720"></a>
 - t-001
   global_id: t-90720
-  teiginys: 'Dusburgietis teigia, kad apie daugybės pomeranų bei prūsų žūtį Pastačius Kristburgo pilį, sunerimo neišmintingi žmonės, naujakrikščiai ir Sventopelkas, ir susibaudę nutarė ją sunaikinti bei nušluoti, pabandžius pulti vienokiomis ar kitokiomis priemonėmis.'
+  teiginys: 'Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-90721"></a>
 - t-002
   global_id: t-90721
-  teiginys: 'Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami.'
+  teiginys: '1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-90722"></a>
 - t-003
   global_id: t-90722
-  teiginys: 'Dusburgietis teigia, kad pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo, kas reikalinga pilims ginti, ir palikę joje daug karių.'
+  teiginys: 'Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-90723"></a>
 - t-004
   global_id: t-90723
-  teiginys: 'Dusburgietis teigia, kad kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip.'
+  teiginys: 'Gundramo išvaduotos moterys sakė mačiusios du baltus balandžius virš jo palaikų, gabenamų į Kristburgo pilį.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-90724"></a>
 - t-005
   global_id: t-90724
-  teiginys: 'Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar vadinama Senuoju Kristburgu, slapta įsibrovė į pilį.'
+  teiginys: 'Magistras Henrikas Kalėdų išvakarėse užėmė pamedėnų pilį vietoje, kuri vėliau vadinta Senuoju Kristburgu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90725"></a>
 - t-006
   global_id: t-90725
-  teiginys: 'Dusburgietis teigia, kad traukdami atgal, jie pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė iš jų 50 krikščionių.'
+  teiginys: 'Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-90726"></a>
 - t-007
   global_id: t-90726
-  teiginys: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
+  teiginys: '1302 m. brolis Gundramas persekiojo lietuvių plėšikautojus, kurie Kristburgo pilies apylinkėse pagrobė 10 žmonių ir 10 arklių.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-90727"></a>
 - t-008
   global_id: t-90727
-  teiginys: 'Dusburgietis teigia, kad galop jie susitarė visi drauge apsupti Kristburgo pilį ir tol nesitraukti, kol ji nebus sulyginta su žeme.'
+  teiginys: 'Prūsai ir Sventopelkas susitarė apsupti Kristburgo pilį ir nesitraukti, kol ji nebus sulyginta su žeme.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-90728"></a>
 - t-009
   global_id: t-90728
-  teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
+  teiginys: 'Magistras Henrikas rengėsi kovoti su Sventopelku ir Prūsijos naujakrikščiais atsimetėliais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90729"></a>
 - t-010
   global_id: t-90729
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
+  teiginys: 'Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-90730"></a>
 - t-011
   global_id: t-90730
-  teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
+  teiginys: 'Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.'
   pagrindžia:
     - c-003
 
@@ -129,6 +129,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     - t-005
 
 - c-002
+  santrauka: 'Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
@@ -145,6 +146,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     - t-003
 
 - c-003
+  santrauka: 'Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
@@ -204,6 +206,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     - t-008
 
 - c-006
+  santrauka: '1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje

@@ -36,14 +36,14 @@ amziai:
 <a id="claim-t-75613"></a>
 - t-002
   global_id: t-75613
-  teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
+  teiginys: 'Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183492"></a>
 - t-003
   global_id: t-183492
-  teiginys: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
+  teiginys: '„Idealiosios Lietuvos“ vaizdinyje spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
@@ -95,7 +96,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
+  santrauka: '„Idealiosios Lietuvos“ vaizdinyje spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
@@ -123,10 +124,12 @@ amziai:
 - [[objektai/asmenys/Jonas Mekas]]
 - [[objektai/asmenys/Victor David Brenner]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Davidas Suchetas]]
 - [[objektai/asmenys/Eimuntas Nekrošius]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/asmenys/Robertas Zemeckis]]
-- [[objektai/asmenys/Davidas Suchetas]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Donatas Katkus]]
 - [[objektai/asmenys/Gintaras Rinkevičius]]
 - [[objektai/daiktai/JAV vieno cento moneta]]

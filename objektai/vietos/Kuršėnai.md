@@ -42,7 +42,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 <a id="claim-t-68379"></a>
 - t-003
   global_id: t-68379
-  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji bermontininkai, vadovaujami plk.'
+  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bermonto ėmė

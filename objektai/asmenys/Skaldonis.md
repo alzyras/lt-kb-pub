@@ -27,7 +27,7 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 <a id="claim-t-60434"></a>
 - t-001
   global_id: t-60434
-  teiginys: 'Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas nuplaukė Nemunu žemyn; jį, pasroviui plaukiantį, lietuviai taip smarkiai užpuolė, kad, nors ir daug jų buvo sužeista, o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus, jį.'
+  teiginys: 'Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.'
   pagrindžia:
     - c-001
 
@@ -63,3 +63,4 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Surminas]]
+- [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]

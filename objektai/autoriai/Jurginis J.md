@@ -22,7 +22,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 <a id="claim-t-64662"></a>
 - t-001
   global_id: t-64662
-  teiginys: 'Dusburgietis teigia, kad tai atsispindi ir paprotinėje teisėje: už moters užmušimą ar sužeidimą baudžiama dvigubai didesnėmis baudomis negu už vyro (Jurginis J., Lietuvių šeima..., p. 249—255; to paties, Baudžiavos..., p. 96—98; Лукшайтe И.'
+  teiginys: 'J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje.'
   pagrindžia:
     - c-001
 
@@ -36,13 +36,14 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 <a id="claim-t-64667"></a>
 - t-003
   global_id: t-64667
-  teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
+  teiginys: 'J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
@@ -62,6 +63,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
     - t-001
 
 - c-002
+  santrauka: 'J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
@@ -92,4 +94,5 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/autoriai/Juozas Jurginis]]
 - [[objektai/zodynas/krivis krivė krivaitis]]

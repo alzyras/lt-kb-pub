@@ -51,7 +51,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 <a id="claim-t-184406"></a>
 - t-005
   global_id: t-184406
-  teiginys: 'Maskviečiai gi be sėkmės buvo apgulę Viazmą.'
+  teiginys: 'Maskviečiai nesėkmingai apgulė Viazmą.'
   pagrindžia:
     - c-005
 
@@ -118,7 +118,7 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     - t-004
 
 - c-005
-  santrauka: 'Maskviečiai gi be sėkmės buvo apgulę Viazmą.'
+  santrauka: 'Maskviečiai nesėkmingai apgulė Viazmą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vy­

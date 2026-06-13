@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-31420"></a>
 - t-001
   global_id: t-31420
-  teiginys: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karu užatakavo Lietuvą.'
+  teiginys: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino

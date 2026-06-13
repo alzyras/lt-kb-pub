@@ -30,35 +30,35 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-91218"></a>
 - t-002
   global_id: t-91218
-  teiginys: 'Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
+  teiginys: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-91219"></a>
 - t-003
   global_id: t-91219
-  teiginys: 'Dusburgietis teigia, kad dieną netikėlių kariuomenė įsibrovė į Notangą, nusiaubė jos didžiąją dalį, degindama ir plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.'
+  teiginys: 'Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-91220"></a>
 - t-004
   global_id: t-91220
-  teiginys: 'Dusburgietis teigia, kad siaurės rytuose priėjo Priegliaus ir Alnos santakoje buvusią Unzatrapio (Wohnsdorf) žemę (pastaroji kartais priskiriama Notangai).'
+  teiginys: 'Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-91221"></a>
 - t-005
   global_id: t-91221
-  teiginys: 'Dusburgietis teigia, kad apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims.'
+  teiginys: 'Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-91222"></a>
 - t-006
   global_id: t-91222
-  teiginys: 'Dusburgietis teigia, kad apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, nei vandenimis — upe.'
+  teiginys: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.'
   pagrindžia:
     - c-001
 
@@ -72,6 +72,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
@@ -90,6 +91,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-006
 
 - c-002
+  santrauka: 'Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     76 (75). Apie vienos Notangos dalies nuniokojimą
@@ -107,6 +109,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-005
 
 - c-003
+  santrauka: 'Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
@@ -124,6 +127,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-002
 
 - c-004
+  santrauka: 'Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą
@@ -157,6 +161,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-001
 
 - c-006
+  santrauka: 'Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Teritorija  į rytus nuo Varmės, šiaurėje siekė

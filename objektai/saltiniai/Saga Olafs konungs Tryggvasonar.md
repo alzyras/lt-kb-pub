@@ -19,13 +19,14 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
 <a id="claim-t-31913"></a>
 - t-001
   global_id: t-31913
-  teiginys: 'Saga Olafs konungs Tryggvasonar rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.'
+  teiginys: '„Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia žinomojo Nevos-Ladogos-Volchovo-Ilmenio-Lovatės-

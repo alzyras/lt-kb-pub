@@ -40,7 +40,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 <a id="claim-t-74747"></a>
 - t-004
   global_id: t-74747
-  teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
+  teiginys: 'Po Lenkijos ultimatumo priėmimo prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos.'
   pagrindžia:
     - c-001
 

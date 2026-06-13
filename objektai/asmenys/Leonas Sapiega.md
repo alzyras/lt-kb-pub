@@ -59,3 +59,4 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
 ### Susiję objektai
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/zodynas/seimas]]
+- [[objektai/paprociai/Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje]]

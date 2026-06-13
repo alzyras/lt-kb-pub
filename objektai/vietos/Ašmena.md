@@ -39,7 +39,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 <a id="claim-t-176933"></a>
 - t-002
   global_id: t-176933
-  teiginys: '1655 m. liepą Rusijos kariuomenė su kazokais sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
+  teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-001
 
@@ -74,7 +74,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 <a id="claim-t-176938"></a>
 - t-007
   global_id: t-176938
-  teiginys: 'Švitrigaila, remiamas Livonijos magistro ir totorių, vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
+  teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-015
 
@@ -120,13 +120,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - c-010
 
-<a id="claim-t-176946"></a>
-- t-014
-  global_id: t-176946
-  teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-176947"></a>
 - t-015
   global_id: t-176947
@@ -137,7 +130,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 <a id="claim-t-176948"></a>
 - t-016
   global_id: t-176948
-  teiginys: 'Dar 1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
+  teiginys: '1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
   pagrindžia:
     - c-016
 
@@ -154,13 +147,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginys: 'Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-176951"></a>
-- t-019
-  global_id: t-176951
-  teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
-  pagrindžia:
-    - c-001
 
 <a id="claim-t-176952"></a>
 - t-020
@@ -491,6 +477,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-020
 
 - c-015
+  santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
@@ -509,6 +496,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-007
 
 - c-016
+  santrauka: '1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Veltui kryžiuočiai dar bandė sutrukdyti sau

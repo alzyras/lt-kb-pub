@@ -30,13 +30,14 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
 <a id="claim-t-87906"></a>
 - t-001
   global_id: t-87906
-  teiginys: 'Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas iš magistrato narių, tačiau bajoras - 1542 m.'
+  teiginys: 'Augustinas Rotundas Milesijus 1542 m. buvo išrinktas iš magistrato narių; jis buvo bajoras ir abiejų teisių daktaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustinas Rotundas Milesijus 1542 m. buvo išrinktas iš magistrato narių; jis buvo bajoras ir abiejų teisių daktaras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojus Prokopavičius - 1511 m.

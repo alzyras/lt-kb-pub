@@ -44,20 +44,21 @@ Nenurodyta
 <a id="claim-t-62925"></a>
 - t-001
   global_id: t-62925
-  teiginys: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
+  teiginys: 'Nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti taikos susitarimą su magistru ir broliais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62926"></a>
 - t-002
   global_id: t-62926
-  teiginys: 'Dusburgietis teigia, kad tėvui mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo.'
+  teiginys: '1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to jums patariu niekad jiems nesipriešinti, bet
@@ -75,6 +76,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti taikos susitarimą su magistru ir broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau
@@ -98,3 +100,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Mstivojus]]
+- [[objektai/asmenys/Sventopelkas]]

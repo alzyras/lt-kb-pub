@@ -22,14 +22,14 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 <a id="claim-t-90326"></a>
 - t-001
   global_id: t-90326
-  teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
+  teiginys: 'Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90327"></a>
 - t-002
   global_id: t-90327
-  teiginys: 'Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą brolių ir tų žmonių, kurie buvo subėgę į pilį.'
+  teiginys: 'Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą.'
   pagrindžia:
     - c-001
 

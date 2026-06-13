@@ -33,7 +33,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 <a id="claim-t-47100"></a>
 - t-002
   global_id: t-47100
-  teiginys: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
+  teiginys: 'Portugalija ir Ispanija neteko lyderių pozicijų, nes iš Lotynų Amerikos plukdomas auksas neskatino vietos miestų ir ekonomikos plėtros.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     - t-001
 
 - c-002
+  santrauka: 'Portugalija ir Ispanija neteko lyderių pozicijų, nes iš Lotynų Amerikos plukdomas auksas neskatino vietos miestų ir ekonomikos plėtros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O kas nutiko didžiųjų ge-

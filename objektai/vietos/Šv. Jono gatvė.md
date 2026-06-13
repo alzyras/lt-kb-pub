@@ -26,13 +26,14 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
 <a id="claim-t-86282"></a>
 - t-001
   global_id: t-86282
-  teiginys: 'Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.'
+  teiginys: 'Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono Kolegijos Vaistinės kronika

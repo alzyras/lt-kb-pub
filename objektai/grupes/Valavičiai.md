@@ -49,7 +49,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Mikalojus Naruševičius]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

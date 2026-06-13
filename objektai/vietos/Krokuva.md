@@ -43,14 +43,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177259"></a>
 - t-002
   global_id: t-177259
-  teiginys: 'Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.'
+  teiginys: 'Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, ten superkami Vilniui, o plienas ir geležis vežami iš Alkuskų kasyklos.'
   pagrindžia:
     - c-025
 
 <a id="claim-t-177260"></a>
 - t-003
   global_id: t-177260
-  teiginys: 'Rašyta Krokuvoje, Viešpaties gimimo metais 1532, lapkričio mėnesio 27 dieną, šeštajame indikte.'
+  teiginys: '1532 m. lapkričio 27 d. raštas buvo surašytas Krokuvoje.'
   pagrindžia:
     - c-040
 
@@ -85,14 +85,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177265"></a>
 - t-008
   global_id: t-177265
-  teiginys: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
+  teiginys: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
   pagrindžia:
     - c-020
 
 <a id="claim-t-177267"></a>
 - t-009
   global_id: t-177267
-  teiginys: 'Kryžiaus medžiu būtų paliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės pono mūsų tėvo švento atminimo karaliaus kūnas.'
+  teiginys: 'Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.'
   pagrindžia:
     - c-037
 
@@ -113,7 +113,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177271"></a>
 - t-012
   global_id: t-177271
-  teiginys: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
+  teiginys: 'Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
   pagrindžia:
     - c-026
 
@@ -127,7 +127,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177273"></a>
 - t-014
   global_id: t-177273
-  teiginys: 'Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė plačius pasiruošimus.'
+  teiginys: '1399 m. pavasarį Vytautas praleido Krokuvoje ir vykdė plačius pasiruošimus.'
   pagrindžia:
     - c-004
 
@@ -148,7 +148,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177277"></a>
 - t-017
   global_id: t-177277
-  teiginys: 'Tad po dvejų metų lenkai pagaliau nusileido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene.'
+  teiginys: '1550 m. Barbora Krokuvoje buvo iškilmingai karūnuota Lenkijos karaliene.'
   pagrindžia:
     - c-045
 
@@ -176,7 +176,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177283"></a>
 - t-021
   global_id: t-177283
-  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  teiginys: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   pagrindžia:
     - c-038
 
@@ -225,7 +225,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177291"></a>
 - t-029
   global_id: t-177291
-  teiginys: 'Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje.'
+  teiginys: 'Auksinis kryžius su Šventojo Kryžiaus medžiu turėjo likti Krokuvos pilies koplyčioje.'
   pagrindžia:
     - c-027
 
@@ -267,14 +267,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177297"></a>
 - t-035
   global_id: t-177297
-  teiginys: 'Į Krokuvą su Jogaila atvyko Jadvyga, jo giminės vasaliniai kunigaikščiai, Gniezno arkivyskupas ir Krokuvos vyskupas.'
+  teiginys: '1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-177298"></a>
 - t-036
   global_id: t-177298
-  teiginys: 'Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d. Krokuvoje buvo vainikuota Lenkijos « karaliumi ».'
+  teiginys: '1384 m. spalio 15 d. Liudviko Anjou duktė Jadvyga Krokuvoje buvo vainikuota Lenkijos karaliumi.'
   pagrindžia:
     - c-002
 
@@ -302,7 +302,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177302"></a>
 - t-040
   global_id: t-177302
-  teiginys: 'Žygimantas suteikė miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
+  teiginys: 'Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė.'
   pagrindžia:
     - c-023
 
@@ -355,13 +355,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-041
 
-<a id="claim-t-177310"></a>
-- t-048
-  global_id: t-177310
-  teiginys: '1550 m. Barbora Krokuvoje buvo iškilmingai karūnuota Lenkijos karaliene.'
-  pagrindžia:
-    - c-015
-
 <a id="claim-t-177311"></a>
 - t-049
   global_id: t-177311
@@ -386,14 +379,14 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177314"></a>
 - t-052
   global_id: t-177314
-  teiginys: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
+  teiginys: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   pagrindžia:
     - c-035
 
 <a id="claim-t-177315"></a>
 - t-053
   global_id: t-177315
-  teiginys: 'Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
+  teiginys: '1430 m. lenkų ponai privertė į Krokuvą grįžusį Jogailą atšaukti sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
     - c-044
 
@@ -463,7 +456,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 <a id="claim-t-177326"></a>
 - t-063
   global_id: t-177326
-  teiginys: 'Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.'
+  teiginys: 'Prie Vorsklos žuvo Vytautui ištikimi Smolensko vietininkai Boreikaičiai ir Krokuvos vaivada Spytekas iš Melsztyno.'
   pagrindžia:
     - c-005
 
@@ -516,45 +509,38 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-048
 
-<a id="claim-t-177334"></a>
-- t-071
-  global_id: t-177334
-  teiginys: 'Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma.'
-  pagrindžia:
-    - c-030
-
 <a id="claim-t-177335"></a>
-- t-072
+- t-071
   global_id: t-177335
   teiginys: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
   pagrindžia:
     - c-032
 
 <a id="claim-t-177336"></a>
-- t-073
+- t-072
   global_id: t-177336
   teiginys: 'Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.'
   pagrindžia:
     - c-033
 
 <a id="claim-t-184991"></a>
-- t-074
+- t-073
   global_id: t-184991
   teiginys: 'Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.'
   pagrindžia:
     - c-049
 
 <a id="claim-t-184992"></a>
-- t-075
+- t-074
   global_id: t-184992
   teiginys: 'Paleidęs seimą, karalius išvyko į Krokuvą.'
   pagrindžia:
     - c-050
 
 <a id="claim-t-184993"></a>
-- t-076
+- t-075
   global_id: t-184993
-  teiginys: 'Didikai sutiko, kad Barbora būtų vainikuota Krokuvoje kaip kitos karalienės.'
+  teiginys: 'Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės.'
   pagrindžia:
     - c-051
 
@@ -767,6 +753,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-015
 
 - c-013
+  santrauka: '1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -917,6 +904,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-044
 
 - c-020
+  santrauka: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai tai
@@ -1023,6 +1011,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-002
 
 - c-026
+  santrauka: 'Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:
@@ -1037,6 +1026,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-012
 
 - c-027
+  santrauka: 'Auksinis kryžius su Šventojo Kryžiaus medžiu turėjo likti Krokuvos pilies koplyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Onos bažnyčiai Vilniuje išduoti, išskyrus auk­
@@ -1126,7 +1116,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   statusas: verified
   pagrindžia:
     - t-059
-    - t-071
     - t-058
 
 - c-031
@@ -1171,7 +1160,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-072
+    - t-071
 
 - c-033
   santrauka: 'Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.'
@@ -1203,7 +1192,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-073
+    - t-072
     - t-066
 
 - c-034
@@ -1227,6 +1216,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-010
 
 - c-035
+  santrauka: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko
@@ -1270,6 +1260,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-018
 
 - c-037
+  santrauka: 'Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiai bažnyčiai visą bažnytinį auksą,
@@ -1293,6 +1284,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-009
 
 - c-038
+  santrauka: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinis
@@ -1327,6 +1319,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-013
 
 - c-040
+  santrauka: '1532 m. lapkričio 27 d. raštas buvo surašytas Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jeigu nepanorėtumei nuo to susi­
@@ -1392,6 +1385,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-020
 
 - c-044
+  santrauka: '1430 m. lenkų ponai privertė į Krokuvą grįžusį Jogailą atšaukti sutikimą dėl Vytauto karūnacijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu Vytauto karūnacijos klau-
@@ -1406,6 +1400,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-053
 
 - c-045
+  santrauka: '1550 m. Barbora Krokuvoje buvo iškilmingai karūnuota Lenkijos karaliene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Greit pasirodė, jog senatas ir seimas perdėjo, laikydami jungtuves
@@ -1493,7 +1488,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-074
+    - t-073
 
 - c-050
   santrauka: 'Paleidęs seimą, karalius išvyko į Krokuvą.'
@@ -1517,10 +1512,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-075
+    - t-074
 
 - c-051
-  santrauka: 'Didikai sutiko, kad Barbora būtų vainikuota Krokuvoje kaip kitos karalienės.'
+  santrauka: 'Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Štai todėl daugelis išsigandusių didikų, nenorėda­
@@ -1535,4 +1530,4 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-076
+    - t-075

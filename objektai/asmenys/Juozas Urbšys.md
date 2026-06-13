@@ -42,7 +42,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 <a id="claim-t-19029"></a>
 - t-004
   global_id: t-19029
-  teiginys: 'V. Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, šis išvyko spalio 2 dieną.'
+  teiginys: 'Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-

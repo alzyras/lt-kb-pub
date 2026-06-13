@@ -20,20 +20,14 @@ tags:
 <a id="claim-t-38385"></a>
 - t-001
   global_id: t-38385
-  teiginys: 'Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.'
+  teiginys: 'XIII a. kalavijas buvo rastas Raudonėje.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183805"></a>
-- t-002
-  global_id: t-183805
-  teiginys: 'Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII a. kalavijas buvo rastas Raudonėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 30, XIII a. Kalavijas. Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.
@@ -42,14 +36,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 26-27, Kalavijai. xm a. Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

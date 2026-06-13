@@ -35,7 +35,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 <a id="claim-t-67763"></a>
 - t-002
   global_id: t-67763
-  teiginys: 'Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Daugus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @.'
+  teiginys: 'Iki liepos pabaigos lenkai užgrobė Butrimonis ir kitas Lietuvos vietoves.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-001
 
 - c-002
+  santrauka: 'Iki liepos pabaigos lenkai užgrobė Butrimonis ir kitas Lietuvos vietoves.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Dau-
@@ -82,7 +83,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-002
 
 - c-003
-  santrauka: 'Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Daugus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @.'
+  santrauka: 'Iki liepos pabaigos lenkai užgrobė Butrimonis ir kitas Lietuvos vietoves.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sutelkę

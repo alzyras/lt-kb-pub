@@ -28,13 +28,14 @@ Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios 
 <a id="claim-t-78129"></a>
 - t-001
   global_id: t-78129
-  teiginys: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
+  teiginys: 'Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),

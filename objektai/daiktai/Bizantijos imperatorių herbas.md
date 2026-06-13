@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-47802"></a>
 - t-001
   global_id: t-47802
-  teiginys: 'Jonas III, laikydamasis Bizantijos paveldėtoju, pasisavino Bizantijos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.'
+  teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.'
   pagrindžia:
     - c-001
 

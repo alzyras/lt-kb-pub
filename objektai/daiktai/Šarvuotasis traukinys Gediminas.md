@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-78691"></a>
 - t-001
   global_id: t-78691
-  teiginys: 'Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių vagonai, suremontuoti ir patobulinti mūšiuose dalyvavę traukinio vagonai.'
+  teiginys: '1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.'
   pagrindžia:
     - c-003
 
@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-78693"></a>
 - t-003
   global_id: t-78693
-  teiginys: 'Traukinys savo patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.'
+  teiginys: 'Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.'
   pagrindžia:
     - c-005
 
@@ -119,6 +119,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: '1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Spalio 10 d. traukinys sugrįžo į Kauną, kur greitai buvo įrengti nauji kulkosvaidžių va-
@@ -147,6 +148,7 @@ Nenurodyta
     - t-002
 
 - c-005
+  santrauka: 'Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su

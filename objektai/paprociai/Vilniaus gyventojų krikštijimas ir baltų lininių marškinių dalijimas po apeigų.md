@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-87232"></a>
 - t-001
   global_id: t-87232
-  teiginys: '11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladisrašo: quern locum vulgari lingua, Antlovo Jogailos laikais, aprašymas paakalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi- [tą vietą liaudies kalba Antakalniu, čiaus.'
+  teiginys: 'Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I. 7

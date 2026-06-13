@@ -46,7 +46,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 <a id="claim-t-184254"></a>
 - t-003
   global_id: t-184254
-  teiginys: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok.'
+  teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
   pagrindžia:
     - c-003
 
@@ -88,7 +88,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-002
 
 - c-003
-  santrauka: 'Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules, drausdami Vok.'
+  santrauka: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinu, kuris nustojo teisės rengti prieš

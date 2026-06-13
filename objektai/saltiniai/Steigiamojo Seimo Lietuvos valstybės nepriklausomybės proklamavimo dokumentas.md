@@ -28,13 +28,14 @@ Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
 <a id="claim-t-78139"></a>
 - t-001
   global_id: t-78139
-  teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
+  teiginys: 'Steigiamojo Seimo priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas skelbė Lietuvą nepriklausoma valstybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Steigiamojo Seimo priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas skelbė Lietuvą nepriklausoma valstybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-

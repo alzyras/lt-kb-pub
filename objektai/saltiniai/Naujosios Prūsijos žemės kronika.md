@@ -43,7 +43,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 <a id="claim-t-171553"></a>
 - t-002
   global_id: t-171553
-  teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
+  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 <a id="claim-t-171556"></a>
 - t-004
   global_id: t-171556
-  teiginys: '„Naujosios Prūsijos žemės kronikos“ ištraukoje pasakojama, kad 1376 m. Kęstutis ir Algirdas trimis voromis įsiveržė į Ordino valdas.'
+  teiginys: '1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.'
   pagrindžia:
     - c-002
 

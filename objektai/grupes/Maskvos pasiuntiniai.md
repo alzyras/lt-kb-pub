@@ -26,14 +26,14 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 <a id="claim-t-86810"></a>
 - t-001
   global_id: t-86810
-  teiginys: 'Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.'
+  teiginys: '1494 m. Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.'
+  santrauka: '1494 m. Aleksandras Vilniuje prisiekė iš Maskvos atvykusių pasiuntinių akivaizdoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS

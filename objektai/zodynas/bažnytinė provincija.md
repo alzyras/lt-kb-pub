@@ -49,7 +49,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 <a id="claim-t-70101"></a>
 - t-004
   global_id: t-70101
-  teiginys: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
+  teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją.'
   pagrindžia:
     - c-002
 

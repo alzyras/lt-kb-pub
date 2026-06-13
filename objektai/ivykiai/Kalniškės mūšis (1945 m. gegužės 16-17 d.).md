@@ -57,16 +57,16 @@ Nenurodyta
 <a id="claim-t-71748"></a>
 - t-003
   global_id: t-71748
-  teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo ir žuvo apie 1946 m.'
+  teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-71749"></a>
 - t-004
   global_id: t-71749
-  teiginys: '„Lakūną“ po Kalniškės mūšio mačiau ne kartą savo akimis.'
+  teiginys: 'Liudytojas teigė Neifaltą-Lakūną po Kalniškės mūšio matęs ne kartą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 

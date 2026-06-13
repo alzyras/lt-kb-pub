@@ -22,14 +22,14 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 <a id="claim-t-60079"></a>
 - t-001
   global_id: t-60079
-  teiginys: 'Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už tokios šlovingos dovanos suradimą.'
+  teiginys: 'Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-60080"></a>
 - t-002
   global_id: t-60080
-  teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
+  teiginys: 'Dusburgiečio pasakojime sena moteris broliams sakė, kad šventosios Barboros palankumas padėjo jiems laimėti.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio pasakojime sena moteris broliams sakė, kad šventosios Barboros palankumas padėjo jiems laimėti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
@@ -74,6 +75,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
     - t-003
 
 - c-003
+  santrauka: 'Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pagaliau pats dievas,

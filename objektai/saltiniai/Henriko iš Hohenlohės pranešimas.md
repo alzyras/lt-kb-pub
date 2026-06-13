@@ -32,42 +32,42 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
 <a id="claim-t-175155"></a>
 - t-001
   global_id: t-175155
-  teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
+  teiginys: 'Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-175157"></a>
 - t-002
   global_id: t-175157
-  teiginys: 'Dusburgietis teigia, kad 166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
+  teiginys: 'Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-175158"></a>
 - t-003
   global_id: t-175158
-  teiginys: 'Dusburgietis teigia, kad apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną 288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP, 5, p. 165) duomenis apie Liubeko pirklius, padėjusius aprūpinti maistu atkirstas Ordino pilis — Elbingą ir Baigą.'
+  teiginys: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-175159"></a>
 - t-004
   global_id: t-175159
-  teiginys: 'Dusburgietis teigia, kad dusburgiečio šaltinis — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda — Baiga (SRP, 5, p. 160; PKD, p. 37).'
+  teiginys: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-175160"></a>
 - t-005
   global_id: t-175160
-  teiginys: 'Dusburgietis teigia, kad šitaip viską patvarkius, kunigaikštis pastatydino167 šiems 165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.'
+  teiginys: 'Henriko iš Hohenlohės pranešime prūsų pasiuntinių vardai pateikti kaip Petraten, Preroch ir Thorandt.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-175161"></a>
 - t-006
   global_id: t-175161
-  teiginys: 'Dusburgietis teigia, kad 172 Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas dovanojęs Ordinui Kulmo bei Lubavos žemes, suteikdamas visas teises, taip pat žemes, kurias ateityje Ordinas atkovosiąs iš pagonių.'
+  teiginys: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
   pagrindžia:
     - c-005
 
@@ -92,6 +92,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - t-007
 
 - c-002
+  santrauka: 'Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     166 Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu,
@@ -104,6 +105,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - t-002
 
 - c-003
+  santrauka: 'Henriko iš Hohenlohės pranešime prūsų pasiuntinių vardai pateikti kaip Petraten, Preroch ir Thorandt.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
@@ -123,6 +125,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - t-005
 
 - c-004
+  santrauka: 'Henriko iš Hohenlohės pranešime 1243 m. Kulmo žemės nusiaubimas ir Ordino pajėgų sutriuškinimas siejamas su lietuviais ir prūsais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
@@ -138,6 +141,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - t-001
 
 - c-005
+  santrauka: 'Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     172  Dusburgietis kaip ir Hohenlohės reliacija (SRP, 5, p. 160) teigia, kad Konradas
@@ -151,6 +155,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - t-006
 
 - c-006
+  santrauka: 'Henriko iš Hohenlohės pranešime kryžiuočių pilių statybos seka pateikiama taip: po Marienverderio statytas Cristhborgk, vėliau Elbingas ir Honeda-Baiga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio šaltinis
@@ -164,6 +169,7 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
     - t-004
 
 - c-007
+  santrauka: 'Henriko iš Hohenlohės pranešime minimi Liubeko pirkliai, padėję maistu aprūpinti atkirstas Ordino pilis Elbingą ir Baigą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     52 (51). Apie vieną kilmingą vyrą, priimtą į Teutonų namų ordiną

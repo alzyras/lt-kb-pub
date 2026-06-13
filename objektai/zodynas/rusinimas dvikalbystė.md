@@ -33,7 +33,7 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 <a id="claim-t-183462"></a>
 - t-003
   global_id: t-183462
-  teiginys: 'Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę.'
+  teiginys: 'Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros kūrinių, vaidintos pjesės ir taikyta dvikalbystė.'
   pagrindžia:
     - c-003
 
@@ -71,7 +71,7 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
     - t-001
 
 - c-003
-  santrauka: 'Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę.'
+  santrauka: 'Lietuvoje laikraščiai imti dubliuoti rusų kalba, leista daug rusų literatūros kūrinių, vaidintos pjesės ir taikyta dvikalbystė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nemažai jaunimo
@@ -99,5 +99,4 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 - [[objektai/asmenys/J. Stalinas]]
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Nikita Chruščiovas]]
-- [[objektai/zodynas/homo sovieticus]]
 - [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]

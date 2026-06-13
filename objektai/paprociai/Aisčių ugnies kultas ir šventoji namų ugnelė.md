@@ -66,7 +66,7 @@ Nenurodyta
 <a id="claim-t-93015"></a>
 - t-005
   global_id: t-93015
-  teiginys: 'Ligšiol yra žinoma keletas kulto tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ), Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje būtų buvę kokių tikybos šventnamių.'
+  teiginys: 'Senovės Lietuvoje žinoma keletas kulto tarnų vardų, bet nerasta jų organizacinio ryšio ar rimtų tikybos šventnamių liudijimų.'
   pagrindžia:
     - c-003
 

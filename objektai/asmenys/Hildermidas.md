@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Grafas Hildermidas buvo škotas ir sūnus vyro, kuris paaukojo gyvybę gelbėdamas karalių.
+Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių.
 
 ## Teiginiai
 
 <a id="claim-t-186211"></a>
 - t-001
   global_id: t-186211
-  teiginys: 'Grafas Hildermidas buvo škotas ir sūnus vyro, kuris paaukojo gyvybę gelbėdamas karalių.'
+  teiginys: 'Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Grafas Hildermidas buvo škotas ir sūnus vyro, kuris paaukojo gyvybę gelbėdamas karalių.'
+  santrauka: 'Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karalių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Greta jo įsitai­

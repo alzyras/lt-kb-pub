@@ -19,7 +19,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 <a id="claim-t-66324"></a>
 - t-001
   global_id: t-66324
-  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  teiginys: '1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.'
   pagrindžia:
     - c-003
 
@@ -33,7 +33,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 <a id="claim-t-66326"></a>
 - t-003
   global_id: t-66326
-  teiginys: 'JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.'
+  teiginys: 'Iš Europos į JAV persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas siekė tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     - t-002
 
 - c-002
+  santrauka: 'Iš Europos į JAV persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas siekė tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atkūrus Lietuvos
@@ -74,6 +75,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     - t-003
 
 - c-003
+  santrauka: '1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai masiškiausia
@@ -106,6 +108,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 - [[objektai/grupes/Lietuvių frontas]]
 - [[objektai/grupes/Lietuvių vienybės sąjūdis]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
-- [[objektai/grupes/Pasaulio lietuvių bendruomenė]]
 - [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
 - [[objektai/grupes/Lietuvos laisvės armija]]
+- [[objektai/grupes/Pasaulio lietuvių bendruomenė]]

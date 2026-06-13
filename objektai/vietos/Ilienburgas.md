@@ -36,7 +36,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 <a id="claim-t-58559"></a>
 - t-002
   global_id: t-58559
-  teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
+  teiginys: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
     - t-001
 
 - c-002
+  santrauka: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą

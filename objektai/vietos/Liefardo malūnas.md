@@ -21,13 +21,14 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
 <a id="claim-t-58586"></a>
 - t-001
   global_id: t-58586
-  teiginys: 'Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum pilis.'
+  teiginys: 'Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Persekiojami miestiečiai, nestengdami priešintis

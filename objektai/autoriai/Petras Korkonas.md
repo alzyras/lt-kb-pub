@@ -30,14 +30,14 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 <a id="claim-t-88080"></a>
 - t-001
   global_id: t-88080
-  teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas į Vilnių atkvietė Šv. Pranciškaus vienuolius.'
+  teiginys: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas į Vilnių atkvietė Šv. Pranciškaus vienuolius.'
+  santrauka: 'Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Petro, vardui pašventė. Čia pirmiau­

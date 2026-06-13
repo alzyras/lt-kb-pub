@@ -32,16 +32,9 @@ amziai:
 <a id="claim-t-41458"></a>
 - t-001
   global_id: t-41458
-  teiginys: 'Gynėjai išsikėlė nerašytą misiją - pasipriešinti bet kokiu atveju ir nepakartoti 1940 m. klaidos!'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-41459"></a>
-- t-002
-  global_id: t-41459
   teiginys: 'Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -69,6 +62,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tikslu

@@ -49,13 +49,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-101535"></a>
-- t-002
-  global_id: t-101535
-  teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001

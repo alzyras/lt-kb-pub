@@ -29,14 +29,14 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 <a id="claim-t-175164"></a>
 - t-001
   global_id: t-175164
-  teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
+  teiginys: 'Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-175165"></a>
 - t-002
   global_id: t-175165
-  teiginys: 'Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile; Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab.'
+  teiginys: 'Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.'
   pagrindžia:
     - c-001
 
@@ -64,6 +64,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
@@ -124,6 +125,7 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     - t-004
 
 - c-005
+  santrauka: 'Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos

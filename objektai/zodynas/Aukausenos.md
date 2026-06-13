@@ -94,3 +94,4 @@ Vartojamos formos: `aukos`, `aukas`.
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]
+- [[objektai/grupes/Notangai]]

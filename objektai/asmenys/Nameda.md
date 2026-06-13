@@ -45,8 +45,8 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Nadruviai]]
-- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
 - [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]
+- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
 - [[objektai/grupes/Mantiminų giminė]]
 - [[objektai/asmenys/Pasdrauputis]]
 - [[objektai/grupes/Sūduviai]]

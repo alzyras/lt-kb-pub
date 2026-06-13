@@ -28,7 +28,7 @@ tags:
 <a id="claim-t-183737"></a>
 - t-002
   global_id: t-183737
-  teiginys: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
+  teiginys: 'Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.'
   pagrindžia:
     - c-001
 

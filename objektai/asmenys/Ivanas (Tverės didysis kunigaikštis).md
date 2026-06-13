@@ -29,7 +29,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 <a id="claim-t-183741"></a>
 - t-002
   global_id: t-183741
-  teiginys: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
+  teiginys: 'Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
     - t-001
 
 - c-002
-  santrauka: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
+  santrauka: 'Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kafos apy-

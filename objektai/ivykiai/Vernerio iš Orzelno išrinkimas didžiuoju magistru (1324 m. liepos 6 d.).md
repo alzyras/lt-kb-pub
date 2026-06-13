@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-62948"></a>
 - t-001
   global_id: t-62948
-  teiginys: 'Dusburgietis teigia, kad trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras Verneris, kuriam kronikininkas įteikė savo veikalą.'
+  teiginys: 'Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.

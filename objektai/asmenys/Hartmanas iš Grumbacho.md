@@ -22,13 +22,14 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
 <a id="claim-t-60300"></a>
 - t-001
   global_id: t-60300
-  teiginys: 'Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartmanas iš Grumbacho, penktas Prūsijos žemės magistras, vadovavo trejus metus342.'
+  teiginys: 'Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hartmanas iš Grumbacho buvo penktasis Prūsijos žemės magistras ir vadovavo trejus metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Harimaną, Prūsijos magistrą
@@ -51,3 +52,4 @@ Dusburgietis teigia, kad apie brolį Harimaną, Prūsijos magistrą Brolis Hartm
 ### Susiję objektai
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Watmal Vatmalis]]

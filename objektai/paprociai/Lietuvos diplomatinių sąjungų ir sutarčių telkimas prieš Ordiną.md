@@ -50,14 +50,14 @@ Nenurodyta
 <a id="claim-t-62690"></a>
 - t-001
   global_id: t-62690
-  teiginys: 'Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323 m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir Vengrijos sąjungininkė Lenkija.'
+  teiginys: '1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-62691"></a>
 - t-002
   global_id: t-62691
-  teiginys: 'Dusburgietis teigia, kad ) bandė pasinaudoti Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą ekonominę Lietuvos blokadą.'
+  teiginys: 'Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.'
   pagrindžia:
     - c-001
     - c-002
@@ -65,13 +65,14 @@ Nenurodyta
 <a id="claim-t-62692"></a>
 - t-003
   global_id: t-62692
-  teiginys: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
+  teiginys: 'Gedimino pareiškimai ir laiškai Europos miestams bei dominikonams ir pranciškonams turėjo platų tarptautinį atgarsį.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
@@ -89,6 +90,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
@@ -105,6 +107,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Gedimino pareiškimai ir laiškai Europos miestams bei dominikonams ir pranciškonams turėjo platų tarptautinį atgarsį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
@@ -123,6 +126,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: '1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323

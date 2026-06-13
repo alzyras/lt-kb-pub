@@ -26,7 +26,7 @@ tags:
 <a id="claim-t-183487"></a>
 - t-002
   global_id: t-183487
-  teiginys: 'Šias „pirmines“ šventvietes turėjo sergėti žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar raganos („regėti“).'
+  teiginys: '„Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Šias „pirmines“ šventvietes turėjo sergėti žyniai (manoma, pavadinimas kilęs nuo žodžio „žinoti“), vaidilos ar raganos („regėti“).'
+  santrauka: '„Pirmines“ šventvietes turėjo sergėti žyniai, vaidilos arba raganos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ir

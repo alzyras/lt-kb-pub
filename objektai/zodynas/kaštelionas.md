@@ -152,7 +152,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas)]]
-- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Mikalojus Naruševičius]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
@@ -171,4 +170,5 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Aštikas]]
+- [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
 - [[objektai/zodynas/Pilininkas]]

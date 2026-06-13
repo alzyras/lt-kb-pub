@@ -41,21 +41,14 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 <a id="claim-t-74754"></a>
 - t-003
   global_id: t-74754
-  teiginys: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-74755"></a>
-- t-004
-  global_id: t-74755
-  teiginys: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
+  teiginys: '1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74756"></a>
-- t-005
+- t-004
   global_id: t-74756
-  teiginys: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
+  teiginys: 'Antano Terlecko supratimu, Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-003
 
@@ -78,6 +71,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     - t-002
 
 - c-002
+  santrauka: '1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinė valdžia represijas prieš disidentus derino su dalinių
@@ -93,10 +87,10 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-003
 
 - c-003
+  santrauka: 'Antano Terlecko supratimu, Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Skirtingai nei
@@ -111,7 +105,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -141,7 +135,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

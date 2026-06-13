@@ -27,7 +27,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 <a id="claim-t-183740"></a>
 - t-002
   global_id: t-183740
-  teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  teiginys: 'Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     - t-001
 
 - c-002
-  santrauka: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  santrauka: 'Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau
@@ -100,4 +100,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - [[objektai/autoriai/M. Perlbachas]]
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
+- [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]
+- [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]
+- [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]

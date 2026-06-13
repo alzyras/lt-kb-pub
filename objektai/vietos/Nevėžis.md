@@ -33,7 +33,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 <a id="claim-t-182771"></a>
 - t-001
   global_id: t-182771
-  teiginys: 'Naktį lenkai priartėja prie )— Lietuvių pajėgų išdėstymas ir puolimo kryptys Lenkų pajėgų išdėstyJ mas ir puolimo kryptys = = = =a Lietuvių atsitraukimo kryptys St | me me p> Lenkų atsitraukimo kryptys a || | Kėdainių ir ketina susprogdinti tiltą per Nevėžį.'
+  teiginys: 'Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-005
 
 - c-002
+  santrauka: 'Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Naktį lenkai priartėja prie

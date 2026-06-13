@@ -63,7 +63,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 <a id="claim-t-48793"></a>
 - t-006
   global_id: t-48793
-  teiginys: 'Per 60 metų išgyvenęs pietuose, Liubartas su brolių pagalba didžiajai Lietuvos kunigaikštijai apgynė Voliniją.'
+  teiginys: 'Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai.'
   pagrindžia:
     - c-003
 
@@ -102,6 +102,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - t-003
 
 - c-003
+  santrauka: 'Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Liudvikui mirus (1382), Liubartas pasiė­

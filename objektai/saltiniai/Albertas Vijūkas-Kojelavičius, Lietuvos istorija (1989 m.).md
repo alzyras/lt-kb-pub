@@ -49,7 +49,7 @@ amziai:
 <a id="claim-t-184453"></a>
 - t-002
   global_id: t-184453
-  teiginys: 'A. Kojelavičiaus istorija pakartotinių leidimų nesusilaukė.'
+  teiginys: 'Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų.'
   pagrindžia:
     - c-004
 
@@ -131,7 +131,7 @@ amziai:
     - t-004
 
 - c-004
-  santrauka: 'A. Kojelavičiaus istorija pakartotinių leidimų nesusilaukė.'
+  santrauka: 'Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     M. Strij­

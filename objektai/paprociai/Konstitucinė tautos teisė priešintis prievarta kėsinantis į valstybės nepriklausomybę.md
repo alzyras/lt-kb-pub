@@ -48,22 +48,15 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-41422"></a>
-- t-002
-  global_id: t-41422
-  teiginys: 'Ta pati norma saugo teritorijos vientisumą ir konstitucinę santvarką.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-41423"></a>
-- t-003
+- t-002
   global_id: t-41423
   teiginys: 'Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-41424"></a>
-- t-004
+- t-003
   global_id: t-41424
   teiginys: 'Tautos suvereniteto negalima varžyti ar riboti.'
   pagrindžia:
@@ -92,9 +85,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-003
     - t-002
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

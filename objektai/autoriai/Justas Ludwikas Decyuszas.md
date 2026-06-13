@@ -30,13 +30,14 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
 <a id="claim-t-88094"></a>
 - t-001
   global_id: t-88094
-  teiginys: 'IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - saviiždininko; iš rankraščio išspausdinvalė vok., vert.'
+  teiginys: 'Justo Ludwiko Decyuszo sąskaitos išsamiai nušviečia naujų dirbtuvių padėtį Vilniuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Justo Ludwiko Decyuszo sąskaitos išsamiai nušviečia naujų dirbtuvių padėtį Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jį karalius patvirtino tų pačių metų lapkričio

@@ -21,13 +21,14 @@ Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomant
 <a id="claim-t-60696"></a>
 - t-001
   global_id: t-60696
-  teiginys: 'Dusburgietis teigia, kad greičiausiai čia ir buvo centrinė Kresmenos (Skomanto) pilis (Engel C., Zwei spätheidnische Silberfunde..., p. 69, 76; Kamiński A., Jaćwież, p. 102; MGP, p. 55 Nr. 17, 16).'
+  teiginys: 'Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Engelio darbas cituojamas lokalizuojant centrinę Kresmenos, arba Skomanto, pilį prie Skomanto ežero pietinės pakrantės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     502 D. — habitacionem [...] redegit in favillam. Skomanto ežero pietinėje pakrantėje

@@ -37,7 +37,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 <a id="claim-t-117482"></a>
 - t-001
   global_id: t-117482
-  teiginys: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
+  teiginys: 'Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.'
   pagrindžia:
     - c-004
 
@@ -58,9 +58,9 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 <a id="claim-t-117485"></a>
 - t-004
   global_id: t-117485
-  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
+  teiginys: 'Bychovco kronikoje užfiksuotas pasakojimas apie Palangos mergelę Birutę, kuri žmonių buvo garbinama kaip dievaitė.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-117486"></a>
 - t-005
@@ -69,19 +69,12 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   pagrindžia:
     - c-002
 
-<a id="claim-t-117487"></a>
+<a id="claim-t-117488"></a>
 - t-006
-  global_id: t-117487
-  teiginys: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
+  global_id: t-117488
+  teiginys: 'Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-117488"></a>
-- t-007
-  global_id: t-117488
-  teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -137,6 +130,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - t-003
 
 - c-004
+  santrauka: 'Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1368 m. žygis
@@ -155,16 +149,7 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - t-001
 
 - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
+  santrauka: 'Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-
@@ -191,9 +176,10 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-007
+- c-006
+  santrauka: 'Bychovco kronikoje užfiksuotas pasakojimas apie Palangos mergelę Birutę, kuri žmonių buvo garbinama kaip dievaitė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,

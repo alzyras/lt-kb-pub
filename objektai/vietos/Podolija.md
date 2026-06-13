@@ -45,7 +45,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 <a id="claim-t-119214"></a>
 - t-003
   global_id: t-119214
-  teiginys: 'Po Torno taikos Jogaila išsprendė lietuvių ir lenkų ginčą dėl Podolijos, duodamas Vytautui vakarinę jos dalį su Kamieniecu.'
+  teiginys: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   pagrindžia:
     - c-004
 
@@ -73,27 +73,28 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 <a id="claim-t-119218"></a>
 - t-007
   global_id: t-119218
-  teiginys: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  teiginys: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-119219"></a>
 - t-008
   global_id: t-119219
-  teiginys: 'Ilgai ir sunkiai teko Vytautui kovoti dėl Podolijos, į kurią be vengrą ir totorią, reiškė pretenziją ir lenkai.'
+  teiginys: 'Vytautui teko ilgai kovoti dėl Podolijos, į kurią pretenzijas reiškė vengrai, totoriai ir lenkai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184394"></a>
 - t-009
   global_id: t-184394
-  teiginys: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
+  teiginys: 'Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių.'
   pagrindžia:
     - c-009
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautui teko ilgai kovoti dėl Podolijos, į kurią pretenzijas reiškė vengrai, totoriai ir lenkai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Beliko
@@ -143,7 +144,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-002
 
 - c-004
-  santrauka: 'Po Torno taikos Jogaila išsprendė lietuvių ir lenkų ginčą dėl Podolijos, duodamas Vytautui vakarinę jos dalį su Kamieniecu.'
+  santrauka: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
@@ -194,6 +195,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-004
 
 - c-007
+  santrauka: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
@@ -228,7 +230,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
     - t-006
 
 - c-009
-  santrauka: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
+  santrauka: 'Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per vieną šimtą metų, prieš Algirdui užmerkiant

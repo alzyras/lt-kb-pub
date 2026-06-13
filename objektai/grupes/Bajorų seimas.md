@@ -29,7 +29,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 <a id="claim-t-183121"></a>
 - t-002
   global_id: t-183121
-  teiginys: 'Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.'
+  teiginys: 'Lenkijoje greta monarcho valstybės valią reiškė valstybės taryba ir pradėjęs veikti bajorų seimas.'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     - t-001
 
 - c-002
-  santrauka: 'Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.'
+  santrauka: 'Lenkijoje greta monarcho valstybės valią reiškė valstybės taryba ir pradėjęs veikti bajorų seimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
@@ -77,6 +77,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]

@@ -36,20 +36,21 @@ Nenurodyta
 <a id="claim-t-62867"></a>
 - t-001
   global_id: t-62867
-  teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
+  teiginys: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62868"></a>
 - t-002
   global_id: t-62868
-  teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
+  teiginys: 'Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį, paimtą  į nelaisvę,
@@ -68,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
@@ -88,4 +90,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/zodynas/šeimynykštis]]
+- [[objektai/asmenys/Skomantas]]
 - [[objektai/zodynas/šeimynykštis famulus]]

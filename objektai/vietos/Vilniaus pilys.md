@@ -51,7 +51,7 @@ amziai:
 <a id="claim-t-85968"></a>
 - t-004
   global_id: t-85968
-  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
+  teiginys: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   pagrindžia:
     - c-003
 
@@ -108,6 +108,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­

@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-100033"></a>
 - t-001
   global_id: t-100033
-  teiginys: 'Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius valsčius (« volosti »).'
+  teiginys: 'Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip bėglys, prie jo pri­

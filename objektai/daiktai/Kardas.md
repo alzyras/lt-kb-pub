@@ -79,14 +79,14 @@ Nenurodyta
 <a id="claim-t-92971"></a>
 - t-005
   global_id: t-92971
-  teiginys: 'Žvalgas, pamatęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė griovyje.'
+  teiginys: 'Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-92972"></a>
 - t-006
   global_id: t-92972
-  teiginys: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
+  teiginys: 'Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai.'
   pagrindžia:
     - c-001
 
@@ -114,7 +114,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
+  santrauka: 'Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš priešin­
@@ -196,6 +196,7 @@ Nenurodyta
     - t-003
 
 - c-006
+  santrauka: 'Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žvalgas, pa-
@@ -311,7 +312,6 @@ Nenurodyta
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
-- [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
 - [[objektai/daiktai/Patrankos]]

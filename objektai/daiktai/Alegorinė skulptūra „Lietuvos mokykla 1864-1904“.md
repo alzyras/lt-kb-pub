@@ -54,13 +54,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-45467"></a>
-- t-003
-  global_id: t-45467
-  teiginys: 'Rusų kalba Rusijos imperijos priespaudos laikų švietimą lietuvių kalba vaizduojanti alegorinė skulptūra „Lietuvos mokykla 1864–1904“.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,6 +76,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusų kalba

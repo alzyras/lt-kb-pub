@@ -58,7 +58,7 @@ amziai:
 <a id="claim-t-176119"></a>
 - t-004
   global_id: t-176119
-  teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
+  teiginys: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.'
   pagrindžia:
     - c-038
 
@@ -80,7 +80,7 @@ amziai:
 <a id="claim-t-176122"></a>
 - t-007
   global_id: t-176122
-  teiginys: 'Kai Kęstutis su Vytautu, pasitelkę seną Liubartą, su savo kariuomene VIII.3 d. atvyko prie Trakų, Jogailos pusėje jau buvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių teriojimo^18.'
+  teiginys: '1381 m. rugpjūčio 3 d. Kęstučiui, Vytautui ir Liubartui atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
   pagrindžia:
     - c-008
 
@@ -108,14 +108,14 @@ amziai:
 <a id="claim-t-176126"></a>
 - t-011
   global_id: t-176126
-  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  teiginys: 'Žemaičiai atlaikė 1236 m. Saulės mūšį, o 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   pagrindžia:
     - c-021
 
 <a id="claim-t-176127"></a>
 - t-012
   global_id: t-176127
-  teiginys: 'Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kuršmarių pakrantėmis, gyveno žemaičiai.'
+  teiginys: 'Žemaičiai gyveno dabartinėje savo vietoje, Klaipėdos krašte ir Kuršių marių pakrantėse.'
   pagrindžia:
     - c-042
 
@@ -136,7 +136,7 @@ amziai:
 <a id="claim-t-176131"></a>
 - t-015
   global_id: t-176131
-  teiginys: '1384 m. pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė ordinui paklusnumą.'
+  teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.'
   pagrindžia:
     - c-044
 
@@ -150,7 +150,7 @@ amziai:
 <a id="claim-t-176133"></a>
 - t-017
   global_id: t-176133
-  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  teiginys: 'Manoma, kad Lietuvos valdovai žemaičių gyvenamose valstybės pakraščių teritorijose įkurdino ištikimus žmones iš Lietuvos.'
   pagrindžia:
     - c-025
 
@@ -215,14 +215,14 @@ amziai:
 <a id="claim-t-176145"></a>
 - t-026
   global_id: t-176145
-  teiginys: 'Dusburgietis teigia, kad 1416 m. žemaičių delegacija Konstancos bažnytiniame susirinkime pareiškė, jog jie, s.'
+  teiginys: '1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.'
   pagrindžia:
     - c-022
 
 <a id="claim-t-176146"></a>
 - t-027
   global_id: t-176146
-  teiginys: 'Po Racionžo taikos Vytautas dėjosi laikąsis taikos sąlygų ir padėjo Ordinui pavergti nepasiduodančius žemaičius.'
+  teiginys: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis sąlygų ir padėjo Ordinui pavergti nepasiduodančius žemaičius.'
   pagrindžia:
     - c-001
 
@@ -239,13 +239,6 @@ amziai:
   teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.'
   pagrindžia:
     - c-016
-
-<a id="claim-t-176149"></a>
-- t-030
-  global_id: t-176149
-  teiginys: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.'
-  pagrindžia:
-    - c-036
 
 <a id="claim-t-176150"></a>
 - t-031
@@ -264,7 +257,7 @@ amziai:
 <a id="claim-t-176152"></a>
 - t-033
   global_id: t-176152
-  teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  teiginys: 'Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   pagrindžia:
     - c-017
 
@@ -278,14 +271,14 @@ amziai:
 <a id="claim-t-176154"></a>
 - t-035
   global_id: t-176154
-  teiginys: 'Vytautas pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti druskos, javų bei geležies.'
+  teiginys: 'Vytautas pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti į jį druskos, javų bei geležies.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-176155"></a>
 - t-036
   global_id: t-176155
-  teiginys: 'Pagal Eiliuotinę Livonijos kroniką, Žemaičiai po šito laimėjimo esą siuntę savo pasiuntinius pas Mindaugą ir esą prašę žymųjį karo vadą, kunigą Treniotą, kad tas jų vardu įtikintų Mindaugą vėl grįžti pagonybėn.^178.'
+  teiginys: 'Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.'
   pagrindžia:
     - c-043
 
@@ -299,7 +292,7 @@ amziai:
 <a id="claim-t-176157"></a>
 - t-038
   global_id: t-176157
-  teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
+  teiginys: 'Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.'
   pagrindžia:
     - c-036
 
@@ -313,7 +306,7 @@ amziai:
 <a id="claim-t-176159"></a>
 - t-040
   global_id: t-176159
-  teiginys: '1390 m. trisdešimt žemaičių atstovų pasižadėjo laikytis savo karaliaus Vytauto ir su ordinu sudarė karo bei prekybos sutartį.'
+  teiginys: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
   pagrindžia:
     - c-018
     - c-035
@@ -335,7 +328,7 @@ amziai:
 <a id="claim-t-176162"></a>
 - t-043
   global_id: t-176162
-  teiginys: 'Taip, žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
+  teiginys: 'Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
   pagrindžia:
     - c-023
 
@@ -349,7 +342,7 @@ amziai:
 <a id="claim-t-176164"></a>
 - t-045
   global_id: t-176164
-  teiginys: 'O žemaičiai Lietuvą vadina Auxtote, tai yra aukštesnė žemė palyginus su Žemaitija.'
+  teiginys: 'Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.'
   pagrindžia:
     - c-015
 
@@ -384,7 +377,7 @@ amziai:
 <a id="claim-t-183907"></a>
 - t-052
   global_id: t-183907
-  teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  teiginys: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.'
   pagrindžia:
     - c-047
 
@@ -440,6 +433,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis sąlygų ir padėjo Ordinui pavergti nepasiduodančius žemaičius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Žemaičių sukilimas 1409 m.** Po Racionžo taikos Vytautas
@@ -726,6 +720,7 @@ amziai:
     - t-029
 
 - c-017
+  santrauka: 'Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
@@ -742,6 +737,7 @@ amziai:
     - t-033
 
 - c-018
+  santrauka: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinas atsiuntė savo komtūrą
@@ -789,6 +785,7 @@ amziai:
     - t-048
 
 - c-021
+  santrauka: 'Žemaičiai atlaikė 1236 m. Saulės mūšį, o 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
@@ -806,6 +803,7 @@ amziai:
     - t-011
 
 - c-022
+  santrauka: '1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1416 m. žemaičių delegacija Konstancos bažnytiniame susirinkime pareiškė, jog jie,
@@ -831,6 +829,7 @@ amziai:
     - t-026
 
 - c-023
+  santrauka: 'Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pastarieji
@@ -878,6 +877,7 @@ amziai:
     - t-008
 
 - c-025
+  santrauka: 'Manoma, kad Lietuvos valdovai žemaičių gyvenamose valstybės pakraščių teritorijose įkurdino ištikimus žmones iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
@@ -1130,6 +1130,7 @@ amziai:
     - t-044
 
 - c-035
+  santrauka: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žemaičiai jam
@@ -1197,6 +1198,7 @@ amziai:
     - t-032
 
 - c-038
+  santrauka: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Dobės (šiaurėje),
@@ -1264,6 +1266,7 @@ amziai:
     - t-019
 
 - c-042
+  santrauka: 'Žemaičiai gyveno dabartinėje savo vietoje, Klaipėdos krašte ir Kuršių marių pakrantėse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvių kiltys,** iš kurių yra susiformavusi lietuvių tauta,
@@ -1281,6 +1284,7 @@ amziai:
     - t-012
 
 - c-043
+  santrauka: 'Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gal tai
@@ -1298,6 +1302,7 @@ amziai:
     - t-036
 
 - c-044
+  santrauka: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ir
@@ -1345,7 +1350,7 @@ amziai:
     - t-051
 
 - c-047
-  santrauka: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  santrauka: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio krivis
@@ -1679,6 +1684,7 @@ amziai:
 - [[objektai/asmenys/Germantas]]
 - [[objektai/asmenys/Kukovaitis]]
 - [[objektai/asmenys/Linkas]]
+- [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Skirmantas]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/asmenys/Zenonas]]

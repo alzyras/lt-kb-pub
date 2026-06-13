@@ -29,7 +29,7 @@ periodo_grupes:
 <a id="claim-t-179498"></a>
 - t-001
   global_id: t-179498
-  teiginys: 'Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t.'
+  teiginys: 'R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“.'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,3 @@ periodo_grupes:
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

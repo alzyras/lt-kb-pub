@@ -27,13 +27,14 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 <a id="claim-t-91954"></a>
 - t-001
   global_id: t-91954
-  teiginys: 'Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.'
+  teiginys: 'Manoma, kad Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Manoma, kad Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     54—83,— pastarajame darbe iškelta hipotezė, kad pietinio
@@ -49,3 +50,4 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/rutėnai Rutheni]]
+- [[objektai/grupes/Venedai]]

@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-35831"></a>
 - t-001
   global_id: t-35831
-  teiginys: '1386 m. vasario 15 d. Krokuvoje įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas.'
+  teiginys: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vasa­

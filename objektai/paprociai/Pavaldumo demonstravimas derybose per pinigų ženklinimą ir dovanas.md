@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-183694"></a>
 - t-002
   global_id: t-183694
-  teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  teiginys: 'Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo - Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  santrauka: 'Prieš mūšį Vytautas iš Timūr-Kutluko tarsi reikalavo pavaldumo - Ordos pinigus žymėti Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių pajėgos

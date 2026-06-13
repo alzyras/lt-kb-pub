@@ -20,13 +20,14 @@ Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rū
 <a id="claim-t-86249"></a>
 - t-001
   global_id: t-86249
-  teiginys: 'Pagaliau šie miškai, kaip ir tie, kur per keliolika mylių nusidriekę nuo Rūdninkų link Nemuno: Varėnos, Valkininkų, Merkinės ir kiti, - priklauso amžinosioms girioms, siekiančioms pačią žmonių atsiradimo žemės rutulyje pradžią.'
+  teiginys: 'Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viena iš girių, esanti prie

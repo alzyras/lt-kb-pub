@@ -52,7 +52,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175189"></a>
 - t-004
   global_id: t-175189
-  teiginys: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
+  teiginys: 'Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.'
   pagrindžia:
     - c-004
 
@@ -67,14 +67,14 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175191"></a>
 - t-006
   global_id: t-175191
-  teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke.'
+  teiginys: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-175192"></a>
 - t-007
   global_id: t-175192
-  teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
+  teiginys: 'Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.'
   pagrindžia:
     - c-008
 
@@ -95,7 +95,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175195"></a>
 - t-010
   global_id: t-175195
-  teiginys: 'Dusburgietis teigia, kad apie prūsų, mokančių vokiečių kalbą, niekšiškumą Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai, netikėlių kariuomenei traukiant brolių.'
+  teiginys: 'Herkus Mantas vokiškai išviliodavo besislapstančius krikščionis iš slėptuvių, o tada su saviškiais juos suimdavo arba nužudydavo.'
   pagrindžia:
     - c-010
 
@@ -109,7 +109,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175197"></a>
 - t-012
   global_id: t-175197
-  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus pilies užpuolimą Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį.'
+  teiginys: 'Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį.'
   pagrindžia:
     - c-012
 
@@ -130,7 +130,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175200"></a>
 - t-015
   global_id: t-175200
-  teiginys: 'Tais pačiais metais Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daugybę žmonių ir išsigabeno daug turto.'
+  teiginys: 'Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daug žmonių, prisigrobė turto ir sudegino pastatus už įtvirtinimų.'
   pagrindžia:
     - c-002
 
@@ -277,6 +277,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-017
 
 - c-008
+  santrauka: 'Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
@@ -294,6 +295,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-007
 
 - c-009
+  santrauka: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai Didžiojo prūsų sukilimo
@@ -311,6 +313,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-006
 
 - c-010
+  santrauka: 'Herkus Mantas vokiškai išviliodavo besislapstančius krikščionis iš slėptuvių, o tada su saviškiais juos suimdavo arba nužudydavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie prūsų, mokančių vokiečių kalbą, niekšiškumą
@@ -400,5 +403,6 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/asmenys/Hirtshalsas]]
 - [[objektai/asmenys/Mantas]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]

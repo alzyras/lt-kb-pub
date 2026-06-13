@@ -28,14 +28,14 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 <a id="claim-t-60950"></a>
 - t-001
   global_id: t-60950
-  teiginys: 'Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch ir Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių vardai: Lettouwe, Preroch, Corant.'
+  teiginys: 'Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60951"></a>
 - t-002
   global_id: t-60951
-  teiginys: 'Dusburgietis teigia, kad vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).'
+  teiginys: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
   pagrindžia:
     - c-003
 
@@ -62,6 +62,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - t-003
 
 - c-002
+  santrauka: 'Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Didžiųjų
@@ -77,6 +78,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     - t-001
 
 - c-003
+  santrauka: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko

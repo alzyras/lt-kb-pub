@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-54362"></a>
 - t-001
   global_id: t-54362
-  teiginys: 'Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikų grupė parašė ir išleido plačios apimties Lietuvos istoriją.'
+  teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.'
   pagrindžia:
     - c-003
 
@@ -61,14 +61,7 @@ Nenurodyta
 <a id="claim-t-54364"></a>
 - t-003
   global_id: t-54364
-  teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-54365"></a>
-- t-004
-  global_id: t-54365
-  teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos užsienio reikalų ministerija inicijavo ir parengė specialų Lietuvos skyrių.'
+  teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.'
   pagrindžia:
     - c-002
 
@@ -99,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
@@ -144,6 +138,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]

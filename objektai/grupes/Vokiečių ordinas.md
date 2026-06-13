@@ -55,21 +55,21 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 <a id="claim-t-182839"></a>
 - t-004
   global_id: t-182839
-  teiginys: 'Grabovo suvažiavime Vytautas pareikalavo, kad Vokiečių ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.'
+  teiginys: 'Grabovo suvažiavime Vytautas pareikalavo, kad Ordinas atlygintų už paimtas prekes ir nužudytų pirklių šeimoms.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183198"></a>
 - t-005
   global_id: t-183198
-  teiginys: 'Tai padaryti trukdė Vokiečių ordinas.'
+  teiginys: 'Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-183199"></a>
 - t-006
   global_id: t-183199
-  teiginys: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis liko Žemaitija.'
+  teiginys: 'Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija.'
   pagrindžia:
     - c-005
 
@@ -140,7 +140,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - t-003
 
 - c-004
-  santrauka: 'Tai padaryti trukdė Vokiečių ordinas.'
+  santrauka: 'Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
@@ -157,7 +157,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     - t-005
 
 - c-005
-  santrauka: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis liko Žemaitija.'
+  santrauka: 'Net po Žalgirio mūšio pagrindinė Vytauto konflikto su Vokiečių ordinu priežastis buvo Žemaitija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau vėliau

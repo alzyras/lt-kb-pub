@@ -22,14 +22,14 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 <a id="claim-t-70093"></a>
 - t-001
   global_id: t-70093
-  teiginys: 'Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos.'
+  teiginys: 'Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-70094"></a>
 - t-002
   global_id: t-70094
-  teiginys: 'Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos.'
+  teiginys: 'Pirmojo pasaulinio karo metais Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija nežadėjo Lietuvai autonomijos.'
   pagrindžia:
     - c-003
 
@@ -43,13 +43,14 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 <a id="claim-t-70096"></a>
 - t-004
   global_id: t-70096
-  teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie momentai
@@ -66,6 +67,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-001
 
 - c-002
+  santrauka: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi šalys sutarė priimti tą planą kaip „bazę
@@ -80,6 +82,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-004
 
 - c-003
+  santrauka: 'Pirmojo pasaulinio karo metais Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija nežadėjo Lietuvai autonomijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
@@ -132,4 +135,5 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/kantonas kantoninis principas]]

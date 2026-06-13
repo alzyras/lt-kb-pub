@@ -20,13 +20,14 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 <a id="claim-t-01482"></a>
 - t-001
   global_id: t-01482
-  teiginys: 'Slucko kunigaikščiai ilgiausiai išsilaikė savo srityje, bet XVI a. pabaigoje išmirė, o jų žemės atiteko Radviloms.'
+  teiginys: 'Slucko kunigaikščiai ilgiausiai išsilaikė savo srityje, bet XVI a. pabaigoje išmirė, o jų žemės su paskutine giminės dukterimi atiteko Radviloms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Slucko kunigaikščiai ilgiausiai išsilaikė savo srityje, bet XVI a. pabaigoje išmirė, o jų žemės su paskutine giminės dukterimi atiteko Radviloms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prie šito ponų sluoksnio prisi-

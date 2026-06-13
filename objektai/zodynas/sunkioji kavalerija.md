@@ -20,13 +20,14 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 <a id="claim-t-42513"></a>
 - t-001
   global_id: t-42513
-  teiginys: 'Tautinio autoramento sunkioji kavalerija buvo formuojama iš husarų.'
+  teiginys: 'Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     | XVII a. antrojoje pusėje tiek Lietuvos, tiek ir Lenkijos karinės pa-

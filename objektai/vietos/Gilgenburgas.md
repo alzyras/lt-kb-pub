@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-184387"></a>
 - t-002
   global_id: t-184387
-  teiginys: '13) atvedęs savo pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę Gilgenburgą, žygiavo Tannenbergo kryptimi.'
+  teiginys: 'Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link.'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: '13) atvedęs savo pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę Gilgenburgą, žygiavo Tannenbergo kryptimi.'
+  santrauka: 'Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis

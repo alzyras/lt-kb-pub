@@ -80,7 +80,7 @@ Nenurodyta
 <a id="claim-t-45454"></a>
 - t-005
   global_id: t-45454
-  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  teiginys: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   pagrindžia:
     - c-005
 
@@ -101,7 +101,7 @@ Nenurodyta
 <a id="claim-t-183284"></a>
 - t-008
   global_id: t-183284
-  teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
+  teiginys: 'Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.'
   pagrindžia:
     - c-006
 
@@ -212,7 +212,7 @@ Nenurodyta
     - t-004
 
 - c-006
-  santrauka: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
+  santrauka: 'Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-

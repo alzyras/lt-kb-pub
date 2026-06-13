@@ -22,7 +22,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 <a id="claim-t-70366"></a>
 - t-001
   global_id: t-70366
-  teiginys: 'Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams.'
+  teiginys: 'Vytautas savo tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-003
 
 - c-003
+  santrauka: 'Vytautas savo tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
@@ -156,6 +157,5 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]

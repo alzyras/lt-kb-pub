@@ -108,5 +108,4 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/asmenys/Zbignievo Olesnickio]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]

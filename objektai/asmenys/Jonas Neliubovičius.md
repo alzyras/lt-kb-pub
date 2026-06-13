@@ -27,13 +27,14 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 <a id="claim-t-87728"></a>
 - t-001
   global_id: t-87728
-  teiginys: 'Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.'
+  teiginys: '1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių

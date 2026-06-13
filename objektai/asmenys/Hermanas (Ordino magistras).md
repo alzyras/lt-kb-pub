@@ -32,20 +32,21 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 <a id="claim-t-60029"></a>
 - t-001
   global_id: t-60029
-  teiginys: 'Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir.'
+  teiginys: 'Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60030"></a>
 - t-002
   global_id: t-60030
-  teiginys: 'Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra senoji pilis223.'
+  teiginys: 'Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir
@@ -60,6 +61,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
     - t-002
 
 - c-002
+  santrauka: 'Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae

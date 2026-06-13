@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-66804"></a>
 - t-002
   global_id: t-66804
-  teiginys: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
+  teiginys: 'Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,

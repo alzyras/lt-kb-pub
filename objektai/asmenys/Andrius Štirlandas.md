@@ -36,7 +36,7 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 <a id="claim-t-183522"></a>
 - t-003
   global_id: t-183522
-  teiginys: 'Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popiežiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.'
+  teiginys: 'Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas.'
   pagrindžia:
     - c-003
 
@@ -73,7 +73,7 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
     - t-001
 
 - c-003
-  santrauka: 'Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popiežiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.'
+  santrauka: 'Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-

@@ -31,13 +31,14 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
 <a id="claim-t-58924"></a>
 - t-001
   global_id: t-58924
-  teiginys: 'Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas ar kitas jo giminaitis negrąžinsiąs minėtojo lauko.'
+  teiginys: 'Pasakojime mirusiajam amžinoji bausmė pakeista laikinomis kančiomis skaistykloje, kol giminaitis grąžins neteisėtai pasisavintą lauką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojime mirusiajam amžinoji bausmė pakeista laikinomis kančiomis skaistykloje, kol giminaitis grąžins neteisėtai pasisavintą lauką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas atsakė buvęs vienus metus maldininku Prūsijos žemėje, o grįždamas miręs ir čia

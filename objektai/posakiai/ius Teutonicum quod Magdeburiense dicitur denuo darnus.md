@@ -28,13 +28,14 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
 <a id="claim-t-86859"></a>
 - t-001
   global_id: t-86859
-  teiginys: 'Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos didžiųjų kunigaikščių mecum quod Magdeburiense dicitur denuo džioklės namus Rūdninkuose.'
+  teiginys: '1441 m. Kazimiero privilegijoje Vilniui iš naujo suteikta teutoniškoji, Magdeburgo vardu vadinama teisė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1441 m. Kazimiero privilegijoje Vilniui iš naujo suteikta teutoniškoji, Magdeburgo vardu vadinama teisė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­

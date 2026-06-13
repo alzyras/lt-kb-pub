@@ -37,7 +37,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 <a id="claim-t-72079"></a>
 - t-002
   global_id: t-72079
-  teiginys: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
+  teiginys: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 <a id="claim-t-72082"></a>
 - t-005
   global_id: t-72082
-  teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  teiginys: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-005
 
@@ -86,6 +86,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - t-001
 
 - c-002
+  santrauka: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors
@@ -159,6 +160,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - t-003
 
 - c-005
+  santrauka: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.

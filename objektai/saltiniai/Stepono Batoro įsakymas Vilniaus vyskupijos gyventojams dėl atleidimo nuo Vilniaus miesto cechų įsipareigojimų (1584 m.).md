@@ -26,47 +26,16 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
 
 ## Teiginiai
 
-<a id="claim-t-173008"></a>
-- t-001
-  global_id: t-173008
-  teiginys: 'Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-173010"></a>
-- t-002
+- t-001
   global_id: t-173010
   teiginys: '1584 m. Gardine duotas Stepono Batoro raštas buvo patvirtintas karaliaus antspaudu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis,
-    savo ranka.
-
-    ## Puslapis 450
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIAUS STEPONO BATORO ĮSAKYMU
-    VILNIAUS VYSKUPIJOS GYVENTOJAMS
-    SUTEIKIAMAS ATLEIDIMAS NUO
-    VILNIAUS MIESTO CECHŲ ĮSIPAREIGOJIMŲ
-    1584 METAI
-    (Iš Vilniaus kapitulos archyvo)
-    S tepk anus DEI gratia Rex Pol oniae, Magnus Dux Litua-
-    niae, Russiae, Prussiae, Masoviae, Samogitiae, Livoniaeque
-    etc. Princeps Transylvanie.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: '1584 m. Gardine duotas Stepono Batoro raštas buvo patvirtintas karaliaus antspaudu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -88,4 +57,4 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

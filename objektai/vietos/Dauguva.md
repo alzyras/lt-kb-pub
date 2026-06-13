@@ -52,14 +52,14 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 <a id="claim-t-182754"></a>
 - t-004
   global_id: t-182754
-  teiginys: 'Lietuvos vyriausybė negalėjo užkirsti jai kelio, nes tuo metu Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
+  teiginys: 'Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-182756"></a>
 - t-005
   global_id: t-182756
-  teiginys: 'Sparno uždavinys - apeiti priešininko dešinįjį sparną, nustumti jį nuo Dauguvos kranto ir bendromis jėgomis su visa Lietuvos kariuomene nublokšti švedus į šiaurėje esantį pelkėtą mišką ir ten juos sunaikinti.'
+  teiginys: 'Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.'
   pagrindžia:
     - c-003
 
@@ -73,14 +73,14 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 <a id="claim-t-184385"></a>
 - t-007
   global_id: t-184385
-  teiginys: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
+  teiginys: 'Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
+  santrauka: 'Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė
@@ -94,6 +94,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - t-007
 
 - c-002
+  santrauka: 'Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus
@@ -110,6 +111,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - t-004
 
 - c-003
+  santrauka: 'Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šio sparno jėga - reitarų

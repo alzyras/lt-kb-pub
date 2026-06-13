@@ -19,13 +19,14 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 <a id="claim-t-40500"></a>
 - t-001
   global_id: t-40500
-  teiginys: 'Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komiteto“ lyderių komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
+  teiginys: 'Valerijus Ivanovas vadovavo organizacijai „Jedinstvo“, minimai tarp apie 400 „raudonraiščių“ vadovų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valerijus Ivanovas vadovavo organizacijai „Jedinstvo“, minimai tarp apie 400 „raudonraiščių“ vadovų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į okupantų pusę. Apie 400 „raudonraiš-

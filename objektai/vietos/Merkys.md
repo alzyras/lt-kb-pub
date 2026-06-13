@@ -59,7 +59,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 <a id="claim-t-111948"></a>
 - t-005
   global_id: t-111948
-  teiginys: 'Pastatyti iš medžio ant aukšto mūrinio cokolio, stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios Merkio upės srovės.'
+  teiginys: 'Medžioklės rūmai prie Merkio buvo pastatyti iš medžio ant aukšto mūrinio cokolio ir stovėjo ant mažos kalvelės.'
   pagrindžia:
     - c-004
 
@@ -125,6 +125,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - t-001
 
 - c-004
+  santrauka: 'Medžioklės rūmai prie Merkio buvo pastatyti iš medžio ant aukšto mūrinio cokolio ir stovėjo ant mažos kalvelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia

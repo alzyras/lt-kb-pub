@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-77927"></a>
 - t-001
   global_id: t-77927
-  teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  teiginys: '1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1922 m. Lietuvos Valstybės Konstitucijoje herbu liko baltas Vytis raudoname fone.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-

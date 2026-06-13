@@ -19,7 +19,7 @@ tags:
 <a id="claim-t-40890"></a>
 - t-001
   global_id: t-40890
-  teiginys: 'II brigada įsitraukė į operaciją ir Šiaurės Rytų Lietuvoje stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
+  teiginys: 'II brigada Šiaurės Rytų Lietuvoje stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'II brigada Šiaurės Rytų Lietuvoje stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 brigadai užėmus Zarasus,

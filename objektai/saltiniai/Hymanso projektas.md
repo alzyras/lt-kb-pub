@@ -29,7 +29,7 @@ tags:
 <a id="claim-t-67406"></a>
 - t-002
   global_id: t-67406
-  teiginys: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
+  teiginys: '1921 m. rugsėjo 3 d. Hymansas pateikė ne diskusijų bazę, bet Lietuvos ir Lenkijos susitarimo projektą.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1921 m. rugsėjo 3 d. Hymansas pateikė ne diskusijų bazę, bet Lietuvos ir Lenkijos susitarimo projektą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos vyriausybė sutiko tęsti derybas, bet tiktai sugrą-

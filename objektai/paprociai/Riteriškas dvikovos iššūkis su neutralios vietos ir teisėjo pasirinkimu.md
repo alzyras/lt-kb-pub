@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-87220"></a>
 - t-001
   global_id: t-87220
-  teiginys: 'Tos niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti narsą, nustatytas jų skaičius tepasirenka tam vietą.'
+  teiginys: 'Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.'
   pagrindžia:
     - c-001
 

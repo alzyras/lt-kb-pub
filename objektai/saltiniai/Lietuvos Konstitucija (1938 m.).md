@@ -37,7 +37,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
 <a id="claim-t-45703"></a>
 - t-002
   global_id: t-45703
-  teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  teiginys: 'Atkuriant valstybę siekta nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti 1938 m. Konstituciją.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     - t-001
 
 - c-003
+  santrauka: 'Atkuriant valstybę siekta nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti 1938 m. Konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikė-

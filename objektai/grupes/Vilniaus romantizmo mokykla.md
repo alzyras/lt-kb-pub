@@ -26,13 +26,6 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 <a id="claim-t-75020"></a>
 - t-001
   global_id: t-75020
-  teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75021"></a>
-- t-002
-  global_id: t-75021
   teiginys: 'Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.'
   pagrindžia:
     - c-001

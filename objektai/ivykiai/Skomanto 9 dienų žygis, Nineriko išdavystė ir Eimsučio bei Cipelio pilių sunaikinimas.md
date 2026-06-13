@@ -45,20 +45,21 @@ Nenurodyta
 <a id="claim-t-66896"></a>
 - t-001
   global_id: t-66896
-  teiginys: 'Dusburgietis teigia, kad 445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko žemių, pavaldžių Lietuvai.'
+  teiginys: 'Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66897"></a>
 - t-002
   global_id: t-66897
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
+  teiginys: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skomantas, matydamas, jog apsigavo, pasuko
@@ -84,6 +85,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,

@@ -30,7 +30,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 <a id="claim-t-63616"></a>
 - t-001
   global_id: t-63616
-  teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
+  teiginys: 'Meiseno markgrafas Henrikas atvyko į Prūsijos žemę su penkiais šimtais kilmingų kovai pasirengusių vyrų ir dideliais turtais.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,13 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-184076"></a>
+- t-003
+  global_id: t-184076
+  teiginys: 'Meiseno markgrafas Henrikas ryžosi naikinti netikėlius ir plėsti krikščionių žemes.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -95,4 +102,5 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Henrikas]]
 - [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]

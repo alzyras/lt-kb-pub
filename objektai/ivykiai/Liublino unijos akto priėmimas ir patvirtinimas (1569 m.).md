@@ -48,14 +48,14 @@ Nenurodyta
 <a id="claim-t-49168"></a>
 - t-001
   global_id: t-49168
-  teiginys: 'Sudarius Liublino uniją, aplinkybės kurį laiką neleido imtis rimtų karo veiksmų.'
+  teiginys: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-49169"></a>
 - t-002
   global_id: t-49169
-  teiginys: 'Šios aplinkybės pastūmėjo LDK gana nepalankiomis sąlygomis 1569 m. sudaryti su Lenkija Liublino uniją, tikintis karinės pagalbos, kuri leistų pasiekti persilaužimą kare su Maskva ir likviduoti egezistencinį pavojų Lietuvai.'
+  teiginys: '1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva.'
   pagrindžia:
     - c-001
 
@@ -89,6 +89,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sudarius Liublino uniją, aplinkybės kurį

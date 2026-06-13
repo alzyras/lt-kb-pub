@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-62387"></a>
 - t-001
   global_id: t-62387
-  teiginys: 'Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594.'
+  teiginys: 'Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.'
   pagrindžia:
     - c-001
 
@@ -72,3 +72,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Ditrichas iš Altenburgo]]

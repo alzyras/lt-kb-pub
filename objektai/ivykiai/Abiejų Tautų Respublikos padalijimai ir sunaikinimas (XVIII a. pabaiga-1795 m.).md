@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-75090"></a>
 - t-002
   global_id: t-75090
-  teiginys: 'Susikuria jungtinė Lenkijos ir Lietuvos Valstybė – Abiejų Tautų Respublika.'
+  teiginys: '1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.'
   pagrindžia:
     - c-002
 
@@ -85,6 +85,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susikuria jungtinė Lenkijos ir Lietuvos Valstybė –

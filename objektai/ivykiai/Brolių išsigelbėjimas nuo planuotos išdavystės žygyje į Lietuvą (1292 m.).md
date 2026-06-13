@@ -42,22 +42,22 @@ Nenurodyta
 <a id="claim-t-62758"></a>
 - t-001
   global_id: t-62758
-  teiginys: 'Dusburgietis teigia, kad brolis Henrikas visa tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus, kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė.'
+  teiginys: 'Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą.'
   pagrindžia:
-    - c-004
     - c-002
+    - c-004
 
 <a id="claim-t-62759"></a>
 - t-002
   global_id: t-62759
-  teiginys: 'Dusburgietis teigia, kad kai paprasti žmonės išvydo, jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas, nedrįso nieko bloga broliams daryti, ir šitaip broliai iš.'
+  teiginys: 'Magistrui paskyrus brolius saugoti svarbiausius sąmokslininkus, klastininkai išsigando ir broliai sveiki grįžo namo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-62760"></a>
 - t-003
   global_id: t-62760
-  teiginys: 'Dusburgietis teigia, kad 1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų.'
+  teiginys: '1292 m. magistras sutelkė didelę brolių ir kitų ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų.'
   pagrindžia:
     - c-001
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis  į tai
@@ -98,6 +99,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Magistrui paskyrus brolius saugoti svarbiausius sąmokslininkus, klastininkai išsigando ir broliai sveiki grįžo namo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl magistras įsakė
@@ -117,6 +119,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Henrikas visa

@@ -116,5 +116,5 @@ atnaujinta: ''
 - [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/bajoriškosios lengvatos]]
-- [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]
 - [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]
+- [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]

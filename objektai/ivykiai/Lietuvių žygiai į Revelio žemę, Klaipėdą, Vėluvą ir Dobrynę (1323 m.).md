@@ -50,21 +50,21 @@ Nenurodyta
 <a id="claim-t-59554"></a>
 - t-001
   global_id: t-59554
-  teiginys: 'M. Tepenas manė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. dokumentu apie lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę.'
+  teiginys: 'M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59555"></a>
 - t-002
   global_id: t-59555
-  teiginys: 'Dusburgietis teigia, kad liabuda atmetė nuomonę, kad pasakojimai apie lietuvių niokojamus žygius 1323 m. ir Gedimino krikštą bei taiką esą paremti dokumentais.'
+  teiginys: 'G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'M. Tepenas manė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. dokumentu apie lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę.'
+  santrauka: 'M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
@@ -83,6 +83,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau G. Liabuda atmetė nuomonę, kad pasakojimai apie lietuvių niokojamus žygius

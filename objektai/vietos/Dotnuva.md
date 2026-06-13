@@ -26,7 +26,7 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 <a id="claim-t-76242"></a>
 - t-002
   global_id: t-76242
-  teiginys: 'Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios specialistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mokykla ir konservatorija ugdė menininkus, gavę valstybės.'
+  teiginys: 'Žemės ūkio akademija Dotnuvoje papildė Kauno Vytauto Didžiojo universiteto veiklą ir rengė specialistus žemės ūkiui.'
   pagrindžia:
     - c-001
 

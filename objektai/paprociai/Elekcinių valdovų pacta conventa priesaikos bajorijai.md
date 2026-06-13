@@ -3,10 +3,6 @@ tipas: paprotys
 pavadinimas: 'Elekcinių valdovų pacta conventa priesaikos bajorijai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1573 m.'
-date_start: '1573'
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,8 +10,6 @@ tags:
   - paprotys
   - seimas
   - valdovas
-amziai:
-  - 'XVI'
 ---
 # Elekcinių valdovų pacta conventa priesaikos bajorijai
 
@@ -52,13 +46,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-183309"></a>
-- t-002
-  global_id: t-183309
-  teiginys: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,11 +63,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pacta conventa]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/bajorija]]

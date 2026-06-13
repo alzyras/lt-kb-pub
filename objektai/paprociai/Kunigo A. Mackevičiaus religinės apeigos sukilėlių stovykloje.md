@@ -55,16 +55,9 @@ Nenurodyta
 <a id="claim-t-41430"></a>
 - t-002
   global_id: t-41430
-  teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-41431"></a>
-- t-003
-  global_id: t-41431
   teiginys: 'Kunigas A. Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -87,6 +80,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Kunigas A. Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Joje vykdė naujokų ap-

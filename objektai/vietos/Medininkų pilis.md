@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-109759"></a>
 - t-002
   global_id: t-109759
-  teiginys: 'Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta.'
+  teiginys: 'Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais.'
   pagrindžia:
     - c-001
 
@@ -90,6 +90,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Berods, Vytauto laikais buvo dar

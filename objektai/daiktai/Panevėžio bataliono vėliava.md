@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-80694"></a>
 - t-001
   global_id: t-80694
-  teiginys: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
+  teiginys: 'Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     BE Bolševikų gynybinės pozicijos
@@ -85,5 +86,5 @@ Nenurodyta
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Panevėžio batalionas]]
 - [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
+- [[objektai/grupes/Panevėžio batalionas]]

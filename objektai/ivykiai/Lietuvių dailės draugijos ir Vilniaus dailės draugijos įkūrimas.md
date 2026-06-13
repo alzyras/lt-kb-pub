@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-183236"></a>
 - t-002
   global_id: t-183236
-  teiginys: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
+  teiginys: 'Dailės, vaizduojamojo meno ir architektūros srityje draugijų paralelizmas pasireiškė Lietuvių dailės draugijos ir Vilniaus dailės draugijos veikla.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
+  santrauka: 'Dailės, vaizduojamojo meno ir architektūros srityje draugijų paralelizmas pasireiškė Lietuvių dailės draugijos ir Vilniaus dailės draugijos veikla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Beje, abi jos buvo

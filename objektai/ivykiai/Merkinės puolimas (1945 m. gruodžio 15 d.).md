@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-66775"></a>
 - t-001
   global_id: t-66775
-  teiginys: 'Merkinės puolimą Adolfas Ramanauskas-Vanagas nutarė rengti pasitaręs su Juozu Vitkumi-Kazimieraičiu.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.'
   pagrindžia:
     - c-002
 
@@ -58,14 +58,14 @@ Nenurodyta
 <a id="claim-t-66777"></a>
 - t-003
   global_id: t-66777
-  teiginys: 'Paaiškėjo, kad Druskininkų bataliono grupei nepavyko įvykdyti jiems pavestos užduoties ir nutraukti ryšio linijų tarp Merkinės ir Druskininkų, todėl sovietai per Druskininkus susisiekė su Alytumi ir išsikvietė pagalbą.'
+  teiginys: 'Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-66778"></a>
 - t-004
   global_id: t-66778
-  teiginys: 'Vanagas, pasitaręs su A apygardos vadu Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinės miestelį, atkeršijant už kovos draugų žūtį.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę, keršijant už kovos draugų žūtį.'
   pagrindžia:
     - c-002
 
@@ -79,7 +79,7 @@ Nenurodyta
 <a id="claim-t-66780"></a>
 - t-006
   global_id: t-66780
-  teiginys: 'Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto netikėtai užklupti NKVD dalinio, žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas, Tomas Kondrotas-Briedis, Adolfas BilinskasJurginas ir Martynas Navickas-Kardas.'
+  teiginys: '1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo Lionginas Švalkus-Šernas, Tomas Kondrotas-Briedis, Adolfas Bilinskas-Jurginas ir Martynas Navickas-Kardas.'
   pagrindžia:
     - c-001
 
@@ -93,7 +93,7 @@ Nenurodyta
 <a id="claim-t-183675"></a>
 - t-008
   global_id: t-183675
-  teiginys: '1945 metų gruodžio 15 dieną 11 val.'
+  teiginys: '1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.'
   pagrindžia:
     - c-004
 

@@ -21,7 +21,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 <a id="claim-t-60222"></a>
 - t-001
   global_id: t-60222
-  teiginys: 'Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.'
+  teiginys: 'Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
@@ -73,3 +74,4 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
+- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]

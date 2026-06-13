@@ -34,14 +34,14 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 <a id="claim-t-178743"></a>
 - t-001
   global_id: t-178743
-  teiginys: 'Prie Vorsklos, kairiojo Dniepro intako, Vytauto kariuomenė susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  teiginys: 'Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-178744"></a>
 - t-002
   global_id: t-178744
-  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  teiginys: 'Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-003
 
@@ -76,23 +76,16 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 <a id="claim-t-178749"></a>
 - t-007
   global_id: t-178749
-  teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
+  teiginys: 'Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-178750"></a>
 - t-008
   global_id: t-178750
-  teiginys: 'Vytauto didelių užsimojimų žygis buvo pralaimėtas prie Vorsklos.'
+  teiginys: 'Vytauto žygis prie Vorsklos buvo pralaimėtas.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-184325"></a>
-- t-010
-  global_id: t-184325
-  teiginys: 'Vytauto didelių užsimojimų žygis prie Vorsklos buvo pralaimėtas.'
-  pagrindžia:
-    - c-008
 
 <a id="claim-t-185211"></a>
 - t-011
@@ -117,6 +110,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - t-006
 
 - c-002
+  santrauka: 'Vytauto žygis prie Vorsklos buvo pralaimėtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis
@@ -218,6 +212,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - t-009
 
 - c-007
+  santrauka: 'Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Garsiajame
@@ -237,7 +232,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - t-007
 
 - c-008
-  santrauka: 'Vytauto didelių užsimojimų žygis prie Vorsklos buvo pralaimėtas.'
+  santrauka: 'Vytauto žygis prie Vorsklos buvo pralaimėtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip būtų Vytautas pasielgęs su

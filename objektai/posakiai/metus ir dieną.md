@@ -20,13 +20,14 @@ O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žy
 <a id="claim-t-86864"></a>
 - t-001
   global_id: t-86864
-  teiginys: 'O jeigu savo teisėjui užstatą parodytų po metų arba jeigu užstatas pas žydą būtų metus ir dieną, tam laikui praėjus, jau neprivalo prieš nieką dėl to atsakyti.'
+  teiginys: 'Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jeigu užstatas pas žydą išbūdavo metus ir dieną, praėjus tam laikui jis dėl užstato nebeprivalėjo niekam atsakyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     197

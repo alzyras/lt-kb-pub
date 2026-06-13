@@ -43,7 +43,14 @@ Nenurodyta
 <a id="claim-t-62344"></a>
 - t-001
   global_id: t-62344
-  teiginys: 'Dusburgietis teigia, kad apie Kroicburgo pilies sugriovimą Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna, ilgai ir garbingai ten kovoję ir visiškai pristigę.'
+  teiginys: '1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183936"></a>
+- t-002
+  global_id: t-183936
+  teiginys: 'Maisto pristigę Kroicburgo broliai ir jų šeimyna naktį slapta pasitraukė iš pilies, o prūsai juos pasivijo ir išžudė beveik visus.'
   pagrindžia:
     - c-001
 
@@ -74,3 +81,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Vytis]]
+- [[objektai/grupes/Notangai]]

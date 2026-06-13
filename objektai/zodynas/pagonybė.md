@@ -36,7 +36,7 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 <a id="claim-t-101593"></a>
 - t-002
   global_id: t-101593
-  teiginys: 'Lietuvos pagonybės tema sukėlė daug ginčytinų teiginių ir vertinimų dėl šaltinių informacijos skurdumo.'
+  teiginys: 'Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.'
   pagrindžia:
     - c-002
 
@@ -44,13 +44,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - t-003
   global_id: t-101594
   teiginys: 'Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-101596"></a>
-- t-005
-  global_id: t-101596
-  teiginys: 'Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės tema.'
   pagrindžia:
     - c-002
 
@@ -152,7 +145,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/zodynas/Magdeburgo teisės vokiečių teisės normos]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

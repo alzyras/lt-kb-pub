@@ -20,13 +20,14 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
 <a id="claim-t-58853"></a>
 - t-001
   global_id: t-58853
-  teiginys: 'Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapinių bažnyčių164, neskaitant įžadus darančiųjų ir pasauliečių vienuolynų, koplyčių, vienuolių vienuolynų ir griežtos klauzūros moterų vienuolynų.'
+  teiginys: 'Nusiaubus žemę buvo sudeginta 250 parapinių bažnyčių, taip pat vienuolynų, koplyčių ir griežtos klauzūros moterų vienuolynų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nusiaubus žemę buvo sudeginta 250 parapinių bažnyčių, taip pat vienuolynų, koplyčių ir griežtos klauzūros moterų vienuolynų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui,

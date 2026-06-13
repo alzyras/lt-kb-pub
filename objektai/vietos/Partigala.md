@@ -21,14 +21,14 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 <a id="claim-t-58466"></a>
 - t-001
   global_id: t-58466
-  teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
+  teiginys: 'Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58467"></a>
 - t-002
   global_id: t-58467
-  teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
+  teiginys: 'Varmės Gubučiai, sutelkę daug karių, to paties vardo lauke pastatė Partigalos pilį.'
   pagrindžia:
     - c-003
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - t-003
 
 - c-002
+  santrauka: 'Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
@@ -74,6 +75,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     - t-001
 
 - c-003
+  santrauka: 'Varmės Gubučiai, sutelkę daug karių, to paties vardo lauke pastatė Partigalos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą

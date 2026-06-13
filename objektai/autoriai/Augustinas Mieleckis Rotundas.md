@@ -30,7 +30,7 @@ periodo_grupes:
 <a id="claim-t-87998"></a>
 - t-001
   global_id: t-87998
-  teiginys: '„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną.'
+  teiginys: '1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
   pagrindžia:
     - c-002
 
@@ -44,16 +44,9 @@ periodo_grupes:
 <a id="claim-t-88000"></a>
 - t-003
   global_id: t-88000
-  teiginys: 'Joanne Jarczewski, Decano, Benedicto Woina Custode, Simone Brzezio Cantore, Laurentio Vaiski, Tboma Makowiecki, Nicolao Koryzna, Stanislao Górecki, et Marcello Suchodolski, Canonicis Ecclesiae nostrae, nec non eximio Juris utriusque Doctore, Domino Augustino.'
+  teiginys: 'Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-88001"></a>
-- t-004
-  global_id: t-88001
-  teiginys: '„Visa, ką maniau kūsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą,“ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +73,7 @@ periodo_grupes:
     - t-002
 
 - c-002
+  santrauka: '1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
@@ -107,6 +101,7 @@ periodo_grupes:
     - t-001
 
 - c-003
+  santrauka: 'Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Da­
@@ -137,6 +132,7 @@ periodo_grupes:
     - t-003
 
 - c-004
+  santrauka: '1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M* ČK,« J cu>-too JttaUcXctu*. w fUUnie/,
@@ -171,3 +167,5 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/vaitas]]

@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-54310"></a>
 - t-001
   global_id: t-54310
-  teiginys: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
+  teiginys: 'Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.'
   pagrindžia:
     - c-001
 
@@ -67,6 +67,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniuje išėjo pirmasis jo poezijos tomelis, vėliau savo poezija
@@ -103,7 +104,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą, neskatinančią paklusnumo valdžiai.'
+  santrauka: 'Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors jokių sąmokslų šios organizacijos nerezgė, jos kūrė atmosferą,

@@ -48,20 +48,21 @@ Nenurodyta
 <a id="claim-t-87079"></a>
 - t-001
   global_id: t-87079
-  teiginys: '97, ten yra iš Lietuvos Metrikos paimtas karaliaus knygų sąrašas.'
+  teiginys: 'Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-87080"></a>
 - t-002
   global_id: t-87080
-  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
+  teiginys: 'Karalius Žygimantas Senojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalius Žygimantas Senojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suklestėjus prekybai, sukru­
@@ -80,6 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     97,

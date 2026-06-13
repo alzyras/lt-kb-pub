@@ -28,7 +28,7 @@ tags:
 <a id="claim-t-169928"></a>
 - t-002
   global_id: t-169928
-  teiginys: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
+  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ tags:
     - t-004
 
 - c-002
+  santrauka: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien ši Lietuvos Metrikos kalba pavadinama

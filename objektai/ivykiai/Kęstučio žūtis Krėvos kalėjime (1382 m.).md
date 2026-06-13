@@ -38,15 +38,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-92930"></a>
-- t-001
-  global_id: t-92930
-  teiginys: 'Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta ir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir anūkas Butrimas buvę nukankinti su ratu.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-92931"></a>
-- t-002
+- t-001
   global_id: t-92931
   teiginys: 'Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais.'
   pagrindžia:
@@ -71,7 +64,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -82,3 +74,4 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Vydimantas]]
+- [[objektai/daiktai/Ginklai]]

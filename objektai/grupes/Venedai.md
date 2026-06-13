@@ -123,3 +123,4 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 - [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]
+- [[objektai/autoriai/Sakso Gramatiko]]

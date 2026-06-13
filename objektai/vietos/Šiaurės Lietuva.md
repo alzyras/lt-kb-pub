@@ -22,7 +22,7 @@ tags:
 <a id="claim-t-80579"></a>
 - t-001
   global_id: t-80579
-  teiginys: 'Lietuvos kariuomenės pėstininko žieminė kepurė Lietuvos kariuomenės dalinius į rytus, palaipsniui užiminėjo svarbias gelezinkelio stotis ir strategiškai svarbius kelius.'
+  teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.'
   pagrindžia:
     - c-002
 

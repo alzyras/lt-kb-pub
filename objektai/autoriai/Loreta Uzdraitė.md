@@ -57,7 +57,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 <a id="claim-t-78780"></a>
 - t-004
   global_id: t-78780
-  teiginys: '236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras, Dalius Žygelis, Loreta Uzdraitė.'
+  teiginys: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
   pagrindžia:
     - c-008
 
@@ -71,21 +71,21 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 <a id="claim-t-78782"></a>
 - t-006
   global_id: t-78782
-  teiginys: '238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas, Karolis Zikaras, Loreta Uzdraitė.'
+  teiginys: 'Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-78783"></a>
 - t-007
   global_id: t-78783
-  teiginys: ', Romas Batūra, Karolis Zikaras, Loreta Uzdraitė.'
+  teiginys: 'Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78784"></a>
 - t-008
   global_id: t-78784
-  teiginys: '22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra, Karolis Zikaras, Loreta Uzdraitė.'
+  teiginys: 'Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.'
   pagrindžia:
     - c-003
 
@@ -224,6 +224,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
     - t-002
 
 - c-008
+  santrauka: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,

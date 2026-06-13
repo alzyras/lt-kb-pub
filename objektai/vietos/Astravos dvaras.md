@@ -30,7 +30,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
 <a id="claim-t-72794"></a>
 - t-001
   global_id: t-72794
-  teiginys: 'Astravos sutartis (1392 m.) Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
+  teiginys: '1392 m. Astravos dvare Vytautas susitaikė su Jogaila, o Jogaila pavedė Vytautui valdyti Vilnių.'
   pagrindžia:
     - c-003
 
@@ -83,6 +83,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     - t-004
 
 - c-003
+  santrauka: '1392 m. Astravos dvare Vytautas susitaikė su Jogaila, o Jogaila pavedė Vytautui valdyti Vilnių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas — visos Lietuvos valdovas. Astravos**

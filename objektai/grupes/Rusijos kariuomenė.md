@@ -51,7 +51,7 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 <a id="claim-t-66080"></a>
 - t-004
   global_id: t-66080
-  teiginys: 'Tais pačiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą.'
+  teiginys: '1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.'
   pagrindžia:
     - c-003
 
@@ -96,6 +96,7 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
     - t-001
 
 - c-003
+  santrauka: '1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti

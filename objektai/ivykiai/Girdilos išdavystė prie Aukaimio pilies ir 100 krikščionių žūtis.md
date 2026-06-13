@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-62269"></a>
 - t-001
   global_id: t-62269
-  teiginys: 'Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių.'
+  teiginys: '1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė.'
   pagrindžia:
     - c-001
 
@@ -75,3 +75,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Girdila]]

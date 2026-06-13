@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-80764"></a>
 - t-001
   global_id: t-80764
-  teiginys: '138, „LIETUVOS LENGVOJI IR VIDUTINE KAVALERIJA“, Lina Vidauskytė.'
+  teiginys: 'Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Informacinio bloko „Lietuvos lengvoji ir vidutinė kavalerija“ autore nurodyta Lina Vidauskytė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LIETUVOS ATSIKŪRIMAS

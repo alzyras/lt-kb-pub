@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui. Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus. Konradas Celneris paskyrė Vytautui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti kryžiuočių valdas.
+Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas geresnių pagalbininkų būsimam karui. Ordino magistras Konradas Celneris Prūsijoje visokeriopai parėmė Vytauto sumanymus. Konradas Celneris paskyrė tremtiniui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti savo valdas.
 
 ## Teiginiai
 
@@ -31,7 +31,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
 <a id="claim-t-185991"></a>
 - t-003
   global_id: t-185991
-  teiginys: 'Konradas Celneris paskyrė Vytautui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti kryžiuočių valdas.'
+  teiginys: 'Konradas Celneris paskyrė tremtiniui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti savo valdas.'
   pagrindžia:
     - c-003
 
@@ -110,7 +110,7 @@ Vytautas pasitraukė pas Prūsijos magistrą Konradą Celnerį, ieškodamas gere
     - t-002
 
 - c-003
-  santrauka: 'Konradas Celneris paskyrė Vytautui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti kryžiuočių valdas.'
+  santrauka: 'Konradas Celneris paskyrė tremtiniui karių ir lėšų karui, tikėdamasis Lietuvoje išplėsti savo valdas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Iš M a z o v ijo s  į Prū-

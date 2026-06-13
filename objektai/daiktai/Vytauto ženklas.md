@@ -3,7 +3,6 @@ tipas: daiktas
 pavadinimas: 'Vytauto ženklas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1350 m.'
@@ -50,28 +49,28 @@ Nenurodyta
 <a id="claim-t-182858"></a>
 - t-001
   global_id: t-182858
-  teiginys: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
+  teiginys: 'Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183690"></a>
 - t-002
   global_id: t-183690
-  teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  teiginys: 'Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183691"></a>
 - t-003
   global_id: t-183691
-  teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  teiginys: 'Edigėjus reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą liepė Lietuvos pinigus žymėti Ordos ženklais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  santrauka: 'Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -93,6 +92,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sustojęs rugpiučio 5 Vorsklos
@@ -108,7 +108,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  santrauka: 'Edigėjus reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą liepė Lietuvos pinigus žymėti Ordos ženklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vytautas 5 dienas stovėjo kitoje Vorsklos
@@ -138,6 +138,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
+- [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
 - [[objektai/asmenys/Timur-Kutlugas]]

@@ -58,21 +58,21 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 <a id="claim-t-74908"></a>
 - t-005
   global_id: t-74908
-  teiginys: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  teiginys: 'Mokslininkų aiškinimu, Lietuvos valdovai rusėnų ir žemaičių žemėse galėjo įkurdinti ištikimus žmones iš Lietuvos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-74909"></a>
 - t-006
   global_id: t-74909
-  teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+  teiginys: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-74910"></a>
 - t-007
   global_id: t-74910
-  teiginys: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
+  teiginys: 'Lenkijai ir Lietuvai priklausiusiose rusėnų žemėse išplito alodas, vakarietiška ūkininkavimo ir nuosavybės forma.'
   pagrindžia:
     - c-008
 
@@ -93,13 +93,14 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 <a id="claim-t-183179"></a>
 - t-010
   global_id: t-183179
-  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  teiginys: 'Mokslininkų aiškinimu, rusėnų ir žemaičių žemėse įkurdinti Lietuvos valdovų žmonės galėjo būti vadinami leičiais.'
   pagrindžia:
     - c-009
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mokslininkų aiškinimu, Lietuvos valdovai rusėnų ir žemaičių žemėse galėjo įkurdinti ištikimus žmones iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie argumentai nuginčija paplitusią versiją, bet nepaaiškina, iš kur kilęs
@@ -178,6 +179,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - t-001
 
 - c-006
+  santrauka: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
@@ -227,7 +229,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - t-009
 
 - c-009
-  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  santrauka: 'Mokslininkų aiškinimu, rusėnų ir žemaičių žemėse įkurdinti Lietuvos valdovų žmonės galėjo būti vadinami leičiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
@@ -296,6 +298,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
 - [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]
+- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/autoriai/B. Włodarski]]
 - [[objektai/grupes/Oginskiai]]
 - [[objektai/grupes/Tiškevičiai]]

@@ -37,21 +37,21 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 <a id="claim-t-184210"></a>
 - t-002
   global_id: t-184210
-  teiginys: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
+  teiginys: 'Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-184211"></a>
 - t-003
   global_id: t-184211
-  teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
+  teiginys: '1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-185170"></a>
 - t-004
   global_id: t-185170
-  teiginys: 'Priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
+  teiginys: 'Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
   pagrindžia:
     - c-004
 
@@ -75,7 +75,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
+  santrauka: 'Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     - t-002
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
+  santrauka: '1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
@@ -112,7 +112,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     - t-003
 
 - c-004
-  santrauka: 'Priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
+  santrauka: 'Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai

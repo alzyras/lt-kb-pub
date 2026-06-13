@@ -49,13 +49,14 @@ Nenurodyta
 <a id="claim-t-77950"></a>
 - t-001
   global_id: t-77950
-  teiginys: 'Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.'
+  teiginys: '1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos simboline
@@ -80,3 +81,4 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/barokas]]

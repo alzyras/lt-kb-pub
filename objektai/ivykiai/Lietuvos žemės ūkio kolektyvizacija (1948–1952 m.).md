@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-75228"></a>
 - t-001
   global_id: t-75228
-  teiginys: 'Ekonomikos susovietinimas Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
+  teiginys: 'Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ekonomikos susovietinimas

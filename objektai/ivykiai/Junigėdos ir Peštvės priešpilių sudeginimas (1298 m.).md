@@ -56,13 +56,6 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   pagrindžia:
     - c-002
 
-<a id="claim-t-97021"></a>
-- t-003
-  global_id: t-97021
-  teiginys: 'Ordino kariuomenei pačias pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų priešpilių ir juos sunaikinti.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-97022"></a>
 - t-004
   global_id: t-97022
@@ -105,6 +98,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     - t-002
 
 - c-003
+  santrauka: '1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gal tame pat žygyje (1296 žiemą) Balgos

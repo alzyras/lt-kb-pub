@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija. Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
+Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija. Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.
 
 ## Teiginiai
 
@@ -24,7 +24,7 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
 <a id="claim-t-185260"></a>
 - t-002
   global_id: t-185260
-  teiginys: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.'
+  teiginys: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
     - t-001
 
 - c-002
-  santrauka: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.'
+  santrauka: 'Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mažosios Lenkijos bei Volynės ka­

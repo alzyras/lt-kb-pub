@@ -35,14 +35,14 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 <a id="claim-t-60925"></a>
 - t-001
   global_id: t-60925
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).'
+  teiginys: 'Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60926"></a>
 - t-002
   global_id: t-60926
-  teiginys: 'Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393.'
+  teiginys: 'Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
@@ -76,6 +77,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     - t-001
 
 - c-002
+  santrauka: 'Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugy­

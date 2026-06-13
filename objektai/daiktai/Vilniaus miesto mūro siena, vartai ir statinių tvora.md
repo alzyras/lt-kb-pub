@@ -56,7 +56,7 @@ Nenurodyta
 <a id="claim-t-87064"></a>
 - t-002
   global_id: t-87064
-  teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
+  teiginys: 'Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.'
   pagrindžia:
     - c-003
 
@@ -116,6 +116,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejybės cerkvę, kur
@@ -139,6 +140,6 @@ Nenurodyta
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/zodynas/barbarai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

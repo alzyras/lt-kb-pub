@@ -21,13 +21,14 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 <a id="claim-t-60417"></a>
 - t-001
   global_id: t-60417
-  teiginys: 'Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo.'
+  teiginys: 'Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
@@ -45,4 +46,5 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/grupes/Pagudėnai]]
 - [[objektai/asmenys/Helvigas iš Goldbacho]]

@@ -40,35 +40,17 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-20295"></a>
+<a id="claim-t-183239"></a>
 - t-001
-  global_id: t-20295
-  teiginys: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
+  global_id: t-183239
+  teiginys: 'Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vyskupi-
-    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
-    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
-    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
-    nimu. Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
-    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
-    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
-    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
-    1902 m. „Varpą“ leidusios organizacijos pagrindu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
+  santrauka: 'Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
@@ -83,14 +65,11 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
-- [[objektai/grupes/Lietuvių krikščionys demokratai]]
 - [[objektai/grupes/Lietuvos demokratų partija]]

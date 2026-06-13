@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-80677"></a>
 - t-001
   global_id: t-80677
-  teiginys: 'Klaipėdos sukilimo priešistorėje minima, kad 1905 m. Didžiajame Vilniaus seime iškelta lietuviškų žemių sujungimo į vieną valstybę idėja.'
+  teiginys: '1905 m. Didžiajame Vilniaus seime buvo iškelta lietuvių gyvenamų žemių sujungimo į vieną valstybę idėja.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Klaipėdos sukilimo priešistorėje minima, kad 1905 m. Didžiajame Vilniaus seime iškelta lietuviškų žemių sujungimo į vieną valstybę idėja.'
+  santrauka: '1905 m. Didžiajame Vilniaus seime buvo iškelta lietuvių gyvenamų žemių sujungimo į vieną valstybę idėja.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Šturmovcai“ tą savo nepasi-

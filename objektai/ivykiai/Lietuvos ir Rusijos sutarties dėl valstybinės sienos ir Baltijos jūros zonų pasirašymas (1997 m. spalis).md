@@ -47,13 +47,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-75150"></a>
-- t-002
-  global_id: t-75150
-  teiginys: 'Spalio pradžioje tarp abiejų valstybių buvo užmegzti diplomatiniai santykiai.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

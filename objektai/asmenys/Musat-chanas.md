@@ -29,7 +29,7 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 <a id="claim-t-183755"></a>
 - t-002
   global_id: t-183755
-  teiginys: 'Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui MusatChanui, taigi perėjo į tam tikrą Lietuvos kontrolę.'
+  teiginys: 'Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių caraičiui Musat-chanui.'
   pagrindžia:
     - c-001
 

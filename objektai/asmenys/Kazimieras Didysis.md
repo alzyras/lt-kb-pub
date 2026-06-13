@@ -40,7 +40,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 <a id="claim-t-184410"></a>
 - t-002
   global_id: t-184410
-  teiginys: 'Dusburgietis teigia, kad 592 Gedimino duktė Aldona (Ona) 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
+  teiginys: '1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.'
   pagrindžia:
     - c-005
 
@@ -68,7 +68,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 <a id="claim-t-184414"></a>
 - t-006
   global_id: t-184414
-  teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  teiginys: 'Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.'
   pagrindžia:
     - c-001
     - c-006
@@ -105,7 +105,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 <a id="claim-t-184419"></a>
 - t-011
   global_id: t-184419
-  teiginys: 'Lenkų istorikas Kochanovskis Kazimiero Didžiojo politikos idėja vadino Lenkijos atsigręžimą į rytus.'
+  teiginys: 'Lenkų istorikas Kochanovskis Lenkijos atsigręžimą į rytus vadino nemirštama Kazimiero Didžiojo politikos idėja.'
   pagrindžia:
     - c-006
 
@@ -206,6 +206,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-009
 
 - c-005
+  santrauka: '1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neumark, dab. Nowe Miasto
@@ -257,6 +258,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-008
 
 - c-008
+  santrauka: 'Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkijoj ėjo nuo seniau ginčas

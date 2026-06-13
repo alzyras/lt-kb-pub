@@ -45,41 +45,42 @@ Nenurodyta
 <a id="claim-t-66805"></a>
 - t-001
   global_id: t-66805
-  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
+  teiginys: 'Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-66806"></a>
 - t-002
   global_id: t-66806
-  teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
+  teiginys: 'Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-66807"></a>
 - t-003
   global_id: t-66807
-  teiginys: 'Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į nelaisvę ir išžudęs, ten pat ir pernakvojo.'
+  teiginys: 'Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-66808"></a>
 - t-004
   global_id: t-66808
-  teiginys: 'Dusburgietis teigia, kad viską tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai.'
+  teiginys: 'Čekijos karalius perdavė broliams įkaitus ir patarė ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66809"></a>
 - t-005
   global_id: t-66809
-  teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
+  teiginys: 'Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Čekijos karalius perdavė broliams įkaitus ir patarė ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viską
@@ -101,6 +102,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
@@ -121,6 +123,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
@@ -164,6 +167,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: 'Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
@@ -179,6 +183,7 @@ Nenurodyta
     - t-001
 
 - c-005
+  santrauka: 'Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sembų pavergimą
@@ -211,5 +216,9 @@ Nenurodyta
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Gedūnas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Otokaras]]
 - [[objektai/asmenys/Otokaras II]]
+- [[objektai/asmenys/Otonas]]
 - [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]

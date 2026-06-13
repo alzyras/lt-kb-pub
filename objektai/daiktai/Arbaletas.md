@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-64900"></a>
 - t-002
   global_id: t-64900
-  teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti.'
+  teiginys: 'Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
@@ -92,4 +93,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
+- [[objektai/asmenys/Arnoldas Krofas]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
+- [[objektai/zodynas/balista balistininkas arbaletas]]

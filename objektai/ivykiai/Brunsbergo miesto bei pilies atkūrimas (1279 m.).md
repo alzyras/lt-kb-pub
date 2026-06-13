@@ -44,14 +44,15 @@ Nenurodyta
 <a id="claim-t-62761"></a>
 - t-001
   global_id: t-62761
-  teiginys: 'Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 viešpaties metais, įkūrė Brunsbergo miestą bei pilį toje vietoje, kur ji ir dabar tebestovi415.'
+  teiginys: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jiems atsitraukiant, atskubėjo priešpriešiais 60
@@ -66,6 +67,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie tebestovėjo Dusburgiečio laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdę, kad pilis ir miestas
@@ -84,4 +86,5 @@ Nenurodyta
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/zodynas/konsekracija]]
 - [[objektai/zodynas/vyskupystė]]
+- [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas (Varmės vyskupas)]]

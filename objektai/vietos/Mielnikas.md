@@ -36,7 +36,7 @@ amziai:
 <a id="claim-t-68707"></a>
 - t-002
   global_id: t-68707
-  teiginys: '1384 m. vasarą Vytautas buvo gavęs dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.'
+  teiginys: '1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: '1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,

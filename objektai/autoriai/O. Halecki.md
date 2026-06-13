@@ -36,7 +36,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 <a id="claim-t-179557"></a>
 - t-001
   global_id: t-179557
-  teiginys: 'Halecki : From Florence to Brest , Sacrum Poloniae Millennium, V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).'
+  teiginys: 'O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.'
   pagrindžia:
     - c-004
 
@@ -73,8 +73,8 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   global_id: t-179562
   teiginys: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
   pagrindžia:
-    - c-006
     - c-002
+    - c-006
 
 <a id="claim-t-179563"></a>
 - t-007
@@ -142,6 +142,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - t-002
 
 - c-004
+  santrauka: 'O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Plačiau MaŠ.**

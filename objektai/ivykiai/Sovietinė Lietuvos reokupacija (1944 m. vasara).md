@@ -43,20 +43,6 @@ Nenurodyta
 <a id="claim-t-75284"></a>
 - t-001
   global_id: t-75284
-  teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75285"></a>
-- t-002
-  global_id: t-75285
-  teiginys: 'Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75286"></a>
-- t-003
-  global_id: t-75286
   teiginys: '1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą.'
   pagrindžia:
     - c-001

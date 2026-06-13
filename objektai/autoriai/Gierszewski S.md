@@ -30,13 +30,14 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
 <a id="claim-t-91949"></a>
 - t-001
   global_id: t-91949
-  teiginys: 'Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavęs Liubeko teises (Gierszewski S., Elbląg, p. 22, 25).'
+  teiginys: 'Gierszewski S. minimas prie teiginio, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gierszewski S. minimas prie teiginio, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Elbingo pilis

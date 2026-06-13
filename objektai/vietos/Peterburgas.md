@@ -45,7 +45,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 <a id="claim-t-77134"></a>
 - t-003
   global_id: t-77134
-  teiginys: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  teiginys: 'Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.'
   pagrindžia:
     - c-012
 
@@ -59,7 +59,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 <a id="claim-t-77136"></a>
 - t-005
   global_id: t-77136
-  teiginys: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį LLV padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
+  teiginys: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
   pagrindžia:
     - c-003
 
@@ -73,14 +73,14 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 <a id="claim-t-77138"></a>
 - t-007
   global_id: t-77138
-  teiginys: 'Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės autonomijos Lietuvai suteikimo.'
+  teiginys: '1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-77139"></a>
 - t-008
   global_id: t-77139
-  teiginys: 'Po dešimt metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peterburgą, o Medicinos-chirurgijos akademija uždaryta.'
+  teiginys: 'Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.'
   pagrindžia:
     - c-011
 
@@ -101,7 +101,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 <a id="claim-t-77142"></a>
 - t-011
   global_id: t-77142
-  teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  teiginys: 'XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva.'
   pagrindžia:
     - c-009
 
@@ -150,6 +150,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - t-004
 
 - c-003
+  santrauka: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užnemunė atiteko Rusijai). Lenkijos ir LDK dalybose dalyvavo ir
@@ -243,6 +244,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - t-009
 
 - c-009
+  santrauka: 'XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ekonominio augimo raidą skatino XIX a. viduryje
@@ -259,6 +261,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - t-011
 
 - c-010
+  santrauka: '1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
@@ -278,6 +281,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - t-007
 
 - c-011
+  santrauka: 'Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tiesa, tuomet dviejų šio univer-
@@ -294,6 +298,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - t-008
 
 - c-012
+  santrauka: 'Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius.

@@ -31,27 +31,28 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
 <a id="claim-t-60210"></a>
 - t-001
   global_id: t-60210
-  teiginys: 'Dusburgietis teigia, kad kronikoje Sudargas, kaip lietuvių karo vadas, figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332).'
+  teiginys: 'Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60211"></a>
 - t-002
   global_id: t-60211
-  teiginys: 'Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į.'
+  teiginys: 'Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-184834"></a>
 - t-003
   global_id: t-184834
-  teiginys: 'Po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
+  teiginys: 'Priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje Sudargas, kaip lietuvių karo vadas,
@@ -65,6 +66,7 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-001
 
 - c-002
+  santrauka: 'Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Antra
@@ -83,7 +85,7 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-002
 
 - c-003
-  santrauka: 'Po pralaimėjimo priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
+  santrauka: 'Priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Chris-

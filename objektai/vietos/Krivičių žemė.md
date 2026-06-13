@@ -26,7 +26,7 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
 <a id="claim-t-58578"></a>
 - t-001
   global_id: t-58578
-  teiginys: 'Dusburgietis teigia, kad krivičių žeme Dusburgietis vadina Naugarduko žemę Nemuno aukštupyje.'
+  teiginys: 'Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
     - t-002
 
 - c-002
+  santrauka: 'Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis

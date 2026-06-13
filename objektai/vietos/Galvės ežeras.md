@@ -28,43 +28,24 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 ## Teiginiai
 
-<a id="claim-t-79347"></a>
+<a id="claim-t-79348"></a>
 - t-001
-  global_id: t-79347
-  teiginys: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
+  global_id: t-79348
+  teiginys: 'Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-79348"></a>
-- t-002
-  global_id: t-79348
-  teiginys: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183017"></a>
-- t-003
+- t-002
   global_id: t-183017
   teiginys: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Priešais centrinius vartus buvo
-    iškastas gynybinis griovys, susijungiantis su ežeru.
-    Antrame plane matyti Trakų salos pilis. Baigta
-    statyti 1409m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
@@ -87,9 +68,9 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -103,4 +84,4 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

@@ -20,13 +20,14 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
 <a id="claim-t-60432"></a>
 - t-001
   global_id: t-60432
-  teiginys: 'Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog nedorėliai nepagarbiai elgiasi šventose vietose, jog godotinas vyras Simeonas, miesto patriarchas, kartu su savo valdiniais nelyginant niekingas vergas, puolęs į visišką neviltį, kenčia begalinę priespaudą.'
+  teiginys: 'Simeonas buvo šventojo miesto patriarchas, kuris kartu su savo valdiniais kentė didelę priespaudą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Simeonas buvo šventojo miesto patriarchas, kuris kartu su savo valdiniais kentė didelę priespaudą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,

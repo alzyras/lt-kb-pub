@@ -28,7 +28,7 @@ amziai:
 <a id="claim-t-77419"></a>
 - t-001
   global_id: t-77419
-  teiginys: 'Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės.'
+  teiginys: 'Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai.'
   pagrindžia:
     - c-002
 

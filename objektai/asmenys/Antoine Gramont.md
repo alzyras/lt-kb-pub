@@ -39,13 +39,6 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   pagrindžia:
     - c-002
 
-<a id="claim-t-183729"></a>
-- t-003
-  global_id: t-183729
-  teiginys: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,25 +81,6 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lauko artilerija, išdėstoma daž-
-    niausiai ant aukštumų, veikdavo
-
-    Pėstininkų padaliniams priskirti mažo kalibro
-
-    judėdavo į priekį kartu su pėstininkais.
-
-    Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie
-    totorius Lietuvos kariuomenėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Janičarai]]
@@ -115,4 +89,3 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/lengvoji kavalerija]]
-- [[objektai/zodynas/lietuvos lengvoji kavalerija]]

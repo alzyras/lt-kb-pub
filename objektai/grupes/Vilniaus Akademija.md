@@ -25,7 +25,7 @@ amziai:
 <a id="claim-t-31370"></a>
 - t-001
   global_id: t-31370
-  teiginys: 'Vilniaus Akademijoje profesoriavęs Kojalavičius vėlesnėse kartose išryškėjo kaip žymus Lietuvos istorikas.'
+  teiginys: 'Albertas Vijūkas Kojalavičius buvo Vilniaus Akademijos profesorius ir vėliau išryškėjo kaip žymus Lietuvos istorikas.'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Albertas Vijūkas Kojalavičius buvo Vilniaus Akademijos profesorius ir vėliau išryškėjo kaip žymus Lietuvos istorikas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Stryjkovskio Kroniką aukštai vertino ir jėzuitas Albertas Vijū­

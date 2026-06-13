@@ -43,21 +43,22 @@ Nenurodyta
 <a id="claim-t-62869"></a>
 - t-001
   global_id: t-62869
-  teiginys: 'Dusburgietis teigia, kad toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių karaliaus gavę kankinių vainikus. 393 Kad mūšis įvyko 1263 m.'
+  teiginys: 'Dusburgiečio pasakojime Lubavos mūšio vietoje gyvenęs atsiskyrėlis naktimis matydavo degančias žvakes, liudijusias žuvusiųjų kankinystę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-62870"></a>
 - t-002
   global_id: t-62870
-  teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
+  teiginys: 'Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -81,6 +82,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
@@ -98,6 +100,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Dusburgiečio pasakojime Lubavos mūšio vietoje gyvenęs atsiskyrėlis naktimis matydavo degančias žvakes, liudijusias žuvusiųjų kankinystę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai apie tai išgirdo magistras
@@ -125,4 +128,5 @@ Nenurodyta
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]

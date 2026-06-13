@@ -38,7 +38,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-112510"></a>
 - t-002
   global_id: t-112510
-  teiginys: '1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
+  teiginys: '1323 m. gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
   pagrindžia:
     - c-010
 
@@ -66,14 +66,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-112514"></a>
 - t-006
   global_id: t-112514
-  teiginys: 'Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.'
+  teiginys: 'Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-112515"></a>
 - t-007
   global_id: t-112515
-  teiginys: 'Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašyti laiškai laikyti Rygos arkivyskupo prasimanymu ir klastote.'
+  teiginys: 'Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.'
   pagrindžia:
     - c-009
 
@@ -87,7 +87,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-112518"></a>
 - t-009
   global_id: t-112518
-  teiginys: 'Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių 1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino vienuolis, ir Albrechtas, Romos karalius (Mart.'
+  teiginys: '1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.'
   pagrindžia:
     - c-011
 
@@ -115,7 +115,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-112522"></a>
 - t-013
   global_id: t-112522
-  teiginys: 'Dusburgietis teigia, kad brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus III (Ptol.'
+  teiginys: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
   pagrindžia:
     - c-005
 
@@ -245,6 +245,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-004
 
 - c-005
+  santrauka: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
@@ -322,7 +323,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-011
 
 - c-009
-  santrauka: 'Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašyti laiškai laikyti Rygos arkivyskupo prasimanymu ir klastote.'
+  santrauka: 'Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau viskas byloja, jog Gediminas per pasiun­
@@ -351,6 +352,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-007
 
 - c-010
+  santrauka: '1323 m. gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O vieno jų
@@ -367,6 +369,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-002
 
 - c-011
+  santrauka: '1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     96. Apie Benediktą XI, popiežių, ir Albrechtą, karalių
@@ -405,9 +408,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Benediktas XI]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Benediktas XI]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
 - [[objektai/grupes/Livonijos ordinas]]

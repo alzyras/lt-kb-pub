@@ -53,7 +53,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 <a id="claim-t-180307"></a>
 - t-004
   global_id: t-180307
-  teiginys: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
+  teiginys: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš miestelio.'
   pagrindžia:
     - c-003
 
@@ -67,7 +67,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 <a id="claim-t-180309"></a>
 - t-006
   global_id: t-180309
-  teiginys: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
+  teiginys: '1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas.'
   pagrindžia:
     - c-006
 
@@ -88,7 +88,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 <a id="claim-t-180313"></a>
 - t-009
   global_id: t-180313
-  teiginys: 'Vanagas, pasitaręs su A apygardos vadu Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinės miestelį, atkeršijant už kovos draugų žūtį.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti partizanų dalinius ir pulti Merkinę.'
   pagrindžia:
     - c-008
 
@@ -277,6 +277,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-013
 
 - c-008
+  santrauka: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti partizanų dalinius ir pulti Merkinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu

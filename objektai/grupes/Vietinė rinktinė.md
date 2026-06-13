@@ -64,7 +64,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 <a id="claim-t-183193"></a>
 - t-006
   global_id: t-183193
-  teiginys: 'Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi.'
+  teiginys: 'Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi.'
   pagrindžia:
     - c-006
 
@@ -154,7 +154,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - t-001
 
 - c-006
-  santrauka: 'Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi.'
+  santrauka: 'Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vo-

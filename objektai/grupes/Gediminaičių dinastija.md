@@ -68,7 +68,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96099"></a>
 - t-006
   global_id: t-96099
-  teiginys: 'Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto.'
+  teiginys: 'Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis.'
   pagrindžia:
     - c-010
 
@@ -89,21 +89,21 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96102"></a>
 - t-009
   global_id: t-96102
-  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
   pagrindžia:
     - c-020
 
 <a id="claim-t-96104"></a>
 - t-010
   global_id: t-96104
-  teiginys: 'Nuo Gediminaičių dinastijos išmirimo (1572) « abiejų tautų » (« obojga narodów ») politinė istorija vystėsi bendroje respublikoje (« rzeczpospolita »).'
+  teiginys: 'Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-96106"></a>
 - t-012
   global_id: t-96106
-  teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
+  teiginys: 'Palemono legenda leido lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
   pagrindžia:
     - c-021
 
@@ -131,7 +131,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96111"></a>
 - t-016
   global_id: t-96111
-  teiginys: 'Kiti Gediminaičiai buvo aprūpinti valdomis Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
+  teiginys: 'Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
   pagrindžia:
     - c-011
 
@@ -145,14 +145,14 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96113"></a>
 - t-018
   global_id: t-96113
-  teiginys: 'XIII a. pabaigoje į Lietuvos istoriją įžengė lietuvių kilmės valdovų Gediminaičių dinastija.'
+  teiginys: 'XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-96117"></a>
 - t-021
   global_id: t-96117
-  teiginys: 'Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio, abi valstybės savo sumetimais galėjo išsirinkti sau atskirus valdovus, kurie galėjo būti vienas kitam net priešingi — iš skirtingų kraštų galėjo.'
+  teiginys: 'Zigmantui Augustui mirus be įpėdinio, Lietuva ir Lenkija galėjo išsirinkti atskirus valdovus.'
   pagrindžia:
     - c-006
 
@@ -241,6 +241,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-001
 
 - c-006
+  santrauka: 'Zigmantui Augustui mirus be įpėdinio, Lietuva ir Lenkija galėjo išsirinkti atskirus valdovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-
@@ -325,6 +326,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-006
 
 - c-011
+  santrauka: 'Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dalimis buvo aprūpinti ir visi kiti Gediminaičiai. Senojoje
@@ -399,6 +401,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-007
 
 - c-015
+  santrauka: 'Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet buvo ir dideliai varganų bei sunkių
@@ -521,6 +524,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-010
 
 - c-020
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Okupacijos ir aneksijos, tremtys, genocidai ir
@@ -538,6 +542,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-009
 
 - c-021
+  santrauka: 'Palemono legenda leido lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinės tautos genezės jau galima ieško-
@@ -605,7 +610,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/Getautas]]
 - [[objektai/asmenys/Gimbutas]]
-- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Jogailaičiai]]
@@ -641,6 +645,6 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/siuzerenas]]

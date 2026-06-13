@@ -22,13 +22,14 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
 <a id="claim-t-58698"></a>
 - t-001
   global_id: t-58698
-  teiginys: 'Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą; kai jis žygiavo atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi jį persekioti, nukovė ir jį, ir 30 vyrų.'
+  teiginys: 'Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo

@@ -21,7 +21,14 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
 <a id="claim-t-60231"></a>
 - t-001
   global_id: t-60231
-  teiginys: 'Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą, Čekijos karalių Tuo metu Rudolfas, Romos karalius, nukovė kare Otokarą, Čekijos karalių, atidavė Austrijos kunigaikštystę savo sūnui Albrechtui, kuris vėliau tapo Romos karaliumi, o savo dukterį atidavė.'
+  teiginys: 'Rudolfas, nukovęs Čekijos karalių Otokarą, Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-184044"></a>
+- t-002
+  global_id: t-184044
+  teiginys: 'Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi.'
   pagrindžia:
     - c-001
 
@@ -45,3 +52,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]

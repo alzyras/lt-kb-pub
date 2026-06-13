@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-77919"></a>
 - t-001
   global_id: t-77919
-  teiginys: 'Jos garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
+  teiginys: 'Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio proceso ankstyvąja apraiška reikėtų laikyti

@@ -26,7 +26,7 @@ tags:
 <a id="claim-t-183771"></a>
 - t-002
   global_id: t-183771
-  teiginys: '1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais.'
+  teiginys: '1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.'
   pagrindžia:
     - c-002
 
@@ -45,7 +45,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: '1 būrio kareiviai Cipkevičius ir Šidiškis prašė, kad leisčiau jiems pulti lenkus durtuvais.'
+  santrauka: '1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nusileidę į slėnį, porai

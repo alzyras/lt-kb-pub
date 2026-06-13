@@ -73,7 +73,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 <a id="claim-t-89428"></a>
 - t-004
   global_id: t-89428
-  teiginys: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
+  teiginys: '1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.'
   pagrindžia:
     - c-003
 
@@ -141,6 +141,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - t-003
 
 - c-003
+  santrauka: '1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Rygos miesto sugriovimą
@@ -258,6 +259,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus]]
 - [[objektai/zodynas/oktava]]
 - [[objektai/zodynas/prekymečiai ir turgūs]]
+- [[objektai/asmenys/Eberhardas iš Manheimo]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 <a id="claim-t-60442"></a>
 - t-001
   global_id: t-60442
-  teiginys: 'Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas.'
+  teiginys: 'Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.'
   pagrindžia:
     - c-001
 
@@ -85,3 +85,4 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Skalviai]]
+- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]

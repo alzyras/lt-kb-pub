@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-41278"></a>
 - t-002
   global_id: t-41278
-  teiginys: '1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti Lietuvą atvira karine jėga.'
+  teiginys: '1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga.'
   pagrindžia:
     - c-002
 
@@ -72,6 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1920 m. pradžioje lenkai pradėjo telkti dideles pajėgas palei de-

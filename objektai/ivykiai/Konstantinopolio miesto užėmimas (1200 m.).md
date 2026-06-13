@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-62333"></a>
 - t-001
   global_id: t-62333
-  teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
+  teiginys: '1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą

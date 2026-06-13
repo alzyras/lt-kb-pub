@@ -26,7 +26,7 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 <a id="claim-t-184402"></a>
 - t-002
   global_id: t-184402
-  teiginys: 'Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo kelią, šie persekiotojus sumušė.'
+  teiginys: 'Skuodo laukuose žemaičiai sumušė Bernhardo von Hareno persekiotojus, o kautynėse žuvo 33 riteriai.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
     - t-001
 
 - c-002
-  santrauka: 'Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo kelią, šie persekiotojus sumušė.'
+  santrauka: 'Skuodo laukuose žemaičiai sumušė Bernhardo von Hareno persekiotojus, o kautynėse žuvo 33 riteriai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai

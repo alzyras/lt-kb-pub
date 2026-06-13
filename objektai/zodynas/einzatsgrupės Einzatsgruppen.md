@@ -33,7 +33,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 <a id="claim-t-183419"></a>
 - t-003
   global_id: t-183419
-  teiginys: 'Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.'
+  teiginys: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   pagrindžia:
     - c-003
 
@@ -83,7 +83,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     - t-002
 
 - c-003
-  santrauka: 'Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai.'
+  santrauka: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas

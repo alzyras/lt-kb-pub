@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-62962"></a>
 - t-001
   global_id: t-62962
-  teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
+  teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.'
   pagrindžia:
     - c-001
 
@@ -84,6 +84,7 @@ Nenurodyta
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

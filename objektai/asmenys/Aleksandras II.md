@@ -92,3 +92,4 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
 - [[objektai/zodynas/taikos suvažiavimai]]
 - [[objektai/zodynas/Politinė amnestija]]
+- [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]

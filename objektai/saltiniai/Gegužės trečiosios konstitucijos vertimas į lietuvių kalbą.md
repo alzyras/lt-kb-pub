@@ -27,7 +27,7 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
 <a id="claim-t-75447"></a>
 - t-002
   global_id: t-75447
-  teiginys: 'Reformos ne tik pažangia linkme kreipė socialinę ir politinę Lietuvos visuomenės raidą, bet ir teikė naujų galimybių lietuviakalbei kultūrai.'
+  teiginys: 'Gegužės trečiosios konstitucijos vertimas buvo pirmasis politinis ir teisinis dokumentas lietuvių kalba.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
     - t-001
 
 - c-002
+  santrauka: 'Gegužės trečiosios konstitucijos vertimas buvo pirmasis politinis ir teisinis dokumentas lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformos ne tik pažangia

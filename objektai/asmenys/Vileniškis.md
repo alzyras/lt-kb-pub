@@ -19,13 +19,21 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 <a id="claim-t-39668"></a>
 - t-001
   global_id: t-39668
-  teiginys: 'Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais.'
+  teiginys: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais kelias valandas neleido lenkams prisiartinti prie traukinio.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183766"></a>
+- t-002
+  global_id: t-183766
+  teiginys: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais kelias valandas neleido lenkams prisiartinti prie traukinio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priedangai buvo
@@ -39,7 +47,7 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     - t-001
 
 - c-002
-  santrauka: 'Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais.'
+  santrauka: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Gedimino“ įgula atmušė dar kelias lenkų atakas, kovoms aprimus, traukinio vadas įsakė

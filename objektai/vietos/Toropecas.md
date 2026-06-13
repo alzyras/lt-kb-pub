@@ -28,7 +28,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 <a id="claim-t-42189"></a>
 - t-001
   global_id: t-42189
-  teiginys: 'Rugsėjo 9 d. lietuviai dar kartą susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių.'
+  teiginys: 'Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 4 d. lietuviai pa-

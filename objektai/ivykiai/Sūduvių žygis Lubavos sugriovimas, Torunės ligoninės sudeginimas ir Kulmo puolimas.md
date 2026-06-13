@@ -37,20 +37,21 @@ Nenurodyta
 <a id="claim-t-59429"></a>
 - t-001
   global_id: t-59429
-  teiginys: 'Dusburgietis teigia, kad apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei.'
+  teiginys: 'Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59430"></a>
 - t-002
   global_id: t-59430
-  teiginys: 'Dusburgietis teigia, kad vienas sūduvių karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino.'
+  teiginys: 'Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
@@ -90,3 +91,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/zodynas/žygis]]

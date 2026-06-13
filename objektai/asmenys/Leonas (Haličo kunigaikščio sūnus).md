@@ -32,13 +32,14 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
 <a id="claim-t-87764"></a>
 - t-001
   global_id: t-87764
-  teiginys: 'Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.'
+  teiginys: 'Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,

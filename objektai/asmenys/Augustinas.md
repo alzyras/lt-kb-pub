@@ -19,13 +19,14 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 <a id="claim-t-60241"></a>
 - t-001
   global_id: t-60241
-  teiginys: 'Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.'
+  teiginys: 'Dusburgiečio pasakojime šventasis Augustinas sapne žingsniavo brolių priekyje kartu su Bernardu, Domininku ir Pranciškumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio pasakojime šventasis Augustinas sapne žingsniavo brolių priekyje kartu su Bernardu, Domininku ir Pranciškumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
@@ -61,5 +62,9 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - [[objektai/posakiai/„Karas ar taika “]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]
+- [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/zodynas/in corpore]]
+- [[objektai/zodynas/vienvaldystė]]
+- [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]

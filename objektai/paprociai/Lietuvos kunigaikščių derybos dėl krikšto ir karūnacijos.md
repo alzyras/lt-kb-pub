@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-67159"></a>
 - t-002
   global_id: t-67159
-  teiginys: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+  teiginys: 'Po Žygimanto Augusto mirties Lietuvą valdė svetimkilmiai valdovai.'
   pagrindžia:
     - c-003
 
@@ -71,13 +71,14 @@ Nenurodyta
 <a id="claim-t-67161"></a>
 - t-004
   global_id: t-67161
-  teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
+  teiginys: 'Kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, tarsi atstūmė Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, tarsi atstūmė Lietuvą nuo krikščionybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,

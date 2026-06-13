@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-113465"></a>
 - t-002
   global_id: t-113465
-  teiginys: 'Gedimino laiškai p. 21 kais rašytas, ant pergamento, be da- (Leid. past.) tos Slapt.'
+  teiginys: 'Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą.'
   pagrindžia:
     - c-001
 
@@ -78,6 +78,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karius, kurie atvyks pas mus, aprūpinsim to­

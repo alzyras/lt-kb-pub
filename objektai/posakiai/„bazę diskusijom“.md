@@ -27,13 +27,14 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 <a id="claim-t-77843"></a>
 - t-001
   global_id: t-77843
-  teiginys: 'Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.'
+  teiginys: 'Lietuva ir Lenkija sutiko priimti Himanso planą kaip „bazę diskusijom“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuva ir Lenkija sutiko priimti Himanso planą kaip „bazę diskusijom“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A

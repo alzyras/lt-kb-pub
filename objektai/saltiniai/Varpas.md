@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-78120"></a>
 - t-001
   global_id: t-78120
-  teiginys: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
+  teiginys: '1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vyskupi-

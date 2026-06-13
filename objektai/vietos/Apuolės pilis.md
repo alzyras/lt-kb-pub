@@ -25,7 +25,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 <a id="claim-t-47983"></a>
 - t-001
   global_id: t-47983
-  teiginys: 'Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti tiek karių, kiek esą turėjo išsipirkti po pusę svaro sidabro.'
+  teiginys: 'Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.'
   pagrindžia:
     - c-002
 

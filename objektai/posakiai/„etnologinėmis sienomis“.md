@@ -36,7 +36,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 <a id="claim-t-183491"></a>
 - t-002
   global_id: t-183491
-  teiginys: 'Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė, kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai tikriausiai turėjo reikšti, kad kiek.'
+  teiginys: 'Steigiamasis Seimas vienbalsiai priėmė dokumentą, skelbusį Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.'
   pagrindžia:
     - c-001
 
@@ -68,5 +68,6 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 - [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]

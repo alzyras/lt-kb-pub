@@ -31,7 +31,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 <a id="claim-t-36016"></a>
 - t-001
   global_id: t-36016
-  teiginys: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad prieš vėją nepapūs ir jis buvo per galingas.'
+  teiginys: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad „prieš vėją nepapūs“, o Vytautas buvo per galingas.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     - t-002
 
 - c-002
+  santrauka: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad „prieš vėją nepapūs“, o Vytautas buvo per galingas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat buvo neliečia­

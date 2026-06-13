@@ -33,13 +33,6 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
 <a id="claim-t-56968"></a>
 - t-001
   global_id: t-56968
-  teiginys: 'Dusburgietis teigia, kad apie Albertą Didįjį ir Tomą Akvinietį Tuo metu gyveno Albertas Didysis, Vokietijoje gimęs pamokslininkų ordino kunigas, kuris neturėjo sau lygaus išsilavinimu.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-56969"></a>
-- t-002
-  global_id: t-56969
   teiginys: 'Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.'
   pagrindžia:
     - c-001

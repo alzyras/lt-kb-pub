@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62825"></a>
 - t-001
   global_id: t-62825
-  teiginys: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
+  teiginys: 'Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių

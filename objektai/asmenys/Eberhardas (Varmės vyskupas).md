@@ -37,13 +37,14 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 <a id="claim-t-82282"></a>
 - t-002
   global_id: t-82282
-  teiginys: 'Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.'
+  teiginys: 'Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pavyzdžiui, abatai iš Olivos ir Pel-
@@ -118,5 +119,6 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Rygos miestiečiai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Jonas (Sembos vyskupas)]]
 - [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]]

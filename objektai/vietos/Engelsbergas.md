@@ -30,7 +30,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 <a id="claim-t-58546"></a>
 - t-001
   global_id: t-58546
-  teiginys: 'Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė, kuo vardu jų pilis.'
+  teiginys: 'Kai kurie vienuoliai Engelsbergo pilį siejo su Angelų kalnu, nes, jų teigimu, jos gyventojai gyveno tarsi angelai.'
   pagrindžia:
     - c-002
 

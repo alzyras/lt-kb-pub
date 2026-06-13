@@ -28,13 +28,14 @@ Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos b
 <a id="claim-t-86613"></a>
 - t-001
   global_id: t-86613
-  teiginys: 'Il Prie jo buvo įkurta Puškarnia, tai yra, anuometinės artilerijos įrangos bei amunicijos dirbtuvė.'
+  teiginys: 'Puškarnia buvo anuometinės artilerijos įrangos ir amunicijos dirbtuvė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Puškarnia buvo anuometinės artilerijos įrangos ir amunicijos dirbtuvė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, šiuo san­

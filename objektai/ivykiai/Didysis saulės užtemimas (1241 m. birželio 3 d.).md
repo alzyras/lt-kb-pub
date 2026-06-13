@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62237"></a>
 - t-001
   global_id: t-62237
-  teiginys: 'Dusburgietis teigia, kad apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol.'
+  teiginys: '1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės.'
   pagrindžia:
     - c-001
 
@@ -66,3 +66,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/Adynos|adynos]]

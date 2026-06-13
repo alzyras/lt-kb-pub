@@ -23,7 +23,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 <a id="claim-t-87889"></a>
 - t-001
   global_id: t-87889
-  teiginys: 'Zbignevas Olesnickis, karaliaus ir Lenkijos senato pasiųstas į Vilnių, grasino Vytautui karu dėl jo sumanymo.'
+  teiginys: 'Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-002
 
 - c-002
-  santrauka: 'Zbignevas Olesnickis, karaliaus ir Lenkijos senato pasiųstas į Vilnių, grasino Vytautui karu dėl jo sumanymo.'
+  santrauka: 'Karaliaus ir Lenkijos senato pasiųstas Zbignevas Olesnickis Vilniuje grasino Vytautui karu, jei šis neatsisakys savo sumanymo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­

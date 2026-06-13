@@ -33,7 +33,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 <a id="claim-t-40413"></a>
 - t-003
   global_id: t-40413
-  teiginys: 'Rugpjūčio 23 d., atleidus gen. S. Nastopką iš armijos vado pareigų, armijos vadu paskirtas plk. ltn. K. Ladyga.'
+  teiginys: 'Atleidus gen. S. Nastopką iš armijos vado pareigų, rugpjūčio 23 d. armijos vadu paskirtas plk. ltn. K. Ladyga.'
   pagrindžia:
     - c-003
 
@@ -72,6 +72,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     - t-001
 
 - c-003
+  santrauka: 'Atleidus gen. S. Nastopką iš armijos vado pareigų, rugpjūčio 23 d. armijos vadu paskirtas plk. ltn. K. Ladyga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Konstantinas Žukas. Atleidus iš

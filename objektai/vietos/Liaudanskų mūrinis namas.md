@@ -25,14 +25,14 @@ amziai:
 <a id="claim-t-86205"></a>
 - t-001
   global_id: t-86205
-  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai Liaudanskų mūrinį namą Turgaus gatvėje skyrė bibliotekai knygoms gausinti.'
+  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai Liaudanskų mūrinį namą Turgaus gatvėje skyrė bibliotekai knygoms gausinti.'
+  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus

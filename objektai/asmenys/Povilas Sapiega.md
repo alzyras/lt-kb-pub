@@ -36,7 +36,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 <a id="claim-t-79153"></a>
 - t-002
   global_id: t-79153
-  teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
+  teiginys: 'Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.'
   pagrindžia:
     - c-003
 
@@ -90,6 +90,7 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - t-003
 
 - c-003
+  santrauka: 'Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs

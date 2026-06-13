@@ -36,13 +36,14 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 <a id="claim-t-64247"></a>
 - t-003
   global_id: t-64247
-  teiginys: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
+  teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS ir kitų soclagerio ša-
@@ -102,5 +103,6 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
 - [[objektai/grupes/Raudonoji armija]]

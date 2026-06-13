@@ -21,14 +21,14 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 <a id="claim-t-18861"></a>
 - t-001
   global_id: t-18861
-  teiginys: 'Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
+  teiginys: 'Eidintas ir bendraautoriai rašo, kad Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-18862"></a>
 - t-002
   global_id: t-18862
-  teiginys: 'Brunono Bonifacijaus misija ir Lietuvos atradimas liko istorijos fragmentas, nes po to beveik 200 metų Lietuva neminima.'
+  teiginys: 'Eidintas ir bendraautoriai Brunono Bonifacijaus misiją laiko istorijos fragmentu, nes po 1009 m. Lietuva beveik 200 metų neminėta.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - t-003
 
 - c-002
+  santrauka: 'Eidintas ir bendraautoriai Brunono Bonifacijaus misiją laiko istorijos fragmentu, nes po 1009 m. Lietuva beveik 200 metų neminėta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis
@@ -71,6 +72,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - t-002
 
 - c-003
+  santrauka: 'Eidintas ir bendraautoriai rašo, kad Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausia tiki-

@@ -60,14 +60,14 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 <a id="claim-t-184939"></a>
 - t-005
   global_id: t-184939
-  teiginys: 'Iš Prūsijos grįžęs valdovas sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiosios Lenkijos žemes.'
+  teiginys: 'Į Didžiosios Lenkijos žemes buvo įsiveržta sutelkus kariuomenę prie Gardino.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-184940"></a>
 - t-006
   global_id: t-184940
-  teiginys: 'Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.'
+  teiginys: 'Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.'
   pagrindžia:
     - c-006
 
@@ -154,7 +154,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-004
 
 - c-005
-  santrauka: 'Iš Prūsijos grįžęs valdovas sutelkė kariuomenę prie Gardino ir įsiveržė į Didžiosios Lenkijos žemes.'
+  santrauka: 'Į Didžiosios Lenkijos žemes buvo įsiveržta sutelkus kariuomenę prie Gardino.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Valdovas, sugrįžęs iš Prūsijos, gavo ži­
@@ -185,7 +185,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     - t-005
 
 - c-006
-  santrauka: 'Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.'
+  santrauka: 'Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     397

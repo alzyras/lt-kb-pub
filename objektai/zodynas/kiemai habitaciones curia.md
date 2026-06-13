@@ -22,7 +22,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 <a id="claim-t-58850"></a>
 - t-001
   global_id: t-58850
-  teiginys: 'Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.'
+  teiginys: 'Karalius davė vėliavas iškabinti prie jo ir jo tėvų žemių bei kiemų, kad niekas, pamatęs karaliaus vėliavą, nedrįstų jo skriausti.'
   pagrindžia:
     - c-002
 
@@ -32,6 +32,13 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   teiginys: 'Kiemai buvo didelės, turtingos ir daugiau ar mažiau įtvirtintos sodybos, bet ne pilys.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184005"></a>
+- t-003
+  global_id: t-184005
+  teiginys: 'Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -54,6 +61,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
     - t-002
 
 - c-002
+  santrauka: 'Karalius davė vėliavas iškabinti prie jo ir jo tėvų žemių bei kiemų, kad niekas, pamatęs karaliaus vėliavą, nedrįstų jo skriausti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių
@@ -71,7 +79,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
     - t-001
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.'
+  santrauka: 'Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
@@ -94,6 +102,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Ringėlas]]
+- [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Gedūnas]]
 - [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]
-- [[objektai/asmenys/Ringėlas]]

@@ -22,13 +22,14 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 <a id="claim-t-59158"></a>
 - t-001
   global_id: t-59158
-  teiginys: 'Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, prisimindamas šiuos poeto žodžius: Pusę darbo padaro tasai, kas netrunka jo imtis — sutelkė savo žmones ir prieš.'
+  teiginys: 'Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).

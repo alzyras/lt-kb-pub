@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75296"></a>
 - t-001
   global_id: t-75296
-  teiginys: 'Jo kelionės išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žingsnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.'
+  teiginys: 'Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.'
   pagrindžia:
     - c-001
 

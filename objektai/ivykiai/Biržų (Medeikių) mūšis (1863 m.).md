@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-54158"></a>
 - t-004
   global_id: t-54158
-  teiginys: '1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.'
+  teiginys: '1863 m. gegužės 8 d. gausesnės I. Ganeckio rusų pajėgos užpuolė sukilėlius, o sužeidus Z. Sierakauską pasipriešinimas ėmė silpti.'
   pagrindžia:
     - c-003
 
@@ -121,6 +121,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1863 m. gegužės 8 d. gausesnės I. Ganeckio rusų pajėgos užpuolė sukilėlius, o sužeidus Z. Sierakauską pasipriešinimas ėmė silpti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ Gegužės 8 d. atvykusios naujos ir gau-

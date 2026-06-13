@@ -40,7 +40,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 <a id="claim-t-45787"></a>
 - t-002
   global_id: t-45787
-  teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  teiginys: 'Žodis „barokas“ siejamas su ispanišku barrueco ir portugališku barroco, reiškiančiais netaisyklingos formos perlą.'
   pagrindžia:
     - c-001
 
@@ -130,3 +130,4 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
+- [[objektai/paprociai/Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema]]

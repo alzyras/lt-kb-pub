@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-59692"></a>
 - t-001
   global_id: t-59692
-  teiginys: 'Dusburgietis teigia, kad septyni Teutonų ordino broliai su keliais ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium], bet ilgainiui, per penkiasdešimt trejus.'
+  teiginys: 'Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pats matyk
@@ -73,4 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Jėzus Kristus]]

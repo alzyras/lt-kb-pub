@@ -217,7 +217,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]
 - [[objektai/asmenys/Mechmet Girėjus]]
-- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Mikalojus Michalovskis]]
 - [[objektai/asmenys/Mikalojus Naruševičius]]
 - [[objektai/asmenys/Mikalojus Radvila]]

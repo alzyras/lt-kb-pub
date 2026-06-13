@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-183688"></a>
 - t-002
   global_id: t-183688
-  teiginys: 'Skubiu atveju buvo galimybė šiuo ginklu šaudyti ir automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus, nes ginklas buvo lengvas, o šovinys galingas ir ginklas taip šaudant tapdavo labai nestabilus Sovietų automatinis (pusiau automatinis) šautuvas.'
+  teiginys: 'SVT-40 galėjo šaudyti automatine ugnimi, tačiau toks šaudymas buvo labai neefektyvus dėl lengvo ginklo ir galingo šovinio.'
   pagrindžia:
     - c-001
 

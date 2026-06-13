@@ -22,20 +22,21 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 <a id="claim-t-58660"></a>
 - t-001
   global_id: t-58660
-  teiginys: 'Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene apsistojo priešais.'
+  teiginys: 'Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58661"></a>
 - t-002
   global_id: t-58661
-  teiginys: 'Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarnai dažnai prarasdavo ir krovinius, ir gyvastį, todėl tris kartus Kristburgo pilį buvo užgriuvęs toks badas, kad pilis būtų visai palikusi be žmonių, jei nebūtų spėjęs ateiti su pagalba vienas Pamedės.'
+  teiginys: 'Zirgūnos upe plukdydami atsargas Kristburgo broliams, broliai ir jų tarnai dažnai prarasdavo krovinius ir gyvybes.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Per apgulą ir bėgant žuvo daug prūsų,
@@ -55,6 +56,7 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
     - t-001
 
 - c-002
+  santrauka: 'Zirgūnos upe plukdydami atsargas Kristburgo broliams, broliai ir jų tarnai dažnai prarasdavo krovinius ir gyvybes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be

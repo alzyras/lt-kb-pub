@@ -29,7 +29,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 <a id="claim-t-184637"></a>
 - t-002
   global_id: t-184637
-  teiginys: 'Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.'
+  teiginys: 'Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     - t-001
 
 - c-002
-  santrauka: 'Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.'
+  santrauka: 'Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­

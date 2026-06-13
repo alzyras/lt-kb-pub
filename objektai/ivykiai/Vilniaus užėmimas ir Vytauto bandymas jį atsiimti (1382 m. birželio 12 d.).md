@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-35897"></a>
 - t-001
   global_id: t-35897
-  teiginys: 'Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos, Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula.'
+  teiginys: 'Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­

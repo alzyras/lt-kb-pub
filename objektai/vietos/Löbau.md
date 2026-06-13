@@ -33,7 +33,7 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
 <a id="claim-t-184308"></a>
 - t-003
   global_id: t-184308
-  teiginys: 'Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti šiaurėn, į Löbau.'
+  teiginys: 'Įspėtas kai kurių riterių, Ordino vadas įsakė kariuomenei iš Kanerniko žygiuoti į šiaurę, į Löbau.'
   pagrindžia:
     - c-001
 

@@ -31,27 +31,28 @@ amziai:
 <a id="claim-t-68240"></a>
 - t-001
   global_id: t-68240
-  teiginys: 'Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje.'
+  teiginys: 'Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-68241"></a>
 - t-002
   global_id: t-68241
-  teiginys: 'Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos, kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.'
+  teiginys: '1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-68242"></a>
 - t-003
   global_id: t-68242
-  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
+  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1418 m. Vytautas siunčia į
@@ -68,6 +69,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (spalio 7 d.) padaryti paliaubas, kurios vėliau vis buvo prailginamos.
@@ -84,6 +86,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: '1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos,

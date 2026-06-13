@@ -61,7 +61,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 <a id="claim-t-65924"></a>
 - t-002
   global_id: t-65924
-  teiginys: 'Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.'
+  teiginys: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.'
   pagrindžia:
     - c-004
 
@@ -75,7 +75,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 <a id="claim-t-65926"></a>
 - t-004
   global_id: t-65926
-  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   pagrindžia:
     - c-003
 
@@ -116,6 +116,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - t-001
 
 - c-003
+  santrauka: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
@@ -128,6 +129,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     - t-004
 
 - c-004
+  santrauka: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
@@ -153,3 +155,4 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - [[objektai/asmenys/Arkadij Kruglov]]
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
 - [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
+- [[objektai/grupes/Rusai]]

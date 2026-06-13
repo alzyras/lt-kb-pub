@@ -112,7 +112,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171405"></a>
 - t-012
   global_id: t-171405
-  teiginys: 'Įsakmiai tačiau žinoma, kad totoriai, sąjungoje su Volinijos Levu, 1279 m. apiplėšė Lietuvą^256.'
+  teiginys: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
   pagrindžia:
     - c-035
 
@@ -133,7 +133,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171408"></a>
 - t-015
   global_id: t-171408
-  teiginys: 'Dusburgietis teigia, kad apie totorių viešpatavimo pradžią 1202 viešpaties metais prasidėjo totorių viešpatavimas (Ptol.'
+  teiginys: '1202 m. prasidėjo totorių viešpatavimas.'
   pagrindžia:
     - c-022
 
@@ -147,7 +147,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171410"></a>
 - t-017
   global_id: t-171410
-  teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
+  teiginys: 'Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.'
   pagrindžia:
     - c-039
 
@@ -161,14 +161,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171412"></a>
 - t-019
   global_id: t-171412
-  teiginys: 'Ordino trukdė dar taikų Vytauto darbą totoriai, Livonijos Ordinas ir k.'
+  teiginys: 'Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-171413"></a>
 - t-020
   global_id: t-171413
-  teiginys: 'Kiekvienas raitelis su savimi vesdavosi po tris atsarginius žirgus, kuriuos keičiant totorių raiteliai galėdavo judėti taip sparčiai, jog anaiptol ne visada žinia apie totorių reidą galėdavo užbėgti jiems už akių.'
+  teiginys: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą.'
   pagrindžia:
     - c-011
 
@@ -238,7 +238,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171424"></a>
 - t-030
   global_id: t-171424
-  teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
+  teiginys: 'Petras iš Dusburgo kryžiaus žygių istorijoje pritarė popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.'
   pagrindžia:
     - c-029
 
@@ -248,13 +248,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: 'Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę.'
   pagrindžia:
     - c-042
-
-<a id="claim-t-171426"></a>
-- t-032
-  global_id: t-171426
-  teiginys: 'Taip pat buvo pasiūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.'
-  pagrindžia:
-    - c-009
 
 <a id="claim-t-171427"></a>
 - t-033
@@ -294,7 +287,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171432"></a>
 - t-038
   global_id: t-171432
-  teiginys: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
+  teiginys: 'Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus.'
   pagrindžia:
     - c-045
 
@@ -343,7 +336,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171439"></a>
 - t-045
   global_id: t-171439
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
+  teiginys: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   pagrindžia:
     - c-020
     - c-026
@@ -358,21 +351,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171441"></a>
 - t-047
   global_id: t-171441
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol.'
+  teiginys: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10000 raitelių.'
   pagrindžia:
     - c-017
-
-<a id="claim-t-171442"></a>
-- t-048
-  global_id: t-171442
-  teiginys: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
-  pagrindžia:
-    - c-040
 
 <a id="claim-t-171443"></a>
 - t-049
   global_id: t-171443
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį 1326 viešpaties metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
+  teiginys: '1326 m. Vengrijos karalius nukovė 30000 totorių, kurių kariuomenė siaubė jo karalystę.'
   pagrindžia:
     - c-034
 
@@ -400,21 +386,21 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 <a id="claim-t-171447"></a>
 - t-053
   global_id: t-171447
-  teiginys: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
+  teiginys: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   pagrindžia:
     - c-031
 
 <a id="claim-t-182927"></a>
 - t-054
   global_id: t-182927
-  teiginys: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
+  teiginys: 'Dniepro žemupyje įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
   pagrindžia:
     - c-043
 
 <a id="claim-t-182928"></a>
 - t-055
   global_id: t-182928
-  teiginys: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
+  teiginys: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl Lietuvos kunigaikščiams buvo nesunku jas paimti į savo valdžią.'
   pagrindžia:
     - c-044
 
@@ -593,6 +579,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-026
 
 - c-011
+  santrauka: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kiekvienas raitelis su savimi vesdavosi po
@@ -750,6 +737,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-025
 
 - c-017
+  santrauka: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10000 raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     108. Apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių
@@ -858,6 +846,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-052
 
 - c-022
+  santrauka: '1202 m. prasidėjo totorių viešpatavimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie totorių viešpatavimo pradžią
@@ -1010,6 +999,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-040
 
 - c-029
+  santrauka: 'Petras iš Dusburgo kryžiaus žygių istorijoje pritarė popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų
@@ -1044,6 +1034,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-034
 
 - c-031
+  santrauka: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didieji kunigaikščiai, reikšdami teritorines
@@ -1092,6 +1083,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-024
 
 - c-034
+  santrauka: '1326 m. Vengrijos karalius nukovė 30000 totorių, kurių kariuomenė siaubė jo karalystę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     125. Apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį
@@ -1109,6 +1101,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-049
 
 - c-035
+  santrauka: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip in Mindaugni, Traidenini rūpesčių sudarė totoriai. Iš tu­
@@ -1199,6 +1192,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-005
 
 - c-039
+  santrauka: 'Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
@@ -1273,7 +1267,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-031
 
 - c-043
-  santrauka: 'Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
+  santrauka: 'Dniepro žemupyje įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Per
@@ -1289,7 +1283,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-054
 
 - c-044
-  santrauka: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
+  santrauka: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl Lietuvos kunigaikščiams buvo nesunku jas paimti į savo valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusijos žemės tada buvo labai palaidos.
@@ -1563,7 +1557,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/grupes/Hanza]]
 - [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis)]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
@@ -1579,7 +1572,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/asmenys/Kolomanas]]
 - [[objektai/asmenys/Konradas Valenrodas]]
-- [[objektai/ivykiai/Kriavo aktas]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]
@@ -1653,18 +1645,22 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/asmenys/Dmitrijus Doniškis]]
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
 - [[objektai/asmenys/Kiška]]
 - [[objektai/asmenys/Kopčius]]
+- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
 - [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/asmenys/Martynas V]]
+- [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/daiktai/Mietas]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Nogajaus orda]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/posakiai/Tartari, longe sunt Lituanis inferiores viribus]]
+- [[objektai/paprociai/Totorių plėšiamieji žygiai kaip įprastas karo veikimo būdas]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]
 - [[objektai/zodynas/ulusas]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]

@@ -27,13 +27,14 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 <a id="claim-t-80647"></a>
 - t-001
   global_id: t-80647
-  teiginys: 'Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.'
+  teiginys: '2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau Vilnių nuo rusų puolimo gynė
@@ -57,5 +58,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
+- [[objektai/grupes/brigada]]
 - [[objektai/grupes/Jono Mejeno divizija]]
 - [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]]

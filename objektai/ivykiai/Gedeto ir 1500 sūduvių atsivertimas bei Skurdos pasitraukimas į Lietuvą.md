@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-89365"></a>
 - t-001
   global_id: t-89365
-  teiginys: 'Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais šimtais vyrų bei moterų jis.'
+  teiginys: 'Kimenavos sūduvių vadas Gedetas su šeimyna ir 1500 vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89366"></a>
 - t-002
   global_id: t-89366
-  teiginys: 'Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.'
+  teiginys: 'Kitos Sūduvos dalies vadas Skurda su savo žmonėmis pasitraukė į Lietuvos žemę.'
   pagrindžia:
     - c-001
 

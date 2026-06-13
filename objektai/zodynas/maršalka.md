@@ -93,7 +93,6 @@ tags:
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Liutauras Chreptavičius]]
 - [[objektai/asmenys/Martynas Paleckis]]
-- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila II]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/asmenys/Mikalojus Sachse]]

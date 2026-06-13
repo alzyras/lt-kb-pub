@@ -28,7 +28,7 @@ amziai:
 <a id="claim-t-86052"></a>
 - t-001
   global_id: t-86052
-  teiginys: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
+  teiginys: '1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-

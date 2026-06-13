@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-09589"></a>
 - t-002
   global_id: t-09589
-  teiginys: 'Dieną kariai slėptuvėse miegodavo.'
+  teiginys: 'Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
   pagrindžia:
     - c-001
 
@@ -74,3 +74,4 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/viršila]]
+- [[objektai/grupes/Želigovskininkai]]

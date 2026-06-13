@@ -19,7 +19,7 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 <a id="claim-t-71981"></a>
 - t-001
   global_id: t-71981
-  teiginys: 'Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
+  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
   pagrindžia:
     - c-001
 
@@ -29,13 +29,6 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-71983"></a>
-- t-003
-  global_id: t-71983
-  teiginys: 'Tai reikštų, kad Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 

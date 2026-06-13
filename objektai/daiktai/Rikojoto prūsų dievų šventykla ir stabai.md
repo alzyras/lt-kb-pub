@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-75343"></a>
 - t-002
   global_id: t-75343
-  teiginys: 'Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų ir griausmų dievas, o trečiasis – javų dievas Patrimpas.'
+  teiginys: 'Prūsų dievų trejybėje Pakulas laikytas požemio, Perkūnas žaibų ir griausmų, o Patrimpas javų dievu.'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Nenurodyta
 <a id="claim-t-75345"></a>
 - t-004
   global_id: t-75345
-  teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
+  teiginys: 'Pasak Simono Grunau kronikos, Rikojote po žaliuojančiu ąžuolu buvo prūsų dievų šventykla su trimis stabais.'
   pagrindžia:
     - c-001
 

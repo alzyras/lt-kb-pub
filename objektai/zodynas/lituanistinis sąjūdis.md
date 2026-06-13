@@ -47,7 +47,7 @@ Terminas vartojamas kaip pradžia, nuo kurios Vilniaus universitete kilo lietuvi
 <a id="claim-t-05597"></a>
 - t-002
   global_id: t-05597
-  teiginys: 'Šis sąjūdis pristatomas kaip lietuvių tautos atgimimo veikėjų istorinio domėjimosi pradžia.'
+  teiginys: 'Ankstyvasis lituanistinis sąjūdis Vilniaus universitete skatino XIX a. lietuvių tautos atgimimo veikėjų domėjimąsi Lietuvos istorija.'
   pagrindžia:
     - c-001
 

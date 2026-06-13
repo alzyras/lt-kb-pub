@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-87115"></a>
 - t-001
   global_id: t-87115
-  teiginys: 'Gediminas įsakė pastatyti mūrinę pilį ant paaukštinto kalno Vilnelės ir Vilijos santakoje.'
+  teiginys: 'Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gediminas įsakė pastatyti mūrinę pilį ant paaukštinto kalno Vilnelės ir Vilijos santakoje.'
+  santrauka: 'Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
@@ -85,4 +85,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Gediminas]]

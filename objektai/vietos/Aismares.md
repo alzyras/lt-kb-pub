@@ -28,7 +28,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
 <a id="claim-t-58511"></a>
 - t-001
   global_id: t-58511
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
+  teiginys: 'Aismarės vėliau vadintos Frische Haff ir Vyslos įlanka.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aismarės vėliau vadintos Frische Haff ir Vyslos įlanka.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie vieną stebuklą

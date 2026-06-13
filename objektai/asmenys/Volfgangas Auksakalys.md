@@ -28,13 +28,14 @@ periodo_grupes:
 <a id="claim-t-87887"></a>
 - t-001
   global_id: t-87887
-  teiginys: '24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų.'
+  teiginys: 'Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rašyta Vilniaus mieste, 1507 me­

@@ -65,7 +65,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 <a id="claim-t-83428"></a>
 - t-006
   global_id: t-83428
-  teiginys: 'Dabar sienos ir trys kiti bokštai gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į Jurbarką krosnims ir dūmtraukiams mūryti.'
+  teiginys: 'Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
 

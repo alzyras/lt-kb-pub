@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-75352"></a>
 - t-002
   global_id: t-75352
-  teiginys: 'Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę.'
+  teiginys: 'Zigmantas Sierakauskas, paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu, Kauno gubernijoje mėgino telkti sukilėlių būrius į armiją.'
   pagrindžia:
     - c-001
 
@@ -64,13 +64,12 @@ Nenurodyta
   global_id: t-75353
   teiginys: 'Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą.'
   pagrindžia:
-    - c-002
     - c-003
 
 <a id="claim-t-75354"></a>
 - t-004
   global_id: t-75354
-  teiginys: 'Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.'
+  teiginys: 'Prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir viešai pakartas Vilniuje.'
   pagrindžia:
     - c-001
 
@@ -84,7 +83,7 @@ Nenurodyta
 <a id="claim-t-75356"></a>
 - t-006
   global_id: t-75356
-  teiginys: '1863 m. pabaigoje A. Mackevičius ir K. Kalinauskas pateko sukilimo slopintojams į rankas ir netrukus buvo viešai pakarti.'
+  teiginys: '1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.'
   pagrindžia:
     - c-002
 
@@ -116,6 +115,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors liepos mėn. Lenkijos sukilėlių vyriausybė į Lietu-
@@ -174,7 +174,7 @@ Nenurodyta
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/zodynas/gubernija]]
 - [[objektai/asmenys/Konstantinas Kalinauskas]]
+- [[objektai/zodynas/gubernija]]
 - [[objektai/asmenys/M. Muravjovas]]
 - [[objektai/asmenys/Michailas Muravjovas]]

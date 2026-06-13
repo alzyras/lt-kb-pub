@@ -41,7 +41,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 <a id="claim-t-113194"></a>
 - t-002
   global_id: t-113194
-  teiginys: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
+  teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
     - c-005
 
@@ -62,14 +62,14 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 <a id="claim-t-113197"></a>
 - t-005
   global_id: t-113197
-  teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  teiginys: 'Vytauto įtaka Pskovo ir Naugardo respublikose buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-113198"></a>
 - t-006
   global_id: t-113198
-  teiginys: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
+  teiginys: 'Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.'
   pagrindžia:
     - c-004
 
@@ -133,6 +133,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - t-004
 
 - c-004
+  santrauka: 'Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palenkdamas rusų bojari-
@@ -152,6 +153,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - t-006
 
 - c-005
+  santrauka: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^122) I SKYRIUS: LIETUVOS PROISTORĖ

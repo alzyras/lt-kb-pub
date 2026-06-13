@@ -211,6 +211,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Napoleonas Bonapartas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vosylius II]]

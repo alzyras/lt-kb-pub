@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-183329"></a>
 - t-004
   global_id: t-183329
-  teiginys: 'Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
+  teiginys: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius Targovicos konfederatams.'
   pagrindžia:
     - c-003
 
@@ -111,7 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.'
+  santrauka: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius Targovicos konfederatams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
@@ -131,6 +131,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/egzekucija]]
+- [[objektai/grupes/Jakobinų klubas]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
-- [[objektai/grupes/Jakobinų klubas]]

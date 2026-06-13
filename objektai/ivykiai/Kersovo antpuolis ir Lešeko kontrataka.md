@@ -36,13 +36,14 @@ Nenurodyta
 <a id="claim-t-62312"></a>
 - t-001
   global_id: t-62312
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių žūtį Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės dalyje, kuri vadinama Kersovu, ir, išžudę daugybę krikščionių, pasitraukė su dideliu grobiu. Tuo metu, kai šitai dėjosi.'
+  teiginys: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
@@ -67,4 +68,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Lešekas]]
 - [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]

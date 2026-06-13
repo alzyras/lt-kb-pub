@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-78638"></a>
 - t-001
   global_id: t-78638
-  teiginys: 'Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudarytas vykdomosios valdžios organas - Lietuvos Tautinė aukščiausia taryba (Roda Naididžiausia Naradaus Lietuvos).'
+  teiginys: '1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.'
   pagrindžia:
     - c-001
 
@@ -79,7 +79,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/organas]]

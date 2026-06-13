@@ -22,7 +22,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 <a id="claim-t-89172"></a>
 - t-001
   global_id: t-89172
-  teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
+  teiginys: 'Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.'
   pagrindžia:
     - c-003
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 <a id="claim-t-89174"></a>
 - t-003
   global_id: t-89174
-  teiginys: 'Dusburgietis teigia, kad magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio, kurio.'
+  teiginys: 'Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.'
   pagrindžia:
     - c-004
 
@@ -89,6 +89,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-004
 
 - c-003
+  santrauka: 'Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
@@ -110,6 +111,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-001
 
 - c-004
+  santrauka: 'Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į

@@ -19,13 +19,14 @@ Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.
 <a id="claim-t-86228"></a>
 - t-001
   global_id: t-86228
-  teiginys: 'Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.'
+  teiginys: 'Pranciškonų bažnyčios ir vienuolyno vietoje seniau buvo Goštauto dvaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pranciškonų bažnyčios ir vienuolyno vietoje seniau buvo Goštauto dvaras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     11. Pranciškonų bažnyčia ir vienuolynas, seniau - Goštauto dvaras.

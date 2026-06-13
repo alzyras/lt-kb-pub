@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-59705"></a>
 - t-001
   global_id: t-59705
-  teiginys: 'Dusburgietis teigia, kad grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus.'
+  teiginys: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas
@@ -68,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur, nekreipdamas dėmesio į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o kiti išbėgiojo palikę visus.'
+  santrauka: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
@@ -94,6 +95,7 @@ Nenurodyta
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
 - [[objektai/asmenys/Kudaras iš Sūduvos]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]

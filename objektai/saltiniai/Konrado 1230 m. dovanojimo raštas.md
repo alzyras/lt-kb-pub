@@ -29,13 +29,14 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
 <a id="claim-t-61101"></a>
 - t-001
   global_id: t-61101
-  teiginys: 'Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis 1230 m. kunigaikščio Konrado dovanojamuoju raštu (II, 5), popiežiaus 1230 m.'
+  teiginys: 'M. Tepenas nurodė, kad Dusburgietis rėmėsi 1230 m. kunigaikščio Konrado dovanojamuoju raštu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Tepenas nurodė, kad Dusburgietis rėmėsi 1230 m. kunigaikščio Konrado dovanojamuoju raštu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vadinasi, kronikininkas Dusburgietis formavo magistrų registrą121.

@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-62359"></a>
 - t-001
   global_id: t-62359
-  teiginys: 'Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.'
+  teiginys: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'
   pagrindžia:
     - c-001
     - c-002
@@ -46,6 +46,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie laivų kautynes
@@ -65,6 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     288 Dusburgietis čia praleidžia savo šaltinio (Henriko iš Hohenlohės pranešimo, SRP,
@@ -84,3 +86,4 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Konradas Bremeris]]
+- [[objektai/asmenys/Sventopelkas]]

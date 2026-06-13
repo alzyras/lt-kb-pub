@@ -33,7 +33,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 <a id="claim-t-58522"></a>
 - t-002
   global_id: t-58522
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito pilį334, ir anksčiau.'
+  teiginys: '1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     - t-001
 
 - c-002
+  santrauka: '1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė

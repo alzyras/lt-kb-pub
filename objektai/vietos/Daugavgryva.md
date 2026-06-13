@@ -36,14 +36,14 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 <a id="claim-t-49647"></a>
 - t-002
   global_id: t-49647
-  teiginys: 'Galutinai blokadą pavyko panaikinti 1609 m. rugsėjo 29 d., užėmus Daugavgryvos tvirtovę.'
+  teiginys: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę galutinai pavyko panaikinti Rygos blokadą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-49648"></a>
 - t-003
   global_id: t-49648
-  teiginys: '1609 m. kovo mėnesį jis pabandė pulti Daugavgryvą ir taip pralaužti Rygos blokadą, bet papildomais įtvirtinimais sustiprinę senąją tvirtovę, Nilsomo Sternskioldomo vadodinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patranJoną.'
+  teiginys: '1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė.'
   pagrindžia:
     - c-001
 
@@ -77,6 +77,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     - t-001
 
 - c-002
+  santrauka: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę galutinai pavyko panaikinti Rygos blokadą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Galutinai blokadą pavyko panai-

@@ -19,13 +19,14 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 <a id="claim-t-20960"></a>
 - t-001
   global_id: t-20960
-  teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
+  teiginys: 'Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
@@ -48,4 +49,5 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 - [[objektai/zodynas/Filosemitas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

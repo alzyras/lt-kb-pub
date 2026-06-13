@@ -42,7 +42,14 @@ Nenurodyta
 <a id="claim-t-62875"></a>
 - t-001
   global_id: t-62875
-  teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+  teiginys: '1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių, nukovė arba paėmė į nelaisvę 200 žmonių.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183945"></a>
+- t-002
+  global_id: t-183945
+  teiginys: 'Per 1316 m. žygį į Medininkų valsčių grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius.'
   pagrindžia:
     - c-001
 
@@ -71,6 +78,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

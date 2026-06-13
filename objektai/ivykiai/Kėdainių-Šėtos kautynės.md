@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-41295"></a>
 - t-001
   global_id: t-41295
-  teiginys: 'Naujosiose Kėdainių kapinėse buvo palaidoti ir 40 žuvusių lietuvių karių.'
+  teiginys: 'Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
   pagrindžia:
     - c-004
 
@@ -150,6 +150,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nukauti

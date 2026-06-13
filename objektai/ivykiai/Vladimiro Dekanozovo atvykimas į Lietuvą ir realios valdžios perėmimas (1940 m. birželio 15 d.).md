@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-183285"></a>
 - t-003
   global_id: t-183285
-  teiginys: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
+  teiginys: '1940 m. birželio 15 d. į Lietuvą iš Maskvos atvykusiam Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.'
   pagrindžia:
     - c-003
 
@@ -95,7 +95,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
+  santrauka: '1940 m. birželio 15 d. į Lietuvą iš Maskvos atvykusiam Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo šiol trijulės likimas

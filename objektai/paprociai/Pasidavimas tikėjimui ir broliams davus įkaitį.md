@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-62705"></a>
 - t-001
   global_id: t-62705
-  teiginys: 'Dusburgietis teigia, kad štai todėl pagudėnai, nors šiaip ir smarkiai kovojo su broliais, matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė, davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.'
+  teiginys: 'Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių

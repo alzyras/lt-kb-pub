@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-81865"></a>
 - t-002
   global_id: t-81865
-  teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
+  teiginys: 'Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti

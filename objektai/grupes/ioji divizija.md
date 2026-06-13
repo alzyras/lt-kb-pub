@@ -20,13 +20,14 @@ tags:
 <a id="claim-t-80649"></a>
 - t-001
   global_id: t-80649
-  teiginys: '(3-iajai divizijai: Vištyčio ež.- Rūdelė-Smalėnai-Klevai-Dimitravo ež., 2-ajai divizijai: Dimitravo ež.-Meros upėAugustavo kanalas-Nemunas.'
+  teiginys: '3-iajai divizijai buvo numatyta užimti gynybines pozicijas ruože Vištyčio ežeras–Rūdelė–Smalėnai–Klevai–Dimitravo ežeras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '3-iajai divizijai buvo numatyta užimti gynybines pozicijas ruože Vištyčio ežeras–Rūdelė–Smalėnai–Klevai–Dimitravo ežeras.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nutarta užimti gynybines

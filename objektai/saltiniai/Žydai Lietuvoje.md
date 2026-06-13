@@ -25,13 +25,14 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
 <a id="claim-t-32029"></a>
 - t-001
   global_id: t-32029
-  teiginys: 'Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias Lietuvos Tribunolas XVI-XVIII amž.'
+  teiginys: '„Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visą laiką, būdamas katedros vedėju, Lietuvos teisės

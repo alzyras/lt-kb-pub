@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-62669"></a>
 - t-001
   global_id: t-62669
-  teiginys: 'Dusburgietis teigia, kad šitai pastebėję, prūsai smarkiai ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.'
+  teiginys: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
   pagrindžia:
     - c-001
     - c-002
@@ -48,6 +48,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
@@ -65,6 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to priėjo Torunę ir sudegino

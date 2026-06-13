@@ -36,13 +36,14 @@ Nenurodyta
 <a id="claim-t-62464"></a>
 - t-001
   global_id: t-62464
-  teiginys: 'Dusburgietis teigia, kad apie saldžią rasą, užkritusią pasėlius Prancūzijoje apie švento Jono Krikštytojo šventę (birželio 24) saldi rasa, leisdamasi iš dangaus, taip užkrito pasėlių varpas, kad daug žmonių, paėmę jas į burną, kuo aiškiausiai jautė medaus kvapą (Ptol.'
+  teiginys: 'Apie birželio 24 d. Prancūzijoje saldi rasa nukrito ant pasėlių varpų, o žmonės burnoje jautė medaus kvapą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie birželio 24 d. Prancūzijoje saldi rasa nukrito ant pasėlių varpų, o žmonės burnoje jautė medaus kvapą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie saldžią rasą, užkritusią pasėlius
@@ -55,3 +56,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

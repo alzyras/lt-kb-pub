@@ -22,13 +22,14 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
 <a id="claim-t-80633"></a>
 - t-001
   global_id: t-80633
-  teiginys: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
+  teiginys: 'Lenkų pusė naktį gavo telefonogramą apie karo paliaubas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų pusė naktį gavo telefonogramą apie karo paliaubas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.
@@ -48,3 +49,4 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/paliaubos]]
+- [[objektai/grupes/Lenkai]]

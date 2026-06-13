@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-86939"></a>
 - t-001
   global_id: t-86939
-  teiginys: 'Ši trokštama žinia jau merdintį Aleksandrą pasiekė Vilniuje.'
+  teiginys: 'Žinia apie 1506 m. rugpjūtį pasiektą pergalę ties Klecku merdintį Aleksandrą Jogailaitį pasiekė Vilniuje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žinia apie 1506 m. rugpjūtį pasiektą pergalę ties Klecku merdintį Aleksandrą Jogailaitį pasiekė Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gausūs Krymo ordos ka­
@@ -69,3 +70,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

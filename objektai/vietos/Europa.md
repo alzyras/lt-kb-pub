@@ -36,14 +36,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   global_id: t-109172
   teiginys: 'Lietuva, pagonybės atskirta nuo kitų Europos šalių, savo narsa atrėmė mongolų antpuolius ir priešinosi Prūsijos Kryžiuočių ordinui.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-109173"></a>
 - t-002
   global_id: t-109173
   teiginys: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-109174"></a>
 - t-003
@@ -57,7 +57,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   global_id: t-109175
   teiginys: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-109176"></a>
 - t-005
@@ -78,14 +78,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   global_id: t-109178
   teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-109179"></a>
-- t-008
-  global_id: t-109179
-  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
-  pagrindžia:
-    - c-003
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -120,21 +113,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - t-006
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
-    va akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtė-
-    jo ekonomiškai. Dabartinė Lietuva yra visavertė demokratinė Europos
-    valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
-    Europos valstybių likimas.
-    Trakų pilis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-004
   santrauka: 'Lietuva, pagonybės atskirta nuo kitų Europos šalių, savo narsa atrėmė mongolų antpuolius ir priešinosi Prūsijos Kryžiuočių ordinui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -181,7 +159,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - t-001
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -198,7 +176,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybė aukštosioms mokykloms užtikrino autonomi-

@@ -49,7 +49,7 @@ amziai:
 <a id="claim-t-88118"></a>
 - t-004
   global_id: t-88118
-  teiginys: 'Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.'
+  teiginys: 'Lindenblatt Jahrbücher minėjo 1401 m. Vilniuje Šv. Priskos, mergelės ir kankinės, dieną duotą Lietuvos prelatus liečiančią privilegiją.'
   pagrindžia:
     - c-004
 
@@ -128,6 +128,7 @@ amziai:
     - t-003
 
 - c-004
+  santrauka: 'Lindenblatt Jahrbücher minėjo 1401 m. Vilniuje Šv. Priskos, mergelės ir kankinės, dieną duotą Lietuvos prelatus liečiančią privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Privilegium ir kankinės, dieną, Viešp. metais

@@ -25,13 +25,14 @@ amziai:
 <a id="claim-t-100180"></a>
 - t-001
   global_id: t-100180
-  teiginys: '(”) Kęstučio šeima, Mūsų Žinynas, 1933, nr.'
+  teiginys: '„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Kęstučio šeima“ buvo paskelbta žurnalo „Mūsų Žinynas“ 1933 m. 98–99 numeriuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99. —

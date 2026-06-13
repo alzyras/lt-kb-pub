@@ -27,7 +27,7 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
 <a id="claim-t-78118"></a>
 - t-001
   global_id: t-78118
-  teiginys: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
+  teiginys: '1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-

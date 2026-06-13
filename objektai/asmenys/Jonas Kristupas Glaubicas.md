@@ -57,19 +57,19 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   global_id: t-23205
   teiginys: 'Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu.'
   pagrindžia:
-    - c-001
+    - c-002
 
 <a id="claim-t-23206"></a>
 - t-006
   global_id: t-23206
   teiginys: 'Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo – Vilniaus baroko mokyklą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-24544"></a>
 - t-008
   global_id: t-24544
-  teiginys: 'Glaubico kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.'
+  teiginys: 'Jono Kristupo Glaubico kūrybos trisdešimtmetis 1737–1767 m. knygoje vertinamas kaip ryškus senosios Lietuvos civilizacijos reiškinys.'
   pagrindžia:
     - c-004
 
@@ -131,6 +131,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-007
 
 - c-004
+  santrauka: 'Jono Kristupo Glaubico kūrybos trisdešimtmetis 1737–1767 m. knygoje vertinamas kaip ryškus senosios Lietuvos civilizacijos reiškinys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryškiausias ypatumas – ypač aukšti ir

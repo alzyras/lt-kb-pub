@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-59711"></a>
 - t-001
   global_id: t-59711
-  teiginys: 'Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą.'
+  teiginys: 'Brolis Ditrichas nugabeno Šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai pasitiktos ir padėtos bažnyčioje prie senosios pilies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Ditrichas nugabeno Šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai pasitiktos ir padėtos bažnyčioje prie senosios pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
@@ -65,3 +66,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barbora Radvilaitė]]

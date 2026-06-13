@@ -28,7 +28,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 <a id="claim-t-32788"></a>
 - t-002
   global_id: t-32788
-  teiginys: 'Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo išorinių priešų.'
+  teiginys: 'XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
     - t-001
 
 - c-002
+  santrauka: 'XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     giminės apgyventa ir sutvirtinta kalva, vėliau virto tikra pilimi.
@@ -188,13 +189,19 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]
 - [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/autoriai/Antanas Tatarė]]
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
 - [[objektai/asmenys/Karolis Garuckas|Karolis Garuckas (kunigas)]]
 - [[objektai/asmenys/Konradas (Baigos kunigas)]]
+- [[objektai/asmenys/Konradas (Vokietijos kunigas)]]
+- [[objektai/ivykiai/Konrado misionieriaus nužudymas Lietuvoje (1285-1287 m.)]]
 - [[objektai/ivykiai/Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.)]]
 - [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
+- [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
+- [[objektai/asmenys/V. Mironas]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]
 - [[objektai/asmenys/Vladas Mironas]]

@@ -43,7 +43,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
 <a id="claim-t-60565"></a>
 - t-003
   global_id: t-60565
-  teiginys: 'Dusburgietis teigia, kad legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.'
+  teiginys: 'Vėlius N. legendinius kunigaikščius siejo su žyniauti gebėjusių asmenų gimine.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
     - t-001
 
 - c-002
+  santrauka: 'Vėlius N. legendinius kunigaikščius siejo su žyniauti gebėjusių asmenų gimine.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų

@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-59656"></a>
 - t-001
   global_id: t-59656
-  teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m., tai yra 1209-1210 m.'
+  teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra su 1209–1210 m. įvykiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m., tai yra 1209-1210 m.'
+  santrauka: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra su 1209–1210 m. įvykiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.

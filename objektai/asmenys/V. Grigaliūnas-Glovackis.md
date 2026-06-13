@@ -20,7 +20,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 <a id="claim-t-49490"></a>
 - t-001
   global_id: t-49490
-  teiginys: 'GrigaliūnoGlovackio vadovaujama kovinė grupė, kurią sudarė 2-asis ir 10-asis pėstininkų pulkai bei 6-ojo pulko batalionas, taip pat 5-oji ir 9-oji artilerijos baterijos bei 2-ojo husarų pulko eskadronas, rugpjūčio 23 d. grupę papildė 5-asis pulkas, kovų.'
+  teiginys: 'V. Grigaliūno-Glovackio vadovaujamą kovinę grupę sudarė 2-asis ir 10-asis pėstininkų pulkai, 6-ojo pulko batalionas, 5-oji ir 9-oji artilerijos baterijos ir 2-ojo husarų pulko eskadronas.'
   pagrindžia:
     - c-003
 

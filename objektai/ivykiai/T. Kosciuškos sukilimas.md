@@ -38,13 +38,14 @@ Nenurodyta
 <a id="claim-t-77916"></a>
 - t-001
   global_id: t-77916
-  teiginys: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
+  teiginys: 'Tado Kosciuškos sukilimo metu Laurynas Gucevičius tapo Vilniaus gvardijos vadu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tado Kosciuškos sukilimo metu Laurynas Gucevičius tapo Vilniaus gvardijos vadu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių
@@ -63,6 +64,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/asmenys/Laurynas Gucevičius]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]

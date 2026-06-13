@@ -37,7 +37,7 @@ Nenurodyta
 <a id="claim-t-62483"></a>
 - t-001
   global_id: t-62483
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai.'
+  teiginys: 'Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.'
   pagrindžia:
     - c-001
 
@@ -66,4 +66,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/paprociai/Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos|Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)]]

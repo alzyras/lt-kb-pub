@@ -31,13 +31,6 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   pagrindžia:
     - c-002
 
-<a id="claim-t-183662"></a>
-- t-003
-  global_id: t-183662
-  teiginys: 'Dar 5 stribai nukauti kitą dieną Perlojoje Marcinkonių bataliono vyrų (partizanai nuostolių nepatyrė).'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,7 +75,7 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
     - t-002
 
 - c-003
-  santrauka: 'Dar 5 stribai nukauti kitą dieną Perlojoje Marcinkonių bataliono vyrų (partizanai nuostolių nepatyrė).'
+  santrauka: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priešo pusėje žuvo 15 NKVD karių

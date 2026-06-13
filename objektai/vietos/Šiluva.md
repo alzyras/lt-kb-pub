@@ -25,13 +25,14 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 <a id="claim-t-47480"></a>
 - t-001
   global_id: t-47480
-  teiginys: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
+  teiginys: 'Nuo 1958 m. sovietų valdžia ribojo atlaidų lankymą Šiluvoje, blokuodama miestelį neva dėl „kiaulių maro“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nuo 1958 m. sovietų valdžia ribojo atlaidų lankymą Šiluvoje, blokuodama miestelį neva dėl „kiaulių maro“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-

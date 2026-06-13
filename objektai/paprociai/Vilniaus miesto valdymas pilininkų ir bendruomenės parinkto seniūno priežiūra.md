@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-55161"></a>
 - t-001
   global_id: t-55161
-  teiginys: 'Vilnius savo kilimo pradžioje turėjo laikytis tokios tvarkos, kokia buvo ir kitur leninio valdymo aplinkoje.'
+  teiginys: 'Gedimino laikais Vilnius, iškilęs iki miesto, turėjo laikytis leninio valdymo aplinkoje nusistovėjusios tvarkos.'
   pagrindžia:
     - c-001
 
@@ -70,6 +70,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino laikais Vilnius, iškilęs iki miesto, turėjo laikytis leninio valdymo aplinkoje nusistovėjusios tvarkos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­

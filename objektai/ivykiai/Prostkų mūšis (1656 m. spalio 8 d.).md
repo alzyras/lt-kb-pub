@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-78634"></a>
 - t-003
   global_id: t-78634
-  teiginys: 'Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.'
+  teiginys: 'Spalio 8 d. ties Prostkais priešingos kariuomenės suartėjo prie Elko upės.'
   pagrindžia:
     - c-004
 

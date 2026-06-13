@@ -35,7 +35,7 @@ Dėl to atgaivinta Seimo institucija.
 <a id="claim-t-183133"></a>
 - t-002
   global_id: t-183133
-  teiginys: 'Dėl to atgaivinta Seimo institucija.'
+  teiginys: '1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, nes opozicijos atstovams neleista juose dalyvauti.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Dėl to atgaivinta Seimo institucija.
     - t-001
 
 - c-002
-  santrauka: 'Dėl to atgaivinta Seimo institucija.'
+  santrauka: '1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, nes opozicijos atstovams neleista juose dalyvauti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to atgaivinta Seimo institucija.

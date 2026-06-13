@@ -83,7 +83,7 @@ Nenurodyta
 <a id="claim-t-54192"></a>
 - t-007
   global_id: t-54192
-  teiginys: 'Iki Salaspilio mūšio vidudienio abi kariuomenės stovėjo nepajudėjusios.'
+  teiginys: 'Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.'
   pagrindžia:
     - c-005
 

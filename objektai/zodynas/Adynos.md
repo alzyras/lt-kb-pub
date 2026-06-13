@@ -204,6 +204,7 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 - [[objektai/posakiai/„nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis...“]]
 - [[objektai/asmenys/Christiaan Barnard]]
 - [[objektai/asmenys/Davidas Suchetas]]
+- [[objektai/ivykiai/Didysis saulės užtemimas (1241 m. birželio 3 d.)]]
 - [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/ivykiai/Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.)]]
@@ -213,3 +214,4 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 - [[objektai/autoriai/W. Eckert]]
 - [[objektai/zodynas/Pusrytės|pusrytės]]
 - [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]
+- [[objektai/posakiai/„idealiąją Lietuvą“]]

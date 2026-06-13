@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-87242"></a>
 - t-001
   global_id: t-87242
-  teiginys: 'Taip pat jeigu žydas paimtų iš krikščionies užstatą ir per visus metus laikytų, o tas užstatas tų pinigų nesiektų, Atmintinė - bylą laimėjusio mokesmėtą bylą ar turto perleidimo įrašytis teisėjui ir jo pavaduotojui už laimą į teismo knygas (vert.'
+  teiginys: 'Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jeigu žydas metus laikytą krikščionio užstatą vertino mažiau už skolą, jis turėjo parodyti užstatą savo teisėjui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat jeigu žydas paimtų iš krikščionies užstatą ir

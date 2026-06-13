@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-77906"></a>
 - t-001
   global_id: t-77906
-  teiginys: 'Ši fatališka klaida daug kainuos lenkams ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius.'
+  teiginys: '1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią

@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-66494"></a>
 - t-002
   global_id: t-66494
-  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji bermontininkai, vadovaujami plk.'
+  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
   pagrindžia:
     - c-001
 
@@ -65,13 +65,14 @@ Nenurodyta
 <a id="claim-t-66496"></a>
 - t-004
   global_id: t-66496
-  teiginys: 'Lietuvos vyriausybė negalėjo užkirsti jai kelio, nes tuo metu Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
+  teiginys: 'Lietuvos vyriausybė negalėjo sustabdyti plk. Virgoličiaus rinktinės, nes Lietuvos kariuomenė tuo metu kovėsi su bolševikais Dauguvos fronte.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bermonto ėmė
@@ -90,6 +91,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos vyriausybė negalėjo sustabdyti plk. Virgoličiaus rinktinės, nes Lietuvos kariuomenė tuo metu kovėsi su bolševikais Dauguvos fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus

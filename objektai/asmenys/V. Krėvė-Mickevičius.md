@@ -18,22 +18,15 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 
 ## Teiginiai
 
-<a id="claim-t-64198"></a>
+<a id="claim-t-64199"></a>
 - t-001
-  global_id: t-64198
-  teiginys: 'Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą.'
+  global_id: t-64199
+  teiginys: 'Po J. Stalino mirties V. Krėvė-Mickevičius buvo reabilituotas, o jo kūriniai vėl išspausdinti.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-64199"></a>
-- t-002
-  global_id: t-64199
-  teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-64200"></a>
-- t-003
+- t-002
   global_id: t-64200
   teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
@@ -58,31 +51,10 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
-    žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
-    reikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-
-    jusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara
-    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
-    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
-    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
-    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
-    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
-    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
-    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
-    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
-    žydai tarpusavyje dažnai vartojo rusų kalbą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: 'Po J. Stalino mirties V. Krėvė-Mickevičius buvo reabilituotas, o jo kūriniai vėl išspausdinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -101,19 +73,17 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Jidiš]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/MOPR]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]
 - [[objektai/zodynas/judobolševizmas]]
 - [[objektai/zodynas/valymo operacijos]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
 - [[objektai/posakiai/„kovos su judobolševizmu“]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]

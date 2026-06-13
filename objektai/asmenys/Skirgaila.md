@@ -50,14 +50,14 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 <a id="claim-t-179642"></a>
 - t-002
   global_id: t-179642
-  teiginys: 'Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, o tai privedė prie atviro susirėmimo.'
+  teiginys: 'Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-179643"></a>
 - t-003
   global_id: t-179643
-  teiginys: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
+  teiginys: '1393 m. tarp Vytauto ir Skirgailos vėl kilo smarkus ginčas, kuriam spręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   pagrindžia:
     - c-024
 
@@ -127,21 +127,21 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 <a id="claim-t-179656"></a>
 - t-013
   global_id: t-179656
-  teiginys: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių vienas jų gavo Kijevo kunigaikštystę.'
+  teiginys: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-179657"></a>
 - t-014
   global_id: t-179657
-  teiginys: 'Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  teiginys: '1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.'
   pagrindžia:
     - c-025
 
 <a id="claim-t-179658"></a>
 - t-015
   global_id: t-179658
-  teiginys: 'O Skirgaila, sėkmingai apgulęs Polocką, kur jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.'
+  teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   pagrindžia:
     - c-019
 
@@ -274,21 +274,14 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 <a id="claim-t-179677"></a>
 - t-034
   global_id: t-179677
-  teiginys: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu ir nusprendė išvyti jį iš sostinės bei paimti valdžią.'
+  teiginys: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.'
   pagrindžia:
     - c-021
 
 <a id="claim-t-179678"></a>
 - t-035
   global_id: t-179678
-  teiginys: 'Karalius, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.'
-  pagrindžia:
-    - c-010
-
-<a id="claim-t-179679"></a>
-- t-036
-  global_id: t-179679
-  teiginys: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
+  teiginys: 'Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.'
   pagrindžia:
     - c-010
 
@@ -654,6 +647,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-007
 
 - c-019
+  santrauka: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pačiam Sviatoslavui žuvus
@@ -692,6 +686,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-021
 
 - c-021
+  santrauka: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliui išvykus į Lenkiją, Vytauto padė­
@@ -757,6 +752,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-004
 
 - c-024
+  santrauka: '1393 m. tarp Vytauto ir Skirgailos vėl kilo smarkus ginčas, kuriam spręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dlu­
@@ -773,6 +769,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-003
 
 - c-025
+  santrauka: '1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
@@ -986,6 +983,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Karigaila]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
 - [[objektai/asmenys/Andrius Polockietis]]

@@ -37,7 +37,7 @@ amziai:
 <a id="claim-t-10470"></a>
 - t-002
   global_id: t-10470
-  teiginys: 'Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.'
+  teiginys: 'Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ATR pripažino

@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-95954"></a>
 - t-001
   global_id: t-95954
-  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  teiginys: 'Prieš Tanenbergo mūšį pasiuntiniai atnešė du kardus kryžiuočių didžiojo magistro paliepimu.'
   pagrindžia:
     - c-002
 
@@ -80,6 +80,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Prieš Tanenbergo mūšį pasiuntiniai atnešė du kardus kryžiuočių didžiojo magistro paliepimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos

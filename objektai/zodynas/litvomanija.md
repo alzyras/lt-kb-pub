@@ -28,13 +28,14 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
 <a id="claim-t-77798"></a>
 - t-001
   global_id: t-77798
-  teiginys: 'Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai nesusipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.'
+  teiginys: 'Dvarininkai, gindamiesi nuo „litvomanijos“, tolo nuo lietuviškai kalbančių kaimo gyventojų, o dalis kunigų konfliktavo su lietuvių siekiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dvarininkai, gindamiesi nuo „litvomanijos“, tolo nuo lietuviškai kalbančių kaimo gyventojų, o dalis kunigų konfliktavo su lietuvių siekiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus

@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-62127"></a>
 - t-001
   global_id: t-62127
-  teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
+  teiginys: 'Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1. Apie evangeliją: pradžioje buvo žodis
@@ -73,4 +74,6 @@ Nenurodyta
 - [[objektai/posakiai/Pradžioje buvo žodis]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/suma]]

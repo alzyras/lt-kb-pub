@@ -22,7 +22,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 <a id="claim-t-60395"></a>
 - t-001
   global_id: t-60395
-  teiginys: 'Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats, apsirengęs moteriškais.'
+  teiginys: 'Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
@@ -122,6 +123,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas]]
 - [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
 - [[objektai/asmenys/Ernekė]]

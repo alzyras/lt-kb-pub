@@ -87,4 +87,3 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/grupes/Šerno rinktinė]]
-- [[objektai/grupes/Žebenkšties rinktinė]]

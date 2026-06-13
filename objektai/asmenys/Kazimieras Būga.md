@@ -36,7 +36,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 <a id="claim-t-183549"></a>
 - t-002
   global_id: t-183549
-  teiginys: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
+  teiginys: 'Kazimieras Būga 1902 m. pradėjo lietuvių kalbos žodyno sudarymą, kuris buvo tęsiamas vėlesniais laikotarpiais.'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
     - t-001
 
 - c-002
-  santrauka: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
+  santrauka: 'Kazimieras Būga 1902 m. pradėjo lietuvių kalbos žodyno sudarymą, kuris buvo tęsiamas vėlesniais laikotarpiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tęstas 1902 m. Kazi-

@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-179491"></a>
 - t-001
   global_id: t-179491
-  teiginys: 'Vėliavos netekimas laikytas didele nelaime.'
+  teiginys: 'Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės

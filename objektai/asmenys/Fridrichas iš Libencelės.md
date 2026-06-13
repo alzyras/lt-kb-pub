@@ -30,21 +30,21 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 <a id="claim-t-59953"></a>
 - t-001
   global_id: t-59953
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes, netgi vyskupų valdas (žr.'
+  teiginys: 'Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59954"></a>
 - t-002
   global_id: t-59954
-  teiginys: 'Dusburgietis teigia, kad apie 80 lietuvių žūtį 1316 metais Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies, turėjo iš čia pasitraukti, o į jų vietą ateiti.'
+  teiginys: '1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos ir išžudė Bisenės pilies sargybos lietuvius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59955"></a>
 - t-003
   global_id: t-59955
-  teiginys: 'Dusburgietis teigia, kad antra kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150 vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir.'
+  teiginys: 'Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.'
   pagrindžia:
     - c-003
 
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos ir išžudė Bisenės pilies sargybos lietuvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
@@ -78,6 +79,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - t-002
 
 - c-002
+  santrauka: 'Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais ir tuo pat laiku Eberhardas,
@@ -103,6 +105,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - t-001
 
 - c-003
+  santrauka: 'Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
@@ -157,4 +160,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]
+- [[objektai/zodynas/papilys]]

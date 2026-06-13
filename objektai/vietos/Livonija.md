@@ -94,7 +94,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180210"></a>
 - t-009
   global_id: t-180210
-  teiginys: '1) su Livonija sudarė prekybinę sutartį.'
+  teiginys: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'
   pagrindžia:
     - c-038
 
@@ -108,7 +108,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180212"></a>
 - t-011
   global_id: t-180212
-  teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.) pilies bažnyčioje.'
+  teiginys: 'Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.'
   pagrindžia:
     - c-028
 
@@ -129,7 +129,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180215"></a>
 - t-014
   global_id: t-180215
-  teiginys: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
+  teiginys: '1248 m. Mindaugo opoziciją sudarė jo brolvaikiai, pagalbon pasitelkę Livonijos ordiną ir Voluinę.'
   pagrindžia:
     - c-058
 
@@ -164,7 +164,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180220"></a>
 - t-019
   global_id: t-180220
-  teiginys: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
+  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.'
   pagrindžia:
     - c-060
 
@@ -227,7 +227,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180232"></a>
 - t-029
   global_id: t-180232
-  teiginys: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
+  teiginys: 'Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija.'
   pagrindžia:
     - c-047
 
@@ -241,7 +241,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180234"></a>
 - t-031
   global_id: t-180234
-  teiginys: 'Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o 1372 puolė vienu metu iš Prūsų ir Livonijos.'
+  teiginys: 'Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos.'
   pagrindžia:
     - c-024
 
@@ -279,20 +279,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Livonija buvo valdoma abiejų jungtinių valstybių; mokesčiai iš jos vienais metais eidavo į Lietuvos, o kitais metais į Lenkijos iždą.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-180240"></a>
-- t-037
-  global_id: t-180240
-  teiginys: 'Batorui ateinant į sostą, tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Livonijos (žiūr.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-180241"></a>
-- t-038
-  global_id: t-180241
-  teiginys: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
-  pagrindžia:
-    - c-010
 
 <a id="claim-t-180242"></a>
 - t-039
@@ -346,7 +332,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180249"></a>
 - t-046
   global_id: t-180249
-  teiginys: 'Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus Inocento rūpesčiu į Kristaus tikėjimą (Ptol.'
+  teiginys: '1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
   pagrindžia:
     - c-057
 
@@ -367,7 +353,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180252"></a>
 - t-049
   global_id: t-180252
-  teiginys: 'Tuo metu pačiai Lietuvai grėsė pavojus iš Švedijos - švedai 1621 m. užėmė didelę dalį Livonijos, karu grasino ir Rusija, tačiau nepaisant to, lietuviai atskubėjo lenkams į pagalbą kovoje su turkais.'
+  teiginys: '1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.'
   pagrindžia:
     - c-055
 
@@ -444,21 +430,21 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180263"></a>
 - t-060
   global_id: t-180263
-  teiginys: 'Kad būtų lengviau gintis, jis pastatė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu.'
+  teiginys: 'Livonijos vyskupas Albertas 1201 m. pastatė Rygos pilį, vėliau tapusią Livonijos centru ir didžiausiu miestu.'
   pagrindžia:
     - c-044
 
 <a id="claim-t-180264"></a>
 - t-061
   global_id: t-180264
-  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  teiginys: 'Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos.'
   pagrindžia:
     - c-035
 
 <a id="claim-t-180265"></a>
 - t-062
   global_id: t-180265
-  teiginys: 'Dusburgietis teigia, kad karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją.'
+  teiginys: 'Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją.'
   pagrindžia:
     - c-039
 
@@ -475,13 +461,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Livonijai buvo pripažinta tikėjimo laisvė ir plati savivaldybė.'
   pagrindžia:
     - c-034
-
-<a id="claim-t-180268"></a>
-- t-065
-  global_id: t-180268
-  teiginys: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
-  pagrindžia:
-    - c-022
 
 <a id="claim-t-180269"></a>
 - t-066
@@ -521,7 +500,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180274"></a>
 - t-071
   global_id: t-180274
-  teiginys: 'Šitaip pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir necrologium14 15.'
+  teiginys: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
   pagrindžia:
     - c-043
 
@@ -556,14 +535,14 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180279"></a>
 - t-076
   global_id: t-180279
-  teiginys: 'Kita vertus, svarbu, kad ir tragiškomis aplinkybėmis buvo suduotas lemiamas smūgis Livonijos ordinui, tuo pačiu ir visam Vokiečių-kryžiuočių ordinui.'
+  teiginys: 'Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-180280"></a>
 - t-077
   global_id: t-180280
-  teiginys: 'Švitrigaila buvo remiamas visos Prūsijos ir Livonijos kryžiuočių galybės.'
+  teiginys: 'Švitrigaila, siekdamas tapti Lietuvos valdovu, rėmėsi Prūsijos ir Livonijos kryžiuočių galybe.'
   pagrindžia:
     - c-011
 
@@ -577,7 +556,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 <a id="claim-t-180283"></a>
 - t-079
   global_id: t-180283
-  teiginys: '1582 m. sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam buvo grąžinti tik Didieji Lukai.'
+  teiginys: '1582 m. sausio 15 d. sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-002
 
@@ -977,6 +956,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-002
 
 - c-018
+  santrauka: 'Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apgailestautina, kad
@@ -1164,6 +1144,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-063
 
 - c-028
+  santrauka: 'Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vienos
@@ -1308,6 +1289,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-064
 
 - c-035
+  santrauka: 'Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
@@ -1347,6 +1329,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-052
 
 - c-038
+  santrauka: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Yra tikra tiek,
@@ -1360,6 +1343,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-009
 
 - c-039
+  santrauka: 'Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai.
@@ -1441,6 +1425,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-028
 
 - c-043
+  santrauka: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­
@@ -1455,6 +1440,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-071
 
 - c-044
+  santrauka: 'Livonijos vyskupas Albertas 1201 m. pastatė Rygos pilį, vėliau tapusią Livonijos centru ir didžiausiu miestu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
@@ -1678,6 +1664,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-033
 
 - c-055
+  santrauka: '1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Susidarius grėsmingai si-
@@ -1717,6 +1704,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-004
 
 - c-057
+  santrauka: '1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Livonijos žemės atvertimą į tikėjimą
@@ -1730,6 +1718,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-046
 
 - c-058
+  santrauka: '1248 m. Mindaugo opoziciją sudarė jo brolvaikiai, pagalbon pasitelkę Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
@@ -1774,6 +1763,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-043
 
 - c-060
+  santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems

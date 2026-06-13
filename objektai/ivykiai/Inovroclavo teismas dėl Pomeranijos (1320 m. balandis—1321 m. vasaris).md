@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-59646"></a>
 - t-001
   global_id: t-59646
-  teiginys: 'Dusburgietis teigia, kad vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis atgauti kryžiuočių užgrobtą Pomeraniją.'
+  teiginys: 'Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis  atgauti

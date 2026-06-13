@@ -35,7 +35,7 @@ Nenurodyta
 <a id="claim-t-62944"></a>
 - t-001
   global_id: t-62944
-  teiginys: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
+  teiginys: 'Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.'
   pagrindžia:
     - c-001
     - c-002
@@ -43,6 +43,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
@@ -56,6 +57,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą

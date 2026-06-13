@@ -35,7 +35,14 @@ Nenurodyta
 <a id="claim-t-62402"></a>
 - t-001
   global_id: t-62402
-  teiginys: 'Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus.'
+  teiginys: 'Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183947"></a>
+- t-002
+  global_id: t-183947
+  teiginys: 'Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų.'
   pagrindžia:
     - c-001
 
@@ -66,3 +73,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/zodynas/magistras]]

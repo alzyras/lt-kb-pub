@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-62748"></a>
 - t-001
   global_id: t-62748
-  teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
+  teiginys: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
@@ -70,6 +71,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Flandrai]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/asmenys/Klemensas V]]
 - [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
-- [[objektai/asmenys/Klemensas V]]

@@ -44,15 +44,15 @@ Nenurodyta
 <a id="claim-t-62908"></a>
 - t-001
   global_id: t-62908
-  teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
+  teiginys: 'Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-62909"></a>
 - t-002
   global_id: t-62909
-  teiginys: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
+  teiginys: '1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai.'
   pagrindžia:
     - c-001
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,

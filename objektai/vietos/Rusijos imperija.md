@@ -41,13 +41,14 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 <a id="claim-t-47172"></a>
 - t-003
   global_id: t-47172
-  teiginys: 'Rusijos imperijos valdžia 40 metų laikėsi politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse, bet nepasiekė tikėtų rezultatų.'
+  teiginys: 'Rusijos imperijos valdžia 40 metų vykdė politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusijos imperijos valdžia 40 metų vykdė politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaip neprivaloma disciplina lietuvių

@@ -44,14 +44,14 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 <a id="claim-t-119673"></a>
 - t-003
   global_id: t-119673
-  teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis su kryžiuočiais.'
+  teiginys: 'Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-119674"></a>
 - t-004
   global_id: t-119674
-  teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir vyskupijai užrašė Verkus.'
+  teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus.'
   pagrindžia:
     - c-001
 
@@ -72,7 +72,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir vyskupijai užrašė Verkus.'
+  santrauka: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
@@ -159,6 +159,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - t-001
 
 - c-005
+  santrauka: 'Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dalis pralaimėju­

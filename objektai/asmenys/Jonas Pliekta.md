@@ -28,13 +28,14 @@ Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vi
 <a id="claim-t-87730"></a>
 - t-001
   global_id: t-87730
-  teiginys: 'Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.'
+  teiginys: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet šaltinyje nenurodyta, kodėl pareigas ėjo tik vienerius metus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet šaltinyje nenurodyta, kodėl pareigas ėjo tik vienerius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­

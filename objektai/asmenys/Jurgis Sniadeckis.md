@@ -28,13 +28,14 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 <a id="claim-t-87744"></a>
 - t-001
   global_id: t-87744
-  teiginys: 'Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.'
+  teiginys: 'Jurgis Sniadeckis buvo universiteto profesorius, kurio dukrą Zofiją 1820 m. vedė M. Balinskis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jurgis Sniadeckis buvo universiteto profesorius, kurio dukrą Zofiją 1820 m. vedė M. Balinskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis daugelį iš jų asmeniškai pažinojo,

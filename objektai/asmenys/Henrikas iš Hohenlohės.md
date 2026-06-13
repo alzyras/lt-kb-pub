@@ -29,7 +29,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 <a id="claim-t-59969"></a>
 - t-001
   global_id: t-59969
-  teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
+  teiginys: 'Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.'
   pagrindžia:
     - c-002
 
@@ -43,14 +43,14 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 <a id="claim-t-59971"></a>
 - t-003
   global_id: t-59971
-  teiginys: 'Dusburgietis teigia, kad pvz., praleisti trys Ordino magistrai, tarp jų — Henrikas iš Hohenlohės139.'
+  teiginys: 'Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59972"></a>
 - t-004
   global_id: t-59972
-  teiginys: 'Dusburgietis teigia, kad viskas rodo, jog tai reiškia vėlesnį didįjį magistrą Henriką iš Hohenlohės, kurio kanceliarijoje „Pranešimas...“ redaguotas.'
+  teiginys: 'Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“.'
   pagrindžia:
     - c-003
 
@@ -70,6 +70,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     - t-002
 
 - c-002
+  santrauka: 'Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
@@ -85,6 +86,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     - t-001
 
 - c-003
+  santrauka: 'Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viskas rodo, jog tai reiškia vėlesnį didįjį magistrą
@@ -96,6 +98,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     - t-004
 
 - c-004
+  santrauka: 'Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų

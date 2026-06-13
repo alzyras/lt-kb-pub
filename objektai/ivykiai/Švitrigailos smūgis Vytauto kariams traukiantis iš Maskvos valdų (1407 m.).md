@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-1407 m. Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė. Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
+Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė. Po Švitrigailos smūgio Vytauto kariai sunkiai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir atsigavo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,7 +35,7 @@ Nenurodyta
 <a id="claim-t-185794"></a>
 - t-001
   global_id: t-185794
-  teiginys: '1407 m. Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
+  teiginys: 'Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1407 m. Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
+  santrauka: 'Švitrigaila sutelkė rusų ir skitų būrius, miškuose užpuolė Vytauto karius iš užpakalio bei sparnų ir juos sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip paprastai esti, kariuomenė, karo va­

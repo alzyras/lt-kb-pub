@@ -20,13 +20,14 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
 <a id="claim-t-41457"></a>
 - t-001
   global_id: t-41457
-  teiginys: 'Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.'
+  teiginys: 'Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Artėjant tanketėms, sunkvežimiams ir gurguolėms, nebebuvo laiko slėptis ir reikėjo ruoštis gynybai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netrukus

@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-66683"></a>
 - t-003
   global_id: t-66683
-  teiginys: 'Mūšio prie Lietuvos Brastos negalime vadinti pergale, kadangi LDK kariuomenė turėjo pasitraukti, o priešininkui atiteko strategiškai svarbi teritorija, tačiau negalime laikyti ir pralaimėjimu, kadangi priešininkas patyrė didelių nuostolių, o atsitraukta.'
+  teiginys: 'Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai.'
   pagrindžia:
     - c-001
 
@@ -78,7 +78,7 @@ Nenurodyta
 <a id="claim-t-66686"></a>
 - t-006
   global_id: t-66686
-  teiginys: 'Mūšis Mūšis prasidėjo auštant liepos 23-osios rytui, kai prie lietuvių pozicijų priartėjo rusų kavalerijos priešakiniai kazokų daliniai.'
+  teiginys: 'Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai.'
   pagrindžia:
     - c-003
 

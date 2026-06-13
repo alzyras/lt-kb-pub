@@ -82,7 +82,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 <a id="claim-t-54951"></a>
 - t-005
   global_id: t-54951
-  teiginys: '1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms.'
+  teiginys: '1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   pagrindžia:
     - c-002
 
@@ -178,6 +178,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - t-004
 
 - c-002
+  santrauka: '1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar prieš kelerius metus Vilnių puo­
@@ -427,3 +428,5 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/ivykiai/Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas]]
+- [[objektai/daiktai/Šv. Barboros relikvijos]]

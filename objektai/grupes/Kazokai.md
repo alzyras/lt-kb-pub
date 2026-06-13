@@ -29,14 +29,14 @@ amziai:
 <a id="claim-t-65304"></a>
 - t-001
   global_id: t-65304
-  teiginys: 'Bėgantį priešą pradėjo vytis ir kazokai, kurie, įsiveržę į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
+  teiginys: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-65305"></a>
 - t-002
   global_id: t-65305
-  teiginys: 'Šio sparno jėga - reitarų sutelkta ugnis, husarų geležinis smūgis, Lietuvos totorių ir kazokų manevringumas persekiojant bėgantį priešą.'
+  teiginys: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
   pagrindžia:
     - c-003
 
@@ -100,6 +100,7 @@ amziai:
     - t-004
 
 - c-003
+  santrauka: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiame sparne buvo sutelktos įvairios
@@ -157,6 +158,7 @@ amziai:
     - t-006
 
 - c-006
+  santrauka: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bėgantį priešą pradėjo vytis ir
@@ -175,7 +177,7 @@ amziai:
     - t-001
 
 - c-007
-  santrauka: 'Bėgantį priešą pradėjo vytis ir kazokai, kurie, įsiveržę į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
+  santrauka: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Staigus puolimas

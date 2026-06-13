@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-59716"></a>
 - t-001
   global_id: t-59716
-  teiginys: 'Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į Lenkiją, vienas sūduvis išsivežęs švenčiausiosios mergelės Marijos su kūdikėliu ant rankų.'
+  teiginys: 'Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus

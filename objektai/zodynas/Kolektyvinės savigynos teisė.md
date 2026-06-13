@@ -27,7 +27,7 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 <a id="claim-t-183434"></a>
 - t-002
   global_id: t-183434
-  teiginys: 'Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuolimui.'
+  teiginys: 'Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.'
   pagrindžia:
     - c-001
 

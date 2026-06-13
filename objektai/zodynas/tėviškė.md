@@ -34,7 +34,7 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 <a id="claim-t-184250"></a>
 - t-002
   global_id: t-184250
-  teiginys: 'Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės pagrobimą.'
+  teiginys: 'Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
     - t-001
 
 - c-002
-  santrauka: 'Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės pagrobimą.'
+  santrauka: 'Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasiryžęs Jogailai nepasiduoti ir
@@ -88,3 +88,4 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 - [[objektai/posakiai/„Tikslas pateisino priemones.“]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

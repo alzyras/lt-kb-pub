@@ -39,15 +39,15 @@ Nenurodyta
 <a id="claim-t-62675"></a>
 - t-001
   global_id: t-62675
-  teiginys: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
+  teiginys: 'Gedėdami žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
+  santrauka: 'Gedėdami žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
@@ -60,7 +60,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Gedėdami išlikę žmonės suplėšė savo drabužius, apsivilko ašutinėmis ir buvo apimti didelės baimės.'
+  santrauka: 'Gedėdami žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tai kam gi mums

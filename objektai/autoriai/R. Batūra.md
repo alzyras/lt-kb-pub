@@ -42,7 +42,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 <a id="claim-t-97212"></a>
 - t-003
   global_id: t-97212
-  teiginys: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
+  teiginys: 'Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota.'
   pagrindžia:
     - c-003
 
@@ -94,6 +94,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - t-001
 
 - c-003
+  santrauka: 'Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugy­
@@ -160,5 +161,6 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/autoriai/Batūra R]]
 - [[objektai/autoriai/Paszkiewicz H]]

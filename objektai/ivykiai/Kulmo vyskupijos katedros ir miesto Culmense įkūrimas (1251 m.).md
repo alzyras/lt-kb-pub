@@ -51,13 +51,14 @@ Nenurodyta
 <a id="claim-t-59552"></a>
 - t-001
   global_id: t-59552
-  teiginys: 'Dusburgietis teigia, kad 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18); vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr..'
+  teiginys: '1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Per 20 km  į šiaurę nuo Torunės yra Chelmža (Kulmsee), miestas prie to pat vardo

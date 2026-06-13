@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62202"></a>
 - t-001
   global_id: t-62202
-  teiginys: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
+  teiginys: 'Varmių vadas Pijopas su kariuomene apsiautė Baigos pilį, bet priartėjęs prie jos buvo pervertas brolio strėle ir žuvo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Varmių vadas Pijopas su kariuomene apsiautė Baigos pilį, bet priartėjęs prie jos buvo pervertas brolio strėle ir žuvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     20. Apie Baigos pilies apgulą

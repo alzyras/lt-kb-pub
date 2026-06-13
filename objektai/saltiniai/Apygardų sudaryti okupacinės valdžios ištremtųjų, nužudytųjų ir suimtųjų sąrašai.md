@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-75442"></a>
 - t-002
   global_id: t-75442
-  teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
 

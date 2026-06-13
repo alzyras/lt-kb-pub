@@ -35,7 +35,7 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 <a id="claim-t-184576"></a>
 - t-002
   global_id: t-184576
-  teiginys: 'Sustiprėjo grupuotės įtaka, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
+  teiginys: 'Sustiprėjo grupuotės, siūliusios karaliaus sostą atimti iš Jogailaičių ir perduoti Piasto palikuonims, įtaka.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
     - t-001
 
 - c-002
-  santrauka: 'Sustiprėjo grupuotės įtaka, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
+  santrauka: 'Sustiprėjo grupuotės, siūliusios karaliaus sostą atimti iš Jogailaičių ir perduoti Piasto palikuonims, įtaka.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Antra vertus, Jono

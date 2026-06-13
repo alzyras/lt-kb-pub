@@ -20,13 +20,14 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
 <a id="claim-t-38449"></a>
 - t-001
   global_id: t-38449
-  teiginys: 'M. Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino.'
+  teiginys: 'Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kazokų kariuomenė buvo perskelta į

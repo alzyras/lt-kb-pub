@@ -20,13 +20,14 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
 <a id="claim-t-80741"></a>
 - t-001
   global_id: t-80741
-  teiginys: 'Virgoličiaus pajėgos turėjo užimti Lietuvą.'
+  teiginys: 'Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagrindinės - plk. P. Bermonto tiesiogiai vadovauja-

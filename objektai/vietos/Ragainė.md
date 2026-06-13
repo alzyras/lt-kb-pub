@@ -36,21 +36,21 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169144"></a>
 - t-001
   global_id: t-169144
-  teiginys: 'Dusburgietis teigia, kad skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius nuo dab.'
+  teiginys: 'Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-169145"></a>
 - t-002
   global_id: t-169145
-  teiginys: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
+  teiginys: 'Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-169146"></a>
 - t-003
   global_id: t-169146
-  teiginys: 'Dusburgietis teigia, kad 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto tėvonija40.'
+  teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   pagrindžia:
     - c-010
 
@@ -64,7 +64,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169148"></a>
 - t-005
   global_id: t-169148
-  teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
+  teiginys: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
   pagrindžia:
     - c-004
 
@@ -85,14 +85,14 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169152"></a>
 - t-008
   global_id: t-169152
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+  teiginys: 'Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.'
   pagrindžia:
     - c-017
 
 <a id="claim-t-169153"></a>
 - t-009
   global_id: t-169153
-  teiginys: 'Dusburgietis teigia, kad paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.'
+  teiginys: 'Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas.'
   pagrindžia:
     - c-013
 
@@ -113,35 +113,35 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169156"></a>
 - t-012
   global_id: t-169156
-  teiginys: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
+  teiginys: 'Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-169157"></a>
 - t-013
   global_id: t-169157
-  teiginys: 'Tą pačią žiemą kryžiuočiai iš Ragainės du kartus ėjo „prieš stabmeldžius“, žudė, degino ir plėšė.'
+  teiginys: '1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-169158"></a>
 - t-014
   global_id: t-169158
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  teiginys: '1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-169159"></a>
 - t-015
   global_id: t-169159
-  teiginys: 'Dusburgietis teigia, kad dievo ir švenčiausios panelės globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333).'
+  teiginys: 'Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-169160"></a>
 - t-016
   global_id: t-169160
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus.'
+  teiginys: 'Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus.'
   pagrindžia:
     - c-014
 
@@ -155,7 +155,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169162"></a>
 - t-018
   global_id: t-169162
-  teiginys: 'Dusburgietis teigia, kad nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau smulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose karą prieš Lietuvą, 204 kartus jos pateiktos tiksliai), nors tarpais pasakomas tik metų.'
+  teiginys: '1289 m. buvo pastatyta Ragainės pilis, po to kronikoje atsirado daugiau įvykių smulkmenų ir tikslių dienų.'
   pagrindžia:
     - c-008
 
@@ -169,7 +169,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169164"></a>
 - t-020
   global_id: t-169164
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
+  teiginys: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
   pagrindžia:
     - c-003
 
@@ -179,6 +179,13 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginys: '1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-184194"></a>
+- t-022
+  global_id: t-184194
+  teiginys: 'Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.'
+  pagrindžia:
+    - c-014
 
 <a id="claim-t-185118"></a>
 - t-023
@@ -204,6 +211,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pav., Ragainės komtūras vienu puolimu išsivedė 100
@@ -231,6 +239,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-021
 
 - c-003
+  santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Ragainės pilies užpuolimą
@@ -249,6 +258,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-020
 
 - c-004
+  santrauka: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
@@ -265,6 +275,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-005
 
 - c-005
+  santrauka: '1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
@@ -284,6 +295,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-014
 
 - c-006
+  santrauka: 'Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
@@ -316,6 +328,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-019
 
 - c-008
+  santrauka: '1289 m. buvo pastatyta Ragainės pilis, po to kronikoje atsirado daugiau įvykių smulkmenų ir tikslių dienų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nuo 1289 m., kuriais buvo pastatyta Ragainės pilis (III, 235), kronikoje pasirodo daugiau
@@ -378,6 +391,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-010
 
 - c-011
+  santrauka: '1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1361 m. pradžioje, žiemą Ordino mar-
@@ -469,6 +483,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-004
 
 - c-016
+  santrauka: 'Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
@@ -487,6 +502,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-001
 
 - c-017
+  santrauka: 'Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
@@ -502,6 +518,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-008
 
 - c-018
+  santrauka: 'Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie

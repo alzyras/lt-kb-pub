@@ -54,13 +54,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   pagrindžia:
     - c-002
 
-<a id="claim-t-63712"></a>
-- t-005
-  global_id: t-63712
-  teiginys: 'Į nelaisvę pateko 300 rusų karių ir 1794 m. sukilimo Lietuvoje vadas Jokūbas Jasinskis užgrobtos dvi 6 svarų patrankos.'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,23 +136,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   statusas: verified
   pagrindžia:
     - t-002
-    - t-006
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Į nelaisvę pateko 300 rusų karių ir
-
-    1794 m. sukilimo Lietuvoje vadas Jokūbas Jasinskis
-
-    užgrobtos dvi 6 svarų patrankos. Tuo pat
-    metu mažesnės sukilėlių grupės užėmė
-    visus miesto gynybinės sienos bokštus.
-    Kpt.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-005
 
 ## Ryšiai
@@ -173,6 +149,4 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Patrankos]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
-- [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba]]

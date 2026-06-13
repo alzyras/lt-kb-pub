@@ -45,20 +45,21 @@ Nenurodyta
 <a id="claim-t-66638"></a>
 - t-001
   global_id: t-66638
-  teiginys: 'Dusburgietis teigia, kad bandoma Kresmenos ieškoti ir toliau į šiaurės rytus, tarp Suvalkų ir Seinų.'
+  teiginys: 'Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66639"></a>
 - t-002
   global_id: t-66639
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'
+  teiginys: 'Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
@@ -126,3 +127,4 @@ Nenurodyta
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/zodynas/magistras]]

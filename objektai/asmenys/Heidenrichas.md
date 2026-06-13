@@ -21,13 +21,14 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 <a id="claim-t-60302"></a>
 - t-001
   global_id: t-60302
-  teiginys: 'Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, tos pačios pilies kunigas, kuris tuo metu pasislėpęs meldėsi viename koplyčios kampelyje.'
+  teiginys: 'Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     žinių, kad kartą, jam koplyčioje prieš altorių beklūpint ir beprašant dievą parodyti kokiu

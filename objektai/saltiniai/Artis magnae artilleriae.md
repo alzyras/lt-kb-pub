@@ -47,17 +47,10 @@ amziai:
   pagrindžia:
     - c-001
 
-<a id="claim-t-23387"></a>
-- t-004
-  global_id: t-23387
-  teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-23388"></a>
 - t-005
   global_id: t-23388
-  teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
+  teiginys: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
   pagrindžia:
     - c-002
 
@@ -85,6 +78,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko

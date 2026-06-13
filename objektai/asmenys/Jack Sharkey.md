@@ -29,13 +29,14 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 <a id="claim-t-78057"></a>
 - t-001
   global_id: t-78057
-  teiginys: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
+  teiginys: 'Jack Sharkey (Juozas Žukauskas) buvo boksininkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jack Sharkey (Juozas Žukauskas) buvo boksininkas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O beveik
@@ -59,7 +60,6 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Arvydas Sabonis]]
 - [[objektai/grupes/Litvakai]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
 - [[objektai/asmenys/Senda Berenson-Abbot]]

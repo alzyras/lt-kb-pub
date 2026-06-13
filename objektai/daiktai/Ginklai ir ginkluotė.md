@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-45484"></a>
 - t-001
   global_id: t-45484
-  teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
+  teiginys: '1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą.'
   pagrindžia:
     - c-003
 
@@ -75,17 +75,10 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-183295"></a>
-- t-005
-  global_id: t-183295
-  teiginys: 'Iš jų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-183296"></a>
 - t-006
   global_id: t-183296
-  teiginys: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
+  teiginys: '1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Lietuvoje.'
   pagrindžia:
     - c-005
 
@@ -127,6 +120,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: '1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paskutinė federacijos su Lenkija galimybė
@@ -172,7 +166,7 @@ Nenurodyta
     - t-003
 
 - c-005
-  santrauka: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
+  santrauka: '1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
@@ -206,8 +200,9 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Bermontininkai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/daiktai/Padirbti lietuviški dokumentai]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]

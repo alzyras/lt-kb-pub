@@ -38,7 +38,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 <a id="claim-t-78531"></a>
 - t-002
   global_id: t-78531
-  teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija ir nutarta konfiskuoti Sapiegų dvarus.'
+  teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir konfiskuoti Sapiegų dvarai.'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 <a id="claim-t-78533"></a>
 - t-004
   global_id: t-78533
-  teiginys: 'Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipiškių priemiestyje įrengtoje stovykloje, vykdant Valkininkų nutarimą, buvo iš esmės suformuota nauja LDK kariuomenė - 7500 etatinių vienetų.'
+  teiginys: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     - t-002
 
 - c-002
+  santrauka: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priėmusi nutarimą respubli-

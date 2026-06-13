@@ -22,7 +22,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 <a id="claim-t-40522"></a>
 - t-001
   global_id: t-40522
-  teiginys: 'Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui.'
+  teiginys: 'Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Visi įsa-
@@ -143,7 +144,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose]]
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Jastžembcų giminė]]

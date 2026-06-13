@@ -44,7 +44,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 <a id="claim-t-05458"></a>
 - t-002
   global_id: t-05458
-  teiginys: 'Proistorė čia siejama su archeologiniais duomenimis ir kitais metodais.'
+  teiginys: 'Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija.'
   pagrindžia:
     - c-001
 

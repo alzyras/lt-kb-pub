@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio veiksmus. Pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Lenkiją šio krašto didikus su dovanomis ir pažadais.
+Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio veiksmus. Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.
 
 ## Teiginiai
 
@@ -24,7 +24,7 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
 <a id="claim-t-185397"></a>
 - t-002
   global_id: t-185397
-  teiginys: 'Pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Lenkiją šio krašto didikus su dovanomis ir pažadais.'
+  teiginys: 'Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
     - t-001
 
 - c-002
-  santrauka: 'Pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Lenkiją šio krašto didikus su dovanomis ir pažadais.'
+  santrauka: 'Pasitarus su Lietuvos senatu, į Lenkiją buvo išsiųsti Lietuvos didikai su dovanomis ir pažadais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Reikėjo tikėtis, kad nuolatos

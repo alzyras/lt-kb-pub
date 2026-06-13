@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-40775"></a>
 - t-001
   global_id: t-40775
-  teiginys: 'Plentų kryžkelėje pasirodė tanketė, kuri atidengė ugnį į miestelį.'
+  teiginys: 'Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip pat pranešta apie

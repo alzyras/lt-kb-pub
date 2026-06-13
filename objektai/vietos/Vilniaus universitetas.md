@@ -21,7 +21,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
 <a id="claim-t-77454"></a>
 - t-001
   global_id: t-77454
-  teiginys: 'Šiauriausias katalikiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų universiteto reikšmė.'
+  teiginys: 'Senasis jėzuitų Vilniaus universitetas apibūdinamas kaip šiauriausias katalikiškas ir ryčiausias Europos universitetas.'
   pagrindžia:
     - c-004
 
@@ -106,6 +106,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - t-005
 
 - c-004
+  santrauka: 'Senasis jėzuitų Vilniaus universitetas apibūdinamas kaip šiauriausias katalikiškas ir ryčiausias Europos universitetas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiauriausias katali-

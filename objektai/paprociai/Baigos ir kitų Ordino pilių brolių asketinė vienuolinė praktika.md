@@ -41,21 +41,21 @@ Nenurodyta
 <a id="claim-t-89443"></a>
 - t-001
   global_id: t-89443
-  teiginys: 'Dusburgietis teigia, kad apie Baigos brolių vienuolišką gyvenimą Vargu ar kas žino, išskyrus tą, kuriam atvira kiekviena širdis ir kuriam nėra jokių paslapčių, kaip skaisčiai gyveno, kokio dorovingo santūrumo ir kokių griežtų vienuoliškų regulų laikėsi Baigos bei kitų minėtųjų pilių.'
+  teiginys: 'Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89444"></a>
 - t-002
   global_id: t-89444
-  teiginys: 'Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė, kuo vardu jų pilis.'
+  teiginys: 'Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89445"></a>
 - t-003
   global_id: t-89445
-  teiginys: 'Dusburgietis teigia, kad niekad arba beveik niekad netruko čia maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno.'
+  teiginys: 'Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.'
   pagrindžia:
     - c-002
 

@@ -43,14 +43,14 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 <a id="claim-t-184304"></a>
 - t-004
   global_id: t-184304
-  teiginys: 'Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart.'
+  teiginys: 'Į Konstanciją, kur buvo šaukiamas Bažnyčios susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-184305"></a>
 - t-005
   global_id: t-184305
-  teiginys: 'Čia susitaikino ir Vytautas su Jogaila, nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu suvažiavimu Konstancijoj^2 ).'
+  teiginys: 'Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu.'
   pagrindžia:
     - c-005
 
@@ -110,7 +110,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-002
 
 - c-004
-  santrauka: 'Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart.'
+  santrauka: 'Į Konstanciją, kur buvo šaukiamas Bažnyčios susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kadangi jis
@@ -129,7 +129,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-004
 
 - c-005
-  santrauka: 'Čia susitaikino ir Vytautas su Jogaila, nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu suvažiavimu Konstancijoj^2 ).'
+  santrauka: 'Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Už tai Jogaila ant jo smarkiai supyko,

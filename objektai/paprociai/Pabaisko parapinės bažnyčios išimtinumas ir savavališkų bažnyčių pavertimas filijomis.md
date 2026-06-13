@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-87218"></a>
 - t-001
   global_id: t-87218
-  teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
+  teiginys: 'Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.'
   pagrindžia:
     - c-002
 
@@ -89,6 +89,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia norime, kad minėta

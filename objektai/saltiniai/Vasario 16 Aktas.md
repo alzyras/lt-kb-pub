@@ -39,40 +39,40 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   global_id: t-71831
   teiginys: '1918 m. vasario 16 d. Taryba Vilniuje priėmė rezoliuciją, paskelbusią nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
-    - c-006
+    - c-001
 
 <a id="claim-t-71832"></a>
 - t-002
   global_id: t-71832
-  teiginys: 'Vasario 16 Aktas tapo Lietuvos Nepriklausomybės diena, laisvės ir suverenumo simboliu.'
+  teiginys: 'Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei Lietuvos Nepriklausomybės diena.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-71833"></a>
 - t-003
   global_id: t-71833
-  teiginys: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
+  teiginys: 'Kovo 11 Aktas savo dvasia buvo artimas 1918 m. Vasario 16 Aktui, tačiau nebesirėmė tautų apsisprendimo teise.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-71834"></a>
 - t-004
   global_id: t-71834
-  teiginys: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
+  teiginys: 'Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei davė pradžią tikrai Lietuvos nepriklausomybei.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-71835"></a>
 - t-005
   global_id: t-71835
-  teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
+  teiginys: '1918 m. vasario 16 d. Vilniuje Taryba paskelbė atkurianti nepriklausomą Lietuvos valstybę su sostine Vilniumi.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71837"></a>
 - t-006
   global_id: t-71837
-  teiginys: '1918 m. kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
+  teiginys: '1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   pagrindžia:
     - c-002
 
@@ -108,6 +108,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
     - t-005
 
 - c-002
+  santrauka: '1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nauja Lietuvos valstybė turėjo

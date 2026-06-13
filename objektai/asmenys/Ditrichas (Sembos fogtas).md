@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 <a id="claim-t-59833"></a>
 - t-001
   global_id: t-59833
-  teiginys: 'Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama 1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių palankumą, ir.'
+  teiginys: '1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.'
   pagrindžia:
     - c-002
 
@@ -43,14 +43,14 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 <a id="claim-t-59835"></a>
 - t-003
   global_id: t-59835
-  teiginys: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
+  teiginys: 'Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-59836"></a>
 - t-004
   global_id: t-59836
-  teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
+  teiginys: 'Iš Vokietijos grįžęs Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo sumanyto paklydimo.'
   pagrindžia:
     - c-006
 
@@ -64,14 +64,14 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 <a id="claim-t-59838"></a>
 - t-006
   global_id: t-59838
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+  teiginys: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59839"></a>
 - t-007
   global_id: t-59839
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
+  teiginys: 'Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.'
   pagrindžia:
     - c-001
 
@@ -85,6 +85,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie vieną stebuklą
@@ -101,6 +102,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-007
 
 - c-002
+  santrauka: '1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     227 (222). Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
@@ -119,6 +121,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-001
 
 - c-003
+  santrauka: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     182 (177). Apie Ragainės pilies užkariavimą
@@ -165,6 +168,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-005
 
 - c-006
+  santrauka: 'Iš Vokietijos grįžęs Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo sumanyto paklydimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     190 (185). Apie daugybės pagudėnų išžudymą
@@ -238,6 +242,8 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/fogtas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Dargis]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/posakiai/Atėjo baisenybė, kurios bijojau]]
 - [[objektai/asmenys/Derska]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]

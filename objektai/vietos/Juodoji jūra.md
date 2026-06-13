@@ -37,7 +37,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 <a id="claim-t-08500"></a>
 - t-001
   global_id: t-08500
-  teiginys: 'Uksinė jūra susiejama su žemaičių gintarų prekyba ir kraštų atskyrimu.'
+  teiginys: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
   pagrindžia:
     - c-001
 
@@ -65,6 +65,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     tame amžiuje antsigrūdo^1388 iš Azijos tauta, jau gudais, jau lenkais vadinama, kuri pirma užgulė Lietuvos tyrus, šiandien Podolijomis vadinamus, ir taip būtinai atskiedė^1389 lietuvius nuo Uksinės, arba Juodosios, jūros ir nuo upės Dunojaus.

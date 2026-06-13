@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-75212"></a>
 - t-001
   global_id: t-75212
-  teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
+  teiginys: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   pagrindžia:
     - c-006
 
@@ -96,7 +96,7 @@ Nenurodyta
 <a id="claim-t-75219"></a>
 - t-008
   global_id: t-75219
-  teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
+  teiginys: '2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.'
   pagrindžia:
     - c-001
 
@@ -110,13 +110,14 @@ Nenurodyta
 <a id="claim-t-75221"></a>
 - t-010
   global_id: t-75221
-  teiginys: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
+  teiginys: '1999 m. balandį NATO vadovų susitikime Vašingtone patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
@@ -144,6 +145,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: '1999 m. balandį NATO vadovų susitikime Vašingtone patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tų pačių metų sausį Lietuva prisijungė
@@ -188,6 +190,7 @@ Nenurodyta
     - t-005
 
 - c-006
+  santrauka: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-

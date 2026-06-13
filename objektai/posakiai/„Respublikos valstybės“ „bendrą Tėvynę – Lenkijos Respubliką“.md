@@ -49,7 +49,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 <a id="claim-t-183504"></a>
 - t-004
   global_id: t-183504
-  teiginys: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
+  teiginys: 'Pagal Abiejų Tautų tarpusavio įžadą Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių.'
   pagrindžia:
     - c-002
 

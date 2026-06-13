@@ -20,13 +20,14 @@ tags:
 <a id="claim-t-40242"></a>
 - t-001
   global_id: t-40242
-  teiginys: 'Šklovo mūšyje taip pat dalyvavo ir kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos.'
+  teiginys: 'Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Smolenske caras Alekse-

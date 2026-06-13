@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 <a id="claim-t-81588"></a>
 - t-001
   global_id: t-81588
-  teiginys: 'Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24.'
+  teiginys: '1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 <a id="claim-t-81592"></a>
 - t-003
   global_id: t-81592
-  teiginys: 'Tos niautynės pagaliau baigėsi prancūzų iškvietimu kautis, jiems lenkai paaiškino, kad jeigu esą tikri riteriai ir norį parodyti narsą, nustatytas jų skaičius tepasirenka tam vietą.'
+  teiginys: 'Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.'
   pagrindžia:
     - c-004
 
@@ -59,13 +59,14 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 <a id="claim-t-183891"></a>
 - t-005
   global_id: t-183891
-  teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
+  teiginys: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mykolą paskirtas Ordino didžiuoju
@@ -149,6 +150,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - t-004
 
 - c-004
+  santrauka: 'Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tos
@@ -167,7 +169,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - t-003
 
 - c-005
-  santrauka: 'Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog niekas kitas jo negalėsiąs užkariauti, tiktai angelas, užėmė prancūzai ir Venecijos kariai, įsiveržę pro sieną, ant kurios buvęs nupieštas.'
+  santrauka: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą

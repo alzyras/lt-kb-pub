@@ -48,7 +48,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-05168"></a>
 - t-002
   global_id: t-05168
-  teiginys: '1324 m. Gediminas Vilniuje derėjosi su Volgos totorių chanu Uzbeku.'
+  teiginys: '1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.'
   pagrindžia:
     - c-036
 
@@ -160,7 +160,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176325"></a>
 - t-018
   global_id: t-176325
-  teiginys: 'Gediminas apibūdintas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų savo šalyje įkūrėjas.'
+  teiginys: 'Balińskis Gediminą apibūdino kaip darnesnio ir pajėgesnio feodalizmo kūrėją bei miestų Lietuvoje įkūrėją.'
   pagrindžia:
     - c-046
 
@@ -195,7 +195,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176330"></a>
 - t-023
   global_id: t-176330
-  teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
+  teiginys: 'Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.'
   pagrindžia:
     - c-041
 
@@ -209,14 +209,14 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176332"></a>
 - t-025
   global_id: t-176332
-  teiginys: 'Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).'
+  teiginys: 'Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-176333"></a>
 - t-026
   global_id: t-176333
-  teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
+  teiginys: 'Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.'
   pagrindžia:
     - c-053
 
@@ -230,21 +230,21 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176335"></a>
 - t-028
   global_id: t-176335
-  teiginys: 'Dusburgietis teigia, kad atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324 m. liepos mėn.'
+  teiginys: '1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.'
   pagrindžia:
     - c-055
 
 <a id="claim-t-176336"></a>
 - t-029
   global_id: t-176336
-  teiginys: 'Dusburgietis teigia, kad po to legatai išleido į kelią iškilmingą pasiuntinystę pas Gediminą, lietuvių karalių, turėjusią jam pranešti apie apaštališkojo sosto jiedviem duotą uždavinį ir atidžiai ištirti, ar jis su visais savo karalystės žmonėmis norįs priimti krikšto malonę ir.'
+  teiginys: 'Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.'
   pagrindžia:
     - c-054
 
 <a id="claim-t-176337"></a>
 - t-030
   global_id: t-176337
-  teiginys: 'Su pagonišku veidu Lietuva dar gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, kiek apie.'
+  teiginys: 'Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.'
   pagrindžia:
     - c-074
 
@@ -272,14 +272,14 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176341"></a>
 - t-034
   global_id: t-176341
-  teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
+  teiginys: 'Balińskio nuomone, Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus, siekdamas apšmeižti Kryžiuočių ordiną.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-176342"></a>
 - t-035
   global_id: t-176342
-  teiginys: '1316–1341 Gediminaičių dinastijai vardą davusio Gedimino valdymas.'
+  teiginys: 'Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.'
   pagrindžia:
     - c-051
 
@@ -321,7 +321,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176348"></a>
 - t-041
   global_id: t-176348
-  teiginys: 'Dusburgietis teigia, kad lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.'
+  teiginys: 'Dusburgiečio duomenys apie Gedimino krikštą laikomi tendencingai nukreiptais prieš Lietuvą ir pateiktais Ordino interesų dvasia.'
   pagrindžia:
     - c-008
 
@@ -335,14 +335,14 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176351"></a>
 - t-043
   global_id: t-176351
-  teiginys: 'Gediminas, statydindamas pilį Rusios belaisvių rankomis, esą iškasė Vilnelei kitą vagą ir paaukštino pilies kalvą.'
+  teiginys: 'Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-176352"></a>
 - t-044
   global_id: t-176352
-  teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
+  teiginys: 'Matydamas, kad kova su kryžiuočiais užtruks, Gediminas susirado talkininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.'
   pagrindžia:
     - c-040
 
@@ -433,7 +433,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176365"></a>
 - t-057
   global_id: t-176365
-  teiginys: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
+  teiginys: 'Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.'
   pagrindžia:
     - c-006
 
@@ -454,7 +454,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176368"></a>
 - t-060
   global_id: t-176368
-  teiginys: 'Dusburgietis teigia, kad dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos 66 PD, II, 6; PKD, s.'
+  teiginys: 'Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą.'
   pagrindžia:
     - c-030
 
@@ -601,7 +601,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 <a id="claim-t-176392"></a>
 - t-082
   global_id: t-176392
-  teiginys: 'Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.'
+  teiginys: 'Lietuvos metraščių istorinėje tradicijoje minimas Gedimino žynys Lizdeika.'
   pagrindžia:
     - c-023
 
@@ -787,6 +787,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-049
 
 - c-006
+  santrauka: 'Gedimino laiškai Liubekui, Bremenui, Kelnui, kitiems Europos miestams ir vienuolių ordinams turėjo platų tarptautinį atgarsį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
@@ -805,6 +806,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-057
 
 - c-007
+  santrauka: 'Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
@@ -817,6 +819,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-025
 
 - c-008
+  santrauka: 'Dusburgiečio duomenys apie Gedimino krikštą laikomi tendencingai nukreiptais prieš Lietuvą ir pateiktais Ordino interesų dvasia.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
@@ -925,6 +928,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-005
 
 - c-014
+  santrauka: 'Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
@@ -1178,6 +1182,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-080
 
 - c-023
+  santrauka: 'Lietuvos metraščių istorinėje tradicijoje minimas Gedimino žynys Lizdeika.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio krivis
@@ -1331,6 +1336,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-075
 
 - c-030
+  santrauka: 'Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
@@ -1485,6 +1491,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-037
 
 - c-036
+  santrauka: '1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sambijos kanauninko** **_Epitome_** **1315 m.
@@ -1561,6 +1568,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-031
 
 - c-040
+  santrauka: 'Matydamas, kad kova su kryžiuočiais užtruks, Gediminas susirado talkininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
@@ -1574,6 +1582,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-044
 
 - c-041
+  santrauka: 'Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,
@@ -1672,6 +1681,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-052
 
 - c-046
+  santrauka: 'Balińskis Gediminą apibūdino kaip darnesnio ir pajėgesnio feodalizmo kūrėją bei miestų Lietuvoje įkūrėją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokią Lietuvą rado kunigaikštis Gediminas, dar­
@@ -1790,6 +1800,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-088
 
 - c-051
+  santrauka: 'Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1253 VII 6 
@@ -1828,6 +1839,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-074
 
 - c-053
+  santrauka: 'Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
@@ -1845,6 +1857,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-026
 
 - c-054
+  santrauka: 'Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
@@ -1872,6 +1885,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-029
 
 - c-055
+  santrauka: '1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
@@ -2227,6 +2241,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-070
 
 - c-074
+  santrauka: 'Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviams reikėjo susiformuoti į savaran-
@@ -2285,7 +2300,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-062
 
 - c-077
-  santrauka: 'Su pagonišku veidu Lietuva dar gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, kiek apie.'
+  santrauka: 'Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva
@@ -2581,10 +2596,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
 - [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
 - [[objektai/posakiai/Geležinis vilkas ir šimtas vilkų]]
-- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
 - [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]
 - [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]
-- [[objektai/grupes/Hanza Šiaurės Vokietijos pajūrio miestai]]
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/paprociai/Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis]]
 - [[objektai/autoriai/J. Puzyna]]
@@ -2718,10 +2731,10 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/daiktai/Mediniai namai, trobos ir trobelės]]
 - [[objektai/daiktai/Mediniai rūmai]]
-- [[objektai/daiktai/Mūrinė pilis]]
 - [[objektai/daiktai/Mūro sienos]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Rygos miestiečiai]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
 - [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/zodynas/monarchas monarchija]]

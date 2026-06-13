@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 <a id="claim-t-60382"></a>
 - t-001
   global_id: t-60382
-  teiginys: 'Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui, Sicilijos karalystę, kurią Manfredas buvo užgrobęs, norėdamas ją iš jo atimti (Mart.'
+  teiginys: '1263 m. popiežius Urbonas Sicilijos karalystę, kurią buvo užgrobęs Manfredas, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1263 m. popiežius Urbonas Sicilijos karalystę, kurią buvo užgrobęs Manfredas, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui

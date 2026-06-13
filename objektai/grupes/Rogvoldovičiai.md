@@ -82,3 +82,4 @@ tags:
 - [[objektai/asmenys/Maukoldas]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/duoklė]]
+- [[objektai/asmenys/Rostislavas Rogvoldovičius]]

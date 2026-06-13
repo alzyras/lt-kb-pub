@@ -26,13 +26,14 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 <a id="claim-t-58709"></a>
 - t-001
   global_id: t-58709
-  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  teiginys: '1227 m. rugsėjo 11 d. Sicilijos mieste Ortrante mirė Šventos Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1227 m. rugsėjo 11 d. Sicilijos mieste Ortrante mirė Šventos Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį

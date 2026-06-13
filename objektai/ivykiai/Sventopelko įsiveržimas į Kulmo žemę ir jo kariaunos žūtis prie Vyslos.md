@@ -38,14 +38,14 @@ Nenurodyta
 <a id="claim-t-66922"></a>
 - t-001
   global_id: t-66922
-  teiginys: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
+  teiginys: 'Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66923"></a>
 - t-002
   global_id: t-66923
-  teiginys: 'Dusburgietis teigia, kad ir viešpaties dvasia nusileido ant brolių ir visų ten susibūrusių, nors jų buvo tik saujelė palyginti su priešais, bet, pasikliaudami viešpačiu, jie narsiai bei ryžtingai užpuolė priešus, esančius prie Kulmo miesto, ir užvirė smarkios kautynės.'
+  teiginys: 'Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir viešpaties

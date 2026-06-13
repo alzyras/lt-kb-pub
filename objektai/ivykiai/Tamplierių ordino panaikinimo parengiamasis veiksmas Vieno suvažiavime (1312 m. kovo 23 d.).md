@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-62932"></a>
 - t-001
   global_id: t-62932
-  teiginys: 'Dusburgietis teigia, kad tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo.'
+  teiginys: '1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.'
   pagrindžia:
     - c-001
 

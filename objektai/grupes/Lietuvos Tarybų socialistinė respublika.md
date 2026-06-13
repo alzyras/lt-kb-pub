@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-31291"></a>
 - t-001
   global_id: t-31291
-  teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas, sutrukdytas intervencijų ir diktatūros, vėl įvykdytas 1940 m.'
+  teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tada
@@ -57,5 +58,6 @@ amziai:
 - [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/suverenumas]]
+- [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]

@@ -28,7 +28,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 <a id="claim-t-22080"></a>
 - t-001
   global_id: t-22080
-  teiginys: '1861 m. imperatorius pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
+  teiginys: 'Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   pagrindžia:
     - c-002
 
@@ -38,13 +38,6 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183403"></a>
-- t-003
-  global_id: t-183403
-  teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -63,6 +56,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     - t-002
 
 - c-002
+  santrauka: 'Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
@@ -79,7 +73,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     - t-001
 
 - c-003
-  santrauka: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  santrauka: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
@@ -99,3 +93,5 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras II]]

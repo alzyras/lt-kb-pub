@@ -36,7 +36,14 @@ Nenurodyta
 <a id="claim-t-62495"></a>
 - t-001
   global_id: t-62495
-  teiginys: 'Dusburgietis teigia, kad apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.'
+  teiginys: 'Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183966"></a>
+- t-002
+  global_id: t-183966
+  teiginys: 'Ordino broliai su ginklanešiais persekiojo iš Notangos pasitraukusius sūduvius, daug jų nukovė arba mirtinai sužeidė.'
   pagrindžia:
     - c-001
 
@@ -66,6 +73,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/zodynas/ginklanešys]]

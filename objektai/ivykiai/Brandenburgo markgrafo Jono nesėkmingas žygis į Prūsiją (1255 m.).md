@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-62749"></a>
 - t-001
   global_id: t-62749
-  teiginys: 'Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai yra 1255 viešpaties metais339, valdovas Jonas, Brandenburgo markgrafas, didžiai įgudęs ir prityręs karvedys, žiemą atžygiavo į Prūsijos žemę su stipria kariuomene, gerai viskuo aprūpinta; kadangi žiema.'
+  teiginys: '1255 m. Brandenburgo markgrafas Jonas žiemą atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė savo tikslo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1255 m. Brandenburgo markgrafas Jonas žiemą atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė savo tikslo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Brandenburgo markgrafo atvykimą
@@ -71,3 +72,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jonas]]

@@ -143,7 +143,6 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/paprociai/Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
-- [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/asmenys/Motiejus Strijkovskis]]
 - [[objektai/zodynas/regimentorius]]

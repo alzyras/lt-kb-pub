@@ -38,20 +38,21 @@ Nenurodyta
 <a id="claim-t-62917"></a>
 - t-001
   global_id: t-62917
-  teiginys: 'Dusburgietis teigia, kad mat dievas palietė ir minėtojo Tirsko, pilies vado, ir kitų su juo buvusių vyrų širdis, ir jie, išsižadėję stabmeldystės, suartėjo su Kristaus tikėjimu bei broliais ir pasidarė uolūs Kristaus tikėjimo gynėjai.'
+  teiginys: 'Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62918"></a>
 - t-002
   global_id: t-62918
-  teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
+  teiginys: 'Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -72,6 +73,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330

@@ -29,14 +29,14 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 <a id="claim-t-58479"></a>
 - t-002
   global_id: t-58479
-  teiginys: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
+  teiginys: 'Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58480"></a>
 - t-003
   global_id: t-58480
-  teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų.'
+  teiginys: 'Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį.'
   pagrindžia:
     - c-001
 

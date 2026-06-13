@@ -33,21 +33,21 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 <a id="claim-t-136207"></a>
 - t-001
   global_id: t-136207
-  teiginys: 'Revelis [Talinas] už savo atsiradimą dar anksčiau turi būti dėkingas danams.'
+  teiginys: 'Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-136208"></a>
 - t-002
   global_id: t-136208
-  teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
+  teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-136209"></a>
 - t-003
   global_id: t-136209
-  teiginys: 'Rusų tautybės gyventojams keltis į naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius.'
+  teiginys: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, kur vyravo jiems sava rusakalbė aplinka.'
   pagrindžia:
     - c-004
 
@@ -61,13 +61,14 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 <a id="claim-t-136212"></a>
 - t-005
   global_id: t-136212
-  teiginys: 'Sužinojęs, kad iš Talino švedams į pagalbą išsiųstas pastiprinimas jau 50 km nuo Piarnu, kovo 16 d.'
+  teiginys: '1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Norėdamas užklupti priešą nepasiruošusį,
@@ -92,7 +93,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - t-005
 
 - c-002
-  santrauka: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
+  santrauka: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau tų
@@ -119,6 +120,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - t-002
 
 - c-003
+  santrauka: 'Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bremeno pirkliai 1158 m.
@@ -135,6 +137,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - t-001
 
 - c-004
+  santrauka: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, kur vyravo jiems sava rusakalbė aplinka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į

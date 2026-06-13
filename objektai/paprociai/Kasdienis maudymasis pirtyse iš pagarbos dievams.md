@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-89447"></a>
 - t-002
   global_id: t-89447
-  teiginys: 'Dusburgietis teigia, kad iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti pirties tiesiog kęste nekenčia.'
+  teiginys: 'Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.'
   pagrindžia:
     - c-001
     - c-002
@@ -72,6 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį

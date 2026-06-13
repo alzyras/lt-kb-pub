@@ -48,14 +48,14 @@ Nenurodyta
 <a id="claim-t-93001"></a>
 - t-001
   global_id: t-93001
-  teiginys: 'Lenkijos riteriams įsakė pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms.'
+  teiginys: 'Jogaila įsakė Lenkijos riteriams pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-93002"></a>
 - t-002
   global_id: t-93002
-  teiginys: 'Lenkijos riteriams buvo įsakyta pasiimti po vieną vežimą maisto šešioms savaitėms.'
+  teiginys: 'Jogaila įsakė Lenkijos riteriams pasiimti po vieną vežimą maisto šešioms savaitėms.'
   pagrindžia:
     - c-002
 

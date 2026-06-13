@@ -29,7 +29,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 <a id="claim-t-49111"></a>
 - t-001
   global_id: t-49111
-  teiginys: 'Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų Tauro apygardos Birutės rinktinei.'
+  teiginys: 'Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     - t-003
 
 - c-002
+  santrauka: 'Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prisidėjo organizuo-

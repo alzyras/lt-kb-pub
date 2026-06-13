@@ -40,7 +40,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 <a id="claim-t-171497"></a>
 - t-002
   global_id: t-171497
-  teiginys: 'Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 29, „LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI“, Karolis Zikaras.'
+  teiginys: 'Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius.'
   pagrindžia:
     - c-003
 
@@ -54,7 +54,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 <a id="claim-t-171499"></a>
 - t-004
   global_id: t-171499
-  teiginys: 'KARAS PO KARO p. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.'
+  teiginys: 'Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.'
   pagrindžia:
     - c-006
 
@@ -68,7 +68,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 <a id="claim-t-171501"></a>
 - t-006
   global_id: t-171501
-  teiginys: 'VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.'
+  teiginys: 'Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius.'
   pagrindžia:
     - c-010
 
@@ -103,14 +103,14 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 <a id="claim-t-171507"></a>
 - t-011
   global_id: t-171507
-  teiginys: ', Karolis Zikaras, Loreta Uzdraitė.'
+  teiginys: 'Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-171508"></a>
 - t-012
   global_id: t-171508
-  teiginys: '236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras, Dalius Žygelis, Loreta Uzdraitė.'
+  teiginys: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
   pagrindžia:
     - c-009
 
@@ -238,6 +238,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - t-005
 
 - c-003
+  santrauka: 'Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bendrųjų Informacinių blokų sąrašas
@@ -300,6 +301,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - t-001
 
 - c-006
+  santrauka: 'Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     KARAS PO KARO
@@ -341,6 +343,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - t-003
 
 - c-009
+  santrauka: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     KARAS PO KARO
@@ -358,6 +361,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - t-012
 
 - c-010
+  santrauka: 'Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
@@ -383,6 +387,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - t-008
 
 - c-012
+  santrauka: 'Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 213, Sukilėlių žygis į Klaipėdos kraštą ir sukilimo eiga 1923 m. sausio 9-15 d.,
@@ -427,7 +432,6 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- [[objektai/posakiai/Vakarų krikščionybės tvirtovė Rytuose]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/posakiai/karas po karo]]
@@ -439,4 +443,3 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas)]]
 - [[objektai/grupes/Sausio 13-osios dienos brolija]]
 - [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis]]
-- [[objektai/zodynas/leičiai]]

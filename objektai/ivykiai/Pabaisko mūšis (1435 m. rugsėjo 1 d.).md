@@ -72,7 +72,7 @@ Nenurodyta
 <a id="claim-t-66814"></a>
 - t-005
   global_id: t-66814
-  teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o mūšis buvo lyginamas su Tanenbergo-Žalgirio kautynėmis.'
+  teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.'
   pagrindžia:
     - c-005
 
@@ -164,6 +164,7 @@ Nenurodyta
     - t-003
 
 - c-005
+  santrauka: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pabaisko (Šventosios) mūšyje žuvo

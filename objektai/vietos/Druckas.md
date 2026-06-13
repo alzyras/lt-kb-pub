@@ -29,7 +29,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 <a id="claim-t-67840"></a>
 - t-001
   global_id: t-67840
-  teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  teiginys: '1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 <a id="claim-t-67842"></a>
 - t-003
   global_id: t-67842
-  teiginys: 'Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką.'
+  teiginys: 'Kunigaikščio Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
@@ -74,6 +75,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-001
 
 - c-002
+  santrauka: 'Kunigaikščio Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Viena jų, vadovaujama

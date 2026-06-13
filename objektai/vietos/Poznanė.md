@@ -49,89 +49,75 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   pagrindžia:
     - c-003
 
-<a id="claim-t-114854"></a>
-- t-004
-  global_id: t-114854
-  teiginys: 'RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-114855"></a>
-- t-005
+- t-004
   global_id: t-114855
   teiginys: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-114856"></a>
-- t-006
+- t-005
   global_id: t-114856
   teiginys: 'Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-114857"></a>
-- t-007
+- t-006
   global_id: t-114857
-  teiginys: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
+  teiginys: 'Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-114858"></a>
-- t-008
+- t-007
   global_id: t-114858
   teiginys: 'Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-114859"></a>
-- t-009
-  global_id: t-114859
-  teiginys: 'PamZH = Pamiętnik (IV, V, VI) Powszechnego Zjazdu Historyków Polskich, 1925 (Poznanė), 1930 (Varšuva), 1935 (Vilnius).'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-114860"></a>
-- t-010
+- t-008
   global_id: t-114860
   teiginys: 'Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-114861"></a>
-- t-011
+- t-009
   global_id: t-114861
   teiginys: 'Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-114862"></a>
-- t-012
+- t-010
   global_id: t-114862
-  teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
+  teiginys: 'Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-114863"></a>
-- t-013
+- t-011
   global_id: t-114863
   teiginys: 'Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-114864"></a>
-- t-014
+- t-012
   global_id: t-114864
   teiginys: '„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-185098"></a>
-- t-015
+- t-013
   global_id: t-185098
   teiginys: 'Karalius, keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės per audrą.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -147,7 +133,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009
 
 - c-002
   santrauka: '„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško.'
@@ -171,8 +157,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
-    - t-008
+    - t-012
+    - t-007
 
 - c-003
   santrauka: 'Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
@@ -190,7 +176,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-011
     - t-003
 
 - c-004
@@ -205,7 +191,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
     - t-001
 
 - c-005
@@ -250,8 +235,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-010
+    - t-004
+    - t-008
 
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -268,24 +253,11 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-005
     - t-006
-    - t-007
 
 - c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    RAU = Rozprawy Akademji Umiejętności, Wydział filozoficzno-
-    historyczny, leidžiamas PAU Krokuvoje.
-    RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė.
-    RegJH = Regesta historico — diplomatica Ordinis Mariae Theutoni-
-    corum (1198-1525), išl.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-009
+  santrauka: 'Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
@@ -308,9 +280,9 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-010
 
-- c-010
+- c-009
   santrauka: 'Karalius, keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės per audrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -326,4 +298,4 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-013

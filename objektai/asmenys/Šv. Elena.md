@@ -34,7 +34,7 @@ Elenos skulptūros ant katedros frontono.
 <a id="claim-t-183578"></a>
 - t-002
   global_id: t-183578
-  teiginys: 'Elenos skulptūros ant katedros frontono.'
+  teiginys: '1792 m. buvo baigta šv. Elenos skulptūra ant katedros frontono.'
   pagrindžia:
     - c-001
 

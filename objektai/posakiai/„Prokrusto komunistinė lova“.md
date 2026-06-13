@@ -26,7 +26,7 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 <a id="claim-t-183502"></a>
 - t-002
   global_id: t-183502
-  teiginys: 'Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją į Prokrusto komunistinę lovą sovietmečiu nepavyko.'
+  teiginys: 'Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
     - t-001
 
 - c-002
-  santrauka: 'Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją į Prokrusto komunistinę lovą sovietmečiu nepavyko.'
+  santrauka: 'Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujomis sąlygomis menininkai vis dažniau atsiribodavo

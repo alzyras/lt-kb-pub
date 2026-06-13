@@ -21,13 +21,14 @@ Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popieži
 <a id="claim-t-63010"></a>
 - t-001
   global_id: t-63010
-  teiginys: 'Dusburgietis teigia, kad kluniečių ordinas — 900 viešpaties metais popiežiaus Madrijono III laikais (Ptol.'
+  teiginys: 'Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kluniečių ordinas — 900 viešpaties metais popiežiaus Madrijono III laikais (Ptol. 16,23

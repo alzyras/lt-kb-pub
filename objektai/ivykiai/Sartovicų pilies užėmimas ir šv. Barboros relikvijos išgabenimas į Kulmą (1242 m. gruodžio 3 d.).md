@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-89398"></a>
 - t-001
   global_id: t-89398
-  teiginys: 'Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei.'
+  teiginys: '1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-89400"></a>
 - t-003
   global_id: t-89400
-  teiginys: 'Dusburgietis teigia, kad pakilę pasiėmė šią šventą relikviją ir džiūgaudami išėjo iš rūsio.'
+  teiginys: 'Sartovicų pilį užėmę broliai pasiėmė šv. Barboros relikviją ir džiūgaudami išėjo iš rūsio.'
   pagrindžia:
     - c-002
 
@@ -72,13 +72,14 @@ Nenurodyta
 <a id="claim-t-89402"></a>
 - t-005
   global_id: t-89402
-  teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
+  teiginys: 'Sartovicų pilyje surišta sena moteris broliams aiškino, kad šv. Barboros palankumas padėjo jiems pasiekti pergalę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai dėl to broliai, šitai matydami  ir dėl to būgštaudami, ryžosi verčiau žūti kovoje,

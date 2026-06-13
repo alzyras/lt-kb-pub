@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-49171"></a>
 - t-001
   global_id: t-49171
-  teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio Jonušo Radvilos pergalė.'
+  teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė.'
   pagrindžia:
     - c-003
 
@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-49174"></a>
 - t-004
   global_id: t-49174
-  teiginys: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
+  teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje.'
   pagrindžia:
     - c-003
 

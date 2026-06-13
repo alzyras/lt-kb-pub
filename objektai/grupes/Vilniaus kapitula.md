@@ -49,7 +49,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 <a id="claim-t-176075"></a>
 - t-004
   global_id: t-176075
-  teiginys: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
+  teiginys: 'Filipovo namo činšas mokėtas vienuolika metų, o jam nutrūkus Vilniaus kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.'
   pagrindžia:
     - c-018
 
@@ -126,21 +126,14 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 <a id="claim-t-176086"></a>
 - t-015
   global_id: t-176086
-  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo.'
+  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus.'
   pagrindžia:
     - c-012
-
-<a id="claim-t-176087"></a>
-- t-016
-  global_id: t-176087
-  teiginys: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
-  pagrindžia:
-    - c-009
 
 <a id="claim-t-176088"></a>
 - t-017
   global_id: t-176088
-  teiginys: 'Didysis kunigaikštis Vilniaus vyskupui ir kapitulai dalijo vis didesnes dovanas.'
+  teiginys: 'Vytautas dosniai dalijo vis didesnes dovanas Vilniaus vyskupui ir Vilniaus kapitulai.'
   pagrindžia:
     - c-001
 
@@ -154,7 +147,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 <a id="claim-t-176090"></a>
 - t-019
   global_id: t-176090
-  teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  teiginys: 'Dinaburgo komtūro pranešime Livonijos magistrui minėtas Vilniaus miesto, Vilniaus kapitulos ir pilies gaisras bei Vytauto patirti nuostoliai.'
   pagrindžia:
     - c-011
 
@@ -224,14 +217,14 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 <a id="claim-t-176101"></a>
 - t-029
   global_id: t-176101
-  teiginys: 'Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos rektoriams perleistas patronato teises.'
+  teiginys: 'Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.'
   pagrindžia:
     - c-021
 
 <a id="claim-t-176102"></a>
 - t-030
   global_id: t-176102
-  teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
+  teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   pagrindžia:
     - c-008
 
@@ -259,7 +252,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 <a id="claim-t-176106"></a>
 - t-034
   global_id: t-176106
-  teiginys: 'Kapitula, siekdama išsaugoti Katedros mokyklą, uždraudė jėzuitų kolegijoje dėstyti pradinius mokslus.'
+  teiginys: 'Vilniaus kapitula, siekdama išsaugoti Katedros mokyklą ir sumažėjusias pajamas, uždraudė jėzuitų kolegijoje dėstyti pradinius mokslus.'
   pagrindžia:
     - c-020
 
@@ -586,7 +579,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-010
 
 - c-012
-  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo.'
+  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.
@@ -777,6 +770,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-011
 
 - c-018
+  santrauka: 'Filipovo namo činšas mokėtas vienuolika metų, o jam nutrūkus Vilniaus kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis činšas buvo mokamas
@@ -861,6 +855,7 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
     - t-034
 
 - c-021
+  santrauka: 'Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     173
@@ -966,12 +961,12 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 - [[objektai/grupes/Apaštalų Sostas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
 - [[objektai/asmenys/Bernardas Zanobijus]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
 - [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
 - [[objektai/zodynas/plaustai]]

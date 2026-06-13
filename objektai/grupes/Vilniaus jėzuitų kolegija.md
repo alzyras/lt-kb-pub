@@ -38,7 +38,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 <a id="claim-t-86705"></a>
 - t-002
   global_id: t-86705
-  teiginys: 'Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.'
+  teiginys: '1581 m. birželio 9 d. Vilniaus kapitula teisę siūlyti Šv. Jono bažnyčios vikarus perleido Akademijos kolegijos rektoriams jėzuitams.'
   pagrindžia:
     - c-004
 
@@ -146,6 +146,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - t-004
 
 - c-004
+  santrauka: '1581 m. birželio 9 d. Vilniaus kapitula teisę siūlyti Šv. Jono bažnyčios vikarus perleido Akademijos kolegijos rektoriams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčios
@@ -258,10 +259,10 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/paprociai/Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]
-- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
 - [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]

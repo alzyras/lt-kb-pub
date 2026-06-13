@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-62676"></a>
 - t-001
   global_id: t-62676
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą; vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis.'
+  teiginys: 'Ietininkų turnyre apsiginklavęs raitelis kvietė kautis dėl žirgo, ginklų ir savo mergelės garbės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ietininkų turnyre apsiginklavęs raitelis kvietė kautis dėl žirgo, ginklų ir savo mergelės garbės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     80 (78). Dar apie tą patį

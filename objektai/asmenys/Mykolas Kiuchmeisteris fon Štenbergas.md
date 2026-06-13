@@ -28,7 +28,7 @@ periodo_grupes:
 <a id="claim-t-101696"></a>
 - t-001
   global_id: t-101696
-  teiginys: 'Šio konflikto esmę paaiškina įdomi detalė: 1413 m. sausio 28 d. derybose Salyne (prie Kauno) su Vokiečių ordino pasiuntinybės vadovu maršalu Mykolu Kiuchmeisteriu fon Štenbergu įvyko įdomus pašnekesys.'
+  teiginys: '1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose.'
   pagrindžia:
     - c-001
 

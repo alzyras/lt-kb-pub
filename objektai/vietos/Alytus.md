@@ -31,7 +31,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 <a id="claim-t-109066"></a>
 - t-001
   global_id: t-109066
-  teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   pagrindžia:
     - c-008
 
@@ -87,7 +87,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 <a id="claim-t-109074"></a>
 - t-009
   global_id: t-109074
-  teiginys: 'Jų būriai rinkosi Kaune, Alytuj, Panevėžy, Kėdainiuose, Marijampolėj ir kitose vietose, kurias dar laikė vokiečių kariuomenė.'
+  teiginys: 'Pirmosios Lietuvos kariuomenės savanorių būriai rinkosi Alytuje ir kitose vokiečių kariuomenės laikytose vietose.'
   pagrindžia:
     - c-009
 
@@ -115,7 +115,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 <a id="claim-t-109078"></a>
 - t-013
   global_id: t-109078
-  teiginys: 'Kautynių metu iš Alytaus rusai trimis sunkvežimiais skubėjo į pagalbą Merkinės NKVD kariams ir stribams.'
+  teiginys: 'Iš Alytaus rusai trimis sunkvežimiais skubėjo į pagalbą Merkinės NKVD kariams ir stribams.'
   pagrindžia:
     - c-006
 
@@ -253,6 +253,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - t-007
 
 - c-006
+  santrauka: 'Iš Alytaus rusai trimis sunkvežimiais skubėjo į pagalbą Merkinės NKVD kariams ir stribams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     atsitraukiančių partizanų nepersekiojo.
@@ -294,6 +295,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - t-011
 
 - c-008
+  santrauka: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Absoliučią daugumą
@@ -310,6 +312,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - t-001
 
 - c-009
+  santrauka: 'Pirmosios Lietuvos kariuomenės savanorių būriai rinkosi Alytuje ir kitose vokiečių kariuomenės laikytose vietose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     5 d. Visos pirmosios kariuomenės dalys buvo savanorių. Jų

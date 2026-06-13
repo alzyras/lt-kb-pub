@@ -25,20 +25,21 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 <a id="claim-t-86469"></a>
 - t-001
   global_id: t-86469
-  teiginys: 'Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571 (1571 metais) 666 kapoms lietuviškomis monetomis išlaidos: 91 flor., 19 grašių, 6 liet.'
+  teiginys: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis išleista 91 florinas, 19 grašių ir 6 lietuviški denarai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-86470"></a>
 - t-002
   global_id: t-86470
-  teiginys: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
+  teiginys: 'Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Motiejus Kaviečnijskis į Varšuvą atsiuntė talerius, už kuriuos Lietuvoje mokėta po 25 lietuviškus grašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus universiteto bibliotekoje)
@@ -56,6 +57,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
     - t-002
 
 - c-002
+  santrauka: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis išleista 91 florinas, 19 grašių ir 6 lietuviški denarai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571

@@ -78,3 +78,5 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 - [[objektai/asmenys/Silvestras Valiūnas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
+- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]

@@ -38,7 +38,14 @@ Nenurodyta
 <a id="claim-t-62521"></a>
 - t-001
   global_id: t-62521
-  teiginys: 'Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero, pavadinto to pat kalno vardu; joje gyveno broliai su gražiu būreliu ginklanešių.'
+  teiginys: 'Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183973"></a>
+- t-002
+  global_id: t-183973
+  teiginys: 'Vieną sekmadienį iš Sūduvos atvykusi kariuomenė išžudė Vartenbergo apylinkių kaimų žmones, o moteris ir vaikus išsivarė į nelaisvę.'
   pagrindžia:
     - c-001
 
@@ -73,4 +80,3 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/ginklanešiai]]

@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-77951"></a>
 - t-001
   global_id: t-77951
-  teiginys: 'Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
+  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi katalikai didikai ir dalis ortodoksų perėjo į kalvinizmą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi katalikai didikai ir dalis ortodoksų perėjo į kalvinizmą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis

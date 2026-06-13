@@ -30,13 +30,6 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   pagrindžia:
     - c-001
 
-<a id="claim-t-183174"></a>
-- t-003
-  global_id: t-183174
-  teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,7 +63,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
     - t-001
 
 - c-003
-  santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
+  santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai

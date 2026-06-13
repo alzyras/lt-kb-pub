@@ -20,13 +20,14 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
 <a id="claim-t-20897"></a>
 - t-001
   global_id: t-20897
-  teiginys: 'Aleksandrui Jakovlevui LKP vadovybei pabrėžus, kad „inteligentija – liaudies savimonės išraiška“, partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse.'
+  teiginys: 'Po Aleksandro Jakovlevo vizito LKP nebedraudė komunistams dalyvauti Lietuvos Persitvarkymo Sąjūdžio rėmimo grupėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Aleksandro Jakovlevo vizito LKP nebedraudė komunistams dalyvauti Lietuvos Persitvarkymo Sąjūdžio rėmimo grupėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjo Lietuvos žaliųjų

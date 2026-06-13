@@ -29,21 +29,21 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 <a id="claim-t-44993"></a>
 - t-001
   global_id: t-44993
-  teiginys: 'J. Tūbelis 1931–1938 m. pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.'
+  teiginys: 'Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-44994"></a>
 - t-002
   global_id: t-44994
-  teiginys: 'LKDP bloko balsais tautininkų lyderis A. Smetona buvo išrinktas šalies prezidentu ir prisiekė laikytis konstitucijos.'
+  teiginys: 'LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-44995"></a>
 - t-003
   global_id: t-44995
-  teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
+  teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės.'
   pagrindžia:
     - c-005
 
@@ -64,6 +64,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gąsdinamas pilietinio karo galimybe, kuria galėjo pasinaudoti Lenkija,
@@ -96,6 +97,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - t-005
 
 - c-003
+  santrauka: 'Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
@@ -133,6 +135,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - t-004
 
 - c-005
+  santrauka: 'Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to atgaivinta Seimo institucija.
@@ -154,8 +157,10 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/seimas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
 - [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
-- [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]

@@ -29,13 +29,14 @@ Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis 
 <a id="claim-t-88464"></a>
 - t-001
   global_id: t-88464
-  teiginys: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m. rašė Rusios karaliumi.'
+  teiginys: '1428 m. popiežius Martynas V laišku perspėjo Kulmo vyskupą nesikišti į lenkų ir lietuvių reikalus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1428 m. popiežius Martynas V laišku perspėjo Kulmo vyskupą nesikišti į lenkų ir lietuvių reikalus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepadėjo

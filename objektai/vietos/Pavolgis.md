@@ -19,13 +19,14 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 <a id="claim-t-36477"></a>
 - t-001
   global_id: t-36477
-  teiginys: 'Vytautas suėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  teiginys: '1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1427 mt. pradžioje jų buvo dar

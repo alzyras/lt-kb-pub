@@ -49,13 +49,14 @@ Nenurodyta
 <a id="claim-t-77918"></a>
 - t-001
   global_id: t-77918
-  teiginys: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
+  teiginys: 'Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-

@@ -19,7 +19,7 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
 <a id="claim-t-60286"></a>
 - t-001
   global_id: t-60286
-  teiginys: 'Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Prūsijos žemės magistras brolis Gerhardas iš Hircbergo vadovavo dvejus metus340.'
+  teiginys: 'Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.'
   pagrindžia:
     - c-001
 

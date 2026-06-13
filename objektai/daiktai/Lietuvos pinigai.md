@@ -135,7 +135,7 @@ Nenurodyta
 <a id="claim-t-12318"></a>
 - t-013
   global_id: t-12318
-  teiginys: 'Vytauto laikais rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
+  teiginys: 'Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
   pagrindžia:
     - c-014
 
@@ -160,54 +160,40 @@ Nenurodyta
   pagrindžia:
     - c-017
 
-<a id="claim-t-12875"></a>
-- t-017
-  global_id: t-12875
-  teiginys: 'Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.'
-  pagrindžia:
-    - c-018
-
-<a id="claim-t-103464"></a>
-- t-018
-  global_id: t-103464
-  teiginys: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
-  pagrindžia:
-    - c-019
-
 <a id="claim-t-103465"></a>
-- t-019
+- t-017
   global_id: t-103465
   teiginys: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
   pagrindžia:
-    - c-022
+    - c-020
 
 <a id="claim-t-103466"></a>
-- t-020
+- t-018
   global_id: t-103466
   teiginys: 'Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.'
   pagrindžia:
-    - c-024
+    - c-022
 
 <a id="claim-t-103467"></a>
-- t-021
+- t-019
   global_id: t-103467
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
-    - c-021
+    - c-019
 
 <a id="claim-t-103468"></a>
-- t-022
+- t-020
   global_id: t-103468
   teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
   pagrindžia:
-    - c-020
+    - c-018
 
 <a id="claim-t-103469"></a>
-- t-023
+- t-021
   global_id: t-103469
   teiginys: 'Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.'
   pagrindžia:
-    - c-023
+    - c-021
 
 ## Reikšmingi paminėjimai
 
@@ -418,6 +404,7 @@ Nenurodyta
     - t-012
 
 - c-014
+  santrauka: 'Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
@@ -484,37 +471,6 @@ Nenurodyta
     - t-016
 
 - c-018
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    K pinigėliai buvo
-    du kartu didesni už aukščiau minėtus pinigėlius ir daugiausia jų
-    rasta Kaune (1844 m.). Viename Jogailos ir Vytauto dokumen­
-    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
-    dabriniais pinigais; matyt, grašiais arba denariukais. Vytau­
-    tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
-    tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
-    sorum^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-019
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kunigaikštis Kaributas buvo jau seniau
-    išsiųstas su kariuomenės būriu pas Jogailą. Vytautas dar davė
-    Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
-    Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
-    nėjo, nes palaikė Ordiną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. spalio 1 d. Lietuvoje
@@ -527,9 +483,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-020
 
-- c-021
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
@@ -542,9 +498,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-019
 
-- c-022
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
@@ -558,9 +514,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-017
 
-- c-023
+- c-021
   santrauka: 'Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -573,9 +529,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-021
 
-- c-024
+- c-022
   santrauka: 'Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -591,7 +547,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
@@ -604,17 +560,14 @@ Nenurodyta
 - [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Herbas]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/daiktai/Stulpai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/duoklė]]

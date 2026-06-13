@@ -46,7 +46,7 @@ amziai:
 <a id="claim-t-77788"></a>
 - t-003
   global_id: t-77788
-  teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
+  teiginys: 'Abraomas Kulvietis siekė lietuvių kalbą paversti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Abraomas Kulvietis siekė lietuvių kalbą paversti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia įvykių seka rodė ne tik tai, kad Lie-

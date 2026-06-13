@@ -20,7 +20,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 <a id="claim-t-59162"></a>
 - t-001
   global_id: t-59162
-  teiginys: 'Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė, kuo vardu jų pilis.'
+  teiginys: 'Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai.'
   pagrindžia:
     - c-001
 

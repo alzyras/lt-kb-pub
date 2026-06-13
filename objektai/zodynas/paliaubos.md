@@ -46,7 +46,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 <a id="claim-t-70265"></a>
 - t-003
   global_id: t-70265
-  teiginys: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
+  teiginys: 'Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.'
   pagrindžia:
     - c-002
 
@@ -104,6 +104,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     - t-006
 
 - c-002
+  santrauka: 'Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.

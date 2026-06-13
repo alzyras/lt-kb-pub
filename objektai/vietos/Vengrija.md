@@ -55,7 +55,7 @@ amziai:
 <a id="claim-t-180765"></a>
 - t-004
   global_id: t-180765
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos žemės niokojimą ir 30 tūkstančių totorių žūtį 1326 viešpaties metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
+  teiginys: '1326 metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ amziai:
 <a id="claim-t-180767"></a>
 - t-006
   global_id: t-180767
-  teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
+  teiginys: 'Tais pačiais metais totoriai nuniokojo Vengriją ir Lenkiją.'
   pagrindžia:
     - c-006
 
@@ -104,7 +104,7 @@ amziai:
 <a id="claim-t-180774"></a>
 - t-012
   global_id: t-180774
-  teiginys: 'Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.'
+  teiginys: 'Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui.'
   pagrindžia:
     - c-007
 
@@ -231,6 +231,7 @@ amziai:
     - t-013
 
 - c-006
+  santrauka: 'Tais pačiais metais totoriai nuniokojo Vengriją ir Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     22. Apie Vengrijos ir Lenkijos nusiaubimą

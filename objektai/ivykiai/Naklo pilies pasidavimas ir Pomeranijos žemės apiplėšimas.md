@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-62883"></a>
 - t-001
   global_id: t-62883
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.'
+  teiginys: 'Kariuomenė prie Naklo pilies įsirengė stovyklą ir apsiausties įtaisus, todėl pilėnai atidavė pilį broliams su sąlyga išeiti gyvi su manta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kariuomenė prie Naklo pilies įsirengė stovyklą ir apsiausties įtaisus, todėl pilėnai atidavė pilį broliams su sąlyga išeiti gyvi su manta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė

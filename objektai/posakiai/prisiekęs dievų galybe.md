@@ -20,13 +20,14 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
 <a id="claim-t-59155"></a>
 - t-001
   global_id: t-59155
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.'
+  teiginys: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl jie turėjo nutraukti
@@ -44,7 +45,7 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.'
+  santrauka: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai nieku

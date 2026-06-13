@@ -54,7 +54,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 <a id="claim-t-64268"></a>
 - t-004
   global_id: t-64268
-  teiginys: 'Vosyliaus I laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, trukusius 1406-1408 m.'
+  teiginys: 'Vosyliaus I laikysena paskatino Vytautą 1406–1408 m. pradėti karo veiksmus prieš Vosylių I.'
   pagrindžia:
     - c-004
 
@@ -116,6 +116,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-002
 
 - c-004
+  santrauka: 'Vosyliaus I laikysena paskatino Vytautą 1406–1408 m. pradėti karo veiksmus prieš Vosylių I.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gavęs paramos iš

@@ -29,7 +29,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 <a id="claim-t-86154"></a>
 - t-001
   global_id: t-86154
-  teiginys: 'Ulrikas uoliai įvykdė karaliaus pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties statybą užbaigė jo sūnus Jonas.'
+  teiginys: 'Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     - t-002
 
 - c-002
+  santrauka: 'Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­

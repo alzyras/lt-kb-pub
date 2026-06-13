@@ -21,20 +21,21 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 <a id="claim-t-58574"></a>
 - t-001
   global_id: t-58574
-  teiginys: 'Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui, taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai.'
+  teiginys: 'Kryžiuočių ordino broliai įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį iki pamatų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58575"></a>
 - t-002
   global_id: t-58575
-  teiginys: 'Dusburgietis teigia, kad 548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der Mimel).'
+  teiginys: 'Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der

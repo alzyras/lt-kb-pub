@@ -85,7 +85,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 <a id="claim-t-114969"></a>
 - t-009
   global_id: t-114969
-  teiginys: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
+  teiginys: 'Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus.'
   pagrindžia:
     - c-004
 
@@ -169,6 +169,7 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - t-002
 
 - c-004
+  santrauka: 'Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus

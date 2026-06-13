@@ -95,7 +95,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 <a id="claim-t-107742"></a>
 - t-010
   global_id: t-107742
-  teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
+  teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
   pagrindžia:
     - c-006
 
@@ -110,7 +110,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 <a id="claim-t-107744"></a>
 - t-012
   global_id: t-107744
-  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  teiginys: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
   pagrindžia:
     - c-010
 
@@ -203,6 +203,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - t-001
 
 - c-006
+  santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos provincijos švietimą
@@ -267,6 +268,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - t-002
 
 - c-010
+  santrauka: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
@@ -311,4 +313,5 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/asmenys/Ignotas Masalskis]]
 - [[objektai/grupes/Dalomoji Komisija]]

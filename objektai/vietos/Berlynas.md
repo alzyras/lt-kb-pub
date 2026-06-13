@@ -29,7 +29,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170285"></a>
 - t-001
   global_id: t-170285
-  teiginys: '1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).'
+  teiginys: 'Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
   pagrindžia:
     - c-004
 
@@ -57,7 +57,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170289"></a>
 - t-005
   global_id: t-170289
-  teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+  teiginys: 'Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto.'
   pagrindžia:
     - c-002
 
@@ -92,23 +92,9 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170295"></a>
 - t-010
   global_id: t-170295
-  teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
+  teiginys: 'Juozas Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-170296"></a>
-- t-011
-  global_id: t-170296
-  teiginys: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-170297"></a>
-- t-012
-  global_id: t-170297
-  teiginys: 'Z. Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-170298"></a>
 - t-013
@@ -120,7 +106,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170299"></a>
 - t-014
   global_id: t-170299
-  teiginys: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
+  teiginys: 'Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   pagrindžia:
     - c-012
 
@@ -134,7 +120,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170301"></a>
 - t-016
   global_id: t-170301
-  teiginys: 'K. Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
+  teiginys: 'Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.'
   pagrindžia:
     - c-008
 
@@ -148,7 +134,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170303"></a>
 - t-018
   global_id: t-170303
-  teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
+  teiginys: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   pagrindžia:
     - c-013
 
@@ -167,6 +153,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-017
 
 - c-002
+  santrauka: 'Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Berlyno  karališkosios
@@ -218,6 +205,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-001
 
 - c-005
+  santrauka: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O beveik
@@ -353,6 +341,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-009
 
 - c-012
+  santrauka: 'Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
@@ -366,6 +355,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-014
 
 - c-013
+  santrauka: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau lietuviams

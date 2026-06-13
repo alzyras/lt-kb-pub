@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-87260"></a>
 - t-001
   global_id: t-87260
-  teiginys: 'Apgultos Aukštutinės pilies gynėjai pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
+  teiginys: 'Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Apgultos Aukštutinės pilies gynėjai pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
+  santrauka: 'Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35

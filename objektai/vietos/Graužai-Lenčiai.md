@@ -25,13 +25,14 @@ Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš už
 <a id="claim-t-38467"></a>
 - t-001
   global_id: t-38467
-  teiginys: '1945 m. vasario 15 d. Graužų-Lenčių miške Betygalos stribai pateko į Vlado Pabarčiaus 40 partizanų būrio pasalą.'
+  teiginys: '1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X ŠILAINIŲ PASALA

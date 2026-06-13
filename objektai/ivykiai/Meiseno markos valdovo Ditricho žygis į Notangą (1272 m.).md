@@ -44,21 +44,22 @@ Nenurodyta
 <a id="claim-t-89382"></a>
 - t-001
   global_id: t-89382
-  teiginys: 'Dusburgietis teigia, kad kai šitai buvo padaryta, minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris.'
+  teiginys: 'Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 <a id="claim-t-89383"></a>
 - t-002
   global_id: t-89383
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją su daugybe karių.'
+  teiginys: 'Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto

@@ -48,20 +48,21 @@ Nenurodyta
 <a id="claim-t-77933"></a>
 - t-001
   global_id: t-77933
-  teiginys: 'Netrukus atsirado ir modernių jaunos nacijos didvyrių.'
+  teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-77934"></a>
 - t-002
   global_id: t-77934
-  teiginys: 'Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.'
+  teiginys: 'Dariaus ir Girėno skrydis sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
@@ -79,6 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Dariaus ir Girėno skrydis sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-

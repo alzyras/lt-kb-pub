@@ -33,14 +33,14 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 <a id="claim-t-79042"></a>
 - t-001
   global_id: t-79042
-  teiginys: '1604 m. Švedijos karaliumi tapus Karoliui Ix, karo veiksmai Livonijoje suintensyvėjo.'
+  teiginys: '1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-79043"></a>
 - t-002
   global_id: t-79043
-  teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
+  teiginys: 'Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 <a id="claim-t-79047"></a>
 - t-005
   global_id: t-79047
-  teiginys: 'Jonas Karolis Chodkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
+  teiginys: 'Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
   pagrindžia:
     - c-004
 
@@ -82,6 +82,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Baigęs studijas, J. K. Chodkevičius 1590 m. pradėjo
@@ -113,6 +114,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-001
 
 - c-002
+  santrauka: 'Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šis laimėjimas - puikus gy-
@@ -144,7 +146,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-007
 
 - c-004
-  santrauka: 'Jonas Karolis Chodkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
+  santrauka: 'Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-

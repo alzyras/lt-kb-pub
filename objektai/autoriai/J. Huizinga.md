@@ -19,13 +19,14 @@ Huizinga) yra labai platus objektas.
 <a id="claim-t-100126"></a>
 - t-001
   global_id: t-100126
-  teiginys: 'Huizinga) yra labai platus objektas.'
+  teiginys: 'J. Huizingos sąvoka „vidurinių amžių ruduo“ citatoje siejama su Europos vidurinių amžių pabaiga.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Huizingos sąvoka „vidurinių amžių ruduo“ citatoje siejama su Europos vidurinių amžių pabaiga.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     J. A. Sabalį suorganizavo

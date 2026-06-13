@@ -52,13 +52,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-183302"></a>
-- t-002
-  global_id: t-183302
-  teiginys: 'Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,7 +72,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.'
+  santrauka: 'LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje

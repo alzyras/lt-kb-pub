@@ -45,28 +45,29 @@ Nenurodyta
 <a id="claim-t-62844"></a>
 - t-001
   global_id: t-62844
-  teiginys: 'Dusburgietis teigia, kad kad šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti, išdavė jiems raštą, kurį patvirtino savo antspaudu172.'
+  teiginys: 'Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62845"></a>
 - t-002
   global_id: t-62845
-  teiginys: 'Dusburgietis teigia, kad 173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi Hohenlohės reliacijos originale, įėjo į Ordino tradiciją.'
+  teiginys: 'Kulmo ir Lubavos žemių dovanojimas buvo atliktas apie 1226 arba 1230 metus, dalyvaujant dvasininkų ir pasauliečių liudytojams.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-003
 
 <a id="claim-t-62846"></a>
 - t-003
   global_id: t-62846
-  teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
+  teiginys: 'Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kulmo ir Lubavos žemių dovanojimas buvo atliktas apie 1226 arba 1230 metus, dalyvaujant dvasininkų ir pasauliečių liudytojams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi
@@ -79,6 +80,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kad

@@ -19,13 +19,14 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
 <a id="claim-t-40305"></a>
 - t-001
   global_id: t-40305
-  teiginys: 'Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais, remiamas kazokų pulko, atakavo lietuvių įtvirtinimus prie Vilniaus.'
+  teiginys: 'Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gen. mjr. Leontijus Bennigsenas tri-

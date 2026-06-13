@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-97040"></a>
 - t-001
   global_id: t-97040
-  teiginys: 'Popiežiaus delegato pasiuntiniai savo platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė desperatišku prierašu : « ...'
+  teiginys: '1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu.'
   pagrindžia:
     - c-001
 

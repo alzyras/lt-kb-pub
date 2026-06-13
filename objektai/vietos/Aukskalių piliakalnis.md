@@ -26,7 +26,7 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 <a id="claim-t-58520"></a>
 - t-002
   global_id: t-58520
-  teiginys: 'Dusburgietis teigia, kad zelencovo) apylinkės su Romovupe ir Aukskalių piliakalniu, esančios į pietvakarius nuo Įsruties (dab.'
+  teiginys: 'Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
     - t-001
 
 - c-002
+  santrauka: 'Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taigi su pagonišku kultu sietųsi buv. Obeliškių (dab. Zelencovo) apylinkės su Romovupe

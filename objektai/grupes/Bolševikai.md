@@ -175,4 +175,3 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 - [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]
 - [[objektai/asmenys/Kioleris]]
 - [[objektai/asmenys/V. Kapsukas-Mickevičius]]
-- [[objektai/grupes/asis pėstininkų pulkas]]

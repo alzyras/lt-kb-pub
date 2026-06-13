@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-77898"></a>
 - t-001
   global_id: t-77898
-  teiginys: 'Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.'
+  teiginys: '1904 m. pavasarį panaikinus lietuvių spaudos lotyniškuoju raidynu draudimą, krašte greitai atsirado legali lietuvių spauda.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1904 m. pavasarį panaikinus lietuvių spaudos lotyniškuoju raidynu draudimą, krašte greitai atsirado legali lietuvių spauda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis bajorų apskritai nesuprato

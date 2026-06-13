@@ -18,14 +18,14 @@ amziai:
 
 ## Santrauka
 
-Ordinui pulti lietuvius, kaipo neofitus. Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo. Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.
+1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus. Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo. Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.
 
 ## Teiginiai
 
 <a id="claim-t-179583"></a>
 - t-001
   global_id: t-179583
-  teiginys: 'Ordinui pulti lietuvius, kaipo neofitus.'
+  teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Ordinui pulti lietuvius, kaipo neofitus. Lietuvos katalikai buvo laikomi neofita
     - t-002
 
 - c-002
+  santrauka: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam
@@ -103,3 +104,5 @@ Ordinui pulti lietuvius, kaipo neofitus. Lietuvos katalikai buvo laikomi neofita
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/krikščionys turi raudoti dėl jo mirties]]
 - [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]

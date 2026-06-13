@@ -28,13 +28,14 @@ amziai:
 <a id="claim-t-86869"></a>
 - t-001
   global_id: t-86869
-  teiginys: '1323 metais rašo: omnia regna subiacent celesti regi Jesu Christo de quibus unum tenemus tanquam forma in materia vėl servus in domo [visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui, kurių vieną turime materialiu pavidalu arba kaip tarnas.'
+  teiginys: '1323 m. laiške vartota formulė, kad visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1323 m. laiške vartota formulė, kad visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laiške žada:

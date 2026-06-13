@@ -36,7 +36,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 <a id="claim-t-85989"></a>
 - t-002
   global_id: t-85989
-  teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
+  teiginys: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę.'
   pagrindžia:
     - c-002
 
@@ -83,6 +83,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-004
 
 - c-002
+  santrauka: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­

@@ -28,7 +28,7 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 <a id="claim-t-183652"></a>
 - t-002
   global_id: t-183652
-  teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
+  teiginys: 'Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
     - t-001
 
 - c-002
-  santrauka: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
+  santrauka: 'Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš švedus ir jų sąjungininkus taip pat

@@ -32,7 +32,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 <a id="claim-t-117381"></a>
 - t-001
   global_id: t-117381
-  teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
+  teiginys: 'Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
     - c-018
 
@@ -74,7 +74,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 <a id="claim-t-117387"></a>
 - t-007
   global_id: t-117387
-  teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
+  teiginys: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   pagrindžia:
     - c-021
 
@@ -88,14 +88,14 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 <a id="claim-t-117389"></a>
 - t-009
   global_id: t-117389
-  teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
+  teiginys: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-117390"></a>
 - t-010
   global_id: t-117390
-  teiginys: 'Tai buvo žydai ir miestelėnų luomas.'
+  teiginys: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
   pagrindžia:
     - c-001
 
@@ -109,7 +109,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 <a id="claim-t-117392"></a>
 - t-012
   global_id: t-117392
-  teiginys: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
+  teiginys: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
   pagrindžia:
     - c-012
 
@@ -158,7 +158,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 <a id="claim-t-117399"></a>
 - t-019
   global_id: t-117399
-  teiginys: 'Lietuviai sudarė 82 proc., žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc.'
+  teiginys: '1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, žydai sudarė 7 proc. Lietuvos gyventojų be Vilniaus ir Klaipėdos kraštų.'
   pagrindžia:
     - c-015
 
@@ -172,21 +172,21 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 <a id="claim-t-117401"></a>
 - t-021
   global_id: t-117401
-  teiginys: 'Kai kuriose srityse žydai tvirtai dominavo – eksportavo daugiau arklių, kailių ir odų, miško medžiagos, o importe sudarė didžiąją dalį.'
+  teiginys: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-117402"></a>
 - t-022
   global_id: t-117402
-  teiginys: 'Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai pradėjęs kalbėti rusiškai, gavo postus valdžioje, įmonėse ir įstaigose, profesinėse sąjungose – žydai tapo matomi prosovietinėse demonstracijose, administracijoje, tarp politinių vadovų, ir.'
+  teiginys: 'Sovietams kuriant naują administraciją, dalis žydų gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-117403"></a>
 - t-023
   global_id: t-117403
-  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.'
   pagrindžia:
     - c-004
 
@@ -214,6 +214,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo žydai ir miestelėnų luomas.
@@ -231,6 +232,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - t-010
 
 - c-002
+  santrauka: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautininkams patiko ir žydų parama sprendžiant Klaipėdos ir Vil-
@@ -316,6 +318,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - t-017
 
 - c-006
+  santrauka: 'Sovietams kuriant naują administraciją, dalis žydų gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai
@@ -333,6 +336,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - t-022
 
 - c-007
+  santrauka: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
@@ -423,6 +427,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - t-015
 
 - c-012
+  santrauka: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dalis
@@ -587,6 +592,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - t-013
 
 - c-021
+  santrauka: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1923 m. panaikintas žydų ministro be
@@ -610,7 +616,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - t-007
 
 - c-022
-  santrauka: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
+  santrauka: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
@@ -758,7 +764,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/asmenys/Jakob Levi]]
 - [[objektai/grupes/Jogailaičiai]]
-- [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/asmenys/Juozas Tumas-Vaižgantas]]
@@ -836,6 +841,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/posakiai/„savismauga“]]
 - [[objektai/posakiai/„vietos visiems užteks“]]
 - [[objektai/posakiai/„viešpataujanti“ „ponų tauta“]]
+- [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]
 - [[objektai/asmenys/Oskaras Milašius]]
 - [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]

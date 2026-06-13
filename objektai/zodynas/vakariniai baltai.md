@@ -57,7 +57,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 <a id="claim-t-70381"></a>
 - t-005
   global_id: t-70381
-  teiginys: 'Dusburgietis teigia, kad ilgainiui pavyko nustatyti prūsų kalbos vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu lietuvių kalba ir t.'
+  teiginys: 'Vakarų baltų prūsų tarmės laikomos daugeliu atvejų archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes.'
   pagrindžia:
     - c-002
 
@@ -120,6 +120,5 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kuršiai]]
-- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/autoriai/V. Mažiulis]]

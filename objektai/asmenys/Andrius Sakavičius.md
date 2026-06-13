@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku. Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus. Kazimieras, užėmęs pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.
+Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku. Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus. Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.
 
 ## Teiginiai
 
@@ -31,7 +31,7 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 <a id="claim-t-186034"></a>
 - t-003
   global_id: t-186034
-  teiginys: 'Kazimieras, užėmęs pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.'
+  teiginys: 'Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     - t-002
 
 - c-003
-  santrauka: 'Kazimieras, užėmęs pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.'
+  santrauka: 'Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Visuomet kariuomenė sėkmingai

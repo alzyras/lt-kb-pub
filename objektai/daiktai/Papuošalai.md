@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-47815"></a>
 - t-002
   global_id: t-47815
-  teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo audinių ir juostų raštams.'
+  teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
   pagrindžia:
     - c-002
 

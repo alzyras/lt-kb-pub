@@ -41,20 +41,21 @@ Nenurodyta
 <a id="claim-t-62703"></a>
 - t-001
   global_id: t-62703
-  teiginys: 'Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).'
+  teiginys: 'Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62704"></a>
 - t-002
   global_id: t-62704
-  teiginys: 'Dusburgietis teigia, kad antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino siekimas — grobti naujas žemes.'
+  teiginys: 'Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
@@ -69,6 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
@@ -84,7 +86,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).'
+  santrauka: 'Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norėdamas tą mintį pagrįsti, jis tendencingai pateikia ne tik, kaip matėme,
@@ -105,3 +107,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/daiktai/Pilys]]

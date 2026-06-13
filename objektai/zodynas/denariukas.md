@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-34255"></a>
 - t-001
   global_id: t-34255
-  teiginys: 'Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390 m. Jų vienoje pusėje yra ieties galas, o antroj vad. Gedimino stulpai; arba vienoje pusėje su smaigaliu, nulenktu žemyn ir greta ieties viršuje iš kairės pusės kryžius, o antroje tie patys stulpai.'
+  teiginys: '1387-1390 m. atsiradę lietuviški denariukai kursavo greta kitų pinigų ir turėjo ieties galo bei Gedimino stulpų vaizdus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1387-1390 m. atsiradę lietuviški denariukai kursavo greta kitų pinigų ir turėjo ieties galo bei Gedimino stulpų vaizdus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390

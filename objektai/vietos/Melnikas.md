@@ -38,7 +38,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 <a id="claim-t-68689"></a>
 - t-002
   global_id: t-68689
-  teiginys: 'Vytauto laikais Melnike, Palenkėje, imta statyti pilis rusėniškose LDK žemėse toli nuo etninės Lietuvos.'
+  teiginys: 'Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Onos bažnyčiai. XVI a. viduryje naujas madas atneš Vilniaus Žemuti-

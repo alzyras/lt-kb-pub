@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-05299"></a>
 - t-002
   global_id: t-05299
-  teiginys: 'XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.'
+  teiginys: 'XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Artimiausieji rytų kaimynai dregovičiai (Beržūnės

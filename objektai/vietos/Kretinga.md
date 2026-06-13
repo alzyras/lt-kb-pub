@@ -35,14 +35,14 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 <a id="claim-t-171659"></a>
 - t-002
   global_id: t-171659
-  teiginys: 'Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta į Kretingą.'
+  teiginys: 'Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183032"></a>
 - t-003
   global_id: t-183032
-  teiginys: 'IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.'
+  teiginys: 'IV Kražių apygardoje apygardėlinių mokyklų buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
   pagrindžia:
     - c-003
 
@@ -77,6 +77,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     - t-001
 
 - c-002
+  santrauka: 'Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     © M. Kalmantavičiaus-Bajoro traukinys išvyksta
@@ -91,7 +92,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     - t-002
 
 - c-003
-  santrauka: 'IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.'
+  santrauka: 'IV Kražių apygardoje apygardėlinių mokyklų buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-

@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-87004"></a>
 - t-002
   global_id: t-87004
-  teiginys: 'Vis dėlto esama vieno gana nemažo iš plytų ir akmens sumūryto pastato pamatų griuvėsių.'
+  teiginys: 'Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto esama vieno gana nemažo

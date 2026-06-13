@@ -19,13 +19,14 @@ Tai patvirtina ir Hervararsaga (apie 675 m.
 <a id="claim-t-100168"></a>
 - t-001
   global_id: t-100168
-  teiginys: 'Tai patvirtina ir Hervararsaga (apie 675 m.'
+  teiginys: 'Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ansgaro, kuris misijų reikalu buvo sustojęs ir Kurše.

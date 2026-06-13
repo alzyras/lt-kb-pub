@@ -51,7 +51,7 @@ periodo_grupes:
 <a id="claim-t-183561"></a>
 - t-004
   global_id: t-183561
-  teiginys: 'Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos.'
+  teiginys: 'Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.'
   pagrindžia:
     - c-003
 

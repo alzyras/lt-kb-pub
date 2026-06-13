@@ -156,6 +156,4 @@ Nenurodyta
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/grupes/Saulė]]
-- [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]
+- [[objektai/asmenys/Kunzas Lochneris]]

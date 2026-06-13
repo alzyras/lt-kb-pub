@@ -28,7 +28,7 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
 <a id="claim-t-183557"></a>
 - t-002
   global_id: t-183557
-  teiginys: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
+  teiginys: 'Žalgirio mūšio pradžioje didysis komtūras Kuno Lichtenšteinas vedė sunkiosios raitijos pleištą prieš lietuvius.'
   pagrindžia:
     - c-002
 
@@ -49,7 +49,7 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
     - t-001
 
 - c-002
-  santrauka: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
+  santrauka: 'Žalgirio mūšio pradžioje didysis komtūras Kuno Lichtenšteinas vedė sunkiosios raitijos pleištą prieš lietuvius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas

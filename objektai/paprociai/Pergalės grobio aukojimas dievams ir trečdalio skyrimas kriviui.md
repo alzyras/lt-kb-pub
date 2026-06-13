@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-62708"></a>
 - t-001
   global_id: t-62708
-  teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  teiginys: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukodavo trečdalį karo grobio ir išbūrė pergalę 1259 m. Skuodo kautynėse.'
   pagrindžia:
     - c-002
 
@@ -55,13 +55,13 @@ Nenurodyta
   global_id: t-62709
   teiginys: 'Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-003
 
 <a id="claim-t-62710"></a>
 - t-003
   global_id: t-62710
-  teiginys: 'Dusburgietis teigia, kad po pergalės jie aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį atiduodami minėtajam kriviui, kuris tą dalį degino.'
+  teiginys: 'Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukodavo trečdalį karo grobio ir išbūrė pergalę 1259 m. Skuodo kautynėse.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio krivis

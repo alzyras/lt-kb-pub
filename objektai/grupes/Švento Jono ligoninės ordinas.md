@@ -30,13 +30,14 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 <a id="claim-t-59049"></a>
 - t-001
   global_id: t-59049
-  teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  teiginys: 'Švento Jono ligoninės ordinas šaltinyje siejamas su 1104 m. ir popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švento Jono ligoninės ordinas šaltinyje siejamas su 1104 m. ir popiežiaus Urbono II laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.

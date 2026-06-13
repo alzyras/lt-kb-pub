@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-62443"></a>
 - t-001
   global_id: t-62443
-  teiginys: 'Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp dabartinio Kulmo miesto ir senosios pilies pastatė.'
+  teiginys: 'Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų.'
   pagrindžia:
     - c-001
 
@@ -70,3 +70,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/zodynas/magistras]]

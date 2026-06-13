@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą i
 <a id="claim-t-58737"></a>
 - t-001
   global_id: t-58737
-  teiginys: 'Dusburgietis teigia, kad apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį 1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas.'
+  teiginys: '1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Mikalojų III, popiežių, bei karalių Rudolfą ir apie Tibro potvynį

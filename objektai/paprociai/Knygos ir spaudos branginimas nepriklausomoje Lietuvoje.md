@@ -47,13 +47,14 @@ Nenurodyta
 <a id="claim-t-77957"></a>
 - t-001
   global_id: t-77957
-  teiginys: 'Nacionalinė kultūra, nereguliuojama ir nevaržoma, atsiskleidė visa savo pilnatve, užaugo nauja išsilavinusių gabių žmonių karta, gebėjusi atsiverti pasaulio sukurtoms vertybėms, interpretuoti jas lietuviškoje dirvoje.'
+  teiginys: 'Nepriklausomoje Lietuvoje nuo spaudos draudimo laikų branginama knyga ir spauda išliko vertybėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nepriklausomoje Lietuvoje nuo spaudos draudimo laikų branginama knyga ir spauda išliko vertybėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacionalinė kultūra,

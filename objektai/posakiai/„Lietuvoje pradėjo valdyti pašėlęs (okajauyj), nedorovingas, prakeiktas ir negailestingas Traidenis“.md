@@ -32,7 +32,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 <a id="claim-t-97300"></a>
 - t-002
   global_id: t-97300
-  teiginys: 'Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis ».'
+  teiginys: 'Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis.'
   pagrindžia:
     - c-001
 

@@ -40,13 +40,14 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 <a id="claim-t-36434"></a>
 - t-003
   global_id: t-36434
-  teiginys: 'Todėl ir Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui.'
+  teiginys: 'Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ir Naujojo Kvidzino tvirtovė buvo pavesta valdyti

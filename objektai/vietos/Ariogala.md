@@ -55,7 +55,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 <a id="claim-t-179749"></a>
 - t-004
   global_id: t-179749
-  teiginys: 'Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie o righ tinė Bastūnaio | rakelii Subatninkai J a 1950 m. liepos 22 d. ties Ariogalos ir Vilkijos raj.'
+  teiginys: '1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
   pagrindžia:
     - c-003
 
@@ -76,7 +76,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 <a id="claim-t-179752"></a>
 - t-007
   global_id: t-179752
-  teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė ir Ariogalos apylinkes.'
+  teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   pagrindžia:
     - c-007
 
@@ -90,7 +90,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 <a id="claim-t-184921"></a>
 - t-009
   global_id: t-184921
-  teiginys: 'Priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
+  teiginys: 'Nusiaubęs Žemaitiją, priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
   pagrindžia:
     - c-008
 
@@ -134,6 +134,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - t-005
 
 - c-003
+  santrauka: '1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
@@ -201,6 +202,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - t-001
 
 - c-007
+  santrauka: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baigusi kruvinus darbus, ginkluota palyda kitą die­
@@ -217,7 +219,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - t-007
 
 - c-008
-  santrauka: 'Priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.'
+  santrauka: 'Nusiaubęs Žemaitiją, priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai

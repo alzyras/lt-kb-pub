@@ -19,13 +19,14 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 <a id="claim-t-42075"></a>
 - t-001
   global_id: t-42075
-  teiginys: 'Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas.'
+  teiginys: 'Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas karininkas J. Nastopka.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ties Radikonių dvaru kairioji vora sutiko stiprų bolševikų pasipriešinimą, per kurį žuvo kolonos vadas karininkas J. Nastopka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Viduriniajai vorai po atkaklių kautynių

@@ -35,14 +35,14 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 <a id="claim-t-113612"></a>
 - t-001
   global_id: t-113612
-  teiginys: 'Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė ir apie 200 Ordino riterių.'
+  teiginys: 'Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-113613"></a>
 - t-002
   global_id: t-113613
-  teiginys: 'Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą.'
+  teiginys: 'Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai.'
   pagrindžia:
     - c-001
 
@@ -77,7 +77,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 <a id="claim-t-113618"></a>
 - t-007
   global_id: t-113618
-  teiginys: 'Pasitikėjimas tokia didžiule Ordino kariuomenės galybe buvo taip visus pakerėjęs, jog ir didysis magistras, ir jo svita, dar žygiui neprasidėjus, Lietuvą jau manė esant nukariautą.'
+  teiginys: 'Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.'
   pagrindžia:
     - c-005
 
@@ -87,20 +87,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginys: 'Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-113621"></a>
-- t-009
-  global_id: t-113621
-  teiginys: 'Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstančiai eilinių kryžeivių bei samdinių.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-113622"></a>
-- t-010
-  global_id: t-113622
-  teiginys: 'Didysis magistras metė rezervą į mūšį, kai pamatė, kad mūšio sėkmė krypsta ne jo naudai.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -179,6 +165,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - t-003
 
 - c-005
+  santrauka: 'Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     130
@@ -348,12 +335,26 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - [[objektai/zodynas/prūsiškos grivenos]]
 - [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Anonas (didysis magistras)]]
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/asmenys/Burchardas iš Švandeno]]
+- [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
 - [[objektai/asmenys/Gotfridas Hohenlohė]]
 - [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]
+- [[objektai/asmenys/Hermanas Balkas]]
+- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
+- [[objektai/asmenys/Karolis (didysis magistras)]]
+- [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
+- [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/asmenys/Paulius Rusdorfas]]
+- [[objektai/asmenys/Poponas iš Osternos]]
+- [[objektai/posakiai/Pradžioje buvo žodis]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/suma]]
+- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/autoriai/Miechovita]]
 - [[objektai/autoriai/Miechowita Miechovita]]

@@ -51,14 +51,14 @@ Nenurodyta
 <a id="claim-t-75256"></a>
 - t-002
   global_id: t-75256
-  teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75257"></a>
 - t-003
   global_id: t-75257
-  teiginys: 'Po partizanų dokumentų nugabenimo į Vakarus pirmą kartą užmegzti ryšiai tarp partizanų ir pasitraukusių lietuvių organizacijų.'
+  teiginys: '1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.'
   pagrindžia:
     - c-002
 
@@ -87,6 +87,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo laikotarpiu okupacinė valdžia kovai su partizanais

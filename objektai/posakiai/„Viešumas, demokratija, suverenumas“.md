@@ -20,13 +20,14 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 <a id="claim-t-77858"></a>
 - t-001
   global_id: t-77858
-  teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
+  teiginys: 'Pradiniame Sąjūdžio etape pagrindinis LPS šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pradiniame Sąjūdžio etape pagrindinis LPS šūkis buvo „Viešumas, demokratija, suverenumas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pradiniame etape Sąjūdis iš es-

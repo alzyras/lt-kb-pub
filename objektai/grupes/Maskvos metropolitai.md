@@ -29,14 +29,14 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 <a id="claim-t-86763"></a>
 - t-002
   global_id: t-86763
-  teiginys: 'Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams Vytautui buvo vienas didžiausių nepatogumų.'
+  teiginys: 'Michał Balińskis Maskvos metropolitų religinę viršenybę Lietuvos rusiškojo tikėjimo vyskupams laikė dideliu Vytauto nepatogumu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Maskvos metropolitų religinė viršenybė Lietuvos rusiškojo tikėjimo vyskupams Vytautui buvo vienas didžiausių nepatogumų.'
+  santrauka: 'Michał Balińskis Maskvos metropolitų religinę viršenybę Lietuvos rusiškojo tikėjimo vyskupams laikė dideliu Vytauto nepatogumu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas

@@ -37,7 +37,7 @@ Nenurodyta
 <a id="claim-t-75121"></a>
 - t-001
   global_id: t-75121
-  teiginys: 'Prieš pat rinkimus, liepos 11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
+  teiginys: 'Prieš Liaudies seimo rinkimus, liepos 11–12 d., valdžia suėmė kelis šimtus žinomų Lietuvos veikėjų.'
   pagrindžia:
     - c-004
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-75124"></a>
 - t-004
   global_id: t-75124
-  teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
+  teiginys: 'Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų.'
   pagrindžia:
     - c-001
 
@@ -72,6 +72,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viešai grasinama,
@@ -121,6 +122,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: 'Prieš Liaudies seimo rinkimus, liepos 11–12 d., valdžia suėmė kelis šimtus žinomų Lietuvos veikėjų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prieš pat rinkimus, liepos

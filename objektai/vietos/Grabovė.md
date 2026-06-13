@@ -29,7 +29,7 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 <a id="claim-t-36246"></a>
 - t-001
   global_id: t-36246
-  teiginys: 'Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabove.'
+  teiginys: 'Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabovėje.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabovėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Darydamas su jais atskiras sutartis, jis didino savo iždą

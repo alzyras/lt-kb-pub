@@ -38,7 +38,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
 <a id="claim-t-60172"></a>
 - t-002
   global_id: t-60172
-  teiginys: 'Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.'
+  teiginys: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
     - t-001
 
 - c-002
+  santrauka: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė

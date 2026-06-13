@@ -37,7 +37,7 @@ amziai:
 <a id="claim-t-67277"></a>
 - t-002
   global_id: t-67277
-  teiginys: 'Mums kovoje padėjo tik mūsų budrumas ir tai, kad gerai žinojome mišką - kiekvieną kelmą, kiekvieną krūmelį.'
+  teiginys: 'Pasakotojas teigė, kad kovoje padėjo budrumas ir geras miško pažinimas.'
   pagrindžia:
     - c-001
 

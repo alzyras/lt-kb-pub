@@ -22,13 +22,14 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 <a id="claim-t-80619"></a>
 - t-001
   global_id: t-80619
-  teiginys: 'Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link, kurioje tuo metu rezidavo Rusijos valdovas Ivanas rv.'
+  teiginys: '1581 m. rugpjūčio 25 d. K. Radvilos pajėgos, perėjusios Volgą, sudegino Urdomo miestą ir pasuko Staricos link.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1581 m. rugpjūčio 25 d. K. Radvilos pajėgos, perėjusios Volgą, sudegino Urdomo miestą ir pasuko Staricos link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1581 m. Pskovo kampanija, Radvilos Perkūno reidas, Lietu

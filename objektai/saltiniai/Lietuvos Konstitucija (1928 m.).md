@@ -42,7 +42,7 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
 <a id="claim-t-183372"></a>
 - t-003
   global_id: t-183372
-  teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
+  teiginys: '1928 m. gegužės 15 d. nauja Konstitucija sustiprino Antano Smetonos galias prieš Seimą ir įteisino autoritarinį valdymą.'
   pagrindžia:
     - c-002
 

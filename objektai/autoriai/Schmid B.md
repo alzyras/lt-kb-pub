@@ -31,13 +31,14 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 <a id="claim-t-60786"></a>
 - t-001
   global_id: t-60786
-  teiginys: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р.'
+  teiginys: 'B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti

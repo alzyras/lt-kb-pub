@@ -25,13 +25,14 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
 <a id="claim-t-32088"></a>
 - t-001
   global_id: t-32088
-  teiginys: 'Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Europos istorijos seminarą Bonnos universitete, ir už tą paslaugą dėkoju šio seminaro bendradarbiams.'
+  teiginys: 'Bonnos universiteto Rytų Europos istorijos seminaras padėjo autoriui paštu pasiskolinti didelę dalį knygų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bonnos universiteto Rytų Europos istorijos seminaras padėjo autoriui paštu pasiskolinti didelę dalį knygų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tad čia reikėtų dar suminėti daug pavardžių eilės bibliotekų

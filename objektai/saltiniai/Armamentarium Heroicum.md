@@ -27,13 +27,14 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 <a id="claim-t-78125"></a>
 - t-001
   global_id: t-78125
-  teiginys: 'Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.'
+  teiginys: 'Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pavaizduotas Mikalojus Radvila Juodasis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pavaizduotas Mikalojus Radvila Juodasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje

@@ -25,13 +25,14 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 <a id="claim-t-32758"></a>
 - t-001
   global_id: t-32758
-  teiginys: 'Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo, kad tas žodis tereiškė tapimą lenininku.'
+  teiginys: 'Vengrų kanceliarijoje vartotas terminas „applicare“ Ivinskio aiškinimu reiškė tapimą lenininku.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vengrų kanceliarijoje vartotas terminas „applicare“ Ivinskio aiškinimu reiškė tapimą lenininku.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočiai ne kartą akcentavo, jog jie tik

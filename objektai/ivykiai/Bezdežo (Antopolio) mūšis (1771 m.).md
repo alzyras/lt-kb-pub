@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-09821"></a>
 - t-001
   global_id: t-09821
-  teiginys: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'
+  teiginys: 'Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šios pergalės išvystyti nepavyko. Po ga-

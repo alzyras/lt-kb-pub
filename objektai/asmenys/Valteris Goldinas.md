@@ -28,7 +28,7 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 <a id="claim-t-60458"></a>
 - t-001
   global_id: t-60458
-  teiginys: 'Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenburgo komtūro bičiulis, pasileido su būreliu ginklanešių pavymui, užkirto kelią, kuriuo jie turėjo žygiuoti, nes kitų kelių dėl potvynio nebebuvo likę, ir, stojęs į mūsų, nukovė visus, išskyrus tris.'
+  teiginys: '1300 m. Valteris Goldinas su ginklanešiais Notangoje pasivijo lietuvius ir nukovė visus, išskyrus tris.'
   pagrindžia:
     - c-001
 
@@ -66,3 +66,4 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]
+- [[objektai/asmenys/Valteris, pravarde Goldinas]]

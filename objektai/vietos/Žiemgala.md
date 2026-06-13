@@ -31,7 +31,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 <a id="claim-t-99904"></a>
 - t-001
   global_id: t-99904
-  teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
+  teiginys: '1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.'
   pagrindžia:
     - c-003
 
@@ -122,6 +122,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     - t-004
 
 - c-003
+  santrauka: '1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tolimesnėse kovose prieš pagonis jos

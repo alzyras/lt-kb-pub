@@ -48,14 +48,14 @@ Nenurodyta
 <a id="claim-t-87111"></a>
 - t-001
   global_id: t-87111
-  teiginys: 'Pasakojama, kad Gediminas medžiodamas strėle iš kilpinės pašovė didžiulį taurą ir pribaigė jį ant Tauro kalnu vadinto kalno.'
+  teiginys: 'Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pasakojama, kad Gediminas medžiodamas strėle iš kilpinės pašovė didžiulį taurą ir pribaigė jį ant Tauro kalnu vadinto kalno.'
+  santrauka: 'Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA

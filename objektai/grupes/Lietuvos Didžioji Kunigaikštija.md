@@ -45,21 +45,21 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 <a id="claim-t-169683"></a>
 - t-003
   global_id: t-169683
-  teiginys: 'Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.'
+  teiginys: 'Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-169684"></a>
 - t-004
   global_id: t-169684
-  teiginys: 'Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato.'
+  teiginys: 'XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-169685"></a>
 - t-005
   global_id: t-169685
-  teiginys: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
+  teiginys: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
   pagrindžia:
     - c-006
 
@@ -80,7 +80,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 <a id="claim-t-169689"></a>
 - t-008
   global_id: t-169689
-  teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
+  teiginys: 'Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   pagrindžia:
     - c-003
 
@@ -96,21 +96,21 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   global_id: t-169691
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-169692"></a>
 - t-011
   global_id: t-169692
   teiginys: 'Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-169693"></a>
 - t-012
   global_id: t-169693
-  teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
+  teiginys: 'Rusėnų kalba LDK raštinėje tapo alternatyva slavų bažnytinei tradicijai ir buvo vartota Lietuvos Metrikoje, metraščiuose ir Statutuose.'
   pagrindžia:
-    - c-016
+    - c-015
 
 <a id="claim-t-169694"></a>
 - t-013
@@ -119,33 +119,26 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - c-001
 
-<a id="claim-t-169695"></a>
-- t-014
-  global_id: t-169695
-  teiginys: 'Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-169696"></a>
-- t-015
+- t-014
   global_id: t-169696
   teiginys: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
   pagrindžia:
-    - c-015
+    - c-014
 
 <a id="claim-t-169697"></a>
-- t-016
+- t-015
   global_id: t-169697
-  teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
+  teiginys: 'Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-169698"></a>
-- t-017
+- t-016
   global_id: t-169698
   teiginys: 'Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
   pagrindžia:
-    - c-014
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -184,6 +177,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
     - t-001
 
 - c-003
+  santrauka: 'Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
@@ -215,6 +209,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
     - t-007
 
 - c-005
+  santrauka: 'Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
@@ -233,9 +228,10 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
 - c-006
+  santrauka: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo I a. po
@@ -285,22 +281,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
     - t-009
 
 - c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
-    raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-
-    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
-    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
-    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
-    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
-    kyklos ir jų triviumas, kolegijos ir universitetas).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-010
+  santrauka: 'XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Enėjas Silvijus Pikolominis (Enea Silvio Picco-
@@ -328,7 +309,8 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - t-004
 
-- c-011
+- c-010
+  santrauka: 'Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“. LDK
@@ -342,7 +324,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - t-003
 
-- c-012
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
@@ -363,7 +345,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - t-010
 
-- c-013
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m.
@@ -381,7 +363,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - t-011
 
-- c-014
+- c-013
   santrauka: 'Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -393,9 +375,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-015
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLV sąjungininkę Prūsiją išgąsdino gali-
@@ -410,9 +392,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-016
+- c-015
   santrauka: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -427,7 +409,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
     - t-012
 
 ## Ryšiai
@@ -454,8 +436,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - [[objektai/zodynas/jakobinizmas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/lenas]]
-- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/raštinių kultūra]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
@@ -466,8 +446,10 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - [[objektai/autoriai/Bumblauskas A]]
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]
+- [[objektai/zodynas/hegemonija]]
 - [[objektai/posakiai/„aksomine imperija“]]
 - [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
@@ -477,8 +459,6 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - [[objektai/zodynas/Lite litvakai]]
 - [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
 - [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
-- [[objektai/zodynas/leno teisė]]
-- [[objektai/zodynas/leno teisė feodas luominė monarchija]]
 - [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]
 - [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]

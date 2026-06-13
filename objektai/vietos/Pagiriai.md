@@ -35,7 +35,7 @@ tags:
 <a id="claim-t-183796"></a>
 - t-003
   global_id: t-183796
-  teiginys: '@ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka ir kolonas atakuoja lietuvių karo lėktuvai.'
+  teiginys: 'Lenkų kavalerijos brigada užėmė Pagirius, o lietuvių karo lėktuvai sekė jos judėjimą ir atakavo kolonas.'
   pagrindžia:
     - c-002
 

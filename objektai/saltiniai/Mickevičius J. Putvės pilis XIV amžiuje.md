@@ -35,20 +35,21 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 <a id="claim-t-60957"></a>
 - t-002
   global_id: t-60957
-  teiginys: 'Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu prie Akmenos (Jūros intako) į pietryčius nuo Šilalės, su ten buvusiu (upės nuplautu) arba gretimo Kreivių kaimo piliakalniu (SRP, 2, p. 673—675; SZM, p. 201; Biržiška V., Kryžiuočių keliai..., p. 32—33.'
+  teiginys: 'Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60958"></a>
 - t-003
   global_id: t-60958
-  teiginys: 'Dusburgietis teigia, kad kreiviai (anksčiau vadinti Kryvos vardu — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.'
+  teiginys: 'Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočių kelių aprašymuose (XIV a. pabaiga) minimas Putinveld (Weg.
@@ -77,6 +78,7 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
     - t-001
 
 - c-003
+  santrauka: 'Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dab. Pūtvės kaimo žemėse, Akmenos

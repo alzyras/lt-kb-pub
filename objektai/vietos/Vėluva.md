@@ -35,51 +35,51 @@ amziai:
 <a id="claim-t-99858"></a>
 - t-001
   global_id: t-99858
-  teiginys: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
+  teiginys: 'Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-99859"></a>
 - t-002
   global_id: t-99859
-  teiginys: 'Tais pačiais 1347 m. lietuvių karalius (rex) niokojo Ragainės ir Įsruties apylinkes, spalio pradžioje priėjo Vėluvą, tyliai įėjus buvo sudegintas miestas, po to lietuviai siaubė Unzatrapio žemę prie Alnos bei Girdavą.'
+  teiginys: '1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-99860"></a>
 - t-003
   global_id: t-99860
   teiginys: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-99861"></a>
 - t-004
   global_id: t-99861
-  teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
+  teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-99862"></a>
 - t-005
   global_id: t-99862
-  teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.'
+  teiginys: 'Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-99863"></a>
 - t-006
   global_id: t-99863
   teiginys: 'Dusburgietis teigia, kad vėluva, sietina su lie.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-99864"></a>
 - t-007
   global_id: t-99864
-  teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
+  teiginys: 'Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-99865"></a>
 - t-008
@@ -93,7 +93,7 @@ amziai:
   global_id: t-99866
   teiginys: 'Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-99867"></a>
 - t-010
@@ -107,28 +107,21 @@ amziai:
   global_id: t-99868
   teiginys: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-99869"></a>
 - t-012
   global_id: t-99869
-  teiginys: 'Dusburgietis teigia, kad vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo pusėje56.'
+  teiginys: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-99870"></a>
-- t-013
-  global_id: t-99870
-  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-185213"></a>
-- t-015
+- t-014
   global_id: t-185213
   teiginys: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   pagrindžia:
-    - c-012
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -153,6 +146,7 @@ amziai:
     - t-010
 
 - c-002
+  santrauka: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
@@ -173,64 +167,6 @@ amziai:
     - t-012
 
 - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Valikonytė I. 78-79
-    Valimantaičiai 368
-    Valimantaitis Kęsgailą 354
-    Valkaviskas (Vilkaviškis) 88, 125,
-    164, 215, 286
-    Valuinė 28, žr. Volinija
-    Varakauskas R. 42, 77, 123, 151,
-    186, 192, 202, 210, 224, 232
-    Varėna 98, 108, 356
-    Varmė (Varmija) 220
-    Varnėnai 177
-    Varniai 46, 171, 177, 226, 351
-    Varputis, dievaitis 143
-    Varšuva 39, 45, 47 ; Varšuvos archy­
-    vas 314
-    Vasario 16 aktas 34, 40
-    Vasibutas 335
-    Vasil’evskij V. 232
-    Vasilkas Romanaitis, Volinijos kng.
-    138, 163, 165, 194, 200
-    Vasmer M. 116, 122, 124, 128, 159
-    Vatikano archyvas 51, 75, 207
-    Vavelio pilis 284
-    Vazų dinastija 5, 34, 35, 39, 48, 64
-    Veblaitis P. 257
-    Vėbra R. 81
-    Vechra, upė 287, 312
-    Vedrošos kautynės 39
-    Veiviržo upė 180
-    Vėjukų pilis 227, 235
-    Velikaja, upė 158
-    Veliuona 77, 100, 105, 216, 236, 237,
-    244, 251, 256, 345-347, 352, 353,
-    357, 358, 360
-    Vėluva, Prūsuose 250, 252
-    Vencelis, Čekijos karalius 62, 373,
-    žr. Vaclovas, Čekijos kar.
-    Venclova A. 92
-    Vengrija 6, 83, 102, 103, 249, 259,
-    260, 267, 269, 275, 282-284, 287,
-    293, 312, 336
-    Venta 115, 127, 180, 187
-    Veredava 207
-    Verona 167
-    Versalio taika 30, 41
-    Veršvai 76, 106, 147
-    Vestfalija 202
-    Viazma 313, 320, 321
-    Vidas ar Vilkas, Traidenio tėvas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-004
   santrauka: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -249,7 +185,7 @@ amziai:
   pagrindžia:
     - t-011
 
-- c-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     J a r o-
@@ -275,7 +211,8 @@ amziai:
     - t-001
     - t-003
 
-- c-006
+- c-005
+  santrauka: '1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tais pačiais 1347 m. lietuvių karalius (rex)
@@ -291,7 +228,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-007
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
@@ -310,7 +247,8 @@ amziai:
   pagrindžia:
     - t-009
 
-- c-008
+- c-007
+  santrauka: 'Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
@@ -329,7 +267,7 @@ amziai:
   pagrindžia:
     - t-007
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Vėluvos pilies puolimą
@@ -347,9 +285,10 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-    - t-014
+    - t-013
 
-- c-010
+- c-009
+  santrauka: 'Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Priešiškuose lietuviams
@@ -365,7 +304,7 @@ amziai:
   pagrindžia:
     - t-005
 
-- c-011
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     329 D. ir Jer.— Wilow; 1258 m.— Velowe (SU, 1, Nr. 58, p. 25) — lie. Vėluva, sietina
@@ -377,7 +316,7 @@ amziai:
   pagrindžia:
     - t-006
 
-- c-012
+- c-011
   santrauka: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -392,4 +331,4 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014

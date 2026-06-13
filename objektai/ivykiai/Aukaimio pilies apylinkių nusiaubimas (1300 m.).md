@@ -42,7 +42,14 @@ Nenurodyta
 <a id="claim-t-62199"></a>
 - t-001
   global_id: t-62199
-  teiginys: 'Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones.'
+  teiginys: '1300 m. brolis Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183913"></a>
+- t-002
+  global_id: t-183913
+  teiginys: 'Po Aukaimio apylinkių nusiaubimo lietuviai besitraukiančius brolius kelis kartus smarkiai puolė, todėl abi šalys patyrė sužeistųjų.'
   pagrindžia:
     - c-001
 

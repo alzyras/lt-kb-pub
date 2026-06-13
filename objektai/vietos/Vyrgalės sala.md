@@ -29,7 +29,7 @@ amziai:
 <a id="claim-t-50552"></a>
 - t-001
   global_id: t-50552
-  teiginys: 'Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą).'
+  teiginys: 'Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.'
   pagrindžia:
     - c-001
 

@@ -31,7 +31,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 <a id="claim-t-87598"></a>
 - t-001
   global_id: t-87598
-  teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m.'
+  teiginys: 'Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m.'
   pagrindžia:
     - c-001
 
@@ -45,6 +45,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. IX priedą.

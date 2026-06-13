@@ -19,13 +19,14 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 <a id="claim-t-40405"></a>
 - t-001
   global_id: t-40405
-  teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
+  teiginys: 'Romanas Sanguška minimas tarp geriausių karių, kuriuos tuo metu buvo galima surinkti prie didžiojo etmono M. Radvilos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romanas Sanguška minimas tarp geriausių karių, kuriuos tuo metu buvo galima surinkti prie didžiojo etmono M. Radvilos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu

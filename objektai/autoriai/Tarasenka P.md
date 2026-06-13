@@ -36,7 +36,7 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 <a id="claim-t-64858"></a>
 - t-002
   global_id: t-64858
-  teiginys: 'Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio — stebuklingas, pasak žmonių, akmuo (Tarasenka P., Pėdos..., p. 71).'
+  teiginys: 'P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
     - t-001
 
 - c-002
+  santrauka: 'P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pietiniame girios pakraštyje —

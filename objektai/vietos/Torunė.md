@@ -32,7 +32,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175431"></a>
 - t-001
   global_id: t-175431
-  teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
+  teiginys: 'Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175436"></a>
 - t-005
   global_id: t-175436
-  teiginys: 'Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.'
+  teiginys: 'Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.'
   pagrindžia:
     - c-008
 
@@ -81,14 +81,14 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175440"></a>
 - t-008
   global_id: t-175440
-  teiginys: 'Duota Torunėje, Viešpaties metais 1576, gruodžio 20 dieną.'
+  teiginys: '1576 m. gruodžio 20 d. laiškas buvo duotas Torunėje.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-175441"></a>
 - t-009
   global_id: t-175441
-  teiginys: 'Dusburgietis teigia, kad torunės magistrato bibliotekos nuorašas (XVII a.) padarytas iš Karaliaučiaus bibliotekos teksto.'
+  teiginys: 'XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.'
   pagrindžia:
     - c-009
 
@@ -102,14 +102,14 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175443"></a>
 - t-011
   global_id: t-175443
-  teiginys: 'Dusburgietis teigia, kad kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė traukti su kariuomene į šią vietą.'
+  teiginys: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-175444"></a>
 - t-012
   global_id: t-175444
-  teiginys: 'Dusburgietis teigia, kad todėl jis paragino vieną kilmingą Krokuvos vyrą290 stoti į vienuolyną, ir šis pasiuntė į Torunės pilį tris didelius laivus, pakrautus vyno, midaus, arba medaus vyno, bei kitko, kas reikalinga gyvenimui, be to, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
+  teiginys: 'Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
   pagrindžia:
     - c-013
 
@@ -123,14 +123,14 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175446"></a>
 - t-014
   global_id: t-175446
-  teiginys: 'Dusburgietis teigia, kad sitai jis pažymi, kalbėdamas apie prūsų pilių vietas prie Torunės, apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias kryžiuočių pilis Varmės žemėje, Rudino miesto užkariavimus ir kt.'
+  teiginys: 'Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-175448"></a>
 - t-015
   global_id: t-175448
-  teiginys: 'Dusburgietis teigia, kad po to priėjo Torunę ir sudegino ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų.'
+  teiginys: 'Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus.'
   pagrindžia:
     - c-004
 
@@ -164,6 +164,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-007
 
 - c-002
+  santrauka: 'Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
@@ -195,6 +196,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-016
 
 - c-004
+  santrauka: 'Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paskui
@@ -223,6 +225,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-006
 
 - c-006
+  santrauka: '1576 m. gruodžio 20 d. laiškas buvo duotas Torunėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Norime, kad kuo ilgiausiai tas darbas bei
@@ -282,6 +285,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-005
 
 - c-009
+  santrauka: 'XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės  magistrato  bibliotekos  nuorašas  (XVII  a.)  padarytas  iš  Karaliaučiaus
@@ -307,6 +311,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-004
 
 - c-011
+  santrauka: 'Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
@@ -350,6 +355,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-003
 
 - c-013
+  santrauka: 'Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus, stigdami pilyse maisto, beveik jau bado spiriami, broliai su savo
@@ -366,6 +372,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-012
 
 - c-014
+  santrauka: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi

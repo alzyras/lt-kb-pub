@@ -32,13 +32,14 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 <a id="claim-t-41469"></a>
 - t-002
   global_id: t-41469
-  teiginys: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad 1940 metais buvo galima priešintis protestais.'
+  teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O šiandien įžvalgiausias 11 Pa-

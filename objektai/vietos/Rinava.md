@@ -21,7 +21,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 <a id="claim-t-91355"></a>
 - t-001
   global_id: t-91355
-  teiginys: 'Dusburgietis teigia, kad 382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau — Rinau); Rinava, vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
+  teiginys: 'Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
   pagrindžia:
     - c-003
 
@@ -35,20 +35,21 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 <a id="claim-t-91357"></a>
 - t-003
   global_id: t-91357
-  teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
+  teiginys: 'Dusburgiečio kronikoje pasakojama, kad Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Fišhauzeną.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-91358"></a>
 - t-004
   global_id: t-91358
-  teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su.'
+  teiginys: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį
@@ -80,6 +81,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     - t-002
 
 - c-003
+  santrauka: 'Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —

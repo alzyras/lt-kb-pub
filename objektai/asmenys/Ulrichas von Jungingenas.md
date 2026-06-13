@@ -2,8 +2,6 @@
 tipas: asmuo
 pavadinimas: 'Ulrichas von Jungingenas'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -32,14 +30,14 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 <a id="claim-t-182864"></a>
 - t-001
   global_id: t-182864
-  teiginys: 'Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.'
+  teiginys: 'Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184285"></a>
 - t-002
   global_id: t-184285
-  teiginys: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
+  teiginys: 'Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.'
   pagrindžia:
     - c-002
 
@@ -53,6 +51,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
@@ -67,7 +66,7 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     - t-001
 
 - c-002
-  santrauka: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
+  santrauka: 'Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šešiolika kryžiuo­

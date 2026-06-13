@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-54374"></a>
 - t-002
   global_id: t-54374
-  teiginys: 'Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje.'
+  teiginys: 'Vytautas laikomas Švč. Mergelės Marijos garbinimo tradicijos Lietuvoje pradininku.'
   pagrindžia:
     - c-001
 

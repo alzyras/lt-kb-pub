@@ -44,14 +44,14 @@ Nenurodyta
 <a id="claim-t-86970"></a>
 - t-001
   global_id: t-86970
-  teiginys: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių savo paveldėjimo teises būtų perleidęs kryžiuočiams.'
+  teiginys: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių savo paveldėjimo teises būtų perleidęs kryžiuočiams.'
+  santrauka: '1384 m. Ordinas sutartimi prisiekė atgauti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuolatinių karų ir grobi­

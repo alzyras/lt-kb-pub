@@ -45,14 +45,14 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 <a id="claim-t-89885"></a>
 - t-003
   global_id: t-89885
-  teiginys: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
+  teiginys: '1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-89888"></a>
 - t-004
   global_id: t-89888
-  teiginys: 'Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.'
+  teiginys: '1358 m. Algirdas derybose su Šv. Romos imperatoriumi Karoliu IV reikalavo iškelti kryžiuočius kovoti su mongolais.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-001
 
 - c-002
+  santrauka: '1358 m. Algirdas derybose su Šv. Romos imperatoriumi Karoliu IV reikalavo iškelti kryžiuočius kovoti su mongolais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pergalė prieš kryžiuočius. Lietuvos galybės maksimumas
@@ -106,6 +107,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-002
 
 - c-004
+  santrauka: '1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje

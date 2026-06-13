@@ -19,13 +19,14 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
 <a id="claim-t-35023"></a>
 - t-001
   global_id: t-35023
-  teiginys: 'Jogailos pasiuntinys Andreika atvykęs pas Vytautą prašė nukelti iškilmes į kitą dieną.'
+  teiginys: 'Jogailos pasiuntinys Andreika prašė Vytauto nukelti iškilmes į kitą dieną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailos pasiuntinys Andreika prašė Vytauto nukelti iškilmes į kitą dieną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kitame laiške tą pačią datą vėl nurodo^3 ). Vytau­

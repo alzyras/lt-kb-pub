@@ -40,7 +40,7 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 <a id="claim-t-184368"></a>
 - t-003
   global_id: t-184368
-  teiginys: 'Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.'
+  teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     - t-001
 
 - c-002
-  santrauka: 'Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.'
+  santrauka: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Krikščionių

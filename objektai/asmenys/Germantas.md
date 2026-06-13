@@ -31,14 +31,14 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 <a id="claim-t-87425"></a>
 - t-001
   global_id: t-87425
-  teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. turėjo pirmasis įkurdinti vietovę prie Vilniaus.'
+  teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. pirmasis Vilniaus vietoje turėjo įkurdinti vaidilą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-87426"></a>
 - t-002
   global_id: t-87426
-  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
+  teiginys: 'Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.'
   pagrindžia:
     - c-001
 
@@ -80,6 +80,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     50
@@ -137,7 +138,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-003
 
 - c-003
-  santrauka: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. turėjo pirmasis įkurdinti vietovę prie Vilniaus.'
+  santrauka: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. pirmasis Vilniaus vietoje turėjo įkurdinti vaidilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netgi kai kuriuose Jogailos au­
@@ -270,6 +271,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - [[objektai/zodynas/maršalas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/sueiga]]
+- [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/grupes/Žemaičiai]]

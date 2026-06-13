@@ -29,27 +29,35 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 <a id="claim-t-169934"></a>
 - t-001
   global_id: t-169934
-  teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
+  teiginys: 'Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-169935"></a>
 - t-002
   global_id: t-169935
-  teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  teiginys: 'Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-169936"></a>
 - t-003
   global_id: t-169936
-  teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
+  teiginys: 'Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183475"></a>
+- t-005
+  global_id: t-183475
+  teiginys: 'Lenkai lietuviams, o lietuviai lenkiškai kalbantiesiems savo valstybės vizijose numatė tik tautinės mažumos statusą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935–1936 mokslo metais veikė apie 30 lenkiškų
@@ -67,6 +75,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     - t-003
 
 - c-002
+  santrauka: 'Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
@@ -101,7 +110,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
     - t-001
 
 - c-004
-  santrauka: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  santrauka: 'Lenkai lietuviams, o lietuviai lenkiškai kalbantiesiems savo valstybės vizijose numatė tik tautinės mažumos statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
@@ -129,5 +138,6 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Tautinės mažumos]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Lenkų tautiniai demokratai]]
 - [[objektai/asmenys/Antanas Baranauskas]]
 - [[objektai/zodynas/organinis nacionalizmas]]

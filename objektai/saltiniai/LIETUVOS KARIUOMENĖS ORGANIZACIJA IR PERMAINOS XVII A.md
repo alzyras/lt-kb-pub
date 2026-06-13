@@ -19,13 +19,14 @@ tags:
 <a id="claim-t-41549"></a>
 - t-001
   global_id: t-41549
-  teiginys: 'Informacinį bloką „Lietuvos kariuomenės organizacija ir permainos XVII a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.'
+  teiginys: 'Informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ autoriai yra Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ autoriai yra Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Andžej Geglis.

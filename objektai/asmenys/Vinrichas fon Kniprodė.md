@@ -31,13 +31,14 @@ periodo_grupes:
 <a id="claim-t-80702"></a>
 - t-001
   global_id: t-80702
-  teiginys: 'Visam žygiui vadovavo pats didysis Ordino magistras Vinrichas fon Kniprodė.'
+  teiginys: '1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygio mastą liudija tai, kad kryžiuočiai sukvietė riterius iš beveik visos Europos - Italijos, Prancūzijos, Anglijos. Apgulties eigoje prie jų prisijungė ir

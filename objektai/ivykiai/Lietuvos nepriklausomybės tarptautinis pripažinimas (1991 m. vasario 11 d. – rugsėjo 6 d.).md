@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75171"></a>
 - t-001
   global_id: t-75171
-  teiginys: 'Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
+  teiginys: '1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-002
 
@@ -60,13 +60,6 @@ Nenurodyta
   teiginys: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183251"></a>
-- t-004
-  global_id: t-183251
-  teiginys: '1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 

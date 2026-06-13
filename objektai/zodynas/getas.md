@@ -20,13 +20,14 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
 <a id="claim-t-22151"></a>
 - t-001
   global_id: t-22151
-  teiginys: '1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė Lietuvos žydus į konclagerius Estijoje, Latvijoje bei stovyklas Lenkijoje.'
+  teiginys: '1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau ir didžiųjų getų žydai žudyti vadinamųjų

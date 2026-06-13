@@ -38,20 +38,21 @@ Nenurodyta
 <a id="claim-t-62877"></a>
 - t-001
   global_id: t-62877
-  teiginys: 'Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.'
+  teiginys: 'Meiseno markgrafas įsakė pastatyti du karo laivus: mažesnįjį „Piligrimą“ ir didesnįjį „Fridlandą“.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-62878"></a>
 - t-002
   global_id: t-62878
-  teiginys: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti.'
+  teiginys: 'Laivai „Piligrimas“ ir „Fridlandas“ padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Laivai „Piligrimas“ ir „Fridlandas“ padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
@@ -87,7 +88,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Maldininke, nuramink žęmę]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

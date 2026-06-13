@@ -32,41 +32,35 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 <a id="claim-t-60905"></a>
 - t-001
   global_id: t-60905
-  teiginys: 'Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54).'
+  teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-60908"></a>
-- t-002
-  global_id: t-60908
-  teiginys: 'Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież, p. 46— 47, 96—98; to paties.'
-  pagrindžia:
-    - c-003
+    - c-004
 
 <a id="claim-t-60909"></a>
-- t-003
+- t-002
   global_id: t-60909
-  teiginys: 'Dusburgietis teigia, kad medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema, kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).'
+  teiginys: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60911"></a>
-- t-004
+- t-003
   global_id: t-60911
-  teiginys: 'Dusburgietis teigia, kad vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102, 665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg.'
+  teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60912"></a>
-- t-005
+- t-004
   global_id: t-60912
-  teiginys: 'Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43).'
+  teiginys: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie
@@ -77,9 +71,10 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
+  santrauka: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
@@ -96,29 +91,10 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Zilijos valsčius (ar didesnis teritorinis junginys), buvęs
-    jotvingių žemių pietuose. Vardas galbūt išlikęs kair. Narevo intako žemiau Tikocino Slinos
-    (Šlina) pavadinime. Slinos upės rajone  į pietus nuo Narevo baltai tikrai gyveno V a.
-    (kasinėtas jų kapinynas Slinos aukštupyje). XI—XII  a. teritorija  į pietus nuo Narevo
-    vidupio kolonizuota slavų. XIII a. baltai gyveno  į šiaurę nuo Narevo  ir, matyt, Bebro
-    upių; Zilijos valsčius tuo metu greičiausiai buvo  į šiaurę nuo Bebro—Elko santakos, jis
-    galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież,
-    p. 46— 47, 96—98; to paties, Z badań nad pograniczem..., p. 131—168; Būga K., 3,
-    p. 149, 152; Łowmiański H., Studja..., 1, p. 74; 2, p. 43). Turint omenyje šio regiono
-    pelkėtus ruožus, į XIII a. Zilijos plotą, matyt, galima būtų įjungti ir teritoriją tarp Narevo
-    ir Bebro.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-004
+- c-003
+  santrauka: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
@@ -129,9 +105,10 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-005
+- c-004
+  santrauka: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių

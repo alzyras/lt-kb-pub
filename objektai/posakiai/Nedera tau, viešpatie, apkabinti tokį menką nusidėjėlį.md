@@ -19,13 +19,14 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
 <a id="claim-t-59135"></a>
 - t-001
   global_id: t-59135
-  teiginys: 'Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus bučiuoti, nukryžiuotojo kančia, ištiesdama savo medines rankas, panoro jį apkabinti.'
+  teiginys: 'Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio

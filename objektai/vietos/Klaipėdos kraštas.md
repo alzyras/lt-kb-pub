@@ -53,7 +53,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 <a id="claim-t-183603"></a>
 - t-004
   global_id: t-183603
-  teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  teiginys: 'Pagal Versalio sutartį Klaipėdą ir Klaipėdos kraštą valdė prancūzų administracija, remiama prancūzų pėstininkų bataliono.'
   pagrindžia:
     - c-004
 
@@ -67,14 +67,14 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 <a id="claim-t-183605"></a>
 - t-006
   global_id: t-183605
-  teiginys: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
+  teiginys: 'Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-183606"></a>
 - t-007
   global_id: t-183606
-  teiginys: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
+  teiginys: 'Klaipėdos krašto integravimą sunkino tai, kad vokiškoji krašto direktorija labiau klausė Vokietijos nurodymų.'
   pagrindžia:
     - c-007
 
@@ -149,7 +149,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
     - t-003
 
 - c-004
-  santrauka: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  santrauka: 'Pagal Versalio sutartį Klaipėdą ir Klaipėdos kraštą valdė prancūzų administracija, remiama prancūzų pėstininkų bataliono.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
@@ -179,7 +179,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
     - t-005
 
 - c-006
-  santrauka: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
+  santrauka: 'Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi ša-
@@ -194,7 +194,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
     - t-006
 
 - c-007
-  santrauka: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
+  santrauka: 'Klaipėdos krašto integravimą sunkino tai, kad vokiškoji krašto direktorija labiau klausė Vokietijos nurodymų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė

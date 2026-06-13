@@ -30,13 +30,14 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 <a id="claim-t-60338"></a>
 - t-001
   global_id: t-60338
-  teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
+  teiginys: '1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
@@ -237,7 +238,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kulto laisvė]]
-- [[objektai/zodynas/leičiai]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/zodynas/mišparai]]
 - [[objektai/zodynas/muitas tilto mokestis]]
@@ -263,20 +263,30 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]
 - [[objektai/posakiai/„idealiąją Lietuvą“]]
+- [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.)]]
+- [[objektai/ivykiai/Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.)]]
 - [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Jonas (Sembos vyskupas)]]
 - [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
 - [[objektai/asmenys/Jonas (kancleris)]]
+- [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/asmenys/Jonas Olesnickis]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Jonas Tarnovskis]]
 - [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Jonas de Gandas]]
 - [[objektai/asmenys/Jonas de Lovenbinkė]]
+- [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/grupes/Krimo orda]]
 - [[objektai/grupes/Krymo chanatas]]
 - [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/grupes/Lietuvos gynybos pajėgos]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas|Mikalojus Radvila žygyje Livonijoje ir Tarvastos pilies užėmimas (pilis)]]
+- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/zodynas/scholastiko prelatūra scholastikas]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]

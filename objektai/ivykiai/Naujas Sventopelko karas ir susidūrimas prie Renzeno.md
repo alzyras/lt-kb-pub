@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-59381"></a>
 - t-001
   global_id: t-59381
-  teiginys: 'Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.'
+  teiginys: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ Nenurodyta
   statusas: verified
 
 - c-002
+  santrauka: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė

@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-86833"></a>
 - t-001
   global_id: t-86833
-  teiginys: '24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų.'
+  teiginys: 'Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     24

@@ -22,7 +22,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
 <a id="claim-t-93547"></a>
 - t-001
   global_id: t-93547
-  teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  teiginys: 'Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - t-003
 
 - c-002
+  santrauka: 'Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tą žemę Kazimieras III buvo atidavęs

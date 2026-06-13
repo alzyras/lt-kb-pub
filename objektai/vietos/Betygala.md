@@ -64,13 +64,14 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
 <a id="claim-t-179762"></a>
 - t-006
   global_id: t-179762
-  teiginys: '1945 m. vasario 15 d. Raseinių apskrities Betygalos valsčiuje NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų pasalą.'
+  teiginys: '1945 m. vasario 15 d. prie Šilainių miško NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1945 m. vasario 15 d. prie Šilainių miško NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X ŠILAINIŲ PASALA

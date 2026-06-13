@@ -31,7 +31,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-87374"></a>
 - t-001
   global_id: t-87374
-  teiginys: 'Manvydo rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės upės.'
+  teiginys: 'Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-87378"></a>
 - t-005
   global_id: t-87378
-  teiginys: 'O Manvydas, Trakų vaivada, buvo sučiuptas ir, Žygimanto įsakymu, nukirsdintas20.'
+  teiginys: 'Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.'
   pagrindžia:
     - c-004
 
@@ -110,7 +110,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-002
 
 - c-002
-  santrauka: 'Manvydo rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės upės.'
+  santrauka: 'Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
@@ -157,6 +157,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-003
 
 - c-004
+  santrauka: 'Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­

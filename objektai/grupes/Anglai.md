@@ -35,7 +35,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 <a id="claim-t-172069"></a>
 - t-002
   global_id: t-172069
-  teiginys: 'Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: duodecem talenta cerae Pud dieta, de curia castri nostri Viln.'
+  teiginys: 'Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.'
   pagrindžia:
     - c-004
 
@@ -123,6 +123,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - t-008
 
 - c-004
+  santrauka: 'Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anglija, Škotija ir Prancūzija gerokai papildė sa-

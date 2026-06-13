@@ -20,20 +20,21 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 <a id="claim-t-80634"></a>
 - t-001
   global_id: t-80634
-  teiginys: 'Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.'
+  teiginys: 'Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-80635"></a>
 - t-002
   global_id: t-80635
-  teiginys: 'Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin.'
+  teiginys: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Batalionui buvo įsakyta užimti svarbią
@@ -56,6 +57,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-001
 
 - c-002
+  santrauka: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-
@@ -75,5 +77,4 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 - [[objektai/grupes/1-asis pėstininkų pulkas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/M. Pečiulionis]]

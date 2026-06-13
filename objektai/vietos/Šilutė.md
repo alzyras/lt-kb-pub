@@ -27,14 +27,14 @@ amziai:
 <a id="claim-t-69891"></a>
 - t-001
   global_id: t-69891
-  teiginys: 'Sukilimo vadui Jonui BudriuiPolovinskui įteiktos špagos fragmentas Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas sausio 19 d. Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
+  teiginys: '1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-69892"></a>
 - t-002
   global_id: t-69892
-  teiginys: 'Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
+  teiginys: 'Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sukilėlių pajėgos
@@ -85,6 +86,7 @@ amziai:
     - t-003
 
 - c-003
+  santrauka: '1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sukilimo vadui

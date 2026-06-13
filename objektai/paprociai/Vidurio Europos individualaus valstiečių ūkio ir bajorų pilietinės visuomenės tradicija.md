@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-183337"></a>
 - t-002
   global_id: t-183337
-  teiginys: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
+  teiginys: 'Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   pagrindžia:
     - c-001
 

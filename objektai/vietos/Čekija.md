@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-182878"></a>
 - t-001
   global_id: t-182878
-  teiginys: 'Su 5000-7000 vyrų jis nusiuntė Čekijon Jogailos brolio KaributoDimitro narsų sūnų Zigmantą Kaributaitį, ten vadinamą tiesiog « Kaributu ».'
+  teiginys: 'Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Varėnon atvykusiems husitų pasiuntiniams,

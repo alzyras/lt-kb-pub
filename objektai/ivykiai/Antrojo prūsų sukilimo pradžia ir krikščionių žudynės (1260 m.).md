@@ -44,16 +44,23 @@ Nenurodyta
 <a id="claim-t-66454"></a>
 - t-001
   global_id: t-66454
-  teiginys: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
+  teiginys: 'Prūsų vadai paskyrė dieną krikščionims Prūsijoje išžudyti, o nepaslėptus už įtvirtinimų nužudė arba išsivarė į vergovę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66455"></a>
 - t-002
   global_id: t-66455
-  teiginys: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
+  teiginys: '1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183912"></a>
+- t-003
+  global_id: t-183912
+  teiginys: 'Prūsų sukilėliai degino bažnyčias, koplyčias ir kitus maldos namus, niekino šventenybes ir žudė kunigus bei bažnyčios tarnus.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +87,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie antrąją prūsų atskalūnybę, kuri truko 15 metų

@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-78135"></a>
 - t-001
   global_id: t-78135
-  teiginys: '1948 m. viduryje JAV Kongresas priėmė vadinamąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti 205 tūkst.'
+  teiginys: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S

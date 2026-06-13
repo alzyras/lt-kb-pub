@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Algirdo laikais paskelbtas įstatymas leido krikščionims netrukdomiems skelbti savo tikėjimo tiesas viešose ir uždarose vietose.
+Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.
 
 ## Teiginiai
 
 <a id="claim-t-186347"></a>
 - t-001
   global_id: t-186347
-  teiginys: 'Algirdo laikais paskelbtas įstatymas leido krikščionims netrukdomiems skelbti savo tikėjimo tiesas viešose ir uždarose vietose.'
+  teiginys: 'Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Algirdo laikais paskelbtas įstatymas leido krikščionims netrukdomiems skelbti savo tikėjimo tiesas viešose ir uždarose vietose.'
+  santrauka: 'Algirdas paskelbė įstatymą, leidusį krikščionims netrukdomiems viešose ir uždarose vietose skelbti tikėjimo tiesas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sugrįžęs iš Maskvos žygio, Algirdas, gal

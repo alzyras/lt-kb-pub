@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-12313"></a>
 - t-001
   global_id: t-12313
-  teiginys: '1382 m. pavasarį Kęstutis, armotomis ginkluotas, nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
+  teiginys: '1382 m. pavasarį Kęstutis armotomis ginkluotais laivais nuplaukė Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
   pagrindžia:
     - c-003
 
@@ -78,14 +78,14 @@ Nenurodyta
 <a id="claim-t-179484"></a>
 - t-005
   global_id: t-179484
-  teiginys: 'Vytenis į puolimą atsiuntė 100 laivų.'
+  teiginys: '1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-179485"></a>
 - t-006
   global_id: t-179485
-  teiginys: 'Kryžiuočiai turėjo karo laivą su sienomis ir kitų laivų.'
+  teiginys: '1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.'
   pagrindžia:
     - c-005
 
@@ -94,8 +94,8 @@ Nenurodyta
   global_id: t-179486
   teiginys: 'Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas.'
   pagrindžia:
-    - c-007
     - c-001
+    - c-007
 
 <a id="claim-t-179487"></a>
 - t-008
@@ -164,6 +164,7 @@ Nenurodyta
     - t-009
 
 - c-003
+  santrauka: '1382 m. pavasarį Kęstutis armotomis ginkluotais laivais nuplaukė Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     su Vokiečiu Ordinu. Jis darė 1382 m. sausio mėn. žygius į jo
@@ -385,4 +386,6 @@ Nenurodyta
 - [[objektai/grupes/Anglai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]
+- [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]
+- [[objektai/asmenys/Verneris (Ragainės komtūras)]]
 - [[objektai/zodynas/apsaugos raštas]]

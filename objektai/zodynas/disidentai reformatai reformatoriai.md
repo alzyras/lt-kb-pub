@@ -30,14 +30,14 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 <a id="claim-t-86463"></a>
 - t-001
   global_id: t-86463
-  teiginys: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
+  teiginys: 'Disidentų pusėje Andrius Volanas beveik vienas turėjo atremti jėzuitų vadovaujamų katalikų priešininkus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-86464"></a>
 - t-002
   global_id: t-86464
-  teiginys: 'Disidentai reformatai Lietuvoje negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais.'
+  teiginys: 'Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Disidentų pusėje Andrius Volanas beveik vienas turėjo atremti jėzuitų vadovaujamų katalikų priešininkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     293
@@ -75,7 +76,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - t-001
 
 - c-002
-  santrauka: 'Disidentai reformatai Lietuvoje negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais.'
+  santrauka: 'Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
@@ -178,3 +179,4 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Andrius Volanas]]
+- [[objektai/grupes/Lietuvos disidentai]]

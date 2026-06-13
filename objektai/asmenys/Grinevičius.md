@@ -19,13 +19,14 @@ O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.
 <a id="claim-t-80715"></a>
 - t-001
   global_id: t-80715
-  teiginys: 'O atvedė rusų kariuomenę toks Grinevičius iš Medikonių kaimo.'
+  teiginys: 'Grinevičius iš Medikonių kaimo atvedė rusų kariuomenę į partizanų susitikimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grinevičius iš Medikonių kaimo atvedė rusų kariuomenę į partizanų susitikimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O atvedė rusų kariuomenę toks

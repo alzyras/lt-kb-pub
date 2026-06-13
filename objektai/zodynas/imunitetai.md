@@ -28,13 +28,14 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
 <a id="claim-t-70157"></a>
 - t-001
   global_id: t-70157
-  teiginys: 'Horodlės unijos aktu 1413 m. bažnyčioms ir kitoms dvasinėms įstaigoms buvo patvirtinti anksčiau išduoti imunitetai.'
+  teiginys: 'Horodlės unijos aktu 1413 m. bažnyčioms, parapijoms, vienuolynams ir kitoms dvasinėms įstaigoms patvirtinti anksčiau išduoti imunitetai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Horodlės unijos aktu 1413 m. bažnyčioms, parapijoms, vienuolynams ir kitoms dvasinėms įstaigoms patvirtinti anksčiau išduoti imunitetai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bažnyčios ir kunigai buvo atleisti nuo mokesčių, naturali­

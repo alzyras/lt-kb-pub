@@ -26,7 +26,7 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 <a id="claim-t-183184"></a>
 - t-002
   global_id: t-183184
-  teiginys: 'Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.'
+  teiginys: 'V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.'
   pagrindžia:
     - c-001
 

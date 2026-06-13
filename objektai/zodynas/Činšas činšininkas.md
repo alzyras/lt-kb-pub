@@ -22,13 +22,14 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
 <a id="claim-t-99977"></a>
 - t-001
   global_id: t-99977
-  teiginys: 'Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių ir nelaisvu valstiečių.'
+  teiginys: 'Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
@@ -46,3 +47,4 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/činšas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

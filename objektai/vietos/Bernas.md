@@ -39,13 +39,6 @@ amziai:
   pagrindžia:
     - c-001
 
-<a id="claim-t-123783"></a>
-- t-003
-  global_id: t-123783
-  teiginys: '1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-123784"></a>
 - t-004
   global_id: t-123784

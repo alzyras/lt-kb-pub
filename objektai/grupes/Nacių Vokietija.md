@@ -35,7 +35,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 <a id="claim-t-74877"></a>
 - t-002
   global_id: t-74877
-  teiginys: 'Kiekvienai jų vadovavo generalinis komisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpinosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant Vokietijos kariuomenę ir vokiečių karo ūkį.'
+  teiginys: 'Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui.'
   pagrindžia:
     - c-004
 
@@ -109,6 +109,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - t-001
 
 - c-004
+  santrauka: 'Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kiekvienai jų vadovavo generalinis

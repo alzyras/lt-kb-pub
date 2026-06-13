@@ -43,7 +43,14 @@ Nenurodyta
 <a id="claim-t-62782"></a>
 - t-001
   global_id: t-62782
-  teiginys: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.'
+  teiginys: '1296 m. žiemą broliai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183919"></a>
+- t-002
+  global_id: t-183919
+  teiginys: '1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.'
   pagrindžia:
     - c-001
 

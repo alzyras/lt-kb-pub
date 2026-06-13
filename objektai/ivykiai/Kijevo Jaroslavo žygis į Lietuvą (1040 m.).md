@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-47772"></a>
 - t-003
   global_id: t-47772
-  teiginys: '1040 m. Jaroslavo karo žygis į Lietuvą yra kaip tik įrodymas, kad tuo metu lietuviai nepripažino Kijevo viršenybės.'
+  teiginys: 'Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės.'
   pagrindžia:
     - c-002
 
@@ -86,6 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1040 m. Jaroslavo karo žygis į Lietuvą yra kaip tik

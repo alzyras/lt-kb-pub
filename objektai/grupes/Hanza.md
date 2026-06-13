@@ -60,7 +60,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 <a id="claim-t-10756"></a>
 - t-005
   global_id: t-10756
-  teiginys: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
+  teiginys: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes kryžiuočiai buvo užėmę pajūrį ir abiejų didžiųjų upių žiotis.'
   pagrindžia:
     - c-005
 
@@ -81,7 +81,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 <a id="claim-t-116685"></a>
 - t-008
   global_id: t-116685
-  teiginys: 'Ji buvo kraštas, kurio negalėjo aplenkti Hanzos ir k.'
+  teiginys: 'Vytauto laikų Lietuvos negalėjo aplenkti Hanzos ir kiti pirkliai.'
   pagrindžia:
     - c-013
 
@@ -99,68 +99,54 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - c-010
 
-<a id="claim-t-116688"></a>
-- t-011
-  global_id: t-116688
-  teiginys: 'Tad turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias laisviausiems Hanzos lygos miestams.'
-  pagrindžia:
-    - c-016
-
 <a id="claim-t-116689"></a>
-- t-012
+- t-011
   global_id: t-116689
-  teiginys: 'XIII amž-je visos šiaurinės Europos prekybą suėmė į savo rankas vokiečių miestų sąjunga, vadinamoji Hanza.'
+  teiginys: 'XIII a. vokiečių miestų sąjunga Hanza perėmė visos šiaurinės Europos prekybą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-116690"></a>
-- t-013
+- t-012
   global_id: t-116690
-  teiginys: 'Šiose derybose dalyvavo ir Hanzos miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su Lietuva Vokiečių Ordino žemėmis.'
+  teiginys: 'Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.'
   pagrindžia:
-    - c-017
+    - c-016
 
 <a id="claim-t-116691"></a>
-- t-014
+- t-013
   global_id: t-116691
   teiginys: 'Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-116692"></a>
-- t-015
+- t-014
   global_id: t-116692
   teiginys: 'Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-116693"></a>
-- t-016
+- t-015
   global_id: t-116693
-  teiginys: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
+  teiginys: 'Kaunas buvo Hanzos miestas.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-116694"></a>
-- t-017
+- t-016
   global_id: t-116694
   teiginys: 'Dėl to rygiečiai kėlė balsą Hanzos sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-116695"></a>
-- t-018
+- t-017
   global_id: t-116695
   teiginys: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
   pagrindžia:
     - c-009
-
-<a id="claim-t-116696"></a>
-- t-019
-  global_id: t-116696
-  teiginys: 'Kaunas buvo Hanzos miestas, nors Lietuva dažnai laikoma Rytų Europos dalimi.'
-  pagrindžia:
-    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -195,7 +181,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   statusas: verified
   pagrindžia:
     - t-001
-    - t-012
+    - t-011
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -228,6 +214,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - t-004
 
 - c-005
+  santrauka: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes kryžiuočiai buvo užėmę pajūrį ir abiejų didžiųjų upių žiotis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Hanzos pirklių prekybos centras Bal-
@@ -271,7 +258,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
     - t-002
 
 - c-008
@@ -299,7 +286,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -338,7 +325,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -353,10 +340,11 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-    - t-019
+    - t-015
+    - t-018
 
 - c-013
+  santrauka: 'Vytauto laikų Lietuvos negalėjo aplenkti Hanzos ir kiti pirkliai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Geografinė jo didingos valstybės būklė prekybai buvo gana
@@ -406,28 +394,10 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
 - c-016
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įsikūrusių toliau šiaurėje mongolų
-    antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­
-    do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­
-    vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų. Tad
-    turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias
-    laisviausiems Hanzos lygos miestams.
-    Ne mažiau svarbi priežastis, lėmusi menką miestiečių luomo
-    reikšmę Lietuvoje, buvo tame krašte ilgai užsilikusi pagonybė, o
-    podraug šalinimasis nuo visos Europos, kuri jau keturis amžius
-    buvo krikščioniška, išskyrus Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-017
+  santrauka: 'Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
@@ -440,7 +410,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
@@ -458,11 +428,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Domininkonų ordinas]]

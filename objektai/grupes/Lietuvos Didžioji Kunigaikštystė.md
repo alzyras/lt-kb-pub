@@ -42,7 +42,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 <a id="claim-t-169700"></a>
 - t-002
   global_id: t-169700
-  teiginys: 'Prieš mūšį 1564 m. pradžioje, iš Maskvos į Vilnių dar nespėjus parvykti pasiuntiniams su žinia, kad dėl paliaubų susitarti nepavyko, į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės - po kelias dešimtis tūkstančių karių, kariuomenės.'
+  teiginys: '1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.'
   pagrindžia:
     - c-001
 
@@ -63,7 +63,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 <a id="claim-t-183155"></a>
 - t-005
   global_id: t-183155
-  teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
+  teiginys: 'Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   pagrindžia:
     - c-005
 
@@ -77,6 +77,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį
@@ -175,7 +176,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - t-003
 
 - c-005
-  santrauka: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
+  santrauka: 'Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Edukacinė komisija ėmėsi permainų ir stengėsi sukur-

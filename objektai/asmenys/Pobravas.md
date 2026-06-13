@@ -20,7 +20,7 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 <a id="claim-t-60414"></a>
 - t-001
   global_id: t-60414
-  teiginys: 'Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei.'
+  teiginys: 'Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų.'
   pagrindžia:
     - c-001
 
@@ -58,3 +58,4 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis]]
+- [[objektai/grupes/Varmiai]]

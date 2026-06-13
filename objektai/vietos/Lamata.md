@@ -22,20 +22,21 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 <a id="claim-t-58584"></a>
 - t-001
   global_id: t-58584
-  teiginys: 'Dusburgietis teigia, kad lamata buvo į šiaurę nuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a.'
+  teiginys: 'Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58585"></a>
 - t-002
   global_id: t-58585
-  teiginys: 'Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet Lethovinorum rex), o toliau.'
+  teiginys: 'Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
@@ -55,6 +56,7 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
     - t-002
 
 - c-002
+  santrauka: 'Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     546 D.— ad terram Lamotinam, Jer.— an daz lendil Lamotîn. Lamata buvo  į šiaurę

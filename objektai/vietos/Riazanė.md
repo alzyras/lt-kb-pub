@@ -55,7 +55,7 @@ amziai:
 <a id="claim-t-99065"></a>
 - t-004
   global_id: t-99065
-  teiginys: 'Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I (1389-1425), su kuriuo oficialiai laikėsi taikos.'
+  teiginys: 'Iš Smolensko puldamas Riazanę, Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
   pagrindžia:
     - c-001
 
@@ -118,7 +118,7 @@ amziai:
 <a id="claim-t-99074"></a>
 - t-013
   global_id: t-99074
-  teiginys: 'Maskvos valdovas tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar Tverės kunigaikštį Mykolą10 11.'
+  teiginys: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
   pagrindžia:
     - c-007
 
@@ -139,6 +139,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš Smolensko puldamas Riazanę, Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
@@ -252,6 +253,7 @@ amziai:
     - t-010
 
 - c-007
+  santrauka: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Maskvos valdovas

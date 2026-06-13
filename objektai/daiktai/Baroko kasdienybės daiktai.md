@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-77920"></a>
 - t-001
   global_id: t-77920
-  teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  teiginys: 'Lietuvoje barokas išplito iki kasdienybės daiktų, įskaitant baldus, indus, drabužius ir knygas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje barokas išplito iki kasdienybės daiktų, įskaitant baldus, indus, drabužius ir knygas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryčiausia ir šiauriausia Europoje
@@ -73,3 +74,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/barokas]]
+- [[objektai/daiktai/Drabužiai]]

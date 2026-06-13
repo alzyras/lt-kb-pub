@@ -44,21 +44,21 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 <a id="claim-t-101691"></a>
 - t-004
   global_id: t-101691
-  teiginys: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
+  teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-101692"></a>
 - t-005
   global_id: t-101692
-  teiginys: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet iki to laikotarpio lietuviškai gerai nemokėjo.'
+  teiginys: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet pasirinkdamas lietuvius dar gerai nemokėjo lietuviškai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-101693"></a>
 - t-006
   global_id: t-101693
-  teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
+  teiginys: 'Po J. Stalino mirties prasidėjus atšilimui buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
   pagrindžia:
     - c-003
 

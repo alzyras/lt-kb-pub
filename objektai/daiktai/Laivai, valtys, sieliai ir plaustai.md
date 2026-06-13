@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-86991"></a>
 - t-002
   global_id: t-86991
-  teiginys: 'Apie 880 metus iš Danijos išvaryti tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  teiginys: 'Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   pagrindžia:
     - c-001
 
@@ -87,7 +87,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Apie 880 metus iš Danijos išvaryti tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  santrauka: 'Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man vis dėlto atrodo,

@@ -38,13 +38,14 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 <a id="claim-t-63829"></a>
 - t-002
   global_id: t-63829
-  teiginys: 'Greičiausiai Vytauto iniciatyva per Maskvos didįjį kunigaikštį Vasilijų Konstantinopolio patriarchas ragino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius.'
+  teiginys: 'Konstantinopolio patriarchas ragino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konstantinopolio patriarchas ragino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Popiežiaus

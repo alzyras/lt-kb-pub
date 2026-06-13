@@ -90,7 +90,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 <a id="claim-t-66870"></a>
 - t-007
   global_id: t-66870
-  teiginys: 'Salyno sutartimi Vytautas užleido ordinui visus Žemaičius ir pirmą kartą apytikriai nužymėjo ordinui tenkančių žemių sienas.'
+  teiginys: 'Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.'
   pagrindžia:
     - c-007
 
@@ -216,6 +216,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-005
 
 - c-007
+  santrauka: 'Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­
@@ -268,7 +269,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/činšas]]
-- [[objektai/ivykiai/Salyno suvažiavimas ir jo reikšmė]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas Jungingenas]]

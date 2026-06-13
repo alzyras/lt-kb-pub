@@ -32,20 +32,21 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 <a id="claim-t-171586"></a>
 - t-001
   global_id: t-171586
-  teiginys: 'Nugalėjęs Augustą II, Karolis x11 1708 m. puolė Rusiją, tačiau 1709 m. buvo nugalėtas prie Poltavos ir karą pralaimėjo.'
+  teiginys: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-171587"></a>
 - t-002
   global_id: t-171587
-  teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  teiginys: 'Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1706 m. švedai nužygiavo į
@@ -62,6 +63,7 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     - t-001
 
 - c-002
+  santrauka: 'Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Augus-

@@ -28,20 +28,21 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 <a id="claim-t-40858"></a>
 - t-001
   global_id: t-40858
-  teiginys: 'Sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.'
+  teiginys: '1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-40859"></a>
 - t-002
   global_id: t-40859
-  teiginys: 'Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirmininko Vytauto Landsbergio, priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  teiginys: 'Sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sausio 13-osios
@@ -73,6 +74,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     - t-001
 
 - c-002
+  santrauka: 'Sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     su Vilniumi. Sausio 12 d. Aukščiausioji
@@ -103,3 +105,5 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/asmenys/Vytautas Landsbergis]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba]]

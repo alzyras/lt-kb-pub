@@ -20,7 +20,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 <a id="claim-t-74767"></a>
 - t-001
   global_id: t-74767
-  teiginys: 'Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
+  teiginys: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   pagrindžia:
     - c-004
 
@@ -93,6 +93,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - t-002
 
 - c-004
+  santrauka: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo

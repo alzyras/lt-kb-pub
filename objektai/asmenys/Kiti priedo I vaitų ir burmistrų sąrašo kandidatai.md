@@ -42,28 +42,28 @@ periodo_grupes: []
 <a id="claim-t-87351"></a>
 - t-003
   global_id: t-87351
-  teiginys: 'Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
+  teiginys: 'Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-87352"></a>
 - t-004
   global_id: t-87352
-  teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
+  teiginys: 'Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-87353"></a>
 - t-005
   global_id: t-87353
-  teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius.'
+  teiginys: 'Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-87354"></a>
 - t-006
   global_id: t-87354
-  teiginys: 'Jokūbas Vargalovskis Stefanovičius dar buvo vaitas - 1713 ir 1721 21.'
+  teiginys: 'Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m.'
   pagrindžia:
     - c-003
 
@@ -103,6 +103,7 @@ periodo_grupes: []
     - t-007
 
 - c-002
+  santrauka: 'Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juozapas Petravičius, iš Vilniaus miesto
@@ -124,6 +125,7 @@ periodo_grupes: []
     - t-004
 
 - c-003
+  santrauka: 'Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Steponas Morozas - - 1701
@@ -168,6 +170,7 @@ periodo_grupes: []
     - t-001
 
 - c-005
+  santrauka: 'Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.

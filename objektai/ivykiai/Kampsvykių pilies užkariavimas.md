@@ -36,13 +36,14 @@ Nenurodyta
 <a id="claim-t-62307"></a>
 - t-001
   global_id: t-62307
-  teiginys: 'Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims.'
+  teiginys: 'Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą

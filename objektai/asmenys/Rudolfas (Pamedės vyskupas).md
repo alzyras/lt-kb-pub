@@ -22,13 +22,14 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 <a id="claim-t-60428"></a>
 - t-001
   global_id: t-60428
-  teiginys: 'Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą.'
+  teiginys: 'Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rudolfas, Pamedės vyskupas, Osos pakrantėje pastatė miestą, vardu Bišofsverderis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu pirmoje pilyje, tai yra Girdavuose, kur

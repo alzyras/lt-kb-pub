@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75312"></a>
 - t-002
   global_id: t-75312
-  teiginys: 'Jau pirmame jos numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,.'
+  teiginys: 'Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas.'
   pagrindžia:
     - c-003
 
@@ -87,6 +87,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Leidinys aprašė sovietų antireliginę

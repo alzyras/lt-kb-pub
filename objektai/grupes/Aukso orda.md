@@ -43,44 +43,37 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 <a id="claim-t-175516"></a>
 - t-003
   global_id: t-175516
-  teiginys: '1325 m. Aukso orda surengė puolimą prieš Lietuvą: „caras Uzbekas pasiuntė kunigaikščius į Lietuvą kariauti; daug pikto padarė Lietuvai...“ Tai, matyt, buvo chano atsakymas į Lietuvos veiksmus Kijevo žemėje.'
+  teiginys: '1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-175517"></a>
 - t-004
   global_id: t-175517
-  teiginys: 'Tarptautinių Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
+  teiginys: 'Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-175519"></a>
 - t-006
   global_id: t-175519
-  teiginys: 'Kai nuo XIV amž. galo totorių valstybė (Aukso Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.'
+  teiginys: 'XIV a. pabaigoje silpstanti Aukso Orda leido manyti, kad Vytauto sutelkta jėga sudrebins Maskvos valstybę.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-175520"></a>
 - t-007
   global_id: t-175520
-  teiginys: 'Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.'
+  teiginys: 'Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-175521"></a>
 - t-008
   global_id: t-175521
-  teiginys: 'Kryžiuočių ordinui, remiamam kryžininkų, nuo 1328 m. atnaujinus Lietuvos puolimus, Lietuva, atrodo, bus užmezgusi kompromisinius santykius su Aukso orda, kurios įtakoje, matyt, liko pietinė Kijevo žemės dalis.'
+  teiginys: 'Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-175522"></a>
-- t-009
-  global_id: t-175522
-  teiginys: 'Vytauto žygis pasodinti Tochtamišą Aukso ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkmingai.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-183119"></a>
 - t-010
@@ -109,6 +102,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
     - t-005
 
 - c-002
+  santrauka: '1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1325 m. Aukso orda surengė puolimą
@@ -124,6 +118,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
     - t-003
 
 - c-003
+  santrauka: 'Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočių ordinui, remiamam kryži-
@@ -175,6 +170,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
     - t-006
 
 - c-006
+  santrauka: 'Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gedimino žygis, mūšis prie Irpenės ir
@@ -233,6 +229,5 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - [[objektai/autoriai/Loreta Uzdraitė]]
 - [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
 - [[objektai/asmenys/Tochtamišas]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Mongolų imperija]]

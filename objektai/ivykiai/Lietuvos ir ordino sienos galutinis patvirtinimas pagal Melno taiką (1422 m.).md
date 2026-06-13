@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-66699"></a>
 - t-002
   global_id: t-66699
-  teiginys: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.'
+  teiginys: '1422 m. Melno taika galutinai patvirtino Lietuvos ir Ordino sieną, po to nebebuvo nei karų su Ordinu, nei sienos pakeitimų.'
   pagrindžia:
     - c-003
 
@@ -85,6 +85,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1422 m. Melno taika galutinai patvirtino Lietuvos ir Ordino sieną, po to nebebuvo nei karų su Ordinu, nei sienos pakeitimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordino siena su Lietuva nusistojo tik po Tanenbergo mū-

@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-71798"></a>
 - t-001
   global_id: t-71798
-  teiginys: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
+  teiginys: 'Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-71800"></a>
 - t-003
   global_id: t-71800
-  teiginys: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
+  teiginys: 'Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a.'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Nenurodyta
 <a id="claim-t-71803"></a>
 - t-006
   global_id: t-71803
-  teiginys: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
+  teiginys: 'XVII a. Lietuvos ir Lenkijos husarai buvo pralaužiamoji „šoko kavalerija“ Europoje.'
   pagrindžia:
     - c-004
 
@@ -114,6 +114,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę
@@ -148,6 +149,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dažniausiai šio periodo Lenkijos husarai vaiz-
@@ -194,5 +196,6 @@ Nenurodyta
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]

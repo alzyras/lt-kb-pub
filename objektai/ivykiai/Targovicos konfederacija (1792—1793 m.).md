@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-66929"></a>
 - t-002
   global_id: t-66929
-  teiginys: 'Jakaterina II pasinaudojusi tuo, kad Lenkijoje ir Lietuvoje buvo nemažai valstybės reformų priešininkų, ėmė juos globoti, o netrukus su Rusijos pagalba suorganizuota reformoms priešiška Targovicos konfederacija, reikalavusi atšaukti visus Ketverių metų seimo.'
+  teiginys: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
   pagrindžia:
     - c-001
 
@@ -75,6 +75,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau

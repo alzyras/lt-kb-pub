@@ -28,27 +28,28 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 <a id="claim-t-89605"></a>
 - t-002
   global_id: t-89605
-  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  teiginys: 'Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89606"></a>
 - t-003
   global_id: t-89606
-  teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
+  teiginys: 'Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89607"></a>
 - t-004
   global_id: t-89607
-  teiginys: 'Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems broliams.'
+  teiginys: 'Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -83,6 +84,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - t-003
 
 - c-003
+  santrauka: 'Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toliau
@@ -99,7 +101,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
     - t-004
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
+  santrauka: 'Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai tokių didžiulių
@@ -118,6 +120,6 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Šarvai]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
 - [[objektai/zodynas/netikėliai]]

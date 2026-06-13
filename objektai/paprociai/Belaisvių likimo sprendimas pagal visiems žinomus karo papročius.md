@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62671"></a>
 - t-001
   global_id: t-62671
-  teiginys: 'Dusburgietis teigia, kad nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis visiems žinomi karo papročiai.'
+  teiginys: 'Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.'
   pagrindžia:
     - c-001
     - c-002
@@ -49,6 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -67,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiam patarimui nepritarė Danijos

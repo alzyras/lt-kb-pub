@@ -30,7 +30,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 <a id="claim-t-170310"></a>
 - t-001
   global_id: t-170310
-  teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
+  teiginys: 'LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bendras vidaus politinis

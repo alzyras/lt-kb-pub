@@ -46,7 +46,14 @@ Nenurodyta
 <a id="claim-t-62322"></a>
 - t-001
   global_id: t-62322
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
+  teiginys: 'Po Klemenso V vainikavimo prie Liono išgriuvusi mūro siena nuslėgė daug žmonių, tarp jų ir popiežiaus arklį vedusį Britanijos kunigaikštį.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183931"></a>
+- t-002
+  global_id: t-183931
+  teiginys: 'Per nelaimę prie Liono nukentėjo popiežius Klemensas V, o nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo rubinas.'
   pagrindžia:
     - c-001
 

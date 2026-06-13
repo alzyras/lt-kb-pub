@@ -23,7 +23,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 <a id="claim-t-79142"></a>
 - t-001
   global_id: t-79142
-  teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
+  teiginys: 'Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     - t-002
 
 - c-002
+  santrauka: 'Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos teritoriją, todėl 1656 m. kilo Žemaičių sukilimas, padaręs
@@ -75,6 +76,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/asmenys/Povilas Sapiega]]

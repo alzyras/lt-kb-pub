@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų. Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu. Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
+Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų. Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu. Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 
 ## Teiginiai
 
 <a id="claim-t-185428"></a>
 - t-001
   global_id: t-185428
-  teiginys: 'Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
+  teiginys: 'Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepais
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
+  santrauka: 'Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek

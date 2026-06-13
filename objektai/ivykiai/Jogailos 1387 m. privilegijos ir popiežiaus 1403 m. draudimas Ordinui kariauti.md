@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-20211"></a>
 - t-001
   global_id: t-20211
-  teiginys: 'Jogaila vasario 22 d. išleido raštą, kuriuo siekė patraukti lietuvius į savo pusę arba priversti priimti katalikybę.'
+  teiginys: '1387 m. vasario 22 d. Jogaila išleido raštą, kuriuo prisiekė lietuvius patraukti į savo pusę arba priversti priimti katalikybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1387 m. vasario 22 d. Jogaila išleido raštą, kuriuo prisiekė lietuvius patraukti į savo pusę arba priversti priimti katalikybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ši privilegija yra

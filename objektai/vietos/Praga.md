@@ -32,7 +32,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 <a id="claim-t-71956"></a>
 - t-001
   global_id: t-71956
-  teiginys: 'Henricus dux Lithuaniae ilgą laiką praleido imperatoriaus Karolio IV dvare ir 1380 m. baigė gyvenimą Pragoje.'
+  teiginys: 'Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje.'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 <a id="claim-t-71960"></a>
 - t-005
   global_id: t-71960
-  teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
+  teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   pagrindžia:
     - c-005
 
@@ -147,6 +147,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - t-003
 
 - c-005
+  santrauka: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ši

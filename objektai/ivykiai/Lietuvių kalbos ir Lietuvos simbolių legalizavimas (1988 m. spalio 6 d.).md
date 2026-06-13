@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-20264"></a>
 - t-001
   global_id: t-20264
-  teiginys: 'Spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos simbolius.'
+  teiginys: '1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinį statusą ir legalizavo Lietuvos simbolius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinį statusą ir legalizavo Lietuvos simbolius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per keletą mėnesių LPS pa-

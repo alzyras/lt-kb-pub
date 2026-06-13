@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 <a id="claim-t-60426"></a>
 - t-001
   global_id: t-60426
-  teiginys: 'Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus brolio, išrinkimą Romos karaliais nesantarvės metais 1256 viešpaties metais Vokietijos valdovai nesutardami išrinko Romos karaliais du žmones, būtent: Kastilijos karalių.'
+  teiginys: '1256 m. Vokietijos valdovai Romos karaliumi išrinko Kornvalijos grafą Ričardą, Anglijos karaliaus brolį.'
   pagrindžia:
     - c-001
 

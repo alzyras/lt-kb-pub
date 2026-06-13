@@ -19,14 +19,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ketino palikti savo įpėdiniu. Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu. Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
+Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą. Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu. Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
 
 ## Teiginiai
 
 <a id="claim-t-185963"></a>
 - t-001
   global_id: t-185963
-  teiginys: 'Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ketino palikti savo įpėdiniu.'
+  teiginys: 'Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą.'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ket
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius Kazimieras siekė pelnyti lenkų palankumą Jonui Olbrachtui, kurį ketino palikti savo įpėdiniu.'
+  santrauka: 'Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius, jausdamas, jog

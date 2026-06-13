@@ -35,7 +35,7 @@ amziai:
 <a id="claim-t-78088"></a>
 - t-001
   global_id: t-78088
-  teiginys: 'Nors Gegužės trečiosios konstitucija radikalumu toli gražu neprilygo Prancūzijos revoliucijos dokumentams, būtent ją reikėtų laikyti riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų, taigi riba tarp Baroko ir Apšvietos epochų.'
+  teiginys: 'Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.'
   pagrindžia:
     - c-008
 
@@ -63,14 +63,14 @@ amziai:
 <a id="claim-t-78092"></a>
 - t-005
   global_id: t-78092
-  teiginys: 'Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną padalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės.'
+  teiginys: '1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-78093"></a>
 - t-006
   global_id: t-78093
-  teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
+  teiginys: 'Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   pagrindžia:
     - c-004
 
@@ -98,7 +98,7 @@ amziai:
 <a id="claim-t-78097"></a>
 - t-010
   global_id: t-78097
-  teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
+  teiginys: 'Gegužės 3 d. konstitucijoje minimos Respublikos valstybės – Lenkija ir Lietuva.'
   pagrindžia:
     - c-010
 
@@ -195,6 +195,7 @@ amziai:
     - t-004
 
 - c-004
+  santrauka: 'Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos
@@ -243,6 +244,7 @@ amziai:
     - t-009
 
 - c-006
+  santrauka: '1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
@@ -285,6 +287,7 @@ amziai:
     - t-007
 
 - c-008
+  santrauka: 'Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Gegužės trečiosios konstitucija radikalumu toli gražu neprilygo
@@ -314,6 +317,7 @@ amziai:
     - t-002
 
 - c-010
+  santrauka: 'Gegužės 3 d. konstitucijoje minimos Respublikos valstybės – Lenkija ir Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-

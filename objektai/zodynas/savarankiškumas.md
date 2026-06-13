@@ -121,4 +121,5 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 - [[objektai/zodynas/suverenumas suverenitetas]]
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]

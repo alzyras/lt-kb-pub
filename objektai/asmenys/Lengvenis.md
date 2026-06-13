@@ -28,7 +28,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 <a id="claim-t-47953"></a>
 - t-001
   global_id: t-47953
-  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  teiginys: 'Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 <a id="claim-t-47955"></a>
 - t-003
   global_id: t-47955
-  teiginys: 'Naugardo kunigaikščius — « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį, kuris ir buvo ten pakviestas.'
+  teiginys: 'Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.'
   pagrindžia:
     - c-003
 
@@ -86,6 +86,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - t-005
 
 - c-002
+  santrauka: 'Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­

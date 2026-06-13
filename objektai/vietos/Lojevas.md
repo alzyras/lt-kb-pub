@@ -22,7 +22,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
 <a id="claim-t-41881"></a>
 - t-001
   global_id: t-41881
-  teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  teiginys: 'Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.'
   pagrindžia:
     - c-003
 
@@ -39,6 +39,13 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   teiginys: 'Lojevo miestas, esantis kitoje (dešinėje) upės pusėje, buvo sudegintas, kad priešui nebūtų kur įsitvirtinti.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183793"></a>
+- t-004
+  global_id: t-183793
+  teiginys: 'Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -76,6 +83,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-002
 
 - c-003
+  santrauka: 'Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jodami stepėmis tarp
@@ -93,7 +101,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - t-001
 
 - c-004
-  santrauka: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  santrauka: 'Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ekspedicines

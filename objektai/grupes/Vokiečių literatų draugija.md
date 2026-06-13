@@ -21,13 +21,14 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 <a id="claim-t-01524"></a>
 - t-001
   global_id: t-01524
-  teiginys: 'Vokiečių literatų draugija siekė mokslo reikalams konservuoti lietuviškosios kultūros kūrinius.'
+  teiginys: 'Vokiečių literatų draugija siekė mokslo reikalams išsaugoti lietuviškosios kultūros kūrinius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vokiečių literatų draugija siekė mokslo reikalams išsaugoti lietuviškosios kultūros kūrinius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmoji

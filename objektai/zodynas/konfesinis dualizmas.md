@@ -27,7 +27,7 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 <a id="claim-t-183437"></a>
 - t-002
   global_id: t-183437
-  teiginys: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
+  teiginys: 'Po stačiatikių civilizacinio pranašumo praradimo Lietuvos valstybėje iškilo konfesinio dualizmo problema.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
     - t-001
 
 - c-002
-  santrauka: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
+  santrauka: 'Po stačiatikių civilizacinio pranašumo praradimo Lietuvos valstybėje iškilo konfesinio dualizmo problema.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politinės lietuvių įtakos ir stačiatikių kultūrinio

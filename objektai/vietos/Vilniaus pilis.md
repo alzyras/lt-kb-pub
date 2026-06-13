@@ -52,7 +52,7 @@ amziai:
 <a id="claim-t-174217"></a>
 - t-004
   global_id: t-174217
-  teiginys: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
+  teiginys: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
   pagrindžia:
     - c-008
 
@@ -271,7 +271,7 @@ amziai:
     - t-007
 
 - c-008
-  santrauka: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
+  santrauka: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­

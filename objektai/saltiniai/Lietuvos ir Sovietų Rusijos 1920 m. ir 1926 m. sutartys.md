@@ -27,13 +27,14 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
 <a id="claim-t-21156"></a>
 - t-001
   global_id: t-21156
-  teiginys: 'Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei.'
+  teiginys: 'SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino

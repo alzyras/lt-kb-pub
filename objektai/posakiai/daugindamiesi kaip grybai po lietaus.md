@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų,
 <a id="claim-t-59086"></a>
 - t-001
   global_id: t-59086
-  teiginys: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
+  teiginys: 'Dusburgietis rašė, kad galindai, daugindamiesi kaip grybai po lietaus, perpildė savo žemę ir nebegalėjo joje išsimaitinti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis rašė, kad galindai, daugindamiesi kaip grybai po lietaus, perpildė savo žemę ir nebegalėjo joje išsimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Galindos žemės nuniokojimą

@@ -29,20 +29,21 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
 <a id="claim-t-60992"></a>
 - t-001
   global_id: t-60992
-  teiginys: 'Dusburgietis teigia, kad iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.'
+  teiginys: 'Mikalojaus iš Jerošino vertimas padėjo Dusburgiečio kronikai ir jos mintims plačiau paplisti tarp Ordino brolių ir istoriografijoje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60993"></a>
 - t-002
   global_id: t-60993
-  teiginys: 'Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.'
+  teiginys: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojaus iš Jerošino vertimas padėjo Dusburgiečio kronikai ir jos mintims plačiau paplisti tarp Ordino brolių ir istoriografijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš šio vertimo Dusburgiečio
@@ -55,6 +56,7 @@ Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis 
     - t-001
 
 - c-002
+  santrauka: 'XIV a. ketvirtajame dešimtmetyje Mikalojus iš Jerošino eilėmis išvertė Dusburgiečio kroniką į vokiečių kalbą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė

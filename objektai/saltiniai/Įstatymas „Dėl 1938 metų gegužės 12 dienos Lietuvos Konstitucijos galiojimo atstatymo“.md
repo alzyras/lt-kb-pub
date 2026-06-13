@@ -35,7 +35,7 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 <a id="claim-t-183389"></a>
 - t-002
   global_id: t-183389
-  teiginys: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
+  teiginys: 'Įstatymas dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo buvo priimtas siekiant atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.'
   pagrindžia:
     - c-001
 

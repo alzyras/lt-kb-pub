@@ -71,7 +71,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 <a id="claim-t-180680"></a>
 - t-006
   global_id: t-180680
-  teiginys: 'Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.'
+  teiginys: 'Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje.'
   pagrindžia:
     - c-006
 
@@ -134,7 +134,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 <a id="claim-t-180690"></a>
 - t-015
   global_id: t-180690
-  teiginys: '1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriausioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai), gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų senosios Rusios.'
+  teiginys: '1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų.'
   pagrindžia:
     - c-005
 
@@ -314,6 +314,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - t-021
 
 - c-005
+  santrauka: '1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 21
@@ -334,6 +335,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - t-015
 
 - c-006
+  santrauka: 'Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vieni jų ieškojo Lietuvos pagalbos, kiti rėmėsi Maskva.

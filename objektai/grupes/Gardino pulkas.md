@@ -25,20 +25,21 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
 <a id="claim-t-78168"></a>
 - t-001
   global_id: t-78168
-  teiginys: 'Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.'
+  teiginys: 'Kaime buvo įsikūręs Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78169"></a>
 - t-002
   global_id: t-78169
-  teiginys: 'Lapkričio 18 d. pavakaryje pulko vadas Lenkų pajėgos Prieš lietuvius Širvintų apylinkėse veikė Gardino pulkas.'
+  teiginys: 'Prieš lietuvius Širvintų apylinkėse veikė Gardino pulkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieš lietuvius Širvintų apylinkėse veikė Gardino pulkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Skubiai reikėjo
@@ -57,6 +58,7 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
     - t-002
 
 - c-002
+  santrauka: 'Kaime buvo įsikūręs Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuviai sugulė greta kaimo esančio miš-

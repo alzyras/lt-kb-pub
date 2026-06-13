@@ -19,13 +19,14 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 <a id="claim-t-80623"></a>
 - t-001
   global_id: t-80623
-  teiginys: 'Jie, susispaude į krūvą, atstatė durtuvus ir laukė.'
+  teiginys: 'Dvylika lietuvių karių, lenkams puolant, susispaudė į krūvą, atstatė durtuvus ir laukė atakos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dvylika lietuvių karių, lenkams puolant, susispaudė į krūvą, atstatė durtuvus ir laukė atakos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šie, pamatę, kad mūsų vyrų tik
@@ -40,4 +41,6 @@ Jie, susispaude į krūvą, atstatė durtuvus ir laukė.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]

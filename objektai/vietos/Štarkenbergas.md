@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 <a id="claim-t-58490"></a>
 - t-001
   global_id: t-58490
-  teiginys: 'Dusburgietis teigia, kad kai prūsai šią pilį sunaikino, 1326 m. buvo pastatyta antroji Štarkenbergo pilis kair.'
+  teiginys: '1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero.'
   pagrindžia:
     - c-001
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie  jį sklido neabejotinų žinių, kad švenčiausioji mergelė Marija

@@ -31,20 +31,21 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 <a id="claim-t-181355"></a>
 - t-001
   global_id: t-181355
-  teiginys: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
+  teiginys: 'Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-181357"></a>
 - t-002
   global_id: t-181357
-  teiginys: 'Tai sukūrė nenusakomą įtampą pagal Lietuvos ir Lenkijos demarkacinę liniją, uždarė per ją bet kokį traukinių ar net pašto judėjimą keliolikai metų, o automobilių kelyje išaugo storoki berželiai...'
+  teiginys: 'Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
@@ -60,6 +61,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     - t-001
 
 - c-002
+  santrauka: 'Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai sukūrė

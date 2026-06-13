@@ -36,13 +36,14 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 <a id="claim-t-40370"></a>
 - t-003
   global_id: t-40370
-  teiginys: 'Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“.'
+  teiginys: 'Rusų metraščiai mini, kad mūšyje buvo nukautas kunigaikštis Narimantas Gediminaitis, Algirdo ir Kęstučio brolis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusų metraščiai mini, kad mūšyje buvo nukautas kunigaikštis Narimantas Gediminaitis, Algirdo ir Kęstučio brolis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tam tikslui magistras su
@@ -119,3 +120,4 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

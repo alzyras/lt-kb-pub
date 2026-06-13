@@ -123,5 +123,6 @@ Nenurodyta
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
+- [[objektai/posakiai/kiekvienam geros valios žmogui]]
 - [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/asmenys/Henrikas (pranciškonas)]]

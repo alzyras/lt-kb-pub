@@ -21,13 +21,14 @@ Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo 
 <a id="claim-t-42000"></a>
 - t-001
   global_id: t-42000
-  teiginys: 'Dienos pabaigoje, pasinaudoję tamsa dalis partizanų Jokubavo mišku sugebėjo prasiveržti Pakruojo link.'
+  teiginys: 'Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dienos pabaigoje dalis partizanų, pasinaudoję tamsa, Jokubavo mišku prasiveržė Pakruojo link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje

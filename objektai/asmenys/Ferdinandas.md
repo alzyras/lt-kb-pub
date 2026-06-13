@@ -43,3 +43,4 @@ Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]

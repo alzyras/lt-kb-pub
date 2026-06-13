@@ -47,7 +47,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89820"></a>
 - t-002
   global_id: t-89820
-  teiginys: 'Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos žemė Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje, šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų ordino didįjį magistrą, prijungti.'
+  teiginys: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino.'
   pagrindžia:
     - c-009
 
@@ -82,7 +82,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89825"></a>
 - t-007
   global_id: t-89825
-  teiginys: 'Dusburgietis teigia, kad turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.'
+  teiginys: 'Tyrinėtojai mano, kad išlikusioje kopijoje Hermano vardas galėjo atsirasti per klaidą.'
   pagrindžia:
     - c-011
 
@@ -97,7 +97,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89827"></a>
 - t-009
   global_id: t-89827
-  teiginys: 'Dusburgietis teigia, kad hermanas iš Zalcos buvo iškalbingas, mandagus, išmintingas, apdairus, atsargus, o visi jo darbai rodo jį buvus garbingą.'
+  teiginys: 'Petras Dusburgietis Hermaną iš Zalcos apibūdino kaip iškalbingą, mandagų, išmintingą, apdairų, atsargų ir garbingą.'
   pagrindžia:
     - c-006
 
@@ -111,42 +111,42 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89829"></a>
 - t-011
   global_id: t-89829
-  teiginys: 'Dusburgietis teigia, kad 5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų, o mirė liepos 24 dieną ir palaidotas Barletoje158.'
+  teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-89830"></a>
 - t-012
   global_id: t-89830
-  teiginys: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
+  teiginys: 'Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-89831"></a>
 - t-013
   global_id: t-89831
-  teiginys: 'Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.'
+  teiginys: 'Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-89832"></a>
 - t-014
   global_id: t-89832
-  teiginys: 'Dusburgietis teigia, kad hermanas iš Zalcos išrinktas magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais broliais, jog nepagailėtų ir vienos akies, kad tik Ordinas jo vadovavimo metais taip sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.'
+  teiginys: 'Išrinktas magistru, Hermanas iš Zalcos siekė, kad Ordinas jo vadovavimo metais galėtų išlaikyti bent dešimt ginkluotų brolių riterių.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-89833"></a>
 - t-015
   global_id: t-89833
-  teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
+  teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-89834"></a>
 - t-016
   global_id: t-89834
-  teiginys: 'Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiežiumi buvo Inocentas IV, kuris pirmaisiais savo pontifikato metais, tai yra 1243 viešpaties metais, supratęs iš garsių brolio Hermano iš Zalcos, Teutonų ordino generalinio magistro267, pareiškimų, kad naujas.'
+  teiginys: '1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.'
   pagrindžia:
     - c-012
 
@@ -275,6 +275,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-009
 
 - c-007
+  santrauka: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Hermaną, trečią magistrą
@@ -297,6 +298,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-015
 
 - c-008
+  santrauka: 'Išrinktas magistru, Hermanas iš Zalcos siekė, kad Ordinas jo vadovavimo metais galėtų išlaikyti bent dešimt ginkluotų brolių riterių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išrinktas
@@ -312,6 +314,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-014
 
 - c-009
+  santrauka: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
@@ -328,6 +331,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-002
 
 - c-010
+  santrauka: 'Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
@@ -348,6 +352,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-013
 
 - c-011
+  santrauka: 'Tyrinėtojai mano, kad išlikusioje kopijoje Hermano vardas galėjo atsirasti per klaidą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tyrinėjimai rodo, jog pranešimas
@@ -363,6 +368,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-007
 
 - c-012
+  santrauka: '1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie apaštališkojo sosto pasiuntinį
@@ -410,8 +416,14 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]
 - [[objektai/autoriai/M. Perlbachas]]
 - [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/asmenys/Burchardas iš Švandeno]]
+- [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
+- [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
+- [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]
+- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]
 - [[objektai/daiktai/Ordino magistro valdžios žymenys]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]

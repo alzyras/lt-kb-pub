@@ -44,20 +44,21 @@ Nenurodyta
 <a id="claim-t-66650"></a>
 - t-001
   global_id: t-66650
-  teiginys: 'Dusburgietis teigia, kad apie maldininkus ir Kulmo pilies bei miesto įkūrimą Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai buvo pažadėta naujo karo dalyviams.'
+  teiginys: '1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66651"></a>
 - t-002
   global_id: t-66651
-  teiginys: 'Dusburgietis teigia, kad čia, senajame piliakalnyje, buvęs pastatytas penkiakampis—pagal piliakalnio formą — konvento pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).'
+  teiginys: 'Tyrėjų manymu, kryžiuočiai įsikūrė Starogrude, kur senajame piliakalnyje buvo pastatytas penkiakampis konvento pastatas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tyrėjų manymu, kryžiuočiai įsikūrė Starogrude, kur senajame piliakalnyje buvo pastatytas penkiakampis konvento pastatas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     223 Manoma, kad kryžiuočiai įsikūrė Starogrude (buv. Althausen). Čia, senajame
@@ -71,6 +72,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą

@@ -25,13 +25,14 @@ Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudary
 <a id="claim-t-61129"></a>
 - t-001
   global_id: t-61129
-  teiginys: 'Dusburgietis teigia, kad tai rodo Liber censuum Daniae žemių sąrašas, sudarytas greičiausiai 1231 m. (SRP, 1, p. 737; Powierski J., Stosunki.., p. 139).'
+  teiginys: 'Liber censuum Daniae žemių sąrašas, greičiausiai sudarytas 1231 m., rodo Sembos ir Skalvos pavaldumą Danijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liber censuum Daniae žemių sąrašas, greičiausiai sudarytas 1231 m., rodo Sembos ir Skalvos pavaldumą Danijai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl Danijos antpuolių baltiškasis pajūris,

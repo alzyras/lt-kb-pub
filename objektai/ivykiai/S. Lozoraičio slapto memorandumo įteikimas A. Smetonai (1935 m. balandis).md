@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-75263"></a>
 - t-002
   global_id: t-75263
-  teiginys: 'Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje.'
+  teiginys: '1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. balandį
@@ -109,7 +110,7 @@ Nenurodyta
 - [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/zodynas/Modus vivendi]]
 - [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/posakiai/„nepriklausomybė svarbiausia“]]

@@ -26,13 +26,14 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 <a id="claim-t-32373"></a>
 - t-001
   global_id: t-32373
-  teiginys: 'Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie Mohilnos (Nemuno aukštupio dabartinėje Gudijoje).'
+  teiginys: 'Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^182) II SKYRIUS: VALSTYBĖS IŠKILIMAS

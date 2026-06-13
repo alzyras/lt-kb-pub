@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-55159"></a>
 - t-001
   global_id: t-55159
-  teiginys: 'Antakalnyje buvo medinė šventovė, pašvęsta visiems lietuvių dievams.'
+  teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, stovėjo medinė šventovė, pašvęsta visiems lietuvių dievams.'
   pagrindžia:
     - c-002
 

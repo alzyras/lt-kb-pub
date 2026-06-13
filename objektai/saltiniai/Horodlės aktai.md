@@ -30,14 +30,14 @@ amziai:
 <a id="claim-t-88308"></a>
 - t-001
   global_id: t-88308
-  teiginys: 'Horodlės seime Lietuvai išduotas unijos aktas buvo laikomas Kunigaikščių Radvilų Nesvyžiaus archyve.'
+  teiginys: 'Horodlės seime Lietuvai išduotas unijos aktas XVIII a. buvo Kunigaikščių Radvilų Nesvyžiaus archyve.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Horodlės seime Lietuvai išduotas unijos aktas buvo laikomas Kunigaikščių Radvilų Nesvyžiaus archyve.'
+  santrauka: 'Horodlės seime Lietuvai išduotas unijos aktas XVIII a. buvo Kunigaikščių Radvilų Nesvyžiaus archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     71

@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-78653"></a>
 - t-002
   global_id: t-78653
-  teiginys: 'Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
+  teiginys: 'Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78654"></a>
 - t-003
   global_id: t-78654
-  teiginys: 'Priekyje, prie ginklo apačios, pritvirtintas stačiai žemyn nukreiptas kablys, skirtas sušvelninti šūvio atatranką, kuri būdavo ypač stipri naudojant tokio didelio kalibro šautuvus.'
+  teiginys: 'Kablinio šautuvo apačioje pritvirtintas žemyn nukreiptas kablys buvo skirtas stipriai šūvio atatrankai sušvelninti.'
   pagrindžia:
     - c-003
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šaudymo metu kablys būdavo užkabinamas už įtvirtinimų, kitokio statinio arba vežimo krašto, kuris kaip at-
@@ -88,6 +89,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Kablinio šautuvo apačioje pritvirtintas žemyn nukreiptas kablys buvo skirtas stipriai šūvio atatrankai sušvelninti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Priekyje, prie ginklo apačios, pritvirtintas stačiai žemyn nukreiptas kablys, skirtas sušvelninti šūvio atatranką,
@@ -100,7 +102,7 @@ Nenurodyta
     - t-003
 
 - c-004
-  santrauka: 'Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
+  santrauka: 'Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi. Atvirame lauke toks ginklas būdavo statomas

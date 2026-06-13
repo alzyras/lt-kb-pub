@@ -38,21 +38,21 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 <a id="claim-t-59911"></a>
 - t-002
   global_id: t-59911
-  teiginys: 'Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.'
+  teiginys: '1263 m. Divanas, bartų vadas, vijosi iš pilies pasitraukusius brolius, bet buvo sunkiai sužeistas ir liovėsi kariavęs.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-59912"></a>
 - t-003
   global_id: t-59912
-  teiginys: 'Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė.'
+  teiginys: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59913"></a>
 - t-004
   global_id: t-59913
-  teiginys: 'Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį Tuo tarpu Divanas, bartų vadas, su aštuoniais šimtais vyrų apsiautė Senenzės pilį444 ir prisiekė savo dievų galybe, kad iškarsiąs brolius bei jų ginklanešius ties pilies vartais, jeigu jie bematant.'
+  teiginys: 'Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   pagrindžia:
     - c-003
 
@@ -107,6 +107,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-005
 
 - c-003
+  santrauka: 'Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
@@ -126,6 +127,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-004
 
 - c-004
+  santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ten jie narsiai užpuolė Divaną ir nukovė vieną
@@ -158,7 +160,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-002
 
 - c-006
-  santrauka: 'Dusburgietis teigia, kad ten jie narsiai užpuolė Divaną ir nukovė vieną jo giminaitį, vardu Dabaras, o visus jo žmones išžudė.'
+  santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     silpna kariuomene prie Gubros upės425. Ten jie narsiai užpuolė Divaną ir nukovė vieną

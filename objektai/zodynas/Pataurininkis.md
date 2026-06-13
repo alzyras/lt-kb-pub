@@ -20,13 +20,14 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 <a id="claim-t-86637"></a>
 - t-001
   global_id: t-86637
-  teiginys: 'Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė.'
+  teiginys: 'Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų pataurininkio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas dėl didelių gabumų iškėlė Vaidilą iš kepėjo sūnaus iki rūmų pataurininkio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33

@@ -28,7 +28,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 <a id="claim-t-85647"></a>
 - t-002
   global_id: t-85647
-  teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
+  teiginys: 'Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.'
   pagrindžia:
     - c-001
 

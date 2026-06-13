@@ -46,13 +46,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   pagrindžia:
     - c-004
 
-<a id="claim-t-182917"></a>
-- t-005
-  global_id: t-182917
-  teiginys: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -121,7 +114,7 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     - t-004
 
 - c-005
-  santrauka: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
+  santrauka: 'Prancūziškoji partija atskirai paskelbė išrinktu princą Kontį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu didelė dalis ba-

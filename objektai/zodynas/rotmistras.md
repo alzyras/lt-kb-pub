@@ -45,7 +45,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 <a id="claim-t-70312"></a>
 - t-002
   global_id: t-70312
-  teiginys: 'Lauko etmonas kairiajame sparne išdėstė savo kavalerijos dalinius, kuriems greičiausiai vadovavo Usviatų seniūnas, rotmistras Jonas Petras Sapiega, centre buvo išdėstyti pėstininkai su muškietomis, kuriems vadovavo LDK didysis maršalka Kristupas Mikalojus.'
+  teiginys: 'Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.'
   pagrindžia:
     - c-001
 
@@ -151,3 +151,4 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - [[objektai/asmenys/T. Lackis]]
 - [[objektai/asmenys/Vaina]]
 - [[objektai/zodynas/arkebuzieriai]]
+- [[objektai/zodynas/seniūnas]]

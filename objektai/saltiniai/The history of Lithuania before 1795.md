@@ -27,13 +27,14 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
 <a id="claim-t-78157"></a>
 - t-001
   global_id: t-78157
-  teiginys: 'The history of Lithuania before 1795 / [translated by Irena Zujienė ...'
+  teiginys: '2000 m. Vilniuje išleista knyga „The history of Lithuania before 1795“, kurią vertė Irena Zujienė ir kiti vertėjai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2000 m. Vilniuje išleista knyga „The history of Lithuania before 1795“, kurią vertė Irena Zujienė ir kiti vertėjai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kiaupa Z., Kiaupienė J., Kuncevičius A. The history of Lithuania before

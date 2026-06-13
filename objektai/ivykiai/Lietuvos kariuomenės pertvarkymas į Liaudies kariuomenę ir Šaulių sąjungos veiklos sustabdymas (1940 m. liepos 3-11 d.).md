@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-20313"></a>
 - t-001
   global_id: t-20313
-  teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, pagal kurį ji tapo Liaudies kariuomene.'
+  teiginys: 'Liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.

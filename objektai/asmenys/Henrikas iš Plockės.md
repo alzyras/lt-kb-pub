@@ -31,55 +31,56 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 <a id="claim-t-59864"></a>
 - t-001
   global_id: t-59864
-  teiginys: 'Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė visą savo kariuomenę; kai priėjo Bisenės pilį, jo raiteliai auštant apsupo šią pilį, o tie, kurie atplaukė upe, padarę nuo gretimos salos iš savo laivų tiltą per Nemuną ir.'
+  teiginys: 'Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-59865"></a>
 - t-002
   global_id: t-59865
-  teiginys: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
+  teiginys: '1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-59866"></a>
 - t-003
   global_id: t-59866
-  teiginys: 'Dusburgietis teigia, kad apie Paštuvos valsčiaus nusiaubimą 1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus žmonių paėmė į nelaisvę ar nukovė.'
+  teiginys: '1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-59867"></a>
 - t-004
   global_id: t-59867
-  teiginys: 'Dusburgietis teigia, kad apie maršalo, 29 brolių ir daugybės sembų žūtį 1320 viešpaties metų liepos 27 dieną, tai yra trečią dieną po švento Jokūbo, apaštalo, dienos, brolis Henrikas, maršalas, atžygiavo su 40 brolių bei Sembos ir Klaipėdos raiteliais į Medininkų valsčių; kai.'
+  teiginys: '1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-59868"></a>
 - t-005
   global_id: t-59868
-  teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+  teiginys: '1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59869"></a>
 - t-006
   global_id: t-59869
-  teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
+  teiginys: '1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59870"></a>
 - t-007
   global_id: t-59870
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  teiginys: '1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     326 (319). Apie Paštuvos valsčiaus nusiaubimą
@@ -99,6 +100,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-003
 
 - c-002
+  santrauka: '1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     327 (320). Apie Medininkų valsčiaus apiplėšimą 1316 metais
@@ -115,6 +117,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-005
 
 - c-003
+  santrauka: '1317 m. žiemą Henrikui iš Plockės žygiuojant prieš Vaikių valsčių, audra išblaškė daugiau kaip 500 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     331 (324). Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
@@ -133,6 +136,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-006
 
 - c-004
+  santrauka: '1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     321 (314). Dar apie tą patį
@@ -152,6 +156,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-007
 
 - c-005
+  santrauka: '1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     338 (331). Apie maršalo, 29 brolių ir daugybės sembų žūtį
@@ -171,6 +176,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-004
 
 - c-006
+  santrauka: '1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
@@ -187,6 +193,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - t-002
 
 - c-007
+  santrauka: 'Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų vasarą brolis Henrikas iš Plockės, Prūsijos žemės maršalas, sutelkė
@@ -213,8 +220,9 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Arnoldas iš Elnerio]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/ivykiai/Bisenės pilies puolimas (1313 m.)]]
+- [[objektai/asmenys/Arnoldas iš Elnerio]]
 - [[objektai/asmenys/Henrikas Rutėnas]]
 - [[objektai/asmenys/Kviramas iš Valdavos]]
 - [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]

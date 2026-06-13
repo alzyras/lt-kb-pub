@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-78682"></a>
 - t-001
   global_id: t-78682
-  teiginys: 'Buvo vertinamas dėl pati- 5 kimumo ir paprastos priežiūros 1945-1951 m. Vokiškas universalusis kulkosvaidis MG 34 (Maschinengewehr 34) Šovinys - 7,92x57 mm Mauser, 50/250 šovinių juosta, 50 arba 75 šovinių būgninė dėtuvė, šaudymo tempas — 800-900 šūvių per.'
+  teiginys: 'Vokiškas universalusis kulkosvaidis MG 34 buvo vienas pirmųjų bendrosios paskirties kulkosvaidžių.'
   pagrindžia:
     - c-001
 
@@ -63,6 +63,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vokiškas universalusis kulkosvaidis MG 34 buvo vienas pirmųjų bendrosios paskirties kulkosvaidžių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvo vertinamas dėl pati- 5

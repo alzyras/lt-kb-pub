@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185838"></a>
 - t-001
   global_id: t-185838
-  teiginys: 'Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  teiginys: 'Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  santrauka: 'Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­

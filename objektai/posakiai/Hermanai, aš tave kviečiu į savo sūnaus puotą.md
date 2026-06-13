@@ -22,7 +22,7 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 <a id="claim-t-59095"></a>
 - t-001
   global_id: t-59095
-  teiginys: 'Dusburgietis teigia, kad todėl brolis Hermanas išvykdamas kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.'
+  teiginys: 'Dusburgiečio pasakojime Marija pasirodė broliui Hermanui Saracėnui ir pakvietė jį į savo sūnaus puotą.'
   pagrindžia:
     - c-001
 

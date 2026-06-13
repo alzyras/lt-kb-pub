@@ -108,3 +108,4 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - [[objektai/asmenys/Mykolas Sulistrovskis]]
 - [[objektai/grupes/Pietų Lietuvos saksų savanorių brigada]]
 - [[objektai/asmenys/S. Nastopka]]
+- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]

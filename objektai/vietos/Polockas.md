@@ -39,14 +39,14 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180423"></a>
 - t-001
   global_id: t-180423
-  teiginys: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
+  teiginys: 'Stepono Batoro laikais po karų su Maskva buvo atgautas Polockas ir visa Livonija.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-180424"></a>
 - t-002
   global_id: t-180424
-  teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  teiginys: '1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.'
   pagrindžia:
     - c-018
 
@@ -116,7 +116,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180436"></a>
 - t-013
   global_id: t-180436
-  teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+  teiginys: 'Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino „Rusėnų Biblijos“ knygas.'
   pagrindžia:
     - c-017
 
@@ -137,7 +137,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180440"></a>
 - t-016
   global_id: t-180440
-  teiginys: 'Švitrigaila spėjo pabėgti į Polocką.'
+  teiginys: '1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.'
   pagrindžia:
     - c-012
 
@@ -172,14 +172,14 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180445"></a>
 - t-021
   global_id: t-180445
-  teiginys: 'O Skirgaila, sėkmingai apgulęs Polocką, kur jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.'
+  teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   pagrindžia:
     - c-019
 
 <a id="claim-t-180446"></a>
 - t-022
   global_id: t-180446
-  teiginys: 'Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polockas, kuriam Lietuva buvo natūralus gynėjas ir sąjungininkas.'
+  teiginys: 'Polockas pasirinko bendradarbiavimą su Lietuva, kuri jam buvo natūrali gynėja ir sąjungininkė.'
   pagrindžia:
     - c-034
 
@@ -193,7 +193,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180449"></a>
 - t-024
   global_id: t-180449
-  teiginys: 'Skirgaila apsiautė Polocką, o Jogailos kariuomenė su Livonijos magistru atsiuntė jam pagalbinių būrių.'
+  teiginys: 'Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.'
   pagrindžia:
     - c-006
 
@@ -228,7 +228,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180455"></a>
 - t-029
   global_id: t-180455
-  teiginys: 'Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.'
+  teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   pagrindžia:
     - c-031
 
@@ -270,14 +270,14 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180464"></a>
 - t-036
   global_id: t-180464
-  teiginys: '1411 metų pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam lenkėsi ir reiškė paklusnumą.'
+  teiginys: '1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-180467"></a>
 - t-038
   global_id: t-180467
-  teiginys: 'Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
+  teiginys: 'Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.'
   pagrindžia:
     - c-030
 
@@ -375,7 +375,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-180486"></a>
 - t-057
   global_id: t-180486
-  teiginys: 'Magistras grįžo į savo žemę, o Švitrigaila - į Polocką, ir, vėl paleidęs kariuomenę, išvyko į Kijevą.'
+  teiginys: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
   pagrindžia:
     - c-035
 
@@ -417,7 +417,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 <a id="claim-t-185097"></a>
 - t-064
   global_id: t-185097
-  teiginys: 'Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
+  teiginys: 'Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   pagrindžia:
     - c-045
 
@@ -494,6 +494,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-010
 
 - c-006
+  santrauka: 'Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­
@@ -535,7 +536,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-015
 
 - c-009
-  santrauka: '1411 metų pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam lenkėsi ir reiškė paklusnumą.'
+  santrauka: '1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tos žinios kėlė Vytauto
@@ -598,6 +599,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-007
 
 - c-012
+  santrauka: '1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sąmokslininkai 1432 m. rugpjūčio
@@ -728,6 +730,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-002
 
 - c-019
+  santrauka: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pačiam Sviatoslavui žuvus
@@ -943,6 +946,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-025
 
 - c-030
+  santrauka: 'Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasiekimai vakaruose Gediminui leido
@@ -957,6 +961,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-038
 
 - c-031
+  santrauka: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -1022,6 +1027,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-026
 
 - c-035
+  santrauka: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau
@@ -1248,7 +1254,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-063
 
 - c-045
-  santrauka: 'Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
+  santrauka: 'Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žiemos viduryje ap­

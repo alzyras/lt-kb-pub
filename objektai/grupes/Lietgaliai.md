@@ -27,13 +27,14 @@ tags:
 <a id="claim-t-31268"></a>
 - t-002
   global_id: t-31268
-  teiginys: 'Net ir pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.'
+  teiginys: 'Pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
@@ -62,7 +63,7 @@ tags:
     - t-001
 
 - c-003
-  santrauka: 'Net ir pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.'
+  santrauka: 'Pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galėjo tas pat būti ir Lietuvoje, kai gyventojai iš sunkiau apgi­

@@ -46,7 +46,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 <a id="claim-t-172099"></a>
 - t-003
   global_id: t-172099
-  teiginys: 'Pavyzdžiui, husitai dargi ne kartą Vytauto globa naudojosi.'
+  teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
   pagrindžia:
     - c-008
 
@@ -60,7 +60,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 <a id="claim-t-172101"></a>
 - t-005
   global_id: t-172101
-  teiginys: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
+  teiginys: 'Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.'
   pagrindžia:
     - c-009
 
@@ -91,13 +91,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   teiginys: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-172106"></a>
-- t-010
-  global_id: t-172106
-  teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
-  pagrindžia:
-    - c-008
 
 <a id="claim-t-184478"></a>
 - t-011
@@ -243,6 +236,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - t-010
 
 - c-009
+  santrauka: 'Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Popiežius draudė siųsti Kaributą, o kai

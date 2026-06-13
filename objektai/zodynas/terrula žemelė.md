@@ -39,7 +39,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 <a id="claim-t-58877"></a>
 - t-002
   global_id: t-58877
-  teiginys: 'Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).'
+  teiginys: '1257 m. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose vartotas terminas terrula.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
     - t-001
 
 - c-002
+  santrauka: '1257 m. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose vartotas terminas terrula.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1257.IV.14 Sembos vyskupo  ir vicemagistro valdų dalybų dokumentuose matome

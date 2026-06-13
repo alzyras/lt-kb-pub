@@ -27,13 +27,14 @@ periodo_grupes:
 <a id="claim-t-78058"></a>
 - t-001
   global_id: t-78058
-  teiginys: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
+  teiginys: 'John Gielgud buvo pasaulinė teatro ir kino žvaigždė, kilusi iš Lietuvos emigrantų šeimos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'John Gielgud buvo pasaulinė teatro ir kino žvaigždė, kilusi iš Lietuvos emigrantų šeimos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galėtume vardyti tuos Lietuvos žmones, kuriuos emigra-

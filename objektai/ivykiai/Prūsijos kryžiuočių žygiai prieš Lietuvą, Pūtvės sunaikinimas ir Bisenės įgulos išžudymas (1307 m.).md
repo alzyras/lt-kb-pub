@@ -63,7 +63,7 @@ Nenurodyta
 <a id="claim-t-185500"></a>
 - t-005
   global_id: t-185500
-  teiginys: 'Skronaitės ir Bibervaitės pilys, netekusios gynėjų, buvo sunaikintos priešo ir liepsnų.'
+  teiginys: 'Netekusios gynėjų, Skronaitės ir Bibervaitės pilys buvo sunaikintos priešų ir ugnies.'
   pagrindžia:
     - c-005
 
@@ -162,7 +162,7 @@ Nenurodyta
     - t-004
 
 - c-005
-  santrauka: 'Skronaitės ir Bibervaitės pilys, netekusios gynėjų, buvo sunaikintos priešo ir liepsnų.'
+  santrauka: 'Netekusios gynėjų, Skronaitės ir Bibervaitės pilys buvo sunaikintos priešų ir ugnies.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neteku­

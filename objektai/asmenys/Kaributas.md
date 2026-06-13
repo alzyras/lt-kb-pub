@@ -38,7 +38,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 <a id="claim-t-97457"></a>
 - t-003
   global_id: t-97457
-  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  teiginys: 'Kaributas, Julijonos sūnus ir Jogailos brolis, minimas kaip liudininkas trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   pagrindžia:
     - c-006
 
@@ -66,7 +66,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 <a id="claim-t-97461"></a>
 - t-007
   global_id: t-97461
-  teiginys: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
+  teiginys: 'Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
   pagrindžia:
     - c-004
 
@@ -121,6 +121,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
     - t-003
 
 - c-004
+  santrauka: 'Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Karaliui buvo parinkta saugi vieta,
@@ -191,8 +192,11 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Julijona]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -219,6 +223,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - [[objektai/posakiai/in odium Sigismundi]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Dimitras Kaributas]]
 - [[objektai/asmenys/Lengvenis Algirdaitis]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]

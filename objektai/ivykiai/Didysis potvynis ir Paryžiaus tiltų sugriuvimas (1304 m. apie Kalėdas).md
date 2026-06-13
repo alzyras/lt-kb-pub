@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62236"></a>
 - t-001
   global_id: t-62236
-  teiginys: 'Dusburgietis teigia, kad apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano.'
+  teiginys: '1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių.'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Tvanas]]

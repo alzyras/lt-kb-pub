@@ -30,28 +30,28 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 <a id="claim-t-89789"></a>
 - t-001
   global_id: t-89789
-  teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
+  teiginys: 'Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89790"></a>
 - t-002
   global_id: t-89790
-  teiginys: 'Dusburgietis teigia, kad šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė.'
+  teiginys: 'Glapas su kariuomene buvo užkluptas apgulęs pilį ir netikėtai užpultas brolių bei ginklanešių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89791"></a>
 - t-003
   global_id: t-89791
-  teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
+  teiginys: 'Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-89792"></a>
 - t-004
   global_id: t-89792
-  teiginys: 'Dusburgietis teigia, kad viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė Varmių vadui Glapui, kad broliai esą iš čia išvykę.'
+  teiginys: 'Viena prūsė pabėgo iš pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,13 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginys: 'Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-184072"></a>
+- t-006
+  global_id: t-184072
+  teiginys: 'Viena prūsė pabėgo iš Brandenburgo pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -80,6 +87,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-001
 
 - c-002
+  santrauka: 'Viena prūsė pabėgo iš pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
@@ -95,6 +103,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-004
 
 - c-003
+  santrauka: 'Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
@@ -130,7 +139,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-005
 
 - c-005
-  santrauka: 'Dusburgietis teigia, kad viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė Varmių vadui Glapui, kad broliai esą iš čia išvykę.'
+  santrauka: 'Viena prūsė pabėgo iš Brandenburgo pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai
@@ -160,4 +169,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
+- [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę]]
 - [[objektai/daiktai/Kuorai]]

@@ -105,6 +105,7 @@ Germantas siekė susikauti su Leonu, nes Leonas prieš kelerius metus per vaiše
 - [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
+- [[objektai/paprociai/Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje]]
 - [[objektai/grupes/Laikinoji vyriausybė]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
 - [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

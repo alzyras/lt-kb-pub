@@ -59,7 +59,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 <a id="claim-t-101670"></a>
 - t-005
   global_id: t-101670
-  teiginys: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
+  teiginys: 'Juzefo Pilsudskio šalininkai lenkai 1919 m. siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-001
 
@@ -73,7 +73,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 <a id="claim-t-101672"></a>
 - t-007
   global_id: t-101672
-  teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
+  teiginys: 'Juzefo Pilsudskio grįžimas į valdžią po 1926 m. perversmo Lenkijoje skatino veikti Seimo valdymu nepatenkintas Lietuvos politines jėgas.'
   pagrindžia:
     - c-002
 
@@ -94,20 +94,14 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 <a id="claim-t-101675"></a>
 - t-010
   global_id: t-101675
-  teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
+  teiginys: 'Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-101676"></a>
-- t-011
-  global_id: t-101676
-  teiginys: 'Juzefas Pilsudskis Ženevoje A. Voldemarui uždavė klausimą „Karas ar taika?“.'
-  pagrindžia:
-    - c-009
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Juzefo Pilsudskio šalininkai lenkai 1919 m. siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Delegacija
@@ -130,6 +124,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - t-005
 
 - c-002
+  santrauka: 'Juzefo Pilsudskio grįžimas į valdžią po 1926 m. perversmo Lenkijoje skatino veikti Seimo valdymu nepatenkintas Lietuvos politines jėgas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
@@ -210,6 +205,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - t-009
 
 - c-006
+  santrauka: 'Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
@@ -302,9 +298,10 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/grupes/Lenkų socialistų partija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/asmenys/Romanas Dmovskis]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]

@@ -31,7 +31,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 <a id="claim-t-89225"></a>
 - t-001
   global_id: t-89225
-  teiginys: 'Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės.'
+  teiginys: 'Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 <a id="claim-t-89230"></a>
 - t-006
   global_id: t-89230
-  teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
+  teiginys: 'Vokiečių puolimas ir slavų ekspansija, manoma, sutrukdė Lietuvos valstybei ir vardui aprėpti platesnes baltų genčių žemes.'
   pagrindžia:
     - c-005
 
@@ -87,6 +87,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**

@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-78729"></a>
 - t-003
   global_id: t-78729
-  teiginys: 'Čia, valdovui grįžus, įvyko triumfo iškilmės, eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, Vilniaus katedroje pakabintos trofėjinės vėliavos.'
+  teiginys: 'Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos.'
   pagrindžia:
     - c-001
 

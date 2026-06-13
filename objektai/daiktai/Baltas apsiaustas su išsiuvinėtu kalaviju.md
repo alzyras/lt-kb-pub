@@ -51,13 +51,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-47801"></a>
-- t-002
-  global_id: t-47801
-  teiginys: 'Jojo nariai ( Schwertbrueder ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001

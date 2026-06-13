@@ -38,27 +38,28 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 <a id="claim-t-79424"></a>
 - t-002
   global_id: t-79424
-  teiginys: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
+  teiginys: 'Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-79425"></a>
 - t-003
   global_id: t-79425
-  teiginys: 'Kauno pilies apgula Ordino ir talkininkų kariuomenė šį kartą Nemunu laivais, pučiant vakarų vėjui, tyliai aplenkdama Veliuonos ir Pieštvės pilis, pasiekė Kauną.'
+  teiginys: 'Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-79426"></a>
 - t-004
   global_id: t-79426
-  teiginys: 'Kryžiuočių pajėgos Kauno pilį puolė - Ordino magistro Vinricho iš Kniprodės, didžiojo komtūro, didžiojo maršalo, Elbingo, Christburgo, Balgos komtūrų ir kitų vadovaujamos kryžiuočių pajėgos, Livonijos ordino daliniai, talkininkai-kryžininkai iš Anglijos.'
+  teiginys: 'Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Grįžęs namo, jis vėl
@@ -75,6 +76,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     - t-002
 
 - c-002
+  santrauka: 'Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kauno pilies apgula
@@ -115,6 +117,7 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     - t-001
 
 - c-004
+  santrauka: 'Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočių pajėgos

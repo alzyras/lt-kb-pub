@@ -19,13 +19,14 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 <a id="claim-t-60248"></a>
 - t-001
   global_id: t-60248
-  teiginys: 'Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.'
+  teiginys: 'Pasakojime šventasis Bernardas sapne žengė brolių priekyje ir atsisakė priimti maldavusį vyrą į bendrininkus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojime šventasis Bernardas sapne žengė brolių priekyje ir atsisakė priimti maldavusį vyrą į bendrininkus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
@@ -49,3 +50,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/asmenys/Bernardas (Jachnos sūnus)]]
+- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]]

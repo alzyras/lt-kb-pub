@@ -24,13 +24,6 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   pagrindžia:
     - c-001
 
-<a id="claim-t-183629"></a>
-- t-002
-  global_id: t-183629
-  teiginys: 'Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +43,7 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
     - t-001
 
 - c-002
-  santrauka: 'Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.'
+  santrauka: 'Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žygio dalyviai įspėti susidūrimų metu

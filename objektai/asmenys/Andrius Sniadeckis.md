@@ -37,7 +37,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 <a id="claim-t-183521"></a>
 - t-002
   global_id: t-183521
-  teiginys: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
+  teiginys: 'Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.'
   pagrindžia:
     - c-001
 

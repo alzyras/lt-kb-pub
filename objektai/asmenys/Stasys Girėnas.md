@@ -26,68 +26,31 @@ periodo_grupes:
 
 ## Teiginiai
 
-<a id="claim-t-64100"></a>
-- t-001
-  global_id: t-64100
-  teiginys: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-64102"></a>
-- t-002
+- t-001
   global_id: t-64102
-  teiginys: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-64103"></a>
-- t-003
-  global_id: t-64103
-  teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas buvo pristatyti kaip modernūs jaunos nacijos didvyriai.'
+  teiginys: 'Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183570"></a>
+- t-002
+  global_id: t-183570
+  teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
+  pagrindžia:
+    - c-002
 
 <a id="claim-t-183571"></a>
-- t-005
+- t-003
   global_id: t-183571
   teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šventės
-    pabrėžė praeities ir dabarties ryšį, sujungė tautinius laimėjimus, auklėjo šlo-
-    vingos senovės pavyzdžiais, siekė parodyti kariuomenės ir tautos vienybę.
-    Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
-    liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
-    „Pienocentro“ pastatas Kaune (apie 1938).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    11 minučių ir įveikę 6 411 km, antrą tuo
-    metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
-    trofą tuometinėje Rytų Prūsijoje. Kaune laukiančią ore pasirodant lėktu-
-    vo kone šimtatūkstantinę minią žmonių gauta žinia pravirkdė. Savo laiške
-    prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
-    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Sovietmečiu buvo leista rašyti apie S. Dariaus ir S. Girėno žygdarbį.'
+  santrauka: 'Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero bažnyčioje atidarytas Ateiz-
@@ -102,10 +65,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-004
-  santrauka: '1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938).'
+- c-002
+  santrauka: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
@@ -120,9 +83,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-005
+- c-003
   santrauka: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -136,7 +99,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -144,7 +107,6 @@ periodo_grupes:
 - [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
+- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]
 - [[objektai/ivykiai/Felikso Vaitkaus skrydis į Lietuvą (1935 m. gegužės 21-22 d.)]]
-- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
-- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

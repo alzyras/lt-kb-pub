@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-01717"></a>
 - t-001
   global_id: t-01717
-  teiginys: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'
+  teiginys: '1917 m. Vokietijos karo vadovybė, vyriausybė ir reichstagas reikalavo, kad Lietuva federaciškai susisietų su Vokietija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1917 m. Vokietijos karo vadovybė, vyriausybė ir reichstagas reikalavo, kad Lietuva federaciškai susisietų su Vokietija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vaisin-

@@ -37,7 +37,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 <a id="claim-t-54798"></a>
 - t-002
   global_id: t-54798
-  teiginys: 'Vidivarijų vardas aiškinamas ne kaip vienos tautos giminės vardas, bet kaip įvairių tautų sambūrio bendruomenės vardas.'
+  teiginys: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės, o ne vienos tautos giminės vardas.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
     - t-001
 
 - c-002
+  santrauka: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės, o ne vienos tautos giminės vardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kraštas, ku­

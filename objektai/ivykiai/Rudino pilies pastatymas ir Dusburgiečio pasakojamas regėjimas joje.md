@@ -53,13 +53,14 @@ Nenurodyta
 <a id="claim-t-91908"></a>
 - t-002
   global_id: t-91908
-  teiginys: 'Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m..'
+  teiginys: '1234 m. magistras Hermanas, išvijus prūsus iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1234 m. magistras Hermanas, išvijus prūsus iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
@@ -132,3 +133,5 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/magistras]]

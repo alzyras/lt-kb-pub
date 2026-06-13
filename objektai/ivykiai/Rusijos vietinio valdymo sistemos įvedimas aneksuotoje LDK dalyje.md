@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-25115"></a>
 - t-001
   global_id: t-25115
-  teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, prižiūrima vietos administracijos.'
+  teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, kurioje veikė vietos administracijos prižiūrimos institucijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, kurioje veikė vietos administracijos prižiūrimos institucijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A

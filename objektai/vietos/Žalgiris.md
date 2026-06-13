@@ -34,37 +34,18 @@ amziai:
   global_id: t-80586
   teiginys: '1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordino kariuomenę.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-80588"></a>
-- t-002
-  global_id: t-80588
-  teiginys: 'NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-183645"></a>
-- t-003
+- t-002
   global_id: t-183645
-  teiginys: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
+  teiginys: 'LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne kūrė LDK politinės tautos prielaidas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
-
-    p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija. Donato Babensko nuotr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: '1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordino kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -93,8 +74,8 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
+- c-002
+  santrauka: 'LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne kūrė LDK politinės tautos prielaidas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bendras vidaus politinis
@@ -108,4 +89,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

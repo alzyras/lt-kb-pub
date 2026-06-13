@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-35570"></a>
 - t-002
   global_id: t-35570
-  teiginys: 'Čekai pasiūlė Vytautui karūnuotis jų karaliaus karūna.'
+  teiginys: 'Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna.'
   pagrindžia:
     - c-004
 
@@ -125,6 +125,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: 'Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tiek jau to. Svarbu tik konstatuoti,

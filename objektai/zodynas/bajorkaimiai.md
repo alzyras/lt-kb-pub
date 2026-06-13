@@ -21,13 +21,14 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 <a id="claim-t-28571"></a>
 - t-001
   global_id: t-28571
-  teiginys: 'Normanų įtakos pėdsakų Lietuvos bajorkaimiuose, okolicose, dar reikėjo gilesnio mokslinio pagrindimo.'
+  teiginys: 'Essenas normanų įtakos pėdsakų siūlė ieškoti Lietuvos bajorkaimiuose, bet tam reikėjo gilesnio moksliško pagrindimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Essenas normanų įtakos pėdsakų siūlė ieškoti Lietuvos bajorkaimiuose, bet tam reikėjo gilesnio moksliško pagrindimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Normanų įtakos pėdsakų reikią ieškoti

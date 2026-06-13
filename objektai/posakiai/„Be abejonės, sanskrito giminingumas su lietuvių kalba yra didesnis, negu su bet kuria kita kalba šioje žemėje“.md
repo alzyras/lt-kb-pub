@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-75607"></a>
 - t-002
   global_id: t-75607
-  teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
+  teiginys: 'Posakis pateiktas kaip britų mokslininko Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Posakis pateiktas kaip britų mokslininko Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams

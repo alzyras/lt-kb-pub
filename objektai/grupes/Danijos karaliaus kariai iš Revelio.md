@@ -22,7 +22,7 @@ tags:
 <a id="claim-t-40871"></a>
 - t-001
   global_id: t-40871
-  teiginys: 'Danijos karaliaus kariai iš Revelio nepritarė patarimui kautis be žirgų, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.'
+  teiginys: 'Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kad neturėtume vilties prie jų sugrįžti,

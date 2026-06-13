@@ -107,7 +107,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180010"></a>
 - t-011
   global_id: t-180010
-  teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  teiginys: 'Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Lietuvos ekspansiją laiko veiksniu, Kijevo Rusios erdvę perskyrusiu į Kijevo ir Maskvos dalis.'
   pagrindžia:
     - c-027
 
@@ -135,7 +135,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180014"></a>
 - t-015
   global_id: t-180014
-  teiginys: 'Lietuvos kunigaikštis savo užkariavimais nusigavo net už Kijevo ir perkėlė savo buveinę iš Trakų į Vilnių.'
+  teiginys: 'Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.'
   pagrindžia:
     - c-030
 
@@ -156,7 +156,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180017"></a>
 - t-018
   global_id: t-180017
-  teiginys: 'Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė savo žodį ir jį atidavė Skirgailai (1395).'
+  teiginys: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   pagrindžia:
     - c-018
 
@@ -212,7 +212,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180026"></a>
 - t-026
   global_id: t-180026
-  teiginys: 'Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.'
+  teiginys: 'Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
   pagrindžia:
     - c-004
 
@@ -222,13 +222,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-180028"></a>
-- t-028
-  global_id: t-180028
-  teiginys: 'Vytautas pasižadėjo padėti Skirgailai paimti Kijevą vietoj Trakų kunigaikštijos.'
-  pagrindžia:
-    - c-007
 
 <a id="claim-t-180029"></a>
 - t-029
@@ -247,7 +240,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180031"></a>
 - t-031
   global_id: t-180031
-  teiginys: 'Kijeviečiams ginantis, Gediminas mėnesį stovyklavo prie Kijevo.'
+  teiginys: 'Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.'
   pagrindžia:
     - c-033
 
@@ -289,7 +282,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180038"></a>
 - t-037
   global_id: t-180038
-  teiginys: 'Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.'
+  teiginys: 'Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine.'
   pagrindžia:
     - c-012
 
@@ -307,13 +300,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - c-008
 
-<a id="claim-t-180041"></a>
-- t-040
-  global_id: t-180041
-  teiginys: 'Kijeviečiams ginantis, „Gediminas stovyklavo prie Kijevo mėnesį“.'
-  pagrindžia:
-    - c-033
-
 <a id="claim-t-180043"></a>
 - t-041
   global_id: t-180043
@@ -324,7 +310,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180044"></a>
 - t-042
   global_id: t-180044
-  teiginys: 'Dusburgietis teigia, kad apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.'
+  teiginys: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.'
   pagrindžia:
     - c-015
 
@@ -338,7 +324,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180046"></a>
 - t-044
   global_id: t-180046
-  teiginys: 'Kai kurie Lietuvos miestai buvo valdomi Kijevo kunigaikščių.'
+  teiginys: 'Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.'
   pagrindžia:
     - c-034
 
@@ -363,13 +349,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - c-017
 
-<a id="claim-t-180050"></a>
-- t-048
-  global_id: t-180050
-  teiginys: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-180051"></a>
 - t-049
   global_id: t-180051
@@ -380,7 +359,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-180052"></a>
 - t-050
   global_id: t-180052
-  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  teiginys: '1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą perdavė Skirgailai.'
   pagrindžia:
     - c-031
 
@@ -436,7 +415,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-183029"></a>
 - t-058
   global_id: t-183029
-  teiginys: 'Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.'
+  teiginys: 'Totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos nepalietė.'
   pagrindžia:
     - c-037
 
@@ -450,14 +429,14 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 <a id="claim-t-184986"></a>
 - t-060
   global_id: t-184986
-  teiginys: 'Gediminui užkariavus Kijevą, Volynę ir dalį Seversko, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
+  teiginys: 'Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
   pagrindžia:
     - c-039
 
 <a id="claim-t-184987"></a>
 - t-061
   global_id: t-184987
-  teiginys: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  teiginys: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
   pagrindžia:
     - c-040
 
@@ -667,6 +646,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-008
 
 - c-012
+  santrauka: 'Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
@@ -721,6 +701,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-006
 
 - c-015
+  santrauka: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie 1325 m. Gedimino kariuomenė
@@ -767,6 +748,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-024
 
 - c-018
+  santrauka: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O
@@ -984,7 +966,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-043
 
 - c-030
-  santrauka: 'Lietuvos kunigaikštis savo užkariavimais nusigavo net už Kijevo ir perkėlė savo buveinę iš Trakų į Vilnių.'
+  santrauka: 'Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
@@ -1078,7 +1060,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-040
 
 - c-034
-  santrauka: 'Kai kurie Lietuvos miestai buvo valdomi Kijevo kunigaikščių.'
+  santrauka: 'Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Otcem
@@ -1144,7 +1126,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-057
 
 - c-037
-  santrauka: 'Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.'
+  santrauka: 'Totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos nepalietė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Neskaitant trumpų vidaus kovų jo
@@ -1186,7 +1168,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-059
 
 - c-039
-  santrauka: 'Gediminui užkariavus Kijevą, Volynę ir dalį Seversko, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
+  santrauka: 'Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Užėmęs Brianską
@@ -1207,7 +1189,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-060
 
 - c-040
-  santrauka: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  santrauka: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šiek tiek užgaišęs Lietu­

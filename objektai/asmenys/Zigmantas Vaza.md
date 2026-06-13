@@ -4,7 +4,6 @@ pavadinimas: 'Zigmantas Vaza'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1597 m.'
   - '1632 m.'
@@ -43,26 +42,26 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   global_id: t-82985
   teiginys: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-82986"></a>
 - t-003
   global_id: t-82986
   teiginys: 'Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-82987"></a>
 - t-004
   global_id: t-82987
-  teiginys: '1598 m. Zigmantas Vaza 111 su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
+  teiginys: '1598 m. Zigmantas Vaza III su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-82988"></a>
 - t-005
   global_id: t-82988
-  teiginys: 'Mūšis 1632 m. maskvėnai, pasinaudodami tuo, kad po Zigmanto Vazos mirties jo sūnus Vladislovas dar nebuvo įsitvirtinęs Lenkijos-Lietuvos soste, įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską.'
+  teiginys: '1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   pagrindžia:
     - c-004
 
@@ -80,26 +79,19 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   pagrindžia:
     - c-003
 
-<a id="claim-t-82992"></a>
-- t-008
-  global_id: t-82992
-  teiginys: 'Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-82993"></a>
-- t-009
+- t-008
   global_id: t-82993
   teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-82994"></a>
-- t-010
+- t-009
   global_id: t-82994
   teiginys: 'Zigmantas Vaza gavo sostą teturėdamas vos 21 m. Jis buvo Švedų karaliaus Jono III ir Zigmanto Augusto sesers Kotrynos vienintelis sūnus.'
   pagrindžia:
-    - c-009
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -128,7 +120,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -146,6 +138,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-007
 
 - c-004
+  santrauka: '1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -178,6 +171,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-001
 
 - c-006
+  santrauka: '1598 m. Zigmantas Vaza III su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švedijos kara-
@@ -194,25 +188,6 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-004
 
 - c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    9. Motiejus (arba Matas) Božiminskis, iš bajorų,
-    paskirtas karaliaus Zigmanto Vazos raštu,
-    rašytu spalio 30 d. iš Varšuvos -
-    Burmistras Kuzma Mamoničius -
-    10. Aleksandras Chaleckis, karaliaus dvariškis,
-    iš bajorų, Zigmanto Vazos lapkričio 10 d.
-    privilegija -
-    1597 m.
-    1600 m.
-    1610 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **8. Zigmanto Vazos valdymo charakteristika**
@@ -224,7 +199,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   pagrindžia:
     - t-002
 
-- c-009
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmantas Vaza gavo sostą teturėdamas vos 21 m. Jis
@@ -236,9 +211,9 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-010
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     C. Lietuvos ir Lenkijos bajorijos susigyvenimo laikotarpis
@@ -264,4 +239,5 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

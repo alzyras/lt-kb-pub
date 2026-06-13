@@ -49,7 +49,6 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Arvydas Sabonis]]
 - [[objektai/grupes/Litvakai]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
 - [[objektai/asmenys/Senda Berenson-Abbot]]

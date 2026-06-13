@@ -31,42 +31,18 @@ amziai:
   global_id: t-88248
   teiginys: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-88249"></a>
 - t-002
   global_id: t-88249
   teiginys: 'Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-88250"></a>
-- t-003
-  global_id: t-88250
-  teiginys: '— 369- (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje) Žygimantas Augustas ir 1.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 461
-
-    IV  KNYGA
-    GENERALINIS POTVARKIS
-    DĖL LIETUVIŠKŲ MONETŲ
-    Liter XMM. Fol. —  369-
-    (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
-    Žygimantas Augustas ir 1.1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: 'Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -94,7 +70,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

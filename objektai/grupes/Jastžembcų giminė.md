@@ -64,6 +64,5 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/grupes/Lenkų didžponiai]]
 - [[objektai/grupes/Pranciškonų ordinas]]

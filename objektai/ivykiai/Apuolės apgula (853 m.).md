@@ -36,13 +36,14 @@ Nenurodyta
 <a id="claim-t-31404"></a>
 - t-001
   global_id: t-31404
-  teiginys: 'Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius atiduoti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.'
+  teiginys: 'Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš

@@ -54,4 +54,5 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/grupes/Skyrai]]
 - [[objektai/autoriai/Stasys Šalkauskis]]
 - [[objektai/zodynas/Vidivarijai]]
+- [[objektai/autoriai/J. G. Vachteris Wächter]]
 - [[objektai/grupes/Slavai]]

@@ -42,7 +42,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
 <a id="claim-t-88155"></a>
 - t-003
   global_id: t-88155
-  teiginys: 'Po šių paaiškinimų apie antspaudą visuose trijuose laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį esant tikrai.'
+  teiginys: 'Trijuose Gedimino laiškuose po antspaudo paaiškinimų pateiktas prakeiksmas tiems, kurie nepatikėtų antspaudo tikrumu.'
   pagrindžia:
     - c-004
 
@@ -126,6 +126,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
     - t-002
 
 - c-004
+  santrauka: 'Trijuose Gedimino laiškuose po antspaudo paaiškinimų pateiktas prakeiksmas tiems, kurie nepatikėtų antspaudo tikrumu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po šių paaiškinimų apie antspaudą visuose trijuose

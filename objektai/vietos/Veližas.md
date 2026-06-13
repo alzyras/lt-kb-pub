@@ -38,13 +38,14 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 <a id="claim-t-69546"></a>
 - t-002
   global_id: t-69546
-  teiginys: 'Batoro planą Lietuvos lauko etmonas Kristupas Radvila Perkūnas, iki pagrindinėms pajėgoms pradedant žygį į Pskovą, turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą į Rusijos teritoriją tarp Veližo ir Smolensko ir kuo ilgiau išlaikyti įtampą šiame ruože.'
+  teiginys: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo imituoti įsiveržimą į Rusiją tarp Veližo ir Smolensko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo imituoti įsiveržimą į Rusiją tarp Veližo ir Smolensko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagal S. Batoro planą Lietuvos lauko etmo-

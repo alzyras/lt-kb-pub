@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-26383"></a>
 - t-001
   global_id: t-26383
-  teiginys: '1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A. Sniečkus leido suimti agituojančiuosius prieš Liaudies vyriausybę.'
+  teiginys: '1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Represijos ir 1941 metų
@@ -76,3 +77,4 @@ Nenurodyta
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]

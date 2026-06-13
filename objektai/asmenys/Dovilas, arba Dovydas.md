@@ -27,15 +27,8 @@ periodo_grupes:
 
 ## Teiginiai
 
-<a id="claim-t-87492"></a>
-- t-001
-  global_id: t-87492
-  teiginys: 'DOVILAS ar DOVYDAS Rostislavovičius, Lietuvos kunigaikštis -----------^ ----------s VIDAS, pramintas Vilku, ERDENAS ar Liet.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-87493"></a>
-- t-002
+- t-001
   global_id: t-87493
   teiginys: 'Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.'
   pagrindžia:
@@ -57,24 +50,6 @@ periodo_grupes:
     masis Vilniaus kunigaikštis, Vido, praminto Vilku, ir Er-
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    kun. Mstis­
-    lavo Vladimirovičiaus išvytas su broliais iš Polocko 1129 m. Išvyko į Kon­
-    stantinopolį, iš kur paskui pakviestas.
-    DOVILAS ar DOVYDAS
-    Rostislavovičius, Lietuvos
-    kunigaikštis
-    -----------^ ----------s
-    VIDAS, pramintas Vilku, ERDENAS ar
-    Liet.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

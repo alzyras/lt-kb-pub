@@ -37,7 +37,7 @@ amziai:
 <a id="claim-t-108555"></a>
 - t-001
   global_id: t-108555
-  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
+  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai.'
   pagrindžia:
     - c-003
 
@@ -58,14 +58,14 @@ amziai:
 <a id="claim-t-183703"></a>
 - t-004
   global_id: t-183703
-  teiginys: '1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija nubrėžė nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires.'
+  teiginys: '1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija nubrėžė nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires.'
+  santrauka: '1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau jie
@@ -115,6 +115,7 @@ amziai:
     - t-002
 
 - c-003
+  santrauka: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLKS Tarybos prezidiumo pirmininku iš-

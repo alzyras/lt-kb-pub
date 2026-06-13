@@ -59,14 +59,14 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 <a id="claim-t-176502"></a>
 - t-005
   global_id: t-176502
-  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  teiginys: 'Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila minimi kaip liudininkai trijose Jogailos ir Skirgailos sutartyse.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-176503"></a>
 - t-006
   global_id: t-176503
-  teiginys: 'Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis.'
+  teiginys: 'Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis.'
   pagrindžia:
     - c-005
 
@@ -87,7 +87,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 <a id="claim-t-184743"></a>
 - t-009
   global_id: t-184743
-  teiginys: 'Algirdas žmonos Julijonos, Vitebsko kunigaikščio dukters, noru sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
+  teiginys: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   pagrindžia:
     - c-007
 
@@ -207,7 +207,7 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - t-004
 
 - c-007
-  santrauka: 'Algirdas žmonos Julijonos, Vitebsko kunigaikščio dukters, noru sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
+  santrauka: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
@@ -244,6 +244,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Karigaila]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]

@@ -22,13 +22,14 @@ Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų
 <a id="claim-t-77859"></a>
 - t-001
   global_id: t-77859
-  teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
+  teiginys: 'Prancūzija Žoržo Klemanso rašte aiškino, kad Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas buvo vienintelis Lietuvos išėjimas į jūrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prancūzija Žoržo Klemanso rašte aiškino, kad Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas buvo vienintelis Lietuvos išėjimas į jūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pralaimėjusi karą Vokietija tam ener-

@@ -38,21 +38,22 @@ Nenurodyta
 <a id="claim-t-62848"></a>
 - t-001
   global_id: t-62848
-  teiginys: 'Dusburgietis teigia, kad apie dviejų našlių ginčą dėl vieno vyro Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi tame mūšyje buvo išžudyti, įpareigojo visas našles, suteikęs joms nuodėmių atleidimą, tekėti už savo tarnų, kad tikėjimo reikalas.'
+  teiginys: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų pavojuje.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-003
 
 <a id="claim-t-62849"></a>
 - t-002
   global_id: t-62849
-  teiginys: 'Dusburgietis teigia, kad nutiko taip, kad dvi moterys, eidamos į bažnyčią, pamatė tarp kitų žmonių aikštėje žaidžiant kauliukais stiprų ir gražaus gymio tarną, tiesa, prastokai apsirengusį.'
+  teiginys: 'Po Kulmo vyskupo nurodymo dvi moterys eidamos į bažnyčią pamatė aikštėje kauliukais žaidžiantį tarną.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų pavojuje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po šio mūšio Kulmo vyskupas, matydamas, jog Kulmo miestas liko be vyrų, nes visi
@@ -68,6 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po Kulmo vyskupo nurodymo dvi moterys eidamos į bažnyčią pamatė aikštėje kauliukais žaidžiantį tarną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nutiko
@@ -83,6 +85,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų pavojuje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     42. Apie dviejų našlių ginčą dėl vieno vyro

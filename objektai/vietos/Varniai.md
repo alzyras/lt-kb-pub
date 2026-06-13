@@ -38,7 +38,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 <a id="claim-t-99304"></a>
 - t-002
   global_id: t-99304
-  teiginys: ', 1316 m. pradžioje kryžiuočiai plėšė Dubysos žemupį, paskui jie brovęs krašto gilumon iki Varnių; balandžio mėn.'
+  teiginys: '1316 m. kryžiuočiai brovėsi iki Varnių, o vasarą vėl kelis kartus teriojo Varnių sritį.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     - t-001
 
 - c-002
+  santrauka: '1316 m. kryžiuočiai brovėsi iki Varnių, o vasarą vėl kelis kartus teriojo Varnių sritį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordinas teturėjo vieną tikslą : savo nepaliaujamais teriojimo

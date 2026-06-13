@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-95967"></a>
 - t-001
   global_id: t-95967
-  teiginys: 'Kada Vytauto prašymai nieko negelbėjo, jis turėjo ieškoti būdų pabėgti iš Krėvės.'
+  teiginys: 'Kai Vytauto prašymai nieko negelbėjo, jis ėmė ieškoti būdų pabėgti iš Krėvos kalėjimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kai Vytauto prašymai nieko negelbėjo, jis ėmė ieškoti būdų pabėgti iš Krėvos kalėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada Vytauto prašymai nieko negelbėjo,

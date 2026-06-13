@@ -31,14 +31,14 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 <a id="claim-t-181335"></a>
 - t-001
   global_id: t-181335
-  teiginys: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
+  teiginys: 'Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-181336"></a>
 - t-002
   global_id: t-181336
-  teiginys: 'SSRS 1940 metų ultimatumas ir sovietų okupacija Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrinkta į Tautų Sąjungos Tarybą.'
+  teiginys: 'Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - t-004
 
 - c-002
+  santrauka: 'Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietija kartojo nebeturinti regione
@@ -105,6 +106,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - t-003
 
 - c-004
+  santrauka: 'Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Memoran-

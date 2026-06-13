@@ -45,7 +45,7 @@ amziai:
 <a id="claim-t-119085"></a>
 - t-002
   global_id: t-119085
-  teiginys: 'O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasiuntė į Naugarduką.'
+  teiginys: 'Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.'
   pagrindžia:
     - c-018
 
@@ -115,7 +115,7 @@ amziai:
 <a id="claim-t-119096"></a>
 - t-012
   global_id: t-119096
-  teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  teiginys: 'Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
   pagrindžia:
     - c-006
 
@@ -175,17 +175,10 @@ amziai:
   pagrindžia:
     - c-022
 
-<a id="claim-t-119105"></a>
-- t-021
-  global_id: t-119105
-  teiginys: 'Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-119106"></a>
 - t-022
   global_id: t-119106
-  teiginys: 'Užpuolė dar Naugarduką ir kt.'
+  teiginys: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
   pagrindžia:
     - c-005
 
@@ -241,7 +234,7 @@ amziai:
 <a id="claim-t-119114"></a>
 - t-030
   global_id: t-119114
-  teiginys: 'Taip pradėtas lietuvių kunigaikščių kūrimasis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie Lietuvos valstybės.'
+  teiginys: 'Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.'
   pagrindžia:
     - c-019
 
@@ -354,6 +347,7 @@ amziai:
     - t-010
 
 - c-005
+  santrauka: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pilį pasisekė jam sudeginti. Bet ir tuo jis nepasiten­
@@ -619,6 +613,7 @@ amziai:
     - t-029
 
 - c-018
+  santrauka: 'Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus

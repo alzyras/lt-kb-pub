@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų. Sugrįžęs į Vilnių, Ostrogiškis padėkojo Dievui pastatydamas Nedalomosios Trejybės vienuolyną Romos popiežiui paklūstantiems rusų apeigų vienuoliams.
+Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų. Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-185880"></a>
 - t-002
   global_id: t-185880
-  teiginys: 'Sugrįžęs į Vilnių, Ostrogiškis padėkojo Dievui pastatydamas Nedalomosios Trejybės vienuolyną Romos popiežiui paklūstantiems rusų apeigų vienuoliams.'
+  teiginys: 'Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Sugrįžęs į Vilnių, Ostrogiškis padėkojo Dievui pastatydamas Nedalomosios Trejybės vienuolyną Romos popiežiui paklūstantiems rusų apeigų vienuoliams.'
+  santrauka: 'Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ost­

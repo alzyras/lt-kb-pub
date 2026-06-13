@@ -48,7 +48,6 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
 - [[objektai/grupes/Litvakai]]
 - [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
 - [[objektai/autoriai/Maironis]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/asmenys/Vaižgantas]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/zodynas/ješiva]]

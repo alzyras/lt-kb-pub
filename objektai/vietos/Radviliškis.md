@@ -27,13 +27,14 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 <a id="claim-t-181510"></a>
 - t-001
   global_id: t-181510
-  teiginys: 'Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
+  teiginys: '1919 m. lapkričio 20 d. fronto vadas plk. ltn. K. Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. lapkričio 20 d. fronto vadas plk. ltn. K. Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis

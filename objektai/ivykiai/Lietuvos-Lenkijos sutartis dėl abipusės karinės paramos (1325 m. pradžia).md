@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-59664"></a>
 - t-001
   global_id: t-59664
-  teiginys: 'Dusburgietis teigia, kad vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu — norėta atgauti markgrafų užgrobtas žemes.'
+  teiginys: '1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vladislovo Lokietkos valdoma Lenkija stojo į kovą su Brandenburgu

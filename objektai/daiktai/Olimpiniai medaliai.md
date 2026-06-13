@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-19574"></a>
 - t-001
   global_id: t-19574
-  teiginys: 'Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių šakų sporto varžybose už savo šalį.'
+  teiginys: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo

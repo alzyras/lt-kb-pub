@@ -45,7 +45,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 <a id="claim-t-172108"></a>
 - t-002
   global_id: t-172108
-  teiginys: '1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po jėzuitų atkvietimo į kolegiją įsteigė viešąsias mokyklas.'
+  teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius po kolegijos įkūrimo ir jėzuitų atkvietimo į ją įsteigė viešąsias mokyklas.'
   pagrindžia:
     - c-014
 
@@ -73,14 +73,14 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 <a id="claim-t-172112"></a>
 - t-006
   global_id: t-172112
-  teiginys: 'Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.'
+  teiginys: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-172113"></a>
 - t-007
   global_id: t-172113
-  teiginys: 'Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą.'
+  teiginys: 'Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.'
   pagrindžia:
     - c-005
 
@@ -98,17 +98,10 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - c-010
 
-<a id="claim-t-172116"></a>
-- t-010
-  global_id: t-172116
-  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
-  pagrindžia:
-    - c-015
-
 <a id="claim-t-172117"></a>
 - t-011
   global_id: t-172117
-  teiginys: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
+  teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   pagrindžia:
     - c-007
 
@@ -136,7 +129,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 <a id="claim-t-172122"></a>
 - t-015
   global_id: t-172122
-  teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą, kaltindamas ankstesniuosius tėvus jėzuitus.'
+  teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų.'
   pagrindžia:
     - c-019
 
@@ -146,13 +139,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginys: 'Jėzuitų ordinas buvo 1540 m. įkurta jauna vienuolių organizacija, skirta kovai su plintančiu protestantizmu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-172124"></a>
-- t-017
-  global_id: t-172124
-  teiginys: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
-  pagrindžia:
-    - c-014
 
 <a id="claim-t-172125"></a>
 - t-018
@@ -185,7 +171,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 <a id="claim-t-172129"></a>
 - t-022
   global_id: t-172129
-  teiginys: '1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.'
+  teiginys: '1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.'
   pagrindžia:
     - c-009
 
@@ -209,6 +195,13 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginys: 'Jėzuitai pirmieji susirūpino liaudimi ir skelbė katalikybę dar pagoniškiems Lietuvos, ypač Žemaičių, vietų gyventojams.'
   pagrindžia:
     - c-021
+
+<a id="claim-t-183822"></a>
+- t-027
+  global_id: t-183822
+  teiginys: 'Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą.'
+  pagrindžia:
+    - c-022
 
 <a id="claim-t-184479"></a>
 - t-028
@@ -292,6 +285,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-004
 
 - c-005
+  santrauka: 'Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
@@ -325,6 +319,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-012
 
 - c-007
+  santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po dešimtmečio čia pa-
@@ -360,6 +355,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-019
 
 - c-009
+  santrauka: '1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
@@ -397,6 +393,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-009
 
 - c-011
+  santrauka: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
@@ -483,6 +480,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-017
 
 - c-015
+  santrauka: '1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
@@ -562,6 +560,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-024
 
 - c-019
+  santrauka: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I e š k i n y s
@@ -615,7 +614,7 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - t-026
 
 - c-022
-  santrauka: 'Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.'
+  santrauka: 'Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčios

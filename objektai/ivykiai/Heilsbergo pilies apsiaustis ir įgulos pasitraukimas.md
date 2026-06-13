@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-62799"></a>
 - t-002
   global_id: t-62799
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Heilsbergo pilis Neilgai trukus prūsai su trimis kariuomenėmis ir trimis apgulos pabūklais [machinis] bei kitokiais įtaisais apsupo Varmės vyskupo pilį Heilsbergą.'
+  teiginys: 'Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą.'
   pagrindžia:
     - c-001
     - c-002
@@ -53,6 +53,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     94 (89). Apie tai, kaip buvo palikta Heilsbergo pilis

@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-77882"></a>
 - t-002
   global_id: t-77882
-  teiginys: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
+  teiginys: 'Didžiojo Vilniaus Seimo rezoliucijoje reikalauta suteikti Lietuvai autonomiją ir leisti Vilniuje turėti visuotiniu balsavimu renkamą Seimą.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Didžiojo Vilniaus Seimo rezoliucijoje reikalauta suteikti Lietuvai autonomiją ir leisti Vilniuje turėti visuotiniu balsavimu renkamą Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kulminacinis suvažiavimo įvykis buvo rezoliucijos

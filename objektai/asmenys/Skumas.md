@@ -19,13 +19,14 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 <a id="claim-t-60435"></a>
 - t-001
   global_id: t-60435
-  teiginys: 'Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'
+  teiginys: 'Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     138 (133). Apie 3 brolių ir 40 vyrų nužudymą

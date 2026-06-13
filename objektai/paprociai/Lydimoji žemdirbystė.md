@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-97136"></a>
 - t-003
   global_id: t-97136
-  teiginys: 'Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė laisvės naudotis mišku ir daryti išdagas.'
+  teiginys: 'Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku.'
   pagrindžia:
     - c-003
 
@@ -123,6 +123,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kadangi nulaisintas lydimas ilgai turėjo

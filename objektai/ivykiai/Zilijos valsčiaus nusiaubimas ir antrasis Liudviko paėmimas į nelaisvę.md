@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-59460"></a>
 - t-002
   global_id: t-59460
-  teiginys: 'Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.'
+  teiginys: 'Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sunkiai
@@ -99,3 +100,4 @@ Nenurodyta
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kantigirdas]]

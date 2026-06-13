@@ -19,13 +19,14 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
 <a id="claim-t-32786"></a>
 - t-001
   global_id: t-32786
-  teiginys: 'Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinamas kunic^257.'
+  teiginys: 'Eiliuotinėje Livonijos kronikoje Traidenis, kaip ir Mindaugas, vadinamas kunic.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eiliuotinėje Livonijos kronikoje Traidenis, kaip ir Mindaugas, vadinamas kunic.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Traidenio laikais Lietuva vėl atgavo savo ankstybesnį svorį,

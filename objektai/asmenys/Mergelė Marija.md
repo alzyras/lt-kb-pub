@@ -31,7 +31,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 <a id="claim-t-59888"></a>
 - t-001
   global_id: t-59888
-  teiginys: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'
+  teiginys: 'Dusburgiečio pasakojime Mergelė Marija pasirodė su Teutonų ordino broliais ir parodė jų žaizdas bei randus.'
   pagrindžia:
     - c-001
 
@@ -45,34 +45,42 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 <a id="claim-t-59890"></a>
 - t-003
   global_id: t-59890
-  teiginys: 'Dusburgietis teigia, kad šit bėga prūsai, bėga Livonijos žmonės, šit broliai ir kai kurie kiti, iš visų pusių priešo apsupti, tvirtai laikosi ir narsiai ginasi, vaje, šit jie žūsta, dabar matau švenčiausiąją mergelę Mariją, šventąsias mergeles ir dievo angelus, kylančius su jų.'
+  teiginys: 'Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59891"></a>
 - t-004
   global_id: t-59891
-  teiginys: 'Dusburgietis teigia, kad mergelė Marija trečią dieną, kaip buvo sakęs, pasimirė, o visi žmonės patikėjo jos žodžiais.'
+  teiginys: 'Dusburgiečio pasakojime Mergelė Marija pranašavo sužeistam Kulmo pilėnui, kad jis mirs trečią dieną.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-59892"></a>
 - t-005
   global_id: t-59892
-  teiginys: 'Dusburgietis teigia, kad tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.'
+  teiginys: 'Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59893"></a>
 - t-006
   global_id: t-59893
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
+  teiginys: 'Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-184113"></a>
+- t-007
+  global_id: t-184113
+  teiginys: 'Dusburgiečio pasakojime Mergelė Marija atėjo su Teutonų ordino broliais ir atsakė broliui, prašiusiam likti jų bendrijoje.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio pasakojime Mergelė Marija pasirodė su Teutonų ordino broliais ir parodė jų žaizdas bei randus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop atėjo švenčiausioji mergelė
@@ -89,6 +97,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-001
 
 - c-002
+  santrauka: 'Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -107,6 +116,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-003
 
 - c-003
+  santrauka: 'Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paprastai, susiruošęs  į
@@ -127,6 +137,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-005
 
 - c-004
+  santrauka: 'Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -170,6 +181,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-002
 
 - c-006
+  santrauka: 'Dusburgiečio pasakojime Mergelė Marija pranašavo sužeistam Kulmo pilėnui, kad jis mirs trečią dieną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     41. Apie vieną stebuklą
@@ -194,7 +206,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - t-004
 
 - c-007
-  santrauka: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'
+  santrauka: 'Dusburgiečio pasakojime Mergelė Marija atėjo su Teutonų ordino broliais ir atsakė broliui, prašiusiam likti jų bendrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
@@ -228,9 +240,10 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]
 - [[objektai/daiktai/Paplotėlis]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
+- [[objektai/asmenys/Marija]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]
 - [[objektai/asmenys/Hermanas Saracėnas]]
+- [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]
 - [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]
 - [[objektai/daiktai/Smilkytuvas ir žvakės]]
-- [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]

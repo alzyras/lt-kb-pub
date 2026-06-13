@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-75307"></a>
 - t-001
   global_id: t-75307
-  teiginys: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
+  teiginys: '1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-75309"></a>
 - t-003
   global_id: t-75309
-  teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
+  teiginys: 'Praradusi Klaipėdą Lietuva neteko trečdalio ekonomikos, nors Klaipėda sudarė 6 proc. Lietuvos teritorijos ir 5 proc. gyventojų.'
   pagrindžia:
     - c-002
 
@@ -93,6 +93,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Praradusi Klaipėdą Lietuva neteko trečdalio ekonomikos, nors Klaipėda sudarė 6 proc. Lietuvos teritorijos ir 5 proc. gyventojų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O visa lietuvių

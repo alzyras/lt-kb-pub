@@ -26,14 +26,14 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 <a id="claim-t-78905"></a>
 - t-001
   global_id: t-78905
-  teiginys: 'Artilerija to meto Lietuvos kariuomenėje dar nevaidino didesnio savarankiško vaidmens, bet buvo įprastas atributas, kuris mūšio lauke vis dėlto praversdavo.'
+  teiginys: 'Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78906"></a>
 - t-002
   global_id: t-78906
-  teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
+  teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.'
   pagrindžia:
     - c-002
 
@@ -47,6 +47,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Artilerija
@@ -70,6 +71,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - t-001
 
 - c-002
+  santrauka: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios

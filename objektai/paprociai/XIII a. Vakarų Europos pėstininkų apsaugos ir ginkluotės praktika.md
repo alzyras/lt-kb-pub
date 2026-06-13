@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-78730"></a>
 - t-001
   global_id: t-78730
-  teiginys: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
+  teiginys: 'XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dažniausiai nenaudodavo skydo,

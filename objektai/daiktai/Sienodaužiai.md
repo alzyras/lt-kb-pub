@@ -55,21 +55,14 @@ Nenurodyta
 <a id="claim-t-171481"></a>
 - t-002
   global_id: t-171481
-  teiginys: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-171482"></a>
-- t-003
-  global_id: t-171482
-  teiginys: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderį, naudojo 15 mašinų ir 5 sienodaužius.'
+  teiginys: 'Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-171483"></a>
 - t-004
   global_id: t-171483
-  teiginys: 'Jos mūrams griauti čia pat buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
+  teiginys: 'Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
   pagrindžia:
     - c-002
 

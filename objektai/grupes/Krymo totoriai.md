@@ -45,21 +45,21 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 <a id="claim-t-71640"></a>
 - t-003
   global_id: t-71640
-  teiginys: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų kilus konfliktui dėl belaisvių, ypač B. Radvilos.'
+  teiginys: 'Po pergalės ties Prostkais samdiniai totoriai pasitraukė iš lietuvių pajėgų dėl konflikto dėl belaisvių.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-71641"></a>
 - t-004
   global_id: t-71641
-  teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo ir suėmė valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71642"></a>
 - t-005
   global_id: t-71642
-  teiginys: 'Krymo totorių - samdinių.'
+  teiginys: 'Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių.'
   pagrindžia:
     - c-002
 
@@ -109,6 +109,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-004
 
 - c-002
+  santrauka: 'Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių tikslas buvo priversti atsi-
@@ -123,7 +124,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-005
 
 - c-003
-  santrauka: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų kilus konfliktui dėl belaisvių, ypač B. Radvilos.'
+  santrauka: 'Po pergalės ties Prostkais samdiniai totoriai pasitraukė iš lietuvių pajėgų dėl konflikto dėl belaisvių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
@@ -250,7 +251,6 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - [[objektai/zodynas/skitai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Kriavo aktas]]
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/asmenys/Vladislovas Vaza]]

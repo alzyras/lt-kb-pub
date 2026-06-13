@@ -20,13 +20,14 @@ Dusburgietis teigia, kad kalvaitis užfiksavo Romovupės upę ir Romovupių gyve
 <a id="claim-t-60724"></a>
 - t-001
   global_id: t-60724
-  teiginys: 'Dusburgietis teigia, kad kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei kaimą Kriwuczei, Kreywuczei (Kalwaitis W., Lietuwiszku..., p. 41, 54, 70).'
+  teiginys: 'XIX a. V. Kalvaitis užfiksavo Romovupės upę, Romovupių gyvenvietę ir kaimą Kriwuczei arba Kreywuczei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIX a. V. Kalvaitis užfiksavo Romovupės upę, Romovupių gyvenvietę ir kaimą Kriwuczei arba Kreywuczei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIX a. tose vietose V. Kalvaitis užfiksavo Romovupės upę ir Romovupių gyvenvietę bei

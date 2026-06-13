@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-169871"></a>
 - t-001
   global_id: t-169871
-  teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
+  teiginys: 'Po Lietuvos ir Žemaitijos krikšto buvo sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos gyvavo toliau.'
   pagrindžia:
     - c-002
 

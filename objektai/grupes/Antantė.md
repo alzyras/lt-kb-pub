@@ -28,7 +28,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 <a id="claim-t-19635"></a>
 - t-002
   global_id: t-19635
-  teiginys: 'Neilgai trukus Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys, o 1922 m. gruodžio 20 d. keturios Antantės valstybės (Prancūzija, Anglija, Italija, Japonija) pripažino Lietuvą de jure.'
+  teiginys: '1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.'
   pagrindžia:
     - c-004
 
@@ -104,6 +104,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     - t-003
 
 - c-004
+  santrauka: '1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų ka-

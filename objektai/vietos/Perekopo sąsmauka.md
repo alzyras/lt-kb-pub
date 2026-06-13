@@ -26,7 +26,7 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 <a id="claim-t-183799"></a>
 - t-002
   global_id: t-183799
-  teiginys: 'Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „gerai užrakinamus Krymo vartus“ - įtvirtintą Perekopo sąsmauką - totoriai turėjo sunkiai pasiekiamą lizdą, iš kurio, savo ruožtu, galėdavo nesunkiai leistis į tolimus žygius.'
+  teiginys: 'Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.'
   pagrindžia:
     - c-001
 

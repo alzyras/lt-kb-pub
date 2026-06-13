@@ -30,7 +30,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 <a id="claim-t-103839"></a>
 - t-001
   global_id: t-103839
-  teiginys: 'Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).'
+  teiginys: 'Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos.'
   pagrindžia:
     - c-003
 
@@ -145,5 +145,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/valstybingumo sąmonė]]

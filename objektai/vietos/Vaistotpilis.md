@@ -28,14 +28,14 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 <a id="claim-t-58485"></a>
 - t-002
   global_id: t-58485
-  teiginys: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
+  teiginys: 'Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58486"></a>
 - t-003
   global_id: t-58486
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'
+  teiginys: 'Prūsams apsupus Vaistotpilio pilį, broliai ją gynė nuo aušros iki sutemų, o vėliau sudegino ir slapta pasitraukė.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
     - t-004
 
 - c-003
+  santrauka: 'Vaistotpilis buvo Bartos žemėje, Gubros pakrantėje stovėjusi brolių pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje

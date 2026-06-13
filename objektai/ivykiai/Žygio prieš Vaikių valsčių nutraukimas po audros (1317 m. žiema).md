@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62960"></a>
 - t-001
   global_id: t-62960
-  teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
+  teiginys: '1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių.'
   pagrindžia:
     - c-001
 
@@ -74,5 +74,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Sembai]]

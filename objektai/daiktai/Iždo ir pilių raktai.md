@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-64930"></a>
 - t-002
   global_id: t-64930
-  teiginys: '1382 m. birželio 12 d. Hanulo Jogailai įteikė pilies raktus.'
+  teiginys: '1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nepatenkinti

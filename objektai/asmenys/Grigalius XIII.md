@@ -28,13 +28,14 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 <a id="claim-t-82382"></a>
 - t-001
   global_id: t-82382
-  teiginys: 'Tokią privilegiją Grigalius XIII bule aprobavo.'
+  teiginys: 'Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­

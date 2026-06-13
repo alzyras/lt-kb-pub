@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75127"></a>
 - t-001
   global_id: t-75127
-  teiginys: 'Ja naciai siekė užsitikrinti lietuvių visuomenės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo.'
+  teiginys: 'Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ja naciai siekė užsitikrinti lietuvių visuo-

@@ -32,7 +32,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 <a id="claim-t-97822"></a>
 - t-001
   global_id: t-97822
-  teiginys: 'Jo vadai pasiekė Dnieprą.'
+  teiginys: 'Timūro vadai pasiekė Dnieprą.'
   pagrindžia:
     - c-010
 
@@ -74,7 +74,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 <a id="claim-t-97829"></a>
 - t-007
   global_id: t-97829
-  teiginys: 'Jau nuo 1357 m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius plotus Desnos baseine.'
+  teiginys: 'Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.'
   pagrindžia:
     - c-011
 
@@ -88,7 +88,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 <a id="claim-t-97831"></a>
 - t-009
   global_id: t-97831
-  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  teiginys: '1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.'
   pagrindžia:
     - c-013
 
@@ -99,31 +99,24 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-003
 
-<a id="claim-t-97833"></a>
-- t-011
-  global_id: t-97833
-  teiginys: 'Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.'
-  pagrindžia:
-    - c-011
-
 <a id="claim-t-97834"></a>
 - t-012
   global_id: t-97834
-  teiginys: 'Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais, Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du priešai: šaltis.'
+  teiginys: 'Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-97835"></a>
 - t-013
   global_id: t-97835
-  teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  teiginys: 'Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-97836"></a>
 - t-014
   global_id: t-97836
-  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  teiginys: 'Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-005
 
@@ -137,7 +130,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 <a id="claim-t-97839"></a>
 - t-017
   global_id: t-97839
-  teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet nusidriekė iki Dniepro ir Dniestro žiočių ir priklausė Lietuvai.'
+  teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   pagrindžia:
     - c-012
 
@@ -154,13 +147,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginys: 'Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-97843"></a>
-- t-020
-  global_id: t-97843
-  teiginys: '1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.'
-  pagrindžia:
-    - c-009
 
 <a id="claim-t-97844"></a>
 - t-021
@@ -182,6 +168,13 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginys: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
   pagrindžia:
     - c-014
+
+<a id="claim-t-183782"></a>
+- t-024
+  global_id: t-183782
+  teiginys: 'Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -292,6 +285,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-014
 
 - c-006
+  santrauka: 'Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jodami stepėmis tarp
@@ -357,6 +351,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-020
 
 - c-010
+  santrauka: 'Timūro vadai pasiekė Dnieprą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -456,7 +451,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - t-023
 
 - c-015
-  santrauka: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  santrauka: 'Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ekspedicines

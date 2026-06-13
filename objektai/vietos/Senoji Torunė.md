@@ -29,20 +29,21 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 <a id="claim-t-58634"></a>
 - t-001
   global_id: t-58634
-  teiginys: 'Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę.'
+  teiginys: 'Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58635"></a>
 - t-002
   global_id: t-58635
-  teiginys: 'Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.).'
+  teiginys: 'Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
@@ -56,6 +57,7 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     - t-001
 
 - c-002
+  santrauka: 'Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos

@@ -21,13 +21,14 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
 <a id="claim-t-35994"></a>
 - t-001
   global_id: t-35994
-  teiginys: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo sumanymui karūnuotis.'
+  teiginys: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo karūnavimosi sumanymui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo karūnavimosi sumanymui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vienu žodžiu, kaip už­

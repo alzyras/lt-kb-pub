@@ -22,7 +22,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 <a id="claim-t-74133"></a>
 - t-001
   global_id: t-74133
-  teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
+  teiginys: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 <a id="claim-t-74135"></a>
 - t-003
   global_id: t-74135
-  teiginys: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
+  teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu.'
   pagrindžia:
     - c-002
 
@@ -50,6 +50,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
@@ -68,6 +69,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - t-001
 
 - c-002
+  santrauka: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     III Seimo pradėti dar-

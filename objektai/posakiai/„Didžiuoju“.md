@@ -26,7 +26,7 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
 <a id="claim-t-75610"></a>
 - t-001
   global_id: t-75610
-  teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  teiginys: 'Vytautas pradėtas vadinti Didžiuoju, nes jo permainų reikšmę suvokė jau amžininkai.'
   pagrindžia:
     - c-001
 

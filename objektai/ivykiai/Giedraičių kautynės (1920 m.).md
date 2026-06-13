@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-10213"></a>
 - t-001
   global_id: t-10213
-  teiginys: '1920 m. lapkričio 17–21 d. vyko Giedraičių kautynės; po kautynių atkirsta lenkų kavalerijos brigada traukėsi per Ukmergės apylinkes ir lapkričio 24 d. ties Labanoro miesteliu perėjo fronto liniją; prie Giedraičių lenkų pajėgos patyrė didelių nuostolių, o lietuvių nuostoliai taip pat buvo nemenki.'
+  teiginys: 'Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau kovos

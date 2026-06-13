@@ -19,13 +19,14 @@ Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją
 <a id="claim-t-78061"></a>
 - t-001
   global_id: t-78061
-  teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
+  teiginys: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Karlo Markso veikalus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Karlo Markso veikalus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos teritorijos), gynybinis karinis kompleksas

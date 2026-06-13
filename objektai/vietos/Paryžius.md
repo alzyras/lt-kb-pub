@@ -55,7 +55,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 <a id="claim-t-91238"></a>
 - t-004
   global_id: t-91238
-  teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
+  teiginys: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   pagrindžia:
     - c-012
 
@@ -69,28 +69,28 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 <a id="claim-t-91240"></a>
 - t-006
   global_id: t-91240
-  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
+  teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-91241"></a>
 - t-007
   global_id: t-91241
-  teiginys: 'Dusburgietis teigia, kad šis reskriptas buvo perskaitytas ir sudegintas Paryžiuje, karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje.'
+  teiginys: 'Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-91242"></a>
 - t-008
   global_id: t-91242
-  teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
+  teiginys: 'Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-91243"></a>
 - t-009
   global_id: t-91243
-  teiginys: 'Dusburgietis teigia, kad apkaltintas erezija Tamplierių ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo Paryžiuje 1314 m.69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
+  teiginys: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
   pagrindžia:
     - c-011
 
@@ -104,21 +104,21 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 <a id="claim-t-91245"></a>
 - t-011
   global_id: t-91245
-  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  teiginys: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-91246"></a>
 - t-012
   global_id: t-91246
-  teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  teiginys: '1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-91247"></a>
 - t-013
   global_id: t-91247
-  teiginys: 'Dusburgietis teigia, kad tuo pat metu Paryžiuje daugiau triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol.'
+  teiginys: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   pagrindžia:
     - c-014
 
@@ -132,7 +132,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 <a id="claim-t-91249"></a>
 - t-015
   global_id: t-91249
-  teiginys: 'Dusburgietis teigia, kad paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi patyrė baisybę nuostolių.'
+  teiginys: '1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko.'
   pagrindžia:
     - c-005
 
@@ -220,6 +220,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-010
 
 - c-005
+  santrauka: '1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     97. Apie potvynį
@@ -234,6 +235,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-015
 
 - c-006
+  santrauka: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     26. Apie viešpaties erškėčių vainiko perkėlimą
@@ -247,6 +249,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-006
 
 - c-007
+  santrauka: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
@@ -258,6 +261,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-011
 
 - c-008
+  santrauka: 'Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
@@ -295,6 +299,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-002
 
 - c-010
+  santrauka: 'Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žydų miesto bendruomenės ir jų prekybos, finan-
@@ -312,6 +317,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-008
 
 - c-011
+  santrauka: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
@@ -328,6 +334,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-009
 
 - c-012
+  santrauka: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
@@ -367,6 +374,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-005
 
 - c-014
+  santrauka: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis

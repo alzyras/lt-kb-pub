@@ -30,14 +30,14 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
 <a id="claim-t-60129"></a>
 - t-001
   global_id: t-60129
-  teiginys: 'Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų pastatydinti bažnyčią, o tas šitaip ir padarė, būtent.'
+  teiginys: 'Pasak Dusburgiečio, šventasis Vaclovas išpranašavo Danijos karaliaus Henriko žūtį ir pasiūlė jam pastatyti bažnyčią.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60130"></a>
 - t-002
   global_id: t-60130
-  teiginys: 'Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų naudos, todėl kitais metais jį nužudė frizai.'
+  teiginys: '1250 metais Danijos karalių Henriką nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti.'
   pagrindžia:
     - c-001
 
@@ -66,4 +66,5 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
 ### Susiję objektai
 - [[objektai/zodynas/piktadarystė]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Vaclovas]]
 - [[objektai/asmenys/Abelis]]

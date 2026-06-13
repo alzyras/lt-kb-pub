@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus. Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos. Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.
+Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės. Po Vasilijaus valdų nusiaubimo Vasilijus turėjo prašyti taikos ir pažadėti neremti Švitrigailos. Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.
 
 ## Teiginiai
 
 <a id="claim-t-185992"></a>
 - t-001
   global_id: t-185992
-  teiginys: 'Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus.'
+  teiginys: 'Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Ma
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Maskvos kunigaikščio Vasilijaus.'
+  santrauka: 'Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
@@ -157,5 +157,6 @@ Vytautas Marienburge surengė palydėtuves dukteriai Sofijai, tekėjusiai už Ma
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Vasilijus]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]

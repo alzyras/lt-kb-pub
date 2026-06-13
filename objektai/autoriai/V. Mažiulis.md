@@ -22,7 +22,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
 <a id="claim-t-64859"></a>
 - t-001
   global_id: t-64859
-  teiginys: 'Dusburgietis teigia, kad mažiulio tyrimai rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.'
+  teiginys: 'V. Mažiulio tyrimai rodė, kad vakarų ir rytų baltų tarmių skirtingumo laipsnis mažesnis, nei anksčiau manyta.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
     - t-004
 
 - c-002
+  santrauka: 'V. Mažiulio tyrimai rodė, kad vakarų ir rytų baltų tarmių skirtingumo laipsnis mažesnis, nei anksčiau manyta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
@@ -121,6 +122,5 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/zodynas/vakariniai baltai]]

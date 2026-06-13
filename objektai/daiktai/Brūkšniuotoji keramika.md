@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-47809"></a>
 - t-002
   global_id: t-47809
-  teiginys: 'Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t.'
+  teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
   pagrindžia:
     - c-001
 

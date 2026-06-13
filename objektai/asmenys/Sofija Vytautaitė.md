@@ -23,16 +23,10 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
   pagrindžia:
     - c-002
 
-<a id="claim-t-79160"></a>
-- t-002
-  global_id: t-79160
-  teiginys: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kafos apy-

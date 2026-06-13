@@ -60,14 +60,14 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 <a id="claim-t-54965"></a>
 - t-002
   global_id: t-54965
-  teiginys: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė susitarimus prieš Ordiną.'
+  teiginys: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė su juo susitarimus prieš Ordiną.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-54966"></a>
 - t-003
   global_id: t-54966
-  teiginys: 'Vytenis laišku prašė popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą atsiųsti minoritų.'
+  teiginys: 'Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.'
   pagrindžia:
     - c-003
 
@@ -81,7 +81,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 <a id="claim-t-54968"></a>
 - t-005
   global_id: t-54968
-  teiginys: 'Po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
+  teiginys: '1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
   pagrindžia:
     - c-006
 
@@ -127,17 +127,10 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   pagrindžia:
     - c-009
 
-<a id="claim-t-89715"></a>
-- t-012
-  global_id: t-89715
-  teiginys: 'Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo plano.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-89716"></a>
-- t-013
+- t-012
   global_id: t-89716
-  teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
+  teiginys: 'Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.'
   pagrindžia:
     - c-005
 
@@ -165,7 +158,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - t-001
 
 - c-002
-  santrauka: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė susitarimus prieš Ordiną.'
+  santrauka: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė su juo susitarimus prieš Ordiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     334.
@@ -274,9 +267,10 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   statusas: verified
   pagrindžia:
     - t-004
-    - t-013
+    - t-012
 
 - c-006
+  santrauka: '1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
@@ -294,7 +288,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   statusas: verified
   pagrindžia:
     - t-005
-    - t-012
 
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -409,4 +402,5 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/popiežiaus legatas]]

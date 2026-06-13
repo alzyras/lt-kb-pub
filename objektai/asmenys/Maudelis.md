@@ -21,13 +21,14 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 <a id="claim-t-60386"></a>
 - t-001
   global_id: t-60386
-  teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
+  teiginys: 'Maudelis buvo Vėluvos pilininko Tirsko sūnus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maudelis buvo Vėluvos pilininko Tirsko sūnus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -62,3 +63,4 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]
+- [[objektai/zodynas/Pilininkas]]

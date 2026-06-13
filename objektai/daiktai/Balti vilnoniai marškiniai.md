@@ -122,6 +122,5 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - [[objektai/daiktai/Vyženos]]
 - [[objektai/zodynas/Kilimas|kilimas]]
 - [[objektai/daiktai/Rūbai]]
-- [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
 - [[objektai/asmenys/Hermanas iš Lichtenburgo]]
 - [[objektai/grupes/Vilniaus gyventojai]]

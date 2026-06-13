@@ -28,13 +28,14 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
 <a id="claim-t-91955"></a>
 - t-001
   global_id: t-91955
-  teiginys: 'Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų būti Culvensem), kad tai Kulva (kituose to meto šaltiniuose — Kolwa, Colwe, Koluwe — Weg.'
+  teiginys: 'T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vygandas Marburgietis XIV a. 9-ame dešimtmetyje (1382, 1384 m.) Lietuvoje, Neries

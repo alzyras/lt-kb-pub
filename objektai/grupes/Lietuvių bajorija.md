@@ -28,7 +28,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 <a id="claim-t-50694"></a>
 - t-001
   global_id: t-50694
-  teiginys: 'Lietuvių bajorų aktas leido jiems spausti Vytautą, jei jis nesilaikytų unijos.'
+  teiginys: 'Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos.'
   pagrindžia:
     - c-001
 
@@ -63,6 +63,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų ponų

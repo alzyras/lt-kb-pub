@@ -65,3 +65,5 @@ Tai buvo vergai.
 - [[objektai/zodynas/Sūdas|sūdas]]
 - [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]
 - [[objektai/zodynas/šeimyna familia domus]]
+- [[objektai/zodynas/amžina vergovė]]
+- [[objektai/zodynas/amžina vergovė amžini vergai]]

@@ -43,7 +43,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 <a id="claim-t-168141"></a>
 - t-003
   global_id: t-168141
-  teiginys: 'Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+  teiginys: 'Į Petrapilį persikėlęs Lietuvių Komitetas organizavo tremtinių šelpimą ir jaunimo mokymą lietuviškose gimnazijose Voroneže.'
   pagrindžia:
     - c-005
 
@@ -137,6 +137,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     - t-004
 
 - c-005
+  santrauka: 'Į Petrapilį persikėlęs Lietuvių Komitetas organizavo tremtinių šelpimą ir jaunimo mokymą lietuviškose gimnazijose Voroneže.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     ##### 2. Lietuvių tremtiniai Rusijoje

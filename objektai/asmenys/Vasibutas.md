@@ -56,5 +56,3 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Valimantaičiai]]
-- [[objektai/ivykiai/Vedrošos kautynės]]

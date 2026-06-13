@@ -32,13 +32,6 @@ amziai:
   pagrindžia:
     - c-001
 
-<a id="claim-t-183657"></a>
-- t-002
-  global_id: t-183657
-  teiginys: '1947 m. tapo Kęstučio apygardos partizanu, netrukus paskirtas Vaidoto rinktinės vadu, o 1949 m. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,25 +48,9 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: '1947 m. tapo Kęstučio apygardos partizanu, netrukus paskirtas Vaidoto rinktinės vadu, o 1949 m. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1947 m.
-    tapo Kęstučio apygardos partizanu,
-    netrukus paskirtas Vaidoto rinktinės vadu, o
-    1949 m. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities
-    vadu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/grupes/Maironio rinktinė]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/grupes/Prisikėlimo apygarda]]

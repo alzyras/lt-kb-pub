@@ -27,7 +27,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 <a id="claim-t-72600"></a>
 - t-002
   global_id: t-72600
-  teiginys: 'Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį.'
+  teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi sukurti nepriklausomą Latviją.'
   pagrindžia:
     - c-002
 
@@ -49,6 +49,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - t-001
 
 - c-002
+  santrauka: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi sukurti nepriklausomą Latviją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Rusijoje kilo revoliucija, beveik visa Lat-

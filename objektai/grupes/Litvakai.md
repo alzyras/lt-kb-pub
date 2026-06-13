@@ -43,7 +43,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 <a id="claim-t-45105"></a>
 - t-003
   global_id: t-45105
-  teiginys: '1967 m. litvakų palikuonis Christiaanas Barnardas Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
+  teiginys: 'Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   pagrindžia:
     - c-004
 
@@ -57,14 +57,14 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 <a id="claim-t-45107"></a>
 - t-005
   global_id: t-45107
-  teiginys: '1967 m. Pietų Afrikos Respublikoje pirmąją žmogaus širdies persodinimo operaciją atliko litvakų palikuonis Christiaanas Barnardas.'
+  teiginys: 'Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją žmogaus širdies persodinimo operaciją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183170"></a>
 - t-006
   global_id: t-183170
-  teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
+  teiginys: 'Vilniaus Gaono autoritetui priskiriama įtaka litvakų reputacijai kaip griežtos religinės tradicijos ir pagarbaus požiūrio į mokslą žydų.'
   pagrindžia:
     - c-005
 
@@ -105,6 +105,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - t-001
 
 - c-003
+  santrauka: 'Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją žmogaus širdies persodinimo operaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos čem-
@@ -124,7 +125,7 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - t-005
 
 - c-004
-  santrauka: '1967 m. litvakų palikuonis Christiaanas Barnardas Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
+  santrauka: 'Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
@@ -191,6 +192,6 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 - [[objektai/asmenys/Bernardas Berensonas]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
 - [[objektai/asmenys/Vytautas Sirvydis]]
+- [[objektai/zodynas/Lite litvakai]]

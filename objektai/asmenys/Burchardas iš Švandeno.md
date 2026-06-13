@@ -29,14 +29,14 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
 <a id="claim-t-60098"></a>
 - t-001
   global_id: t-60098
-  teiginys: 'Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą, kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o.'
+  teiginys: 'Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60099"></a>
 - t-002
   global_id: t-60099
-  teiginys: 'Dusburgietis teigia, kad apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras.'
+  teiginys: 'Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną.'
   pagrindžia:
     - c-001
 
@@ -91,4 +91,6 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/didysis magistras]]

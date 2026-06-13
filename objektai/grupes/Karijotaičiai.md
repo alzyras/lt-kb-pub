@@ -31,7 +31,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 <a id="claim-t-171341"></a>
 - t-001
   global_id: t-171341
-  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
+  teiginys: '„Pasakojime apie Podolę“ teigiama, kad Algirdui leidus trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
   pagrindžia:
     - c-004
 
@@ -52,7 +52,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 <a id="claim-t-171344"></a>
 - t-004
   global_id: t-171344
-  teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
+  teiginys: 'Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai.'
   pagrindžia:
     - c-002
 
@@ -80,6 +80,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - t-005
 
 - c-002
+  santrauka: 'Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Istorinė tradicija (jai atstovauja
@@ -126,6 +127,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - t-003
 
 - c-004
+  santrauka: '„Pasakojime apie Podolę“ teigiama, kad Algirdui leidus trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Neišlaikę spaudimo totoriai bėgo“ žuvo
@@ -208,4 +210,5 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - [[objektai/zodynas/luomas]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Borisas Karijotaitis]]
 - [[objektai/autoriai/St. Krakowski]]

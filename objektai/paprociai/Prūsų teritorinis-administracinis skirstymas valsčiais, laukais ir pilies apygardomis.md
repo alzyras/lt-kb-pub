@@ -56,14 +56,14 @@ Nenurodyta
 <a id="claim-t-59731"></a>
 - t-003
   global_id: t-59731
-  teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
+  teiginys: 'Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59732"></a>
 - t-004
   global_id: t-59732
-  teiginys: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p..'
+  teiginys: 'Prūsų valsčių sudarė pilis ir didelis laukų, pievų bei miškelių plotas su bajorų kaimais ir žemdirbių sodžiais.'
   pagrindžia:
     - c-002
 
@@ -89,6 +89,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Prūsų valsčių sudarė pilis ir didelis laukų, pievų bei miškelių plotas su bajorų kaimais ir žemdirbių sodžiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
@@ -102,6 +103,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.

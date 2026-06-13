@@ -21,13 +21,14 @@ Nutarta užimti gynybines pozicijas.
 <a id="claim-t-80631"></a>
 - t-001
   global_id: t-80631
-  teiginys: 'Nutarta užimti gynybines pozicijas.'
+  teiginys: 'Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkų puolimas
@@ -54,3 +55,4 @@ Nutarta užimti gynybines pozicijas.
 ### Susiję objektai
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/rezervas]]

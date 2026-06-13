@@ -37,14 +37,14 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 <a id="claim-t-45609"></a>
 - t-002
   global_id: t-45609
-  teiginys: 'Vytautas paskyrė Grigorijų Camblaką į LDK stačiatikių metropoliją.'
+  teiginys: 'Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-45610"></a>
 - t-003
   global_id: t-45610
-  teiginys: 'Vytautas Naugarduke sušaukė LDK stačiatikių vyskupų suvažiavimą, įkūrė metropoliją ir į ją paskyrė Grigorijų Camblaką.'
+  teiginys: '1415 m. Naugarduke Vytautas sušaukė LDK stačiatikių vyskupų suvažiavimą, įkūrė metropoliją ir paskyrė Grigorijų Camblaką.'
   pagrindžia:
     - c-001
 

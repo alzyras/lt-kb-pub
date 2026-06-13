@@ -27,7 +27,7 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 <a id="claim-t-40509"></a>
 - t-001
   global_id: t-40509
-  teiginys: '1919 m. liepos 26 d. plk. Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.'
+  teiginys: '1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
     - t-002
 
 - c-002
+  santrauka: '1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bermonto ėmė

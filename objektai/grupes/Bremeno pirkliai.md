@@ -33,7 +33,7 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 <a id="claim-t-55060"></a>
 - t-001
   global_id: t-55060
-  teiginys: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė vokiečių prekybinius ryšius su pamariu.'
+  teiginys: 'Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu.'
   pagrindžia:
     - c-001
 

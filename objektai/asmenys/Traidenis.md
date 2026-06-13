@@ -75,14 +75,14 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 <a id="claim-t-90046"></a>
 - t-007
   global_id: t-90046
-  teiginys: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
+  teiginys: 'Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-90047"></a>
 - t-008
   global_id: t-90047
-  teiginys: 'I1L Kunigaikštis Traidenis, kunigaikščio Dovydo Dovydavičiaus sūnus.'
+  teiginys: 'Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus.'
   pagrindžia:
     - c-006
 
@@ -96,7 +96,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 <a id="claim-t-90050"></a>
 - t-010
   global_id: t-90050
-  teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  teiginys: 'Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę.'
   pagrindžia:
     - c-010
 
@@ -110,14 +110,14 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 <a id="claim-t-90052"></a>
 - t-012
   global_id: t-90052
-  teiginys: 'Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab.'
+  teiginys: '1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-90055"></a>
 - t-013
   global_id: t-90055
-  teiginys: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
+  teiginys: '1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.'
   pagrindžia:
     - c-011
 
@@ -216,6 +216,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-004
 
 - c-005
+  santrauka: '1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pats Traidenis, pietuose atrėmęs priešo
@@ -232,6 +233,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-012
 
 - c-006
+  santrauka: 'Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I1L Kunigaikštis Traidenis, kunigaikščio
@@ -244,6 +246,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-008
 
 - c-007
+  santrauka: 'Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
@@ -307,6 +310,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     - t-010
 
 - c-011
+  santrauka: '1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Traidenis (1269—1282 m.), remdamas žiemgalius,

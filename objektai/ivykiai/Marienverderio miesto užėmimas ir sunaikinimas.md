@@ -38,13 +38,14 @@ Nenurodyta
 <a id="claim-t-59563"></a>
 - t-001
   global_id: t-59563
-  teiginys: 'Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].'
+  teiginys: 'Antrosios atskalūnybės metais prūsai užėmė Marienverderio miestą, dalį gyventojų paėmė į nelaisvę, dalį išžudė, o miestą sugriovė ir sudegino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antrosios atskalūnybės metais prūsai užėmė Marienverderio miestą, dalį gyventojų paėmė į nelaisvę, dalį išžudė, o miestą sugriovė ir sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus

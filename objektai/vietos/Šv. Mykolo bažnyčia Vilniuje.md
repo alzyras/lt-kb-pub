@@ -28,13 +28,14 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
 <a id="claim-t-86286"></a>
 - t-001
   global_id: t-86286
-  teiginys: 'Mykolo bažnyčia buvo išmūryti didieji maldos namai.'
+  teiginys: 'Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5 pasakoja, kad

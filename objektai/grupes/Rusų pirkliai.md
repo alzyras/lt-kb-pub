@@ -93,3 +93,4 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
 - [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/zodynas/svečiai Svečių namai]]
 - [[objektai/zodynas/Pilininkas]]
+- [[objektai/grupes/Vokiečių ir rusų pirkliai]]

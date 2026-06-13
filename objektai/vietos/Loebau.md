@@ -26,7 +26,7 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 <a id="claim-t-184392"></a>
 - t-002
   global_id: t-184392
-  teiginys: 'Nuo Torno Drevencos krantu iki Loebau (VII.'
+  teiginys: 'Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
     - t-001
 
 - c-002
-  santrauka: 'Nuo Torno Drevencos krantu iki Loebau (VII.'
+  santrauka: 'Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis

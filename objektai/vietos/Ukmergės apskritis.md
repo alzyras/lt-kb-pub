@@ -33,13 +33,14 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 <a id="claim-t-42223"></a>
 - t-002
   global_id: t-42223
-  teiginys: 'Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais.'
+  teiginys: 'Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-

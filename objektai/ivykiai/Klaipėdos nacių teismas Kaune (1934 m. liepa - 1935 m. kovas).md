@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75114"></a>
 - t-001
   global_id: t-75114
-  teiginys: 'Po Klaipėdos nacių teismo prezidentas Antanas Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
+  teiginys: 'Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
   pagrindžia:
     - c-002
 
@@ -79,7 +79,7 @@ Nenurodyta
     - t-003
 
 - c-002
-  santrauka: 'Po Klaipėdos nacių teismo prezidentas Antanas Smetona mirties bausmę pakeitė kalėjimu iki gyvos galvos.'
+  santrauka: 'Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,

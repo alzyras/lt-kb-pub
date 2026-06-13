@@ -27,7 +27,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 <a id="claim-t-88280"></a>
 - t-001
   global_id: t-88280
-  teiginys: 'Balinskio darbas - 1862 m. išleista Vilniaus akademijos istorija.'
+  teiginys: 'Michało Balińskio „Vilniaus akademijos istorija“ buvo išleista 1862 m.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Michało Balińskio „Vilniaus akademijos istorija“ buvo išleista 1862 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veikale chronologiškai Vilniaus miesto raida

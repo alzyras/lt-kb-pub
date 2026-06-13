@@ -30,7 +30,7 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 <a id="claim-t-177099"></a>
 - t-001
   global_id: t-177099
-  teiginys: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
+  teiginys: '1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
   pagrindžia:
     - c-002
 

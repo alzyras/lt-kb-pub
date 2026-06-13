@@ -26,13 +26,14 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
 <a id="claim-t-86601"></a>
 - t-001
   global_id: t-86601
-  teiginys: 'Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pietūs] ir duonos kepalas.'
+  teiginys: 'Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­

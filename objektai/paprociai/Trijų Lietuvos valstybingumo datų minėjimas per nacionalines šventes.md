@@ -53,14 +53,14 @@ Nenurodyta
 <a id="claim-t-78723"></a>
 - t-002
   global_id: t-78723
-  teiginys: 'Tačiau svarbiausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė buvo naikinama ir turėjo kurtis arba keltis net tris kartus.'
+  teiginys: 'Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78724"></a>
 - t-003
   global_id: t-78724
-  teiginys: 'Visus šiuos tris kartus minime per nacionalines šventes ir kalbame apie Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo.'
+  teiginys: 'Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos.'
   pagrindžia:
     - c-001
 
@@ -74,7 +74,7 @@ Nenurodyta
 <a id="claim-t-78726"></a>
 - t-005
   global_id: t-78726
-  teiginys: 'Šis minėjimas siejamas su valstybės kūrimu, atkūrimu ir atsiskyrimu nuo sovietų imperijos.'
+  teiginys: 'Trijų Lietuvos valstybingumo datų minėjimas siejamas su Mindaugo karūnavimu, valstybingumo atkūrimu ir atsiskyrimu nuo sovietų imperijos.'
   pagrindžia:
     - c-001
 
@@ -126,3 +126,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

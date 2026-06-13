@@ -29,7 +29,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 <a id="claim-t-70287"></a>
 - t-001
   global_id: t-70287
-  teiginys: 'Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
+  teiginys: 'Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, nes separatizmą laikė bajoriškos visuomenės reiškiniu.'
   pagrindžia:
     - c-001
 

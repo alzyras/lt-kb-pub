@@ -26,13 +26,14 @@ amziai:
 <a id="claim-t-80760"></a>
 - t-001
   global_id: t-80760
-  teiginys: '(SSRS pasienio kariuomenė.'
+  teiginys: '„SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„SSRS pasienio kariuomenė. 1945-1950“ buvo išleista Maskvoje 1975 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 225, „IŠ NKVD RAPORTO*, [orpanmunpie Boiicka CCCP. 1945-1950, MockBa, 1975. (SSRS

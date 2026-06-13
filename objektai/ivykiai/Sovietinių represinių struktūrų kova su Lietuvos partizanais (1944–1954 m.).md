@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-183275"></a>
 - t-003
   global_id: t-183275
-  teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
+  teiginys: 'Kovai su Lietuvos partizanais 1945 m. vasarą buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių.'
   pagrindžia:
     - c-003
 
@@ -114,7 +114,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
+  santrauka: 'Kovai su Lietuvos partizanais 1945 m. vasarą buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:

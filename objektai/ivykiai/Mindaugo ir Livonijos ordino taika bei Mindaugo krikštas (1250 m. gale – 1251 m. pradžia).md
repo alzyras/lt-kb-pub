@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-71757"></a>
 - t-002
   global_id: t-71757
-  teiginys: 'Mindaugas krikštijosi su sūnumis, žmona Morta ir didele daugybe jam pavaldžių pagonių.'
+  teiginys: 'Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų.'
   pagrindžia:
     - c-003
 
@@ -52,9 +52,9 @@ Nenurodyta
   global_id: t-71758
   teiginys: '1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą.'
   pagrindžia:
-    - c-005
-    - c-004
     - c-002
+    - c-004
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -91,6 +91,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar Min­

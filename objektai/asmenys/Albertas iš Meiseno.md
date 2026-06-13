@@ -27,14 +27,14 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 <a id="claim-t-89609"></a>
 - t-002
   global_id: t-89609
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats brolis Albertas su kitais broliais traukė prieš tikėjimo priešus, tą dieną, kai broliai bei kiti vienuoliai paprastai ima šventąją komuniją — mūsų viešpaties Jėzaus Kristaus kūną, nutolo jis šiek tiek nuo.'
+  teiginys: 'Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-89610"></a>
 - t-003
   global_id: t-89610
-  teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė, neapsakomai džiaugdamasis.'
+  teiginys: 'Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.'
   pagrindžia:
     - c-003
 
@@ -55,14 +55,14 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 <a id="claim-t-89613"></a>
 - t-006
   global_id: t-89613
-  teiginys: 'Dusburgietis teigia, kad su jais kartu gyveno ir brolis Albertas iš Meiseno, šios pilies komtūras526, dievui atsidavęs vyras, pagirtinai gyvenęs per visą savo gyvenimą.'
+  teiginys: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-89614"></a>
 - t-007
   global_id: t-89614
-  teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.'
+  teiginys: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
   pagrindžia:
     - c-004
 
@@ -132,6 +132,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-003
 
 - c-004
+  santrauka: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
@@ -167,6 +168,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-008
 
 - c-006
+  santrauka: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Su jais kartu gyveno ir brolis Albertas iš Meiseno, šios

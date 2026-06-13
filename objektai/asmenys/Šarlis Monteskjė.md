@@ -27,7 +27,7 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 <a id="claim-t-183577"></a>
 - t-002
   global_id: t-183577
-  teiginys: 'Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.'
+  teiginys: 'Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką.'
   pagrindžia:
     - c-002
 
@@ -49,7 +49,7 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
     - t-001
 
 - c-002
-  santrauka: 'Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.'
+  santrauka: 'Konstitucija rėmėsi Šarlio Monteskjė valdžių padalijimo principu, aptardama valstybės politinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-

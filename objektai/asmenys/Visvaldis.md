@@ -30,7 +30,7 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 <a id="claim-t-79219"></a>
 - t-001
   global_id: t-79219
-  teiginys: 'Jersikos karalius 2 Dauguva Žiemgaliai ; Sėliai X Saulė (Šiauliai) 1236 m. Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto.'
+  teiginys: 'Visvaldis buvo nugalėtas Rygos vyskupo Alberto.'
   pagrindžia:
     - c-001
 

@@ -26,7 +26,7 @@ amziai:
 <a id="claim-t-86087"></a>
 - t-001
   global_id: t-86087
-  teiginys: 'Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes.'
+  teiginys: 'Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - Praneša man vėliau, kad įvyko griū­

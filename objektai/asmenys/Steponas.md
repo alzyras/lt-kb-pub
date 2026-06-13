@@ -23,7 +23,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 <a id="claim-t-64124"></a>
 - t-001
   global_id: t-64124
-  teiginys: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
+  teiginys: 'Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     - t-002
 
 - c-002
+  santrauka: 'Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie didingus ženklus
@@ -107,6 +108,9 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]
+- [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
+- [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/zodynas/muitas thelonea]]

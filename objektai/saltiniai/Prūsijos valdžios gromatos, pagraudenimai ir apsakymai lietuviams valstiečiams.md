@@ -26,13 +26,14 @@ Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakym
 <a id="claim-t-31897"></a>
 - t-001
   global_id: t-31897
-  teiginys: '„Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ buvo išleista 1960 m. su pratarmė.'
+  teiginys: 'Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Drauge su M. Juču jis sudarė rinkinį

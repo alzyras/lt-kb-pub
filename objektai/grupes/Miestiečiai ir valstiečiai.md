@@ -29,7 +29,7 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 <a id="claim-t-183172"></a>
 - t-002
   global_id: t-183172
-  teiginys: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
+  teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
     - t-001
 
 - c-002
-  santrauka: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
+  santrauka: 'Gegužės trečiosios konstitucija įformino miestiečių teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mies-

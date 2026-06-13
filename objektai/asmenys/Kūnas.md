@@ -123,4 +123,5 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]
+- [[objektai/ivykiai/Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.)]]
 - [[objektai/grupes/Lietuvos ponų taryba]]

@@ -27,20 +27,21 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 <a id="claim-t-58831"></a>
 - t-001
   global_id: t-58831
-  teiginys: 'Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122— 123; Łowmiański H., Początki Polski, t.'
+  teiginys: 'Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58833"></a>
 - t-002
   global_id: t-58833
-  teiginys: 'Dusburgietis teigia, kad galop rutėnai, pavargę nuo įstangų ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie bemintą.'
+  teiginys: 'Rutėnai nutraukė pilies apgulą sužinoję, kad apsiaustieji maitinasi žuvimis iš pilyje buvusio tvenkinio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rutėnai nutraukė pilies apgulą sužinoję, kad apsiaustieji maitinasi žuvimis iš pilyje buvusio tvenkinio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop
@@ -55,6 +56,7 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
     - t-002
 
 - c-002
+  santrauka: 'Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės

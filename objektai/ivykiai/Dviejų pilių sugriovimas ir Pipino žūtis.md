@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-66534"></a>
 - t-002
   global_id: t-66534
-  teiginys: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'
+  teiginys: 'Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.'
   pagrindžia:
     - c-001
 

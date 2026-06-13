@@ -34,7 +34,7 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 <a id="claim-t-183351"></a>
 - t-002
   global_id: t-183351
-  teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  teiginys: 'Atkuriant Lietuvos valstybę buvo priimtas įstatymas dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
     - t-001
 
 - c-002
-  santrauka: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  santrauka: 'Atkuriant Lietuvos valstybę buvo priimtas įstatymas dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikė-

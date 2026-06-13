@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-183225"></a>
 - t-003
   global_id: t-183225
-  teiginys: 'Dėl to atgaivinta Seimo institucija.'
+  teiginys: '1936 m. atgaivinus Seimo instituciją, kandidatus į Seimą galėjo siūlyti tik tautininkų kontroliuojamos savivaldybės.'
   pagrindžia:
     - c-003
 
@@ -96,7 +96,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Dėl to atgaivinta Seimo institucija.'
+  santrauka: '1936 m. atgaivinus Seimo instituciją, kandidatus į Seimą galėjo siūlyti tik tautininkų kontroliuojamos savivaldybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to atgaivinta Seimo institucija.

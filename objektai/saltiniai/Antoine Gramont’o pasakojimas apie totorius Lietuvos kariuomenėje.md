@@ -48,13 +48,6 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   pagrindžia:
     - c-001
 
-<a id="claim-t-183698"></a>
-- t-005
-  global_id: t-183698
-  teiginys: 'Ištrauka iš Prancūzijos grafo Antoineo Gramont’o (1663-1664 m.) pasakojimo apie totorius Lietuvos kariuomenėje.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -115,5 +108,4 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
     - t-003

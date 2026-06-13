@@ -30,7 +30,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 <a id="claim-t-88209"></a>
 - t-001
   global_id: t-88209
-  teiginys: 'Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571 (1571 metais) 666 kapoms lietuviškomis monetomis išlaidos: 91 flor., 19 grašių, 6 liet.'
+  teiginys: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis nurodytos 91 florino, 19 grašių ir 6 lietuviškų denarų išlaidos.'
   pagrindžia:
     - c-003
 
@@ -98,6 +98,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     - t-003
 
 - c-003
+  santrauka: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis nurodytos 91 florino, 19 grašių ir 6 lietuviškų denarų išlaidos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571

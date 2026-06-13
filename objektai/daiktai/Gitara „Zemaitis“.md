@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-45488"></a>
 - t-001
   global_id: t-45488
-  teiginys: 'Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
+  teiginys: 'Tony Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-002
 
@@ -99,6 +99,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Tony Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-

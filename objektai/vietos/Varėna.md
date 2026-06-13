@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-172033"></a>
 - t-001
   global_id: t-172033
-  teiginys: 'Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus.'
+  teiginys: 'Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ amziai:
 <a id="claim-t-172038"></a>
 - t-004
   global_id: t-172038
-  teiginys: 'Rugsėjo 24 d. „Gediminas“ grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms, nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.'
+  teiginys: 'Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
   pagrindžia:
     - c-003
 
@@ -74,6 +74,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
@@ -86,6 +87,7 @@ amziai:
     - t-001
 
 - c-003
+  santrauka: 'Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su

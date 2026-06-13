@@ -28,7 +28,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 <a id="claim-t-63476"></a>
 - t-002
   global_id: t-63476
-  teiginys: 'Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
+  teiginys: 'Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   pagrindžia:
     - c-003
 
@@ -79,6 +79,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - t-003
 
 - c-003
+  santrauka: 'Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XIX a. pirmoji pusė k

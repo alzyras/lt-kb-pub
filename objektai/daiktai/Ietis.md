@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-40719"></a>
 - t-002
   global_id: t-40719
-  teiginys: 'Prie Maskvos lietuvis atrėmė ietį į miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.'
+  teiginys: 'Algirdas atrėmė savo ietį į Maskvos sieną ir sušuko, kad lietuvių ietis stovėjo prie Maskvos.'
   pagrindžia:
     - c-002
 
@@ -79,6 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Algirdas atrėmė savo ietį į Maskvos sieną ir sušuko, kad lietuvių ietis stovėjo prie Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
@@ -126,4 +127,5 @@ Nenurodyta
 - [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Liuksemburgietis]]
+- [[objektai/daiktai/Skydas]]
 - [[objektai/zodynas/stabmeldys]]

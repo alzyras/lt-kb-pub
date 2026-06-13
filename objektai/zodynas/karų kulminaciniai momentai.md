@@ -29,7 +29,7 @@ tags:
 <a id="claim-t-183714"></a>
 - t-002
   global_id: t-183714
-  teiginys: 'Šio leidinio tikslas - per karų kulminacinius momentus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
+  teiginys: 'Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Šio leidinio tikslas - per karų kulminacinius momentus (mūšius) parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
+  santrauka: 'Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kai kurių laikotarpių gan svarbūs mūšiai

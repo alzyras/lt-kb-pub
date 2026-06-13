@@ -30,7 +30,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 <a id="claim-t-78945"></a>
 - t-002
   global_id: t-78945
-  teiginys: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
+  teiginys: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   pagrindžia:
     - c-005
 
@@ -44,7 +44,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 <a id="claim-t-78947"></a>
 - t-004
   global_id: t-78947
-  teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  teiginys: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 <a id="claim-t-78953"></a>
 - t-007
   global_id: t-78953
-  teiginys: 'Dalis ATR aristokratijos reikanetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis).'
+  teiginys: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
   pagrindžia:
     - c-007
 
@@ -89,6 +89,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-005
 
 - c-002
+  santrauka: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Augusto II siekius rėmė ir dalis Švedijos kara-
@@ -147,6 +148,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-003
 
 - c-005
+  santrauka: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Todėl Augustas 11 nusprendė
@@ -180,6 +182,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-001
 
 - c-007
+  santrauka: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ATR valdovu 1697 m. buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-

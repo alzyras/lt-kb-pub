@@ -22,13 +22,14 @@ tags:
 <a id="claim-t-32380"></a>
 - t-001
   global_id: t-32380
-  teiginys: 'Žemaičiuose ribos nuo Vaišvilčių kaimo buvo pratęstos Mūšos upe, Smardonės upeliu ir Apaščios ežeru iki Pskovo valdų.'
+  teiginys: 'Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Salyno akte pirmą kartą apytikriai

@@ -26,7 +26,7 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
 <a id="claim-t-47960"></a>
 - t-002
   global_id: t-47960
-  teiginys: 'Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė prieš Smolenską.'
+  teiginys: 'Po Raciąžo taikos Vytautas, pasitelkęs Lengvenį, Švitrigailą ir Kaributą, vasarop su didele jėga traukė prieš Smolenską.'
   pagrindžia:
     - c-001
 

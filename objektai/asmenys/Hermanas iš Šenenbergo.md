@@ -31,13 +31,14 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 <a id="claim-t-60327"></a>
 - t-001
   global_id: t-60327
-  teiginys: 'Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems.'
+  teiginys: 'Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop

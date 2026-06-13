@@ -36,7 +36,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 <a id="claim-t-176237"></a>
 - t-001
   global_id: t-176237
-  teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ yra ištrauka apie Durbės mūšį.'
   pagrindžia:
     - c-005
 
@@ -57,7 +57,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 <a id="claim-t-176240"></a>
 - t-004
   global_id: t-176240
-  teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
+  teiginys: '1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.'
   pagrindžia:
     - c-004
 
@@ -71,7 +71,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 <a id="claim-t-176242"></a>
 - t-006
   global_id: t-176242
-  teiginys: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1292 m. Pukuveras pasiuntė Vytenį su kariuomene į Lenkiją.'
+  teiginys: '1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
   pagrindžia:
     - c-003
 
@@ -119,7 +119,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - t-003
 
 - c-003
-  santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1292 m. Pukuveras pasiuntė Vytenį su kariuomene į Lenkiją.'
+  santrauka: '1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     NUSIAUBTA LENKIJA
@@ -144,7 +144,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - t-006
 
 - c-004
-  santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
+  santrauka: '1311 m. Vytenis su didele kariuomene degindamas ir plėšdamas nusiaubė Sembą ir Notangą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Valdant Gediminui
@@ -170,6 +170,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - t-004
 
 - c-005
+  santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikoje“ yra ištrauka apie Durbės mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XIII a. Šilainiai,

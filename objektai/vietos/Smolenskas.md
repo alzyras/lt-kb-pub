@@ -69,13 +69,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-014
 
-<a id="claim-t-180542"></a>
-- t-006
-  global_id: t-180542
-  teiginys: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
-  pagrindžia:
-    - c-012
-
 <a id="claim-t-180543"></a>
 - t-007
   global_id: t-180543
@@ -114,7 +107,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 <a id="claim-t-180553"></a>
 - t-012
   global_id: t-180553
-  teiginys: 'Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
+  teiginys: '1615–1616 m. J. K. Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.'
   pagrindžia:
     - c-013
 
@@ -177,7 +170,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 <a id="claim-t-180563"></a>
 - t-021
   global_id: t-180563
-  teiginys: 'Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą.'
+  teiginys: '1411 m. pavasarį Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą.'
   pagrindžia:
     - c-008
 
@@ -195,13 +188,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-006
 
-<a id="claim-t-180567"></a>
-- t-024
-  global_id: t-180567
-  teiginys: '1615–1616 m. J. K. Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.'
-  pagrindžia:
-    - c-013
-
 <a id="claim-t-180568"></a>
 - t-025
   global_id: t-180568
@@ -212,16 +198,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 <a id="claim-t-180569"></a>
 - t-026
   global_id: t-180569
-  teiginys: '1411 metų pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė paklusnumą.'
+  teiginys: '1411 m. pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.'
   pagrindžia:
     - c-008
-
-<a id="claim-t-180571"></a>
-- t-028
-  global_id: t-180571
-  teiginys: 'Tiesa, Lietuva jau kartu su Lenkija po Liublino unijos Livonijos karą laimi ir atsiima Polocką, o dar vėliau pavyks atsiimti ir Smolenską, ir net užimti Maskvą.'
-  pagrindžia:
-    - c-011
 
 <a id="claim-t-180572"></a>
 - t-029
@@ -261,14 +240,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 <a id="claim-t-180577"></a>
 - t-034
   global_id: t-180577
-  teiginys: 'Kai kurie Lietuvos miestai tuo laiku buvo valdomi Smolensko kunigaikščių.'
+  teiginys: 'Kai kurie Lietuvos miestai tuo metu buvo valdomi Smolensko kunigaikščių.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-180578"></a>
 - t-035
   global_id: t-180578
-  teiginys: 'Vytautas greit užvaldė Smolenską (1404.VI.27) ir jame vėl paskyrė savo vietininką^48.'
+  teiginys: 'Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką.'
   pagrindžia:
     - c-003
 
@@ -369,6 +348,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-030
 
 - c-003
+  santrauka: 'Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas greit užvaldė Smolenską

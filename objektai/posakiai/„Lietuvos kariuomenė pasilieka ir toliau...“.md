@@ -19,13 +19,14 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
 <a id="claim-t-77850"></a>
 - t-001
   global_id: t-77850
-  teiginys: 'Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą ir esminių permainų neįvyko.'
+  teiginys: 'Skelbta, kad sovietų kariuomenės įžengimas turėjo tik sustiprinti Lietuvos saugumą, o Lietuvos kariuomenė pasilieka ir toliau.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skelbta, kad sovietų kariuomenės įžengimas turėjo tik sustiprinti Lietuvos saugumą, o Lietuvos kariuomenė pasilieka ir toliau.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Skelbta, kad
@@ -41,3 +42,7 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]

@@ -38,20 +38,21 @@ Nenurodyta
 <a id="claim-t-62927"></a>
 - t-001
   global_id: t-62927
-  teiginys: 'Dusburgietis teigia, kad kai jam dėl šito buvo prikaišiojama, jis atsakė: nei popiežiaus, nei imperatoriaus, nei kito kurio žmogaus nepaisydamas, jis nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su manimi gyventi taikiai“.'
+  teiginys: 'Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62928"></a>
 - t-002
   global_id: t-62928
-  teiginys: 'Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.'
+  teiginys: 'Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai jam dėl šito buvo prikaišiojama, jis
@@ -69,6 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
@@ -88,5 +90,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

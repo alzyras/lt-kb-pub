@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-86290"></a>
 - t-001
   global_id: t-86290
-  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai skyrė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
+  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ amziai:
     - t-002
 
 - c-002
-  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai skyrė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
+  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus

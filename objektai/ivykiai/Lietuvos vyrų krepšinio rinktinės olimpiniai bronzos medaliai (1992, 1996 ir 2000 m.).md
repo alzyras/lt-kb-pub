@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-75210"></a>
 - t-001
   global_id: t-75210
-  teiginys: 'Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
+  teiginys: 'Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
   pagrindžia:
     - c-001
 

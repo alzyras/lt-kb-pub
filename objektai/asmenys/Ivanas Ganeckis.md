@@ -36,7 +36,7 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
 <a id="claim-t-40146"></a>
 - t-002
   global_id: t-40146
-  teiginys: 'V. Nazimovas įsakė Ivanui Ganeckiui žygiuoti į Ukmergės apskritį Anykščių kryptimi ir sunaikinti ten susibūrusius sukilėlius.'
+  teiginys: 'V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
     - t-001
 
 - c-002
+  santrauka: 'V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Daugelis sukilėlių turėjo tik senus

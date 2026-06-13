@@ -31,7 +31,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 <a id="claim-t-182787"></a>
 - t-001
   global_id: t-182787
-  teiginys: 'Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis).'
+  teiginys: 'M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“.'
   pagrindžia:
     - c-010
 
@@ -52,7 +52,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 <a id="claim-t-182790"></a>
 - t-004
   global_id: t-182790
-  teiginys: 'Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus.'
+  teiginys: 'M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.'
   pagrindžia:
     - c-011
 
@@ -66,7 +66,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 <a id="claim-t-182792"></a>
 - t-006
   global_id: t-182792
-  teiginys: 'Balinskio Vilniaus miesto istorijos dalis.'
+  teiginys: 'Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.'
   pagrindžia:
     - c-002
 
@@ -137,6 +137,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-005
 
 - c-002
+  santrauka: 'Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
@@ -359,6 +360,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-010
 
 - c-010
+  santrauka: 'M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
@@ -376,6 +378,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-001
 
 - c-011
+  santrauka: 'M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gimęs Lenkijos-Lie­

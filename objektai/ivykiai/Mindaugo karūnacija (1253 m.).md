@@ -52,7 +52,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 <a id="claim-t-13489"></a>
 - t-001
   global_id: t-13489
-  teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir Mortai krikštą, o sau - karaliaus karūną.'
+  teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   pagrindžia:
     - c-001
 
@@ -101,6 +101,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam

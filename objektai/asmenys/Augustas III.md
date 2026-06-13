@@ -43,7 +43,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 <a id="claim-t-82224"></a>
 - t-003
   global_id: t-82224
-  teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  teiginys: 'Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III.'
   pagrindžia:
     - c-004
 
@@ -121,6 +121,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-001
 
 - c-004
+  santrauka: 'Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar

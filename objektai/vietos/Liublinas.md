@@ -68,7 +68,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 <a id="claim-t-173690"></a>
 - t-006
   global_id: t-173690
-  teiginys: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
+  teiginys: 'Karalius iš Liublino seimo atvyko į Vilnių ir ėmėsi reikalų su totoriais.'
   pagrindžia:
     - c-012
 
@@ -89,7 +89,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 <a id="claim-t-173694"></a>
 - t-009
   global_id: t-173694
-  teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   pagrindžia:
     - c-003
 
@@ -106,13 +106,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
   pagrindžia:
     - c-005
-
-<a id="claim-t-173697"></a>
-- t-012
-  global_id: t-173697
-  teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-173698"></a>
 - t-013

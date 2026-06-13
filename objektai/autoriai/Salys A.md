@@ -29,13 +29,14 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 <a id="claim-t-64846"></a>
 - t-002
   global_id: t-64846
-  teiginys: 'Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg.'
+  teiginys: 'A. Salys Ragainės vardo kilmę siejo su Lietuva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Salys Ragainės vardo kilmę siejo su Lietuva.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,

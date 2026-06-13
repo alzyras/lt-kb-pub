@@ -22,7 +22,7 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
 <a id="claim-t-19690"></a>
 - t-001
   global_id: t-19690
-  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinistų tikėjimą.'
+  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinizmą.'
   pagrindžia:
     - c-001
 

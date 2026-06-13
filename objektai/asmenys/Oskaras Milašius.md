@@ -19,7 +19,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 <a id="claim-t-64019"></a>
 - t-001
   global_id: t-64019
-  teiginys: 'O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.'
+  teiginys: 'Poetas Oskaras Milašius tapo žinomas beveik kiekvienam prancūzui.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Poetas Oskaras Milašius tapo žinomas beveik kiekvienam prancūzui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
@@ -84,7 +85,6 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Arvydas Sabonis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
 - [[objektai/asmenys/Senda Berenson-Abbot]]

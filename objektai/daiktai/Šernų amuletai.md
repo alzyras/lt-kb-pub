@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-47838"></a>
 - t-001
   global_id: t-47838
-  teiginys: 'Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie renką gintarą, kurį vadiną « glesum ».'
+  teiginys: 'Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.'
   pagrindžia:
     - c-001
 
@@ -90,3 +90,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Svebai]]
 - [[objektai/zodynas/glesum]]
+- [[objektai/daiktai/Gintaras]]

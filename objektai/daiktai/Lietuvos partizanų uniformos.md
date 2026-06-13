@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-80689"></a>
 - t-001
   global_id: t-80689
-  teiginys: 'Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuolai, visi gražūs, visi vilkėjo lietuviškas uniformas.'
+  teiginys: 'Trylika bunkeryje buvusių vyrų vilkėjo lietuviškas uniformas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trylika bunkeryje buvusių vyrų vilkėjo lietuviškas uniformas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bunkeryje buvo visi tie trylika vyrų - visi aukšti kaip ąžuo-

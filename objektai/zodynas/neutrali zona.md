@@ -25,13 +25,14 @@ amziai:
 <a id="claim-t-42482"></a>
 - t-001
   global_id: t-42482
-  teiginys: '1923 m. prie sienos buvo nustatyta 6 km pločio neutrali zona, o abi pusės turėjo pasitraukti po 3 km.'
+  teiginys: 'Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     . m. 0)

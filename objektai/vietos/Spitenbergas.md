@@ -21,7 +21,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
 <a id="claim-t-58642"></a>
 - t-001
   global_id: t-58642
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo palikta Spitenbergo pilis Pamedės žemėje buvo pilis, vardu Spitenbergas431, kurioje gyveno broliai.'
+  teiginys: 'Pamedės žemėje buvusią Spitenbergo pilį broliai sudegino ir paliko per antrąją atskalūnybę.'
   pagrindžia:
     - c-002
 

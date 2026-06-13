@@ -34,7 +34,7 @@ Nenurodyta
 <a id="claim-t-06866"></a>
 - t-001
   global_id: t-06866
-  teiginys: 'XX a. pradžioje pagarba žalčiams kai kur dar buvo išlikusi, o miškų ir pamiškių senose trobose neseniai tebebuvo laikomi žalčiai.'
+  teiginys: 'Kai kur pagarba žalčiams tebebuvo išlikusi, o miškų ir pamiškių senose trobose dar neseniai buvo laikomi žalčiai.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kai kur pagarba žalčiams tebebuvo išlikusi, o miškų ir pamiškių senose trobose dar neseniai buvo laikomi žalčiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į paskirtą guolį jie

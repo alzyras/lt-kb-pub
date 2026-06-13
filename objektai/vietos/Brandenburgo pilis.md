@@ -27,14 +27,14 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 <a id="claim-t-67728"></a>
 - t-001
   global_id: t-67728
-  teiginys: '1322 m. Brandenburgo pilyje gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris ketverių metų mirė ir atgijo.'
+  teiginys: 'Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1322 m. Brandenburgo pilyje gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris ketverių metų mirė ir atgijo.'
+  santrauka: 'Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­

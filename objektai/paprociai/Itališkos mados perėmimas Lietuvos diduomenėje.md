@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-77946"></a>
 - t-001
   global_id: t-77946
-  teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
+  teiginys: 'Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Renesansas ir reformacija
@@ -84,3 +85,5 @@ Nenurodyta
 - [[objektai/grupes/Romėnai]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Bona]]
+- [[objektai/asmenys/Bona Sforca]]

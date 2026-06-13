@@ -20,39 +20,14 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 <a id="claim-t-70155"></a>
 - t-001
   global_id: t-70155
-  teiginys: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-70156"></a>
-- t-002
-  global_id: t-70156
-  teiginys: 'Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.'
+  teiginys: 'Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nemažai jaunimo
-    mokėsi Maskvos, Leningrado ir kitose SSRS aukštosiose mokyklose.
-    Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų
-    literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę. Pra-
-    sidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tary-
-    binę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę
-    bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido
-    suprasti, kad einama unifikuotos ideologiškai ir rusiškai kalbančios so-
-    vietinės nacijos formavimo intensyvinimo keliu, kad ateityje lietuvių ir
-    kitos kalbos išnyks.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos
@@ -69,8 +44,8 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'
+- c-002
+  santrauka: 'Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinėje sistemoje egzistavę hipių ar
@@ -86,17 +61,11 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]
 - [[objektai/grupes/Raudonoji armija]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/rusinimas dvikalbystė]]
-- [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]

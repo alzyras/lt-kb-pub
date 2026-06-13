@@ -29,13 +29,14 @@ periodo_grupes:
 <a id="claim-t-34819"></a>
 - t-001
   global_id: t-34819
-  teiginys: '1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas.'
+  teiginys: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1392 m. Ringailę vedė Ritesverderyje

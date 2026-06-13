@@ -217,5 +217,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
 - [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Goštautai]]
+- [[objektai/autoriai/Jacobas Schrenckas]]
 - [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

@@ -25,13 +25,14 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 <a id="claim-t-58887"></a>
 - t-001
   global_id: t-58887
-  teiginys: 'Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino; nukovę 38 žmones.'
+  teiginys: '1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų užpuolė Dovydo Gardiniškio alodą, arba dvarą, ir jį sudegino.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų užpuolė Dovydo Gardiniškio alodą, arba dvarą, ir jį sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
@@ -53,4 +54,5 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

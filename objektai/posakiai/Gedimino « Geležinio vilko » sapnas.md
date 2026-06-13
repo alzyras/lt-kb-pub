@@ -28,7 +28,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-97290"></a>
 - t-001
   global_id: t-97290
-  teiginys: 'Geležinio vilko legenda, be abejo, primena Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę iš romėnų.'
+  teiginys: 'Zenonas Ivinskis Geležinio vilko legendą siejo su Romos vilke ir lietuvių kilmės iš romėnų samprata.'
   pagrindžia:
     - c-003
 
@@ -86,6 +86,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-002
 
 - c-003
+  santrauka: 'Zenonas Ivinskis Geležinio vilko legendą siejo su Romos vilke ir lietuvių kilmės iš romėnų samprata.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Valdovo sapne gir­
@@ -110,3 +111,5 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/grupes/Romėnai]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]

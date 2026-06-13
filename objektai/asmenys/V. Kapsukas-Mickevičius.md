@@ -19,13 +19,14 @@ Kapsukas-Mickevičius.
 <a id="claim-t-40487"></a>
 - t-001
   global_id: t-40487
-  teiginys: 'V. Kapsukas-Mickevičius buvo įvardytas kaip Lietuvos bolševikų lyderis.'
+  teiginys: 'V. Kapsukas-Mickevičius buvo Lietuvos bolševikų lyderis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Kapsukas-Mickevičius buvo Lietuvos bolševikų lyderis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     rusų bei lietuvių kalbomis, pasveikino ir

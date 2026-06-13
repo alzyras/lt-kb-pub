@@ -51,14 +51,14 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 <a id="claim-t-55077"></a>
 - t-001
   global_id: t-55077
-  teiginys: 'Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.'
+  teiginys: 'Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-55078"></a>
 - t-002
   global_id: t-55078
-  teiginys: 'Miestiečių luomas susikūrė iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.'
+  teiginys: 'Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.'
   pagrindžia:
     - c-001
 
@@ -100,7 +100,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 <a id="claim-t-55084"></a>
 - t-008
   global_id: t-55084
-  teiginys: 'Sostinės miestiečių luomui priklausė narystė suvažiavimuose arba Lietuvos seimuose.'
+  teiginys: 'Sostinės miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   pagrindžia:
     - c-006
 
@@ -116,7 +116,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55086
   teiginys: 'Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.'
   pagrindžia:
-    - c-025
+    - c-024
 
 <a id="claim-t-55087"></a>
 - t-011
@@ -142,7 +142,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 <a id="claim-t-55090"></a>
 - t-014
   global_id: t-55090
-  teiginys: '1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir paliko bylinėjimąsi pagal Magdeburgo teisę.'
+  teiginys: '1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.'
   pagrindžia:
     - c-009
 
@@ -151,47 +151,47 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172824
   teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   pagrindžia:
-    - c-020
+    - c-019
 
 <a id="claim-t-172825"></a>
 - t-016
   global_id: t-172825
   teiginys: 'Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.'
   pagrindžia:
-    - c-025
+    - c-024
 
 <a id="claim-t-172826"></a>
 - t-017
   global_id: t-172826
   teiginys: 'Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją.'
   pagrindžia:
-    - c-021
+    - c-020
 
 <a id="claim-t-172827"></a>
 - t-018
   global_id: t-172827
   teiginys: 'Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   pagrindžia:
-    - c-019
+    - c-018
 
 <a id="claim-t-172828"></a>
 - t-019
   global_id: t-172828
   teiginys: 'Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo.'
   pagrindžia:
-    - c-028
+    - c-027
 
 <a id="claim-t-172830"></a>
 - t-020
   global_id: t-172830
-  teiginys: '1569 m. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
+  teiginys: '1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
   pagrindžia:
-    - c-022
+    - c-021
 
 <a id="claim-t-172831"></a>
 - t-021
   global_id: t-172831
-  teiginys: 'Minėti įstatymai laikyti aukščiausia teisių veikimo riba, kurią Vilniaus miestiečių luomas pasiekė Lietuvoje.'
+  teiginys: 'Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.'
   pagrindžia:
     - c-009
 
@@ -200,7 +200,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172832
   teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.'
   pagrindžia:
-    - c-023
+    - c-022
 
 <a id="claim-t-172833"></a>
 - t-023
@@ -228,7 +228,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172836
   teiginys: 'Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.'
   pagrindžia:
-    - c-024
+    - c-023
 
 <a id="claim-t-172837"></a>
 - t-027
@@ -249,7 +249,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172840
   teiginys: 'Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.'
   pagrindžia:
-    - c-026
+    - c-025
 
 <a id="claim-t-172841"></a>
 - t-030
@@ -261,40 +261,33 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 <a id="claim-t-172842"></a>
 - t-031
   global_id: t-172842
-  teiginys: 'Nesunku numanyti, koks buvo Vilniaus, kaip miesto, pradinis kūrimasis.'
+  teiginys: 'Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.'
   pagrindžia:
     - c-012
 
-<a id="claim-t-172843"></a>
-- t-032
-  global_id: t-172843
-  teiginys: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
-  pagrindžia:
-    - c-018
-
 <a id="claim-t-172844"></a>
-- t-033
+- t-032
   global_id: t-172844
   teiginys: 'Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-172845"></a>
-- t-034
+- t-033
   global_id: t-172845
   teiginys: 'Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse.'
   pagrindžia:
-    - c-027
+    - c-026
 
 <a id="claim-t-172846"></a>
-- t-035
+- t-034
   global_id: t-172846
   teiginys: '1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.'
   pagrindžia:
-    - c-029
+    - c-028
 
 <a id="claim-t-172847"></a>
-- t-036
+- t-035
   global_id: t-172847
   teiginys: 'Magdeburgo teisės Vilniaus miestiečiams buvo menkai paveikios dėl karų, baimės ir karinės valdžios kišimosi į miesto valdymą.'
   pagrindžia:
@@ -405,9 +398,10 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   statusas: verified
   pagrindžia:
     - t-007
-    - t-036
+    - t-035
 
 - c-006
+  santrauka: 'Sostinės miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -536,6 +530,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-023
 
 - c-012
+  santrauka: 'Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
@@ -653,7 +648,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-032
 
 - c-017
   santrauka: 'Nuolatiniai karai ir mokesčiai nuskurdino Vilniaus miestiečius, todėl jie nebegalėjo prekiauti su svetimšaliais.'
@@ -677,28 +672,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-030
 
 - c-018
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Valakijos kunigaikščiai jo globos sie­
-    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
-    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
-    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
-    Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
-    jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
-    karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
-    su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
-    75
-    Žr. Stryjkowski, p. 518, ed. ac Vitoldum Ducem Lithuaniae, Duces-
-    Varšuv. que Masoviae ab um, et Paulum deRus-
-    76 dorf, Magistrum Cruciferorum et suum
-    Kojałowicz,Pars.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-032
-
-- c-019
   santrauka: 'Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -727,7 +700,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-018
 
-- c-020
+- c-019
   santrauka: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -749,7 +722,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-015
 
-- c-021
+- c-020
   santrauka: 'Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -773,8 +746,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-017
 
-- c-022
-  santrauka: '1569 m. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
+- c-021
+  santrauka: '1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš kur jis atsiradęs, tai gal vėliau
@@ -806,7 +779,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-020
 
-- c-023
+- c-022
   santrauka: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -835,7 +808,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-022
 
-- c-024
+- c-023
   santrauka: 'Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -862,7 +835,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-026
 
-- c-025
+- c-024
   santrauka: 'Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -885,7 +858,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-016
     - t-010
 
-- c-026
+- c-025
   santrauka: 'Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -903,7 +876,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-029
 
-- c-027
+- c-026
   santrauka: 'Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -924,9 +897,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-033
 
-- c-028
+- c-027
   santrauka: 'Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -952,7 +925,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-019
 
-- c-029
+- c-028
   santrauka: '1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -977,7 +950,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-034
 
 ## Ryšiai
 ### Susiję objektai
@@ -1027,13 +1000,13 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
-- [[objektai/grupes/Čekai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/zodynas/Pilininkas]]
@@ -1046,6 +1019,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/zodynas/Szosowe]]
 - [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
@@ -1063,7 +1037,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]
 - [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]
-- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
 - [[objektai/grupes/Vokiečių ir rusų pirkliai]]
 - [[objektai/zodynas/pastočių davimas]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

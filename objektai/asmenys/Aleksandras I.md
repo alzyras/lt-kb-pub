@@ -53,7 +53,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 <a id="claim-t-183518"></a>
 - t-005
   global_id: t-183518
-  teiginys: 'Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio, tačiau Aleksandras I nesutiko.'
+  teiginys: 'Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.'
   pagrindžia:
     - c-003
 
@@ -99,7 +99,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - t-001
 
 - c-003
-  santrauka: 'Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio, tačiau Aleksandras I nesutiko.'
+  santrauka: 'Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienos kongreso nu-

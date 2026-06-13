@@ -81,4 +81,3 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lenkų krikščionys demokratai]]
 - [[objektai/grupes/Lietuvos demokratų partija]]
-- [[objektai/ivykiai/Lietuvos demokratų partijos susikūrimas]]

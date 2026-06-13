@@ -39,7 +39,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 <a id="claim-t-56719"></a>
 - t-003
   global_id: t-56719
-  teiginys: 'Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos ir Alnos (kair.'
+  teiginys: 'A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.'
   pagrindžia:
     - c-002
 

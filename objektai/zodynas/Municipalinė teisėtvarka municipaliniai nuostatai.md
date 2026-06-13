@@ -35,14 +35,14 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 <a id="claim-t-86564"></a>
 - t-002
   global_id: t-86564
-  teiginys: 'Municipaliniai liudijimai miestams dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
+  teiginys: 'Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Municipaliniai liudijimai miestams dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
+  santrauka: 'Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­

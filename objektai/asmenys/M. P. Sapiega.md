@@ -27,7 +27,7 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 <a id="claim-t-40317"></a>
 - t-002
   global_id: t-40317
-  teiginys: 'Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu su visa likusia kariuomene respublikonams.'
+  teiginys: 'LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
     - t-001
 
 - c-002
+  santrauka: 'LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kartu su juo pasitraukė

@@ -19,13 +19,14 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
 <a id="claim-t-87805"></a>
 - t-001
   global_id: t-87805
-  teiginys: 'Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas vaistininkas, buvo kartu ir puikus gydytojas.'
+  teiginys: 'Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­

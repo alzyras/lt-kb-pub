@@ -22,13 +22,14 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 <a id="claim-t-18754"></a>
 - t-001
   global_id: t-18754
-  teiginys: 'Adalbertas 997 m. vykdė misiją Prūsijoje.'
+  teiginys: 'Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo

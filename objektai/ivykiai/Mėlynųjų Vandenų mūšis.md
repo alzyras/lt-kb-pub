@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-77904"></a>
 - t-001
   global_id: t-77904
-  teiginys: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija –.'
+  teiginys: 'Algirdas greičiausiai prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. arba 1363 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas greičiausiai prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. arba 1363 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Algirdo didvalstybė

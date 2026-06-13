@@ -27,7 +27,7 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 <a id="claim-t-83302"></a>
 - t-001
   global_id: t-83302
-  teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet nusidriekė iki Dniepro ir Dniestro žiočių ir priklausė Lietuvai.'
+  teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kijevo kunigaikštystė ir Podolė anuomet nusidriekė iki Dniepro ir Dniestro žiočių ir priklausė Lietuvai.'
+  santrauka: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     27.

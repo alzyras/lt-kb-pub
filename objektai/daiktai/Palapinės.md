@@ -43,13 +43,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-92990"></a>
-- t-002
-  global_id: t-92990
-  teiginys: 'Imta statyti palapinės ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms pasilsėti ir susitvarkyti.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +57,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

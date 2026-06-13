@@ -27,7 +27,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 <a id="claim-t-183453"></a>
 - t-002
   global_id: t-183453
-  teiginys: 'Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės.'
+  teiginys: 'Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių.'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
     - t-001
 
 - c-002
-  santrauka: 'Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės.'
+  santrauka: 'Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitiems tebemaga iki šiol.

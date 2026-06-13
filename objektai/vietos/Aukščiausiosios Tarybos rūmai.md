@@ -30,7 +30,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 <a id="claim-t-49629"></a>
 - t-002
   global_id: t-49629
-  teiginys: 'Ant rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
+  teiginys: 'Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
   pagrindžia:
     - c-003
 
@@ -40,13 +40,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginys: 'Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-49631"></a>
-- t-004
-  global_id: t-49631
-  teiginys: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
-  pagrindžia:
-    - c-005
 
 <a id="claim-t-49632"></a>
 - t-005
@@ -90,6 +83,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     - t-005
 
 - c-003
+  santrauka: 'Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos

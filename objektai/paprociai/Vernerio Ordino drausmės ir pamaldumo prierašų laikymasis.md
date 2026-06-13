@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-175143"></a>
 - t-002
   global_id: t-175143
-  teiginys: 'Dusburgietis teigia, kad vernerio prierašuose pabrėžiama, jog jie skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.'
+  teiginys: 'Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.'
   pagrindžia:
     - c-001
     - c-002
@@ -82,6 +82,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta

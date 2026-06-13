@@ -54,6 +54,7 @@ tags:
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Balys Sruoga]]
+- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
 - [[objektai/asmenys/Vincas Mykolaitis-Putinas]]

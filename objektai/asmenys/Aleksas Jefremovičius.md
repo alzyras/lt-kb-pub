@@ -61,5 +61,5 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Pskovo respublika]]
+- [[objektai/zodynas/vietininkas]]

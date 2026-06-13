@@ -20,13 +20,14 @@ Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo p
 <a id="claim-t-60273"></a>
 - t-001
   global_id: t-60273
-  teiginys: 'Dusburgietis teigia, kad apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje Tuo metu mūsų minėtoje Kristburgo pilyje gyveno brolis Engelkė, gimęs Vestfalijoje, nuostabaus pamaldumo ir begalinės savitvardos vyras, visa širdimi pasišventęs dievui, be kitų dorovingų darbų.'
+  teiginys: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     146 (141). Apie pagirtiną brolio Engelkės gyvenimą Kristburgo pilyje

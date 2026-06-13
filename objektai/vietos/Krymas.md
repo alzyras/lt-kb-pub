@@ -26,7 +26,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 <a id="claim-t-36338"></a>
 - t-001
   global_id: t-36338
-  teiginys: 'Vytautas savo valdžion paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  teiginys: '1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1427 mt. pradžioje jų buvo dar

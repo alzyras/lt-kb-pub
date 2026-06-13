@@ -38,7 +38,14 @@ Nenurodyta
 <a id="claim-t-62403"></a>
 - t-001
   global_id: t-62403
-  teiginys: 'Dusburgietis teigia, kad apie daugybės prūsų žūtį Neilgai trukus po to prūsų kariuomenė įsibrovė į Kulmo žemę ir ją nusiaubė, viską degindama ir plėšdama, o daugybę krikščionių išžudė.'
+  teiginys: 'Prūsų kariuomenei priėjus Kulmo miestą, ginkluoti miestiečiai mūšyje nukovė prūsų vadą ir išvadavo paimtus krikščionių belaisvius.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183948"></a>
+- t-002
+  global_id: t-183948
+  teiginys: 'Prūsų kariuomenė įsibrovė į Kulmo žemę, ją nusiaubė degindama ir plėšdama, o daug krikščionių išžudė.'
   pagrindžia:
     - c-001
 

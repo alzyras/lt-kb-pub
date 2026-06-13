@@ -42,7 +42,14 @@ Nenurodyta
 <a id="claim-t-59272"></a>
 - t-001
   global_id: t-59272
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  teiginys: '1314 m. apie vasario 2 d. maršalas brolis Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje, bet pilėnai priešinosi.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183911"></a>
+- t-002
+  global_id: t-183911
+  teiginys: 'Po nesėkmingo Sizditės pilies puolimo brolio Henriko kariuomenė patraukė į pilies apylinkes ir jas nusiaubė degindama bei plėšdama.'
   pagrindžia:
     - c-001
 
@@ -76,4 +83,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pilėnas pilėnai]]

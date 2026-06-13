@@ -4,10 +4,8 @@ pavadinimas: 'Londonas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1390 m.'
-  - '1928 m.'
   - '2026 m.'
 date_start: '1390'
 date_end: '2026'
@@ -47,13 +45,6 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginys: '1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-183617"></a>
-- t-004
-  global_id: t-183617
-  teiginys: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -106,18 +97,3 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  santrauka: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Santykiai su britais ir prancūzais pablogėjo A. Voldemarui 1928 m.
-    gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos
-    konstituciją, kuri deklaravo Vilnių Lietuvos sostine. Taip tarsi pademons-
-    truota, kad ir Londonas yra įsitraukęs į disputą dėl Vilniaus. Londonas
-    pašėlo dėl tokio svečio elgesio ir Lietuvos tarptautinė izoliacija tęsėsi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

@@ -35,7 +35,7 @@ amziai:
 <a id="claim-t-68773"></a>
 - t-002
   global_id: t-68773
-  teiginys: '13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.'
+  teiginys: '1918 m. kovo 13–14 d. Naujorke sušauktas Amerikos lietuvių seimas pareikalavo JAV pripažinti nepriklausomą Lietuvos valstybę.'
   pagrindžia:
     - c-001
 

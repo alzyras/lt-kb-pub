@@ -22,14 +22,14 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
 <a id="claim-t-87636"></a>
 - t-001
   global_id: t-87636
-  teiginys: 'Boleslovas Didysis, pramintas Narsiuoju, laikomas pirmuoju miestų įkūrėju Lenkijos žemėje.'
+  teiginys: 'Michałas Balińskis Boleslovą Didįjį, pramintą Narsiuoju, laikė pirmuoju miestų įkūrėju Lenkijos žemėje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Boleslovas Didysis, pramintas Narsiuoju, laikomas pirmuoju miestų įkūrėju Lenkijos žemėje.'
+  santrauka: 'Michałas Balińskis Boleslovą Didįjį, pramintą Narsiuoju, laikė pirmuoju miestų įkūrėju Lenkijos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik

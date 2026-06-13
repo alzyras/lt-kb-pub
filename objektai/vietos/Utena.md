@@ -32,27 +32,28 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 <a id="claim-t-172016"></a>
 - t-001
   global_id: t-172016
-  teiginys: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
+  teiginys: '1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei užimti Uteną.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-172018"></a>
 - t-002
   global_id: t-172018
-  teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
+  teiginys: 'Lietuvos išvadavimo iš bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-185169"></a>
 - t-003
   global_id: t-185169
-  teiginys: 'Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotojas.'
+  teiginys: 'Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei užimti Uteną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Telkdama į bolševikų frontą vis daugiau
@@ -70,6 +71,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     - t-001
 
 - c-002
+  santrauka: 'Lietuvos išvadavimo iš bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvo sukurtas
@@ -92,7 +94,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     - t-002
 
 - c-003
-  santrauka: 'Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotojas.'
+  santrauka: 'Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Patyręs savo bei žmonos

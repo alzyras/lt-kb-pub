@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-97106"></a>
 - t-002
   global_id: t-97106
-  teiginys: '000 kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo bent dešimtį kartų mažiau.'
+  teiginys: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip 20 žuvo.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip 20 žuvo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Už­

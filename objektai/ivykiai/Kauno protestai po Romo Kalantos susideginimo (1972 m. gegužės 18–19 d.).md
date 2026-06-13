@@ -48,27 +48,21 @@ Nenurodyta
 <a id="claim-t-75109"></a>
 - t-002
   global_id: t-75109
-  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
+  teiginys: '1972 m. gegužės 18 d. protesto eisenoje Kauno Laisvės alėjoje KGB numeriais pažymėjo eisenos lyderius.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-75110"></a>
 - t-003
   global_id: t-75110
-  teiginys: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  teiginys: 'Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-75111"></a>
-- t-004
-  global_id: t-75111
-  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     R. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams

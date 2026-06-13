@@ -49,7 +49,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 <a id="claim-t-169887"></a>
 - t-003
   global_id: t-169887
-  teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
+  teiginys: 'Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.'
   pagrindžia:
     - c-003
 
@@ -107,6 +107,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     - t-001
 
 - c-003
+  santrauka: 'Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redakcinė kolegija:

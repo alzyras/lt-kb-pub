@@ -29,13 +29,14 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 <a id="claim-t-63987"></a>
 - t-001
   global_id: t-63987
-  teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
+  teiginys: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
@@ -73,4 +74,6 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 - [[objektai/zodynas/florinas, zlotas, grašis ir denaras]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
+- [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]

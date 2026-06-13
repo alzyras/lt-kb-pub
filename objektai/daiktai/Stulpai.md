@@ -76,7 +76,6 @@ Nenurodyta
 - [[objektai/daiktai/Patranka Hidra]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/asmenys/Bendoraitis]]

@@ -27,13 +27,14 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
 <a id="claim-t-58679"></a>
 - t-001
   global_id: t-58679
-  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą Tų pačių metų rugsėjo mėnesio pradžioje Ananyje, būtent savo gimtinėje, įkalinamas popiežius Bonifacas, o visas bažnyčios turtas išnešiojamas.'
+  teiginys: 'Rugsėjo pradžioje Ananyje, popiežiaus Bonifaco gimtinėje, popiežius buvo įkalintas, o bažnyčios turtas išnešiotas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rugsėjo pradžioje Ananyje, popiežiaus Bonifaco gimtinėje, popiežius buvo įkalintas, o bažnyčios turtas išnešiotas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą

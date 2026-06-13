@@ -37,7 +37,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 <a id="claim-t-176866"></a>
 - t-002
   global_id: t-176866
-  teiginys: 'Vytauto bajorai irgi dalyvavo kovose, kaip antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims.'
+  teiginys: 'Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims kare prieš Prūsus.'
   pagrindžia:
     - c-001
 
@@ -47,13 +47,6 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginys: 'Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-176868"></a>
-- t-004
-  global_id: t-176868
-  teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-176869"></a>
 - t-005
@@ -65,6 +58,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims kare prieš Prūsus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Karas buvo paskelbtas Vy­
@@ -131,7 +125,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     - t-005
 
 - c-005
-  santrauka: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
+  santrauka: 'Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ši

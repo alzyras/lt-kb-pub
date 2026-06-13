@@ -49,5 +49,4 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Arvydas Sabonis]]
 - [[objektai/asmenys/Senda Berenson-Abbot]]

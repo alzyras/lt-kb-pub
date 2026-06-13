@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-59693"></a>
 - t-001
   global_id: t-59693
-  teiginys: 'Dusburgietis teigia, kad kunigas uoliai padarė, ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs padirbdinti.'
+  teiginys: 'Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
@@ -70,5 +71,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Ruseinis]]
 - [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]

@@ -41,7 +41,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 <a id="claim-t-179736"></a>
 - t-001
   global_id: t-179736
-  teiginys: 'Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais.'
+  teiginys: 'Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir trumpą kryžiaus žygių istoriją.'
   pagrindžia:
     - c-004
 
@@ -55,35 +55,35 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 <a id="claim-t-179739"></a>
 - t-003
   global_id: t-179739
-  teiginys: 'Dusburgietis teigia, kad paėmus Akoną, tas pats brolis Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus, kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais 154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų.'
+  teiginys: 'Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-179740"></a>
 - t-004
   global_id: t-179740
-  teiginys: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
+  teiginys: 'Dusburgiečio pasakojime 1290 m. pagonys iš pamatų sugriovė Akoną, kuris buvo likęs vienintelis Šventosios Žemės miestas.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-179741"></a>
 - t-005
   global_id: t-179741
-  teiginys: 'Seniausias pasakojimas apie Vokiečių ordino įsikūrimą greičiausiai 1204-1211 m. atsirado Akone.'
+  teiginys: 'Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą greičiausiai 1204–1211 m. atsirado Akone.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-179742"></a>
 - t-006
   global_id: t-179742
-  teiginys: 'Dusburgietis teigia, kad apie Akono miesto sugriovimą 1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart.'
+  teiginys: '1290 m. gegužės 19 d. sultonas sugriovė Akoną, paėmė į nelaisvę ir išžudė daug krikščionių.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-179743"></a>
 - t-007
   global_id: t-179743
-  teiginys: 'Paėmus Akoną, brolis Henrikas prie miesto sienų priešais šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.'
+  teiginys: 'Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.'
   pagrindžia:
     - c-005
 
@@ -104,6 +104,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą greičiausiai 1204–1211 m. atsirado Akone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
@@ -134,6 +135,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-009
 
 - c-003
+  santrauka: 'Dusburgiečio pasakojime 1290 m. pagonys iš pamatų sugriovė Akoną, kuris buvo likęs vienintelis Šventosios Žemės miestas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
@@ -196,6 +198,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - t-007
 
 - c-006
+  santrauka: '1290 m. gegužės 19 d. sultonas sugriovė Akoną, paėmė į nelaisvę ir išžudė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     77. Apie Akono miesto sugriovimą

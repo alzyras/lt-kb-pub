@@ -39,7 +39,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 <a id="claim-t-173342"></a>
 - t-002
   global_id: t-173342
-  teiginys: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą Karolį.'
+  teiginys: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     - t-001
 
 - c-002
+  santrauka: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Popiežių, regis, pergudravo, įrodydamas jam, kokie

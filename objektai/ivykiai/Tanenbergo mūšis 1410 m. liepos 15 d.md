@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-95953"></a>
 - t-003
   global_id: t-95953
-  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  teiginys: 'Prieš Tanenbergo mūšį pasiuntiniai atnešė du kardus kryžiuočių didžiojo magistro paliepimu.'
   pagrindžia:
     - c-002
 
@@ -87,6 +87,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Prieš Tanenbergo mūšį pasiuntiniai atnešė du kardus kryžiuočių didžiojo magistro paliepimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos
@@ -133,7 +134,7 @@ Nenurodyta
 - [[objektai/autoriai/Werminghoef, A]]
 - [[objektai/autoriai/Zakrzewski, W]]
 - [[objektai/autoriai/Zaskevičius, St]]
-- [[objektai/ivykiai/Žalgirio kautynės ir Tomo taika (1410-11)]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

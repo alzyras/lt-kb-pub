@@ -28,14 +28,14 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 <a id="claim-t-87578"></a>
 - t-002
   global_id: t-87578
-  teiginys: 'Bajorė Sofija Simonovna privalėjo mokėti kviečių dešimtinę iš visų Alberto Tžasibrodos žemės laukų.'
+  teiginys: 'Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bajorė Sofija Simonovna privalėjo mokėti kviečių dešimtinę iš visų Alberto Tžasibrodos žemės laukų.'
+  santrauka: 'Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be tö, ir ba­

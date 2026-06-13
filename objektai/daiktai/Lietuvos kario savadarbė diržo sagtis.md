@@ -60,14 +60,14 @@ Nenurodyta
 <a id="claim-t-78670"></a>
 - t-003
   global_id: t-78670
-  teiginys: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Vytį, uždengdami vokišką imperijos karūną ir šūkį „Got mit uns“.'
+  teiginys: 'Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78671"></a>
 - t-004
   global_id: t-78671
-  teiginys: 'Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
+  teiginys: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Lietuvos simbolį Vytį.'
   pagrindžia:
     - c-002
 
@@ -95,6 +95,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Lietuvos simbolį Vytį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
@@ -119,6 +120,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
@@ -152,6 +154,7 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Savanoris]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]

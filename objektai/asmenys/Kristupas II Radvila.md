@@ -27,14 +27,7 @@ Jo sūnus, taip pat Kristupas II († 1640 m.), buvo iš karto lauko, o vėliau 
 <a id="claim-t-49421"></a>
 - t-001
   global_id: t-49421
-  teiginys: '1633 m. žiemą į pagalbą atskubėjo tuometinis Lietuvos lauko etmonas Kristupas Radvila 11.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-49422"></a>
-- t-002
-  global_id: t-49422
-  teiginys: '1633 m. žiemą Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą fronte.'
+  teiginys: '1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.'
   pagrindžia:
     - c-001
 

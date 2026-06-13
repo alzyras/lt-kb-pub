@@ -30,13 +30,14 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 <a id="claim-t-80718"></a>
 - t-001
   global_id: t-80718
-  teiginys: 'O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėliavos penkios dešimtys nukauta.'
+  teiginys: 'Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -80,4 +81,6 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 - [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/vyskupo teisėjas]]

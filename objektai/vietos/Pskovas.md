@@ -108,7 +108,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178112"></a>
 - t-011
   global_id: t-178112
-  teiginys: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
+  teiginys: 'Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.'
   pagrindžia:
     - c-013
 
@@ -150,7 +150,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178118"></a>
 - t-017
   global_id: t-178118
-  teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
+  teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
     - c-035
 
@@ -185,7 +185,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178123"></a>
 - t-022
   global_id: t-178123
-  teiginys: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
+  teiginys: 'Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai.'
   pagrindžia:
     - c-026
 
@@ -206,7 +206,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178126"></a>
 - t-025
   global_id: t-178126
-  teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevu ir Tvere.'
   pagrindžia:
     - c-030
 
@@ -234,14 +234,14 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178130"></a>
 - t-029
   global_id: t-178130
-  teiginys: 'Senyvo amžiaus Vytautas buvo priverstas kovoti su Pskovu ir Naugardu, keršydamas už Lietuvai patirtas skriaudas.'
+  teiginys: 'Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas.'
   pagrindžia:
     - c-025
 
 <a id="claim-t-178132"></a>
 - t-031
   global_id: t-178132
-  teiginys: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d. Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo.'
+  teiginys: 'Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai.'
   pagrindžia:
     - c-011
 
@@ -297,16 +297,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178140"></a>
 - t-039
   global_id: t-178140
-  teiginys: 'Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų.'
+  teiginys: 'Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų.'
   pagrindžia:
     - c-004
-
-<a id="claim-t-178141"></a>
-- t-040
-  global_id: t-178141
-  teiginys: 'Kariaudamas su Pskovu, Vytautas pasitraukė tik gavęs 1000 rublių kontribucijos ir dar 450 rublių už belaisvius.'
-  pagrindžia:
-    - c-007
 
 <a id="claim-t-178142"></a>
 - t-041
@@ -332,7 +325,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178145"></a>
 - t-044
   global_id: t-178145
-  teiginys: 'Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero globoje, gerokai praplėtė prekybinius šio turtingo miesto santykius su Lietuvos sostinė33.'
+  teiginys: 'Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine.'
   pagrindžia:
     - c-014
 
@@ -409,7 +402,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178156"></a>
 - t-055
   global_id: t-178156
-  teiginys: 'MAŽOJI LEN r Krokuva NAUGARDAS Didysis Naugardas Pskovas Įprieš Lietuvą nukreiptą koaliciją įsijungia ir šiaurės vakarų rusėnai - Naugardo ir Pskovo žemės.'
+  teiginys: 'Į prieš Lietuvą nukreiptą koaliciją įsijungė Naugardo ir Pskovo žemės.'
   pagrindžia:
     - c-029
 
@@ -653,6 +646,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-003
 
 - c-013
+  santrauka: 'Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
@@ -920,6 +914,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-029
 
 - c-026
+  santrauka: 'Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didžiulė politinė permaina, atėjusi per Jogailą
@@ -1107,6 +1102,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-048
 
 - c-035
+  santrauka: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl suprantama,

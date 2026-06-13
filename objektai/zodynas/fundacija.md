@@ -214,4 +214,6 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/asmenys/Marcelis Suchodolskis]]
+- [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/zodynas/uolektis]]

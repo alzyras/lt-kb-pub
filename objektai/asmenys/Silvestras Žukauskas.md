@@ -32,13 +32,14 @@ periodo_grupes:
 <a id="claim-t-80722"></a>
 - t-001
   global_id: t-80722
-  teiginys: 'Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatorių tikėjimą | tapti vyresniaisiais karininkais.'
+  teiginys: '1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1894 m. S. Žukauskas vedė liuteronę Zozefing Has-

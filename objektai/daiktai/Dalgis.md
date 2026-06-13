@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-40703"></a>
 - t-001
   global_id: t-40703
-  teiginys: 'Gynyboje dalyvavo apie 1500 ginkluotų Vilniaus gyventojų, iš kurių apie 500 turėjo šaunamuosius ginklus, likę buvo ginkluoti specialiai kovai perdarytais dalgiais ir nukaltomis ietimis.'
+  teiginys: 'Per Vilniaus gynybą dalis ginkluotų miesto gyventojų kovėsi specialiai kovai perdarytais dalgiais ir nukaltomis ietimis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Vilniaus gynybą dalis ginkluotų miesto gyventojų kovėsi specialiai kovai perdarytais dalgiais ir nukaltomis ietimis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     T. Korsako) milicijos ba-
@@ -77,4 +78,3 @@ Nenurodyta
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/daiktai/Kovinis dalgis]]
-- [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]

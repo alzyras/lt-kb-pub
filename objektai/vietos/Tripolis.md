@@ -28,13 +28,14 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
 <a id="claim-t-58740"></a>
 - t-001
   global_id: t-58740
-  teiginys: 'Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą 1288 viešpaties metais valdė Mikalojus IV, popiežius, priklausęs mažesniųjų brolių ordinui, ir Rudolfas, Romos karalius.'
+  teiginys: 'Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o miesto krikščionys paimti į nelaisvę arba nužudyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o miesto krikščionys paimti į nelaisvę arba nužudyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą

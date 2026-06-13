@@ -33,7 +33,7 @@ tags:
 <a id="claim-t-45785"></a>
 - t-004
   global_id: t-45785
-  teiginys: 'BUVUSIO VALSTYBINGUMO TRAUKOJE Kultūrinė autonomija Napoleono šešėlyje L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  teiginys: 'LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią.'
   pagrindžia:
     - c-003
 
@@ -90,6 +90,7 @@ tags:
     - t-002
 
 - c-003
+  santrauka: 'LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     BUVUSIO VALSTYBINGUMO TRAUKOJE

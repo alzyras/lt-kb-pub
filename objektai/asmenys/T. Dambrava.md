@@ -29,20 +29,21 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 <a id="claim-t-40453"></a>
 - t-002
   global_id: t-40453
-  teiginys: 'T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.'
+  teiginys: 'J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-40454"></a>
 - t-003
   global_id: t-40454
-  teiginys: 'Teigta, kad mūšio metu nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.'
+  teiginys: 'Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ J.P. Sapiegos ir T. Dambravos raiteliai su-
@@ -75,6 +76,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     - t-001
 
 - c-003
+  santrauka: 'Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prasidėjo žiau-

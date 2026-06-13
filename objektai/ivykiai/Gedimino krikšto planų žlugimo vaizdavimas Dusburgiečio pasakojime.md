@@ -38,21 +38,22 @@ Nenurodyta
 <a id="claim-t-62788"></a>
 - t-001
   global_id: t-62788
-  teiginys: 'Dusburgietis teigia, kad lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.'
+  teiginys: 'Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-003
 
 <a id="claim-t-62789"></a>
 - t-002
   global_id: t-62789
-  teiginys: 'Dusburgietis teigia, kad lyginimas leidžia manyti, kad Ordinas klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo pagrindą147.'
+  teiginys: 'Dusburgiečio duomenų lyginimas leidžia manyti, kad Ordinas stengėsi pakenkti Gedimino krikšto planams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgiečio duomenų lyginimas leidžia manyti, kad Ordinas stengėsi pakenkti Gedimino krikšto planams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
@@ -68,6 +69,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
@@ -82,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pažymėjęs, jog kryžiuočiai 1328
@@ -97,7 +100,7 @@ Nenurodyta
     - t-001
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad lyginimas leidžia manyti, kad Ordinas klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo pagrindą147.'
+  santrauka: 'Dusburgiečio duomenų lyginimas leidžia manyti, kad Ordinas stengėsi pakenkti Gedimino krikšto planams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikininkas teigia, kad

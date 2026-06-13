@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-75203"></a>
 - t-003
   global_id: t-75203
-  teiginys: 'Paprastai manoma, kad iš šių proistorinių gelmių ateina tokios kultūrinės vertybės kaip lietuvių kalba, tautosaka ir folkloras, taip pat lietuvių pagoniškoji religija, nors šios išsikristalizavimas šiandien dažniausiai priskiriamas jau valstybės kūrimosi.'
+  teiginys: 'Lietuvių pagoniškosios religijos išsikristalizavimas dažniausiai siejamas su Lietuvos valstybės kūrimosi laikais.'
   pagrindžia:
     - c-001
 

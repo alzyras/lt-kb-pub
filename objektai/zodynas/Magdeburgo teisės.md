@@ -31,7 +31,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 <a id="claim-t-113643"></a>
 - t-001
   global_id: t-113643
-  teiginys: 'Po Šv. Benedikto, abato, šventės valdovas Vilniui suteikė Magdeburgo teises Merkinėje rašytu aktu.'
+  teiginys: 'Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.'
   pagrindžia:
     - c-009
 
@@ -73,7 +73,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 <a id="claim-t-113649"></a>
 - t-007
   global_id: t-113649
-  teiginys: 'O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ).'
+  teiginys: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.'
   pagrindžia:
     - c-003
 
@@ -157,6 +157,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-014
 
 - c-003
+  santrauka: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tas teises jis gavo 1387 met. iš
@@ -333,6 +334,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-009
 
 - c-009
+  santrauka: 'Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Buvo juk to­
@@ -560,7 +562,6 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/grupes/Lotynai]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/zodynas/Magdeburgo teisės vokiečių teisės normos]]
 - [[objektai/grupes/Vilniaus gyventojai]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis]]

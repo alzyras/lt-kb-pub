@@ -36,7 +36,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 <a id="claim-t-68858"></a>
 - t-001
   global_id: t-68858
-  teiginys: 'Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių.'
+  teiginys: 'Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.'
   pagrindžia:
     - c-001
 

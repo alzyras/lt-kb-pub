@@ -30,7 +30,7 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 <a id="claim-t-60149"></a>
 - t-001
   global_id: t-60149
-  teiginys: 'Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios neteisybės, nei kantrios teisybės.'
+  teiginys: 'Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,

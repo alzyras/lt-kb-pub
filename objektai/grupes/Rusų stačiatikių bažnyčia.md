@@ -28,7 +28,7 @@ tags:
 <a id="claim-t-66082"></a>
 - t-002
   global_id: t-66082
-  teiginys: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
+  teiginys: 'Vilniuje pastatytomis ir atstatytomis cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas.'
   pagrindžia:
     - c-002
 
@@ -47,6 +47,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Vilniuje pastatytomis ir atstatytomis cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vil-

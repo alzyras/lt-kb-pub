@@ -58,7 +58,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 <a id="claim-t-83618"></a>
 - t-003
   global_id: t-83618
-  teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
+  teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.'
   pagrindžia:
     - c-006
 
@@ -73,13 +73,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 - t-005
   global_id: t-83620
   teiginys: 'Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-83621"></a>
-- t-006
-  global_id: t-83621
-  teiginys: 'Iš Rusios, Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę 23 Mažesnieji broliai (pranciškonų atšaka).'
   pagrindžia:
     - c-003
 
@@ -107,7 +100,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 <a id="claim-t-83625"></a>
 - t-010
   global_id: t-83625
-  teiginys: 'Vis dėlto tai liko istorinis epizodas, nors pagoniška valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia didžiules stačiatikiškų žemių (buvusios Kijevo Rusios) erdves.'
+  teiginys: 'Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia dideles buvusios Kijevo Rusios žemes.'
   pagrindžia:
     - c-001
 
@@ -255,6 +248,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     - t-012
 
 - c-006
+  santrauka: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo karūnacija 1253 metais

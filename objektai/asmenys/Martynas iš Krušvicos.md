@@ -21,13 +21,14 @@ Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išs
 <a id="claim-t-60384"></a>
 - t-001
   global_id: t-60384
-  teiginys: 'Dusburgietis teigia, kad juos išvydę, lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.'
+  teiginys: 'Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išvydęs, valdovas Henrikas iš Lichtenšteino

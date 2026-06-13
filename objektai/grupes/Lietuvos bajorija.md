@@ -33,7 +33,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 <a id="claim-t-96706"></a>
 - t-001
   global_id: t-96706
-  teiginys: 'Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai.'
+  teiginys: 'Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai.'
   pagrindžia:
     - c-007
 
@@ -139,7 +139,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 <a id="claim-t-96722"></a>
 - t-017
   global_id: t-96722
-  teiginys: 'Despotiškas didžiojo kunigaikščio elgesys su kai kuriais bajorais papiktino didžiąją Lietuvos krašto dalį.'
+  teiginys: 'Despotiškas Švitrigailos elgesys su kai kuriais bajorais papiktino didžiąją Lietuvos krašto dalį.'
   pagrindžia:
     - c-014
 
@@ -153,7 +153,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 <a id="claim-t-96724"></a>
 - t-019
   global_id: t-96724
-  teiginys: 'Bajorijos atsiunčiamoms delegacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški karo pabaiga.'
+  teiginys: 'Lietuvos bajorijos delegacijoms Napoleonas nieko tikro nežadėjo, nes karo pabaiga dar buvo neaiški.'
   pagrindžia:
     - c-006
 
@@ -174,7 +174,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 <a id="claim-t-182901"></a>
 - t-022
   global_id: t-182901
-  teiginys: 'Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais.'
+  teiginys: 'Vytautas per savo delegaciją pareikalavo, kad Jogaila atsakytų, ar laiko jį ir Lietuvos bajorus laisvais.'
   pagrindžia:
     - c-015
 
@@ -443,7 +443,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-012
 
 - c-015
-  santrauka: 'Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais.'
+  santrauka: 'Vytautas per savo delegaciją pareikalavo, kad Jogaila atsakytų, ar laiko jį ir Lietuvos bajorus laisvais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maža to, per savo delegaciją jis pareikalavo, kad

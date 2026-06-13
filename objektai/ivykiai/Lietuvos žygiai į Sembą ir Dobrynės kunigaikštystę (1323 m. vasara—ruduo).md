@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-89381"></a>
 - t-002
   global_id: t-89381
-  teiginys: 'Dusburgietis teigia, kad vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta išlaikyti savo pusėje56.'
+  teiginys: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.'
   pagrindžia:
     - c-001
     - c-002
@@ -76,6 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama

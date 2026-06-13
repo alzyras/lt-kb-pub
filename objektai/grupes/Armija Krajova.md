@@ -24,13 +24,6 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   pagrindžia:
     - c-001
 
-<a id="claim-t-183118"></a>
-- t-002
-  global_id: t-183118
-  teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +43,7 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
     - t-001
 
 - c-002
-  santrauka: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
+  santrauka: 'Vilnijoje lietuvių Vietinės rinktinės daliniai susidūrė su ginkluotais lenkų Armijos Krajovos daliniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vykdžiusi nacių diktuojamą politiką lietuvių admini-

@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-66563"></a>
 - t-001
   global_id: t-66563
-  teiginys: 'Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė.'
+  teiginys: 'Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.'
   pagrindžia:
     - c-002
 
@@ -79,6 +79,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsivežė daug daiktų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie beveik penkių šimtų lietuvių žūtį

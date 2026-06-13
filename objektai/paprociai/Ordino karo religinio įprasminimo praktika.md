@@ -48,21 +48,21 @@ Nenurodyta
 <a id="claim-t-67173"></a>
 - t-001
   global_id: t-67173
-  teiginys: 'Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi.'
+  teiginys: 'Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-67174"></a>
 - t-002
   global_id: t-67174
-  teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
+  teiginys: 'Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-67175"></a>
 - t-003
   global_id: t-67175
-  teiginys: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9). Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis.'
+  teiginys: 'Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais.'
   pagrindžia:
     - c-004
 
@@ -98,6 +98,7 @@ Nenurodyta
     - t-005
 
 - c-002
+  santrauka: 'Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais
@@ -136,6 +137,7 @@ Nenurodyta
     - t-004
 
 - c-004
+  santrauka: 'Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
@@ -152,6 +154,7 @@ Nenurodyta
     - t-003
 
 - c-005
+  santrauka: 'Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
@@ -176,6 +179,7 @@ Nenurodyta
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
 - [[objektai/zodynas/kankinių vainikai]]
 - [[objektai/zodynas/tikybos ir bažnyčios priešai]]

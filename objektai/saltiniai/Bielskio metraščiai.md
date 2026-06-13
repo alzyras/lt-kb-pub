@@ -22,14 +22,14 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 <a id="claim-t-88410"></a>
 - t-001
   global_id: t-88410
-  teiginys: 'Bielskio metraščiuose Aleksandras Balinskis minėtas dėl karaliaus Aleksandro gydymo Vilniuje, kai šis vos neužduso žolių garo vonioje.'
+  teiginys: 'Bielskis savo metraščiuose kritikavo Aleksandrą Balinskį dėl karaliaus Aleksandro gydymo Vilniuje žolių garo vonia.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bielskio metraščiuose Aleksandras Balinskis minėtas dėl karaliaus Aleksandro gydymo Vilniuje, kai šis vos neužduso žolių garo vonioje.'
+  santrauka: 'Bielskis savo metraščiuose kritikavo Aleksandrą Balinskį dėl karaliaus Aleksandro gydymo Vilniuje žolių garo vonia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     46

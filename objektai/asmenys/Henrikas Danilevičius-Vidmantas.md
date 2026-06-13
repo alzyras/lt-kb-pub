@@ -19,13 +19,14 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 <a id="claim-t-40134"></a>
 - t-001
   global_id: t-40134
-  teiginys: 'Po nelygios kovos su okupantų kariuomene nusišovė LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas.'
+  teiginys: 'LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žukauskas. Po nelygios kovos su okupantų
@@ -48,4 +49,3 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]

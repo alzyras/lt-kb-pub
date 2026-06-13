@@ -20,13 +20,14 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
 <a id="claim-t-100234"></a>
 - t-001
   global_id: t-100234
-  teiginys: 'Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartberge (SRP I, 681 ; II, 33 34).'
+  teiginys: '„Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bei Saule — wohl Schaulen in Litauen — wurde das Ordensheer von

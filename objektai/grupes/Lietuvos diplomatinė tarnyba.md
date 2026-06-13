@@ -43,7 +43,7 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 <a id="claim-t-183156"></a>
 - t-003
   global_id: t-183156
-  teiginys: 'Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gyvavusi per visą sovietų okupacijos laikotarpį.'
+  teiginys: 'Lietuvos diplomatinė tarnyba per sovietų okupaciją rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje.'
   pagrindžia:
     - c-003
 
@@ -80,7 +80,7 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
     - t-001
 
 - c-003
-  santrauka: 'Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rūpinosi Lietuvos diplomatinė tarnyba (LDT), Lietuvos valstybingumo simbolis, gyvavusi per visą sovietų okupacijos laikotarpį.'
+  santrauka: 'Lietuvos diplomatinė tarnyba per sovietų okupaciją rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad

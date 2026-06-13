@@ -30,27 +30,21 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 <a id="claim-t-65772"></a>
 - t-001
   global_id: t-65772
-  teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
+  teiginys: 'Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-65773"></a>
 - t-002
   global_id: t-65773
-  teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-65774"></a>
-- t-003
-  global_id: t-65774
-  teiginys: 'Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.'
+  teiginys: 'Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
@@ -75,21 +69,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietu-
-    va sugrįžo į pasaulio žemėlapį, iš kurio prievarta buvo išbraukta 1940 m.
-    vasarą. Lietuvos tarptautinis pripažinimas – dar vienas didžiulis lietuvių
-    tautos pasiekimas XX a. istorijoje.
-    Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę
-    tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
+  santrauka: 'Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redakcinė kolegija:
@@ -135,7 +115,6 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/grupes/NATO]]
@@ -146,6 +125,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
 - [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/autoriai/Antanas Kulakauskas]]

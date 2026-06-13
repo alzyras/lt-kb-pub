@@ -27,7 +27,7 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 <a id="claim-t-40059"></a>
 - t-002
   global_id: t-40059
-  teiginys: 'Etmono svainis B. Zenavičius žuvo šiame mūšyje.'
+  teiginys: 'Šiame mūšyje žuvo etmono svainis B. Zenavičius.'
   pagrindžia:
     - c-002
 
@@ -47,6 +47,7 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
     - t-001
 
 - c-002
+  santrauka: 'Šiame mūšyje žuvo etmono svainis B. Zenavičius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sutelkę

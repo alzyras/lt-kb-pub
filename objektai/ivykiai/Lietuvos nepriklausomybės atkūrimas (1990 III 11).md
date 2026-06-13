@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-75162"></a>
 - t-001
   global_id: t-75162
-  teiginys: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
+  teiginys: 'Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.'
   pagrindžia:
     - c-006
 
@@ -68,14 +68,14 @@ Nenurodyta
 <a id="claim-t-75165"></a>
 - t-004
   global_id: t-75165
-  teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
+  teiginys: '1990 m. kovo 11 d. Lietuva atkūrė nepriklausomybę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75166"></a>
 - t-005
   global_id: t-75166
-  teiginys: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
+  teiginys: '1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.'
   pagrindžia:
     - c-003
 
@@ -86,9 +86,17 @@ Nenurodyta
   pagrindžia:
     - c-004
 
+<a id="claim-t-183249"></a>
+- t-007
+  global_id: t-183249
+  teiginys: '1990 m. kovo 11 d. Sąjūdžio kandidatai grąžino Lietuvos Respublikos pavadinimą ir Vytį paskelbė oficialiu valstybės herbu bei ženklu.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1990 m. kovo 11 d. Lietuva atkūrė nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
@@ -122,6 +130,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: '1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapo aišku, kad Lietuva pasuko nauju keliu,
@@ -182,6 +191,7 @@ Nenurodyta
     - t-003
 
 - c-006
+  santrauka: 'Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip
@@ -204,7 +214,7 @@ Nenurodyta
     - t-001
 
 - c-007
-  santrauka: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
+  santrauka: '1990 m. kovo 11 d. Sąjūdžio kandidatai grąžino Lietuvos Respublikos pavadinimą ir Vytį paskelbė oficialiu valstybės herbu bei ženklu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Istorinėje LSSR Aukščiau-

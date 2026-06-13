@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-59475"></a>
 - t-001
   global_id: t-59475
-  teiginys: 'Dusburgietis teigia, kad apie 200 tūkstančių saracėnų žūtį 1300 viešpaties metais totoriai, leidęsi į žygį iš savo sodybų, užpuolė saracėnus pirmiausia Kapadokijoje, po to Seleukijos, arba Antiochijos, žemėje, vėliau Didžiojoje bei Mažojoje Armėnijoje, o po to visoje žadėtoje žemėje.'
+  teiginys: '1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     87. Apie 200 tūkstančių saracėnų žūtį
@@ -69,3 +70,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Totoriai]]

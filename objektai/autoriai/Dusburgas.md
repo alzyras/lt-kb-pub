@@ -42,7 +42,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   global_id: t-102840
   teiginys: 'Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-102841"></a>
 - t-002
@@ -51,117 +51,110 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - c-002
 
-<a id="claim-t-102842"></a>
-- t-003
-  global_id: t-102842
-  teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
-  pagrindžia:
-    - c-010
-
 <a id="claim-t-102843"></a>
-- t-004
+- t-003
   global_id: t-102843
   teiginys: 'Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-102844"></a>
-- t-005
+- t-004
   global_id: t-102844
   teiginys: 'Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-102845"></a>
-- t-006
+- t-005
   global_id: t-102845
   teiginys: 'Dusburgietis rašo, kad kroniką surašė apie Ordino brolių karus ir 1326 m. užbaigtą knygą siunčia pataisyti, kad būsimoms kartoms liktų šio žygio atminimas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-102846"></a>
-- t-007
+- t-006
   global_id: t-102846
   teiginys: 'Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-102847"></a>
-- t-008
+- t-007
   global_id: t-102847
   teiginys: 'Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-102848"></a>
-- t-009
+- t-008
   global_id: t-102848
   teiginys: '1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-102849"></a>
-- t-010
+- t-009
   global_id: t-102849
   teiginys: '1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-102850"></a>
-- t-011
+- t-010
   global_id: t-102850
   teiginys: 'Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-102851"></a>
-- t-012
+- t-011
   global_id: t-102851
   teiginys: 'Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-102852"></a>
-- t-013
+- t-012
   global_id: t-102852
-  teiginys: 'Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.'
+  teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-102853"></a>
-- t-014
+- t-013
   global_id: t-102853
   teiginys: 'Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-102854"></a>
-- t-015
+- t-014
   global_id: t-102854
   teiginys: 'Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-102855"></a>
-- t-016
+- t-015
   global_id: t-102855
-  teiginys: '1291 buvo pulta, Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315 ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta pilis «Mederaba»^23.'
+  teiginys: 'Dusburgo kronikoje Junigėda pirmą kartą paminėta 1291 m., kai kryžiuočiai ją puolė, bet nepaėmė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-102856"></a>
-- t-017
+- t-016
   global_id: t-102856
-  teiginys: 'Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
+  teiginys: 'Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-184607"></a>
-- t-018
+- t-017
   global_id: t-184607
   teiginys: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
   pagrindžia:
-    - c-014
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -178,7 +171,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -194,7 +187,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-002
-    - t-016
+    - t-015
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -211,8 +204,8 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
     - t-013
+    - t-012
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -229,7 +222,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -245,7 +238,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -261,7 +254,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -277,7 +270,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -297,7 +290,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: interpretacija
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -322,29 +315,10 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-    - t-005
+    - t-016
+    - t-004
 
 - c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita užuomina
-    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
-    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
-    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
-    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
-    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
-    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
-    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
-    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
-    do8.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmą kartą jį Dusburgas mini prie 1304 metų
@@ -371,10 +345,10 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-    - t-004
+    - t-011
+    - t-003
 
-- c-012
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anot amžininko Dusburgo(c.  352) pranešimo, Gedi­
@@ -400,9 +374,9 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-013
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau atkreipus dėmesį į tai, ką Dus-
@@ -423,7 +397,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-001
 
-- c-014
+- c-013
   santrauka: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -443,7 +417,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
@@ -472,7 +446,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/sueiga]]
 - [[objektai/zodynas/vėliava]]

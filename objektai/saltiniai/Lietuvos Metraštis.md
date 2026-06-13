@@ -30,42 +30,25 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   global_id: t-67443
   teiginys: 'Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-67444"></a>
 - t-002
   global_id: t-67444
-  teiginys: 'Akmens amžiaus laikų pasakojimas remtas plačiausia Lietuvos Metraščio redakcija ir Motiejaus Stryjkovskio 1582 m. kronika.'
+  teiginys: 'Plačiausia „Lietuvos Metraščio“ redakcija XVI a. antroje pusėje naudota Lietuvos istorijai pradėti nuo Nerono laikų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-67445"></a>
 - t-003
   global_id: t-67445
   teiginys: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-67447"></a>
-- t-004
-  global_id: t-67447
-  teiginys: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
-  pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
@@ -81,7 +64,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: 'Plačiausia „Lietuvos Metraščio“ redakcija XVI a. antroje pusėje naudota Lietuvos istorijai pradėti nuo Nerono laikų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **1. Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
@@ -101,7 +85,7 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.

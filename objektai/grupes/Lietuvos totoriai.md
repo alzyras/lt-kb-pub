@@ -28,7 +28,7 @@ tags:
 <a id="claim-t-78380"></a>
 - t-002
   global_id: t-78380
-  teiginys: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino priešo paniką.'
+  teiginys: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.'
   pagrindžia:
     - c-004
 
@@ -108,6 +108,7 @@ tags:
     - t-001
 
 - c-004
+  santrauka: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vienu metu, iš
@@ -141,4 +142,5 @@ tags:
 - [[objektai/asmenys/M. Vaina]]
 - [[objektai/zodynas/Mahometoniškas tikėjimas]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]
 - [[objektai/zodynas/ulonai]]

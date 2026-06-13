@@ -20,7 +20,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 <a id="claim-t-40456"></a>
 - t-001
   global_id: t-40456
-  teiginys: 'Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į besikaunančių švedų raitelių kairįjį sparną.'
+  teiginys: 'Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     - t-002
 
 - c-002
+  santrauka: 'Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     nas suprato, kad pats laikas mesti į mūšį

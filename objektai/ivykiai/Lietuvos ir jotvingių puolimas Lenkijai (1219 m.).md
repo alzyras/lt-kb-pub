@@ -41,14 +41,15 @@ Nenurodyta
 <a id="claim-t-62859"></a>
 - t-001
   global_id: t-62859
-  teiginys: 'Dusburgietis teigia, kad lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios koalicijos dalyvių — Lenkiją25.'
+  teiginys: '1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
@@ -65,6 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus

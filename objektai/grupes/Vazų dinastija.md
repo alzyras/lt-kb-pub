@@ -35,7 +35,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 <a id="claim-t-75013"></a>
 - t-001
   global_id: t-75013
-  teiginys: 'Vazų dinastijos valdymo gale labiau pastebima lenkų kultūros įtaka Lietuvoje^18.'
+  teiginys: 'Vazų dinastijos valdymo pabaigoje Lietuvoje sustiprėjo lenkų kultūros įtaka.'
   pagrindžia:
     - c-002
 
@@ -49,7 +49,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 <a id="claim-t-75015"></a>
 - t-003
   global_id: t-75015
-  teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
+  teiginys: 'Vazų dinastijos ATR karalių pretenzijos į Švedijos sostą komplikavo ATR karus su Švedija 1600–1629 ir 1655–1660 m.'
   pagrindžia:
     - c-003
 
@@ -70,7 +70,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 <a id="claim-t-183192"></a>
 - t-006
   global_id: t-183192
-  teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  teiginys: 'Valdant švedų kilmės Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija.'
   pagrindžia:
     - c-004
 
@@ -96,6 +96,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - t-004
 
 - c-002
+  santrauka: 'Vazų dinastijos valdymo pabaigoje Lietuvoje sustiprėjo lenkų kultūros įtaka.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vazų dinastijos valdymo gale
@@ -155,7 +156,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - t-002
 
 - c-005
-  santrauka: 'Vazų dinastijos valdymo gale labiau pastebima lenkų kultūros įtaka Lietuvoje^18.'
+  santrauka: 'Vazų dinastijos valdymo pabaigoje Lietuvoje sustiprėjo lenkų kultūros įtaka.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pamažu ji sau Lietuvoje teišsikovojo ir tokių
@@ -184,6 +185,5 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
-- [[objektai/ivykiai/Vedrošos kautynės]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Tvanas]]

@@ -50,7 +50,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 <a id="claim-t-113835"></a>
 - t-005
   global_id: t-113835
-  teiginys: 'Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik paskui pasidarė labai uoli katalikė.'
+  teiginys: 'Julijona buvo trečioji Vytauto žmona.'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 <a id="claim-t-113838"></a>
 - t-008
   global_id: t-113838
-  teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
   pagrindžia:
     - c-013
 
@@ -92,7 +92,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 <a id="claim-t-113841"></a>
 - t-011
   global_id: t-113841
-  teiginys: 'Nenusileisti jį ypač įkalbinėjo jo bajorai ir pati Julijona^5 ).'
+  teiginys: 'Julijona ir Vytauto bajorai ragino Vytautą nenusileisti dėl karūnavimosi vilčių.'
   pagrindžia:
     - c-008
 
@@ -109,13 +109,6 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   teiginys: 'Karūnacijos vilčių žlugimo metu Julijona ypač ragino Vytautą nenusileisti.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-113844"></a>
-- t-014
-  global_id: t-113844
-  teiginys: 'Vytauto trečios žmonos vardas buvo Julijona.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-113845"></a>
 - t-015
@@ -137,13 +130,6 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   teiginys: 'Istorikai nurodo, kad trečiosios Vytauto žmonos vardas buvo Julijona.'
   pagrindžia:
     - c-011
-
-<a id="claim-t-113848"></a>
-- t-018
-  global_id: t-113848
-  teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
-  pagrindžia:
-    - c-013
 
 <a id="claim-t-113849"></a>
 - t-019

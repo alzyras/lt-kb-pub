@@ -30,7 +30,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 <a id="claim-t-87428"></a>
 - t-001
   global_id: t-87428
-  teiginys: 'Henrikas Lankasteris apie 1390 m. buvojo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
+  teiginys: 'Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   pagrindžia:
     - c-003
 
@@ -114,7 +114,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
     - t-002
 
 - c-003
-  santrauka: 'Henrikas Lankasteris apie 1390 m. buvojo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
+  santrauka: 'Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis apsirinka nurody­

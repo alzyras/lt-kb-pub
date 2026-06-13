@@ -28,7 +28,7 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
 <a id="claim-t-60351"></a>
 - t-001
   global_id: t-60351
-  teiginys: 'Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis nenoromis turėjo pasitraukti, nes nepajėgė atsispirti tokiai daugybei, be to, patyrė ir nuostolių, kadangi netikėliai ten nukovė brolį Joną, vadinamą Pope, o daug kitų sužeidė.'
+  teiginys: '1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.'
   pagrindžia:
     - c-001
 

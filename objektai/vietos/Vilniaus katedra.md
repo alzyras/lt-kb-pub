@@ -48,14 +48,14 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 <a id="claim-t-110148"></a>
 - t-003
   global_id: t-110148
-  teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
+  teiginys: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-110149"></a>
 - t-004
   global_id: t-110149
-  teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
+  teiginys: 'Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.'
   pagrindžia:
     - c-009
 
@@ -139,7 +139,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 <a id="claim-t-110161"></a>
 - t-016
   global_id: t-110161
-  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
+  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   pagrindžia:
     - c-015
 
@@ -167,7 +167,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 <a id="claim-t-110165"></a>
 - t-020
   global_id: t-110165
-  teiginys: 'Stanislovas — lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą, katedros fundatorių.'
+  teiginys: 'Jogaila Vladislovas buvo Vilniaus katedros fundatorius.'
   pagrindžia:
     - c-007
 
@@ -227,6 +227,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - t-011
 
 - c-004
+  santrauka: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susiformavo barokinis kraštovaizdis, kuriam bū-
@@ -439,7 +440,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
     - t-002
 
 - c-015
-  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
+  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.

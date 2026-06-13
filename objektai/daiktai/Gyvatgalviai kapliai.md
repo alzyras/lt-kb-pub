@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-89427"></a>
 - t-001
   global_id: t-89427
-  teiginys: 'Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t.'
+  teiginys: 'Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     11 Kalbant apie IX—XIII a. prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,

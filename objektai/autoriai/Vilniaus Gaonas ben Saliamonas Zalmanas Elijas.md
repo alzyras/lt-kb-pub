@@ -52,13 +52,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   pagrindžia:
     - c-004
 
-<a id="claim-t-75432"></a>
-- t-004
-  global_id: t-75432
-  teiginys: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-75433"></a>
 - t-005
   global_id: t-75433

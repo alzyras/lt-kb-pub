@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvos senatoriai laišku ragino Maskvos didikus neleisti kunigaikščiui prisiimti naujo titulo, bet atsakymo nesulaukė.
+Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.
 
 ## Teiginiai
 
 <a id="claim-t-186339"></a>
 - t-001
   global_id: t-186339
-  teiginys: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti kunigaikščiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
+  teiginys: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti kunigaikščiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
+  santrauka: 'Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiui prisiimti naujo titulo, bet atsakymo nesulaukė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nieko nepasiekę, pasiun­

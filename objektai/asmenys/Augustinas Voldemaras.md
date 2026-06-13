@@ -30,29 +30,28 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 <a id="claim-t-75767"></a>
 - t-001
   global_id: t-75767
-  teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
+  teiginys: 'Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-75768"></a>
 - t-002
   global_id: t-75768
-  teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  teiginys: 'Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.'
   pagrindžia:
     - c-013
-    - c-005
 
 <a id="claim-t-75769"></a>
 - t-003
   global_id: t-75769
-  teiginys: 'Voldemaras nieko negalėjo pakeisti.'
+  teiginys: 'Stiprėjant Europos sienų neliečiamumo tendencijai, Augustinas Voldemaras nebegalėjo pakeisti Lietuvos padėties.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-75770"></a>
 - t-004
   global_id: t-75770
-  teiginys: 'Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus.'
+  teiginys: 'Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
   pagrindžia:
     - c-004
 
@@ -69,7 +68,6 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   teiginys: 'Ženevoje A. Voldemaras atsakė J. Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   pagrindžia:
     - c-006
-    - c-007
 
 <a id="claim-t-75773"></a>
 - t-007
@@ -88,21 +86,21 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 <a id="claim-t-75775"></a>
 - t-009
   global_id: t-75775
-  teiginys: 'Voldemaras užsienio politiką stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesikeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.'
+  teiginys: 'Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-75776"></a>
 - t-010
   global_id: t-75776
-  teiginys: 'Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Rusijos padedami, tačiau pastarųjų tai neviliojo.'
+  teiginys: 'Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75777"></a>
 - t-011
   global_id: t-75777
-  teiginys: 'Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.'
+  teiginys: 'Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.'
   pagrindžia:
     - c-008
 
@@ -116,14 +114,14 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 <a id="claim-t-75779"></a>
 - t-013
   global_id: t-75779
-  teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
+  teiginys: 'Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-75780"></a>
 - t-014
   global_id: t-75780
-  teiginys: 'Voldemaras liko be nieko, nes neapdairiai atsisakė tapti užsienio reikalų ministru.'
+  teiginys: '1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   pagrindžia:
     - c-007
 
@@ -172,6 +170,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, kad lietuviai tapo
@@ -187,6 +186,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-010
 
 - c-002
+  santrauka: 'Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
@@ -221,6 +221,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-015
 
 - c-004
+  santrauka: 'Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentas A. Smetona ir
@@ -278,6 +279,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-006
 
 - c-007
+  santrauka: '1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po gegužę įvykdyto studen-
@@ -297,6 +299,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-014
 
 - c-008
+  santrauka: 'Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kol kas viešojoje erdvėje dominuoja ekstrava-
@@ -358,6 +361,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-017
 
 - c-011
+  santrauka: 'Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
@@ -381,6 +385,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-013
 
 - c-012
+  santrauka: 'Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
@@ -411,6 +416,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-001
 
 - c-013
+  santrauka: 'Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
@@ -448,6 +454,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
     - t-008
 
 - c-015
+  santrauka: 'Stiprėjant Europos sienų neliečiamumo tendencijai, Augustinas Voldemaras nebegalėjo pakeisti Lietuvos padėties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
@@ -510,11 +517,11 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - [[objektai/posakiai/„Karas ar taika “]]
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Voldemarininkai]]
-- [[objektai/grupes/Geležinis vilkas]]
-- [[objektai/asmenys/J. Simpsonas]]
 - [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]
 - [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
+- [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]
+- [[objektai/grupes/Geležinis vilkas]]
+- [[objektai/asmenys/J. Simpsonas]]
 - [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]
 - [[objektai/grupes/Raudonoji armija]]
-- [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]

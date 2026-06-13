@@ -26,13 +26,14 @@ Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografij�
 <a id="claim-t-99979"></a>
 - t-001
   global_id: t-99979
-  teiginys: 'Jie yra griežtai atsiriboję ir pasmerkę vad. «buržuazinę » istoriografiją.'
+  teiginys: 'Tarybiniai istorikai griežtai atsiribojo nuo vadinamosios buržuazinės istoriografijos ir ją pasmerkė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tarybiniai istorikai griežtai atsiribojo nuo vadinamosios buržuazinės istoriografijos ir ją pasmerkė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tad ir šį kartą, statant Lietuvos istorijos «rūmą», reikėjo

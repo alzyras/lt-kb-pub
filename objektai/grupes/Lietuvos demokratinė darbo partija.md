@@ -28,7 +28,7 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 <a id="claim-t-169677"></a>
 - t-001
   global_id: t-169677
-  teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
+  teiginys: 'Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
     - t-002
 
 - c-002
+  santrauka: 'Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvažiavimo metu „už savarankišką LKP, tu-
@@ -83,7 +84,6 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/statutas]]
 - [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]

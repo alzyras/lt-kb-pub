@@ -20,13 +20,14 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
 <a id="claim-t-88475"></a>
 - t-001
   global_id: t-88475
-  teiginys: 'Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ruthenicae, Pars.'
+  teiginys: 'Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas užkirto tam ke­

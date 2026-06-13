@@ -2,10 +2,8 @@
 tipas: daiktas
 pavadinimas: 'Karūna'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1251 m.'
   - '1253 m.'
@@ -73,21 +71,21 @@ Nenurodyta
 <a id="claim-t-183297"></a>
 - t-004
   global_id: t-183297
-  teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
+  teiginys: 'Autoriai Gedimino ir Algirdo titulavimąsi karaliais be Vakarų pripažinimo sieja su Lietuvos savarankiškumu.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-183298"></a>
 - t-005
   global_id: t-183298
-  teiginys: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
+  teiginys: 'Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-183299"></a>
 - t-006
   global_id: t-183299
-  teiginys: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
+  teiginys: 'Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas.'
   pagrindžia:
     - c-006
 
@@ -141,7 +139,7 @@ Nenurodyta
     - t-002
 
 - c-004
-  santrauka: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
+  santrauka: 'Autoriai Gedimino ir Algirdo titulavimąsi karaliais be Vakarų pripažinimo sieja su Lietuvos savarankiškumu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors nebus nė vieno kunigaikščio,
@@ -158,7 +156,7 @@ Nenurodyta
     - t-004
 
 - c-005
-  santrauka: 'Svarbiausias tikslas, kurio siekta krikštijantis, – karūna.'
+  santrauka: 'Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
@@ -173,7 +171,7 @@ Nenurodyta
     - t-005
 
 - c-006
-  santrauka: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
+  santrauka: 'Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gerbti ir garbinti
@@ -264,6 +262,7 @@ Nenurodyta
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]
+- [[objektai/zodynas/savarankiškumas]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Krokuvos profesoriai]]

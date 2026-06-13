@@ -28,21 +28,21 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 <a id="claim-t-82291"></a>
 - t-001
   global_id: t-82291
-  teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos mirtį 1231 viešpaties metais, lapkričio 19 dieną, mirė šventa Elžbieta.'
+  teiginys: 'Šventa Elžbieta mirė 1231 m. lapkričio 19 d.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-82292"></a>
 - t-002
   global_id: t-82292
-  teiginys: 'Dusburgietis teigia, kad kelerių metų šventa Elžbieta ištekėjo už vyro 1221 viešpaties metais Elžbieta pasiėmė į vyrus Tiuringijos markgrafą.'
+  teiginys: '1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-82293"></a>
 - t-003
   global_id: t-82293
-  teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos gimimą 1207 viešpaties metais gimė šventa Elžbieta.'
+  teiginys: 'Šventa Elžbieta gimė 1207 m.'
   pagrindžia:
     - c-003
 
@@ -70,14 +70,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 <a id="claim-t-82297"></a>
 - t-007
   global_id: t-82297
-  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-82298"></a>
 - t-008
   global_id: t-82298
-  teiginys: 'Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.'
+  teiginys: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.'
   pagrindžia:
     - c-004
 
@@ -105,6 +105,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     15. Kelerių metų šventa Elžbieta ištekėjo už vyro
@@ -138,6 +139,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-005
 
 - c-003
+  santrauka: 'Šventa Elžbieta gimė 1207 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     12. Apie šventos Elžbietos gimimą
@@ -154,6 +156,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-003
 
 - c-004
+  santrauka: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     25. Apie šventos Elžbietos kanonizavimą
@@ -193,6 +196,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-006
 
 - c-006
+  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
@@ -210,6 +214,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - t-007
 
 - c-007
+  santrauka: 'Šventa Elžbieta mirė 1231 m. lapkričio 19 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     21. Apie šventos Elžbietos mirtį
@@ -308,7 +313,6 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - [[objektai/grupes/Mokinių slėnio brolių ordinas]]
 - [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]
 - [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]
-- [[objektai/daiktai/Altorius]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/maldininkai]]

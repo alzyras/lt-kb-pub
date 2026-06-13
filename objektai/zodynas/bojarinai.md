@@ -28,7 +28,7 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 <a id="claim-t-86459"></a>
 - t-001
   global_id: t-86459
-  teiginys: 'Iš Didžiojo Naugardo į Vilnių pasiųsti bojarinai Ivanas Jermoliničius ir Chariničius su Švitrigaila sudarė taikos sutartį.'
+  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Iš Didžiojo Naugardo į Vilnių pasiųsti bojarinai Ivanas Jermoliničius ir Chariničius su Švitrigaila sudarė taikos sutartį.'
+  santrauka: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje su Švitrigaila sudarė sutartį dėl abipusio saugumo ir prekybos laisvės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­

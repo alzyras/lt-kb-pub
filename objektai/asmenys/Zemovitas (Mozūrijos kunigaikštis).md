@@ -29,13 +29,14 @@ periodo_grupes:
 <a id="claim-t-40545"></a>
 - t-001
   global_id: t-40545
-  teiginys: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
+  teiginys: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimo prieš Lietuvą išvakarėse Ordi-
@@ -55,4 +56,5 @@ periodo_grupes:
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Zemovitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]

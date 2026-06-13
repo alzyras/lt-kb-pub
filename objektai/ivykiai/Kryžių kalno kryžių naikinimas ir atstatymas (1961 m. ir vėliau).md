@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-183229"></a>
 - t-002
   global_id: t-183229
-  teiginys: 'Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.'
+  teiginys: 'Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.'
   pagrindžia:
     - c-001
 

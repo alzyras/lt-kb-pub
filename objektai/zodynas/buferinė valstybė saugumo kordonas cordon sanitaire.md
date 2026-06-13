@@ -33,7 +33,7 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 <a id="claim-t-101572"></a>
 - t-002
   global_id: t-101572
-  teiginys: 'Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis netgi grėsė nepriklausomybės praradimu.'
+  teiginys: 'Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją.'
   pagrindžia:
     - c-002
 

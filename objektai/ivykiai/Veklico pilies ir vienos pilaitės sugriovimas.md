@@ -38,20 +38,21 @@ Nenurodyta
 <a id="claim-t-66945"></a>
 - t-001
   global_id: t-66945
-  teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
+  teiginys: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis siaubė Pagudę bei Pamedę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66946"></a>
 - t-002
   global_id: t-66946
-  teiginys: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
+  teiginys: 'Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
@@ -71,6 +72,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis siaubė Pagudę bei Pamedę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Veklico pilies ir vienos pilaitės sugriovimą
@@ -106,3 +108,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/grupes/Pagudėnai]]

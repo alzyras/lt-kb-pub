@@ -27,7 +27,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 <a id="claim-t-183498"></a>
 - t-002
   global_id: t-183498
-  teiginys: 'Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija.'
+  teiginys: 'Prasidėjus ekonomikos krizei ir lietuviams veržiantis į miestų pramonę bei prekybą, sustiprėjo konkurencija.'
   pagrindžia:
     - c-001
 

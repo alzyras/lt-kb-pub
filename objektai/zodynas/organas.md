@@ -90,4 +90,3 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 - [[objektai/grupes/Susivienijimas Lietuvių Rymo Katalikų Amerikoje]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/seniūnas storasta]]
-- [[objektai/ivykiai/Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.)]]

@@ -19,13 +19,14 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
 <a id="claim-t-59126"></a>
 - t-001
   global_id: t-59126
-  teiginys: 'Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsakydavo: „Man būtų visai nesvarbu, ką su jais darau, jeigu nerūpėtų, kad būčiau jų sužeistas penkiomis žaizdomis, kaip už mane buvo sužeistas Kristus“.'
+  teiginys: 'Brolis Ulrichas aiškino savo įtūžį prieš sūduvius noru būti jų sužeistam penkiomis žaizdomis kaip Kristus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Ulrichas aiškino savo įtūžį prieš sūduvius noru būti jų sužeistam penkiomis žaizdomis kaip Kristus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Ulricho kovas su sūduviais

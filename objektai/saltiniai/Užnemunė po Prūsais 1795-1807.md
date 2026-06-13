@@ -29,7 +29,7 @@ amziai:
 <a id="claim-t-97274"></a>
 - t-001
   global_id: t-97274
-  teiginys: 'Augustinas Janulaitis 1928 m. parašė veikalą „Užnemunė po Prūsais 1795-1807“.'
+  teiginys: 'Augustino Janulaičio raštas „Užnemunė po Prūsais 1795-1807“ paminėtas tarp jo darbų su 1928 m. data.'
   pagrindžia:
     - c-001
 

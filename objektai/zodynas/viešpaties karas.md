@@ -22,13 +22,14 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 <a id="claim-t-58941"></a>
 - t-001
   global_id: t-58941
-  teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
+  teiginys: 'Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
@@ -48,4 +49,5 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]

@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-80685"></a>
 - t-001
   global_id: t-80685
-  teiginys: 'Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį naudojo raitarai, o tam tikrais atvejais ir ATR husarų vėliavų eiliniai.'
+  teiginys: 'Šalmas „Pappenheimer“ buvo kavalerijai skirtas šalmas, ilgai naudotas raitarų ir kartais ATR husarų vėliavų eilinių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-80686"></a>
 - t-002
   global_id: t-80686
-  teiginys: 'Šalmas „Pappenheimer“ (pavadinmas kilęs nuo garsaus karvedžio pavardės) - tai vakarietiška iš rytų perimto šyšako (vok.'
+  teiginys: 'Šalmas „Pappenheimer“ buvo iš rytų perimto šyšako vakarietiška atmaina, paplitusi XVII a.'
   pagrindžia:
     - c-001
 
@@ -88,3 +88,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/raitarai]]

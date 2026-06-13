@@ -48,14 +48,14 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 <a id="claim-t-23260"></a>
 - t-003
   global_id: t-23260
-  teiginys: 'T. Korsakas žuvo ginant Varšuvą.'
+  teiginys: 'Tadas Korsakas žuvo ginant Varšuvą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-26732"></a>
 - t-005
   global_id: t-26732
-  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  teiginys: 'Kazimieras Nestoras Sapiega seimui pristatė Abiejų Tautų tarpusavio įžadą, kurio autorius veikiausiai buvo Tadas Korsakas.'
   pagrindžia:
     - c-002
 

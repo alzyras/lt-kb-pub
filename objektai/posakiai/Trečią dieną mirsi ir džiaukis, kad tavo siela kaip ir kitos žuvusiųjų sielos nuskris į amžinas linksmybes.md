@@ -21,13 +21,14 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
 <a id="claim-t-59163"></a>
 - t-001
   global_id: t-59163
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino; paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną.'
+  teiginys: 'Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     41. Apie vieną stebuklą
@@ -56,5 +57,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/zodynas/pilėnas]]
 - [[objektai/daiktai/Smilkytuvas ir žvakės]]

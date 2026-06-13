@@ -27,13 +27,14 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 <a id="claim-t-100154"></a>
 - t-001
   global_id: t-100154
-  teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
+  teiginys: 'Vladimirovo straipsnis „Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu“ paskelbtas BBK 3 tome 1964 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vladimirovo straipsnis „Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu“ paskelbtas BBK 3 tome 1964 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vladimirovo straipsniai:** **_Caro vyriausybės politika

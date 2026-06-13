@@ -202,7 +202,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
 - [[objektai/zodynas/žygūnai]]
 - [[objektai/posakiai/Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais]]
-- [[objektai/asmenys/Ditrichas iš Piremonto]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
 - [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]

@@ -24,35 +24,11 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   global_id: t-86042
   teiginys: 'Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-86043"></a>
-- t-002
-  global_id: t-86043
-  teiginys: 'Livoniae) TI, p. 136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    II
-    (Plg. InJ. cod. hist. di pl. Livoniae)
-    TI, p. 136, N533
-    Dinaburgo komtūro pranešimas Livonijos magistrui apie
-    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
-    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
-    penktadienį prieš Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

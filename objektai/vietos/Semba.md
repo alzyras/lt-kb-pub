@@ -44,63 +44,63 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 <a id="claim-t-182830"></a>
 - t-002
   global_id: t-182830
-  teiginys: '1324 m. Ragainės komtūras Tomas Aldenburgas su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį.'
+  teiginys: '1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183808"></a>
 - t-003
   global_id: t-183808
-  teiginys: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn.'
+  teiginys: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjį - Dobrynės kunigaikštystę.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-183809"></a>
 - t-004
   global_id: t-183809
-  teiginys: 'Tai sužinoję lietuviai persekiojo priešą, įsiveržė į Sembą, niokojo priešo teritoriją.'
+  teiginys: 'Lietuviai įsiveržė į Sembą ir niokojo priešo teritoriją.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-184198"></a>
 - t-005
   global_id: t-184198
-  teiginys: 'Dusburgietis teigia, kad apie karo su sembais rezultatų atspėjimą Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą, maloniai jį priėmė, aprodydami visą jų.'
+  teiginys: 'Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-184199"></a>
 - t-006
   global_id: t-184199
-  teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
+  teiginys: '1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-184200"></a>
 - t-007
   global_id: t-184200
-  teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už.'
+  teiginys: 'Sūduviai, pasitelkę lietuvius, užpuolė Sembos žemę ir dešimt dienų degino sodybas bei kitką už pilių ir įtvirtinimų.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-184201"></a>
 - t-008
   global_id: t-184201
-  teiginys: 'Dusburgietis teigia, kad juos išvydęs, magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.'
+  teiginys: 'Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-184202"></a>
 - t-009
   global_id: t-184202
-  teiginys: 'Dusburgietis teigia, kad tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę.'
+  teiginys: 'Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-184203"></a>
 - t-010
   global_id: t-184203
-  teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš.'
+  teiginys: 'Tų pačių metų rudenį lietuvių karalius su 8000 raitelių įsibrovė į Sembos žemę ir sudegino pastatus bei pasėlius.'
   pagrindžia:
     - c-011
 
@@ -154,7 +154,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-012
 
 - c-002
-  santrauka: '1324 m. Ragainės komtūras Tomas Aldenburgas su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį.'
+  santrauka: '1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
@@ -213,7 +213,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-001
 
 - c-004
-  santrauka: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn.'
+  santrauka: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjį - Dobrynės kunigaikštystę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kovo viduryje „lietuviai iš Žemaitijos
@@ -228,7 +228,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-003
 
 - c-005
-  santrauka: 'Tai sužinoję lietuviai persekiojo priešą, įsiveržė į Sembą, niokojo priešo teritoriją.'
+  santrauka: 'Lietuviai įsiveržė į Sembą ir niokojo priešo teritoriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prailgus budėti,
@@ -245,7 +245,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-004
 
 - c-006
-  santrauka: 'Dusburgietis teigia, kad apie karo su sembais rezultatų atspėjimą Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą, maloniai jį priėmė, aprodydami visą jų.'
+  santrauka: 'Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     70 (69). Apie karo su sembais rezultatų atspėjimą
@@ -265,7 +265,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-005
 
 - c-007
-  santrauka: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
+  santrauka: '1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sembų pavergimą
@@ -285,7 +285,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-006
 
 - c-008
-  santrauka: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už.'
+  santrauka: 'Sūduviai, pasitelkę lietuvius, užpuolė Sembos žemę ir dešimt dienų degino sodybas bei kitką už pilių ir įtvirtinimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sembos žemės nusiaubimą
@@ -304,7 +304,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-007
 
 - c-009
-  santrauka: 'Dusburgietis teigia, kad juos išvydęs, magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.'
+  santrauka: 'Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
@@ -324,7 +324,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-008
 
 - c-010
-  santrauka: 'Dusburgietis teigia, kad tada jiems paskyrė vedlį ir įsakė nedelsiant keliauti į Sembos žemę.'
+  santrauka: 'Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai padaręs,
@@ -341,7 +341,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - t-009
 
 - c-011
-  santrauka: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš.'
+  santrauka: 'Tų pačių metų rudenį lietuvių karalius su 8000 raitelių įsibrovė į Sembos žemę ir sudegino pastatus bei pasėlius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     237 (230). Apie Sembos žemės nusiaubimą

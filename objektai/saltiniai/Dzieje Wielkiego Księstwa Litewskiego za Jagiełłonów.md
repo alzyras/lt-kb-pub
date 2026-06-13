@@ -27,13 +27,14 @@ amziai:
 <a id="claim-t-96068"></a>
 - t-001
   global_id: t-96068
-  teiginys: '= Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów.'
+  teiginys: 'L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kol. = Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego

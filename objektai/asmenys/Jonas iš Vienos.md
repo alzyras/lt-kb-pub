@@ -21,13 +21,14 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 <a id="claim-t-60348"></a>
 - t-001
   global_id: t-60348
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
+  teiginys: 'Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
@@ -63,3 +64,4 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]

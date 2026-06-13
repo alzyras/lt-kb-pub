@@ -28,13 +28,14 @@ tags:
 <a id="claim-t-86113"></a>
 - t-002
   global_id: t-86113
-  teiginys: 'Žemė derlinga, Viktorijos upelis, nors mažas, bet vertas gražaus vardo.'
+  teiginys: 'Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Praėjusiais metais aplankę Pabaiską,

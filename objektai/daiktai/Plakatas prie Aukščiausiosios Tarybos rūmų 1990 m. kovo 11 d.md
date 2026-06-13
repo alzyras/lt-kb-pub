@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-45535"></a>
 - t-001
   global_id: t-45535
-  teiginys: 'Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.'
+  teiginys: '1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.'
   pagrindžia:
     - c-002
 
@@ -76,6 +76,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.

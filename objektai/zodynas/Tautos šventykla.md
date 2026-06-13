@@ -27,7 +27,7 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
 <a id="claim-t-75593"></a>
 - t-002
   global_id: t-75593
-  teiginys: 'Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų kūrimu, tautos atminimo vietų steigimu, tradicijų puoselėjimu – nacija turėjo įgyti atmintinų vietų ir savo didvyrių.'
+  teiginys: 'Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.'
   pagrindžia:
     - c-001
 

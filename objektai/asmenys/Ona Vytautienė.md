@@ -88,4 +88,5 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]
+- [[objektai/asmenys/Sofija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

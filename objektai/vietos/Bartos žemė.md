@@ -40,7 +40,7 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
 <a id="claim-t-184929"></a>
 - t-003
   global_id: t-184929
-  teiginys: 'Lietuviai nuvedė grobio prisiplėšusius karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
+  teiginys: 'Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.'
   pagrindžia:
     - c-003
 
@@ -90,7 +90,7 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
     - t-002
 
 - c-003
-  santrauka: 'Lietuviai nuvedė grobio prisiplėšusius karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
+  santrauka: 'Po Varmės nuniokojimo lietuviai nuvedė grobiu apsikrovusius karius į Bartos žemę ir sustojo pailsėti atvirame lauke.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Sutelkta

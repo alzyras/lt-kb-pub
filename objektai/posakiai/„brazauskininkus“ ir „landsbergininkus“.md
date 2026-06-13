@@ -28,13 +28,14 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 <a id="claim-t-77844"></a>
 - t-001
   global_id: t-77844
-  teiginys: 'Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
+  teiginys: 'Po LDDP ir konservatorių rinkimų sėkmių sakyta, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po LDDP ir konservatorių rinkimų sėkmių sakyta, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomenė darėsi pliuralistinė, įre-

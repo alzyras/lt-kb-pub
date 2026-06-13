@@ -37,7 +37,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 <a id="claim-t-171531"></a>
 - t-002
   global_id: t-171531
-  teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
+  teiginys: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o Durbės mūšio kontekste - tik lietuvius arba pagonis.'
   pagrindžia:
     - c-003
 
@@ -58,14 +58,14 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 <a id="claim-t-171534"></a>
 - t-005
   global_id: t-171534
-  teiginys: 'Matyt, nutarę vengti lemiamo mūšio, Algirdas ir Dmitrijus sudarė taiką („Dievas išklausė jų maldų ir dovanojo taiką ir išsigelbėjimą nuo mirties“ - pažymi rusų metraštininkas), todėl kariuomenės patraukė LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS Žygis į Livoniją.'
+  teiginys: '1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-184608"></a>
 - t-006
   global_id: t-184608
-  teiginys: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didžiulį grobį į Polocką.'
+  teiginys: 'Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
   pagrindžia:
     - c-005
 
@@ -94,6 +94,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - t-003
 
 - c-002
+  santrauka: '1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Matyt, nutarę vengti lemiamo mūšio,
@@ -121,6 +122,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - t-005
 
 - c-003
+  santrauka: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o Durbės mūšio kontekste - tik lietuvius arba pagonis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pajėgos
@@ -163,7 +165,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - t-004
 
 - c-005
-  santrauka: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didžiulį grobį į Polocką.'
+  santrauka: 'Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai

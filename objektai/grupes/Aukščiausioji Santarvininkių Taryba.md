@@ -43,7 +43,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 <a id="claim-t-72031"></a>
 - t-003
   global_id: t-72031
-  teiginys: '1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba buvo nustačiusi Kerzono liniją Suvalkų krašte.'
+  teiginys: '1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė Kerzono liniją Suvalkų krašte.'
   pagrindžia:
     - c-002
 

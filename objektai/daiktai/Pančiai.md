@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-59698"></a>
 - t-001
   global_id: t-59698
-  teiginys: 'Dusburgietis teigia, kad tačiau pačią pirmąją naktį, kai broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius, o kitam nukirto ranką, tačiau ir pats šioje.'
+  teiginys: 'Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasiėmęs

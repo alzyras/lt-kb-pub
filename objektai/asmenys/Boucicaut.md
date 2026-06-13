@@ -29,7 +29,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 <a id="claim-t-87490"></a>
 - t-002
   global_id: t-87490
-  teiginys: 'Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24.'
+  teiginys: 'Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     - t-001
 
 - c-002
+  santrauka: 'Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mykolą paskirtas Ordino didžiuoju

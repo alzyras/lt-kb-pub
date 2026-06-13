@@ -202,6 +202,7 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/posakiai/„taikdarišką“ ir „tarpininkavimo“ misiją]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
 - [[objektai/posakiai/Ab alio expectes alteri quod feceris]]
+- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
 - [[objektai/daiktai/Patranka Hidra]]
 - [[objektai/grupes/Radvilos]]

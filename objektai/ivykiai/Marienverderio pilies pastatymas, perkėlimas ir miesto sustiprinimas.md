@@ -46,14 +46,14 @@ Nenurodyta
 <a id="claim-t-66768"></a>
 - t-001
   global_id: t-66768
-  teiginys: 'Dusburgietis teigia, kad apie Marienverderio miesto pastatymą Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai trokštamų įžadų, atvyko daug kunigaikščių iš Lenkijos: kunigaikštis Konradas227, Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo.'
+  teiginys: 'Lenkijos ir Pomeranijos kunigaikščiai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66769"></a>
 - t-002
   global_id: t-66769
-  teiginys: 'Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir.'
+  teiginys: '1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos ir Pomeranijos kunigaikščiai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Marienverderio miesto pastatymą

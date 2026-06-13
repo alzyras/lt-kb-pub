@@ -49,5 +49,4 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/leno teisė]]

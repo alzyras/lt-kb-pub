@@ -51,7 +51,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 <a id="claim-t-184282"></a>
 - t-006
   global_id: t-184282
-  teiginys: 'Jonas XXIII pasiūlė Vytautui pavesti bylą su Vokiečių ordinu Konstancijos susirinkimui.'
+  teiginys: 'Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.'
   pagrindžia:
     - c-006
 
@@ -138,7 +138,7 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - t-005
 
 - c-006
-  santrauka: 'Jonas XXIII pasiūlė Vytautui pavesti bylą su Vokiečių ordinu Konstancijos susirinkimui.'
+  santrauka: 'Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Inocentas VII, Gregorijus XII ir Aleksandras V parem­

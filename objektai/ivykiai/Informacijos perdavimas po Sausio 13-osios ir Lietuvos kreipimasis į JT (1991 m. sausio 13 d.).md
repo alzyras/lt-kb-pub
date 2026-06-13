@@ -44,13 +44,21 @@ Nenurodyta
 <a id="claim-t-20208"></a>
 - t-001
   global_id: t-20208
-  teiginys: 'Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
+  teiginys: 'Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183223"></a>
+- t-002
+  global_id: t-183223
+  teiginys: 'Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Solidarumas“ pradėjo, o Vokietijos susivie-
@@ -67,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
+  santrauka: 'Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-

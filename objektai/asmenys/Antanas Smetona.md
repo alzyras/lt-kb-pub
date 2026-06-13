@@ -37,7 +37,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75710"></a>
 - t-002
   global_id: t-75710
-  teiginys: 'Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.'
+  teiginys: 'Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   pagrindžia:
     - c-016
 
@@ -51,14 +51,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75712"></a>
 - t-004
   global_id: t-75712
-  teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
+  teiginys: '1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-75713"></a>
 - t-005
   global_id: t-75713
-  teiginys: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
+  teiginys: '1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus.'
   pagrindžia:
     - c-003
 
@@ -128,7 +128,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75723"></a>
 - t-015
   global_id: t-75723
-  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  teiginys: '1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.'
   pagrindžia:
     - c-019
 
@@ -156,7 +156,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75727"></a>
 - t-019
   global_id: t-75727
-  teiginys: 'Smetona užvėrė duris kompromisui.'
+  teiginys: '1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija.'
   pagrindžia:
     - c-030
 
@@ -170,14 +170,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75729"></a>
 - t-021
   global_id: t-75729
-  teiginys: 'Smetona iš balkono sveikino minias.'
+  teiginys: '1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.'
   pagrindžia:
     - c-022
 
 <a id="claim-t-75730"></a>
 - t-022
   global_id: t-75730
-  teiginys: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
+  teiginys: 'Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste.'
   pagrindžia:
     - c-012
 
@@ -207,7 +207,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   global_id: t-75734
   teiginys: 'Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
   pagrindžia:
-    - c-008
     - c-002
 
 <a id="claim-t-75735"></a>
@@ -227,7 +226,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75737"></a>
 - t-029
   global_id: t-75737
-  teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
+  teiginys: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   pagrindžia:
     - c-001
 
@@ -269,17 +268,17 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75743"></a>
 - t-035
   global_id: t-75743
-  teiginys: 'Smetonos valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės įgyvendintas.'
+  teiginys: 'Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-75744"></a>
 - t-036
   global_id: t-75744
-  teiginys: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
+  teiginys: 'Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   pagrindžia:
-    - c-029
     - c-006
+    - c-029
 
 <a id="claim-t-75745"></a>
 - t-037
@@ -312,14 +311,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75749"></a>
 - t-041
   global_id: t-75749
-  teiginys: 'Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią šalies politinę jėgą – krikščionis demokratus.'
+  teiginys: '1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-75750"></a>
 - t-042
   global_id: t-75750
-  teiginys: 'Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas.'
+  teiginys: 'Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.'
   pagrindžia:
     - c-010
 
@@ -347,14 +346,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75754"></a>
 - t-046
   global_id: t-75754
-  teiginys: 'Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.'
+  teiginys: 'Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-75755"></a>
 - t-047
   global_id: t-75755
-  teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  teiginys: '1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.'
   pagrindžia:
     - c-020
 
@@ -407,13 +406,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   pagrindžia:
     - c-025
 
-<a id="claim-t-75765"></a>
-- t-055
-  global_id: t-75765
-  teiginys: 'Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.'
-  pagrindžia:
-    - c-023
-
 <a id="claim-t-75766"></a>
 - t-056
   global_id: t-75766
@@ -424,13 +416,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-183525"></a>
 - t-057
   global_id: t-183525
-  teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  teiginys: 'Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-031
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
@@ -529,6 +522,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-053
 
 - c-006
+  santrauka: 'Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
@@ -637,6 +631,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-050
 
 - c-012
+  santrauka: 'Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
@@ -751,6 +746,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-025
 
 - c-018
+  santrauka: 'Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
@@ -772,6 +768,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-046
 
 - c-019
+  santrauka: '1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
@@ -786,6 +783,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-015
 
 - c-020
+  santrauka: '1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
@@ -825,6 +823,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-052
 
 - c-022
+  santrauka: '1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
@@ -957,6 +956,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-034
 
 - c-029
+  santrauka: 'Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
@@ -972,6 +972,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-036
 
 - c-030
+  santrauka: '1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karinėje srityje
@@ -989,7 +990,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-019
 
 - c-031
-  santrauka: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  santrauka: 'Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugiausia dėmesio jie skyrė katalikišką
@@ -1047,11 +1048,15 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/posakiai/Iki gyvos galvos]]
+- [[objektai/zodynas/kompromisas]]
 - [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/posakiai/„vietos visiems užteks“]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/daiktai/Kino kronikos kameros]]
+- [[objektai/grupes/Lietuvių tautininkų sąjunga]]
 - [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
 - [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
 - [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]

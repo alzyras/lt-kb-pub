@@ -29,27 +29,28 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 <a id="claim-t-58822"></a>
 - t-001
   global_id: t-58822
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
+  teiginys: 'Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58823"></a>
 - t-002
   global_id: t-58823
-  teiginys: 'Dusburgietis teigia, kad apie Tiuringijos landgrafo išrinkimą Romos karaliumi 1246 metais Tiuringijos landgrafas buvo išrinktas Romos karaliumi (Ptol.'
+  teiginys: '1246 m. Tiuringijos landgrafas buvo išrinktas Romos karaliumi.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58824"></a>
 - t-003
   global_id: t-58824
-  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
@@ -69,6 +70,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
     - t-001
 
 - c-002
+  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
@@ -86,6 +88,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
     - t-003
 
 - c-003
+  santrauka: '1246 m. Tiuringijos landgrafas buvo išrinktas Romos karaliumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     32. Apie Tiuringijos landgrafo išrinkimą Romos karaliumi
@@ -132,6 +135,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
 - [[objektai/asmenys/Volfgeris]]
 - [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Konradas (Tiuringijos landgrafas)]]
 - [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

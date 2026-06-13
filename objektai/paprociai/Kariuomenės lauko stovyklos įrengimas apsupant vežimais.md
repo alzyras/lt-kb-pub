@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-78697"></a>
 - t-002
   global_id: t-78697
-  teiginys: 'Susibūrusi į vieną vietą, visa kariuomenė apsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai daug, tik nelabai didelių; išorėje.'
+  teiginys: 'Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.'
   pagrindžia:
     - c-001
 

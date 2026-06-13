@@ -38,13 +38,14 @@ Nenurodyta
 <a id="claim-t-91906"></a>
 - t-001
   global_id: t-91906
-  teiginys: 'Dusburgietis teigia, kad apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų Šitai padarę, magistras brolis Hermanas ir kiti broliai suburė žiemą231, kai stipriausias šaltis buvo viską sukaustęs, minėtuosius maldininkus, karštai trokštančius sutramdyti prūsų.'
+  teiginys: 'Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų
@@ -78,3 +79,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Krikščionys]]

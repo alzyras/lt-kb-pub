@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-66790"></a>
 - t-002
   global_id: t-66790
-  teiginys: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
+  teiginys: '1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.'
   pagrindžia:
     - c-002
 

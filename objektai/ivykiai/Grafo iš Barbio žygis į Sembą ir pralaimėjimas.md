@@ -35,14 +35,14 @@ Nenurodyta
 <a id="claim-t-62794"></a>
 - t-001
   global_id: t-62794
-  teiginys: 'Dusburgietis teigia, kad apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę.'
+  teiginys: 'Grafas iš Barbio su didele kariuomene atžygiavo į Prūsiją ir įsibrovė į Sembos žemę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62795"></a>
 - t-002
   global_id: t-62795
-  teiginys: 'Dusburgietis teigia, kad kai ją nusiaubė, sembai susibūrė, užpuolė jį palaimintos mergelės Agnetės dieną (sausio 21) ir sunkiai jį sužeidė, o kiti buvo priversti sprukti, kai kurie pateko į nelaisvę arba buvo nužudyti.'
+  teiginys: 'Sembai sausio 21 d. užpuolė Sembą nusiaubusį grafą iš Barbio, jį sunkiai sužeidė ir privertė jo kariuomenę trauktis.'
   pagrindžia:
     - c-001
 
@@ -68,3 +68,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

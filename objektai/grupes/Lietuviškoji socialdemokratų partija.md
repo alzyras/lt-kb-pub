@@ -37,7 +37,7 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 <a id="claim-t-74618"></a>
 - t-002
   global_id: t-74618
-  teiginys: 'Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos.'
+  teiginys: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
     - t-004
 
 - c-002
+  santrauka: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
@@ -109,27 +110,11 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
-    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
-    demonstracijos, mitingai. Jų organizatoriai daugiausia buvo Rusijos, taip
-    pat lenkų socialistinių partijų vietos skyriai. Lietuvos socialdemokratų
-    partija ėmėsi agitacijos mažesniuose miesteliuose ir kaime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]

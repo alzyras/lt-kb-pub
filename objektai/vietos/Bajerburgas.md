@@ -30,7 +30,7 @@ amziai:
 <a id="claim-t-71842"></a>
 - t-001
   global_id: t-71842
-  teiginys: 'Visas Nemuno žemupys jau Vytenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Bajerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.'
+  teiginys: 'Gedimino laikais kryžiuočiai, pasistatę Bajerburgo ir Marijenburgo pilis, pasislinko arčiau Lietuvos.'
   pagrindžia:
     - c-004
 
@@ -44,7 +44,7 @@ amziai:
 <a id="claim-t-71844"></a>
 - t-003
   global_id: t-71844
-  teiginys: 'Apsaugoti toli lietuvių teritorijoje pastatytam Marienburgui, ant Nemuno kranto tada buvo pastatytas Bajerburgas (tarp Veliuonos ir Peštvės, prie upelės Kvalkės).'
+  teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti.'
   pagrindžia:
     - c-001
 
@@ -121,6 +121,7 @@ amziai:
     - t-002
 
 - c-004
+  santrauka: 'Gedimino laikais kryžiuočiai, pasistatę Bajerburgo ir Marijenburgo pilis, pasislinko arčiau Lietuvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vakaruose siena su kry-

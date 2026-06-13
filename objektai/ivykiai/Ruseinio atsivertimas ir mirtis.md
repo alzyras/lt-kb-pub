@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-59407"></a>
 - t-001
   global_id: t-59407
-  teiginys: 'Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido.'
+  teiginys: 'Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.'
   pagrindžia:
     - c-002
 

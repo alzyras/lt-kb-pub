@@ -116,7 +116,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 <a id="claim-t-103052"></a>
 - t-016
   global_id: t-103052
-  teiginys: 'Jiems vadovavo talentingas karvedys, jau pasižymėjęs kovose su totoriais ir vokiečių ordinu, tuometinis Kijevo vaivada ir LDK taurininkas Jurgis Radvila (vėliau tapęs LDK didžiuoju etmonu).'
+  teiginys: 'Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.'
   pagrindžia:
     - c-008
 
@@ -137,7 +137,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 <a id="claim-t-103055"></a>
 - t-019
   global_id: t-103055
-  teiginys: 'Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, Vilniaus ir vėliau Krokuvos vyskupas.'
+  teiginys: 'Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, iš pradžių Vilniaus, vėliau Krokuvos vyskupas.'
   pagrindžia:
     - c-010
 
@@ -340,6 +340,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
     - t-014
 
 - c-008
+  santrauka: 'Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos pajėgos
@@ -490,7 +491,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Kardinalijos namų kompleksas]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]

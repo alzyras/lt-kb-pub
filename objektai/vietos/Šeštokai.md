@@ -20,7 +20,7 @@ tags:
 <a id="claim-t-42358"></a>
 - t-001
   global_id: t-42358
-  teiginys: 'Šie batalionai išsikrovė Šeštokų geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje.'
+  teiginys: 'Pilėnų kunigaikščio Margio pulko 1-asis ir 2-asis batalionai išsikrovė Šeštokų geležinkelio stotyje.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Pilėnų kunigaikščio Margio pulko 1-asis ir 2-asis batalionai išsikrovė Šeštokų geležinkelio stotyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     [pulko] Pilėnų Kunigaikščio

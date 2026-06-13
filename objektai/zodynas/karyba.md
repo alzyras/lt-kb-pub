@@ -32,13 +32,6 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   pagrindžia:
     - c-001
 
-<a id="claim-t-183713"></a>
-- t-003
-  global_id: t-183713
-  teiginys: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,7 +86,6 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-001
 
 ## Ryšiai

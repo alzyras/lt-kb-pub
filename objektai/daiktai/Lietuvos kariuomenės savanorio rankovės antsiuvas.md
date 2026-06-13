@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-78672"></a>
 - t-001
   global_id: t-78672
-  teiginys: 'Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vokiečių kariuomenės.'
+  teiginys: 'Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas.'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-78674"></a>
 - t-003
   global_id: t-78674
-  teiginys: 'Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.'
+  teiginys: 'Pirmojo pavyzdžio Lietuvos karių uniformoje buvo trispalviai trikampiai kairės rankovės antsiuvai.'
   pagrindžia:
     - c-002
 
@@ -86,6 +86,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Pirmojo pavyzdžio Lietuvos karių uniformoje buvo trispalviai trikampiai kairės rankovės antsiuvai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido

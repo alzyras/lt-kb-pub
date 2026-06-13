@@ -28,13 +28,14 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
 <a id="claim-t-32603"></a>
 - t-001
   global_id: t-32603
-  teiginys: '1379–1380 m. žiemą Dimitro kariuomenė užėmė Starodubą ir Trubčevską, nes Dimitras be mūšio atidavė savo valdą.'
+  teiginys: '1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius

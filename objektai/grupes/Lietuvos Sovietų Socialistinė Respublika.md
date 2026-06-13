@@ -25,7 +25,7 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
 <a id="claim-t-74781"></a>
 - t-001
   global_id: t-74781
-  teiginys: 'Sudarius marionetinę vyriausybę netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.'
+  teiginys: 'Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
     - t-002
 
 - c-002
+  santrauka: 'Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 II 16

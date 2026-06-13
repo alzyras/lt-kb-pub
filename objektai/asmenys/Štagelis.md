@@ -28,13 +28,14 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 <a id="claim-t-87935"></a>
 - t-001
   global_id: t-87935
-  teiginys: 'Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.'
+  teiginys: 'Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rašyta Vilniaus mieste, 1507 me­

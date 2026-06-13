@@ -87,3 +87,4 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 - [[objektai/posakiai/„narsią ir karingą tautą“]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
+- [[objektai/zodynas/istorinė Lietuva]]

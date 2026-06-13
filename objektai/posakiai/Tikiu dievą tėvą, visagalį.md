@@ -20,13 +20,14 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
 <a id="claim-t-59161"></a>
 - t-001
   global_id: t-59161
-  teiginys: 'Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visagalį...“ bei visa kita, kas „Apaštalų tikėjimo išpažinime“ pasakyta, ir tučtuojau abu išnyko.'
+  teiginys: 'Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius

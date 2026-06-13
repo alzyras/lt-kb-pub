@@ -27,7 +27,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 <a id="claim-t-179438"></a>
 - t-001
   global_id: t-179438
-  teiginys: 'Toks kaltinimų ordinui kartojimas yra davęs progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos ordino priešai — rygiečiai.'
+  teiginys: 'Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.'
   pagrindžia:
     - c-004
 
@@ -36,10 +36,10 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   global_id: t-179439
   teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
   pagrindžia:
+    - c-001
     - c-002
     - c-004
     - c-005
-    - c-001
 
 <a id="claim-t-179441"></a>
 - t-003

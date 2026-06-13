@@ -23,14 +23,14 @@ tags:
 <a id="claim-t-96093"></a>
 - t-001
   global_id: t-96093
-  teiginys: 'Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).'
+  teiginys: 'Lietuviams reikalaujant, po unijos akto Lietuvai liko nepaliestas visas valdžios aparatas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-96094"></a>
 - t-002
   global_id: t-96094
-  teiginys: 'Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti pagonio valdoma.'
+  teiginys: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   pagrindžia:
     - c-004
 
@@ -44,7 +44,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti pagonio valdoma.'
+  santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galima spėti, kad Jogaila matomai ieškojo Lietuvai
@@ -61,6 +61,7 @@ tags:
     - t-003
 
 - c-002
+  santrauka: 'Lietuviams reikalaujant, po unijos akto Lietuvai liko nepaliestas visas valdžios aparatas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
@@ -81,7 +82,7 @@ tags:
     - t-001
 
 - c-003
-  santrauka: 'Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti pagonio valdoma.'
+  santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^264) **n** skyrius: valstybės iškilimas
@@ -99,6 +100,7 @@ tags:
     - t-003
 
 - c-004
+  santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors valstybėje

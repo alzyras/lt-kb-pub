@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-26382"></a>
 - t-001
   global_id: t-26382
-  teiginys: '1953 m. agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
+  teiginys: '1953 m. pavasarį užverbuoti agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų J. Žemaitis-Vytautas sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1953 m. pavasarį užverbuoti agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų J. Žemaitis-Vytautas sušaudytas Maskvos Butyrkų kalėjime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1953 m. pavasarį užverbuoti

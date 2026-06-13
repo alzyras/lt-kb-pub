@@ -29,7 +29,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 <a id="claim-t-69174"></a>
 - t-001
   global_id: t-69174
-  teiginys: 'Dusburgietis teigia, kad kitą dieną patraukė į Rudavos valsčių ir ten pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų, 321 D.— Medenow, Jer.'
+  teiginys: 'Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta.'
   pagrindžia:
     - c-003
 
@@ -43,7 +43,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 <a id="claim-t-69176"></a>
 - t-003
   global_id: t-69176
-  teiginys: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  teiginys: '1370 m. vasario 17 d. lietuviai vėl susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1370 m. vasario 17 d. lietuviai vėl susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai jų žval­

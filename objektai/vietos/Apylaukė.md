@@ -33,7 +33,7 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 <a id="claim-t-79296"></a>
 - t-002
   global_id: t-79296
-  teiginys: 'Lapkričio 21 d. atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.'
+  teiginys: '1920 m. lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.'
   pagrindžia:
     - c-001
 

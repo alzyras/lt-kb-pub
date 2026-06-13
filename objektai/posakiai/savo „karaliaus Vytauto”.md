@@ -27,13 +27,14 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
 <a id="claim-t-93131"></a>
 - t-002
   global_id: t-93131
-  teiginys: 'Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo jis jau ne tik pabėgėlis, bet ir Žemaičių karalius.'
+  teiginys: 'Kryžiuočių akyse Vytauto prestižas turėjo pakilti, nes jiems Vytautas buvo ne tik pabėgėlis, bet ir Žemaičių karalius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kryžiuočių akyse Vytauto prestižas turėjo pakilti, nes jiems Vytautas buvo ne tik pabėgėlis, bet ir Žemaičių karalius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš šitos sutar­

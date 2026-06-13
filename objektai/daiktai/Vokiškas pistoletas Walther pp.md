@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-80697"></a>
 - t-001
   global_id: t-80697
-  teiginys: '220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.'
+  teiginys: 'Vokiškas pistoletas Walther PP citatoje įvardytas kaip Walther Polizeipistole ir nurodytas kaip VDKM iliustracija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vokiškas pistoletas Walther PP citatoje įvardytas kaip Walther Polizeipistole ir nurodytas kaip VDKM iliustracija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 220, Sovietų pistoletas TT (TT 33), VDKM, Artūro Užgalio nuotr.

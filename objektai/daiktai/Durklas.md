@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-59683"></a>
 - t-001
   global_id: t-59683
-  teiginys: 'Dusburgietis teigia, kad kodėl nelyginant patrakėlis Judas tą pačią dieną valgei jo valgymą bei gėrei jo gėrimą, o po to praliejai jo kūno kraują, pervėręs jį durklu?'
+  teiginys: 'Neįvardytas asmuo praliejo kito žmogaus kraują, pervėręs jį durklu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Neįvardytas asmuo praliejo kito žmogaus kraują, pervėręs jį durklu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kodėl nepasikliovei jo gerumu? Kodėl nelyginant patrakėlis Judas tą pačią dieną valgei

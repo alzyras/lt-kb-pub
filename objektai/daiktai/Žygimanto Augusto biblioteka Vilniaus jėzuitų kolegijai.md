@@ -39,14 +39,14 @@ Nenurodyta
 <a id="claim-t-87130"></a>
 - t-001
   global_id: t-87130
-  teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir jo paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
+  teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir jo paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
+  santrauka: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mir­

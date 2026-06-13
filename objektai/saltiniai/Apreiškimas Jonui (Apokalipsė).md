@@ -27,7 +27,7 @@ tags:
 <a id="claim-t-183356"></a>
 - t-002
   global_id: t-183356
-  teiginys: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
+  teiginys: 'Pirmasis krikštas Lietuvoje siejamas su krikščioniškosios Europos Millenniumo idėja, kildinama iš Apreiškimo Jonui.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
+  santrauka: 'Pirmasis krikštas Lietuvoje siejamas su krikščioniškosios Europos Millenniumo idėja, kildinama iš Apreiškimo Jonui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs

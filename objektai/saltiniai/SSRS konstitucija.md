@@ -26,7 +26,7 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 <a id="claim-t-67533"></a>
 - t-001
   global_id: t-67533
-  teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
+  teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai

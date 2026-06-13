@@ -48,13 +48,14 @@ Nenurodyta
 <a id="claim-t-77928"></a>
 - t-001
   global_id: t-77928
-  teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  teiginys: '1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvomis buvo nustatyta geltona, žalia ir raudona.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1922 m. Lietuvos Valstybės Konstitucijoje valstybės vėliavos spalvomis buvo nustatyta geltona, žalia ir raudona.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-

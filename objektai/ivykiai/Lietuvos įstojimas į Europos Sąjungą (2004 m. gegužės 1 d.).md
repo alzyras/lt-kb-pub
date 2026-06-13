@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-75222"></a>
 - t-001
   global_id: t-75222
-  teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
+  teiginys: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-

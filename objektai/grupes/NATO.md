@@ -26,7 +26,7 @@ amziai:
 <a id="claim-t-19949"></a>
 - t-001
   global_id: t-19949
-  teiginys: '2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.'
+  teiginys: '2004 m. Lietuva tapo NATO ir Europos Sąjungos nare.'
   pagrindžia:
     - c-001
 
@@ -37,16 +37,10 @@ amziai:
   pagrindžia:
     - c-002
 
-<a id="claim-t-183173"></a>
-- t-003
-  global_id: t-183173
-  teiginys: 'Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2004 m. Lietuva tapo NATO ir Europos Sąjungos nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiuo ir kitais atvejais mūsų intelektualai, akademikai,

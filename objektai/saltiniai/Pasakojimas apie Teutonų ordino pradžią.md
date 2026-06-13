@@ -39,7 +39,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 <a id="claim-t-60944"></a>
 - t-002
   global_id: t-60944
-  teiginys: 'Dusburgietis teigia, kad kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino priklausomumą nuo joanitų141.'
+  teiginys: '„Pasakojime apie Teutonų ordino pradžią“ yra duomenų, kad Vokiečių ordino kūrimasis buvo ilgesnis procesas, pasibaigęs 1198 m.'
   pagrindžia:
     - c-003
 
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 <a id="claim-t-60946"></a>
 - t-004
   global_id: t-60946
-  teiginys: 'Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs Akone greičiausiai 1204—1211 m. ankstesnių (XII a.'
+  teiginys: '„Pasakojimas apie Teutonų ordino pradžią“ yra seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą.'
   pagrindžia:
     - c-004
 
@@ -95,6 +95,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - t-003
 
 - c-003
+  santrauka: '„Pasakojime apie Teutonų ordino pradžią“ yra duomenų, kad Vokiečių ordino kūrimasis buvo ilgesnis procesas, pasibaigęs 1198 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia Dusburgietis pateikia oficialią
@@ -109,6 +110,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - t-002
 
 - c-004
+  santrauka: '„Pasakojimas apie Teutonų ordino pradžią“ yra seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs

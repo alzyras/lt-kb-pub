@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-01899"></a>
 - t-002
   global_id: t-01899
-  teiginys: 'Želigovskio smurto išvakarėse lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
+  teiginys: 'Želigovskio smurto derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Želigovskio smurto išvakarėse lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
+  santrauka: 'Želigovskio smurto derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pati sutartis

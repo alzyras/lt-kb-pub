@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-183232"></a>
 - t-002
   global_id: t-183232
-  teiginys: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
+  teiginys: 'Sovietų valdžia sekė kunigus, aprašinėjo pamokslus ir registravo, kas pas kunigus užeina.'
   pagrindžia:
     - c-001
 

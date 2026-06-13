@@ -36,7 +36,7 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 <a id="claim-t-183552"></a>
 - t-002
   global_id: t-183552
-  teiginys: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
+  teiginys: '1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
     - t-001
 
 - c-002
-  santrauka: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
+  santrauka: '1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartais teigia-
@@ -80,3 +80,4 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]
+- [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius)]]

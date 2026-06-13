@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-97034"></a>
 - t-002
   global_id: t-97034
-  teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
+  teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   pagrindžia:
     - c-001
 
@@ -60,13 +60,6 @@ Nenurodyta
   teiginys: 'Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-97036"></a>
-- t-004
-  global_id: t-97036
-  teiginys: '1325 m. iš Avignono sugrįžęs Rygos arkivyskupas paskelbė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-97037"></a>
 - t-005

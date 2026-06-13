@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-23340"></a>
 - t-004
   global_id: t-23340
-  teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  teiginys: 'Lietuva 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
   pagrindžia:
     - c-001
 

@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-39272"></a>
 - t-001
   global_id: t-39272
-  teiginys: 'PPS 41 buvo gausiai gamintas Antrojo pasaulinio karo pistoletas-kulkosvaidis, kurį Lietuvos partizanai dažnai naudojo iki pasipriešinimo kovų pabaigos.'
+  teiginys: 'PPS 41 buvo vienas gausiausiai gamintų Antrojo pasaulinio karo pistoletų-kulkosvaidžių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'PPS 41 buvo vienas gausiausiai gamintų Antrojo pasaulinio karo pistoletų-kulkosvaidžių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vadas Jonas Neifaltas-

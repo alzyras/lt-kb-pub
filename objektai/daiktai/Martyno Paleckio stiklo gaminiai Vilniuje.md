@@ -53,7 +53,7 @@ Nenurodyta
 <a id="claim-t-55042"></a>
 - t-002
   global_id: t-55042
-  teiginys: 'Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.'
+  teiginys: 'Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-55044"></a>
 - t-004
   global_id: t-55044
-  teiginys: 'Už žemės dovanojimą Paleckiui įsakyta kasmet pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų Kurovo stiklinių ir po 200 mažesniųjų.'
+  teiginys: 'Už žemės dovanojimą Martynas Paleckis turėjo kasmet pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.'
   pagrindžia:
     - c-002
 

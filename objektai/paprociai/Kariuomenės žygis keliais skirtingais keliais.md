@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-62683"></a>
 - t-001
   global_id: t-62683
-  teiginys: 'Dusburgietis teigia, kad apie nuostabų atsitikimą šiame kare Turime pažymėti, kad, pradėjus kokį karą, paprastai kariuomenė traukia į žygį ne vienu keliu, bet keliais skirtingais, nes žygio metu norima palaikyti tvarką ir išvengti kamšaties.'
+  teiginys: 'Kariuomenė paprastai traukdavo į žygį keliais skirtingais keliais, kad palaikytų tvarką ir išvengtų kamšaties.'
   pagrindžia:
     - c-001
 

@@ -59,7 +59,7 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 <a id="claim-t-66508"></a>
 - t-003
   global_id: t-66508
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
+  teiginys: 'Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.'
   pagrindžia:
     - c-002
 
@@ -120,5 +120,6 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Nodamas]]

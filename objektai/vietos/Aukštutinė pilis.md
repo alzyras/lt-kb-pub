@@ -22,14 +22,14 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 <a id="claim-t-86059"></a>
 - t-001
   global_id: t-86059
-  teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
+  teiginys: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-86060"></a>
 - t-002
   global_id: t-86060
-  teiginys: 'Aukštutinė pilis ant Tauro kalno.'
+  teiginys: 'Aukštutinė pilis stovėjo ant Tauro kalno.'
   pagrindžia:
     - c-003
 
@@ -43,6 +43,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
@@ -80,6 +81,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - t-003
 
 - c-003
+  santrauka: 'Aukštutinė pilis stovėjo ant Tauro kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 217

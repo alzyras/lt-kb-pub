@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-62350"></a>
 - t-001
   global_id: t-62350
-  teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433.'
+  teiginys: 'Prūsų kariuomenė apsiautė Kulmenzės miestą, o jos vadas pažadėjo pasitraukti mainais į sužeisto prūso grąžinimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsų kariuomenė apsiautė Kulmenzės miestą, o jos vadas pažadėjo pasitraukti mainais į sužeisto prūso grąžinimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmenzės miesto apgulą

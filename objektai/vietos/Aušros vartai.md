@@ -26,13 +26,14 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 <a id="claim-t-77779"></a>
 - t-001
   global_id: t-77779
-  teiginys: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
+  teiginys: '1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Planinės

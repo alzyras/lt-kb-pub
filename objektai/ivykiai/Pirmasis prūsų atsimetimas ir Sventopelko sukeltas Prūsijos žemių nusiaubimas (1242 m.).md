@@ -45,21 +45,21 @@ Nenurodyta
 <a id="claim-t-66828"></a>
 - t-001
   global_id: t-66828
-  teiginys: 'Dusburgietis teigia, kad jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.'
+  teiginys: 'Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66829"></a>
 - t-002
   global_id: t-66829
-  teiginys: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
+  teiginys: 'Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-66830"></a>
 - t-003
   global_id: t-66830
-  teiginys: 'Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.'
+  teiginys: 'Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.'
   pagrindžia:
     - c-003
 
@@ -73,6 +73,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus tas pats Sventopelkas, velnio išpera, iš naujo sutelkė nuo tikėjimo
@@ -108,6 +109,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Sventopelkas įsakė naujakrikščiams visose Prūsijos žemėse sukilti prieš Teutonų ordino brolius ir atmesti tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie žemutinių Prūsijos žemės dalių nusiaubimą
@@ -161,5 +163,6 @@ Nenurodyta
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/autoriai/J. Poverskis]]
 - [[objektai/autoriai/Powierski J]]

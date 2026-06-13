@@ -21,7 +21,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
 <a id="claim-t-99942"></a>
 - t-001
   global_id: t-99942
-  teiginys: 'Jis pasidavė Maskvai, gaudamas Perejeslavlį.'
+  teiginys: 'Audriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Audriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuvykęs Maskvon, jis prikalbėjo

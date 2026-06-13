@@ -56,7 +56,7 @@ Nenurodyta
 <a id="claim-t-183306"></a>
 - t-002
   global_id: t-183306
-  teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
+  teiginys: 'Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-001
 
@@ -95,4 +95,5 @@ Nenurodyta
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

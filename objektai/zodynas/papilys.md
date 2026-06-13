@@ -35,21 +35,21 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 <a id="claim-t-58772"></a>
 - t-001
   global_id: t-58772
-  teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
+  teiginys: '1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-58773"></a>
 - t-002
   global_id: t-58773
-  teiginys: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.'
+  teiginys: '1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-58774"></a>
 - t-003
   global_id: t-58774
-  teiginys: 'Dusburgietis teigia, kad bežglovas (Bierzglowo), gyvenvietė į šiaurės vakarus nuo Torunės; mūrinė (vėlesnė) kryžiuočių pilis su papiliu atstatyta po 1277 m.'
+  teiginys: 'Bežglove po 1277 m. buvo atstatyta mūrinė kryžiuočių pilis su papiliu.'
   pagrindžia:
     - c-010
 
@@ -63,35 +63,35 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 <a id="claim-t-58776"></a>
 - t-005
   global_id: t-58776
-  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą 1324 metais Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras, ir 44 broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies papilį, sudegino jį ir išžudė visus.'
+  teiginys: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-58777"></a>
 - t-006
   global_id: t-58777
-  teiginys: 'Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė, visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti į brolių pilį.'
+  teiginys: 'Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58778"></a>
 - t-007
   global_id: t-58778
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 1318 viešpaties metais, rudenį, brolis Henrikas, maršalas, atžygiavo su didele kariuomene prie Junigedos ir Pieštvės pilių ir iki pamatų sudegino abiejų papilius, kuriuose tuo metu buvo apsčiai supilta naujo.'
+  teiginys: '1318 m. rudenį maršalas Henrikas su didele kariuomene sudegino Junigedos ir Pieštvės pilių papilius.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-58779"></a>
 - t-008
   global_id: t-58779
-  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  teiginys: '1317 m. Fridrichas iš Libencelės nesėkmingai bandė paimti Gedimino pilį, tačiau Ordino broliams pavyko sudeginti jos papilį.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-58780"></a>
 - t-009
   global_id: t-58780
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo.'
+  teiginys: '1293 m. magistras užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje.'
   pagrindžia:
     - c-011
 
@@ -105,23 +105,44 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 <a id="claim-t-58783"></a>
 - t-011
   global_id: t-58783
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Tų pačių metų rudenį, kai jau buvo atstatytas minėtasis papilys, o jame sukrauta visi grūdai bei javai, ten nužygiavo tas pats komtūras su savo broliais bei raiteliais ir antrą kartą sudegino tą papilį, paimdamas į nelaisvę ar nukaudamas visus.'
+  teiginys: 'Rudenį komtūras antrą kartą sudegino atstatytą papilį, kuriame buvo sukrauti grūdai ir javai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58784"></a>
 - t-012
   global_id: t-58784
-  teiginys: 'Dusburgietis teigia, kad apie Gardino papilio sunaikinimą 1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios pilies užkariauti brolį Albrechtą iš Hageno bei.'
+  teiginys: '1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino.'
   pagrindžia:
     - c-006
+
+<a id="claim-t-184009"></a>
+- t-013
+  global_id: t-184009
+  teiginys: 'Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.'
+  pagrindžia:
+    - c-013
 
 <a id="claim-t-184010"></a>
 - t-014
   global_id: t-184010
-  teiginys: 'Dusburgietis teigia, kad paskui patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.'
+  teiginys: 'Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.'
   pagrindžia:
     - c-014
+
+<a id="claim-t-184012"></a>
+- t-016
+  global_id: t-184012
+  teiginys: '1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į didelį ir gausiai gyvenamą Gardino papilį ir jį sudegino.'
+  pagrindžia:
+    - c-006
+
+<a id="claim-t-184013"></a>
+- t-017
+  global_id: t-184013
+  teiginys: '1317 m. Ordino broliams nepavyko paimti Gedimino pilies, tačiau jie visiškai sudegino jos papilį.'
+  pagrindžia:
+    - c-007
 
 <a id="claim-t-184633"></a>
 - t-018
@@ -133,6 +154,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
@@ -168,6 +190,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-004
 
 - c-003
+  santrauka: 'Rudenį komtūras antrą kartą sudegino atstatytą papilį, kuriame buvo sukrauti grūdai ir javai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     299 (292). Apie tą patį
@@ -188,6 +211,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-011
 
 - c-004
+  santrauka: '1318 m. rudenį maršalas Henrikas su didele kariuomene sudegino Junigedos ir Pieštvės pilių papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     335 (328). Apie Junigedos ir Pieštvės papilių sudeginimą
@@ -267,6 +291,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-017
 
 - c-008
+  santrauka: '1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     319 (312). Apie Bisenės papilių sudeginimą 1313 metais
@@ -286,6 +311,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-001
 
 - c-009
+  santrauka: '1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
@@ -306,6 +332,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-002
 
 - c-010
+  santrauka: 'Bežglove po 1277 m. buvo atstatyta mūrinė kryžiuočių pilis su papiliu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     438 D.— Birgelow; dab. Bežglovas (Bierzglowo), gyvenvietė  į šiaurės vakarus nuo
@@ -339,6 +366,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-015
 
 - c-012
+  santrauka: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Gedimino pilies papilio sudeginimą 1324 metais
@@ -356,7 +384,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-005
 
 - c-013
-  santrauka: 'Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai jį užpuolė, visiškai sugriovė pamedėnų gyvenvietę bei pilį424 ir brolių papilį, vienus paimdami į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti į brolių pilį.'
+  santrauka: 'Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
@@ -376,7 +404,7 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
     - t-013
 
 - c-014
-  santrauka: 'Dusburgietis teigia, kad paskui patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.'
+  santrauka: 'Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
@@ -447,10 +475,13 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Dusburgas]]
 - [[objektai/zodynas/Papilys suburbium]]
 - [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]
 - [[objektai/asmenys/Tomas Aldenburgas]]
+- [[objektai/asmenys/Ditrichas iš Altenburgo]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
 - [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
 - [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
@@ -458,6 +489,4 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 - [[objektai/asmenys/Konradas Štangė]]
 - [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
-- [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Sembai]]

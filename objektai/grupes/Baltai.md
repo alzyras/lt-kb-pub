@@ -30,7 +30,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 <a id="claim-t-96076"></a>
 - t-001
   global_id: t-96076
-  teiginys: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
+  teiginys: 'Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
     - c-006
 
@@ -44,7 +44,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 <a id="claim-t-96078"></a>
 - t-003
   global_id: t-96078
-  teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
+  teiginys: 'Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.'
   pagrindžia:
     - c-003
 
@@ -58,7 +58,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 <a id="claim-t-96081"></a>
 - t-005
   global_id: t-96081
-  teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
+  teiginys: 'Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.'
   pagrindžia:
     - c-010
 
@@ -72,7 +72,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 <a id="claim-t-96084"></a>
 - t-007
   global_id: t-96084
-  teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
+  teiginys: 'Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
   pagrindžia:
     - c-011
 
@@ -86,28 +86,28 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 <a id="claim-t-96086"></a>
 - t-009
   global_id: t-96086
-  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  teiginys: 'Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-96087"></a>
 - t-010
   global_id: t-96087
-  teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
+  teiginys: 'Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-96088"></a>
 - t-011
   global_id: t-96088
-  teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
+  teiginys: 'Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-183122"></a>
 - t-012
   global_id: t-183122
-  teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
+  teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.'
   pagrindžia:
     - c-012
 
@@ -151,6 +151,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-008
 
 - c-003
+  santrauka: 'Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
@@ -165,6 +166,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-003
 
 - c-004
+  santrauka: 'Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pasireiškė ir kitais atvejais, kovojant prieš vokiečių feodalinę agresiją. Taigi Lietuvos
@@ -194,6 +196,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-006
 
 - c-006
+  santrauka: 'Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
@@ -205,6 +208,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-001
 
 - c-007
+  santrauka: 'Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
@@ -241,6 +245,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-004
 
 - c-009
+  santrauka: 'Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2004
@@ -263,6 +268,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-009
 
 - c-010
+  santrauka: 'Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
@@ -284,6 +290,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-005
 
 - c-011
+  santrauka: 'Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
@@ -303,7 +310,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-007
 
 - c-012
-  santrauka: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
+  santrauka: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baltų gentys pradėjo formuotis III tūkstantme-
@@ -360,7 +367,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/grupes/Estai]]
-- [[objektai/autoriai/F. Bopas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
@@ -456,6 +462,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/Тоерреn M]]
 - [[objektai/autoriai/Топоров B. H]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [[objektai/daiktai/Pilys]]
 - [[objektai/grupes/Baltų žyniai]]
 - [[objektai/autoriai/H. Biezais]]
 - [[objektai/autoriai/Schall H]]

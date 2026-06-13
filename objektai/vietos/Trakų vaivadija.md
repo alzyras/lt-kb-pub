@@ -30,7 +30,7 @@ Krašto padalinimas į pavietus ir vaivadijas.
 <a id="claim-t-69428"></a>
 - t-001
   global_id: t-69428
-  teiginys: 'Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir Žemaičių seniūnijos, ilgai išsaugojusios savo politines.'
+  teiginys: 'Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Krašto padalinimas į pavietus ir vaivadijas.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl pats

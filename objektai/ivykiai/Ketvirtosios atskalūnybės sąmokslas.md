@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-62823"></a>
 - t-001
   global_id: t-62823
-  teiginys: 'Dusburgietis teigia, kad sis šlykštus sąmokslas buvo susektas tada, kai statė Ragainės pilį523, ir kiekvienas bartas bei pagudėnas, kaltinamas dėl šio niekingo sąmokslo, gavo tinkamą atpildą už savo darbus.'
+  teiginys: 'Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti.'
   pagrindžia:
     - c-001
 
@@ -74,3 +74,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Bartai]]

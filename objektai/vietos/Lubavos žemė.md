@@ -28,27 +28,28 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 <a id="claim-t-58664"></a>
 - t-001
   global_id: t-58664
-  teiginys: 'Dusburgietis teigia, kad dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas, teisių į šią žemę klausimas buvęs aktualus Hohenlohės reliacijos sudarymo metu (XIII a.'
+  teiginys: 'Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58665"></a>
 - t-002
   global_id: t-58665
-  teiginys: 'Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno, ir Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono valdžią.'
+  teiginys: 'Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58666"></a>
 - t-003
   global_id: t-58666
-  teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
+  teiginys: 'Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Konrado
@@ -67,6 +68,7 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     - t-001
 
 - c-002
+  santrauka: 'Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
@@ -79,6 +81,7 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     - t-002
 
 - c-003
+  santrauka: 'Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam

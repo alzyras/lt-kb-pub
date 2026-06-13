@@ -19,13 +19,14 @@ Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėlia
 <a id="claim-t-91966"></a>
 - t-001
   global_id: t-91966
-  teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+  teiginys: 'Vienos bibliotekos Dusburgiečio kronikos rankraštis XVII a. ar vėliau nurašytas nuo Berlyno teksto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienos bibliotekos Dusburgiečio kronikos rankraštis XVII a. ar vėliau nurašytas nuo Berlyno teksto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Berlyno  karališkosios

@@ -28,13 +28,14 @@ Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie mui
 <a id="claim-t-88479"></a>
 - t-001
   global_id: t-88479
-  teiginys: 'Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams •328 • VIII PRIEDAS.'
+  teiginys: 'Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stepono Batoro laiškų Radviloms rinkinyje buvo du laiškai apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus Žygimanto Senojo privilegija prieš eretikus,

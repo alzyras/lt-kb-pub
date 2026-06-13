@@ -28,13 +28,14 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 <a id="claim-t-58701"></a>
 - t-001
   global_id: t-58701
-  teiginys: 'Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos kaimo (villa) esąs ežeras: Loza cum stagno (ten pat.'
+  teiginys: 'Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Chełmżyńskie jezioro). Gyvenvietė minima 1222 m. dokumente

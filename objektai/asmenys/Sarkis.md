@@ -21,27 +21,28 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 <a id="claim-t-60064"></a>
 - t-001
   global_id: t-60064
-  teiginys: 'Dusburgietis teigia, kad tačiau pačią pirmąją naktį, kai broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius, o kitam nukirto ranką, tačiau ir pats šioje.'
+  teiginys: 'Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60065"></a>
 - t-002
   global_id: t-60065
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas galingas skalvių vyras, vardu Sarkis, pilininkas Sarkų pilies473, šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės pasienyje474.'
+  teiginys: 'Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60066"></a>
 - t-003
   global_id: t-60066
-  teiginys: 'Dusburgietis teigia, kad sarkis pasiuntė savo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai atsidursiąs galingo žmogaus globoje.'
+  teiginys: 'Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai
@@ -63,6 +64,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     - t-001
 
 - c-002
+  santrauka: 'Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     186 (181). Apie tai, kaip norėta išduoti brolius
@@ -78,6 +80,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     - t-002
 
 - c-003
+  santrauka: 'Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     474 D. — que tangit lerram Lethowie. Lietuvos žeme Dusburgietis čia vadina Karšuvą

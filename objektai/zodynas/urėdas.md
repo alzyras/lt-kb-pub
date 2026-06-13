@@ -21,7 +21,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 <a id="claim-t-12598"></a>
 - t-001
   global_id: t-12598
-  teiginys: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu ir buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
+  teiginys: 'Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu ir buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
+  santrauka: 'Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu

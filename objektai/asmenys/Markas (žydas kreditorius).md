@@ -19,7 +19,7 @@ tags:
 <a id="claim-t-87547"></a>
 - t-001
   global_id: t-87547
-  teiginys: 'Žydui Markui palūkanų nuo pustrečio šimto zlotų už 6 savaites, tai yra, a Die 17 maij ad diem 28 Junij [nuo gegužės 17-os dienos iki birželio 28 dienos] 15 florinų.'
+  teiginys: 'Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jiems
@@ -69,6 +70,5 @@ tags:
 - [[objektai/grupes/Raudonieji]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]
 - [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]
 - [[objektai/zodynas/florinai]]

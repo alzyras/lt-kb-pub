@@ -28,14 +28,14 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 <a id="claim-t-65204"></a>
 - t-001
   global_id: t-65204
-  teiginys: 'Jį įgyvendinti turėjo prosovietiškos Lietuvos komunistų partijos (nuo sovietų komunistų partijos neatsiskyrusios partijos dalies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“ (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų darbininkai.'
+  teiginys: 'Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-65205"></a>
 - t-002
   global_id: t-65205
-  teiginys: '1991 m. sausio 8 d. „penktoji kolona“, vadovaujama prosovietinės organizacijos „Jedinstvo“ ir Lietuvos komunistų partijos (ant ssKP platformos), mitingo metu mėgino užimti AT rūmus.'
+  teiginys: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinė Lietuvos komunistų partija mitingo metu mėgino užimti AT rūmus.'
   pagrindžia:
     - c-002
 
@@ -49,7 +49,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 <a id="claim-t-65207"></a>
 - t-004
   global_id: t-65207
-  teiginys: 'Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komiteto“ lyderių komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
+  teiginys: 'Apie 400 „raudonraiščių“ buvo vadovaujami komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
   pagrindžia:
     - c-004
 
@@ -79,6 +79,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-003
 
 - c-002
+  santrauka: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinė Lietuvos komunistų partija mitingo metu mėgino užimti AT rūmus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po to, kai 1990 m. kovo 11 d. buvo pa-
@@ -105,6 +106,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-002
 
 - c-003
+  santrauka: 'Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jį įgyvendinti turėjo prosovietiškos
@@ -122,6 +124,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-001
 
 - c-004
+  santrauka: 'Apie 400 „raudonraiščių“ buvo vadovaujami komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į okupantų pusę. Apie 400 „raudonraiš-
@@ -156,7 +159,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-005
 
 - c-006
-  santrauka: 'Jį įgyvendinti turėjo prosovietiškos Lietuvos komunistų partijos (nuo sovietų komunistų partijos neatsiskyrusios partijos dalies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“ (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų darbininkai.'
+  santrauka: 'Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sausio 13-osios
@@ -185,7 +188,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/zodynas/penktoji kolona]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Juozas Jermalavičius]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/asmenys/Juozas Jermalavičius]]
 - [[objektai/asmenys/Mykolas Burokevičius]]
 - [[objektai/asmenys/Valerijus Ivanovas]]

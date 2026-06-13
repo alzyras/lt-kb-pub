@@ -47,13 +47,14 @@ Nenurodyta
 <a id="claim-t-59700"></a>
 - t-001
   global_id: t-59700
-  teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
+  teiginys: 'Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
@@ -91,3 +92,5 @@ Nenurodyta
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]
 - [[objektai/zodynas/šikšnogalis diržas]]
+- [[objektai/zodynas/pilėnas]]
+- [[objektai/asmenys/Sirenas]]

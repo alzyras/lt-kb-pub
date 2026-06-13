@@ -22,14 +22,14 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 <a id="claim-t-59988"></a>
 - t-001
   global_id: t-59988
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
+  teiginys: 'Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59990"></a>
 - t-002
   global_id: t-59990
-  teiginys: 'Dusburgietis teigia, kad šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas buvo susitepęs paleistuvystės nuodėme.'
+  teiginys: 'Dusburgietis vaizduoja Konradą kaip šventosios dvasios apšviestą magistrą, permanydavusį žmonių paslaptis.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     - t-003
 
 - c-002
+  santrauka: 'Dusburgietis vaizduoja Konradą kaip šventosios dvasios apšviestą magistrą, permanydavusį žmonių paslaptis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
@@ -78,6 +79,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     - t-002
 
 - c-003
+  santrauka: 'Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     33. Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
@@ -99,3 +101,4 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/landgrafas]]

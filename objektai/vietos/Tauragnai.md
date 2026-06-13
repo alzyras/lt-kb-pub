@@ -19,7 +19,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 <a id="claim-t-42181"></a>
 - t-001
   global_id: t-42181
-  teiginys: 'Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.'
+  teiginys: '1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karin. K. Ladyga su lie-

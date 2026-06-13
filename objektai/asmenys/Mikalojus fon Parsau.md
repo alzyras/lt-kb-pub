@@ -22,14 +22,14 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 <a id="claim-t-87552"></a>
 - t-001
   global_id: t-87552
-  teiginys: '1323 m. Liubeke prieš apsisprendžiant dėl Gedimino laiškų nutarta kreiptis patarimo į Karkuso valdytoją Mikalojų fon Parsau.'
+  teiginys: '1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1323 m. Liubeke prieš apsisprendžiant dėl Gedimino laiškų nutarta kreiptis patarimo į Karkuso valdytoją Mikalojų fon Parsau.'
+  santrauka: '1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rygos miesto tarė­

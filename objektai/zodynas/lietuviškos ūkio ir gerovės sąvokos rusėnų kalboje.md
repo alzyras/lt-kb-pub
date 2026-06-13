@@ -26,7 +26,7 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 <a id="claim-t-183443"></a>
 - t-002
   global_id: t-183443
-  teiginys: 'Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dalgio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“), kluonas („klunia“), aruodas („orud“), priemenė („primen“).'
+  teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
     - t-001
 
 - c-002
-  santrauka: 'Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dalgio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“), kluonas („klunia“), aruodas („orud“), priemenė („primen“).'
+  santrauka: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
@@ -71,4 +71,3 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
 - [[objektai/zodynas/metrika]]
-- [[objektai/daiktai/Dalgis]]

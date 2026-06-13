@@ -61,13 +61,6 @@ Nenurodyta
 <a id="claim-t-23320"></a>
 - t-003
   global_id: t-23320
-  teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-26642"></a>
-- t-004
-  global_id: t-26642
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   pagrindžia:
     - c-001

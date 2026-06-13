@@ -21,13 +21,14 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
 <a id="claim-t-86109"></a>
 - t-001
   global_id: t-86109
-  teiginys: 'Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės pilį.'
+  teiginys: 'Iš Vilniaus Žemutinės pilies vakarinių vartų kelias per tiltus ir keltą per Viliją vedė į Kernavę ir Ukmergės pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iš Vilniaus Žemutinės pilies vakarinių vartų kelias per tiltus ir keltą per Viliją vedė į Kernavę ir Ukmergės pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Žemutinės pilies vakarinių var­

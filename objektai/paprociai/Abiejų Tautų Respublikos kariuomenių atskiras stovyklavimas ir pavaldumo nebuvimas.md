@@ -52,9 +52,9 @@ Nenurodyta
 <a id="claim-t-71785"></a>
 - t-002
   global_id: t-71785
-  teiginys: 'Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalysi atl tei.'
+  teiginys: 'Karūnos armija priklausė Lenkijos Karalystei, o Lietuvos kariuomenė – Lietuvos Didžiajai Kunigaikštystei, kuri nebuvo pavaldi provincija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-71786"></a>
 - t-003

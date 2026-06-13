@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-66451"></a>
 - t-001
   global_id: t-66451
-  teiginys: 'Siekiant dar labiau susilpninti Abiejų Tautų Respubliką, 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl jos II padalijimo, po kurio Abiejų Tautų Respublika neteko apie 300 tūkst.'
+  teiginys: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.'
   pagrindžia:
     - c-001
 
@@ -68,6 +68,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pralaimėjimo kaina buvo labai didelė.

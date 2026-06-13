@@ -31,7 +31,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 <a id="claim-t-77321"></a>
 - t-001
   global_id: t-77321
-  teiginys: 'Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pretendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį.'
+  teiginys: 'Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi.'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 <a id="claim-t-77323"></a>
 - t-003
   global_id: t-77323
-  teiginys: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
+  teiginys: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
     - t-004
 
 - c-003
+  santrauka: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PREILIAI A

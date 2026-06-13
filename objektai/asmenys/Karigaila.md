@@ -38,7 +38,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 <a id="claim-t-63794"></a>
 - t-002
   global_id: t-63794
-  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  teiginys: 'Karigaila, Julijonos sūnus ir Jogailos brolis, minimas kaip liudininkas trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   pagrindžia:
     - c-003
 
@@ -94,6 +94,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - t-003
 
 - c-003
+  santrauka: 'Karigaila, Julijonos sūnus ir Jogailos brolis, minimas kaip liudininkas trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -130,8 +131,11 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Julijona]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
 - [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
@@ -146,6 +150,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
 - [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

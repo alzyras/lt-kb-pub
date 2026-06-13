@@ -26,13 +26,14 @@ L XL Rusijos kariuomenė užgrobtoje Livonijoje.
 <a id="claim-t-41577"></a>
 - t-001
   global_id: t-41577
-  teiginys: 'Rusijos kariuomenė užgrobtoje Livonijoje yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės įsiveržimą į Livoniją.'
+  teiginys: '„Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     SuLinGerg Sey Georg Bveytein, AM, D. L XL

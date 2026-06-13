@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-62549"></a>
 - t-001
   global_id: t-62549
-  teiginys: 'Dusburgietis teigia, kad apie žemės drebėjimą Prūsijos žemėje Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.'
+  teiginys: '1303 m. rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus sudrebėjo žemė ir pastatai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1303 m. rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus sudrebėjo žemė ir pastatai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie žemės drebėjimą Prūsijos žemėje

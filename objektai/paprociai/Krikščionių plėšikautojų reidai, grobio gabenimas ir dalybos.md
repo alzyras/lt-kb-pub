@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-59740"></a>
 - t-002
   global_id: t-59740
-  teiginys: 'Dusburgietis teigia, kad martynas nukovė 10 vyrų pirtyje, pagrobė arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.'
+  teiginys: 'Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-59741"></a>
 - t-003
   global_id: t-59741
-  teiginys: 'Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.'
+  teiginys: 'Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje.'
   pagrindžia:
     - c-002
 
@@ -87,6 +87,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai

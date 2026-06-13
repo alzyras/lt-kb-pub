@@ -113,6 +113,7 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
 - [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
 - [[objektai/posakiai/„būtų liaudžiai suprantama“]]
 - [[objektai/grupes/Bernardinų ordinas]]
+- [[objektai/asmenys/Dominykas Radvila]]
 - [[objektai/grupes/Karmelitų ordinas]]
 - [[objektai/grupes/Lietuvos luomai]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]

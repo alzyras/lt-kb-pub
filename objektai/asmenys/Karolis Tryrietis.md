@@ -29,7 +29,7 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 <a id="claim-t-183841"></a>
 - t-002
   global_id: t-183841
-  teiginys: 'Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
+  teiginys: 'Karolis Tryrietis prieš popiežių ir kardinolus gynė Ordiną nuo kaltinimų ir palenkė klausytojus į savo pusę.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
     - t-001
 
 - c-002
-  santrauka: 'Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
+  santrauka: 'Karolis Tryrietis prieš popiežių ir kardinolus gynė Ordiną nuo kaltinimų ir palenkė klausytojus į savo pusę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     79

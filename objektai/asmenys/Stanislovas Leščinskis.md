@@ -23,7 +23,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 <a id="claim-t-79165"></a>
 - t-001
   global_id: t-79165
-  teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  teiginys: 'Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.'
   pagrindžia:
     - c-004
 
@@ -44,7 +44,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 <a id="claim-t-79168"></a>
 - t-004
   global_id: t-79168
-  teiginys: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
+  teiginys: '1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1704 m.
@@ -109,6 +110,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     - t-003
 
 - c-004
+  santrauka: 'Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusijos agentai grasinimais ir papirkinėjimais kontroliavo

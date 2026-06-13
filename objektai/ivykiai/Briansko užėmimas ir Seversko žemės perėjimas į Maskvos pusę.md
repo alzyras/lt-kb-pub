@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Užpuolikai dėl rusų išdavystės be vargo užėmė Brianską, o netrukus prie jų prisidėjo visa Seversko žemė.
+Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185699"></a>
 - t-001
   global_id: t-185699
-  teiginys: 'Užpuolikai dėl rusų išdavystės be vargo užėmė Brianską, o netrukus prie jų prisidėjo visa Seversko žemė.'
+  teiginys: 'Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Užpuolikai dėl rusų išdavystės be vargo užėmė Brianską, o netrukus prie jų prisidėjo visa Seversko žemė.'
+  santrauka: 'Brianskas dėl rusų išdavystės buvo be vargo užimtas, o netrukus prie išdavikų prisidėjo visa Seversko žemė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žmonės, didžiai

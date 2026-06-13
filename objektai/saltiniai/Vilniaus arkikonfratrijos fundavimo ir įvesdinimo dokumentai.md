@@ -29,13 +29,14 @@ Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.
 <a id="claim-t-88486"></a>
 - t-001
   global_id: t-88486
-  teiginys: 'Išlikę dokumentai, iš įvairių rankų gauti, tai patikina.'
+  teiginys: 'Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išlikę

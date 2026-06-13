@@ -34,7 +34,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 <a id="claim-t-76473"></a>
 - t-002
   global_id: t-76473
-  teiginys: 'Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.'
+  teiginys: 'Iš savanorių suformuotas Tautinės darbo apsaugos batalionas prie Kauno karo komendantūros.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     - t-001
 
 - c-002
+  santrauka: 'Iš savanorių suformuotas Tautinės darbo apsaugos batalionas prie Kauno karo komendantūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ginkluoti partizanai

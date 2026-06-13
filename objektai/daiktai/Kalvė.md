@@ -37,13 +37,14 @@ Nenurodyta
 <a id="claim-t-08291"></a>
 - t-001
   global_id: t-08291
-  teiginys: 'Kalvėje patys sau kalė padarynę ir ginklą.'
+  teiginys: 'Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
@@ -62,3 +63,4 @@ Nenurodyta
 - [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]]
 - [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
 - [[objektai/autoriai/Stryjkowski Strijkovskis]]
+- [[objektai/daiktai/Ginklai]]

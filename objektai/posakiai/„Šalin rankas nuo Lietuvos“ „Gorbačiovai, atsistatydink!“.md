@@ -22,31 +22,17 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 
 ## Teiginiai
 
-<a id="claim-t-20966"></a>
+<a id="claim-t-183514"></a>
 - t-001
-  global_id: t-20966
-  teiginys: 'Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai.'
+  global_id: t-183514
+  teiginys: '1991 m. kovą daugiau nei 200 tūkst. Maskvos demonstracijos dalyvių skandavo „Šalin rankas nuo Lietuvos“ ir „Gorbačiovai, atsistatydink!“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šv. Mišios už Lietuvą buvo aukojamos Paryžiaus
-    Dievo Motinos katedroje ir daugelyje pasaulio bažnyčių. Po 1991 m. sau-
-    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
-    bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
-    mokosi Rusijos ir kitų respublikų demokratai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai.'
+  santrauka: '1991 m. kovą daugiau nei 200 tūkst. Maskvos demonstracijos dalyvių skandavo „Šalin rankas nuo Lietuvos“ ir „Gorbačiovai, atsistatydink!“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po 1991 m. sau-
@@ -62,13 +48,12 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jelena Boner]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/posakiai/Šalin rankas nuo Lietuvos]]

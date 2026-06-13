@@ -57,7 +57,7 @@ Politinė grupuotė.
 <a id="claim-t-45270"></a>
 - t-002
   global_id: t-45270
-  teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
+  teiginys: 'Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai dėjosi prie Smetonos valdymo opozicinių jėgų.'
   pagrindžia:
     - c-001
 
@@ -71,7 +71,7 @@ Politinė grupuotė.
 <a id="claim-t-45272"></a>
 - t-004
   global_id: t-45272
-  teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-003
 
@@ -113,6 +113,7 @@ Politinė grupuotė.
     - t-003
 
 - c-003
+  santrauka: 'Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
@@ -134,7 +135,6 @@ Politinė grupuotė.
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/grupes/Laikinoji vyriausybė]]
 - [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
@@ -143,6 +143,7 @@ Politinė grupuotė.
 - [[objektai/zodynas/autoritatyvinis režimas]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
 - [[objektai/asmenys/Petras Kubiliūnas]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
-- [[objektai/grupes/Lietuvos šaulių sąjunga]]

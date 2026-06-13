@@ -35,7 +35,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 <a id="claim-t-77774"></a>
 - t-002
   global_id: t-77774
-  teiginys: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
+  teiginys: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti Baltijos valstybių bendradarbiavimą.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti Baltijos valstybių bendradarbiavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     TRIJŲ KAIMYNiŲ ULTIMATUMŲ ERA

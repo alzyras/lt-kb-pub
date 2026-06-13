@@ -47,7 +47,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 <a id="claim-t-179807"></a>
 - t-003
   global_id: t-179807
-  teiginys: 'Ordino kapitula pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
+  teiginys: 'Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
   pagrindžia:
     - c-001
 
@@ -166,6 +166,7 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­

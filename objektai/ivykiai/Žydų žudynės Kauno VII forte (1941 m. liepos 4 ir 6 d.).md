@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-77913"></a>
 - t-001
   global_id: t-77913
-  teiginys: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
+  teiginys: '1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, vadovaujama nacių, dalyvavo masinėse apie 3 000 žydų žudynėse Kauno VII forte.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, vadovaujama nacių, dalyvavo masinėse apie 3 000 žydų žudynėse Kauno VII forte.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talkinin-

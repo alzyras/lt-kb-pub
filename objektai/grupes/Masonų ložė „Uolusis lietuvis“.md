@@ -33,7 +33,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 <a id="claim-t-65917"></a>
 - t-002
   global_id: t-65917
-  teiginys: '1819 m. M. Balinskis įstojo į ložę Uolusis Lietuvis.'
+  teiginys: '1819 m. Michał Balińskis įstojo į masonų ložę „Uolusis lietuvis“.'
   pagrindžia:
     - c-001
 
@@ -47,7 +47,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 <a id="claim-t-183171"></a>
 - t-004
   global_id: t-183171
-  teiginys: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
+  teiginys: 'Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui garsiausioji ložė vadinosi „Uolusis lietuvis“.'
   pagrindžia:
     - c-002
 

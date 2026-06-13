@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-62723"></a>
 - t-001
   global_id: t-62723
-  teiginys: 'Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.'
+  teiginys: 'Lietuvos kilmingieji per vestuves nusigėrė ir sugulė ilsėtis, o užpuolikai tada nužudė 70 kunigaikščių su šeimininku.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos kilmingieji per vestuves nusigėrė ir sugulė ilsėtis, o užpuolikai tada nužudė 70 kunigaikščių su šeimininku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],

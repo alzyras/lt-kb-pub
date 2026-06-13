@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-62793"></a>
 - t-002
   global_id: t-62793
-  teiginys: 'Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo išrinktas didžiuoju magistru brolis Zigfridas iš Foichtvangeno, kuris ir iškeliavo į Veneciją, į vyriausiąją [Ordino] būstinę.'
+  teiginys: 'Gotfridui Hohenlohei atsisakius didžiojo magistro pareigų, Elbinge buvo išrinktas Zigfridas iš Foichtvangeno.'
   pagrindžia:
     - c-001
 

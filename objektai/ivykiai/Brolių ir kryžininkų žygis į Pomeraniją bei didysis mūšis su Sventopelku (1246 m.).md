@@ -46,20 +46,21 @@ Nenurodyta
 <a id="claim-t-66509"></a>
 - t-001
   global_id: t-66509
-  teiginys: 'Dusburgietis teigia, kad šitaip broliai ir maldininkai sugrįžo namo, parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško 293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab.'
+  teiginys: 'Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66511"></a>
 - t-002
   global_id: t-66511
-  teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
+  teiginys: '1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip broliai ir maldininkai sugrįžo namo,
@@ -83,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
@@ -151,3 +153,4 @@ Nenurodyta
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/daiktai/Namas]]

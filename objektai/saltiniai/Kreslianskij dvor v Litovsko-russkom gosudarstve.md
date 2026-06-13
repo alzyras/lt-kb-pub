@@ -31,13 +31,14 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
 <a id="claim-t-31768"></a>
 - t-001
   global_id: t-31768
-  teiginys: 'Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ skelbtas ŽMNPr 1896–1897 m.'
+  teiginys: 'F. I. Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ buvo skelbtas ŽMNPr 1896–1897 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'F. I. Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ buvo skelbtas ŽMNPr 1896–1897 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^137) **Šioje vietoje nutrūksta Prof. Z. Ivinskio paruošto** **_Įvado_** **mašinraštis.

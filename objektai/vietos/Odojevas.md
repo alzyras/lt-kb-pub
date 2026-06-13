@@ -36,14 +36,14 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 <a id="claim-t-79892"></a>
 - t-002
   global_id: t-79892
-  teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  teiginys: '1432 m. Švitrigaila sustiprino ryšius su Odojevo kunigaikščiais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-79893"></a>
 - t-003
   global_id: t-79893
-  teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Odojevo kunigaikščiais.'
   pagrindžia:
     - c-001
 

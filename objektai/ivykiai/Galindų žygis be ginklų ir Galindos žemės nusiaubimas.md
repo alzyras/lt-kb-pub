@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-91904"></a>
 - t-001
   global_id: t-91904
-  teiginys: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
+  teiginys: 'Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
@@ -96,3 +97,6 @@ Nenurodyta
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Galindai]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/grupes/Krikščionys]]

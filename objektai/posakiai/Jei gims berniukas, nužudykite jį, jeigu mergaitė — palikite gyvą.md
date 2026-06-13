@@ -20,7 +20,7 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
 <a id="claim-t-59099"></a>
 - t-001
   global_id: t-59099
-  teiginys: 'Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms: „Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės būtų nužudomos, o berniukai paliekami karui.'
+  teiginys: 'Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.'
   pagrindžia:
     - c-001
 

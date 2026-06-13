@@ -21,7 +21,7 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 <a id="claim-t-58554"></a>
 - t-001
   global_id: t-58554
-  teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
+  teiginys: 'Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,7 @@ Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Glapas buvo nuvestas į Karaliaučių ir pakartas ant kalvos, kuri vadinta Glapo kalva.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei

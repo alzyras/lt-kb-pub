@@ -30,6 +30,13 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   pagrindžia:
     - c-002
 
+<a id="claim-t-183393"></a>
+- t-003
+  global_id: t-183393
+  teiginys: 'Akcijose prieš žydus Lietuvoje naciai panaudojo Andrejaus Vlasovo armijos dalinius ir ukrainiečių bei latvių policijos batalionus.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +73,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     - t-002
 
 - c-003
-  santrauka: 'Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.'
+  santrauka: 'Akcijose prieš žydus Lietuvoje naciai panaudojo Andrejaus Vlasovo armijos dalinius ir ukrainiečių bei latvių policijos batalionus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kiekvienoje zonderkomandoje buvo ne mažiau kaip 50–100 narių.
@@ -100,7 +107,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/grupes/Želigovskininkai]]

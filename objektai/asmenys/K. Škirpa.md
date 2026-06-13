@@ -41,7 +41,7 @@ periodo_grupes:
 <a id="claim-t-49401"></a>
 - t-003
   global_id: t-49401
-  teiginys: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
+  teiginys: 'Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
   pagrindžia:
     - c-002
 
@@ -131,7 +131,7 @@ periodo_grupes:
     - t-001
 
 - c-005
-  santrauka: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
+  santrauka: 'Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Čaplikas puola Jestšembną, tai sustabdo len-

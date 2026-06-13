@@ -39,7 +39,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 <a id="claim-t-93428"></a>
 - t-002
   global_id: t-93428
-  teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
+  teiginys: 'Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.'
   pagrindžia:
     - c-008
 
@@ -60,14 +60,14 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 <a id="claim-t-93431"></a>
 - t-005
   global_id: t-93431
-  teiginys: 'Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.'
+  teiginys: 'Kristijonas buvo Olivos cistersų vienuolis iš Pamarės ir pirmasis misijonierius, kuriam Prūsuose ėmė sektis.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-93432"></a>
 - t-006
   global_id: t-93432
-  teiginys: '1230 m. pirmasis prūsų vyskupas misionorius Kristijonas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė Kryžiuočių ordiną.'
+  teiginys: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
   pagrindžia:
     - c-010
 
@@ -95,14 +95,14 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 <a id="claim-t-93436"></a>
 - t-010
   global_id: t-93436
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  teiginys: 'Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-93437"></a>
 - t-011
   global_id: t-93437
-  teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
+  teiginys: 'Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.'
   pagrindžia:
     - c-011
 
@@ -167,6 +167,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-001
 
 - c-005
+  santrauka: 'Kristijonas buvo Olivos cistersų vienuolis iš Pamarės ir pirmasis misijonierius, kuriam Prūsuose ėmė sektis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš
@@ -192,6 +193,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-009
 
 - c-007
+  santrauka: 'Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Antra knygos dalis
@@ -216,6 +218,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-010
 
 - c-008
+  santrauka: 'Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
@@ -252,7 +255,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-004
 
 - c-010
-  santrauka: '1230 m. pirmasis prūsų vyskupas misionorius Kristijonas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė Kryžiuočių ordiną.'
+  santrauka: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
@@ -268,6 +271,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-006
 
 - c-011
+  santrauka: 'Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išryškėja kronikoje ir politiniai jos uždaviniai. Dusburgietis bando pateikti savotišką

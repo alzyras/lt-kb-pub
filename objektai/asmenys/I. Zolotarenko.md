@@ -21,13 +21,14 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
 <a id="claim-t-40142"></a>
 - t-001
   global_id: t-40142
-  teiginys: 'I. Zolotarenkos vadovaujami apie 20 000 kazokų laikė apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.'
+  teiginys: 'Apie 20 000 I. Zolotarenkos vadovaujamų kazokų laikė apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 20 000 I. Zolotarenkos vadovaujamų kazokų laikė apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Minsko link. Kazokai,

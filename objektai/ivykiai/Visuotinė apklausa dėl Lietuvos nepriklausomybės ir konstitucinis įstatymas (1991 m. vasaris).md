@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-77911"></a>
 - t-001
   global_id: t-77911
-  teiginys: 'Tačiau, nors karo veiksmai prieš Lietuvą ir buvo pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.'
+  teiginys: 'Po Sausio 13-osios įvykių sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją, televiziją ir kitus strateginius objektus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Sausio 13-osios įvykių sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją, televiziją ir kitus strateginius objektus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau, nors karo veiksmai prieš Lietuvą ir buvo

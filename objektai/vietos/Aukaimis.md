@@ -29,7 +29,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 <a id="claim-t-67660"></a>
 - t-002
   global_id: t-67660
-  teiginys: 'Dusburgietis teigia, kad apie Aukaimio papilio sudeginimą Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir saujelės pabėgusių, visi kiti žuvo arba nuo.'
+  teiginys: 'Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     - t-001
 
 - c-002
+  santrauka: 'Ragainės broliai užpuolė miegančius Aukaimio papilio pilėnus ir sudegino papilį iki pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     8. Apie Aukaimio papilio sudeginimą

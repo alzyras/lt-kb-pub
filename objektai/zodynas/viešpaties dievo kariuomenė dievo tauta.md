@@ -22,13 +22,21 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 <a id="claim-t-58940"></a>
 - t-001
   global_id: t-58940
-  teiginys: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
+  teiginys: 'Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184020"></a>
+- t-002
+  global_id: t-184020
+  teiginys: 'Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikoje Ordino broliai vadinami „viešpaties dievo kariuomene“ ir „dievo tauta“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikos idėjinė reikšmė ir mokslinė svarba
@@ -49,7 +57,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
+  santrauka: 'Petras Dusburgietis Ordino veiksmus teisino krikščionybės platinimu ir vadino Ordino brolius „dievo tauta“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
@@ -79,5 +87,6 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
 - [[objektai/zodynas/šventas sumanymas]]

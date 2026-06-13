@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75302"></a>
 - t-002
   global_id: t-75302
-  teiginys: 'Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).'
+  teiginys: '1939 m. rugsėjo 28 d. Vokietijos ir SSRS sutarties slaptasis protokolas priskyrė Lietuvos teritoriją SSRS įtakos sferai.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1939 m. rugsėjo 28 d. Vokietijos ir SSRS sutarties slaptasis protokolas priskyrė Lietuvos teritoriją SSRS įtakos sferai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai

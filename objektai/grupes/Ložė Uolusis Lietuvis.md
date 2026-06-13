@@ -40,7 +40,7 @@ Vilniuje veikusi masonų ložė.
 <a id="claim-t-54830"></a>
 - t-002
   global_id: t-54830
-  teiginys: 'M. Balinskis 1819 m. įstojo į ložę Uolusis Lietuvis.'
+  teiginys: 'Michał Baliński 1819 m. įstojo į ložę Uolusis Lietuvis.'
   pagrindžia:
     - c-001
 

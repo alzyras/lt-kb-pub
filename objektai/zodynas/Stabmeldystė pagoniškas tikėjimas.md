@@ -28,14 +28,14 @@ Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos
 <a id="claim-t-86572"></a>
 - t-001
   global_id: t-86572
-  teiginys: 'Stabmeldystės pastangos prieš Romos tikėjimo skelbėjus po Vilniaus pranciškonų nužudymo buvo bevaisės.'
+  teiginys: 'Balińskis Vilniaus pranciškonų žudynes vaizdavo kaip bevaises stabmeldystės pastangas prieš Romos tikėjimo skelbėjus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Stabmeldystės pastangos prieš Romos tikėjimo skelbėjus po Vilniaus pranciškonų nužudymo buvo bevaisės.'
+  santrauka: 'Balińskis Vilniaus pranciškonų žudynes vaizdavo kaip bevaises stabmeldystės pastangas prieš Romos tikėjimo skelbėjus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau

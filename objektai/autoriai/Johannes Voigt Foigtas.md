@@ -27,20 +27,21 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 <a id="claim-t-87936"></a>
 - t-001
   global_id: t-87936
-  teiginys: 'Foigto vertimas į len kųk ir teksto lotynų k.'
+  teiginys: 'Foigtas išvertė į lenkų kalbą tris Gedimino laiškus ir pataisė jų lotynišką tekstą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-87937"></a>
 - t-002
   global_id: t-87937
-  teiginys: 'Foigtas Marienburgo miesto ir pilies istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo.'
+  teiginys: 'Foigtas Marienburgo istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Foigtas išvertė į lenkų kalbą tris Gedimino laiškus ir pataisė jų lotynišką tekstą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il
@@ -60,7 +61,7 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     - t-001
 
 - c-002
-  santrauka: 'Foigtas Marienburgo miesto ir pilies istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo.'
+  santrauka: 'Foigtas Marienburgo istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pasta­
@@ -96,4 +97,5 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]

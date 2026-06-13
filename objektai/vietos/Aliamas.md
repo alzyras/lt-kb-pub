@@ -25,13 +25,14 @@ Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Alge
 <a id="claim-t-58678"></a>
 - t-001
   global_id: t-58678
-  teiginys: 'Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar — Štumas (PUB, 1, Nr.'
+  teiginys: 'Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas

@@ -31,14 +31,14 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 <a id="claim-t-59992"></a>
 - t-001
   global_id: t-59992
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  teiginys: '1279 m. didysis magistras paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-59993"></a>
 - t-002
   global_id: t-59993
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.'
+  teiginys: 'Konradas iš Foichtvangeno turėjo dievui atsidavusią seserį, gyvenusią viename Vokietijos vienuolyne.'
   pagrindžia:
     - c-003
 
@@ -52,13 +52,21 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 <a id="claim-t-59995"></a>
 - t-004
   global_id: t-59995
-  teiginys: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
+  teiginys: '1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184100"></a>
+- t-005
+  global_id: t-184100
+  teiginys: 'Konradas iš Foichtvangeno buvo dešimtas Prūsijos magistras ir vadovavo vienus metus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
@@ -94,6 +102,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     - t-003
 
 - c-003
+  santrauka: 'Konradas iš Foichtvangeno turėjo dievui atsidavusią seserį, gyvenusią viename Vokietijos vienuolyne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     86 (82). Apie tą patį
@@ -136,5 +145,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
+- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
 - [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]

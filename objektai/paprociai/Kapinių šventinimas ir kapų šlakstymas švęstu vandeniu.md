@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-91922"></a>
 - t-001
   global_id: t-91922
-  teiginys: 'Dusburgietis teigia, kad jo sūnus, ilgai nesulaukdamas tėvo, suskato jo ieškoti Prūsijoje, bet nesurado, tačiau begrįždamas sustojo viename kaime, kur vyskupas šventino kapines.'
+  teiginys: 'Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     54 (53) Apie vieną stebuklą

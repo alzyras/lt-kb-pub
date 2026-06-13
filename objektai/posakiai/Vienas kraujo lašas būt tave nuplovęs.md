@@ -27,7 +27,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 <a id="claim-t-09678"></a>
 - t-001
   global_id: t-09678
-  teiginys: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad priešintis buvo galima protestais ir Vyriausybės pasitraukimu.'
+  teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su galimybe priešintis protestais ir Vyriausybės pasitraukimu.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     - t-002
 
 - c-002
+  santrauka: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su galimybe priešintis protestais ir Vyriausybės pasitraukimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų

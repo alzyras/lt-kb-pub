@@ -31,7 +31,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 <a id="claim-t-90458"></a>
 - t-001
   global_id: t-90458
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip saracėnai nusiaubė Ispaniją 1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart.'
+  teiginys: '1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.'
   pagrindžia:
     - c-005
 
@@ -66,7 +66,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 <a id="claim-t-90463"></a>
 - t-006
   global_id: t-90463
-  teiginys: 'Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.'
+  teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   pagrindžia:
     - c-006
 
@@ -80,7 +80,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 <a id="claim-t-90465"></a>
 - t-008
   global_id: t-90465
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai.'
+  teiginys: '1232 m. Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
   pagrindžia:
     - c-007
 
@@ -148,6 +148,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-005
 
 - c-005
+  santrauka: '1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     50. Apie tai, kaip saracėnai nusiaubė Ispaniją
@@ -161,6 +162,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-001
 
 - c-006
+  santrauka: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     20. Apie Maljorkos ir Menorkos salų užėmimą
@@ -174,6 +176,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-006
 
 - c-007
+  santrauka: '1232 m. Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga

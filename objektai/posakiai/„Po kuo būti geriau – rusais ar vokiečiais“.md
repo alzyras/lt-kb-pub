@@ -29,7 +29,7 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 <a id="claim-t-183501"></a>
 - t-002
   global_id: t-183501
-  teiginys: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo nuotaikų, o tik mažos valstybės realių galimybių įvertinimą – problema karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos valstybių jau buvo nacių.'
+  teiginys: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės galimybių įvertinimą, o ne išankstinį pasidavimą.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     - t-001
 
 - c-002
-  santrauka: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstinio pasidavimo nuotaikų, o tik mažos valstybės realių galimybių įvertinimą – problema karštai kedenta ne tik kavinėse, bet ir prezidentūroje – daugelis Europos valstybių jau buvo nacių.'
+  santrauka: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės galimybių įvertinimą, o ne išankstinį pasidavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva stovėjo šių karinių milžinių kelyje Antrojo pasaulinio karo fone

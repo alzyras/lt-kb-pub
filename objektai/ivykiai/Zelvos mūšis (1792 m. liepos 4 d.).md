@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-80682"></a>
 - t-001
   global_id: t-80682
-  teiginys: 'Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didelėms priešų pajėgoms spaudžiant ATR pajėgos turėjo trauktis visu frontu, liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.'
+  teiginys: '1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmasis didelis mūšis įvyko bir-
@@ -71,6 +72,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
 - [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]

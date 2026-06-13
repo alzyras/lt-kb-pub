@@ -19,13 +19,14 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.
 <a id="claim-t-96058"></a>
 - t-001
   global_id: t-96058
-  teiginys: 'Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA.'
+  teiginys: 'V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Kamantauskas parengė „Kirčiuotą lietuvių literatūros chrestomatiją“, kurios kirčius patikrino Pr. Skardžius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     22. V. Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS

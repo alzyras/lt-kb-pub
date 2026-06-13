@@ -20,20 +20,21 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 <a id="claim-t-60173"></a>
 - t-001
   global_id: t-60173
-  teiginys: 'Dusburgietis teigia, kad sitai girdėdamas, Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis.'
+  teiginys: 'Miligedas išvijo priešininką, nukovė savo iššaukėją ir slaptais keliais sugrįžo į Bartenšteino pilį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60174"></a>
 - t-002
   global_id: t-60174
-  teiginys: 'Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta.'
+  teiginys: 'Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miligedas išvijo priešininką, nukovė savo iššaukėją ir slaptais keliais sugrįžo į Bartenšteino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai girdėdamas,
@@ -48,6 +49,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
     - t-001
 
 - c-002
+  santrauka: 'Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     broliai padarė daug nuostabių darbų. Mat Bartenšteino pilyje buvo vienas vyras, vardu
@@ -63,4 +65,3 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/įgula]]
-- [[objektai/daiktai/Vytis]]

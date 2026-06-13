@@ -6,7 +6,6 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1401 m.'
-  - '1940 m.'
   - '2026 m.'
 date_start: '1401'
 date_end: '2026'
@@ -54,13 +53,6 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 - t-004
   global_id: t-70087
   teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-183394"></a>
-- t-005
-  global_id: t-183394
-  teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
   pagrindžia:
     - c-004
 
@@ -114,28 +106,6 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - t-003
 
 - c-004
-  santrauka: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Seime išrinkta 20 asmenų delegaci-
-    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
-    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
-    Rinkimų į Liaudies seimą agitacinis plakatas.
-    1940 m. liepos mėn.
-
-    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
-    193
-    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
-    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
-    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
-    teisėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   santrauka: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -151,7 +121,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
     - t-004
 
 ## Ryšiai

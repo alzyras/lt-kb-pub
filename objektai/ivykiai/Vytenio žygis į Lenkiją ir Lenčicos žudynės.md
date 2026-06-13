@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-59455"></a>
 - t-001
   global_id: t-59455
-  teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
+  teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti atsitraukiančių lietuvių.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti atsitraukiančių lietuvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to, kai jie ėmė
@@ -103,4 +104,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytenis]]

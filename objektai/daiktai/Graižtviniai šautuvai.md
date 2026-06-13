@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-40717"></a>
 - t-001
   global_id: t-40717
-  teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio veiksnys kovos lauke.'
+  teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis aptariamo periodo veiksnys kovos lauke.'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis aptariamo periodo veiksnys kovos lauke.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 165

@@ -35,7 +35,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 <a id="claim-t-183658"></a>
 - t-002
   global_id: t-183658
-  teiginys: 'Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos lietuviškasis pėstininkų pulkas (pagrindinė pulko dalis slopino sukilimą Lenkijoje, prie Vilniaus buvo jo atsarginės dalys), Leibgvardijos Voluinės pėstininkų pulkas, 6-asis karabinierių.'
+  teiginys: 'Leibgvardijos kazokų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
     - t-001
 
 - c-002
-  santrauka: 'Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos lietuviškasis pėstininkų pulkas (pagrindinė pulko dalis slopino sukilimą Lenkijoje, prie Vilniaus buvo jo atsarginės dalys), Leibgvardijos Voluinės pėstininkų pulkas, 6-asis karabinierių.'
+  santrauka: 'Leibgvardijos kazokų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Fronto kairiajame
@@ -113,5 +113,5 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/ulonai]]
-- [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
+- [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]

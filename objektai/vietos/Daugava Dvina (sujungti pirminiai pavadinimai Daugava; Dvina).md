@@ -36,7 +36,7 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
 <a id="claim-t-86013"></a>
 - t-002
   global_id: t-86013
-  teiginys: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, suomių padermės atšakos, gyvenvietės.'
+  teiginys: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.'
   pagrindžia:
     - c-001
 
@@ -57,7 +57,7 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, suomių padermės atšakos, gyvenvietės.'
+  santrauka: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta

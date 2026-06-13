@@ -34,7 +34,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 <a id="claim-t-87939"></a>
 - t-002
   global_id: t-87939
-  teiginys: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
+  teiginys: 'Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.'
   pagrindžia:
     - c-001
 
@@ -62,7 +62,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 <a id="claim-t-87944"></a>
 - t-006
   global_id: t-87944
-  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
+  teiginys: 'Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu.'
   pagrindžia:
     - c-005
 
@@ -76,6 +76,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mat nemaža miesto dalis su-
@@ -158,6 +159,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - t-004
 
 - c-005
+  santrauka: 'Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nė kiek nenorėdami su­

@@ -32,14 +32,14 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 <a id="claim-t-60216"></a>
 - t-001
   global_id: t-60216
-  teiginys: 'Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpaties metais Urbonas IV, popiežius, įsteigė Kristaus kūno šventę, kurią vėliau, 1310 metais, patvirtino visuotiniame Vieno susirinkime popiežius Klemensas V (Ptol.'
+  teiginys: '1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60217"></a>
 - t-002
   global_id: t-60217
-  teiginys: 'Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui, Sicilijos karalystę, kurią Manfredas buvo užgrobęs, norėdamas ją iš jo atimti (Mart.'
+  teiginys: '1263 m. popiežius Urbonas IV atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,7 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1263 m. popiežius Urbonas IV atidavė Sicilijos karalystę Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     46. Apie Sicilijos karalystės dovanojimą Karoliui

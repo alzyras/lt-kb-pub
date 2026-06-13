@@ -27,7 +27,7 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 <a id="claim-t-183750"></a>
 - t-002
   global_id: t-183750
-  teiginys: 'Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.'
+  teiginys: 'Didysis komtūras Kunas fon Lichtenšteinas vadovavo dešiniajam sparnui kariuomenei išsirikiavus mūšio lauke.'
   pagrindžia:
     - c-001
 
@@ -64,5 +64,3 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/didysis maršalas]]
-- [[objektai/zodynas/maršalas]]

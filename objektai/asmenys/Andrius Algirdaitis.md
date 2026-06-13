@@ -62,7 +62,7 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 <a id="claim-t-54945"></a>
 - t-003
   global_id: t-54945
-  teiginys: 'Andrius buvo nuolatinis Dmitrijaus Doniškio bendražygis ir dalyvavo kovose prieš totorius, prisidėdamas prie pergalės Kulikovo lauke.'
+  teiginys: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.'
   pagrindžia:
     - c-003
 

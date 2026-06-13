@@ -28,7 +28,7 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 <a id="claim-t-183458"></a>
 - t-002
   global_id: t-183458
-  teiginys: 'Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.'
+  teiginys: 'Proletariniu internacionalizmu rėmėsi krašte neįtakingos, nelegaliai veikusios radikalių kairiųjų organizacijos.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
     - t-001
 
 - c-002
-  santrauka: 'Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.'
+  santrauka: 'Proletariniu internacionalizmu rėmėsi krašte neįtakingos, nelegaliai veikusios radikalių kairiųjų organizacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-

@@ -21,20 +21,21 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 <a id="claim-t-60111"></a>
 - t-001
   global_id: t-60111
-  teiginys: 'Dusburgietis teigia, kad kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus, užpuolė plaukusius laivu ir visus išžudė.'
+  teiginys: 'Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60112"></a>
 - t-002
   global_id: t-60112
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
+  teiginys: 'Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
@@ -55,6 +56,7 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
     - t-002
 
 - c-002
+  santrauka: 'Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus, kai komtūras,
@@ -87,6 +89,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
 - [[objektai/posakiai/išvaduotų iš velnio vergovės]]
-- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Nodamas]]
 - [[objektai/asmenys/Surminas]]

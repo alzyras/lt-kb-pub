@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-62239"></a>
 - t-001
   global_id: t-62239
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 viešpaties metais, kitą dieną po švento Jokūbo, apaštalo (liepos 26), Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį599.'
+  teiginys: '1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     100. Apie tai, kaip buvo nupirkta Diunamiundės pilis

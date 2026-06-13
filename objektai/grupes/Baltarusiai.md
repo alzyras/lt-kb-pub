@@ -22,13 +22,21 @@ tags:
 <a id="claim-t-65082"></a>
 - t-001
   global_id: t-65082
-  teiginys: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
+  teiginys: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183123"></a>
+- t-002
+  global_id: t-183123
+  teiginys: 'Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
@@ -51,7 +59,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
+  santrauka: 'Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-

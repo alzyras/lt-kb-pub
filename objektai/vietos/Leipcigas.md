@@ -26,7 +26,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 <a id="claim-t-83727"></a>
 - t-001
   global_id: t-83727
-  teiginys: 'Vasarį stovyklininkas Pavlikas buvo pasiųstas su pinigais, kad juos laiku nusiųstų Mlodyčiui į Leipcigą.'
+  teiginys: 'Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad juos laiku nusiųstų Mlodyčiui į Leipcigą.'
   pagrindžia:
     - c-002
 
@@ -40,7 +40,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 <a id="claim-t-83729"></a>
 - t-003
   global_id: t-83729
-  teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
+  teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.'
   pagrindžia:
     - c-003
 
@@ -93,6 +93,7 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     - t-004
 
 - c-003
+  santrauka: 'Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­

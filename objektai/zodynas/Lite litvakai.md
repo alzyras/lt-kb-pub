@@ -34,7 +34,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 <a id="claim-t-183445"></a>
 - t-003
   global_id: t-183445
-  teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
+  teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 ### Susiję objektai
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/litvakai Lite litviš]]

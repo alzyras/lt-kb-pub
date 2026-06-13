@@ -30,7 +30,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 <a id="claim-t-69030"></a>
 - t-001
   global_id: t-69030
-  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   pagrindžia:
     - c-003
 
@@ -132,6 +132,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-002
 
 - c-003
+  santrauka: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
@@ -213,7 +214,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-005
 
 - c-006
-  santrauka: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  santrauka: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio.

@@ -31,14 +31,14 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 <a id="claim-t-172080"></a>
 - t-001
   global_id: t-172080
-  teiginys: 'Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašyti laiškai laikyti Rygos arkivyskupo prasimanymu ir klastote.'
+  teiginys: 'Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-172081"></a>
 - t-002
   global_id: t-172081
-  teiginys: 'Aleksandras, įkurdinęs dominikonus, Vingrių šaltinių negrąžino Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
+  teiginys: 'Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
   pagrindžia:
     - c-004
 
@@ -189,7 +189,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-009
 
 - c-004
-  santrauka: 'Aleksandras, įkurdinęs dominikonus, Vingrių šaltinių negrąžino Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
+  santrauka: 'Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų vandenys kadaise priklausė miestui, bet, laikui
@@ -256,7 +256,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
     - t-002
 
 - c-005
-  santrauka: 'Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašyti laiškai laikyti Rygos arkivyskupo prasimanymu ir klastote.'
+  santrauka: 'Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau viskas byloja, jog Gediminas per pasiun­

@@ -38,20 +38,21 @@ Nenurodyta
 <a id="claim-t-59397"></a>
 - t-001
   global_id: t-59397
-  teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
+  teiginys: 'Kunigaikštis ir Teutonų ordino broliai užėmė Partigalos pilį ir kuorą, sudegino pastatus, o žmones išsivedė į nelaisvę arba išžudė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-59398"></a>
 - t-002
   global_id: t-59398
-  teiginys: 'Dusburgietis teigia, kad apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą Iš minėtųjų prūsų pilių kasdien į karą traukdavo tiek ginkluotų vyrų, kad broliai negalėjo nei jiems kelio pastoti, nei jų užpulti.'
+  teiginys: 'Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą
@@ -77,6 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Kunigaikštis ir Teutonų ordino broliai užėmė Partigalos pilį ir kuorą, sudegino pastatus, o žmones išsivedė į nelaisvę arba išžudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai padarę, kunigaikštis bei broliai su savo
@@ -96,3 +98,4 @@ Nenurodyta
 - [[objektai/asmenys/Pomandas]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Teutonai]]

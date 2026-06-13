@@ -27,7 +27,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 <a id="claim-t-60930"></a>
 - t-001
   global_id: t-60930
-  teiginys: 'Dusburgietis teigia, kad taigi įtikimiau jį būtų lokalizuoti į rytus nuo Viduklės, kur, kaip rašoma kryžiuočių kelių aprašymuose, buvęs lant Wayke (Weg.'
+  teiginys: 'Vaikių valsčių įtikimiau lokalizuoti į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 <a id="claim-t-60932"></a>
 - t-003
   global_id: t-60932
-  teiginys: 'Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683).'
+  teiginys: '1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.'
   pagrindžia:
     - c-003
 
@@ -55,6 +55,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaikių valsčių įtikimiau lokalizuoti į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     545 D.— contra territorium [...] Wayken, intraverunt territorium Waykinam, Jer.—
@@ -84,6 +85,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
     - t-002
 
 - c-003
+  santrauka: '1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norkyčiai minimi 1376—

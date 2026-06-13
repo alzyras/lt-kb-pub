@@ -40,7 +40,7 @@ amziai:
 <a id="claim-t-104218"></a>
 - t-003
   global_id: t-104218
-  teiginys: '„Marsz na Kowno“ („Marš į Kauną“) Lenkijos miestų gatvėse skanduotas po to, kai 1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą.'
+  teiginys: '1938 m. kovo 19 d. Lietuvai priėmus Lenkijos ultimatumą, Lenkijos miestų gatvėse skanduota „Marsz na Kowno“ („Marš į Kauną“).'
   pagrindžia:
     - c-001
 

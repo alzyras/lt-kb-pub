@@ -26,7 +26,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 <a id="claim-t-63906"></a>
 - t-002
   global_id: t-63906
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė.'
+  teiginys: 'Martynas iš Golino su būreliu vyrų vakaro prietemoje užpuolė vieną Sūduvos žemės kaimą ir išžudė visus jo žmones.'
   pagrindžia:
     - c-007
 
@@ -47,7 +47,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 <a id="claim-t-63909"></a>
 - t-005
   global_id: t-63909
-  teiginys: 'Dusburgietis teigia, kad dar apie Martyną iš Golino ir jo nuostabią kovą Tuo pat metu 20 prūsų plėšikavo Lenkijoje.'
+  teiginys: 'Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų.'
   pagrindžia:
     - c-009
 
@@ -61,7 +61,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 <a id="claim-t-63911"></a>
 - t-007
   global_id: t-63911
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai.'
+  teiginys: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.'
   pagrindžia:
     - c-006
 
@@ -82,21 +82,21 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 <a id="claim-t-63914"></a>
 - t-010
   global_id: t-63914
-  teiginys: 'Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.'
+  teiginys: 'Martynas iš Golino su vienu Rudino broliu žvalgydamasis dykrose pasiklydo, susidūrė su trimis prūsais ir du jų nukovė.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-63915"></a>
 - t-011
   global_id: t-63915
-  teiginys: 'Dusburgietis teigia, kad iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.'
+  teiginys: 'Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-63916"></a>
 - t-012
   global_id: t-63916
-  teiginys: 'Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.'
+  teiginys: 'Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais.'
   pagrindžia:
     - c-005
 
@@ -110,21 +110,21 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 <a id="claim-t-63918"></a>
 - t-014
   global_id: t-63918
-  teiginys: 'Dusburgietis teigia, kad tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones.'
+  teiginys: 'Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė vieną Sūduvos kaimą, žudydamas arba išsivarydamas žmones į nelaisvę.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-63919"></a>
 - t-015
   global_id: t-63919
-  teiginys: 'Dusburgietis teigia, kad tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.'
+  teiginys: 'Martynas iš Golino pateko į nelaisvę kartu su nėščia seserimi, kurią ją paėmęs prūsas nužudė žygio metu.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-63920"></a>
 - t-016
   global_id: t-63920
-  teiginys: 'Dusburgietis teigia, kad martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir bus papasakota vėliau.'
+  teiginys: 'Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė.'
   pagrindžia:
     - c-010
 
@@ -132,6 +132,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-017
   global_id: t-63921
   teiginys: 'Martynas iš Golino su kitais vyrais užpuolė Sūduvos kaimą, nukovė 10 vyrų pirtyje ir paėmė grobio bei belaisvių.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-184111"></a>
+- t-018
+  global_id: t-184111
+  teiginys: 'Martynas iš Golino Sūduvos kaime nukovė 10 vyrų pirtyje, pagrobė arklių bei gyvulių ir išsivarė į nelaisvę moteris bei vaikus.'
   pagrindžia:
     - c-007
 
@@ -223,6 +230,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - t-012
 
 - c-006
+  santrauka: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     229 (224). Apie tą patį
@@ -299,6 +307,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - t-001
 
 - c-010
+  santrauka: 'Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
@@ -385,6 +394,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - [[objektai/zodynas/vikariatas]]
 - [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]

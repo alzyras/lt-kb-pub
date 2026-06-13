@@ -29,13 +29,14 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 <a id="claim-t-56938"></a>
 - t-001
   global_id: t-56938
-  teiginys: 'Dusburgietis teigia, kad petro Dusburgiečio kronika Epocha, šaltiniai, tendencija, reikšmė Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius (iš lot.'
+  teiginys: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petro Dusburgiečio kronika

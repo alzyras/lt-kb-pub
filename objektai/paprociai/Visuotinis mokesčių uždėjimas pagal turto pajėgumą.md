@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-87290"></a>
 - t-001
   global_id: t-87290
-  teiginys: 'Jis (Vytautas) visame krašte uždėjo didžiulius mokesčius kiekvienam, be jokių skirtumų, pagal jo turtą: bajorams, miestiečiams ir prastuomenei.'
+  teiginys: 'Vytautas visame krašte uždėjo didžiulius mokesčius bajorams, miestiečiams ir prastuomenei pagal kiekvieno turto pajėgumą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas visame krašte uždėjo didžiulius mokesčius bajorams, miestiečiams ir prastuomenei pagal kiekvieno turto pajėgumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vienas Vengrijos kuni­
@@ -78,4 +79,5 @@ Nenurodyta
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vilhelmas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/prastuomenė]]

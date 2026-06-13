@@ -26,7 +26,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
 <a id="claim-t-75457"></a>
 - t-001
   global_id: t-75457
-  teiginys: 'Todėl priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo“.'
+  teiginys: 'Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius 1938 m. Lietuvos Konstitucijos galiojimą.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
     - t-002
 
 - c-002
+  santrauka: 'Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius 1938 m. Lietuvos Konstitucijos galiojimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl

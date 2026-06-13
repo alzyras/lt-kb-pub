@@ -33,7 +33,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 <a id="claim-t-183545"></a>
 - t-001
   global_id: t-183545
-  teiginys: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
+  teiginys: 'Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto.'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
+  santrauka: 'Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminas kūrė stačiatikių metro-

@@ -37,21 +37,21 @@ periodo_grupes:
 <a id="claim-t-176407"></a>
 - t-002
   global_id: t-176407
-  teiginys: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
+  teiginys: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-176408"></a>
 - t-003
   global_id: t-176408
-  teiginys: 'Dviem raštais (1388- 1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
+  teiginys: '1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-176410"></a>
 - t-004
   global_id: t-176410
-  teiginys: 'Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d. Krokuvoje buvo vainikuota Lenkijos « karaliumi ».'
+  teiginys: 'Liudviko Anjou dukterį Jadvygą 1384 m. spalio 15 d. Krokuvoje vainikavo Lenkijos „karaliumi“.'
   pagrindžia:
     - c-002
 
@@ -61,13 +61,6 @@ periodo_grupes:
   teiginys: 'Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-176412"></a>
-- t-006
-  global_id: t-176412
-  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-184714"></a>
 - t-008
@@ -79,6 +72,7 @@ periodo_grupes:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Rūpestingai išruoštas Algirdaitis priėmė stačiatikių tikėjimą ir
@@ -94,6 +88,7 @@ periodo_grupes:
     - t-003
 
 - c-002
+  santrauka: 'Liudviko Anjou dukterį Jadvygą 1384 m. spalio 15 d. Krokuvoje vainikavo Lenkijos „karaliumi“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Čia abiejų pusių interesai labiau susiderino.
@@ -107,6 +102,7 @@ periodo_grupes:
     - t-004
 
 - c-003
+  santrauka: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dlu­
@@ -154,7 +150,7 @@ periodo_grupes:
     - t-005
 
 - c-006
-  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio karo
@@ -204,7 +200,6 @@ periodo_grupes:
 - [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]

@@ -19,13 +19,14 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
 <a id="claim-t-59133"></a>
 - t-001
   global_id: t-59133
-  teiginys: 'Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: moteriškos vilionės palaužė stiprųjį Samsoną, šventąjį Dovydą, išmintingąjį Saliamoną, tuo tarpu šis vyras, laisva valia apkabinęs savo bendrę, nugalėjo ir pakilo į dorybės viršūnes.'
+  teiginys: 'Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai koks nuostabus,  štai koks nepaprastas įvykis: moteriškos
@@ -38,3 +39,7 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Petras Dusburgietis]]

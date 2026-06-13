@@ -29,13 +29,21 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 <a id="claim-t-67324"></a>
 - t-002
   global_id: t-67324
-  teiginys: 'Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės negriauname, naujovių neįvedame“ – jie palikdavo senąsias kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaikiniais terminais – autonomijas).'
+  teiginys: 'Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183506"></a>
+- t-003
+  global_id: t-183506
+  teiginys: 'Lietuvos istorijos autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija perskėlė Kijevo Rusios erdvę.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Net dinastinės
@@ -70,7 +78,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - t-001
 
 - c-003
-  santrauka: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  santrauka: 'Lietuvos istorijos autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija perskėlė Kijevo Rusios erdvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Florencijoje). LDK būtent Vytauto

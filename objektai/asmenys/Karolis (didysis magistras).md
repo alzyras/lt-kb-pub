@@ -30,21 +30,14 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 <a id="claim-t-89880"></a>
 - t-001
   global_id: t-89880
-  teiginys: 'Dusburgietis teigia, kad be to, švento Petro grandinėse dieną (rugpjūčio 1) buvo apleista Kristmemelio pilis, pastatyta brolio Karolio, magistro.'
+  teiginys: 'Kristmemelio pilis buvo pastatyta magistro Karolio.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89881"></a>
 - t-002
   global_id: t-89881
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos papilio sudeginimą 1315 m. spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-89882"></a>
-- t-003
-  global_id: t-89882
-  teiginys: 'Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti.'
+  teiginys: '1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.'
   pagrindžia:
     - c-002
 
@@ -92,5 +85,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Karolis]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]

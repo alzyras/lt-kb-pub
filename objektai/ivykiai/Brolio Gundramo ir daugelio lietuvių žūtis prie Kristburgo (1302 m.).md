@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-62753"></a>
 - t-001
   global_id: t-62753
-  teiginys: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
+  teiginys: '1302 m. brolis Gundramas prie Kristburgo persekiojo lietuvių plėšikautojus, buvo mirtinai sužeistas ir žuvo išžudžius lietuvius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-62754"></a>
 - t-002
   global_id: t-62754
-  teiginys: 'Dusburgietis teigia, kad kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip.'
+  teiginys: 'Dusburgietis pasakoja, kad Gundramo išvaduotos moterys virš į Kristburgą gabentų jo palaikų sakėsi mačiusios du baltus balandžius.'
   pagrindžia:
     - c-001
 

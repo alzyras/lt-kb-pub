@@ -30,7 +30,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 <a id="claim-t-169957"></a>
 - t-001
   global_id: t-169957
-  teiginys: 'Merkio paskirti artimą krikščionims demokratams gen.'
+  teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
   pagrindžia:
     - c-004
 
@@ -44,27 +44,28 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 <a id="claim-t-169959"></a>
 - t-003
   global_id: t-169959
-  teiginys: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę.'
+  teiginys: 'LVLS ir LKDP sutiko deleguoti po du atstovus į 1939 m. lapkritį sudarytą tautininko Antano Merkio vyriausybę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-169961"></a>
 - t-004
   global_id: t-169961
-  teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
+  teiginys: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-169962"></a>
 - t-005
   global_id: t-169962
-  teiginys: 'Merkys palūžo psichologiškai.'
+  teiginys: 'Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LVLS ir LKDP sutiko deleguoti po du atstovus į 1939 m. lapkritį sudarytą tautininko Antano Merkio vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     deleguotas ministras turėjo vykdyti jo užduotis. LVLS ir LKDP neparei-
@@ -79,6 +80,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - t-003
 
 - c-002
+  santrauka: 'Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
@@ -110,6 +112,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - t-002
 
 - c-004
+  santrauka: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
@@ -126,6 +129,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - t-001
 
 - c-005
+  santrauka: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai rodė,

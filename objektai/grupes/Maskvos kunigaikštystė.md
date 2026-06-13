@@ -39,7 +39,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 <a id="claim-t-92734"></a>
 - t-002
   global_id: t-92734
-  teiginys: 'Didžioji Maskvos kunigaikštija, kurioje nuo 1425 m. viešpatavo Vytauto globojamas anūkas Vosylius, nerodė atsparumo.'
+  teiginys: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   global_id: t-92736
   teiginys: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
   pagrindžia:
+    - c-003
     - c-004
 
 <a id="claim-t-92737"></a>
@@ -71,13 +72,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - c-005
 
-<a id="claim-t-92740"></a>
-- t-008
-  global_id: t-92740
-  teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-182909"></a>
 - t-009
   global_id: t-182909
@@ -88,6 +82,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad ir po didelių pastangų, bet į gyvenimo galą
@@ -282,10 +277,10 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - [[objektai/zodynas/saar]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/grupes/Krimo totoriai]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
 - [[objektai/zodynas/regencija]]

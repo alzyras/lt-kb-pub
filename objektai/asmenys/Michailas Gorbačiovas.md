@@ -31,7 +31,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101677"></a>
 - t-001
   global_id: t-101677
-  teiginys: 'Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš komunistinius perversmininkus vadovauti ėmė neseniai išrinktas Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti.'
+  teiginys: 'Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme.'
   pagrindžia:
     - c-005
 
@@ -52,7 +52,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101680"></a>
 - t-004
   global_id: t-101680
-  teiginys: 'KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji.'
+  teiginys: 'SSRS pradėjus Michailo Gorbačiovo pertvarkos politiką, Lietuvos visuomenės nepasitenkinimas didėjo.'
   pagrindžia:
     - c-007
 
@@ -66,14 +66,14 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101682"></a>
 - t-006
   global_id: t-101682
-  teiginys: 'Gorbačiovu priešakyje ir primygtinai reikalavo atšaukti Kovo 11 Aktą.'
+  teiginys: 'SSRS vadovybė su M. Gorbačiovu priešakyje primygtinai reikalavo atšaukti Kovo 11 Aktą.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-101683"></a>
 - t-007
   global_id: t-101683
-  teiginys: 'Gorbačiovas ultimatyviai pareikalavo „nedelsiant ir visiškai atkurti sSRS ir Lietuvos ssR konstitucijų galiojimą“.'
+  teiginys: 'Sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   pagrindžia:
     - c-004
 
@@ -162,6 +162,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-005
 
 - c-004
+  santrauka: 'Sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1991 m.
@@ -190,6 +191,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-007
 
 - c-005
+  santrauka: 'Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prasidėjus perversmui Maskvoje, atostogaujantis
@@ -208,6 +210,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-001
 
 - c-006
+  santrauka: 'SSRS vadovybė su M. Gorbačiovu priešakyje primygtinai reikalavo atšaukti Kovo 11 Aktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Euro-

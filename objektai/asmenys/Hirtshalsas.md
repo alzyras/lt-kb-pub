@@ -21,13 +21,14 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
 <a id="claim-t-175204"></a>
 - t-001
   global_id: t-175204
-  teiginys: 'Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė.'
+  teiginys: 'Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po šių skerdynių
@@ -48,5 +49,5 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]
 - [[objektai/grupes/Notangai]]
+- [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]

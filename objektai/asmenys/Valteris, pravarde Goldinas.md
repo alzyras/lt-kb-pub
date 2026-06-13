@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 <a id="claim-t-60218"></a>
 - t-001
   global_id: t-60218
-  teiginys: 'Dusburgietis teigia, kad pagrobęs brolio Henriko žirgą, tas rusas pasitraukė, tačiau brolis Valteris, sekdamas jam iš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo.'
+  teiginys: '1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     - t-002
 
 - c-002
+  santrauka: '1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
@@ -83,5 +84,6 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/asmenys/Valteris Goldinas]]
 - [[objektai/asmenys/Henrikas iš Vederės]]
 - [[objektai/asmenys/Zigfridas iš Rechbergo]]

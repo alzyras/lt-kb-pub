@@ -37,7 +37,7 @@ amziai:
 <a id="claim-t-86446"></a>
 - t-002
   global_id: t-86446
-  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
+  teiginys: 'Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“.'
   pagrindžia:
     - c-004
 
@@ -137,6 +137,7 @@ amziai:
     - t-003
 
 - c-004
+  santrauka: 'Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Studija apie Vilniaus

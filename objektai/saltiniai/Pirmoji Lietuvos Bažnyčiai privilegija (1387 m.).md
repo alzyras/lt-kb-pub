@@ -37,7 +37,7 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
 <a id="claim-t-45752"></a>
 - t-002
   global_id: t-45752
-  teiginys: 'O juk Lietuvos krikšto metu Jogaila suteikė privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.'
+  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
     - t-001
 
 - c-002
+  santrauka: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su tripartitio christiana (visuomenės skirstymas į

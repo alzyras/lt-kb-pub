@@ -28,13 +28,14 @@ Rolando pajėgas pasukti kairiau, Nėries link.
 <a id="claim-t-80732"></a>
 - t-001
   global_id: t-80732
-  teiginys: 'Rolando pajėgas pasukti kairiau, Nėries link.'
+  teiginys: 'Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link, kur sukilėliai susikovė su rusų pėstininkais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link, kur sukilėliai susikovė su rusų pėstininkais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ Priešo šaulių ir artilerijos ugnis

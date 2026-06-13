@@ -31,7 +31,7 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 <a id="claim-t-79026"></a>
 - t-001
   global_id: t-79026
-  teiginys: 'Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo vadovaujama švedų kariuomenė ėmė skinti pergales prieš katalikų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618- 1648 m.), Vokietijoje.'
+  teiginys: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
     - t-002
 
 - c-002
+  santrauka: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
@@ -74,3 +75,4 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Švedijos kariuomenė]]

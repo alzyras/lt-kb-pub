@@ -28,13 +28,14 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
 <a id="claim-t-77794"></a>
 - t-001
   global_id: t-77794
-  teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
+  teiginys: 'Ernestas Galvanauskas siekė jėga užimti Klaipėdos kraštą, sudaryti fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ernestas Galvanauskas siekė jėga užimti Klaipėdos kraštą, sudaryti fait accompli padėtį ir tada derėtis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ministras pirminin-
@@ -62,3 +63,4 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]

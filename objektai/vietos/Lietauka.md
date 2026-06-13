@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-46892"></a>
 - t-002
   global_id: t-46892
-  teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
+  teiginys: 'Labiausiai paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   pagrindžia:
     - c-003
 
@@ -61,7 +61,7 @@ Nenurodyta
 <a id="claim-t-46894"></a>
 - t-004
   global_id: t-46894
-  teiginys: 'Paplitusi versija Lietuvos vardą kildino iš nedidelio Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
+  teiginys: 'Paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   pagrindžia:
     - c-001
 
@@ -98,6 +98,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Labiausiai paplitusi versija Lietuvos vardą kildino iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau lietuviškai kalbantys žmonės nebūtinai save vadino

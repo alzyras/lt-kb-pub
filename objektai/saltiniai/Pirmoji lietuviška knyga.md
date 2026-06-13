@@ -25,13 +25,14 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
 <a id="claim-t-61226"></a>
 - t-001
   global_id: t-61226
-  teiginys: 'Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvydas M., Pirmoji lietuviška knyga, p. 104—105).'
+  teiginys: 'M. Mažvydas 1547 m. burtininkę vadina šventąja.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Mažvydas 1547 m. burtininkę vadina šventąja.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     M. Mažvydas

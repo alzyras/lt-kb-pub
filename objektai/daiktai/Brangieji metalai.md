@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-64908"></a>
 - t-001
   global_id: t-64908
-  teiginys: 'Kunigaikščiai turėjo sukaupę brangiųjų metalų nemažus kiekius^4.'
+  teiginys: 'XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Plačiai ir nuosekliai išžvalgius šaltinius, yra prieita išvadų,

@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-184342"></a>
 - t-003
   global_id: t-184342
-  teiginys: 'Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Melno ežero.'
+  teiginys: 'Veliuonoje aptartas naujos sienos projektas po dvejų metų buvo priimtas prie Melno ežero.'
   pagrindžia:
     - c-003
 
@@ -95,7 +95,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Melno ežero.'
+  santrauka: 'Veliuonoje aptartas naujos sienos projektas po dvejų metų buvo priimtas prie Melno ežero.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai reiškė projektą naujos

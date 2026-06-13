@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-45459"></a>
 - t-003
   global_id: t-45459
-  teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  teiginys: 'Vytautas panaikino senovinę dalinių kunigaikštijų sistemą, į kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.'
   pagrindžia:
     - c-001
 

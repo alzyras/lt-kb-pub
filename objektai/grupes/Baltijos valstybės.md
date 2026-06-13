@@ -79,4 +79,5 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 - [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]
 - [[objektai/ivykiai/Lietuvos neutralumo įstatymo ratifikavimas (1939 m. sausio 10 d.)]]
 - [[objektai/asmenys/Stasys Raštikis]]
+- [[objektai/grupes/Rusijos Federacija]]
 - [[objektai/posakiai/geopolitine katastrofa]]

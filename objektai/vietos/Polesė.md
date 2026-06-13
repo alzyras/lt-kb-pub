@@ -20,7 +20,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 <a id="claim-t-28531"></a>
 - t-001
   global_id: t-28531
-  teiginys: 'Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo brolio Narimanto sūnus.'
+  teiginys: 'Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Senojoje

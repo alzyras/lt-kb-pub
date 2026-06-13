@@ -27,7 +27,7 @@ amziai:
 <a id="claim-t-80616"></a>
 - t-001
   global_id: t-80616
-  teiginys: '1580 m. dalyvavo paimant Veližo, Didžiųjų Lukų, Usviatų, Jezeriščės tvirtoves.'
+  teiginys: '1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     K. Radvila savo netikėtais antpuo-

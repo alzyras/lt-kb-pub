@@ -39,7 +39,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 <a id="claim-t-93420"></a>
 - t-002
   global_id: t-93420
-  teiginys: 'Dusburgietis teigia, kad apie Marienverderio miesto pastatymą Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai trokštamų įžadų, atvyko daug kunigaikščių iš Lenkijos: kunigaikštis Konradas227, Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo.'
+  teiginys: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   pagrindžia:
     - c-008
 
@@ -53,7 +53,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 <a id="claim-t-93422"></a>
 - t-004
   global_id: t-93422
-  teiginys: 'Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis.'
+  teiginys: 'Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.'
   pagrindžia:
     - c-006
 
@@ -174,6 +174,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-002
 
 - c-006
+  santrauka: 'Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir štai Teutonų
@@ -205,6 +206,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-003
 
 - c-008
+  santrauka: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Marienverderio miesto pastatymą
@@ -292,6 +294,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
+- [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]

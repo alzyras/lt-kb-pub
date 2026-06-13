@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-183280"></a>
 - t-002
   global_id: t-183280
-  teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  teiginys: 'Valdant Vazų dinastijai, Lietuvą ir Lenkiją 1654–1667 m. ištiko „tvanas“ – Rusijos ir Švedijos invazija.'
   pagrindžia:
     - c-001
 
@@ -98,6 +98,5 @@ Nenurodyta
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
-- [[objektai/ivykiai/Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/grupes/Vazų dinastija]]

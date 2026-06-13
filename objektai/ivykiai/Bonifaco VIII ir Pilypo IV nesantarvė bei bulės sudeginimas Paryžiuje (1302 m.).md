@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-62211"></a>
 - t-001
   global_id: t-62211
-  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
+  teiginys: '1302 m. prasidėjo popiežiaus Bonifaco VIII ir Prancūzijos karaliaus Pilypo IV nesantarvė dėl Prancūzijos pavaldumo apaštališkajam sostui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1302 m. prasidėjo popiežiaus Bonifaco VIII ir Prancūzijos karaliaus Pilypo IV nesantarvė dėl Prancūzijos pavaldumo apaštališkajam sostui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę

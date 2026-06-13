@@ -57,7 +57,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 <a id="claim-t-55011"></a>
 - t-002
   global_id: t-55011
-  teiginys: 'Balinskis apibūdintas kaip kruopštus istorikas, vengdavęs rašyti be faktografinės bazės.'
+  teiginys: 'M. Balinskis apibūdinamas kaip kruopštus istorikas, vengęs rašyti be faktografinės bazės.'
   pagrindžia:
     - c-004
 
@@ -162,6 +162,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-003
 
 - c-004
+  santrauka: 'M. Balinskis apibūdinamas kaip kruopštus istorikas, vengęs rašyti be faktografinės bazės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gimęs Lenkijos-Lie­

@@ -20,13 +20,14 @@ Tuo pat laiku mirė ir didysis kovotojas ordino pusėje Kniprodė ir taip pat jo
 <a id="claim-t-30470"></a>
 - t-001
   global_id: t-30470
-  teiginys: 'Winrichas von Kniprodė mirė tuo pat metu kaip ir jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti dėdę.'
+  teiginys: 'Winrichas von Kniprodė mirė tuo pat metu kaip jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti Kęstutį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Winrichas von Kniprodė mirė tuo pat metu kaip jo maršalas Kuno von Hattensteinas, padėjęs Jogailai įveikti Kęstutį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­

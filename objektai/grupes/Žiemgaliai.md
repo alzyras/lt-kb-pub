@@ -69,28 +69,21 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 <a id="claim-t-89344"></a>
 - t-006
   global_id: t-89344
-  teiginys: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
+  teiginys: 'Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-89345"></a>
 - t-007
   global_id: t-89345
-  teiginys: 'Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165.'
+  teiginys: 'Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.'
   pagrindžia:
     - c-007
-
-<a id="claim-t-89346"></a>
-- t-008
-  global_id: t-89346
-  teiginys: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas.'
-  pagrindžia:
-    - c-008
 
 <a id="claim-t-89347"></a>
 - t-009
   global_id: t-89347
-  teiginys: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
+  teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
   pagrindžia:
     - c-005
 
@@ -118,7 +111,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 <a id="claim-t-89351"></a>
 - t-013
   global_id: t-89351
-  teiginys: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
+  teiginys: '1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.'
   pagrindžia:
     - c-001
 
@@ -132,21 +125,14 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 <a id="claim-t-89353"></a>
 - t-015
   global_id: t-89353
-  teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+  teiginys: 'Lietuviai asimiliavo pietines žiemgalių ir sėlių sritis.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-89354"></a>
-- t-016
-  global_id: t-89354
-  teiginys: '1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.'
-  pagrindžia:
-    - c-001
 
 <a id="claim-t-89355"></a>
 - t-017
   global_id: t-89355
-  teiginys: 'Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos valdžios.'
+  teiginys: 'Žiemgaliai vėl sukilo, nepakęsdami griežtos kryžiuočių valdžios.'
   pagrindžia:
     - c-009
 
@@ -160,14 +146,14 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 <a id="claim-t-89357"></a>
 - t-019
   global_id: t-89357
-  teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
+  teiginys: '1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-89358"></a>
 - t-020
   global_id: t-89358
-  teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
+  teiginys: '1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.'
   pagrindžia:
     - c-012
 
@@ -333,6 +319,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - t-001
 
 - c-010
+  santrauka: 'Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
@@ -361,6 +348,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - t-004
 
 - c-012
+  santrauka: '1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
@@ -443,6 +431,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - [[objektai/zodynas/donacija]]
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/zodynas/duoklė]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
-- [[objektai/grupes/Žemaičiai]]

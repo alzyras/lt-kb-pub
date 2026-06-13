@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-71677"></a>
 - t-002
   global_id: t-71677
-  teiginys: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
+  teiginys: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   pagrindžia:
     - c-004
 
@@ -83,13 +83,14 @@ Nenurodyta
 <a id="claim-t-71681"></a>
 - t-004
   global_id: t-71681
-  teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
+  teiginys: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
@@ -134,6 +135,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos žydų sunaikinimas – Holokaustas

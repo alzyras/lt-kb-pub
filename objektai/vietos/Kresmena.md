@@ -29,14 +29,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 <a id="claim-t-58455"></a>
 - t-002
   global_id: t-58455
-  teiginys: 'Dusburgietis teigia, kad apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais.'
+  teiginys: 'Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58456"></a>
 - t-003
   global_id: t-58456
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'
+  teiginys: 'Magistras Mangoldas per Grabnyčias įsiveržė į Sūduvos valsčių Kresmeną ir jį niokojo degindamas bei grobdamas.'
   pagrindžia:
     - c-001
 

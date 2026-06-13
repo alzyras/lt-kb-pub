@@ -41,13 +41,6 @@ periodo_grupes:
   pagrindžia:
     - c-001
 
-<a id="claim-t-78741"></a>
-- t-003
-  global_id: t-78741
-  teiginys: 'Tarp jų bene labiausiai pagarsėjo 1482 m. įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001

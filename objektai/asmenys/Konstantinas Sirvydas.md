@@ -27,13 +27,14 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 <a id="claim-t-78063"></a>
 - t-001
   global_id: t-78063
-  teiginys: 'Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620).'
+  teiginys: 'Konstantino Sirvydo „Trijų kalbų žodynas“ 1620 m. buvo skirtas studijuojančiam jaunimui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konstantino Sirvydo „Trijų kalbų žodynas“ 1620 m. buvo skirtas studijuojančiam jaunimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-

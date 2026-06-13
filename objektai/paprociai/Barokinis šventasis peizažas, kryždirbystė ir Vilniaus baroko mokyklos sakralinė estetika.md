@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-67057"></a>
 - t-002
   global_id: t-67057
-  teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių statyboje.'
   pagrindžia:
     - c-001
 

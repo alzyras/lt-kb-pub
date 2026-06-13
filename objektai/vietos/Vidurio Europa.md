@@ -29,7 +29,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 <a id="claim-t-47313"></a>
 - t-002
   global_id: t-47313
-  teiginys: 'Antrosios XVIII a. pusės valstiečių reforma Lenkijos ir Lietuvos Valstybėje neturėjo precedento Vidurio Europoje.'
+  teiginys: 'Paulavos valstiečių reforma neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės reformų Lenkijos ir Lietuvos Valstybėje.'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 <a id="claim-t-47316"></a>
 - t-005
   global_id: t-47316
-  teiginys: 'Reiškinys neturėjo precedento Vidurio Europoje, tai buvo viena iš radikaliausių antrosios XVIII a.'
+  teiginys: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
   pagrindžia:
     - c-004
 
@@ -105,6 +105,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - t-001
 
 - c-003
+  santrauka: 'Paulavos valstiečių reforma neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės reformų Lenkijos ir Lietuvos Valstybėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,
@@ -119,6 +120,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - t-002
 
 - c-004
+  santrauka: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis posakis rodo, kokią ypatingą reikšmę visuomenė

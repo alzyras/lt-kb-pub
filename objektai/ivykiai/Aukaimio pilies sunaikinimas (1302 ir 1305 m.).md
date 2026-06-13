@@ -55,13 +55,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-184337"></a>
-- t-003
-  global_id: t-184337
-  teiginys: 'Tokiu būdu riteriai du kartu (1302 ir 1305) paėmė ir sunaikino Aukaimio pilį.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -97,7 +90,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Tokiu būdu riteriai du kartu (1302 ir 1305) paėmė ir sunaikino Aukaimio pilį.'
+  santrauka: 'Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žemaičiai užsispyrę

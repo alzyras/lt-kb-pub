@@ -22,13 +22,14 @@ tags:
 <a id="claim-t-86266"></a>
 - t-001
   global_id: t-86266
-  teiginys: '4to, Virogorų ežerą su žeme, miškais, lankomis tie patys tėvai jėzuitai pasisavino.'
+  teiginys: 'Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tėvai jėzuitai pasisavino Virogorų ežerą su žeme, miškais ir lankomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­

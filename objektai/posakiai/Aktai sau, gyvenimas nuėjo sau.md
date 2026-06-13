@@ -31,20 +31,20 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   global_id: t-67254
   teiginys: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-003
 
 <a id="claim-t-67255"></a>
 - t-002
   global_id: t-67255
-  teiginys: 'Pastarosios unijos dokumentas liko dokumentu, o gyvenimas savo logikos raida nuėjo kitu keliu.'
+  teiginys: 'Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-184251"></a>
 - t-003
   global_id: t-184251
-  teiginys: 'Aktai sau, gyvenimas nuėjo sau.'
+  teiginys: 'Posakiu „Aktai sau, gyvenimas nuėjo sau“ apibūdinta padėtis po Liublino unijos, kai Lietuva pasiliko savarankiška.'
   pagrindžia:
     - c-003
 
@@ -68,7 +68,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
     - t-001
 
 - c-002
-  santrauka: 'Pastarosios unijos dokumentas liko dokumentu, o gyvenimas savo logikos raida nuėjo kitu keliu.'
+  santrauka: 'Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O tai parėjo nuo Lietuvos ir Lenkijos jėgų santykio: katra

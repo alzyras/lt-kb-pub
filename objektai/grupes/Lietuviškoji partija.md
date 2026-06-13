@@ -22,13 +22,14 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
 <a id="claim-t-95931"></a>
 - t-001
   global_id: t-95931
-  teiginys: 'Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija.'
+  teiginys: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai Smolenske buvo išžudyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai Smolenske buvo išžudyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Atėjus žiniai apie Vytauto smūgį prie Vorsklos, Sviatoslavo sū­

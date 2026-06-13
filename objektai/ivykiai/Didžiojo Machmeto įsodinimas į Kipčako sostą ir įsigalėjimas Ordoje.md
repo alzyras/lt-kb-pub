@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-34470"></a>
 - t-001
   global_id: t-34470
-  teiginys: '1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų.'
+  teiginys: '1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pagaliau valdovų kaitaliojimasis pa­

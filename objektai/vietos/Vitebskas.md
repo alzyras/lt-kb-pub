@@ -59,7 +59,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-181114"></a>
 - t-005
   global_id: t-181114
-  teiginys: 'Tų kovų metu sukilę Vitebsko miestiečiai pravoslavai (1623 m.) nužudė net Polocko unitų arkivyskupą Juozapatą Kuncevičių (jis vėliau buvo paskelbtas unitų šventuoju).'
+  teiginys: '1623 m. sukilę Vitebsko miestiečiai pravoslavai nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių.'
   pagrindžia:
     - c-021
 
@@ -80,7 +80,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-181117"></a>
 - t-008
   global_id: t-181117
-  teiginys: 'Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš Jogailos valią buvo įsišeimininkavęs Vitebske.'
+  teiginys: 'Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske.'
   pagrindžia:
     - c-017
 
@@ -150,7 +150,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-181128"></a>
 - t-018
   global_id: t-181128
-  teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
+  teiginys: 'Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.'
   pagrindžia:
     - c-009
 
@@ -241,7 +241,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-181143"></a>
 - t-031
   global_id: t-181143
-  teiginys: 'Prieš mūšį Žygiui į Lietuvą kunigaikštis Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują.'
+  teiginys: 'Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują.'
   pagrindžia:
     - c-027
 
@@ -276,14 +276,14 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-181148"></a>
 - t-036
   global_id: t-181148
-  teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  teiginys: '1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-181149"></a>
 - t-037
   global_id: t-181149
-  teiginys: 'Švitrigailos ir Livonijos ordino pajėgos Švitrigailą remiantys lietuviai, rytinių LDK slaviškų žemių (Smolensko, Kijevo, Vitebsko, Polocko) kariai - apie 6000, apie 500 totorių; Kryžiuočių ordino Livonijos atšakos „Rygos“ magistro pajėgos — apie 500 riterių.'
+  teiginys: 'Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.'
   pagrindžia:
     - c-028
 
@@ -304,7 +304,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-181153"></a>
 - t-041
   global_id: t-181153
-  teiginys: 'Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.'
+  teiginys: '1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
   pagrindžia:
     - c-035
 
@@ -346,7 +346,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 <a id="claim-t-185203"></a>
 - t-048
   global_id: t-185203
-  teiginys: 'Žiemos viduryje Kazimieras Baltarusijoje, Polocke, Vitebske ir Smolenske, tvarkė taikos bei karo reikalus.'
+  teiginys: 'Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.'
   pagrindžia:
     - c-039
 
@@ -499,6 +499,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-027
 
 - c-009
+  santrauka: 'Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
@@ -647,6 +648,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-021
 
 - c-017
+  santrauka: 'Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
@@ -720,6 +722,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-044
 
 - c-021
+  santrauka: '1623 m. sukilę Vitebsko miestiečiai pravoslavai nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Labai dažnai ten
@@ -815,6 +818,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-007
 
 - c-027
+  santrauka: 'Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     To siekė Livonijos kry-
@@ -838,6 +842,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-031
 
 - c-028
+  santrauka: 'Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygimanto Kęstutaičio pajėgos
@@ -976,6 +981,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-011
 
 - c-035
+  santrauka: '1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Didžiajai Kunigaikštijai sunkiai sekėsi atlaikyti rytų frontą Li-
@@ -1049,7 +1055,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - t-047
 
 - c-039
-  santrauka: 'Žiemos viduryje Kazimieras Baltarusijoje, Polocke, Vitebske ir Smolenske, tvarkė taikos bei karo reikalus.'
+  santrauka: 'Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žiemos viduryje ap­

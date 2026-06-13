@@ -30,7 +30,7 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 <a id="claim-t-86134"></a>
 - t-001
   global_id: t-86134
-  teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
+  teiginys: '1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę

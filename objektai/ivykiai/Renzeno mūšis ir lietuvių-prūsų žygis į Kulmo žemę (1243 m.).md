@@ -45,41 +45,42 @@ Nenurodyta
 <a id="claim-t-89389"></a>
 - t-001
   global_id: t-89389
-  teiginys: 'Dusburgietis teigia, kad 421 pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.'
+  teiginys: '1243 m. pirmojo prūsų sukilimo pradžioje buvo nusiaubta Kulmo žemė ir mūšio lauke sutriuškintos Ordino pajėgos.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-89390"></a>
 - t-002
   global_id: t-89390
-  teiginys: 'Dusburgietis teigia, kad ), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  teiginys: '1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89391"></a>
 - t-003
   global_id: t-89391
-  teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
+  teiginys: 'Dusburgietis rašė apie prūsų ir sūduvių kariuomenę, nors Henriko iš Hohenlohės pranešimas nurodė lietuvius ir prūsus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89392"></a>
 - t-004
   global_id: t-89392
-  teiginys: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  teiginys: 'Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89393"></a>
 - t-005
   global_id: t-89393
-  teiginys: 'Dusburgietis teigia, kad lietuviai, atrėmę ir sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
+  teiginys: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis rašė apie prūsų ir sūduvių kariuomenę, nors Henriko iš Hohenlohės pranešimas nurodė lietuvius ir prūsus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šia proga jis kalba apie didžiulę prūsų  ir
@@ -110,6 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: '1243 m. pirmojo prūsų sukilimo pradžioje buvo nusiaubta Kulmo žemė ir mūšio lauke sutriuškintos Ordino pajėgos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     421
@@ -125,6 +127,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
@@ -148,5 +151,5 @@ Nenurodyta
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Henrikas iš Hohenlohės]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Henrikas iš Hohenlohės]]

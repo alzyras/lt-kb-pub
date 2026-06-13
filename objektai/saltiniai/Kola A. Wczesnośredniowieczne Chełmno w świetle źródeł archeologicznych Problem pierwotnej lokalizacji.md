@@ -25,13 +25,14 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
 <a id="claim-t-61098"></a>
 - t-001
   global_id: t-61098
-  teiginys: 'Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem pierwotnej lokalizacji —Sprawozdania Towarzystwa Naukowego w Toruniu, Toruń, 1977, Nr. 29, s.'
+  teiginys: 'A. Kolos straipsnis apie ankstyvųjų viduramžių Chełmno pirminę lokalizaciją paskelbtas 1977 m. Torunės mokslo draugijos leidinio 29 numeryje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Kolos straipsnis apie ankstyvųjų viduramžių Chełmno pirminę lokalizaciją paskelbtas 1977 m. Torunės mokslo draugijos leidinio 29 numeryje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych: Problem

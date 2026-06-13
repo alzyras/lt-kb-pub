@@ -30,7 +30,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 <a id="claim-t-101707"></a>
 - t-001
   global_id: t-101707
-  teiginys: 'Kariuomenės vadas Stasys Raštikis balandį dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
+  teiginys: '1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   pagrindžia:
     - c-005
 
@@ -44,7 +44,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 <a id="claim-t-101709"></a>
 - t-003
   global_id: t-101709
-  teiginys: 'Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai ir patirtų daug aukų.'
+  teiginys: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-007
 
@@ -65,7 +65,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 <a id="claim-t-101712"></a>
 - t-006
   global_id: t-101712
-  teiginys: 'Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau Lietuvos kariuomenės paradinė rikiuotė 1937 m.'
+  teiginys: 'Stasys Raštikis pareiškė, kad Lietuvos kariuomenė kovos, jei gaus tokį įsakymą.'
   pagrindžia:
     - c-004
 
@@ -75,13 +75,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   teiginys: 'Stasys Raštikis tyrė karinio bendradarbiavimo su Latvija ir Estija galimybes ir pasisakė už trijų šalių karinę sąjungą.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-101714"></a>
-- t-008
-  global_id: t-101714
-  teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
-  pagrindžia:
-    - c-008
 
 <a id="claim-t-101715"></a>
 - t-009
@@ -166,6 +159,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - t-006
 
 - c-005
+  santrauka: '1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neutralumo politika ir
@@ -205,6 +199,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - t-004
 
 - c-007
+  santrauka: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau ministro pirmininko
@@ -220,6 +215,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - t-003
 
 - c-008
+  santrauka: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Smetonos siūlymą priešintis ginklu palaikė
@@ -248,9 +244,10 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - [[objektai/zodynas/Modus vivendi]]
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
 - [[objektai/posakiai/„nepriklausomybė svarbiausia“]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/asmenys/A. Hitleris]]
 - [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
 - [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
-- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]

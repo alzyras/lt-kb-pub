@@ -21,13 +21,14 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-40615"></a>
 - t-001
   global_id: t-40615
-  teiginys: 'Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
+  teiginys: 'Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gintautas Jakštys gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gintautas Jakštys (gimęs 1971 m.), baigė Vilniaus pedagoginio uni-

@@ -29,13 +29,14 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
 <a id="claim-t-39850"></a>
 - t-001
   global_id: t-39850
-  teiginys: 'Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių mokslų daktaras.'
+  teiginys: 'Darius Baronas gimė 1973 m., baigė Vilniaus universitetą ir yra humanitarinių mokslų daktaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Darius Baronas gimė 1973 m., baigė Vilniaus universitetą ir yra humanitarinių mokslų daktaras.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, hu-

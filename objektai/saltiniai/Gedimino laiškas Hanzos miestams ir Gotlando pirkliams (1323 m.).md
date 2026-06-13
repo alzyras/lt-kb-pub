@@ -28,7 +28,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 <a id="claim-t-88119"></a>
 - t-001
   global_id: t-88119
-  teiginys: 'Šio antspaudo niekintojus šiuo savo laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios garbės neturinčius žmones.'
+  teiginys: 'Gedimino laiške antspaudo niekintojai pasmerkiami kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   pagrindžia:
     - c-002
 
@@ -86,6 +86,7 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     - t-002
 
 - c-002
+  santrauka: 'Gedimino laiške antspaudo niekintojai pasmerkiami kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame

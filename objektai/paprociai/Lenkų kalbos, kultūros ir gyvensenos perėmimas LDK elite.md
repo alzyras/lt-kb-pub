@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-183318"></a>
 - t-003
   global_id: t-183318
-  teiginys: 'Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas.'
+  teiginys: 'LDK elito lenkėjimas skatino lenkiškojo kalbinio kultūros modelio plitimą viešajame gyvenime.'
   pagrindžia:
     - c-002
 

@@ -20,7 +20,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 <a id="claim-t-41996"></a>
 - t-001
   global_id: t-41996
-  teiginys: 'Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
+  teiginys: 'M. Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
     - t-002
 
 - c-002
+  santrauka: 'M. Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ UM. Kalmantavičiaus-Bajoro vadovaujama

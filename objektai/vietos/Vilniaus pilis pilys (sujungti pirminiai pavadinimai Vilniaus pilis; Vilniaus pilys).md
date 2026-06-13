@@ -31,14 +31,14 @@ amziai:
 <a id="claim-t-174225"></a>
 - t-001
   global_id: t-174225
-  teiginys: 'Po Vilniaus gaisrų susirūpinta senų Pilies ir Katedros pastatų remontu bei atnaujinimu.'
+  teiginys: 'Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-174226"></a>
 - t-002
   global_id: t-174226
-  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
+  teiginys: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   pagrindžia:
     - c-010
 
@@ -101,7 +101,7 @@ amziai:
 <a id="claim-t-174236"></a>
 - t-011
   global_id: t-174236
-  teiginys: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
+  teiginys: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
   pagrindžia:
     - c-002
 
@@ -164,7 +164,7 @@ amziai:
     - t-016
 
 - c-002
-  santrauka: 'Po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nerasta.'
+  santrauka: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
@@ -185,7 +185,7 @@ amziai:
     - t-011
 
 - c-003
-  santrauka: 'Po Vilniaus gaisrų susirūpinta senų Pilies ir Katedros pastatų remontu bei atnaujinimu.'
+  santrauka: 'Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     263
@@ -358,6 +358,7 @@ amziai:
     - t-003
 
 - c-010
+  santrauka: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­

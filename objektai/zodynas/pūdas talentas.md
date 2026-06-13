@@ -27,13 +27,14 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 <a id="claim-t-86614"></a>
 - t-001
   global_id: t-86614
-  teiginys: 'Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: duodecem talenta cerae Pud dieta, de curia castri nostri Viln.'
+  teiginys: '1390 m. Vilniaus pilies dvaras kapitulai turėjo mokėti dvylika vaško talentų, vadinamų pūdais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1390 m. Vilniaus pilies dvaras kapitulai turėjo mokėti dvylika vaško talentų, vadinamų pūdais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anglija, Škotija ir Prancūzija gerokai papildė sa-
@@ -65,3 +66,4 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/daiktai/Vaškas]]

@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-62687"></a>
 - t-001
   global_id: t-62687
-  teiginys: 'Dusburgietis teigia, kad buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.'
+  teiginys: 'Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį

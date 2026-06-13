@@ -62,14 +62,14 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 <a id="claim-t-169588"></a>
 - t-005
   global_id: t-169588
-  teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+  teiginys: 'Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-169589"></a>
 - t-006
   global_id: t-169589
-  teiginys: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''''gola.'
+  teiginys: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola.'
   pagrindžia:
     - c-001
 
@@ -116,6 +116,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-008
 
 - c-002
+  santrauka: 'Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvių ten atliktas asimiliacijos
@@ -279,9 +280,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/grupes/Estai]]
-- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -299,3 +298,5 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/zodynas/terrula žemelė]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Skalviai]]

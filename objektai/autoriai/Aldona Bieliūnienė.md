@@ -30,7 +30,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 <a id="claim-t-64534"></a>
 - t-001
   global_id: t-64534
-  teiginys: 'Parengė Aldona Bieliūnienė ir kiti.'
+  teiginys: 'Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
@@ -69,7 +70,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     - t-002
 
 - c-003
-  santrauka: 'Parengė Aldona Bieliūnienė ir kiti.'
+  santrauka: 'Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius, 2011; Lietuva žemėlapiuose:

@@ -21,13 +21,14 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 <a id="claim-t-20902"></a>
 - t-001
   global_id: t-20902
-  teiginys: 'Katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei, kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją.'
+  teiginys: 'Jogailai įvedant naująjį tikėjimą pastatyta katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogailai įvedant naująjį tikėjimą pastatyta katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:

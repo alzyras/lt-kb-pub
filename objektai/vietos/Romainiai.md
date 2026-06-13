@@ -36,7 +36,7 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 <a id="claim-t-84714"></a>
 - t-002
   global_id: t-84714
-  teiginys: 'Po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai galėjo būti perkelti iš Romainių į Vilnių.'
+  teiginys: 'Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     - t-001
 
 - c-002
-  santrauka: 'Po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai galėjo būti perkelti iš Romainių į Vilnių.'
+  santrauka: 'Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant to, kryžiuo­

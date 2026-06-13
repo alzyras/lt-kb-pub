@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-62835"></a>
 - t-001
   global_id: t-62835
-  teiginys: 'Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo, pasisuko.'
+  teiginys: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais apiplėšė Pagudę ir privertė jį persekiojusius prūsus bėgti.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Nenurodyta
   statusas: verified
 
 - c-002
+  santrauka: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais apiplėšė Pagudę ir privertė jį persekiojusius prūsus bėgti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
@@ -81,4 +82,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/asmenys/Ditrichas (Kristburgo komtūras)]]

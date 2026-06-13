@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-62674"></a>
 - t-001
   global_id: t-62674
-  teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
+  teiginys: '1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.'
   pagrindžia:
     - c-001
     - c-002
@@ -56,6 +56,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
@@ -74,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1273 m. Elbingo miestiečiai nuolat laikė prie savęs kovai parengtus ginklus ir vijosi prie miesto pasirodžiusius pagudėnų raitelius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
@@ -96,4 +98,6 @@ Nenurodyta
 - [[objektai/grupes/Bartai]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/grupes/Varmiai]]
+- [[objektai/grupes/Elbingo miestiečiai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Pagudėnai]]

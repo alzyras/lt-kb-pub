@@ -30,28 +30,28 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 <a id="claim-t-118262"></a>
 - t-001
   global_id: t-118262
-  teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
+  teiginys: 'Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-118263"></a>
 - t-002
   global_id: t-118263
-  teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
+  teiginys: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, tada pulti Vilnių pro Lentvarį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-118264"></a>
 - t-003
   global_id: t-118264
-  teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.'
+  teiginys: 'Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-118265"></a>
 - t-004
   global_id: t-118265
-  teiginys: 'Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau pripažino, negu jie patys per paskutines derybas buvo užsiprašę, suerzino tiek Vytautą tiek Jogailą.'
+  teiginys: 'Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.'
   pagrindžia:
     - c-004
 
@@ -65,13 +65,14 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 <a id="claim-t-118267"></a>
 - t-006
   global_id: t-118267
-  teiginys: 'Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius.'
+  teiginys: 'Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, tada pulti Vilnių pro Lentvarį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
@@ -111,6 +112,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - t-001
 
 - c-003
+  santrauka: 'Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkai stūmė į jų teritoriją įsiveržu-
@@ -129,6 +131,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     - t-006
 
 - c-004
+  santrauka: 'Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau

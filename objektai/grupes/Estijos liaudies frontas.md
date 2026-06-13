@@ -20,13 +20,14 @@ tags:
 <a id="claim-t-19677"></a>
 - t-001
   global_id: t-19677
-  teiginys: '1988 m. balandžio 13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliausius pertvarkos šalininkus.'
+  teiginys: 'Estijos liaudies frontas buvo įsteigtas 1988 m. balandžio 13 d. kaip neformalus judėjimas reformoms vykdyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Estijos liaudies frontas buvo įsteigtas 1988 m. balandžio 13 d. kaip neformalus judėjimas reformoms vykdyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo rašytojų

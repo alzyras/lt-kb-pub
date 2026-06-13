@@ -20,13 +20,14 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
 <a id="claim-t-19166"></a>
 - t-001
   global_id: t-19166
-  teiginys: 'N. Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
+  teiginys: 'N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių

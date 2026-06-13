@@ -31,6 +31,13 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   pagrindžia:
     - c-002
 
+<a id="claim-t-183457"></a>
+- t-004
+  global_id: t-183457
+  teiginys: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,7 +90,7 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     - t-003
 
 - c-004
-  santrauka: 'Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.'
+  santrauka: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis

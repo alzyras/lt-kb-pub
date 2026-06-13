@@ -30,7 +30,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 <a id="claim-t-69313"></a>
 - t-001
   global_id: t-69313
-  teiginys: 'Ji siekė juk tolimiausius kraštus: rytuose Kaffą, pietuose Krokuvą ir Breslavą, vakaruose Stralsundą, šiaurėje Dorpatą ir Naugardą^1 ).'
+  teiginys: 'Vytauto laikais Lietuvos prekyba vakaruose siekė Stralsundą.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - t-002
 
 - c-002
+  santrauka: 'Vytauto laikais Lietuvos prekyba vakaruose siekė Stralsundą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Aplamai imant, Vytauto laikais prekyba buvo labai išsiplė­

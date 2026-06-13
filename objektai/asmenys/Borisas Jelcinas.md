@@ -21,14 +21,14 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 <a id="claim-t-63519"></a>
 - t-001
   global_id: t-63519
-  teiginys: '1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė sutartį, kuri įsigaliojo po metų.'
+  teiginys: '1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-63520"></a>
 - t-002
   global_id: t-63520
-  teiginys: 'Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš komunistinius perversmininkus vadovauti ėmė neseniai išrinktas Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti.'
+  teiginys: 'Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.'
   pagrindžia:
     - c-003
 
@@ -60,6 +60,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - t-003
 
 - c-002
+  santrauka: '1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
@@ -77,6 +78,7 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
     - t-001
 
 - c-003
+  santrauka: 'Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prasidėjus perversmui Maskvoje, atostogaujantis

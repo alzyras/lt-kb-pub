@@ -47,46 +47,25 @@ Nenurodyta
   global_id: t-92948
   teiginys: 'Marienburge Vytautas pradėjo veikti, per pasiuntinius bandydamas patraukti žemaičius į savo pusę.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-92949"></a>
 - t-002
   global_id: t-92949
   teiginys: '1382 m. pabaigoje Vytautas, tarpininkaujant maršalkai Konradui Vallenrodui, persikėlė pas Ordiną.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-92950"></a>
-- t-003
-  global_id: t-92950
-  teiginys: 'Pirmi Vytauto žygiai tėviškei atgauti (1382—1384) Kęstučio mirtis ir Jogailos santykiai su Ordinu.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-184236"></a>
-- t-004
+- t-003
   global_id: t-184236
   teiginys: 'Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmi
-    Vytauto žygiai tėviškei atgauti (1382—1384)
-    Kęstučio mirtis ir Jogailos santykiai su Ordinu. Vytauto bė­
-    gimas pas Vokiečių Ordiną. Jogailos santykiai su Ordinu po
-    Vytauto pabėgimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tarpininkaujant maršalkai Konradui Vallenrodui, kaip kro­
@@ -102,7 +81,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas kurį laiką išbuvo Ordino sostinėje
@@ -117,7 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -129,13 +108,11 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]

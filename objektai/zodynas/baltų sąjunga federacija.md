@@ -21,20 +21,21 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
 <a id="claim-t-58893"></a>
 - t-001
   global_id: t-58893
-  teiginys: 'Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t.'
+  teiginys: 'Baltų sąjunga–federacija apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58894"></a>
 - t-002
   global_id: t-58894
-  teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
+  teiginys: 'Mindaugas siekė paversti Lietuvą bendrąja baltų valstybe, apimančia Livoniją ir Prūsiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Baltų sąjunga–federacija apibūdinama kaip Lietuvos vadovaujamas valstybingumo raidos etapas kovoje prieš feodalų agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
@@ -54,6 +55,7 @@ Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūs�
     - t-001
 
 - c-002
+  santrauka: 'Mindaugas siekė paversti Lietuvą bendrąja baltų valstybe, apimančia Livoniją ir Prūsiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva

@@ -29,14 +29,14 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
 <a id="claim-t-85927"></a>
 - t-002
   global_id: t-85927
-  teiginys: 'Karalius Alantos dvarą Ukmergės apskrityje atidavė garsiajam Bekešui.'
+  teiginys: 'Karalius Alantos dvarą Ukmergės apskrityje po Grigaliaus Astiko atidavė Gabrieliui Bekešui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius Alantos dvarą Ukmergės apskrityje atidavė garsiajam Bekešui.'
+  santrauka: 'Karalius Alantos dvarą Ukmergės apskrityje po Grigaliaus Astiko atidavė Gabrieliui Bekešui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­

@@ -19,13 +19,14 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
 <a id="claim-t-60368"></a>
 - t-001
   global_id: t-60368
-  teiginys: 'Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranašavo sau mirtį, kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks atgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“.'
+  teiginys: 'Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai čia laivai
@@ -45,3 +46,4 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
 - [[objektai/asmenys/Ditrichas iš Ezbeko]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Konradas]]

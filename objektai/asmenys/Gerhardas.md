@@ -22,20 +22,21 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 <a id="claim-t-60121"></a>
 - t-001
   global_id: t-60121
-  teiginys: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
+  teiginys: 'Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-60122"></a>
 - t-002
   global_id: t-60122
-  teiginys: 'Dusburgietis teigia, kad gerhardas labai to nusigando ir atvyko į Prūsijos žemę, atsiveždamas su savimi ir tą baltąją maršką, ir, davęs įžadus Teutonų ordinui, pradėjo tyrą gyvenimą, kurį laimingai ir užbaigė.'
+  teiginys: 'Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai jis kartą, jau
@@ -59,6 +60,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
     - t-002
 
 - c-002
+  santrauka: 'Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     245 (238). Apie vieną nuostabų atsivertimą
@@ -87,7 +89,7 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 - [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs]]
 - [[objektai/asmenys/Pobravas]]
 - [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis]]
-- [[objektai/daiktai/Balta marška]]
-- [[objektai/daiktai/Karo pabūklai]]
 - [[objektai/zodynas/šeimynykštis]]
+- [[objektai/daiktai/Karo pabūklai]]
 - [[objektai/zodynas/šeimynykštis famulus]]
+- [[objektai/daiktai/Balta marška]]

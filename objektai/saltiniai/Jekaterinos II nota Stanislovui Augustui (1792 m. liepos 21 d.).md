@@ -28,13 +28,14 @@ amziai:
 <a id="claim-t-21074"></a>
 - t-001
   global_id: t-21074
-  teiginys: 'Stanislovas Augustas nusprendė nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
+  teiginys: '1792 m. liepos 23 d. Stanislovas Augustas Poniatovskis laikėsi pozicijos nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir priimti Jekaterinos II notą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1792 m. liepos 23 d. Stanislovas Augustas Poniatovskis laikėsi pozicijos nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir priimti Jekaterinos II notą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liepos pabaigoje

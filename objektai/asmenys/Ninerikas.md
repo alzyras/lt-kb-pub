@@ -30,7 +30,7 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
 <a id="claim-t-60182"></a>
 - t-001
   global_id: t-60182
-  teiginys: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'
+  teiginys: 'Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.'
   pagrindžia:
     - c-001
 

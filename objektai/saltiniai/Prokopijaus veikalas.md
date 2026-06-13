@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose ir apie 559 m. su langobardais įsiveržė į Italiją.
+Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose, o apie 559 m. su langobardais įsiveržė į Italiją.
 
 ## Teiginiai
 
 <a id="claim-t-186343"></a>
 - t-001
   global_id: t-186343
-  teiginys: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose ir apie 559 m. su langobardais įsiveržė į Italiją.'
+  teiginys: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose, o apie 559 m. su langobardais įsiveržė į Italiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose ir apie 559 m. su langobardais įsiveržė į Italiją.'
+  santrauka: 'Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose, o apie 559 m. su langobardais įsiveržė į Italiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atgavęs Italiją, jis, mi­

@@ -26,7 +26,7 @@ Vartojamos formos: `žiuponais`.
 <a id="claim-t-07692"></a>
 - t-001
   global_id: t-07692
-  teiginys: 'Žiuponais prašaleičiai vadino lietuvių sau ponus, kurie IX amžiuje randami Žemaičių krašte.'
+  teiginys: 'Prašaleičiai žiuponais vadino lietuvių sau ponus, kurie IX amžiuje minimi Žemaičių krašte.'
   pagrindžia:
     - c-001
     - c-002
@@ -52,6 +52,7 @@ Vartojamos formos: `žiuponais`.
     - t-002
 
 - c-002
+  santrauka: 'Prašaleičiai žiuponais vadino lietuvių sau ponus, kurie IX amžiuje minimi Žemaičių krašte.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“

@@ -19,7 +19,7 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 <a id="claim-t-19313"></a>
 - t-001
   global_id: t-19313
-  teiginys: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė grupei, palaikiusiai ryšius su žmogaus teisių gynėjais.'
+  teiginys: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė 1976 m. Vilniuje įsikūrusiai Helsinkio grupei.'
   pagrindžia:
     - c-001
 
@@ -33,13 +33,14 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 <a id="claim-t-183574"></a>
 - t-003
   global_id: t-183574
-  teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  teiginys: 'Sovietinė valdžia suimdavo ir nuteisdavo kai kuriuos disidentus, tarp jų Balį Gajauską ir Viktorą Petkų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė 1976 m. Vilniuje įsikūrusiai Helsinkio grupei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
@@ -75,7 +76,7 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
     - t-002
 
 - c-003
-  santrauka: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  santrauka: 'Sovietinė valdžia suimdavo ir nuteisdavo kai kuriuos disidentus, tarp jų Balį Gajauską ir Viktorą Petkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip

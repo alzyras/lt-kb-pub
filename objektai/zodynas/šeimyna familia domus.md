@@ -35,27 +35,28 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 <a id="claim-t-58819"></a>
 - t-002
   global_id: t-58819
-  teiginys: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
+  teiginys: 'Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-58820"></a>
 - t-003
   global_id: t-58820
-  teiginys: 'Dusburgietis teigia, kad daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis, kurių vardus vienas dievas težino.'
+  teiginys: 'Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-58821"></a>
 - t-004
   global_id: t-58821
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
+  teiginys: 'Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,
@@ -77,6 +78,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - t-002
 
 - c-002
+  santrauka: 'Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
@@ -93,6 +95,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - t-004
 
 - c-003
+  santrauka: 'Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259

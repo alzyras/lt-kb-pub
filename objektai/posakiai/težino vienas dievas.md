@@ -19,13 +19,14 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
 <a id="claim-t-59160"></a>
 - t-001
   global_id: t-59160
-  teiginys: 'Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai nesuvokiami.'
+  teiginys: 'Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai koks nuostabus
@@ -43,3 +44,4 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
 ### Susiję objektai
 - [[objektai/grupes/Skalviai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/autoriai/Petras Dusburgietis]]

@@ -33,7 +33,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112336"></a>
 - t-001
   global_id: t-112336
-  teiginys: 'Užėmęs Rusios kunigaikščių tėvonijas Voluinėje ir nusigavęs už Kijevo, valdovas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos santakoje.'
+  teiginys: 'Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos santakoje.'
   pagrindžia:
     - c-014
 
@@ -47,7 +47,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112338"></a>
 - t-003
   global_id: t-112338
-  teiginys: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
+  teiginys: '1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
   pagrindžia:
     - c-018
 
@@ -89,7 +89,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112344"></a>
 - t-009
   global_id: t-112344
-  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  teiginys: 'Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.'
   pagrindžia:
     - c-009
 
@@ -124,7 +124,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112349"></a>
 - t-014
   global_id: t-112349
-  teiginys: '1431 m. Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
+  teiginys: 'Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
   pagrindžia:
     - c-008
 
@@ -145,7 +145,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112353"></a>
 - t-017
   global_id: t-112353
-  teiginys: 'Radvilų šakos centrai buvo Biržai ir Kėdainiai, o kitos šakos centrai - Nesvyžius ir Olyka Voluinėje.'
+  teiginys: 'Vienos Radvilų šakos centrai buvo Biržai ir Kėdainiai, o kitos - Nesvyžius ir Olyka Voluinėje.'
   pagrindžia:
     - c-006
 
@@ -173,14 +173,14 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112358"></a>
 - t-022
   global_id: t-112358
-  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  teiginys: 'Vytauto laikais gotikinė pilis buvo statoma ir Voluinės Lucke.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-112359"></a>
 - t-023
   global_id: t-112359
-  teiginys: 'Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo bajoriją LDK pietuose - Bresto vaivadijoje, pasitelkę ir savo šalininkus, tarnus bei rekrūtus iš savo dvarų Lenkijoje - Voluinėje.'
+  teiginys: 'Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.'
   pagrindžia:
     - c-021
 
@@ -222,7 +222,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 <a id="claim-t-112365"></a>
 - t-029
   global_id: t-112365
-  teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
+  teiginys: 'Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Voluinė.'
   pagrindžia:
     - c-016
 
@@ -311,6 +311,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-011
 
 - c-006
+  santrauka: 'Vienos Radvilų šakos centrai buvo Biržai ir Kėdainiai, o kitos - Nesvyžius ir Olyka Voluinėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
@@ -343,6 +344,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-026
 
 - c-008
+  santrauka: 'Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus Voluinėje bei Podolėje įsiplieskė karas su
@@ -360,6 +362,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-014
 
 - c-009
+  santrauka: 'Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
@@ -502,6 +505,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-020
 
 - c-016
+  santrauka: 'Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Voluinė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
@@ -536,6 +540,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-019
 
 - c-018
+  santrauka: '1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1248 m. padėtis jam
@@ -592,6 +597,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - t-010
 
 - c-021
+  santrauka: 'Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LDK rytinių vaivadijų - Baltosios Rusios

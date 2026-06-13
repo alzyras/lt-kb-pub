@@ -84,7 +84,7 @@ Nenurodyta
 <a id="claim-t-183291"></a>
 - t-006
   global_id: t-183291
-  teiginys: '1410 Žalgirio (Griunvaldo) mūšis.'
+  teiginys: '1410 m. Žalgirio mūšyje jungtinė Lenkijos ir Lietuvos kariuomenė sutriuškino Vokiečių ordiną.'
   pagrindžia:
     - c-005
 
@@ -180,6 +180,7 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Žalgirio mūšis]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]

@@ -26,20 +26,21 @@ amziai:
 <a id="claim-t-77837"></a>
 - t-001
   global_id: t-77837
-  teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
+  teiginys: '1972 m. gegužės 14 d. Romas Kalanta Kaune, sušukęs „Laisvę Lietuvai!“, apsipylė benzinu ir pasidegė.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-77838"></a>
 - t-002
   global_id: t-77838
-  teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
+  teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ši informacija neatitiko tikro-
@@ -53,6 +54,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1972 m. gegužės 14 d. Romas Kalanta Kaune, sušukęs „Laisvę Lietuvai!“, apsipylė benzinu ir pasidegė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1972 m. gegužės 14 d. devyniolikme-
@@ -70,7 +72,7 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/Laisvę Lietuvai!]]
 - [[objektai/asmenys/Romas Kalanta]]
+- [[objektai/posakiai/Laisvę Lietuvai!]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
 - [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]

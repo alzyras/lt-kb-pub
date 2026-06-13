@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-87310"></a>
 - t-001
   global_id: t-87310
-  teiginys: 'Žygimantas miestui atidavė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
+  teiginys: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Žygimantas miestui atidavė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
+  santrauka: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus
@@ -196,3 +196,4 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]

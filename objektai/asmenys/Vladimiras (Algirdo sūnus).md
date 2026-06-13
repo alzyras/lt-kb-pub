@@ -20,13 +20,14 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
 <a id="claim-t-35316"></a>
 - t-001
   global_id: t-35316
-  teiginys: 'Vytautas suvaldė Kijevo kunigaikštį Vladimirą, Algirdo sūnų, ir silpnino Gediminaičių valdžią.'
+  teiginys: 'Vytautas suvaldė nepaklusnų Kijevo kunigaikštį Vladimirą, Algirdo sūnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas suvaldė nepaklusnų Kijevo kunigaikštį Vladimirą, Algirdo sūnų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Vytautas su jais nedarė ilgų ce­

@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-87035"></a>
 - t-001
   global_id: t-87035
-  teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
+  teiginys: 'Aleksandras leido Vilniuje statyti Svečių namus, nes rusų pirklių kontrolę siejo ir su miesto saugumu.'
   pagrindžia:
     - c-002
 
@@ -74,6 +74,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Aleksandras leido Vilniuje statyti Svečių namus, nes rusų pirklių kontrolę siejo ir su miesto saugumu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     44
@@ -105,4 +106,5 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusų pirkliai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Aleksandras]]
 - [[objektai/zodynas/svečiai Svečių namai]]

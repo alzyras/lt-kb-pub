@@ -21,7 +21,7 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
 <a id="claim-t-60326"></a>
 - t-001
   global_id: t-60326
-  teiginys: 'Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas, dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius.'
+  teiginys: 'Hermanas iš Lichtenburgo gyveno Brandenburgo pilyje ir ant pliko kūno dėvėjo grandininius marškinius.'
   pagrindžia:
     - c-001
 

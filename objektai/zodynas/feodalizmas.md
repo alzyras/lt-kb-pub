@@ -29,7 +29,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 <a id="claim-t-82052"></a>
 - t-002
   global_id: t-82052
-  teiginys: 'Gediminas apibūdintas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų Lietuvoje įkūrėjas.'
+  teiginys: 'Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.'
   pagrindžia:
     - c-006
 
@@ -175,6 +175,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     - t-008
 
 - c-006
+  santrauka: 'Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, tiesą sakant, ir visoje Lie­

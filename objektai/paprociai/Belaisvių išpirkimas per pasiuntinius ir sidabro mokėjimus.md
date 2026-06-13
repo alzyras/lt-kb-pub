@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-87205"></a>
 - t-002
   global_id: t-87205
-  teiginys: 'Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.'
+  teiginys: 'Pskovo pasiuntiniai Vilniuje mokėjo Vytautui sidabrą už belaisvių paleidimą, tačiau belaisviai paleisti tik pridėjus dar 250 rublių.'
   pagrindžia:
     - c-001
 

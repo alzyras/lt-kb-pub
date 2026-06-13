@@ -47,14 +47,14 @@ Nenurodyta
 <a id="claim-t-92955"></a>
 - t-001
   global_id: t-92955
-  teiginys: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
+  teiginys: 'Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-92956"></a>
 - t-002
   global_id: t-92956
-  teiginys: 'Įėjo Vengrijos ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem nuogais kardais nešini.'
+  teiginys: 'Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-92958"></a>
 - t-004
   global_id: t-92958
-  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  teiginys: 'Pasiuntiniai pareiškė, kad du kardai buvo atnešti kryžiuočių didžiojo magistro nurodymu.'
   pagrindžia:
     - c-003
 

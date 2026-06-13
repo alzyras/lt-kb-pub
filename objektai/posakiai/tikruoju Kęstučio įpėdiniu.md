@@ -24,13 +24,6 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
   pagrindžia:
     - c-001
 
-<a id="claim-t-184253"></a>
-- t-002
-  global_id: t-184253
-  teiginys: 'Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpėdiniu.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +41,7 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
     - t-001
 
 - c-002
-  santrauka: 'Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpėdiniu.'
+  santrauka: 'Lietuviai Vytautą pripažino tikruoju Kęstučio įpėdiniu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet pirmasis

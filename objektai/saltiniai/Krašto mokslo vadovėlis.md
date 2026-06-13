@@ -21,13 +21,14 @@ Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.
 <a id="claim-t-96069"></a>
 - t-001
   global_id: t-96069
-  teiginys: 'Vireliūno, KRAŠTO MOKSLO VADOVĖLIS.'
+  teiginys: 'A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Vireliūno „Krašto mokslo vadovėlis“ buvo skirtas III pradžios mokyklos skyriui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     19. A. Vireliūno, KRAŠTO MOKSLO VADOVĖLIS. III-čiam pra­

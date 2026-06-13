@@ -21,13 +21,14 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 <a id="claim-t-59117"></a>
 - t-001
   global_id: t-59117
-  teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
+  teiginys: 'Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, manydami, kad nieko nebus padarę, kol dar jiems bus likę ką daryti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, manydami, kad nieko nebus padarę, kol dar jiems bus likę ką daryti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
@@ -52,4 +53,3 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Nadruviai]]

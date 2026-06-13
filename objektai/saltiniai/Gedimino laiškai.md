@@ -105,7 +105,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 <a id="claim-t-171539"></a>
 - t-010
   global_id: t-171539
-  teiginys: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  teiginys: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
   pagrindžia:
     - c-015
 
@@ -119,7 +119,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 <a id="claim-t-171542"></a>
 - t-012
   global_id: t-171542
-  teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  teiginys: 'Gediminas laiškuose Vakarams titulavosi rex, o Algirdas laiškuose Bizantijos imperijai vadinosi bazileus.'
   pagrindžia:
     - c-017
 
@@ -133,7 +133,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 <a id="claim-t-171545"></a>
 - t-014
   global_id: t-171545
-  teiginys: 'Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau žodžiai asmens.'
+  teiginys: 'Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui.'
   pagrindžia:
     - c-014
 
@@ -441,6 +441,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-008
 
 - c-014
+  santrauka: 'Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To­
@@ -464,6 +465,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-014
 
 - c-015
+  santrauka: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
@@ -509,6 +511,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - t-013
 
 - c-017
+  santrauka: 'Gediminas laiškuose Vakarams titulavosi rex, o Algirdas laiškuose Bizantijos imperijai vadinosi bazileus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIETUVOS KRIKŠTAS

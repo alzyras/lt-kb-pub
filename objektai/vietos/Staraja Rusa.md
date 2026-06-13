@@ -33,7 +33,7 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
 <a id="claim-t-80184"></a>
 - t-002
   global_id: t-80184
-  teiginys: 'RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, o įgulą „išmušė“.'
+  teiginys: 'Per 1581 m. reidą K. Radvila sudegino Starają Rusą ir sunaikino jos įgulą.'
   pagrindžia:
     - c-001
 

@@ -28,7 +28,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 <a id="claim-t-75687"></a>
 - t-001
   global_id: t-75687
-  teiginys: 'Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių mokosi Rusijos ir kitų respublikų demokratai.'
+  teiginys: 'Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.'
   pagrindžia:
     - c-003
 
@@ -92,6 +92,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - t-003
 
 - c-003
+  santrauka: 'Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šv. Mišios už Lietuvą buvo aukojamos Paryžiaus
@@ -134,4 +135,3 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
-- [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]

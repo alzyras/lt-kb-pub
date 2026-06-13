@@ -66,7 +66,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 <a id="claim-t-173218"></a>
 - t-006
   global_id: t-173218
-  teiginys: '14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.'
+  teiginys: 'Vilniaus vyskupas Povilas 1543 m. išleido šios koplyčios fundacijos aktą.'
   pagrindžia:
     - c-005
 
@@ -200,6 +200,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     - t-002
 
 - c-005
+  santrauka: 'Vilniaus vyskupas Povilas 1543 m. išleido šios koplyčios fundacijos aktą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3.

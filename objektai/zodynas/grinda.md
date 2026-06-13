@@ -21,20 +21,21 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
 <a id="claim-t-58848"></a>
 - t-001
   global_id: t-58848
-  teiginys: 'Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant pilį, palikdami jame du brolius ir daug ginklanešių jam saugoti.'
+  teiginys: 'Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58849"></a>
 - t-002
   global_id: t-58849
-  teiginys: 'Dusburgietis teigia, kad iII, 24 — per pontem. Čia minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).'
+  teiginys: 'Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Baigos per vandenis ir pelkę ėjęs grįstas kelias buvo greičiausiai panašus į žemaičių kūlgrindas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     247 D.— pontem paludis juxta stratam, Jer.— brucke; D. III, 24 — per pontem. Čia
@@ -47,6 +48,7 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
     - t-002
 
 - c-002
+  santrauka: 'Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     už pelkės tilto prie grindos247, prie dabartinio vieškelio, ir tą malūną sutvirtino nelyginant

@@ -22,20 +22,21 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 <a id="claim-t-58854"></a>
 - t-001
   global_id: t-58854
-  teiginys: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
+  teiginys: 'Kristaus kariai citatoje tapatinami su vadinamaisiais Dobrynės broliais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58855"></a>
 - t-002
   global_id: t-58855
-  teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
+  teiginys: 'Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
@@ -56,6 +57,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
     - t-002
 
 - c-002
+  santrauka: 'Kristaus kariai citatoje tapatinami su vadinamaisiais Dobrynės broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
@@ -77,8 +79,8 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Dobrynės broliai]]
+- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
 - [[objektai/asmenys/Brunonas]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
+- [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

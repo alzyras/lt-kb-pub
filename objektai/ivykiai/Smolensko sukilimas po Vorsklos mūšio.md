@@ -38,13 +38,14 @@ Nenurodyta
 <a id="claim-t-34496"></a>
 - t-001
   global_id: t-34496
-  teiginys: 'Tuoj po Vorsklos smūgio sukilo Smolenskas.'
+  teiginys: 'Po Vytauto pralaimėjimo prie Vorsklos sukilo Smolenskas, o Sviatoslavo sūnus Jurgis sumanė jį užvaldyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Vytauto pralaimėjimo prie Vorsklos sukilo Smolenskas, o Sviatoslavo sūnus Jurgis sumanė jį užvaldyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuoj po Vorsklos smūgio sukilo Smolenskas. Kaip žino­

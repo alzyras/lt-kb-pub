@@ -22,7 +22,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 <a id="claim-t-41450"></a>
 - t-001
   global_id: t-41450
-  teiginys: 'Juk pergalės džiugina, o pralaimėjimai moko.'
+  teiginys: 'Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina kariuomenes mokytis ir keistis.'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 <a id="claim-t-183721"></a>
 - t-003
   global_id: t-183721
-  teiginys: 'Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami pergalėms, knygos leidėjai nenuėjo lengviausiu keliu ir skyrė dėmesio svarbiems pralaimėjimams, kadangi būtent skaudūs pralaimėjimai paskatina kariuomenes daryti reformas, permąstyti savo.'
+  teiginys: 'Knygos leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina reformas ir inovacijas.'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
     - t-002
 
 - c-002
-  santrauka: 'Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami pergalėms, knygos leidėjai nenuėjo lengviausiu keliu ir skyrė dėmesio svarbiems pralaimėjimams, kadangi būtent skaudūs pralaimėjimai paskatina kariuomenes daryti reformas, permąstyti savo.'
+  santrauka: 'Knygos leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina reformas ir inovacijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     pateike ne tik zinomus fak- G

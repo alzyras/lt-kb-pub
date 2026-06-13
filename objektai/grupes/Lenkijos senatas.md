@@ -37,7 +37,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 <a id="claim-t-184537"></a>
 - t-003
   global_id: t-184537
-  teiginys: 'Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
+  teiginys: 'Vytautas išėjo iš Lenkijos senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
   pagrindžia:
     - c-003
 
@@ -105,7 +105,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     - t-001
 
 - c-003
-  santrauka: 'Vytautas išėjo iš senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
+  santrauka: 'Vytautas išėjo iš Lenkijos senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek

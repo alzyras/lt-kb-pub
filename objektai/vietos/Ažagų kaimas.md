@@ -25,13 +25,6 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   pagrindžia:
     - c-001
 
-<a id="claim-t-183775"></a>
-- t-002
-  global_id: t-183775
-  teiginys: 'Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės).'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,7 +44,7 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     - t-001
 
 - c-002
-  santrauka: 'Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės).'
+  santrauka: 'Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nebebuvo laiko slėp-

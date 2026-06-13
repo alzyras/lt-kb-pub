@@ -27,7 +27,7 @@ tags:
 <a id="claim-t-183447"></a>
 - t-002
   global_id: t-183447
-  teiginys: 'Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.'
+  teiginys: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui gimė milenaristinis sąjūdis, susijęs su krikščioniškąja misija.'
   pagrindžia:
     - c-001
 

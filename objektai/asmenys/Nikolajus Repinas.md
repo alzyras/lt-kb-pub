@@ -20,7 +20,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
 <a id="claim-t-40374"></a>
 - t-001
   global_id: t-40374
-  teiginys: 'Jekaterina I įsakė Nikolajui Repinui, Rusijos pajėgų Lietuvoje vadui, slopinti sukilimą.'
+  teiginys: 'Rusijos imperatorienė Jekaterina įsakė Rusijos pajėgų Lietuvoje vadui Nikolajui Repinui slopinti sukilimą.'
   pagrindžia:
     - c-001
 
@@ -31,16 +31,10 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   pagrindžia:
     - c-002
 
-<a id="claim-t-183758"></a>
-- t-003
-  global_id: t-183758
-  teiginys: 'Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas buvo generolas leitenantas Nikolajus Repinas.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusijos imperatorienė Jekaterina įsakė Rusijos pajėgų Lietuvoje vadui Nikolajui Repinui slopinti sukilimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusijos imperatorienė Jekaterina 1
@@ -83,7 +77,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
     - t-002
 
 - c-003
-  santrauka: 'Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas buvo generolas leitenantas Nikolajus Repinas.'
+  santrauka: 'Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Liepos ir rugpjū-

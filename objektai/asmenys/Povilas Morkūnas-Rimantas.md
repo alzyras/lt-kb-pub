@@ -34,7 +34,7 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 <a id="claim-t-183759"></a>
 - t-002
   global_id: t-183759
-  teiginys: 'Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas MorkūnasRimantas, pavaduotoju - Maironio rinktinės vadas Juozas Paliūnas-Rytas.'
+  teiginys: 'Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     - t-001
 
 - c-002
-  santrauka: 'Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas MorkūnasRimantas, pavaduotoju - Maironio rinktinės vadas Juozas Paliūnas-Rytas.'
+  santrauka: 'Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žuvo LLKS tarybos pre-

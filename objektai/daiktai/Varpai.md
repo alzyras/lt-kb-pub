@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-89438"></a>
 - t-002
   global_id: t-89438
-  teiginys: 'Dusburgietis teigia, kad vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.'
+  teiginys: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-89439"></a>
 - t-003
   global_id: t-89439
-  teiginys: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
+  teiginys: '1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.'
   pagrindžia:
     - c-004
 
@@ -123,6 +123,7 @@ Nenurodyta
     - t-004
 
 - c-003
+  santrauka: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
@@ -139,6 +140,7 @@ Nenurodyta
     - t-002
 
 - c-004
+  santrauka: '1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
@@ -195,5 +197,6 @@ Nenurodyta
 - [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/zodynas/misijų teorija]]
 - [[objektai/zodynas/vidaus kolonizacija]]
+- [[objektai/zodynas/Ordino brolis]]
 - [[objektai/zodynas/atšilimas]]
 - [[objektai/posakiai/„kiaulių marą“]]

@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-62939"></a>
 - t-001
   global_id: t-62939
-  teiginys: 'Dusburgietis teigia, kad senosios Torunės pilaitė ir toliau liko Ordino rankose, ji naudota kaip gyvulininkystės dvaras.'
+  teiginys: 'Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,

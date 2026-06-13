@@ -37,7 +37,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 <a id="claim-t-86571"></a>
 - t-002
   global_id: t-86571
-  teiginys: 'Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyventojams teisės normas ir anų amžių neįmantriam protui vėliau parašytus įstatymus.'
+  teiginys: 'Vokiečiai ir naujakuriai lenkai Vilniuje galėjo būti užstojami vokiečių teisių pagal Rygos pavyzdį.'
   pagrindžia:
     - c-002
 
@@ -82,6 +82,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
     - t-001
 
 - c-002
+  santrauka: 'Vokiečiai ir naujakuriai lenkai Vilniuje galėjo būti užstojami vokiečių teisių pagal Rygos pavyzdį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas

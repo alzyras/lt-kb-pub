@@ -40,7 +40,7 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 <a id="claim-t-40589"></a>
 - t-002
   global_id: t-40589
-  teiginys: 'Albertas Daugirdas 1971 m. gimė ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
+  teiginys: 'Albertas Daugirdas gimė 1971 m. ir baigė Vilniaus pedagoginio universiteto Istorijos fakultetą.'
   pagrindžia:
     - c-002
 

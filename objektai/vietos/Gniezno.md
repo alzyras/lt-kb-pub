@@ -20,7 +20,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 <a id="claim-t-94046"></a>
 - t-001
   global_id: t-94046
-  teiginys: 'Jis tai atliko per lenkų Gniezno arkivyskupą.'
+  teiginys: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
     - t-002
 
 - c-002
+  santrauka: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...

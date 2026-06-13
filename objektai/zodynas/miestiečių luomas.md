@@ -29,7 +29,7 @@ tags:
 <a id="claim-t-86439"></a>
 - t-002
   global_id: t-86439
-  teiginys: 'Miestiečių luomas buvo paaukštintas dviejų paskutiniųjų Jogailaičių ir stipriai palaikomas karaliaus Stepono.'
+  teiginys: 'Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Miestiečių luomas buvo paaukštintas dviejų paskutiniųjų Jogailaičių ir stipriai palaikomas karaliaus Stepono.'
+  santrauka: 'Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jau tokia būna geni­
@@ -135,6 +135,7 @@ tags:
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]

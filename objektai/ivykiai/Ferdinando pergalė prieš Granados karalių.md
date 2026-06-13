@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-62779"></a>
 - t-001
   global_id: t-62779
-  teiginys: 'Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai.'
+  teiginys: 'Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
@@ -71,4 +72,5 @@ Nenurodyta
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/marobortinai]]
+- [[objektai/asmenys/Ferdinandas]]
 - [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]

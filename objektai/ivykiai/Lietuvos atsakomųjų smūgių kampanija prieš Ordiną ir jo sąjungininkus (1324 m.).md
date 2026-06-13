@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-62857"></a>
 - t-001
   global_id: t-62857
-  teiginys: 'Dusburgietis teigia, kad atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324 m. liepos mėn.'
+  teiginys: '1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324

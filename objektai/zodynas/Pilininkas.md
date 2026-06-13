@@ -53,7 +53,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 <a id="claim-t-89572"></a>
 - t-003
   global_id: t-89572
-  teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
+  teiginys: 'Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.'
   pagrindžia:
     - c-003
 
@@ -104,6 +104,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - t-002
 
 - c-003
+  santrauka: 'Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     75).
@@ -154,6 +155,9 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
+- [[objektai/asmenys/Maudelis]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
 - [[objektai/grupes/Rusų pirkliai]]
 - [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/zodynas/svečiai Svečių namai]]

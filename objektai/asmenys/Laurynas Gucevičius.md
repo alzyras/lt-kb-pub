@@ -70,5 +70,5 @@ tags:
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/T. Kosciuškos sukilimas]]
-- [[objektai/ivykiai/Vilniaus katedros bokšto griūtis ir Vilniaus rotušės bokšto pasvirimas]]
 - [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]
+- [[objektai/ivykiai/Vilniaus katedros bokšto griūtis ir Vilniaus rotušės bokšto pasvirimas]]

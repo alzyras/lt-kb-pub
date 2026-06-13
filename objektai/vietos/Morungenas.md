@@ -35,7 +35,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 <a id="claim-t-58599"></a>
 - t-002
   global_id: t-58599
-  teiginys: 'Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600, gavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.'
+  teiginys: '1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
     - t-001
 
 - c-002
+  santrauka: '1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie Morungeno pilies pastatymą

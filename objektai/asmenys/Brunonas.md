@@ -173,8 +173,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]
 - [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
-- [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
-- [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/zodynas/Kristaus kariai]]

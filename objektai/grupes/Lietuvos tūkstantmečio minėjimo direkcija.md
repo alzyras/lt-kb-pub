@@ -28,13 +28,14 @@ Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Re
 <a id="claim-t-86806"></a>
 - t-001
   global_id: t-86806
-  teiginys: 'Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.'
+  teiginys: 'Knyga „Vilniaus miesto istorija“ 2007 m. išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Knyga „Vilniaus miesto istorija“ 2007 m. išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     UDK 947.45

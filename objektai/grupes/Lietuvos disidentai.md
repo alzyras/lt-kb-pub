@@ -48,7 +48,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 <a id="claim-t-74670"></a>
 - t-004
   global_id: t-74670
-  teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  teiginys: 'Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo.'
   pagrindžia:
     - c-005
 
@@ -58,13 +58,6 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   teiginys: 'Lietuvos disidentinio judėjimo pradžia laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-74672"></a>
-- t-006
-  global_id: t-74672
-  teiginys: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -168,6 +161,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Tomas Venclova]]
+- [[objektai/zodynas/disidentai reformatai reformatoriai]]
 - [[objektai/asmenys/Aleksandras Štromas]]
 - [[objektai/asmenys/Balys Gajauskas]]
 - [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]

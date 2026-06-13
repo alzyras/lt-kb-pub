@@ -46,3 +46,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos reokupacija (1944 m.)]]
+- [[objektai/grupes/Sovietų Sąjunga]]

@@ -20,13 +20,14 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 <a id="claim-t-59138"></a>
 - t-001
   global_id: t-59138
-  teiginys: 'Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų, bet supraskite, jog tai, kas įvyko, neturi mūsų giminės pražudyti, o tegali ją pataisyti.'
+  teiginys: 'Pratarmėje Petras Dusburgietis ragino skaitytojus nesibaiminti visokeriopų vargų ir nelaikyti įvykių pražūtingais giminei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pratarmėje Petras Dusburgietis ragino skaitytojus nesibaiminti visokeriopų vargų ir nelaikyti įvykių pražūtingais giminei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie dievo
@@ -42,3 +43,7 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Petras Dusburgietis]]

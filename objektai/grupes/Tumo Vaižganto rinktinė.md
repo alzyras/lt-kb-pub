@@ -27,13 +27,14 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
 <a id="claim-t-41183"></a>
 - t-001
   global_id: t-41183
-  teiginys: 'Likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai sujungti į vieną - Tumo Vaižganto rinktinę ir įtraukti į Vytauto, o Žaliosios rinktinės kovotojai - į Vyčio apygardas.'
+  teiginys: '1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     praktiškai žuvo visa apygardos vadovybė.

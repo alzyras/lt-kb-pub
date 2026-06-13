@@ -27,7 +27,7 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
 <a id="claim-t-20059"></a>
 - t-001
   global_id: t-20059
-  teiginys: 'Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departamentas.'
+  teiginys: 'Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.'
   pagrindžia:
     - c-001
 
@@ -59,3 +59,4 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Juozas Tūbelis]]
+- [[objektai/asmenys/A. Smetona]]

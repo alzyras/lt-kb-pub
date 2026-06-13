@@ -123,6 +123,7 @@ Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnav
 - [[objektai/zodynas/konvokaciniai seimai]]
 - [[objektai/zodynas/protektorium]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]
+- [[objektai/grupes/Didžlenkiai]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]

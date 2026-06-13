@@ -90,5 +90,4 @@ Nenurodyta
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vėliavos]]

@@ -32,13 +32,14 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 <a id="claim-t-78066"></a>
 - t-001
   global_id: t-78066
-  teiginys: 'Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.'
+  teiginys: 'Lenkijos valdovas Mieška krikštijosi 966 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijos valdovas Mieška krikštijosi 966 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paminėkime tokią grandinę: Lenkijos valdovo

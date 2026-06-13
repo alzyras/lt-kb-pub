@@ -111,3 +111,5 @@ amziai:
 - [[objektai/posakiai/Žemaičių skundas]]
 - [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
 - [[objektai/ivykiai/Apuolės apgula (853 m.)]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
+- [[objektai/grupes/Pamedėnai]]

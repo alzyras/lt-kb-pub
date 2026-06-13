@@ -26,7 +26,7 @@ tags:
 <a id="claim-t-97277"></a>
 - t-002
   global_id: t-97277
-  teiginys: '13, 265-266 p. — (”) Melno taika , LE, t.'
+  teiginys: 'Zenono Ivinskio „Melno taika“ paskelbta Lietuvių enciklopedijos 18 tome, p. 172–175.'
   pagrindžia:
     - c-001
 

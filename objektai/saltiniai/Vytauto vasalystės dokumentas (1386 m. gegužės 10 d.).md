@@ -26,7 +26,7 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
 <a id="claim-t-93072"></a>
 - t-001
   global_id: t-93072
-  teiginys: 'Kitokios institucijos minėtais dokumentais nebuvo įsteigtos.'
+  teiginys: 'Vytauto vasalystės dokumentu nebuvo įsteigta kitokių institucijų.'
   pagrindžia:
     - c-001
 

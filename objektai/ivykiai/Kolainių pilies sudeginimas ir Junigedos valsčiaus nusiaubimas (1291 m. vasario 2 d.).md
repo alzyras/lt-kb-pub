@@ -42,7 +42,14 @@ Nenurodyta
 <a id="claim-t-62325"></a>
 - t-001
   global_id: t-62325
-  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
+  teiginys: '1291 m. apie vasario 2 d. Bertoldas Bruhavenas su broliais ir 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-183933"></a>
+- t-002
+  global_id: t-183933
+  teiginys: 'Sudeginę Kolainių pilį, broliai nusiaubė Junigedos valsčių, grobdami bei degindami ir paimdami į nelaisvę ar nužudydami 700 žmonių.'
   pagrindžia:
     - c-001
 

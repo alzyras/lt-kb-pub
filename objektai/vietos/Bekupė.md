@@ -19,13 +19,14 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
 <a id="claim-t-41619"></a>
 - t-001
   global_id: t-41619
-  teiginys: 'Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.'
+  teiginys: '3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkai

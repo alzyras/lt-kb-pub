@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-45347"></a>
 - t-001
   global_id: t-45347
-  teiginys: 'Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokiečių puolimai.'
+  teiginys: 'Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos.'
   pagrindžia:
     - c-004
 
@@ -127,6 +127,7 @@ Nenurodyta
     - t-005
 
 - c-004
+  santrauka: 'Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-

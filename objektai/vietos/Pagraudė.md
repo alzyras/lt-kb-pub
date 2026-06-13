@@ -30,7 +30,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 <a id="claim-t-58391"></a>
 - t-001
   global_id: t-58391
-  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  teiginys: '1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.'
   pagrindžia:
     - c-004
 
@@ -44,16 +44,23 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 <a id="claim-t-58393"></a>
 - t-003
   global_id: t-58393
-  teiginys: 'Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus šešis.'
+  teiginys: 'Per žygį į Žemaitijos Pagraudės valsčių užpuolikas pasalomis nukovė beveik visus jį besivijusius raitelius, išskyrus šešis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58394"></a>
 - t-004
   global_id: t-58394
-  teiginys: 'Dusburgietis teigia, kad trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė, kaip, beje, magistro ir buvo iš anksto nurodyta, į Lietuvos valsčių, vardu Pagraudė, ir nusiaubė didžiąją jo dalį, degindamas ir plėšdamas.'
+  teiginys: 'Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-184189"></a>
+- t-005
+  global_id: t-184189
+  teiginys: 'Karas taip palaužė Pagraudės žmones, kad jie ilgus metus nebepajėgė suburti tiek raitelių, kiek galėjo anksčiau.'
+  pagrindžia:
+    - c-005
 
 <a id="claim-t-185076"></a>
 - t-006
@@ -82,6 +89,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-002
 
 - c-002
+  santrauka: 'Per žygį į Žemaitijos Pagraudės valsčių užpuolikas pasalomis nukovė beveik visus jį besivijusius raitelius, išskyrus šešis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą
@@ -97,6 +105,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-003
 
 - c-003
+  santrauka: 'Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau negalime nepaminėti ir to, kad
@@ -115,6 +124,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-004
 
 - c-004
+  santrauka: '1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
@@ -133,7 +143,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - t-001
 
 - c-005
-  santrauka: 'Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus šešis.'
+  santrauka: 'Karas taip palaužė Pagraudės žmones, kad jie ilgus metus nebepajėgė suburti tiek raitelių, kiek galėjo anksčiau.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą

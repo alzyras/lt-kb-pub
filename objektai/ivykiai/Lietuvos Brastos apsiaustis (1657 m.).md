@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-80678"></a>
 - t-001
   global_id: t-80678
-  teiginys: 'Po metų vykusi apsiaustis sėkmingesnė, miestas galiausia pasidavė priešui, po ko buvo gerokai suniokotas.'
+  teiginys: '1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokietijoje. Pirmą

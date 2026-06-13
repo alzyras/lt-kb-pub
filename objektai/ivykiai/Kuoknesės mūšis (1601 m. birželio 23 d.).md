@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-49164"></a>
 - t-002
   global_id: t-49164
-  teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
+  teiginys: '1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.'
   pagrindžia:
     - c-003
 

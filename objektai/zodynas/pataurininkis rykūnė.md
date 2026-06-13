@@ -20,13 +20,14 @@ Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pa
 <a id="claim-t-86605"></a>
 - t-001
   global_id: t-86605
-  teiginys: 'Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes.'
+  teiginys: 'Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - Praneša man vėliau, kad įvyko griū­

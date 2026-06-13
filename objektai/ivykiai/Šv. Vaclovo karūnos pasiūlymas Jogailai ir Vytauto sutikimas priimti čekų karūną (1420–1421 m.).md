@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-92953"></a>
 - t-003
   global_id: t-92953
-  teiginys: 'Ši aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai pritarė ir rėmė Jogailos dukters piršlybas.'
+  teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.'
   pagrindžia:
     - c-003
 
@@ -96,6 +96,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ši

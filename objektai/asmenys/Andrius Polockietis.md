@@ -30,7 +30,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 <a id="claim-t-30206"></a>
 - t-001
   global_id: t-30206
-  teiginys: 'Andrius Polockietis su Livonijos magistru buvo sudaręs vasalinę sutartį.'
+  teiginys: '1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį.'
   pagrindžia:
     - c-001
 
@@ -44,13 +44,14 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 <a id="claim-t-30208"></a>
 - t-003
   global_id: t-30208
-  teiginys: 'Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.'
+  teiginys: 'Užėmęs Lukomlį, Andrius Polockietis ir toliau kėlė neramumus.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
@@ -79,6 +80,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
     - t-002
 
 - c-003
+  santrauka: 'Užėmęs Lukomlį, Andrius Polockietis ir toliau kėlė neramumus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vykdamu Lietuvon malšinti sukilimo, jiedu

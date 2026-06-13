@@ -97,14 +97,14 @@ Nenurodyta
 <a id="claim-t-92963"></a>
 - t-008
   global_id: t-92963
-  teiginys: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
+  teiginys: 'Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-92964"></a>
 - t-009
   global_id: t-92964
-  teiginys: 'LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
+  teiginys: 'LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   pagrindžia:
     - c-007
 
@@ -255,6 +255,7 @@ Nenurodyta
     - t-007
 
 - c-008
+  santrauka: 'Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gedimino stulpai ir Jogailos kryžius iš herbyno

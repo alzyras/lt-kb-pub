@@ -79,3 +79,4 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 - [[objektai/zodynas/bažnytinė valstybė]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Vilhelmas (dekanas)]]
+- [[objektai/ivykiai/Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)]]

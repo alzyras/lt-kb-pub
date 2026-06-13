@@ -29,7 +29,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 <a id="claim-t-88196"></a>
 - t-002
   global_id: t-88196
-  teiginys: 'Kita vertus, Laiškuose galima užtikti ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų.'
+  teiginys: '„Laiškuose nuo Kražantės upės kranto“ minima ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų.'
   pagrindžia:
     - c-001
 
@@ -43,6 +43,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Laiškuose nuo Kražantės upės kranto“ minima ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­

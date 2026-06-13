@@ -49,13 +49,14 @@ Nenurodyta
 <a id="claim-t-87271"></a>
 - t-001
   global_id: t-87271
-  teiginys: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
+  teiginys: '1583 m. lapkričio 26 d. Steponas Batoras uždraudė Vilniuje per naujojo kalendoriaus šventes atidaryti krautuves ir pardavinėti prekes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1583 m. lapkričio 26 d. Steponas Batoras uždraudė Vilniuje per naujojo kalendoriaus šventes atidaryti krautuves ir pardavinėti prekes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lygiai taip pat įžvalgiai karalius užkirto kelią
@@ -173,3 +174,5 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]

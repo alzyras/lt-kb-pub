@@ -32,7 +32,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 <a id="claim-t-79162"></a>
 - t-001
   global_id: t-79162
-  teiginys: 'Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių.'
+  teiginys: 'LDK valdovas Aleksandras Stanislovą Kišką ir Mykolą Glinskį paskyrė vyriausiais kariuomenės vadais.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-002
 
 - c-002
+  santrauka: 'LDK valdovas Aleksandras Stanislovą Kišką ir Mykolą Glinskį paskyrė vyriausiais kariuomenės vadais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą pačią

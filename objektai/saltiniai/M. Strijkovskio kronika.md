@@ -121,7 +121,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-173001"></a>
 - t-018
   global_id: t-173001
-  teiginys: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
+  teiginys: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
   pagrindžia:
     - c-006
 
@@ -135,14 +135,14 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-173004"></a>
 - t-021
   global_id: t-173004
-  teiginys: 'Strijkovskio kronika), kt.'
+  teiginys: 'M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-173005"></a>
 - t-022
   global_id: t-173005
-  teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
+  teiginys: 'M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė.'
   pagrindžia:
     - c-013
 
@@ -301,6 +301,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-006
 
 - c-006
+  santrauka: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
@@ -370,6 +371,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-023
 
 - c-009
+  santrauka: 'M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netoli jo, ties Belgorodu, į
@@ -470,6 +472,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-014
 
 - c-013
+  santrauka: 'M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7

@@ -44,20 +44,21 @@ Nenurodyta
 <a id="claim-t-05318"></a>
 - t-001
   global_id: t-05318
-  teiginys: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
+  teiginys: 'Vorsklos kautynės reiškė Vytauto didžiųjų planų pabaigą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-100026"></a>
 - t-002
   global_id: t-100026
-  teiginys: 'Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis sutriuškino švedų galybę (1709).'
+  teiginys: 'Vytautas nužygiavo kairiuoju Dniepro krantu palei Vorsklą, truputį šiauriau Poltavos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas nužygiavo kairiuoju Dniepro krantu palei Vorsklą, truputį šiauriau Poltavos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
@@ -78,6 +79,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Vorsklos kautynės reiškė Vytauto didžiųjų planų pabaigą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitaip rugpiučio 12 popietėje totorių kariuo­

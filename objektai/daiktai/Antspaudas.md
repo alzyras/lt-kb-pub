@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-64897"></a>
 - t-001
   global_id: t-64897
-  teiginys: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
+  teiginys: '1401 m. kovo 11 d. Radome duoto Lenkų karališkos tarybos dokumento originalas išliko su 49 antspaudais.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: '1401 m. kovo 11 d. Radome duoto Lenkų karališkos tarybos dokumento originalas išliko su 49 antspaudais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
@@ -205,6 +206,7 @@ Nenurodyta
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]
 - [[objektai/posakiai/Harum Testimonio Literarum]]
+- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
 - [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken]]

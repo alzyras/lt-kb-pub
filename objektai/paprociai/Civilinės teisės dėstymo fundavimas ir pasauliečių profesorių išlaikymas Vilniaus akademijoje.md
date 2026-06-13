@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-K. L. Sapiega Vilniaus akademijoje įvedė teisių dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.
+Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,14 +32,14 @@ Nenurodyta
 <a id="claim-t-185867"></a>
 - t-001
   global_id: t-185867
-  teiginys: 'K. L. Sapiega Vilniaus akademijoje įvedė teisių dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
+  teiginys: 'Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'K. L. Sapiega Vilniaus akademijoje įvedė teisių dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
+  santrauka: 'Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     K. L. Sapiega, buvusio kanclerio ir Lietuvos Statu­
@@ -61,3 +61,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Sapiegos]]
+- [[objektai/asmenys/Leonas]]
+- [[objektai/asmenys/Leonas Sapiega]]

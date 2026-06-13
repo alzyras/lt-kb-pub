@@ -37,13 +37,14 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 <a id="claim-t-59080"></a>
 - t-001
   global_id: t-59080
-  teiginys: 'Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsiteisė blogu už gera ir neapykanta už meilę.'
+  teiginys: 'Dusburgietis rašė, kad Glapo mėgtas valdinys Steinavas už patirtas malones atsiteisė blogu už gera ir neapykanta už meilę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dusburgietis rašė, kad Glapo mėgtas valdinys Steinavas už patirtas malones atsiteisė blogu už gera ir neapykanta už meilę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
@@ -61,3 +62,5 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 ### Susiję objektai
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Varmiai]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Steinavas]]

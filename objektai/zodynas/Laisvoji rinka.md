@@ -19,7 +19,7 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
 <a id="claim-t-75565"></a>
 - t-001
   global_id: t-75565
-  teiginys: 'Griuvus sovietinei sistemai ir atsivėrus sienoms į kapitalistinį Vakarų pasaulį, paaiškėjo reali Lietuvos ūkio galia – dauguma pramonės įmonių dėl aprūpinimo žaliavomis (pagrindinė jų tiekėja buvo SSRS) ir rinkos tapo niekam nereikalingos, išplėtota staklių.'
+  teiginys: 'Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų.'
   pagrindžia:
     - c-001
 
