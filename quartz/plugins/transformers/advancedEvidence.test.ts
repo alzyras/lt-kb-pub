@@ -8,6 +8,7 @@ const markdown = `# Objektas
 - id: t-001
   global_id: t-00042
   teiginys: Testinis teiginys
+  sudarymo_pagrindimas: Teiginys performuluotas taip, kad aiškiai įvardytų subjektą ir kontekstą.
   pagrindžia:
     - c-001
 
@@ -30,6 +31,9 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /href="#claim-t-00042"/)
     assert.match(transformed, /data-no-popover="true"/)
     assert.match(transformed, /data-supporting-ids="c-001"/)
+    assert.match(transformed, /claim_technical_fields/)
+    assert.match(transformed, /sudarymo_pagrindimas/)
+    assert.match(transformed, /aiškiai įvardytų subjektą ir kontekstą/)
     assert.doesNotMatch(transformed, /global_id: t-00042/)
     assert.match(transformed, /data-citation-entry="true"/)
     assert.match(transformed, /data-citation-id="c-001"/)

@@ -12,6 +12,7 @@ const ADVANCED_KEYS = new Set([
   "patikimumo_lygis",
   "patikimumo_saltinis",
   "patikimumo_pagrindimas",
+  "sudarymo_pagrindimas",
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
   "vertinimo_atnaujinta",
@@ -304,8 +305,13 @@ function renderClaimsSection(sectionLines: string[]): string[] | null {
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
     const claimPill = claimDeeplinkPill(entry.id, anchorId)
+    const advanced = claimAdvancedRows(entry)
+    const claimCell =
+      advanced.length > 0
+        ? `${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
+        : `${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimPill} ${markdownCell(claim)}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
+      `<tr${anchorAttr} data-claim-row="true"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
     )
   }
   out.push(
@@ -326,6 +332,31 @@ function quoteLines(text: string): string[] {
   return cleaned.split(/\r?\n/).map((line) => `> ${line.trim()}`)
 }
 
+function claimAdvancedRows(entry: EvidenceEntry): string[] {
+  const rows: string[] = []
+  const globalId = entry.fields.get("global_id")
+  if (globalId) {
+    rows.push(`<tr><th>global_id</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`)
+  }
+  for (const key of [
+    "teiginio_tipas",
+    "patikimumo_lygis",
+    "patikimumo_saltinis",
+    "patikimumo_pagrindimas",
+    "sudarymo_pagrindimas",
+    "ai_siulomas_patikimumas",
+    "ai_siulymo_pagrindimas",
+    "vertinimo_atnaujinta",
+    "vertinimo_autorius",
+  ]) {
+    const value = entry.fields.get(key)
+    if (value) {
+      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${advancedCell(value)}</td></tr>`)
+    }
+  }
+  return rows
+}
+
 function advancedRows(entry: EvidenceEntry, displayedQuote: string): string[] {
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
@@ -337,6 +368,7 @@ function advancedRows(entry: EvidenceEntry, displayedQuote: string): string[] {
     "patikimumo_lygis",
     "patikimumo_saltinis",
     "patikimumo_pagrindimas",
+    "sudarymo_pagrindimas",
     "ai_siulomas_patikimumas",
     "ai_siulymo_pagrindimas",
     "vertinimo_atnaujinta",
