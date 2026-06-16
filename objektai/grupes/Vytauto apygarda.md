@@ -23,14 +23,14 @@ amziai:
 
 ## Santrauka
 
-PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius ra VYTAUTO APYGARDA rinktiné N = MOS» Pabradė Aavovers 1 PAGAIGALĖS KAUTYNĖS Lu ka | š sii apygarda A ŠA 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo = AR 3 Kada UN Paberdė. “ ## Puslapis 245 ŠIMONIŲ GIRIOS APGULTIS 1949 X OKUPUOTOJI LIETUVA Mūšio priešistorė Algimanto apygarda įkurta 1947 m. gegužės 1 d. Rytų Lietuvos srities partizanų vadų sprendimu iš Panevėžio ir Rokiškio apskrityse veikusių partizanų junginių, kurie. 1950 m. lapkričio 25 d. srities vado įsakymu Algimanto apygarda buvo panaikinta.
+1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą. 1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.
 
 ## Teiginiai
 
 <a id="claim-t-41200"></a>
 - t-001
   global_id: t-41200
-  teiginys: '1950 m. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo įtraukti į Vytauto apygardą.'
+  teiginys: '1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     praktiškai žuvo visa apygardos vadovybė.

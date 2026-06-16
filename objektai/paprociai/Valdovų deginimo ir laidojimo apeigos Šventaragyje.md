@@ -144,7 +144,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Germantas]]
 - [[objektai/daiktai/Drabužiai]]
+- [[objektai/daiktai/Laužas]]
 - [[objektai/asmenys/Šventaragis]]

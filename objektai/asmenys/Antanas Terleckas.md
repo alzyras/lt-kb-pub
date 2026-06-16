@@ -13,27 +13,28 @@ tags:
 
 ## Santrauka
 
-LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzikas.
+Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus. Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
 
 ## Teiginiai
 
 <a id="claim-t-18826"></a>
 - t-001
   global_id: t-18826
-  teiginys: 'Antanas Terleckas buvo vienas iš prieš sovietų santvarką kovojusių asmenų ir buvo teistas tris kartus.'
+  teiginys: 'Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-18827"></a>
 - t-002
   global_id: t-18827
-  teiginys: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
+  teiginys: 'Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Skirtingai nei
@@ -51,6 +52,7 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
     - t-002
 
 - c-002
+  santrauka: 'Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
@@ -71,5 +73,4 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės lyga]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

@@ -49,3 +49,4 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro lektika]]
+- [[objektai/zodynas/ponai]]

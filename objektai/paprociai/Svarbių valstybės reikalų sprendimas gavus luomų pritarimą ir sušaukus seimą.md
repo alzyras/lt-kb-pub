@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje. Atleidęs žygūną, karalius sušaukė seimą Lenčicoje.
+Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje. Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-185893"></a>
 - t-002
   global_id: t-185893
-  teiginys: 'Atleidęs žygūną, karalius sušaukė seimą Lenčicoje.'
+  teiginys: 'Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Atleidęs žygūną, karalius sušaukė seimą Lenčicoje.'
+  santrauka: 'Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.

@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė net 100 mylių už Smo­ lensko, palikdamas kairėje Maskvą, iki kurios tebuvo trijų die­ nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už Pronsko (visai netoli dabartinės.
+Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.
 
 ## Teiginiai
 
 <a id="claim-t-36514"></a>
 - t-001
   global_id: t-36514
-  teiginys: 'Vytautas toliausiai nužygiavo iki Okos prieupio Zna už Pronsko, visai netoli tuometinės Penzos.'
+  teiginys: 'Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytautas toliausiai nužygiavo iki Okos prieupio Zna už Pronsko, visai netoli tuometinės Penzos.'
+  santrauka: 'Vytautas toliausiai nužygiavo iki Okos prieupio Znos už Pronsko, visai netoli dabartinės Penzos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis daly­

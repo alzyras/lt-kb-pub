@@ -20,19 +20,12 @@ amziai:
 
 ## Santrauka
 
-Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino visus savo delegacijos duotus pažadus specialiu dokumentu, kuris yra žinomas Krėvos akto vardu (1385 m. rugpiūčio 14 d.).
+Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę.
 
 ## Teiginiai
 
-<a id="claim-t-46811"></a>
-- t-001
-  global_id: t-46811
-  teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-46813"></a>
-- t-002
+- t-001
   global_id: t-46813
   teiginys: 'Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę.'
   pagrindžia:
@@ -52,18 +45,6 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
     politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
-    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
-    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

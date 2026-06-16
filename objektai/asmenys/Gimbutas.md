@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Gimbutui buvo paskirta valdyti Žemaitija.
+Gimbutui buvo paskirta valdyti Žemaitiją.
 
 ## Teiginiai
 
 <a id="claim-t-186110"></a>
 - t-001
   global_id: t-186110
-  teiginys: 'Gimbutui buvo paskirta valdyti Žemaitija.'
+  teiginys: 'Gimbutui buvo paskirta valdyti Žemaitiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gimbutui buvo paskirta valdyti Žemaitija.'
+  santrauka: 'Gimbutui buvo paskirta valdyti Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kokius jis nuveikė paminėtinus darbus,
@@ -43,3 +43,4 @@ Gimbutui buvo paskirta valdyti Žemaitija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/zodynas/tėvonija]]

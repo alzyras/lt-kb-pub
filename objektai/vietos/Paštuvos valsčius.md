@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo metu brolis Meinhardas, magistras, nesitenkindamas lietuviams pridarytais nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius, viską čia didžiausiais gaisrais. Dusburgietis teigia, kad paštuvos valsčius buvo deš. Dusburgietis teigia, kad tada jis padalijo savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
+1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių. Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais. 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
 
 ## Teiginiai
 
@@ -49,7 +49,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 <a id="claim-t-91254"></a>
 - t-004
   global_id: t-91254
-  teiginys: 'Dusburgietis teigia, kad paštuvos valsčius buvo deš.'
+  teiginys: 'Paštuvos valsčius buvo deš.'
   pagrindžia:
     - c-001
 
@@ -63,6 +63,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Paštuvos valsčius buvo deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau

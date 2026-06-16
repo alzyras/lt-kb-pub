@@ -66,7 +66,6 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/zodynas/barokinė santvarka]]

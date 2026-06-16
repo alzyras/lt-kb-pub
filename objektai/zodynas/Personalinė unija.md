@@ -11,10 +11,10 @@ date_start: '1499'
 date_end: '1918'
 sukurta: ''
 atnaujinta: ''
-tags: []
 amziai:
   - 'XV'
   - 'XX'
+tags: []
 ---
 # Personalinė unija (unija)
 
@@ -47,7 +47,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-182715"></a>
 - t-001
   global_id: t-182715
@@ -69,39 +68,22 @@ Nenurodyta
   pagrindžia:
     - c-003
 
-<a id="claim-t-182968"></a>
-- t-004
-  global_id: t-182968
-  teiginys: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-182969"></a>
 - t-005
   global_id: t-182969
+  teiginys: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
   teiginys: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
   pagrindžia:
-    - c-001
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Abidvi
-    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
-    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
-    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
-    tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
-    skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
-    tomasi tik su vienu dviejų jungtinių valstybių sostu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -122,7 +104,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -143,7 +124,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -159,7 +139,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -172,11 +151,31 @@ Nenurodyta
     lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
     ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
     tuviai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
+- c-006
+  santrauka: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Abidvi
+    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
+    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
+    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
+    tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
+    skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
+    tomasi tik su vienu dviejų jungtinių valstybių sostu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

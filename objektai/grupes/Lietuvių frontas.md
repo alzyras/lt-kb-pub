@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys leido pogrindinius leidinius.
+Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą. Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 <a id="claim-t-74625"></a>
 - t-002
   global_id: t-74625
-  teiginys: 'Į Lietuvių frontą susibūrė krikščionių demokratų sparno politikai ir ateitininkų jaunimas.'
+  teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį.'
   pagrindžia:
     - c-001
 

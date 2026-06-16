@@ -66,3 +66,4 @@ Tos dotacijos Vil­ niaus vyskupijai nuorašo vertimas iš lotynų kalbos, atlik
 - [[objektai/grupes/Lotynai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/nuorašas]]

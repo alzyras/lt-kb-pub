@@ -60,4 +60,3 @@ periodo_grupes:
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Vaidotas]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia. Bžostovskio įkurta Paulavos respublika. Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos, Lietuvos ir Paulavos.
+Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką kaip Apšvietos žingsnį Lietuvos ūkyje. Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos. Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 <a id="claim-t-68909"></a>
 - t-002
   global_id: t-68909
-  teiginys: 'Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos, Lietuvos ir Paulavos.'
+  teiginys: 'Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos.'
   pagrindžia:
     - c-003
 
@@ -76,6 +76,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
     - t-001
 
 - c-003
+  santrauka: 'Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,

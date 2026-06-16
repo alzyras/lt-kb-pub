@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Kūlgrindos buvo slapti akmenimis grįsti keliai per vandeningas ar klampias vietas. Jais galėjo naudotis tik prityrusio vadovo vedami žmonės, o jų liekanų, pasak šaltinio, dar buvo galima rasti Lietuvoje.
+Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės. Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -34,31 +34,22 @@ Jos tarnavo slaptam susisiekimui tarp pilių ir apsaugai nuo priešo.
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-06734"></a>
-- t-001
-  global_id: t-06734
+- t-004
+  teiginys: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
   teiginys: 'Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-06735"></a>
-- t-002
-  global_id: t-06735
-  teiginys: 'Kūlgrindos buvo žemaičių akmenimis grįsti vingrūs keliai.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-06736"></a>
-- t-003
-  global_id: t-06736
-  teiginys: 'Lietuvoje dar buvo galima rasti kūlgrindų liekanų.'
-  pagrindžia:
-    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie keliai būdavo tokie
@@ -67,14 +58,18 @@ Nenurodyta
     naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-001
-    - t-003
+    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]

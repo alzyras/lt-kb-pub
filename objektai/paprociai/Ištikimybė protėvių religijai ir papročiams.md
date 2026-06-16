@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę. Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.
+Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu. Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,14 +32,21 @@ Nenurodyta
 <a id="claim-t-185870"></a>
 - t-001
   global_id: t-185870
-  teiginys: 'Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.'
+  teiginys: 'Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-185871"></a>
+- t-002
+  global_id: t-185871
+  teiginys: 'Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.'
+  santrauka: 'Kojelavičiaus pasakojime ištikimybė protėvių religijai ir papročiams siejama su lietuvių pagonių valstybės kūrimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Piktadarystė — nusikaltimas prieš
@@ -61,7 +68,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kojelavičiaus pasakojime protėvių religijai ir papročiams ištikimi lietuviai pagonys sukūrė Lietuvos valstybę.'
+  santrauka: 'Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tie lietuviai
@@ -84,5 +91,7 @@ Nenurodyta
 - [[objektai/autoriai/Petras Skarga]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/piktadarystė]]
+- [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/erezija]]

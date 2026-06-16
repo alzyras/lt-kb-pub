@@ -11,25 +11,24 @@ date_start: '1590'
 date_end: '1609'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karalius
-  - karas
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - karalius
+  - karas
+  - vyskupas
 ---
 # Jonas Karolis Katkevičius
 
 ## Santrauka
 
-Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Jonas Karolis Katkevičius: a. Śliwiński, J. K. Chod- kiewicz (1929) ; Balčiūnas, Pirmasis švedų karas ir Kirchholmo kova (Karo Arch. I); V. Biržiška, D. Lietuvos hetmonas J. K. Katkevičius (Mūsų Žin. 1921, Nr. 3); — XV—XVIII a. Lietuvos kariuomenės vadai (ten pat, 1922, NN 6—7); A.. Jonas Karolis Katkevičius: jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
+1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais. Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale. Po Jono Jeronimo Katkevičiaus mirties Jonas Karolis Katkevičius užėmė jo vietą ir vėliau gavo didžiojo hetmono buožę bei Vilniaus vaivadiją.
 
 ## Teiginiai
-
 <a id="claim-t-79042"></a>
 - t-001
   global_id: t-79042
@@ -44,43 +43,26 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   pagrindžia:
     - c-002
 
-<a id="claim-t-79044"></a>
-- t-003
-  global_id: t-79044
-  teiginys: 'Jonas Karolis Katkevičius: jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-79046"></a>
-- t-004
-  global_id: t-79046
-  teiginys: 'Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-79047"></a>
 - t-005
   global_id: t-79047
   teiginys: 'Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-79048"></a>
-- t-006
-  global_id: t-79048
-  teiginys: 'Jonas Karolis Katkevičius: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija).'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-79049"></a>
-- t-007
-  global_id: t-79049
-  teiginys: 'Jonas Karolis Katkevičius 1605 m. gavo didžiojo hetmono buožę, o 1616 m. – Vilniaus vaivadiją.'
-  pagrindžia:
     - c-003
+- t-006
+  teiginys: 'Karaliaus atsiųstas Jonas Karolis Katkevičius nebeišgelbėjo Maskvos įgulos.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Po Jono Jeronimo Katkevičiaus mirties Jonas Karolis Katkevičius užėmė jo vietą ir vėliau gavo didžiojo hetmono buožę bei Vilniaus vaivadiją.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -112,7 +94,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -129,23 +110,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
-  santrauka: 'Jonas Karolis Katkevičius 1605 m. gavo didžiojo hetmono buožę, o 1616 m. – Vilniaus vaivadiją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jonui Jeronimui K. († 1579
-    m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių
-    jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605
-    m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.). Tai
-    didysis Livonijos gynėjas, nepaprastų gabumų vadas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-004
   santrauka: 'Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -165,20 +130,8 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Deryboms ilgai užtrukus, palaidų kariuomenės
-    būrių alinamas kraštas sukilo. Maskvos įgulai buvo sunku iš-
-    silaikyti. Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
+- c-004
+  santrauka: 'Po Jono Jeronimo Katkevičiaus mirties Jonas Karolis Katkevičius užėmė jo vietą ir vėliau gavo didžiojo hetmono buožę bei Vilniaus vaivadiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugiausia buvo
@@ -186,26 +139,25 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių
     jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605
     m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
-- c-007
+    - t-007
+- c-005
+  santrauka: 'Karaliaus atsiųstas Jonas Karolis Katkevičius nebeišgelbėjo Maskvos įgulos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš pradžių kas nors paskirdavo lėšų
-    apsigyventi tik keletui jėzuitų, vėliau kas nors pridėdavo lėšų mo-
-    kyklos pradžiai, kiti pridėdavo lėšų aukštesniajai mokyklai, ir t. t.
-    Tuo būdu kolegijos išaugdavo palaipsniui. Pilnai kolegijai išlai-
-    kyti lėšų pakakdavo tik iš pačių didžiųjų ponų fundacijų. Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija).
-  citata_rodoma: ''
+    Deryboms ilgai užtrukus, palaidų kariuomenės
+    būrių alinamas kraštas sukilo. Maskvos įgulai buvo sunku iš-
+    silaikyti. Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
 
@@ -219,7 +171,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Radvila]]
-- [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/rokošas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/seniūnija]]

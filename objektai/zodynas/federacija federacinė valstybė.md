@@ -173,7 +173,6 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/karo grobis]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/statutas]]

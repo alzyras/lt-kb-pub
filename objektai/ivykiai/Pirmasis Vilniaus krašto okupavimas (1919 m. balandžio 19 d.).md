@@ -11,12 +11,12 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
-  - kraštas
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - ivykis
+  - kraštas
 ---
 # Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)
 
@@ -41,7 +41,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-37193"></a>
 - t-001
   global_id: t-37193
@@ -57,7 +56,6 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -74,7 +72,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -92,7 +89,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]

@@ -12,14 +12,14 @@ date_start: '1924'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - karas
   - kraštas
   - saltinis
   - tauta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Klaipėdos konvencija
 
@@ -28,7 +28,6 @@ amziai:
 Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris Poincarė, italų ambasadorius Avenzzana, japonų ambasadorius Ishii, anglų markizas de Crewe ir Lietuvos ministeris pirmininkas ir. Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
-
 <a id="claim-t-125066"></a>
 - t-001
   global_id: t-125066
@@ -50,8 +49,7 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -68,7 +66,6 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

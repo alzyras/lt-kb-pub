@@ -4,6 +4,7 @@ pavadinimas: 'Drohičinas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -25,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną. Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs.
+Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos. Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais. Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.
 
 ## Teiginiai
 
@@ -85,26 +86,33 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   pagrindžia:
     - c-006
 
-<a id="claim-t-183012"></a>
-- t-009
-  global_id: t-183012
-  teiginys: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-184945"></a>
-- t-010
+- t-009
   global_id: t-184945
   teiginys: 'Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-184946"></a>
-- t-011
+- t-010
   global_id: t-184946
   teiginys: 'Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.'
   pagrindžia:
+    - c-008
+
+<a id="claim-t-187572"></a>
+- t-011
+  global_id: t-187572
+  teiginys: 'Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau miestą atstatė ir ėmė jame kunigaikščiauti.'
+  pagrindžia:
     - c-009
+
+<a id="claim-t-187573"></a>
+- t-012
+  global_id: t-187573
+  teiginys: 'Kazimierui esant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -224,22 +232,6 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - t-008
 
 - c-007
-  santrauka: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
-    tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
-    išvyko į Drohičiną. Jogaila tuo metu buvo išsiuntęs kariuomenę
-
-    į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus,
-    Polocko kunigaikščiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-008
   santrauka: 'Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -275,9 +267,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-009
+- c-008
   santrauka: 'Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -310,4 +302,43 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-010
+
+- c-009
+  santrauka: 'Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau miestą atstatė ir ėmė jame kunigaikščiauti.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Erdvilą įsi­
+    rengė čionai sostinę ir ėmė vadintis Naugarduko di­
+    džiuoju kunigaikščiu I S .
+    Išžygiavę iš Naugarduko, įkūrė Gardino miestą l6 , ir
+    paskui nužygiavo Į Brastą l7 , ir rado Brastą, ir Drohiči-
+    ną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis
+    tuos miestus atstatė ir ėmė juose kunigaikščiauti 2I.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
     - t-011
+
+- c-010
+  santrauka: 'Kazimierui esant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to. Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-012

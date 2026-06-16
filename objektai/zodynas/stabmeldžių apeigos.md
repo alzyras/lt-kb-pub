@@ -76,6 +76,7 @@ Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priim
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/margutis]]
 - [[objektai/zodynas/stabmeldžiai]]

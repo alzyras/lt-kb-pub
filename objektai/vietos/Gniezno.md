@@ -16,7 +16,6 @@ tags:
 Jis tai atliko per lenkų Gniezno arkivyskupą.
 
 ## Teiginiai
-
 <a id="claim-t-94046"></a>
 - t-001
   global_id: t-94046
@@ -32,7 +31,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -46,7 +44,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

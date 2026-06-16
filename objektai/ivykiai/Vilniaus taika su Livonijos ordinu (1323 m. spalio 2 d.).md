@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1323 m. spalio 2 d. Vilniuje Gedimino valdžia sudarė taiką su Livonijos ordinu ir vyskupais, sutvarkydama ir Rygai svarbius prekybos reikalus. Prūsų ordinas šios sutarties nepripažino ir skatino siekti jos anuliavimo.
+1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo Gedimino sostinė. 1323 m. spalio 2 d. Vilniuje Livonijos ordino ir vyskupų pasiuntiniai sudarė taiką, kurioje buvo nustatyti Rygai svarbūs prekybos reikalai. Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
 
 ## Laikotarpis ir datos
 
@@ -100,7 +100,7 @@ Nenurodyta
 <a id="claim-t-103835"></a>
 - t-009
   global_id: t-103835
-  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.'
+  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.'
   pagrindžia:
     - c-004
 
@@ -174,7 +174,7 @@ Nenurodyta
     - t-006
 
 - c-004
-  santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.'
+  santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos

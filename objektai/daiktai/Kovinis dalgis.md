@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Mackevičius sutelkė kovai 150 dalgiais ir šautuvais ginkluotų vyrų. Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. Pusė sukilėlių ginkluoti dalgiais, pusė - ietimis.
+Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo. Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-39184"></a>
 - t-001
   global_id: t-39184
-  teiginys: 'Mackevičius sutelkė kovai 150 dalgiais ir šautuvais ginkluotų vyrų.'
+  teiginys: 'Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     A. Mackevičius sutelkė kovai 150 dalgiais
@@ -88,4 +89,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Dalgis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Šautuvai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/ivykiai/Naujaberžės kautynės]]

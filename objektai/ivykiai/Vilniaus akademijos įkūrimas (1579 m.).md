@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Kliūčių akademijai kurti atsirado pačioje Lietuvoje. Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga. Todėl kai 1578 m. Vilniaus jėzuitai per vysk.
+Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą. 1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą.
 
 ## Laikotarpis ir datos
 
@@ -34,30 +34,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66953"></a>
 - t-001
   global_id: t-66953
-  teiginys: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'
+  teiginys: 'Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-66954"></a>
-- t-002
-  global_id: t-66954
-  teiginys: 'Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.'
-  pagrindžia:
-    - c-003
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66955"></a>
-- t-003
+- t-002
   global_id: t-66955
   teiginys: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -68,13 +62,15 @@ Nenurodyta
     davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
     atvykęs į Lietuvą (1579 m.). Netrukus akademijos įkūrimą pa-
     tvirtino ir popiežius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
+    - t-002
 - c-002
+  santrauka: 'Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kliūčių** akademijai kurti atsirado pačioje Lietuvoje. Jos įkū-
@@ -83,26 +79,13 @@ Nenurodyta
     privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmuoju akademijos rektorium buvo paskirtas mozūras,
-    ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
-    rašytojas ir pamokslininkas Petras Skarga. Akademija
-    greit iškilo ir ilgą laiką buvo centralinė Lietuvos švietimo įstaiga.
-    Iš pradžių joje buvo tik du fakultetai — teologijos ir filo-
-    sofijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -110,6 +93,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Valavičiai]]
-- [[objektai/autoriai/Petras Skarga]]
+- [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]

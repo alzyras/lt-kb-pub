@@ -9,31 +9,30 @@ date_start: '1869'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - autorius
 ---
 # J. Caro
 
 ## Santrauka
 
-HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
+J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.
 
 ## Teiginiai
-
 <a id="claim-t-100111"></a>
 - t-001
   global_id: t-100111
-  teiginys: 'HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.'
+  teiginys: 'J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — HrlU,

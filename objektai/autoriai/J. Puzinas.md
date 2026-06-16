@@ -10,12 +10,12 @@ date_start: '1938'
 date_end: '1950'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # J. Puzinas
 
@@ -30,7 +30,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - Die Flügelfibeln in Litauen und ihre Bedeutung für die Handelsgeschichte
 
 ## Teiginiai
-
 <a id="claim-t-64642"></a>
 - t-001
   global_id: t-64642
@@ -53,7 +52,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -67,7 +65,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -82,7 +79,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

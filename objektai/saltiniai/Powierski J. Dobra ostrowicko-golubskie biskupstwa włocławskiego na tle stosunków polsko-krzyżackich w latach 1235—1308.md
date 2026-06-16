@@ -25,14 +25,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162). Dusburgietis teigia, kad dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus, ir broliai, ten įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai 554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė. Dusburgietis teigia, kad 555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).
+555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201). J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais. J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams.
 
 ## Teiginiai
 
 <a id="claim-t-60959"></a>
 - t-001
   global_id: t-60959
-  teiginys: 'Dusburgietis teigia, kad 555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
+  teiginys: '555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
   pagrindžia:
     - c-003
 
@@ -82,6 +82,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
     - t-003
 
 - c-003
+  santrauka: '555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).

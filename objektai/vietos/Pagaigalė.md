@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius ra VYTAUTO APYGARDA rinktiné N = MOS» Pabradė Aavovers 1 PAGAIGALĖS KAUTYNĖS Lu ka | š sii apygarda A ŠA 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo = AR 3 Kada UN Paberdė.
+1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
 
 ## Teiginiai
 
 <a id="claim-t-41991"></a>
 - t-001
   global_id: t-41991
-  teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenė Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.'
+  teiginys: '1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PASTOVIAIO)

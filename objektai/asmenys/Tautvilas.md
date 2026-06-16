@@ -13,23 +13,22 @@ date_start: '1382'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
-  - tauta
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
+  - tauta
 ---
 # Tautvilas
 
 ## Santrauka
 
-Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
+Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai. Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje. Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.
 
 ## Teiginiai
-
 <a id="claim-t-121171"></a>
 - t-001
   global_id: t-121171
@@ -68,7 +67,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 <a id="claim-t-121176"></a>
 - t-006
   global_id: t-121176
-  teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
+  teiginys: '1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.'
   pagrindžia:
     - c-002
 
@@ -80,7 +79,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - c-006
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -97,8 +95,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: '1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Haličo-
@@ -110,7 +108,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-003
   santrauka: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -158,7 +155,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindžia:
     - t-005
     - t-004
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -172,7 +168,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -187,7 +182,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-006
   santrauka: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -218,6 +212,7 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - [[objektai/grupes/Rygos vokiečiai]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rusai]]
@@ -234,5 +229,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi]]
+- [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]
+- [[objektai/ivykiai/Tautvilos krikštas Rygoje|Tautvilos krikštas Rygoje (krikštas)]]
 - [[objektai/paprociai/Viešas krikščionybės priėmimas valdinių prisirišimui ir sąjungininkų palankumui pelnyti]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Edividas]]

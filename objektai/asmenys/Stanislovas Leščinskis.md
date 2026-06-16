@@ -16,47 +16,30 @@ tags:
 
 ## Santrauka
 
-Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį. Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).
+Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III. 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi. 1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas.
 
 ## Teiginiai
-
 <a id="claim-t-79165"></a>
 - t-001
   global_id: t-79165
   teiginys: 'Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-79166"></a>
-- t-002
-  global_id: t-79166
-  teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-79167"></a>
-- t-003
-  global_id: t-79167
-  teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'
-  pagrindžia:
     - c-003
 
 <a id="claim-t-79168"></a>
-- t-004
+- t-003
   global_id: t-79168
   teiginys: '1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-79169"></a>
-- t-005
-  global_id: t-79169
-  teiginys: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
+- t-004
+  teiginys: '1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.'
   pagrindžia:
-    - c-005
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -72,44 +55,8 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karolis XII
-    staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
-    pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
-    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
-    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
-    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
-    (1706 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl visuotinio sukilimo
-    prieš švedus, kaip 1656 m.,
-    nebegalėjo būti. Pagaliau
-    1704 m. Karolis privertė
-    sušaukti elekcinį seimą, ku-
-    ris, apstatytas švedų ka-
-    riuomene, paskelbė kara-
-    lium Poznanės vaivadą
-    Stanislovą Leščin-
-    skį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
-
-- c-004
+- c-003
   santrauka: 'Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -125,21 +72,24 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
+- c-004
+  santrauka: '1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-
-    tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.
-    Tačiau svarbiausias tuo reikalu balsas priklausė kaimynėms
-    valstybėms — Rusijai, Austrijai ir Prūsijai. O jos specialia su-
-    tartimi buvo įsižadėjusios neleisti į sostą nei Augusto **II** sūnaus,
-    Fridriko Augusto, nei Leščinskio.
-  citata_rodoma: ''
+    Karolis XII
+    staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
+    pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
+    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
+    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
+    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
+    (1706 m.).
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -147,9 +97,3 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Stanislovas]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
-- [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
-- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]

@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-A. Kojelavičiaus tekste tariama brolžudystė vadinama piktadaryste, dėl kurios valstybė likusi našlaitė.
+A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.
 
 ## Teiginiai
 
 <a id="claim-t-185390"></a>
 - t-001
   global_id: t-185390
-  teiginys: 'A. Kojelavičiaus tekste tariama brolžudystė vadinama piktadaryste, dėl kurios valstybė likusi našlaitė.'
+  teiginys: 'A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'A. Kojelavičiaus tekste tariama brolžudystė vadinama piktadaryste, dėl kurios valstybė likusi našlaitė.'
+  santrauka: 'A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     A. Kojelavičiui šitai nerū­

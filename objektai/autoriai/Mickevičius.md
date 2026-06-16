@@ -13,27 +13,21 @@ tags:
 
 ## Santrauka
 
-Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkančio būrelio tarpe sukeldavo nepaprastą entuziazmą. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius, kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studentais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų ir t.t.
+Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.
 
 ## Teiginiai
-
-<a id="claim-t-05716"></a>
-- t-001
-  global_id: t-05716
-  teiginys: 'Mickevičius buvo poetas, kurio raštai draugijos būrelyje jau tada keldavo nepaprastą entuziazmą.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-05717"></a>
-- t-002
+- t-001
   global_id: t-05717
   teiginys: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo ištremtas ir patsai filaretų vadas Tomas
@@ -41,26 +35,11 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
     kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
     tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
     ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Veiklesnieji universiteto studentai pir-
-    miausia įkūrė slaptą Filomatų (mokslo mėgėjų) Draugiją,
-    kurios tikslas buvo lavintis ir dirbti visuomenei.
-    Draugija buvo negausinga, nes į ją buvo priimami tik visiškai
-    patikimi ir kuo nors pasižymėję studentai (poetai, rašytojai,
-    rimtai ruošiąsi mokslui ir t.t.). Jų tarpe buvo ir didysis poetas
-    Mickevičius, kurio raštai jau tada susirenkančio būrelio tarpe su-
-    keldavo nepaprastą entuziazmą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

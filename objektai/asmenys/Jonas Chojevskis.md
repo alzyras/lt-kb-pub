@@ -79,5 +79,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 - [[objektai/grupes/Lotynai]]
 - [[objektai/posakiai/Viešpaties vardu Amen]]
 - [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/vaivada]]

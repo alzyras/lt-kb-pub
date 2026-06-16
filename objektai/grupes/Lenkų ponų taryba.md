@@ -17,24 +17,26 @@ tags:
 Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vadovavo Lietuvos savarankiškumo priešas, vysk. Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.
 
 ## Teiginiai
-
 <a id="claim-t-01377"></a>
 - t-001
   global_id: t-01377
-  teiginys: '1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-01378"></a>
-- t-002
-  global_id: t-01378
   teiginys: 'Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-01378"></a>
+- t-002
+  global_id: t-01378
+  teiginys: '1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,
@@ -44,12 +46,13 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
     mas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lie-
     tuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą,
     kurį išsirinktų po Jogailos mirties lenkai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
+    - t-001
 - c-002
   santrauka: '1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -59,17 +62,20 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]

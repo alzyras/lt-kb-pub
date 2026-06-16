@@ -5,7 +5,6 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1418 m.'
-  - '1419 m.'
   - '1816 m.'
 date_start: '1418'
 date_end: '1816'
@@ -22,19 +21,12 @@ amziai:
 
 ## Santrauka
 
-Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.
+Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 
 ## Teiginiai
 
-<a id="claim-t-88266"></a>
-- t-001
-  global_id: t-88266
-  teiginys: 'Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-88267"></a>
-- t-002
+- t-001
   global_id: t-88267
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
   pagrindžia:
@@ -54,20 +46,6 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
     gyvenvietės Lietuvoje galėjo būti at­
     siradę dar Gedimino ir Algirdo lai­
     kais, tačiau nėra patikimų to įrodymų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pranešimas apie jos mirtį yra 74
-    Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,
-    Prūsijos magistrui, rašytame iš Ry- 374. Długosz, Hist. Polon. Il, 1418-
-    gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz  Taurykū,
-    iš pastarojo aišku, kad kunigaikštie- p. 78.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

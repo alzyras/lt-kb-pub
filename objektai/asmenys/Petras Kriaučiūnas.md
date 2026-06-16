@@ -10,12 +10,12 @@ date_start: '1912'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - asmuo
 ---
 # Petras Kriaučiūnas
 
@@ -24,7 +24,6 @@ periodo_grupes:
 Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią. Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.
 
 ## Teiginiai
-
 <a id="claim-t-75995"></a>
 - t-001
   global_id: t-75995
@@ -37,48 +36,19 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   global_id: t-75996
   teiginys: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
   pagrindžia:
-    - c-002
-
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-75997"></a>
 - t-003
   global_id: t-75997
   teiginys: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
   pagrindžia:
-    - c-001
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet ir čia
-    buvo stengiamasi primesti lietuviams rusiškąsias raides. Moky-
-    tojais čia galėjo būti ir lietuviai. Vienu metu Marijampolės
-    gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
-    čiūnas, V. Staniškis ir J. Jasiulaitis).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia net buvo mokoma lie-
-    tuvių kalbos, o mokytojais galėjo būti ir lietuviai. Todėl jau mo-
-    kyklose susipažinę su lietuvių kalba ir dažnai lietuvių mokytojų
-    paraginami, mokiniai augo tautiškoje dvasioje. Iš jų išėjo tokie
-    lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
-    eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,6 +73,39 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   statusas: verified
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet ir čia
+    buvo stengiamasi primesti lietuviams rusiškąsias raides. Moky-
+    tojais čia galėjo būti ir lietuviai. Vienu metu Marijampolės
+    gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
+    čiūnas, V. Staniškis ir J. Jasiulaitis).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-005
+  santrauka: 'Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Čia net buvo mokoma lie-
+    tuvių kalbos, o mokytojais galėjo būti ir lietuviai. Todėl jau mo-
+    kyklose susipažinę su lietuvių kalba ir dažnai lietuvių mokytojų
+    paraginami, mokiniai augo tautiškoje dvasioje. Iš jų išėjo tokie
+    lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
+    eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį.
+1291 m. apie vasario 2 d. Bertoldas Bruhavenas su 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino. Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą. 1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 <a id="claim-t-68236"></a>
 - t-003
   global_id: t-68236
-  teiginys: '1290 m. magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
+  teiginys: '1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
   pagrindžia:
     - c-003
 
@@ -118,6 +118,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
     - t-002
 
 - c-003
+  santrauka: '1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vykstant kovoms prie

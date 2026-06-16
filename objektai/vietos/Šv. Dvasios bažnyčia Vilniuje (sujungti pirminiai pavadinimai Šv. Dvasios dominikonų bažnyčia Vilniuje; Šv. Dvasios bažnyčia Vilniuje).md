@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą. Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.
+Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų. Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę. Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 <a id="claim-t-85990"></a>
 - t-003
   global_id: t-85990
-  teiginys: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
+  teiginys: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
   pagrindžia:
     - c-005
 
@@ -142,7 +142,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     - t-001
 
 - c-005
-  santrauka: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
+  santrauka: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios vienuolyno tėvais reikalai taip susi­

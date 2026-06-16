@@ -54,5 +54,4 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/NATO]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

@@ -74,6 +74,7 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Strėlės]]
 - [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]

@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo brolis Karolis IX stengėsi kai kuriuos punktus pakeisti, bet, delegacijoms nenusileidus, su viskuo sutiko ir prisiekė.
+Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą. 1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių. Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.
 
 ## Teiginiai
 
@@ -55,82 +55,75 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 <a id="claim-t-91238"></a>
 - t-004
   global_id: t-91238
-  teiginys: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
+  teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   pagrindžia:
     - c-012
 
-<a id="claim-t-91239"></a>
-- t-005
-  global_id: t-91239
-  teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
-  pagrindžia:
-    - c-013
-
 <a id="claim-t-91240"></a>
-- t-006
+- t-005
   global_id: t-91240
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-91241"></a>
-- t-007
+- t-006
   global_id: t-91241
   teiginys: 'Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-91242"></a>
-- t-008
+- t-007
   global_id: t-91242
   teiginys: 'Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-91243"></a>
-- t-009
+- t-008
   global_id: t-91243
   teiginys: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-91244"></a>
-- t-010
+- t-009
   global_id: t-91244
   teiginys: 'Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-91245"></a>
-- t-011
+- t-010
   global_id: t-91245
   teiginys: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-91246"></a>
-- t-012
+- t-011
   global_id: t-91246
   teiginys: '1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-91247"></a>
-- t-013
+- t-012
   global_id: t-91247
   teiginys: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   pagrindžia:
-    - c-014
+    - c-013
 
 <a id="claim-t-91248"></a>
-- t-014
+- t-013
   global_id: t-91248
   teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-91249"></a>
-- t-015
+- t-014
   global_id: t-91249
   teiginys: '1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko.'
   pagrindžia:
@@ -181,8 +174,8 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
-    - t-012
+    - t-013
+    - t-011
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -217,7 +210,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-005
   santrauka: '1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko.'
@@ -232,7 +225,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
 - c-006
   santrauka: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
@@ -246,7 +239,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-007
   santrauka: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
@@ -258,7 +251,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-008
   santrauka: 'Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.'
@@ -275,7 +268,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-009
   santrauka: '1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.'
@@ -314,7 +307,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-011
   santrauka: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
@@ -331,10 +324,10 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-012
-  santrauka: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
+  santrauka: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
@@ -353,27 +346,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-004
 
 - c-013
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje
-    parodoje. Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
-    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
-    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
-    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
-
-    L I E T U V O S  I S T O R I J A
-    122
-    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
-    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
-    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
-    atrado dar vieną – lenkų polonizatorius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-014
   santrauka: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -395,9 +367,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-015
+- c-014
   santrauka: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -412,4 +384,4 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015

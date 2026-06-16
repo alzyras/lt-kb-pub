@@ -63,4 +63,5 @@ Hubatsch^158.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/monografija]]

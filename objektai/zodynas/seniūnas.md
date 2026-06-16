@@ -3,19 +3,28 @@ tipas: zodyno_irasas
 pavadinimas: 'seniūnas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1377 m.'
+  - '1458 m.'
+date_start: '1377'
+date_end: '1458'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - pilis
   - sąvoka
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # seniūnas
 
 ## Santrauka
 
-Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete. Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu.
+Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje. 1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai. Seniūnas turėjo teismo valdžią ir vietininko teises.
 
 ## Teiginiai
 
@@ -29,7 +38,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 <a id="claim-t-12585"></a>
 - t-002
   global_id: t-12585
-  teiginys: '1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.'
+  teiginys: '1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai.'
   pagrindžia:
     - c-002
 
@@ -40,10 +49,10 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   pagrindžia:
     - c-002
 
-<a id="claim-t-70326"></a>
+<a id="claim-t-187529"></a>
 - t-004
-  global_id: t-70326
-  teiginys: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
+  global_id: t-187529
+  teiginys: 'Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.'
   pagrindžia:
     - c-003
 
@@ -78,57 +87,46 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     - t-003
 
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Kiekviename dabar
-    naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
-    skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
-    davo vietoje. Pagaliau baudžiamosios (kriminalinės) bylos
-    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
-    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
-    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
+    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
+    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
+    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
+    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
+    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-004
 
-- c-004
-  santrauka: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau baudžiamosios (kriminalinės) bylos
-    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
-    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
-    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-    Tuo būdu visi kiti vietininkai, didžiojo kunigaikščio dvarų val-
-
-
-    dytojai, nebeteko teisės teisti bajorus; vėliau jie paprastai buvo
-    vadinami laikytojais (tenutarii).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Goštautai]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/zodynas/organas]]
 - [[objektai/zodynas/urėdas]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Albertas Manvydas]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Aleksandras Jurgėvičius]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Andrius Kopernikas]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
+- [[objektai/ivykiai/Brastos seimas 1505 m.|Brastos seimas 1505 m. (seimas, XVI a.)]]
+- [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
+- [[objektai/grupes/Goštautų giminė]]
 - [[objektai/asmenys/Hanulas, arba Hanka]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
@@ -142,15 +140,16 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/Jonas Švitrigaila]]
 - [[objektai/autoriai/Jurginis J]]
 - [[objektai/asmenys/Kantautas]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/asmenys/Kinsgaila]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]
 - [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]
 - [[objektai/asmenys/Kurovičius]]
 - [[objektai/asmenys/Kęsgaila]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
 - [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/asmenys/M. Vaina]]
 - [[objektai/grupes/Maskvėnai]]
@@ -168,12 +167,15 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/N. Küchmeisteris]]
 - [[objektai/asmenys/Nestanas]]
 - [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių]]
+- [[objektai/posakiai/O trečių vasarų]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
 - [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]
 - [[objektai/ivykiai/Polocko praradimas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Prūsijos kryžiuočių žygiai prieš Lietuvą, Pūtvės sunaikinimas ir Bisenės įgulos išžudymas (1307 m.)]]
+- [[objektai/zodynas/Romos tikėjimas]]
 - [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Spūdas]]
@@ -190,14 +192,18 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
+- [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/posakiai/metus ir dieną]]
 - [[objektai/zodynas/pataurininkas]]
+- [[objektai/zodynas/rusų tikėjimas]]
 - [[objektai/zodynas/seniūnas storasta]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]
 - [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
@@ -215,4 +221,3 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/zodynas/krivūlė]]
 - [[objektai/zodynas/rotmistras]]
-- [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]

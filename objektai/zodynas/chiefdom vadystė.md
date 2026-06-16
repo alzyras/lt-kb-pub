@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Vadystė pateikiama kaip lietuviškas `chiefdom` atitikmuo ir žymi priešvalstybinės politinės raidos stadiją.
+Vadystė šiame kontekste atitinka chiefdom stadiją. Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją. Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją.
 
 ## Žodis ir formos
 
@@ -42,7 +42,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 <a id="claim-t-13543"></a>
 - t-001
   global_id: t-13543
-  teiginys: 'Vadystė yra `chiefdom` stadijos atitikmuo.'
+  teiginys: 'Vadystė šiame kontekste atitinka chiefdom stadiją.'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 <a id="claim-t-26668"></a>
 - t-003
   global_id: t-26668
-  teiginys: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
+  teiginys: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
   pagrindžia:
     - c-002
 
@@ -78,6 +78,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - t-002
 
 - c-002
+  santrauka: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia

@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“. Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).
+Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus. 1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi. 1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi.
 
 ## Teiginiai
 
@@ -38,13 +38,6 @@ amziai:
 <a id="claim-t-104182"></a>
 - t-002
   global_id: t-104182
-  teiginys: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nėra, bet 1245–1246 m. vokiečių kronikininkas Mindaugą pavadina „aukščiausiuoju karaliumi“.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-104183"></a>
-- t-003
-  global_id: t-104183
   teiginys: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi.'
   pagrindžia:
     - c-001

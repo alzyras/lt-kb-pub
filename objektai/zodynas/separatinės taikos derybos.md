@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.
+1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos. 1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos.
 
 ## Teiginiai
 
@@ -32,13 +32,6 @@ amziai:
   teiginys: '1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-75588"></a>
-- t-002
-  global_id: t-75588
-  teiginys: '1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -65,6 +58,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: '1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-

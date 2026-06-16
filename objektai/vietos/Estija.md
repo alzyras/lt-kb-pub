@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie Lietuvos ir Lenkijos bendrai valdomosios Livonijos.
+SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus. Latvija ir Estija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus regioninio darinio su Lenkija priešakyje.
 
 ## Teiginiai
 
@@ -35,33 +35,12 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindžia:
     - c-002
 
-<a id="claim-t-182727"></a>
-- t-002
-  global_id: t-182727
-  teiginys: 'Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha).'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-182729"></a>
-- t-003
+- t-002
   global_id: t-182729
   teiginys: 'Latvija ir Estija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus regioninio darinio su Lenkija priešakyje.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183015"></a>
-- t-004
-  global_id: t-183015
-  teiginys: 'Treniota su žemaičiais rengė tolimus žygius ir už Dauguvos pasiekdavo net Estiją.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-183016"></a>
-- t-005
-  global_id: t-183016
-  teiginys: 'Karalius įsakė Livonijoje stovinčios kariuomenės vadams pulti švedus Estijoje.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +58,7 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   santrauka: 'SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus.'
@@ -98,46 +77,3 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lyginant su Latvija ir Estija, dvarininkų žemėvalda Lietuvoje
-    buvo perpus mažesnė, o dvarai mažesni 5–6 kartus, valstiečių ūkio ploto
-    vidurkis Lietuvoje – 15,2 ha (Latvijoje – 21,0, Estijoje 29,4 ha). Žemės
-    geiste geidė bežemiai (21 proc.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Treniota su žemaičiais rengė tolimus žygius ir už Dauguvos pasiekdavo net Estiją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet, neatvykus Naugardo ka-
-    riuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su
-    ordinu nebekariavo. Tuo tarpu Treniota su žemaičiais žygiavo
-    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
-    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
-    Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Karalius įsakė Livonijoje stovinčios kariuomenės vadams pulti švedus Estijoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau seimas buvo nusistatęs prieš karą ir nedavė pinigų.
-    Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos
-    ten buvo labai maža) vadams pulti švedus Estijoje. Bet
-    karas nesisekė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005

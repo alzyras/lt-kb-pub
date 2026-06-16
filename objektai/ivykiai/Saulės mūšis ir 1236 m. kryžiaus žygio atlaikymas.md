@@ -76,6 +76,7 @@ Nenurodyta
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

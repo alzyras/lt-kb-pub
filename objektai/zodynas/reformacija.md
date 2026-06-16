@@ -6,7 +6,6 @@ saltiniai:
 datos:
   - '1000 m.'
   - '1515 m.'
-  - '1539 m.'
   - '1565 m.'
 date_start: '1000'
 date_end: '1565'
@@ -25,53 +24,28 @@ amziai:
 
 ## Santrauka
 
-1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų. Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip. Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.
+Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią. Abraomas Kulvietis reformacijos idėjas siejo su lietuvių kalbos pavertimu švietimo sistemos pagrindu ir lietuvių inteligentijos ugdymu.
 
 ## Teiginiai
 
 <a id="claim-t-77786"></a>
 - t-001
   global_id: t-77786
-  teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-77787"></a>
-- t-002
-  global_id: t-77787
-  teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-77788"></a>
-- t-003
-  global_id: t-77788
-  teiginys: 'Abraomas Kulvietis siekė lietuvių kalbą paversti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
+  teiginys: 'Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-77788"></a>
+- t-002
+  global_id: t-77788
+  teiginys: 'Abraomas Kulvietis reformacijos idėjas siejo su lietuvių kalbos pavertimu švietimo sistemos pagrindu ir lietuvių inteligentijos ugdymu.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
-    viena iš reikšmingiausių Naujųjų amžių apraiškų. XVI a. ji apėmė visą Eu-
-    ropą, suskaldė Katalikų bažnyčią ir subrandino naują krikščionybės kryp-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    61
-    tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
-    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
-    jo liuteronas Abraomas Kulvietis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Abraomas Kulvietis siekė lietuvių kalbą paversti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
+  santrauka: 'Abraomas Kulvietis reformacijos idėjas siejo su lietuvių kalbos pavertimu švietimo sistemos pagrindu ir lietuvių inteligentijos ugdymu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia įvykių seka rodė ne tik tai, kad Lie-
@@ -88,9 +62,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-003
+- c-002
+  santrauka: 'Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
@@ -113,12 +88,9 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Abraomas]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Liuteris]]
-- [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Protestantai]]
@@ -140,7 +112,6 @@ amziai:
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
 - [[objektai/grupes/Liuteronai]]
-- [[objektai/asmenys/Martynas Liuteris]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Radvilos]]
@@ -156,3 +127,6 @@ amziai:
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/posakiai/„būtų liaudžiai suprantama“]]
+- [[objektai/asmenys/Abraomas]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

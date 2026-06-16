@@ -103,6 +103,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]

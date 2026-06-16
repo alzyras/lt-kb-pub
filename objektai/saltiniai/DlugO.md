@@ -20,14 +20,14 @@ amziai:
 
 ## Santrauka
 
-Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. (^15) DlugO, XIII, 19 p. (^16) Kuczyński, Laskowski, Kolankowski ir kt.
+DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius. Dlugošas laikomas pagrindiniu 1409–1411 m. karo šaltiniu ir buvo labai kritiškas Jogailos bei Vytauto atžvilgiu.
 
 ## Teiginiai
 
 <a id="claim-t-97247"></a>
 - t-001
   global_id: t-97247
-  teiginys: 'KolLJ, 92 p. (^15) DlugO, XIII, 19 p. (^16) Kuczyński, Laskowski, Kolankowski ir kt.'
+  teiginys: 'DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
     - t-002
 
 - c-002
+  santrauka: 'DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^14) **Plg. M. Oehler :** **_Der Krieg zwischen dem Deutschen Orden und Polen-

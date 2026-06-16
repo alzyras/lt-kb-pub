@@ -30,31 +30,34 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01676"></a>
 - t-001
   global_id: t-01676
-  teiginys: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-01677"></a>
-- t-002
-  global_id: t-01677
-  teiginys: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-01678"></a>
-- t-003
-  global_id: t-01678
   teiginys: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-01677"></a>
+- t-002
+  global_id: t-01677
+  teiginys: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-01678"></a>
+- t-003
+  global_id: t-01678
+  teiginys: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet riterių buvo ne-
@@ -66,13 +69,32 @@ Nenurodyta
     vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
     veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
     paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
+    - t-001
 - c-002
+  santrauka: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
+    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
+    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
+    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
+    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. Nebe-
+    turėdamas vilties jų atgauti, ordinas mielai priėmė kvietimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
@@ -84,32 +106,20 @@ Nenurodyta
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
-    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
-    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
-    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. Nebe-
-    turėdamas vilties jų atgauti, ordinas mielai priėmė kvietimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]

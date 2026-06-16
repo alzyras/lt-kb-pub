@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš.
+1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
 
 ## Laikotarpis ir datos
 
@@ -39,17 +39,10 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-75096"></a>
-- t-001
-  global_id: t-75096
-  teiginys: 'Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-75097"></a>
-- t-002
+- t-001
   global_id: t-75097
-  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.'
+  teiginys: '1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.'
   pagrindžia:
     - c-001
 
@@ -73,7 +66,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

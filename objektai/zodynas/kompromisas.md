@@ -47,7 +47,6 @@ Vytautui reikėjo padaryti kompromisą su viena jų, kad galėtų kovoti su kita
 ### Susiję objektai
 - [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/A. Smetona]]

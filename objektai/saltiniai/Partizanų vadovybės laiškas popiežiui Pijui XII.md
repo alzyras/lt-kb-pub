@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų.
+1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno partizanų vadovybės laišką popiežiui Pijui XII. 1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis nugabeno partizanų vadovybės laišką popiežiui Pijui XII į laisvąjį pasaulį.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-75509"></a>
 - t-002
   global_id: t-75509
-  teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis nugabeno partizanų vadovybės laišką popiežiui Pijui XII į laisvąjį pasaulį.'
   pagrindžia:
     - c-001
 

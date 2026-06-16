@@ -77,7 +77,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Kulešinas]]
 - [[objektai/grupes/Maskvos pasiuntiniai]]
 - [[objektai/asmenys/Rapolovska]]

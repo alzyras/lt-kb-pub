@@ -77,6 +77,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
 - [[objektai/daiktai/Religinės relikvijos]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

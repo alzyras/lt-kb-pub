@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.
+Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota. Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-20233"></a>
 - t-001
   global_id: t-20233
-  teiginys: 'Kryžių kalnas, kurį 1993 m. aplankė popiežius Jonas Paulius II, tapo simboliu ir buvo pramintas lietuviška Golgota.'
+  teiginys: 'Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001
 
@@ -81,5 +81,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/daiktai/Kryžių kalno kryžiai]]

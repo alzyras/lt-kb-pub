@@ -23,14 +23,14 @@ amziai:
 
 ## Santrauka
 
-Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.
+1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą. Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą. Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.
 
 ## Teiginiai
 
 <a id="claim-t-110661"></a>
 - t-001
   global_id: t-110661
-  teiginys: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
+  teiginys: '1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.'
   pagrindžia:
     - c-003
 
@@ -51,13 +51,14 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 <a id="claim-t-110664"></a>
 - t-004
   global_id: t-110664
-  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus žinomiausioms Europos monarchijoms.'
+  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pabaiga arba išbarstyti
@@ -102,6 +103,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - t-002
 
 - c-003
+  santrauka: '1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     To suartė-
@@ -143,7 +145,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/ivykiai/Mohačo mūšis]]
-- [[objektai/grupes/Piastų dinastija]]
 - [[objektai/asmenys/Solikovskis]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]

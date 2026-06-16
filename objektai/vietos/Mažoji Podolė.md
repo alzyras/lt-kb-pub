@@ -15,34 +15,35 @@ tags:
 
 ## Santrauka
 
-Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp. Pietinių žemių (Kijevo, Mažosios Podolės ir kt.) išėmimas iš tiesioginės Aukso ordos valdžios vietiniams rusėnams, kaimyninėms Rytų Europos šalims (Lenkijai, iš dalies Moldavijai, Vengrijai) sudarė saugesnę padėtį rytuose.
+Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro. Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis. Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.
 
 ## Teiginiai
 
 <a id="claim-t-79827"></a>
 - t-001
   global_id: t-79827
-  teiginys: 'Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro, į vakarus nuo minėtos mūšio vietos.'
+  teiginys: 'Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-79828"></a>
 - t-002
   global_id: t-79828
-  teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
+  teiginys: 'Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-79829"></a>
 - t-003
   global_id: t-79829
-  teiginys: 'Pietinių žemių (Kijevo, Mažosios Podolės ir kt.) išėmimas iš tiesioginės Aukso ordos valdžios vietiniams rusėnams, kaimyninėms Rytų Europos šalims (Lenkijai, iš dalies Moldavijai, Vengrijai) sudarė saugesnę padėtį rytuose.'
+  teiginys: 'Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo
@@ -67,6 +68,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - t-002
 
 - c-002
+  santrauka: 'Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Algirdo remiami Karijotaičiai,
@@ -90,6 +92,7 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - t-003
 
 - c-003
+  santrauka: 'Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai

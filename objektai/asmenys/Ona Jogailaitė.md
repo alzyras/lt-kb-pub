@@ -354,5 +354,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/mansionieriai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Kotryna Jogailaitė]]

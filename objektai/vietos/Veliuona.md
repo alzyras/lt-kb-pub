@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-saugoti Dubysos upyną.
+Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje. Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą. Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 
 ## Teiginiai
 
@@ -89,7 +89,7 @@ saugoti Dubysos upyną.
 <a id="claim-t-180746"></a>
 - t-010
   global_id: t-180746
-  teiginys: 'Atvykus naujai pagalbai Ordinui, kryžiuočiai vėl veikė prie Nemuno ir rugpjūtį sunaikino svarbią lietuvių Veliuonos pilį.'
+  teiginys: 'Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.'
   pagrindžia:
     - c-012
 
@@ -159,7 +159,7 @@ saugoti Dubysos upyną.
 <a id="claim-t-180759"></a>
 - t-021
   global_id: t-180759
-  teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
+  teiginys: 'Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   pagrindžia:
     - c-014
 
@@ -403,7 +403,7 @@ saugoti Dubysos upyną.
     - t-002
 
 - c-012
-  santrauka: 'Atvykus naujai pagalbai Ordinui, kryžiuočiai vėl veikė prie Nemuno ir rugpjūtį sunaikino svarbią lietuvių Veliuonos pilį.'
+  santrauka: 'Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau tą patį vykdė šioje
@@ -443,6 +443,7 @@ saugoti Dubysos upyną.
     - t-007
 
 - c-014
+  santrauka: 'Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mažas upeliu­

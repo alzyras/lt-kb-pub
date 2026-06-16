@@ -60,4 +60,3 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

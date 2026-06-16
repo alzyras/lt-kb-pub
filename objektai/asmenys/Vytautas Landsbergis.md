@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio 25 d. išrinktas muzikologas Vytautas Landsbergis. Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai. Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „kas buvo pavogta, turi būti grąžinta“.
+Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai. 1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu. Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį.
 
 ## Teiginiai
 
@@ -39,7 +39,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 <a id="claim-t-170246"></a>
 - t-002
   global_id: t-170246
-  teiginys: '1992 m. Seimo pirmininkas Vytautas Landsbergis Vilniaus senamiestyje prie Aušros vartų priėmė Prancūzijos prezidentą Fransua Miteraną.'
+  teiginys: '1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu.'
   pagrindžia:
     - c-004
 
@@ -53,7 +53,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 <a id="claim-t-170248"></a>
 - t-004
   global_id: t-170248
-  teiginys: 'Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirmininko Vytauto Landsbergio, priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  teiginys: 'Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   pagrindžia:
     - c-003
 
@@ -113,6 +113,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-007
 
 - c-003
+  santrauka: 'Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     su Vilniumi. Sausio 12 d. Aukščiausioji
@@ -131,7 +132,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-004
 
 - c-004
-  santrauka: '1992 m. Seimo pirmininkas Vytautas Landsbergis Vilniaus senamiestyje prie Aušros vartų priėmė Prancūzijos prezidentą Fransua Miteraną.'
+  santrauka: '1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Planinės
@@ -215,6 +216,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - [[objektai/zodynas/Planinė ekonomika]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
+- [[objektai/grupes/Rusijos Federacija]]
 - [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]
 - [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
 - [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]

@@ -4,10 +4,13 @@ pavadinimas: 'vaivada'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
+  - '1377 m.'
   - '1413 m.'
+  - '1458 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
@@ -22,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame šaltinyje vaivados apibrėžti kaip Vilniaus ir Trakų sričių lenkiškojo tipo urėdai, o šiame šaltinyje terminas vartojamas ir bendram Lietuvos, Rusios, lenkų bei vokiečių vaivadų sluoksniui, ir konkrečiam Krokuvos vaivadai įvardyti.
+Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes. Lenkų karalystėje buvusios dignitorijos, kėdės ir urėdai turėjo būti įsteigti Vilniuje, įskaitant Vilniaus vaivadą. Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
 
 ## Teiginiai
 
@@ -31,7 +34,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   global_id: t-12600
   teiginys: 'Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-176248"></a>
 - t-002
@@ -40,17 +43,17 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   pagrindžia:
     - c-001
 
-<a id="claim-t-182986"></a>
-- t-003
-  global_id: t-182986
-  teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-184643"></a>
-- t-004
+- t-003
   global_id: t-184643
   teiginys: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-187532"></a>
+- t-004
+  global_id: t-187532
+  teiginys: 'Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.'
   pagrindžia:
     - c-004
 
@@ -70,22 +73,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - t-002
 
 - c-002
-  santrauka: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik Vilniaus ir Trakų
-    sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vieti-
-    ninkais, bet vaivadomis. Tai buvo lenkiškojo tipo urėdai,
-    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
-    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
-    tarsi padėjėjai buvo kaštelionai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   santrauka: 'Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -99,7 +86,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -118,6 +105,22 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    4  Vilniaus ir Trakų vaivadų pareigybės Algirdo valdymo lai­
+    kotarpiu (m. 1377) dar nebuvo; (vestos 1413 m. Ligi tol panašias
+    j vaivadų funkcijas vykdė seniūnai. Tarp Vilniaus seniūnų pirmas
+    iš Goštautų buvo Andrius Goštautas (1387 m.). Pirmas Vilniaus
+    vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
+    tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
     - t-004
 
 ## Ryšiai
@@ -126,25 +129,27 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 
 ### Susiję objektai
 - [[objektai/zodynas/kaštelionas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Goštautai]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Albertas Janavičius]]
 - [[objektai/asmenys/Aleksandras Gonsevskis]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Aleksandras Jurgėvičius]]
 - [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
 - [[objektai/asmenys/Andrejus Kurbskis]]
 - [[objektai/asmenys/Andrius Kopernikas]]
 - [[objektai/asmenys/Aštikas]]
@@ -152,6 +157,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
 - [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]
 - [[objektai/asmenys/Cvinglis]]
 - [[objektai/zodynas/Czopowe]]
 - [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
@@ -164,9 +170,10 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
 - [[objektai/asmenys/Gedgaudas]]
-- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/grupes/Goštautų giminė]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
+- [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]
 - [[objektai/asmenys/Jaranda iš Brudzevo|Jaranda iš Brudzevo (vyskupas)]]
 - [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Jonas Chojevskis]]
@@ -176,6 +183,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Jonas iš Lichino|Jonas iš Lichino (vyskupas)]]
 - [[objektai/asmenys/Jonas iš Tarnovo]]
 - [[objektai/asmenys/Jonas iš Zabrežjės]]
+- [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]
 - [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis Astikaitis]]
 - [[objektai/asmenys/Jurgis Boliminas]]
@@ -185,12 +193,15 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Karmelitų ordinas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/ivykiai/Kazimiero Žaslių suteikimas Jonui Goštautui]]
+- [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/asmenys/Kristupas iš Viljandžio]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
 - [[objektai/asmenys/Laurynas Zaremba]]
@@ -225,17 +236,22 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Milonas]]
 - [[objektai/asmenys/Mingaila]]
+- [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją]]
+- [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]
 - [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/asmenys/Mykolas Rusalka]]
 - [[objektai/asmenys/Mykolas Sapienskis]]
 - [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]
+- [[objektai/ivykiai/Parčevo seimas|Parčevo seimas (seimas, XV a.)]]
 - [[objektai/asmenys/Petras Białas]]
 - [[objektai/asmenys/Petrašu Montgirdaitis]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]
 - [[objektai/grupes/Radvilų giminė]]
+- [[objektai/daiktai/Rogės]]
 - [[objektai/asmenys/Rumbaudas]]
 - [[objektai/asmenys/Rumbautas]]
 - [[objektai/asmenys/Sebastijonas Vitinskis]]
@@ -245,9 +261,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Spytekas iš Melštyno]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
-- [[objektai/asmenys/Stanislovas Leščinskis]]
 - [[objektai/asmenys/Stanislovas Veenas]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
+- [[objektai/ivykiai/Stanislovo Petravičiaus pagalbinės kariuomenės susidūrimas su moldavais]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/Szosowe]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
@@ -257,7 +273,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Vaclovas (Medininkų vyskupas)]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/asmenys/Vaitiekus Janavičius]]
 - [[objektai/asmenys/Vaitiekus Narutavičius]]
 - [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
@@ -268,29 +283,33 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]]
 - [[objektai/asmenys/Zborovskis]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]
-- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]
+- [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/in partibus infidelium]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/zodynas/muitas thelonea]]
 - [[objektai/zodynas/neofitai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/pataurininkas]]
 - [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]
+- [[objektai/zodynas/prastieji žmonės]]
 - [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/tenuta laikytojas]]
 - [[objektai/zodynas/trečias grūdas]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vaivada kaštelionas]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/virvės ištempimas]]
 - [[objektai/asmenys/Čupurva]]
-- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]
 - [[objektai/grupes/Žemaičiai]]

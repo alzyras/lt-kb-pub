@@ -29,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas.
+Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data.
 
 ## Laikotarpis ir datos
 
@@ -52,13 +52,14 @@ Nenurodyta
 <a id="claim-t-31440"></a>
 - t-001
   global_id: t-31440
-  teiginys: '1795 m. Lietuvos ir Lenkijos paskutinis padalinimas buvo laikomas viena kertinių politiškai svarbių Lietuvos istorijos datų.'
+  teiginys: 'Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos periodizacija ir jos reikšmingieji etapai**

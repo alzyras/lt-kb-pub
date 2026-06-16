@@ -83,11 +83,9 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Tautinės mažumos]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/homiletika]]
 - [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
 - [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

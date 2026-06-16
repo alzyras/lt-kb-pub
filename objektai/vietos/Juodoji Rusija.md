@@ -11,21 +11,20 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - kraštas
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - kraštas
+  - vieta
 ---
 # Juodoji Rusija
 
 ## Santrauka
 
-vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu.
+Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.
 
 ## Teiginiai
-
 <a id="claim-t-182869"></a>
 - t-001
   global_id: t-182869
@@ -33,15 +32,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   pagrindžia:
     - c-001
 
-<a id="claim-t-183022"></a>
-- t-002
-  global_id: t-183022
-  teiginys: 'Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -58,22 +49,3 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip būdavo ir vėlesniaisiais laikais; pavyzdžiui,
-    kai kurios Gedimino prijungtos sritys paskum buvo vėl laikinai
-    atsimetusios, ir jas vėliau teko antrą kartą prijungti kitiems di-
-    diesiems kunigaikščiams.
-    Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pieti-
-    nės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų
-    sritys — Minskas, Vitebskas, Polockas. Vilniuje sėdėjo pats
-    Gediminas, Polocke — jo brolis Vainys, o kitose kunigaikštys-
-    tėse — jo sūnūs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

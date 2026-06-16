@@ -19,21 +19,21 @@ amziai:
 
 ## Santrauka
 
-Vil­ niaus-Radomo aktais formaliai įgijo didžiojo kunigaikščio titulą iki gyvos galvos.
+Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas iki gyvos galvos.
 
 ## Teiginiai
 
 <a id="claim-t-100004"></a>
 - t-001
   global_id: t-100004
-  teiginys: 'Vilniaus-Radomo aktais iki gyvos galvos formaliai įgytas didžiojo kunigaikščio titulas.'
+  teiginys: 'Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas iki gyvos galvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vilniaus-Radomo aktais iki gyvos galvos formaliai įgytas didžiojo kunigaikščio titulas.'
+  santrauka: 'Vilniaus-Radomo aktais formaliai buvo įgytas didžiojo kunigaikščio titulas iki gyvos galvos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vil­

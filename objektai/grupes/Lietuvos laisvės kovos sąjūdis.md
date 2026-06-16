@@ -93,7 +93,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/zodynas/organas]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Bronius Liesis-Naktis]]
 - [[objektai/grupes/Dainavos apygarda]]

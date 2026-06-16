@@ -45,7 +45,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
@@ -53,8 +52,9 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Jagurčinas]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
+- [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas|Smolensko prastųjų žmonių sukilimas (sukilimas)]]
 - [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]
+- [[objektai/grupes/Polocko kunigaikščiai]]

@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'algininkai'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai. Karalius, sužinojęs apie Minsko puolimą, iš pradžių pasiuntė į Minską penkis tūkstančius algininkų ir didikų kariaunas. Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.
+Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai. Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas. Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.
 
 ## Teiginiai
 
@@ -24,7 +25,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 <a id="claim-t-185364"></a>
 - t-002
   global_id: t-185364
-  teiginys: 'Karalius, sužinojęs apie Minsko puolimą, iš pradžių pasiuntė į Minską penkis tūkstančius algininkų ir didikų kariaunas.'
+  teiginys: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
   pagrindžia:
     - c-002
 
@@ -34,6 +35,13 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   teiginys: 'Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-187517"></a>
+- t-004
+  global_id: t-187517
+  teiginys: 'Aleksandras išsiuntė Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą dvarionis ir nemaža vengrų algininkų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +69,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
     - t-001
 
 - c-002
-  santrauka: 'Karalius, sužinojęs apie Minsko puolimą, iš pradžių pasiuntė į Minską penkis tūkstančius algininkų ir didikų kariaunas.'
+  santrauka: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
@@ -104,11 +112,39 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   pagrindžia:
     - t-003
 
+- c-004
+  santrauka: 'Aleksandras išsiuntė Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą dvarionis ir nemaža vengrų algininkų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    APIE PEREKOPO TOTORIŲ SIAUTĖJIMĄ PO SLUCKO IR
+    NAUGARDUKO KRAŠTUS, TAIP PAT APIE LIETUVOS IR
+    LENKUOS VALDOVO ALEKSANDRO SUSIPYKIMĄ SU LIETUVOS
+    DIDIKAIS IR JO  PARALYŽIAVIMĄ
+    Tą patį rudenį1  pasiekė žinia karalių Aleksandrą,
+    kad totoriai, perėję Pripetės upę, siaubia valsčius. Ka­
+    ralius parašė Slucko kunigaikščiui Simonui Mykolai­
+    čiui 2  ir išsiuntė jam į pagalbą Podolės vaivadaitį poną
+    Joną Bučackį3 , o su juo savo dvarionis — lietuvius ir
+    rusus— ir nemaža vengrų algininkų. O Slucko kuni­
+    gaikštis Simonas su ponu vaivadaičiu ir su visais minė­
+    tais dvarionimis vijosi totorius ir nedaugelį jų pasivijo
+    už šešių mylių nuo Bobruisko 4 , prie Lizos 5  upės; buvo
+    jų tik pusantro šimto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/dvarionis]]
 - [[objektai/zodynas/rezervas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/skitai]]
@@ -118,5 +154,8 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 - [[objektai/grupes/Kafos gyventojai]]
 - [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
+- [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]
 - [[objektai/paprociai/Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai]]
 - [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/zodynas/dvarionys]]

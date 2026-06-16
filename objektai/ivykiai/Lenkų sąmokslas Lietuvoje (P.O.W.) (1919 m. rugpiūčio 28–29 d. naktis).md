@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras. Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi- zacija ruošėsi sukilimui; tam tikslui ypač stengėsi patraukti savo pusėn karininkus ir kareivius. Kai kuriuos iš jų jai buvo jau pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę. Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): mūsų saugumo organai susekė sąmokslininkus, tą pačią sukilimui skirtą naktį buvo padaryta krata P.O.W. centre (Kau- ne), kur buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų vadai tuojau.
+1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą. P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius. Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo.
 
 ## Laikotarpis ir datos
 
@@ -34,33 +34,26 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-66658"></a>
-- t-001
-  global_id: t-66658
-  teiginys: 'Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-66659"></a>
-- t-002
+- t-001
   global_id: t-66659
   teiginys: '1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-66660"></a>
-- t-003
+- t-002
   global_id: t-66660
   teiginys: 'P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66661"></a>
-- t-004
+- t-003
   global_id: t-66661
-  teiginys: 'Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis): vis dėlto 117 iš jų 1920 m. gruodžio 11—24 d. buvo teisti kariuomenės teismo (iš viso P.O.W. sąrašuose buvo rasti suregistruoti 435 nariai).'
+  teiginys: 'Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -78,7 +71,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   santrauka: '1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą.'
@@ -94,30 +87,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Laisvoji ir priešų užimtoji Lietuva 1919—1920 m.
-    _Wojskowa_ — Kariškoji Lenkų Organizacija). Iš okupuoto Vil-
-    niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė
-    labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie
-    Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuo-
-    taiką; atvažiuojančioms santarvės komisijoms teikė vyriausybę
-    šmeižiančius memorandumus, iš Vilniaus gabeno proklamacijas
-    ir knygutes, skleidė nepasitikėjimą ir verbavo sau narius ne tik
-    sulenkėjusių dvarininkų, bet ir nenusimanančių lietuvių tarpe.
-    Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva
-    buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po
-    3—4 tos organizacijos komendantūras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-004
+- c-003
+  santrauka: 'Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik vienur
@@ -130,10 +103,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]
+    - t-003

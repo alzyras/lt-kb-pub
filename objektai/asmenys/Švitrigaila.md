@@ -27,7 +27,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse. Papildomai akcentuojamas jo maištas Vitebske, bėgimai į Vengriją, Maskvą ir pas Ordiną, pretenzijos į Lietuvą po Vorsklos ir Podolijos perdavimas.
+Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą. Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai. Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.
 
 ## Teiginiai
 
@@ -237,7 +237,7 @@ periodo_grupes:
 <a id="claim-t-179720"></a>
 - t-031
   global_id: t-179720
-  teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą ryšyje su Lenkija.'
+  teiginys: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija.'
   pagrindžia:
     - c-026
 
@@ -279,7 +279,7 @@ periodo_grupes:
 <a id="claim-t-179726"></a>
 - t-037
   global_id: t-179726
-  teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila 1432 m. rudenį vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
+  teiginys: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   pagrindžia:
     - c-016
 
@@ -651,7 +651,7 @@ periodo_grupes:
     - t-012
 
 - c-016
-  santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila 1432 m. rudenį vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
+  santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
@@ -900,7 +900,7 @@ periodo_grupes:
     - t-034
 
 - c-026
-  santrauka: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą ryšyje su Lenkija.'
+  santrauka: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkijos valdantieji sluoksniai Švitrigailai
@@ -1286,7 +1286,6 @@ periodo_grupes:
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
-- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
@@ -1324,6 +1323,8 @@ periodo_grupes:
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Alšėnų kunigaikščiai]]
+- [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą]]
 - [[objektai/autoriai/August von Kotzebue]]
 - [[objektai/asmenys/Bomannas]]
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
@@ -1335,18 +1336,22 @@ periodo_grupes:
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/daiktai/Iždo ir pilių raktai]]
 - [[objektai/asmenys/Jurgis Lengvenaitis]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/paprociai/Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių]]
 - [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]
+- [[objektai/asmenys/Kaributas]]
 - [[objektai/ivykiai/Karo su Prūsija pradžia ir dvejų metų paliaubos per popiežiaus legatą]]
 - [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]
 - [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
 - [[objektai/asmenys/Lengvenis Algirdaitis]]
-- [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis]]
+- [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą]]
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/daiktai/Medžių užtvaros kelyje]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/posakiai/Mily brate!]]
 - [[objektai/grupes/Moldovos kunigaikščiai]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
@@ -1364,6 +1369,7 @@ periodo_grupes:
 - [[objektai/asmenys/Sofija Vytautaitė]]
 - [[objektai/ivykiai/Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/posakiai/Verbų sekmadieni]]
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
@@ -1371,10 +1377,13 @@ periodo_grupes:
 - [[objektai/posakiai/homo furiosus, ac crapula infamis]]
 - [[objektai/zodynas/konsiliumas]]
 - [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/posakiai/nu Spasov den]]
 - [[objektai/zodynas/prastuomenė]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekų ir Silezijos savanoriai]]
 - [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/grupes/Švitrigailos šalininkai]]
 - [[objektai/zodynas/šinkorystė propinacija]]
 - [[objektai/grupes/Žemaičiai]]
@@ -1388,12 +1397,14 @@ periodo_grupes:
 - [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
 - [[objektai/grupes/Lenkijos bajorai]]
+- [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
 - [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]
 - [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]
 - [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]
 - [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]
+- [[objektai/ivykiai/Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas]]
 - [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]
 - [[objektai/ivykiai/Žygimanto Kęstutaičio iškėlimas Švitrigailos varžovu ir Švitrigailos pabėgimas iš Lietuvos (1432 m.)]]
 - [[objektai/ivykiai/Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)]]

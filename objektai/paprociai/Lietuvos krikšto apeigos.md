@@ -13,17 +13,17 @@ date_start: '1387'
 date_end: '1403'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ritualas
 amziai:
   - 'XIV'
   - 'XV'
+tags:
+  - ritualas
 ---
 # Lietuvos krikšto apeigos
 
 ## Santrauka
 
-Lietuvos krikštas buvo vykdomas kaip aiškiai suorganizuota apeiginė ir politinė praktika: pirmiausia krikštyti bajorai, naikintos pagoniškos šventvietės, gyventojai skirstyti į būrius, duoti nauji vardai ir balti rūbai. Krikšto teikimas neapsiribojo Vilniumi, bet buvo tęsiamas ir kitose vietose, steigiamose parapijose.
+Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai. Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai. Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.
 
 ## Laikotarpis ir datos
 
@@ -46,41 +46,40 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-05349"></a>
 - t-001
   global_id: t-05349
   teiginys: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-05350"></a>
 - t-002
   global_id: t-05350
   teiginys: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-05352"></a>
 - t-003
   global_id: t-05352
   teiginys: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-93035"></a>
 - t-004
   global_id: t-93035
   teiginys: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-93036"></a>
 - t-005
   global_id: t-93036
   teiginys: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-93037"></a>
 - t-006
@@ -94,45 +93,37 @@ Nenurodyta
   global_id: t-93038
   teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
-    - c-014
-
-<a id="claim-t-93039"></a>
-- t-008
-  global_id: t-93039
-  teiginys: 'Atlikus Lietuvos krikšto apeigas ir suorganizavus Bažnyčią, buvo galima skelbti, kad Lietuva yra krikščioniškas kraštas.'
-  pagrindžia:
-    - c-002
+    - c-013
 
 <a id="claim-t-93040"></a>
-- t-009
+- t-008
   global_id: t-93040
   teiginys: '1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-93041"></a>
-- t-010
+- t-009
   global_id: t-93041
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-93042"></a>
-- t-011
+- t-010
   global_id: t-93042
   teiginys: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-93043"></a>
-- t-012
+- t-011
   global_id: t-93043
   teiginys: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
   pagrindžia:
-    - c-012
+    - c-011
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -145,25 +136,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-006
-
-- c-002
-  santrauka: 'Atlikus Lietuvos krikšto apeigas ir suorganizavus Bažnyčią, buvo galima skelbti, kad Lietuva yra krikščioniškas kraštas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tą iš lengvo atliko suorganizuotoji Bažnyčia.
-    Bet atlikus krikšto apeigas ir suorganizavus Bažnyčią, pasauliui
-    jau buvo galima skelbti, kad Lietuva esanti krikščioniškas kraš-
-    tas, kad ordinas, nesiliaudamas ją pulti, nusikalstąs. Lietuvos
-    valdovams tas ypačiai ir rūpėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-008
-
-- c-003
+    - t-006
+- c-002
   santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -178,9 +153,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
-
-- c-004
+    - t-010
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
@@ -198,9 +172,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
-
-- c-005
+    - t-009
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Dlugošą, Vilniuje per pagrindinį gyventojų krikštijimą
@@ -213,8 +186,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-006
+- c-005
   santrauka: 'Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -231,8 +203,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-007
+- c-006
   santrauka: 'Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -247,20 +218,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui
-    Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vie-
-    tas. Nekrikštyti liko tik žemaičiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-009
   santrauka: 'Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -277,8 +235,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-010
+- c-009
   santrauka: '1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -296,8 +253,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-011
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vėlesnėmis žiniomis 1387 m. buvę pakrikštyta apie 30.000, nes
@@ -310,8 +266,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-012
+- c-011
   santrauka: 'Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -325,9 +280,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-
-- c-013
+    - t-011
+- c-012
   santrauka: 'Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -341,8 +295,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-014
+- c-013
   santrauka: 'Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -359,7 +312,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
     - t-007
 
 ## Ryšiai
@@ -368,7 +321,7 @@ Nenurodyta
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/daiktai/Altorius]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Baltai]]
@@ -384,4 +337,3 @@ Nenurodyta
 - [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/grupes/Žemaičiai]]

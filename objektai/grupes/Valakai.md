@@ -103,7 +103,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/barokinė santvarka]]
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/valakas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Lydimoji žemdirbystė]]

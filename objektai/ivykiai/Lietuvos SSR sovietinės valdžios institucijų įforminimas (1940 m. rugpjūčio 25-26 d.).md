@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja. Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.
+1940 m. rugpjūčio 25 d. Liaudies seimas pervadintas Lietuvos SSR Aukščiausiąja Taryba. Po Lietuvos pavertimo SSRS dalimi Lietuvos įstaigose, ypač NKVD, sovietinę tvarką įvedė iš SSRS atvykę „specialistai“.
 
 ## Laikotarpis ir datos
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-20284"></a>
 - t-002
   global_id: t-20284
-  teiginys: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
+  teiginys: 'Po Lietuvos pavertimo SSRS dalimi Lietuvos įstaigose, ypač NKVD, sovietinę tvarką įvedė iš SSRS atvykę „specialistai“.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po Lietuvos pavertimo SSRS dalimi Lietuvos įstaigose, ypač NKVD, sovietinę tvarką įvedė iš SSRS atvykę „specialistai“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamuflia-

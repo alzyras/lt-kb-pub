@@ -56,5 +56,4 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 - [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/asmenys/Manfredas Verneris]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

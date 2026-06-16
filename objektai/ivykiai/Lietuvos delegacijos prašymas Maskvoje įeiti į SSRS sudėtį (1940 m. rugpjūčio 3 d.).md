@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Seime išrinkta 20 asmenų delegacija, vadovaujama J. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.
+Okupantų paskirto Liaudies seimo nutarimai buvo neteisėti, nes jis neturėjo įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS. Lietuvos pasiuntiniams užsienyje paskelbus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas. J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį.
 
 ## Laikotarpis ir datos
 
@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-75137"></a>
 - t-001
   global_id: t-75137
-  teiginys: 'Kadangi okupantų paskirtas Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo neteisėti.'
+  teiginys: 'Okupantų paskirto Liaudies seimo nutarimai buvo neteisėti, nes jis neturėjo įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-75138"></a>
 - t-002
   global_id: t-75138
-  teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
+  teiginys: 'Lietuvos pasiuntiniams užsienyje paskelbus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.'
   pagrindžia:
     - c-002
 

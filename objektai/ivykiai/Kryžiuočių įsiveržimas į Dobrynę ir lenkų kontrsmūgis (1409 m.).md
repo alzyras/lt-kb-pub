@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį. Karalius sutiko su kryžiuočiais sudaryti paliaubas, kurios turėjo trukti iki kitų metų birželio.
+Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį. Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-185602"></a>
 - t-002
   global_id: t-185602
-  teiginys: 'Karalius sutiko su kryžiuočiais sudaryti paliaubas, kurios turėjo trukti iki kitų metų birželio.'
+  teiginys: 'Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Karalius sutiko su kryžiuočiais sudaryti paliaubas, kurios turėjo trukti iki kitų metų birželio.'
+  santrauka: 'Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tą rude­

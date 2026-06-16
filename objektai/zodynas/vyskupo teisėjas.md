@@ -79,6 +79,7 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/stabmeldžiai]]

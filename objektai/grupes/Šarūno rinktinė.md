@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1945 m. buvo išrinktas Šarūno rinktinės vadu. Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji. Netrukus tomis pačiomis pajėgomis čekistai puolė Šarūno rinktinės štabo bunkerį, kurį taip pat nurodė Balys = ee ae : ¥ Bunkerj apsupusiy rusy pozicijos a Žuvę partizanai t L] Miškinga vietovė “Vandens telkinys = ¥ = i SH oath Gultai net RAPE’ Ventiliacija |.
+1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai. Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis. Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys.
 
 ## Teiginiai
 
@@ -38,14 +38,14 @@ amziai:
 <a id="claim-t-49115"></a>
 - t-002
   global_id: t-49115
-  teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
+  teiginys: 'Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-49116"></a>
 - t-003
   global_id: t-49116
-  teiginys: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurį jiems nurodė Balys.'
+  teiginys: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys.'
   pagrindžia:
     - c-003
 
@@ -73,6 +73,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     nių, kurie priklausė Vytauto apygardai.
@@ -88,6 +89,7 @@ amziai:
     - t-002
 
 - c-003
+  santrauka: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Partizanai išsprogdino požeminį
@@ -151,5 +153,4 @@ amziai:
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Žalioji rinktinė]]

@@ -79,4 +79,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Vinrichas Kniprodė]]

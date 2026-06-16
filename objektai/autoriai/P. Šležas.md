@@ -11,12 +11,12 @@ date_start: '1928'
 date_end: '1937'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # P. Šležas
 
@@ -31,7 +31,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - Vytauto konfliktas su Lenkija dėl karūnacijos
 
 ## Teiginiai
-
 <a id="claim-t-64799"></a>
 - t-001
   global_id: t-64799
@@ -54,7 +53,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -65,7 +63,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -88,7 +85,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

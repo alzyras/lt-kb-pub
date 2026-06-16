@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą bandė pulti, bet mūšio metu turkų vadui į galvą pataikė kulka ir jo kariuomenė pasitraukė.
+Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.
 
 ## Teiginiai
 
 <a id="claim-t-40257"></a>
 - t-001
   global_id: t-40257
-  teiginys: 'Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet po vado sužeidimo pasitraukė.'
+  teiginys: 'Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 15 d. turkų kariuomenė, vado-

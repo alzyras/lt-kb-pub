@@ -56,3 +56,7 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/ponai]]

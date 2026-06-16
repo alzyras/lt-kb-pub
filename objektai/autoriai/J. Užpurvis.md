@@ -22,20 +22,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
+Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
 
 ## Teiginiai
 
 <a id="claim-t-62619"></a>
 - t-001
   global_id: t-62619
-  teiginys: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  teiginys: 'Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo

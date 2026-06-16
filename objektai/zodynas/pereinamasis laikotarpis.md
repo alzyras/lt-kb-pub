@@ -10,11 +10,11 @@ date_start: '1440'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sąvoka
 amziai:
   - 'XV'
   - 'XXI'
+tags:
+  - sąvoka
 ---
 # pereinamasis laikotarpis
 
@@ -23,31 +23,34 @@ amziai:
 Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 
 ## Teiginiai
-
 <a id="claim-t-72000"></a>
 - t-001
   global_id: t-72000
-  teiginys: 'Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-72001"></a>
-- t-002
-  global_id: t-72001
   teiginys: 'Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72002"></a>
-- t-003
-  global_id: t-72002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-72001"></a>
+- t-002
+  global_id: t-72001
   teiginys: 'Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-72002"></a>
+- t-003
+  global_id: t-72002
+  teiginys: 'Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
@@ -58,12 +61,14 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001
+    - t-002
     - t-003
 
 ## Ryšiai
@@ -71,6 +76,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]

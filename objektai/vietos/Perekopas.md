@@ -3,9 +3,12 @@ tipas: vieta
 pavadinimas: 'Perekopas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1443 m.'
+  - '1468 m.'
+  - '1515 m.'
   - '2026 m.'
 date_start: '1443'
 date_end: '2026'
@@ -22,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).
+1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu. Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis. 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 
 ## Teiginiai
 
@@ -46,6 +49,13 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginys: 'Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-187631"></a>
+- t-005
+  global_id: t-187631
+  teiginys: 'Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -102,3 +112,20 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-004
+  santrauka: 'Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    27 Perckopas — slaviškas pavadinimas sąsmaukos, jungiančios
+    Krymo pusiasalį su žemynu. Dar senovėje gynybos tikslais ši są­
+    smauka siauriausioje vietoje perkasta grioviu (iš to ir Perekopo
+    vardas). Perekopu vadinamas taip  pat miestas siauriausioje sąsm au­
+    kos vietoje, atsiradęs iš tvirtovės Ferch-Kermen arba Or-Kapl (tur­
+    kiškai — Aukso vartai), kurią atnaujino Krymo chanas Mengll-Girė-
+    ju s (1468— 1515 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005

@@ -25,55 +25,19 @@ amziai:
 Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
 
 ## Teiginiai
-
-<a id="claim-t-171948"></a>
-- t-001
-  global_id: t-171948
-  teiginys: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-185082"></a>
 - t-003
   global_id: t-185082
   teiginys: 'Pulkams sustojus prie Pasvalio, Mikalojui Radvilai įsakyta su lengvųjų raitelių vėliavomis įsibrauti į Livoniją.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu Zigmantas Augustas, matydamas irstan-
-    čią ordino valstybę, ryžosi ją paimti į savo valdžią, nes kitaip
-    ji galėjo atitekti Maskvai. Tuo metu Rygoje buvo užmuštas
-    Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
-    į Livonijos reikalus. Zigmantas Augustas, surinkęs didelę lie-
-    tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo metu Rygoje buvo užmuštas
-    Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
-    į Livonijos reikalus. Zigmantas Augustas, surinkęs didelę lie-
-    tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
-    Magistras Fürstenbergas buvo pasiryžęs ginti ordino nepriklau-
-    somybę, tačiau nebeturėjo jėgų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Pulkams sustojus prie Pasvalio, Mikalojui Radvilai įsakyta su lengvųjų raitelių vėliavomis įsibrauti į Livoniją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -101,3 +65,37 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   statusas: verified
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu Zigmantas Augustas, matydamas irstan-
+    čią ordino valstybę, ryžosi ją paimti į savo valdžią, nes kitaip
+    ji galėjo atitekti Maskvai. Tuo metu Rygoje buvo užmuštas
+    Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
+    į Livonijos reikalus. Zigmantas Augustas, surinkęs didelę lie-
+    tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo metu Rygoje buvo užmuštas
+    Lietuvos pasiuntinys; tad kaip tik pasitaikė gera proga įsikišti
+    į Livonijos reikalus. Zigmantas Augustas, surinkęs didelę lie-
+    tuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.
+    Magistras Fürstenbergas buvo pasiryžęs ginti ordino nepriklau-
+    somybę, tačiau nebeturėjo jėgų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005

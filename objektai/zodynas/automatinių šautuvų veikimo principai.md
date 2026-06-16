@@ -46,3 +46,4 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Parakas]]
+- [[objektai/daiktai/Šautuvai]]

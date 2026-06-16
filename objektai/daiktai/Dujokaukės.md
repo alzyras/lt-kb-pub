@@ -80,3 +80,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Statybininkų šalmai]]
+- [[objektai/daiktai/Šautuvai]]

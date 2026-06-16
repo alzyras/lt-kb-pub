@@ -13,27 +13,21 @@ tags:
 
 ## Santrauka
 
-Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
+Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
 
 ## Teiginiai
-
 <a id="claim-t-72599"></a>
 - t-001
   global_id: t-72599
   teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72600"></a>
-- t-002
-  global_id: t-72600
-  teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi sukurti nepriklausomą Latviją.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dabartinė Latvija yra atsiradusi taip pat po didžiojo karo,
@@ -42,28 +36,13 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     visą Pabaltijį. Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
     sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
     komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi sukurti nepriklausomą Latviją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai Rusijoje kilo revoliucija, beveik visa Lat-
-    vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią
-    visą Pabaltijį. Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
-    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
-    komitetu ėmė rūpintis sukurti nepriklausomą Latviją. Bolševi-
-    kai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko
-    vokiečių valdžioje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

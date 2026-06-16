@@ -11,12 +11,12 @@ date_start: '1424'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - pilis
-  - vieta
 amziai:
   - 'XV'
   - 'XXI'
+tags:
+  - pilis
+  - vieta
 ---
 # Niešava
 
@@ -25,23 +25,20 @@ amziai:
 Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį.
 
 ## Teiginiai
-
-<a id="claim-t-68823"></a>
-- t-001
-  global_id: t-68823
-  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-68824"></a>
 - t-002
   global_id: t-68824
   teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   pagrindžia:
     - c-001
+- t-003
+  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -60,8 +57,8 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
@@ -73,8 +70,10 @@ amziai:
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003

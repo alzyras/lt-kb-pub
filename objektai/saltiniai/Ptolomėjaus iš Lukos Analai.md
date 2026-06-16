@@ -30,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a. Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. 21,1 ir 2; Mart. p. 385). Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).
+Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu. Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III. Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.
 
 ## Teiginiai
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 <a id="claim-t-60890"></a>
 - t-003
   global_id: t-60890
-  teiginys: 'Tais pačiais metais prasidėjo nesantarvė tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo.'
+  teiginys: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.'
   pagrindžia:
     - c-003
 
@@ -86,14 +86,14 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 <a id="claim-t-60895"></a>
 - t-008
   global_id: t-60895
-  teiginys: 'Dusburgietis teigia, kad apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37). 29.'
+  teiginys: 'Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-60896"></a>
 - t-009
   global_id: t-60896
-  teiginys: 'Po ankstesnio laikotarpio viešpatavo popiežius Inocentas III ir imperatoriai Otonas IV bei Fridrichas II.'
+  teiginys: 'Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.'
   pagrindžia:
     - c-007
 
@@ -131,7 +131,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - t-001
 
 - c-003
-  santrauka: 'Tais pačiais metais prasidėjo nesantarvė tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo.'
+  santrauka: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
@@ -199,7 +199,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - t-002
 
 - c-007
-  santrauka: 'Po ankstesnio laikotarpio viešpatavo popiežius Inocentas III ir imperatoriai Otonas IV bei Fridrichas II.'
+  santrauka: 'Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius
@@ -213,6 +213,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
     - t-009
 
 - c-008
+  santrauka: 'Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie didįjį saulės užtemimą

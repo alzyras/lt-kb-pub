@@ -19,20 +19,21 @@ amziai:
 
 ## Santrauka
 
-Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
+Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
 
 ## Teiginiai
 
 <a id="claim-t-31975"></a>
 - t-001
   global_id: t-31975
-  teiginys: '„Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo platesnis darbas, atspaustas iš 1930 m. „Židinio“.'
+  teiginys: 'Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bažnyčios istorijos, kurią jis skaitė Teologijos-Filosofijos fakulteto

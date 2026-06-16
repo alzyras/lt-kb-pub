@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Ovručas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1320 m.'
@@ -20,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.
+1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą. Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo. Lietuviai gaudė pabėgusius totorius Ovručo ir kitais keliais, juos žudė ir atiminėjo grobį.
 
 ## Teiginiai
 
@@ -37,6 +38,13 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
   teiginys: 'Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-187628"></a>
+- t-003
+  global_id: t-187628
+  teiginys: 'Lietuviai gaudė pabėgusius totorius Ovručo ir kitais keliais, juos žudė ir atiminėjo grobį.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -98,3 +106,25 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Lietuviai gaudė pabėgusius totorius Ovručo ir kitais keliais, juos žudė ir atiminėjo grobį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
+    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
+    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
+    pereiti, lipdami per totorių ir jų arklių lavonus.
+    174
+
+    ## Puslapis 170
+
+    O tuos nedaugelį totorių, kurie pabėgo su chanai-
+    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
+    2itomiro, Volynės keliais į visas puses, lietuviai žudė
+    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

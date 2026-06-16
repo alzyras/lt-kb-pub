@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vidurinė Lietuva aprašoma kaip Vilniaus krašte suformuotas teritorinis-politinis darinys, siejamas su 1920 m. konfliktu dėl Vilniaus, L. Želigovskio akcija ir 1922 m. prisijungimu prie Lenkijos.
+1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva. 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą. 1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-102086"></a>
 - t-001
   global_id: t-102086
-  teiginys: 'Per Lenkijos ir Lietuvos konfliktą dėl Vilniaus Vilniaus krašte buvo suformuota Vidurinė Lietuva.'
+  teiginys: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.'
   pagrindžia:
     - c-003
 
@@ -76,7 +76,7 @@ Nenurodyta
 <a id="claim-t-102091"></a>
 - t-005
   global_id: t-102091
-  teiginys: '1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.'
+  teiginys: '1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
   pagrindžia:
     - c-004
 

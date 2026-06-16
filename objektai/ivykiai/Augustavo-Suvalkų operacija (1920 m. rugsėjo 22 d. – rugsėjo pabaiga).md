@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Gabalas aprašo lenkų puolimą ties Seinais, Kapčiamiesčiu, Druskininkais, Lydos kryptimi ir Varėnos link. Tekste ši operacija įvardijama ir kaip Augustavo-Suvalkų operacija, ir kaip lenkų puolimas dešiniąjame Nemuno krante. 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.
+1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu. Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą. Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių.
 
 ## Laikotarpis ir datos
 
@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-66461"></a>
 - t-004
   global_id: t-66461
-  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir tęsė puolimą Varėnos kryptimi.'
+  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.'
   pagrindžia:
     - c-001
 
@@ -76,7 +76,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir tęsė puolimą Varėnos kryptimi.'
+  santrauka: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 23 d. lenkų divizijos perėjo tiltą

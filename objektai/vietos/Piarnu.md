@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. Mūšio išvakarėse Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti karo veiksmus siekiant panaikinti Rygos miesto blokadą.
+1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko. Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti. Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.
 
 ## Teiginiai
 
 <a id="claim-t-42024"></a>
 - t-001
   global_id: t-42024
-  teiginys: '1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu.'
+  teiginys: '1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LDK etmonas Jonas Karolis Chodkevičius

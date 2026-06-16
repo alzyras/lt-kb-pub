@@ -11,7 +11,7 @@ tags: []
 
 ## Santrauka
 
-Lietuvių tautos siekis turėti ir įgyvendinti valstybę, kuri tampa viso veikalo vedamąja mintimi; Lietuvos istorijos skirstymas pagal valstybės raidą, sustiprėjimą, silpnėjimą, žlugimą ir atstatymą. Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie valstybingumo idėją ir kad ši idėja buvo jau kartą įgyvendinta; autorius aptaria vieną tradicinę Lietuvos istorijos periodizaciją, paremtą lietuvių tautos valstybingumo idėja, ir ją sieja su valstybės raidos etapais.
+Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti. Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje. Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota.
 
 ## Žodis ir formos
 
@@ -44,7 +44,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 <a id="claim-t-05469"></a>
 - t-001
   global_id: t-05469
-  teiginys: 'Lietuvių tauta prieš pusę šimtmečio įgyvendino Lietuvos valstybingumo idealą.'
+  teiginys: 'Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti.'
   pagrindžia:
     - c-001
 
@@ -86,6 +86,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ivinskis Lietuvos valstybingumo idealą siejo su lietuvių tautos tautiniu susipratimu ir ilgomis pastangomis jį įgyvendinti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei­

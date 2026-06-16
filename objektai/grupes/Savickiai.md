@@ -57,5 +57,6 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 - [[objektai/grupes/Neliubovičiai]]
 - [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Zalivskiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/asmenys/Jonas Neliubovičius]]
 - [[objektai/asmenys/Kristupas Zalivskis]]

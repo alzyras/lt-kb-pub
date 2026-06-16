@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.
+Feodaliniuose santykiuose senjoras buvo laikomas atsakingu už pavaldinio išganymą ir nurodydavo jam išpažintiną tikėjimą. Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą.
 
 ## Laikotarpis ir datos
 
@@ -40,14 +40,14 @@ Nenurodyta
 <a id="claim-t-54348"></a>
 - t-001
   global_id: t-54348
-  teiginys: 'Feodaliniuose santykiuose pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
+  teiginys: 'Feodaliniuose santykiuose senjoras buvo laikomas atsakingu už pavaldinio išganymą ir nurodydavo jam išpažintiną tikėjimą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183335"></a>
 - t-002
   global_id: t-183335
-  teiginys: 'Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.'
+  teiginys: 'Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą.'
   pagrindžia:
     - c-001
 
@@ -79,5 +79,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]

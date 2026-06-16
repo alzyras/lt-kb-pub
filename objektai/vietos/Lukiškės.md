@@ -10,13 +10,13 @@ date_start: '1556'
 date_end: '1557'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - mokslininkas
   - ordinas
   - vieta
   - vyskupas
-amziai:
-  - 'XVI'
 ---
 # Lukiškės
 
@@ -25,7 +25,6 @@ amziai:
 5 Lukiškės pavadintos nuo lietuviškų žodžių laukas ir kišas, kadangi Lukiš­ kės yra prie Vilijos upės, tad ta vie- 108 ## Puslapis 125 Il KNYGA Iš Kreivosios pilies vedė dar du pagrindiniai keliai: vie­ nas - vakarų link, į Trakų pilį, palei kurį smėlingoj. Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio. Pirmiausia jų, regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms šeimoms.
 
 ## Teiginiai
-
 <a id="claim-t-85840"></a>
 - t-001
   global_id: t-85840
@@ -41,7 +40,6 @@ amziai:
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -61,7 +59,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

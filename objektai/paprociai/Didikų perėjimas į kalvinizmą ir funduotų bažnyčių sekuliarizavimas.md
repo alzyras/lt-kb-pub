@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.
+XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias. Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
 
 ## Laikotarpis ir datos
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-54226"></a>
 - t-001
   global_id: t-54226
-  teiginys: 'XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
+  teiginys: 'XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
   pagrindžia:
     - c-001
 
@@ -95,5 +95,6 @@ Nenurodyta
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/LDK didikai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

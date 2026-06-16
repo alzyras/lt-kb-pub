@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
+Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma. Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką. Husitai ne kartą naudojosi Vytauto globa.
 
 ## Teiginiai
 
@@ -81,7 +81,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 <a id="claim-t-172104"></a>
 - t-008
   global_id: t-172104
-  teiginys: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet jis atsisakė jį priimti, nes tai buvo eretikų siūlymas.'
+  teiginys: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.'
   pagrindžia:
     - c-002
 
@@ -120,6 +120,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     - t-009
 
 - c-002
+  santrauka: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir kai čekai husitai pasiūlė karališką vainiką Jo­
@@ -301,6 +302,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos vyskupai]]
@@ -317,6 +319,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/atskala]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/zodynas/erezija]]
 - [[objektai/autoriai/B. Dundulis]]
 - [[objektai/grupes/Saracėnai]]

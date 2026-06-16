@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'baskakas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1331 m.'
   - '2026 m.'
@@ -19,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-`Baskakas` šiame šaltinyje žymi Ordos valdžios pareigūną, minėtą prie Kijevo kunigaikščio ir duoklės rinkimo Podolėje kontekstuose.
+Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams. 1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko. 1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.
 
 ## Žodis ir formos
 
@@ -68,6 +69,13 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   pagrindžia:
     - c-001
     - c-003
+
+<a id="claim-t-187518"></a>
+- t-005
+  global_id: t-187518
+  teiginys: 'Užvolgio chanas Balaklajus reikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -133,6 +141,29 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     - t-001
     - t-004
 
+- c-004
+  santrauka: 'Užvolgio chanas Balaklajus reikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Parvykęs
+    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
+    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
+    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
+    maičių Didžiosios Kunigaikštystės sostan.
+    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
+    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
+    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
+    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
+    buvo duodama duoklė, valdant jo pirmtakams, rusų
+    kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­
+    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
+    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
@@ -142,9 +173,15 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kukovaitis]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Skirmantas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/duoklė]]
+- [[objektai/zodynas/metraštis]]
+- [[objektai/zodynas/sąvadas]]
 - [[objektai/zodynas/tėvonys]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
 - [[objektai/grupes/Aukso orda]]

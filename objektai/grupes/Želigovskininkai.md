@@ -54,7 +54,6 @@ tags:
 - [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]

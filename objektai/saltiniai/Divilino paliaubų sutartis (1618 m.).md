@@ -9,53 +9,34 @@ date_start: '1618'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - paliaubos
   - saltinis
   - sutartis
-amziai:
-  - 'XVII'
 ---
 # Divilino paliaubų sutartis (1618 m.)
 
 ## Santrauka
 
-1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos. Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, kuri Maskvos valdžioje buvo nuo 1514 m. (žiūr.
+Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
 
 ## Teiginiai
-
-<a id="claim-t-02156"></a>
-- t-001
-  global_id: t-02156
-  teiginys: '1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-02157"></a>
-- t-002
+- t-001
   global_id: t-02157
   teiginys: 'Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskva buvo pasiekta, tačiau jos paimti nepavyko,
-    ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos
-    16 metų paliaubos. Maskva būtinai reikalavo, kad Vladislovas
-    nebesivadintų caru, bet tas neatsisakė nuo titulo. Šitas klau-
-    simas tuo būdu ir liko neišspręstas, bet sienų klausimas ir kiti
-    reikalai buvo sutvarkyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja
@@ -63,8 +44,10 @@ amziai:
     tis, kuri Maskvos valdžioje buvo nuo 1514 m. (žiūr. 204 psl.),
     o prie Lenkijos buvo priskirti Černigovas ir Naugardas Sie-
     verskas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

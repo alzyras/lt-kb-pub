@@ -50,4 +50,5 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/daiktai/Medinis nukryžiuotasis]]

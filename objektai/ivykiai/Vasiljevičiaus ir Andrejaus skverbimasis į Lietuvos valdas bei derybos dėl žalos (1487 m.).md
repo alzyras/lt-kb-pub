@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-1487 m. Vasiljevičius atėmė iš Krošino kunigaikščių dalį krašto ir slėpė brolio Andrejaus įsibrovimą į Viazmos žemę.
+1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,14 +35,14 @@ Nenurodyta
 <a id="claim-t-185652"></a>
 - t-001
   global_id: t-185652
-  teiginys: '1487 m. Vasiljevičius atėmė iš Krošino kunigaikščių dalį krašto ir slėpė brolio Andrejaus įsibrovimą į Viazmos žemę.'
+  teiginys: '1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1487 m. Vasiljevičius atėmė iš Krošino kunigaikščių dalį krašto ir slėpė brolio Andrejaus įsibrovimą į Viazmos žemę.'
+  santrauka: '1487 m. Vasiljevičius iš Krošino kunigaikščių atėmė geroką krašto dalį ir stengėsi nuslėpti brolio Andrejaus įsibrovimą į Viazmos žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     To­

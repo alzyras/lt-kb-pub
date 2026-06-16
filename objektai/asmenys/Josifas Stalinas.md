@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J.
+1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos. Stalino statulų, prikabinėta komunistinių šūkių. Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus.
 
 ## Teiginiai
 
 <a id="claim-t-101653"></a>
 - t-001
   global_id: t-101653
-  teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio pagalbos, Vilniaus krašto perdavimo ir dalies pietvakarių Lietuvos perdavimo Vokietijai sutartis.'
+  teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 <a id="claim-t-101657"></a>
 - t-005
   global_id: t-101657
-  teiginys: '1953 m. mirus Josifui Stalinui, SSRS susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti vietiniais lietuviais, o kalinius ir tremtinius imta leisti į laisvę.'
+  teiginys: 'Po Josifo Stalino mirties 1953 m. SSRS ėmė silpnėti rusinimas, valdžia labiau pasitikėjo vietiniais lietuviais, o kaliniai ir tremtiniai buvo leidžiami į laisvę.'
   pagrindžia:
     - c-003
 
@@ -115,6 +115,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
@@ -147,6 +148,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - t-007
 
 - c-003
+  santrauka: 'Po Josifo Stalino mirties 1953 m. SSRS ėmė silpnėti rusinimas, valdžia labiau pasitikėjo vietiniais lietuviais, o kaliniai ir tremtiniai buvo leidžiami į laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-

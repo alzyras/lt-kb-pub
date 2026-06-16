@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiamas kazokų pulko, atakavo gen.
+Gen. mjr. Leontijus Bennigsenas trimis kavalerijos pulkais ir kazokų pulko parama atakavo M. Frankovskio vadovaujamus lietuvių įtvirtinimus.
 
 ## Teiginiai
 

@@ -77,7 +77,6 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/I brigada]]
 - [[objektai/grupes/brigada]]
 - [[objektai/zodynas/viršila]]

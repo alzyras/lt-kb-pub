@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis. Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.
+Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu. XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
 
 ## Laikotarpis ir datos
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-183307"></a>
 - t-002
   global_id: t-183307
-  teiginys: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  teiginys: 'XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  santrauka: 'XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Raštija
@@ -98,7 +98,6 @@ Nenurodyta
 - [[objektai/grupes/Arabai]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/raštinių kultūra]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

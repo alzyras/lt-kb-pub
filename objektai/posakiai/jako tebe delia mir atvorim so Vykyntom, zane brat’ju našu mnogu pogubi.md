@@ -54,4 +54,3 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/autoriai/St. Zajączkowski]]
-- [[objektai/asmenys/Vykintas]]

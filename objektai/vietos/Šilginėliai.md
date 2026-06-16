@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.
+Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą.
 
 ## Teiginiai
 
 <a id="claim-t-80614"></a>
 - t-001
   global_id: t-80614
-  teiginys: '1919 m. vasario 7 d. prie Šilginėlių kaime buvusios lietuvių sargybos bolševikai kelis kartus mėgino pralaužti gynybą.'
+  teiginys: 'Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1919 m. vasario 7 d. prie Šilginėlių kaime buvusios lietuvių sargybos bolševikai kelis kartus mėgino pralaužti gynybą.'
+  santrauka: 'Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bolševikai tą dieną į lietuvių pusę paleido

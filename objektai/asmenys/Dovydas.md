@@ -17,10 +17,9 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad. Dusburgietis teigia, kad kadangi Dovydas buvo pranašas ir jo lūpomis bylojo šventoji dvasia, kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus privalėsiąs. Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.
+Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė. Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.
 
 ## Teiginiai
-
 <a id="claim-t-82261"></a>
 - t-001
   global_id: t-82261
@@ -31,12 +30,11 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 <a id="claim-t-184693"></a>
 - t-002
   global_id: t-184693
-  teiginys: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo, kai siaubė Mazoviją.'
+  teiginys: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -67,7 +65,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Dovydas mokė savo kariuomenės vadą Joabą nenusiminti dėl saviškių mirties ir padrąsinti kovotojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,9 +84,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
 - c-003
-  santrauka: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo, kai siaubė Mazoviją.'
+  santrauka: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Dėl vieno bajoro nepaprastos drąsos žuvo pulko
@@ -114,6 +110,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
@@ -124,6 +121,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - [[objektai/asmenys/Maukoldas]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]
+- [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
 - [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis scolarium] patvirtino tas pats valdovas popiežius Honorijus.
+Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus. Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.
 
 ## Teiginiai
 
@@ -32,13 +32,6 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   pagrindžia:
     - c-001
     - c-002
-
-<a id="claim-t-88578"></a>
-- t-002
-  global_id: t-88578
-  teiginys: 'Dusburgietis teigia, kad mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -79,5 +72,4 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
 ### Susiję objektai
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/grupes/Mokinių slėnio brolių ordinas]]

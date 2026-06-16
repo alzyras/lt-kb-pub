@@ -77,4 +77,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/kryžininkai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

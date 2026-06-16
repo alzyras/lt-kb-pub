@@ -10,11 +10,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - grupe
 ---
 # Sėliai
 
@@ -23,17 +23,17 @@ amziai:
 kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai.
 
 ## Teiginiai
-
 <a id="claim-t-52441"></a>
 - t-001
   global_id: t-52441
   teiginys: 'Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į pie-
@@ -48,21 +48,20 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
     tis, gyveno sėliai, o į šiaurę nuo jų, t. y. dešiniajam Dauguvos
     vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
     tojus vadina senieji raštai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Jotvingai]]
 - [[objektai/asmenys/Albertas]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/grupes/Lybiai]]
 - [[objektai/asmenys/Visvaldis]]
 - [[objektai/grupes/Žiemgaliai]]
-- [[objektai/grupes/Kuršiai]]

@@ -82,7 +82,6 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„kovos su judobolševizmu“]]
 - [[objektai/grupes/SD Einsatzgruppen]]
 - [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]

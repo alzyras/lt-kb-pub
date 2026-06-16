@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. Tada į mūšį įsijungė Aukso ordos chanas Timūr-Kutlukas „su didele Totorių jėga“ ir „apsupo juos (Lietuvos kariuomenę) aplink, pašovė raitelių žirgus.
+Aukso ordos chanas Timūr-Kutlukas su didele totorių jėga įsijungė į mūšį ir nugalėjo Vytauto Lietuvos kariuomenę. Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai. Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 
 ## Teiginiai
 
 <a id="claim-t-78527"></a>
 - t-001
   global_id: t-78527
-  teiginys: 'Aukso ordos chanas Timūr-Kutlukas į mūšį įsijungė su didele totorių jėga.'
+  teiginys: 'Aukso ordos chanas Timūr-Kutlukas su didele totorių jėga įsijungė į mūšį ir nugalėjo Vytauto Lietuvos kariuomenę.'
   pagrindžia:
     - c-001
 
@@ -35,6 +35,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aukso ordos chanas Timūr-Kutlukas su didele totorių jėga įsijungė į mūšį ir nugalėjo Vytauto Lietuvos kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada į mūšį įsijungė

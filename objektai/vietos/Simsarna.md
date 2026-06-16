@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sidonas Siena Silezija Simsarna (dab.
+Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.
 
 ## Teiginiai
 
 <a id="claim-t-58724"></a>
 - t-001
   global_id: t-58724
-  teiginys: 'Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sidonas Siena Silezija Simsarna (dab.'
+  teiginys: 'Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasare)

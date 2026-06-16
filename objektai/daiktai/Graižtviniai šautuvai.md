@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Nenurodyta
+Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu. Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-40717"></a>
 - t-001
   global_id: t-40717
-  teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis aptariamo periodo veiksnys kovos lauke.'
+  teiginys: 'Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu.'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis aptariamo periodo veiksnys kovos lauke.'
+  santrauka: 'Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 165
@@ -94,3 +94,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Šautuvai]]

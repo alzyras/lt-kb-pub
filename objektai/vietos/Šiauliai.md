@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo jiems kelią.
+Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius. 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada. Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.
 
 ## Teiginiai
 
@@ -44,16 +44,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 <a id="claim-t-182786"></a>
 - t-003
   global_id: t-182786
-  teiginys: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža buvo Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža.'
+  teiginys: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-183111"></a>
-- t-004
-  global_id: t-183111
-  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +86,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - t-002
 
 - c-003
-  santrauka: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža buvo Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža.'
+  santrauka: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš
@@ -108,18 +101,3 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pajutę susitelkusią lietuvių ka-
-    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
-    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
-    laimėjo lietuviai. Kalavijuočių žuvo visa vadovybė su pačiu
-    magistru ir daugybė svečių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

@@ -15,21 +15,20 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - mokslininkas
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - mokslininkas
+  - vieta
 ---
 # Kernavė
 
 ## Santrauka
 
-kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
+Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės. Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą. H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.
 
 ## Teiginiai
-
 <a id="claim-t-173444"></a>
 - t-001
   global_id: t-173444
@@ -58,71 +57,61 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindžia:
     - c-006
 
-<a id="claim-t-173448"></a>
-- t-005
-  global_id: t-173448
-  teiginys: 'Kai kurie mokslininkai spėjo, kad Mindaugo pilis galėjo būti Liškiavoje arba Kernavėje.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-173449"></a>
+<a id="claim-t-173450"></a>
 - t-006
-  global_id: t-173449
-  teiginys: 'Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės pilį.'
+  global_id: t-173450
+  teiginys: 'Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį.'
   pagrindžia:
     - c-008
 
-<a id="claim-t-173452"></a>
+<a id="claim-t-173453"></a>
 - t-008
-  global_id: t-173452
+  global_id: t-173453
   teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimo vietą nurodė už 5 mylių nuo Kernavės.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-173453"></a>
+<a id="claim-t-173454"></a>
 - t-009
-  global_id: t-173453
+  global_id: t-173454
   teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-173454"></a>
+<a id="claim-t-173455"></a>
 - t-010
-  global_id: t-173454
+  global_id: t-173455
   teiginys: 'Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-173455"></a>
+<a id="claim-t-184982"></a>
 - t-011
-  global_id: t-173455
+  global_id: t-184982
   teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.'
   pagrindžia:
     - c-009
 
-<a id="claim-t-184982"></a>
+<a id="claim-t-184983"></a>
 - t-012
-  global_id: t-184982
+  global_id: t-184983
   teiginys: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
   pagrindžia:
     - c-010
 
-<a id="claim-t-184983"></a>
+<a id="claim-t-184984"></a>
 - t-013
-  global_id: t-184983
+  global_id: t-184984
   teiginys: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
   pagrindžia:
     - c-011
 
-<a id="claim-t-184984"></a>
 - t-014
-  global_id: t-184984
   teiginys: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
   pagrindžia:
     - c-012
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -138,20 +127,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindžia:
     - t-003
     - t-007
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Greičiausiai ji bus buvusi kur nors Aukštaičiuose:
-    kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
-    Apsigindamas pilyje nuo priešo, Mindaugas dar neišsigel-
-    bėjo iš gresiančio pavojaus, nes priešų sąjunga greit neiširo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-003
   santrauka: 'Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -176,7 +151,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindžia:
     - t-002
     - t-009
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -191,7 +165,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -226,7 +199,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-010
-
 - c-006
   santrauka: 'Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -242,7 +214,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-007
   santrauka: 'Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -258,8 +229,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-008
+  santrauka: 'Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Žemutinės pilies vakarinių var­
@@ -275,7 +246,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-009
   santrauka: 'XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -294,7 +264,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-011
-
 - c-010
   santrauka: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -320,7 +289,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-012
-
 - c-011
   santrauka: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -347,7 +315,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-013
-
 - c-012
   santrauka: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

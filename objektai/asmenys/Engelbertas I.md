@@ -23,14 +23,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.
+Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį. 1262 m. sausio 21 d. Engelbertas, Julicho ir Markos grafas, su stipria kariuomene atvyko į Karaliaučių.
 
 ## Teiginiai
 
 <a id="claim-t-60110"></a>
 - t-001
   global_id: t-60110
-  teiginys: 'Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį 1262 m. sausio 21 d.'
+  teiginys: 'Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį 1262 m. sausio 21 d.'
+  santrauka: 'Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
@@ -85,6 +85,7 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/maldininkai]]

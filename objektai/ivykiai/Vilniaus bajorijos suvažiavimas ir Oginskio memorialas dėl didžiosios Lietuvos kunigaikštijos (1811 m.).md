@@ -9,13 +9,13 @@ date_start: '1811'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 tags:
   - seimas
   - bajorija
   - ivykis
   - valstybė
-amziai:
-  - 'XIX'
 ---
 # Vilniaus bajorijos suvažiavimas ir Oginskio memorialas dėl didžiosios Lietuvos kunigaikštijos (1811 m.)
 
@@ -36,17 +36,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01843"></a>
 - t-001
   global_id: t-01843
   teiginys: '1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
@@ -56,14 +57,15 @@ Nenurodyta
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/memorialas]]

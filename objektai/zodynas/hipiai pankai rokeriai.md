@@ -12,27 +12,21 @@ tags:
 
 ## Santrauka
 
-Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakarų kultūros įtakos susidariusios jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos. Sovietinėje sistemoje egzistavę hipių ar pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką visuomenę kaip hipiai Vakaruose.
+XX a. septintame dešimtmetyje Lietuvoje dėl Vakarų kultūros įtakos susiformavo roko muzikos grupių, hipių, pankų, rokerių ir kitų jaunimo bendrijos.
 
 ## Teiginiai
 
-<a id="claim-t-22160"></a>
-- t-001
-  global_id: t-22160
-  teiginys: 'Sovietinėje sistemoje egzistavę hipių ar pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką visuomenę kaip hipiai Vakaruose.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-22161"></a>
-- t-002
+- t-001
   global_id: t-22161
-  teiginys: 'Dėl Vakarų kultūros įtakos susidarė jaunimo roko muzikos grupių, hipių, pankų, rokerių ir kitų bendrijos.'
+  teiginys: 'XX a. septintame dešimtmetyje Lietuvoje dėl Vakarų kultūros įtakos susiformavo roko muzikos grupių, hipių, pankų, rokerių ir kitų jaunimo bendrijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XX a. septintame dešimtmetyje Lietuvoje dėl Vakarų kultūros įtakos susiformavo roko muzikos grupių, hipių, pankų, rokerių ir kitų jaunimo bendrijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XX a. septintame dešimtmetyje ir visoje Europoje, ir Lietuvoje plito
@@ -45,23 +39,4 @@ Susiformavo dvi kultūrinės kryptys – etnokultūrinis sąjūdis ir dėl Vakar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdžiai
-    svarbius klubus uždraudus, dalis jaunuolių suartėjo su disidentais.
-    Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos
-    pavasaris suaktyvino kitaminčius. Sovietinėje sistemoje egzistavę hipių ar
-    pankų judėjimai protestavo prieš pačią tą sistemą, o ne prieš vartotojišką
-    visuomenę kaip hipiai Vakaruose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]

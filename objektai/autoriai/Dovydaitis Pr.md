@@ -42,5 +42,4 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Ragaina]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik. Dusburgietis teigia, kad visa tai leidžia daryti išvadą ir nedvejojant tikėti, kad pats Kristus, be kurio valios nieko žemėje negali įvykti, užleido ant savo tautos šį buvusių ir būsimų atskalūnybių antkrytį, norėdamas, kad nukautieji gautų danguje pelnytą atpildą, o likę gyvi. Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginimą Tuo metu, kai prūsai buvo įtariami atskalūnybe, brolis Volradas, Notangos ir Varmės fogtas, vadinamas Volradu Nuostabiuoju355 (jis iš tiesų toks buvo), vakarieniavo su minėtosios žemės kilmingaisiais.
+Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti. Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje. Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 <a id="claim-t-58808"></a>
 - t-003
   global_id: t-58808
-  teiginys: 'Kuršiai po sprendimo dėl belaisvių užpuolė krikščionis iš užnugario, kai broliai pradėjo pulti lietuvius.'
+  teiginys: 'Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     - t-001
 
 - c-003
-  santrauka: 'Kuršiai po sprendimo dėl belaisvių užpuolė krikščionis iš užnugario, kai broliai pradėjo pulti lietuvius.'
+  santrauka: 'Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
@@ -101,7 +101,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     - t-003
 
 - c-004
-  santrauka: 'Kuršiai po sprendimo dėl belaisvių užpuolė krikščionis iš užnugario, kai broliai pradėjo pulti lietuvius.'
+  santrauka: 'Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -127,6 +127,7 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - [[objektai/asmenys/Noliubas]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/zodynas/fogtas]]
 - [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

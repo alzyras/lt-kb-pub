@@ -56,4 +56,5 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
 - [[objektai/asmenys/Omaras]]
 - [[objektai/asmenys/Petras Atsiskyrėlis]]
+- [[objektai/zodynas/mirza]]
 - [[objektai/zodynas/kelionių romanas]]

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus. Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.
+Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos. Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
 
 ## Laikotarpis ir datos
 
@@ -47,15 +47,8 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-67169"></a>
-- t-002
-  global_id: t-67169
-  teiginys: 'Taip besitiekiant jaunasis siuntė jaunajai dovanas (taip nuotaką mergaitę po ūkvaizdžių pradeda vadinti) per savo bendrus savo karės žirgą, ragotinę ir kardą ar kalaviją, rodydamas tuo, jog yra karės vyru, jog, ištekėjusi už jo, ras sau gaspadorių, užtarytoją.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-67170"></a>
-- t-003
+- t-002
   global_id: t-67170
   teiginys: 'Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.'
   pagrindžia:
@@ -81,7 +74,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -95,46 +88,11 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip besitiekiant jaunasis siuntė
-        jaunajai dovanas (taip nuotaką mergaitę po ūkvaizdžių pradeda vadinti) per savo bendrus savo
-        karės žirgą, ragotinę ir kardą ar kalaviją, rodydamas tuo, jog yra karės vyru, jog, ištekėjusi už jo,
-        ras sau gaspadorių, užtarytoją ir apgynėją. Jaunoji, arba nuotaka, taip pat nuo savo pusės per
-        savo gentis nusiuntė jam prieš savo tėvo kardą ar ragotinę ir jaučių porą, idant atkaliai^434
-        parodytų, jog ji yra karės vyro duktė, ūkės vilkėja ir turi sau apgynėją; vienok pasogą, nuo žodžio
-        sekti, beje, kraitį, kurs jaunąją sekė, jos tėvai, ginklus sukeitę, kelias skrynias į jaunojo namus
-        nuvežė, likusįjį kraitį po suvodbos pusę metų buvus ar ilgiau teatdavė, pagal tą, kaip ant
-        ūkvaizdžių buvo sukalbėta. Jei tuo tarpu kas norint vieną ar antrą tarp jaunųjų išvainotų taip, jog
-        katra norint pusė atsakytų nebtekėti, tad tėvai atsakančiosios pusės turėjo ne vien dovanas prieš
-        dovanas antrai pusei pagrąžinti^435 , bet dar ūkvaizdžių iždą^436 užmokėti; jei tuo geruoju nedarė,
-        tad, į tiesą ištikus, per sūdą visa tą atgavo antra pusė, kuri tarės abydyta^437 palikusi.
-
-    ## customs-velyvos-santuokos-kraitis-ir-vestuviu-sutartys-004
-    - status: reject
-    - claim_role: supports_existing_claim
-    - kategorija: paprotys
-    - kandidatas: Vėlyvos santuokos, kraitis ir vestuvių sutartys
-    - potencialus_teiginys: Vestuvių pokylyje dalyvavo marčelga ir viešnė, o vestuvės vyko abiejuose namuose ir truko kelias dienas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/daiktai/Ginklai]]
-- [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Nuometai]]
-- [[objektai/daiktai/Ragotinė]]
-- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
-- [[objektai/zodynas/Marčelga|marčelga]]
-- [[objektai/zodynas/Sūdas|sūdas]]
-- [[objektai/zodynas/Ūkės vilkėja|ūkės vilkėja]]
 - [[objektai/zodynas/Kilimas|kilimas]]
 - [[objektai/daiktai/Kilimas]]

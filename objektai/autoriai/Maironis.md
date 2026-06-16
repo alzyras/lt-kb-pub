@@ -22,14 +22,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt. Kauno kunigų seminariją galutinai sulietuvino jos rektorius poetas pralotas Mačiulis Maironis.
+J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio ir kitų lietuvių autorių knygos bei tautinio pobūdžio literatūra. Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties. Po J. Stalino mirties, „atšilimo“ laikotarpiu, oficialiai išspausdinta Maironio kūrinių.
 
 ## Teiginiai
 
 <a id="claim-t-125056"></a>
 - t-001
   global_id: t-125056
-  teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+  teiginys: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio ir kitų lietuvių autorių knygos bei tautinio pobūdžio literatūra.'
   pagrindžia:
     - c-003
 

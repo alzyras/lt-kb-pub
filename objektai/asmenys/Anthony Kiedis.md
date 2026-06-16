@@ -21,21 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimusi Lietuvoje, 1902 m. su šeima emigravusi į JAV), o šalia jo ir Leonard Cohen (jo mama – iš Lietuvos emigrantų) ar Anthony Kiedis iš „Red Hot Chilli Peppers“… Visų neišvardysi.
+Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.
 
 ## Teiginiai
 
 <a id="claim-t-78044"></a>
 - t-001
   global_id: t-78044
-  teiginys: 'Anthony Kiedis iš „Red Hot Chilli Peppers“ minimas kaip kilęs iš Lietuvos emigrantų.'
+  teiginys: 'Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Anthony Kiedis iš „Red Hot Chilli Peppers“ minimas kaip kilęs iš Lietuvos emigrantų.'
+  santrauka: 'Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-

@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-7-asis pulkas atsitraukė ir 18 d. ryte užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių dvaro iki Kačiniškių dvaro.
+1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro. Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos. Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
 
 ## Teiginiai
 
 <a id="claim-t-83565"></a>
 - t-001
   global_id: t-83565
-  teiginys: '7-asis pulkas atsitraukė ir 18 d. ryte užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių dvaro iki Kačiniškių dvaro.'
+  teiginys: '1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro.'
   pagrindžia:
     - c-002
 
@@ -67,6 +67,7 @@ tags:
     - t-003
 
 - c-002
+  santrauka: '1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     3-iojo bataliono kariai sutemus dar ko-

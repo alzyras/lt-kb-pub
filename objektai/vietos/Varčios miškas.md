@@ -19,20 +19,21 @@ amziai:
 
 ## Santrauka
 
-Varčios miške, tarp Alovės ir Daugų mstl.
+1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
 
 ## Teiginiai
 
 <a id="claim-t-38568"></a>
 - t-001
   global_id: t-38568
-  teiginys: '1945 m. birželio 14 d. Varčios miške partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.'
+  teiginys: '1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA

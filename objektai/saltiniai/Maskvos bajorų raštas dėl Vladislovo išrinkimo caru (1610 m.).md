@@ -9,11 +9,11 @@ date_start: '1610'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - bajorija
   - saltinis
-amziai:
-  - 'XVII'
 ---
 # Maskvos bajorų raštas dėl Vladislovo išrinkimo caru (1610 m.)
 
@@ -22,17 +22,20 @@ amziai:
 Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
 
 ## Teiginiai
-
 <a id="claim-t-02240"></a>
 - t-001
   global_id: t-02240
   teiginys: '1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
+  santrauka: '1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     žinoji taika. Ja caras atsisakė nuo visų jau Divilino paliaubų
@@ -41,8 +44,10 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
     tai pripažino jį caru ir atsisakė nuo visų pretenzijų į Maskvos
     sostą. Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
     kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

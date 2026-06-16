@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Šiame gabale pateikiama mūšio pradžia: pajėgų dydžiai, maršrutas į Oršą ir Kopysę bei Radvilos sprendimas laikyti priešo veiksmus prie Smolensko. Mūšio baigtis šiame gabale dar neatskleista, todėl kandidatas laikytinas preliminariu. Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.
+Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę. Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-41392"></a>
 - t-001
   global_id: t-41392
-  teiginys: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
+  teiginys: 'Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
   pagrindžia:
     - c-001
 
@@ -60,6 +60,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Caro kariuomenė prie

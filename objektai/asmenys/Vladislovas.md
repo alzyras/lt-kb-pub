@@ -131,6 +131,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -153,7 +154,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]
-- [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
 - [[objektai/grupes/Lenkų didžponiai]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
@@ -195,8 +195,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
-- [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/grupes/Krimo orda]]
+- [[objektai/ivykiai/Varnos mūšis|Varnos mūšis (mūšis, XV a.)]]
 - [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/ivykiai/Vladislovo žygis į Maskvą (1617 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.
+Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.
 
 ## Teiginiai
 
 <a id="claim-t-186205"></a>
 - t-001
   global_id: t-186205
-  teiginys: 'Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.'
+  teiginys: 'Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vaišvilkas Galiče išpažino griežtesnių regulų gyvenimą pagal Grigorijaus iš Polonos mokslą.'
+  santrauka: 'Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­

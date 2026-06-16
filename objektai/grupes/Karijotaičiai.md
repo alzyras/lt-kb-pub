@@ -24,14 +24,14 @@ amziai:
 
 ## Santrauka
 
-Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje. Iš Podolės Karijotaičių paminėtini Jurgis († 1374), Aleksandras († 1388), Konstantinas († 1388), Teodoras. Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir kt.), užvesti ūkinį gyvenimą.
+Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę. Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras. Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
 
 ## Teiginiai
 
 <a id="claim-t-171341"></a>
 - t-001
   global_id: t-171341
-  teiginys: '„Pasakojime apie Podolę“ teigiama, kad Algirdui leidus trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
+  teiginys: 'Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
   pagrindžia:
     - c-004
 
@@ -45,7 +45,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 <a id="claim-t-171343"></a>
 - t-003
   global_id: t-171343
-  teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
+  teiginys: 'Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.'
   pagrindžia:
     - c-003
 
@@ -59,14 +59,14 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 <a id="claim-t-184327"></a>
 - t-005
   global_id: t-184327
-  teiginys: 'Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.'
+  teiginys: 'Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.'
+  santrauka: 'Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Menkai gyvenamoje
@@ -103,6 +103,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - t-004
 
 - c-003
+  santrauka: 'Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo
@@ -127,7 +128,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - t-003
 
 - c-004
-  santrauka: '„Pasakojime apie Podolę“ teigiama, kad Algirdui leidus trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
+  santrauka: 'Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Neišlaikę spaudimo totoriai bėgo“ žuvo
@@ -204,7 +205,10 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
 - [[objektai/asmenys/Kutlubuga]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]
+- [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/ivykiai/Teodoro Karijotaičio mėginimas atgauti Podolę]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/atamanas]]
 - [[objektai/zodynas/luomas]]

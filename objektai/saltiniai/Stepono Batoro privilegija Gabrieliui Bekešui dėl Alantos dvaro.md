@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63. Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui. 61, apgailestauja, kad Bekešas buvo daugiau negu anabaptistas ir to įrodymui pacituoja pas­ kutinius jo žodžius, pasakytus prieš mirtį.
+Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai. Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras. Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
 
 ## Teiginiai
 
@@ -35,7 +35,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 <a id="claim-t-88167"></a>
 - t-002
   global_id: t-88167
-  teiginys: 'Varšuvos seime Alantos dvaras po Astiko pagal paveldėjimo teisę buvo atiduotas Gabrieliui Bekešui.'
+  teiginys: 'Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras.'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Varšuvos seime Alantos dvaras po Astiko pagal paveldėjimo teisę buvo atiduotas Gabrieliui Bekešui.'
+  santrauka: 'Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     61

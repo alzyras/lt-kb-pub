@@ -2,7 +2,6 @@
 tipas: saltinis
 pavadinimas: 'Krėvos aktas (1385 m.)'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1385 m.'
@@ -11,33 +10,31 @@ date_start: '1385'
 date_end: '1387'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - karalius
   - kunigaikštis
   - popiežius
   - saltinis
-amziai:
-  - 'XIV'
 ---
 # Krėvos aktas (1385 m.)
 
 ## Santrauka
 
-Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi. 1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
+1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.
 
 ## Teiginiai
-
 <a id="claim-t-183361"></a>
 - t-001
   global_id: t-183361
-  teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
+  teiginys: '1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.'
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
+  santrauka: '1385 m. rugpjūčio 14 d. Krėvos pilyje Jogaila priėmė lenkų parengtą sutarties dokumentą, vėliau vadintą Krėvos sutartimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,

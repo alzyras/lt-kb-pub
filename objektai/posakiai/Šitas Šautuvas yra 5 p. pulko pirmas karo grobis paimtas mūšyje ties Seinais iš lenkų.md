@@ -57,4 +57,3 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/karo grobis]]

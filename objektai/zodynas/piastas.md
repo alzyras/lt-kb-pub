@@ -10,11 +10,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - sąvoka
 ---
 # piastas
 
@@ -23,24 +23,26 @@ amziai:
 reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekvienas kandidatas iš saviškių).
 
 ## Teiginiai
-
 <a id="claim-t-52533"></a>
 - t-001
   global_id: t-52533
   teiginys: 'Piastu tada buvo vadinamas kiekvienas kandidatas iš saviškių.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-52534"></a>
 - t-002
   global_id: t-52534
   teiginys: 'Elekcinio seimo metu piastu vadintas kiekvienas kandidatas iš saviškių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Piastu tada buvo vadinamas kiekvienas kandidatas iš saviškių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pacai, bijodami jo
@@ -59,12 +61,14 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
     pažinsią piasto savo val-
     dovu, nors lenkai jį ir
     išrinktų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -74,4 +78,3 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/grupes/Piastų dinastija]]

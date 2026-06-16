@@ -121,11 +121,8 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/švietimo apygarda]]
-- [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
 - [[objektai/posakiai/Lietuvos reikalų neleidusi sutvarkyti laiko stoka]]

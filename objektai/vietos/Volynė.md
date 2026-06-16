@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Volynė'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1219 m.'
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė sutartį su Volyne24, nes kilo pavojus. Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
+1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą. 1323 m. pabaigoje arba 1324 m. pradžioje Gedimino Lietuva, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę. Gediminas, užėmęs Brianską ir Perejeslavlį bei anksčiau užkariavęs Kijevą, Volynę ir didelę Seversko dalį, išplėtė lietuvių valdų ribas ligi Putivlio.
 
 ## Teiginiai
 
@@ -76,6 +77,20 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   teiginys: 'Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.'
   pagrindžia:
     - c-007
+
+<a id="claim-t-187686"></a>
+- t-008
+  global_id: t-187686
+  teiginys: 'Kazimieras Vilniuje sėdo valdyti Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-187687"></a>
+- t-009
+  global_id: t-187687
+  teiginys: 'Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -223,3 +238,48 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   statusas: verified
   pagrindžia:
     - t-007
+
+- c-008
+  santrauka: 'Kazimieras Vilniuje sėdo valdyti Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Važiuodamas per Rūdininkų girią7 , jis toje
+    girioje susidūrė su didžiuoju kunigaikščiu Kazimieru
+    ir žemai nusilenkė didžiajam kunigaikščiui Kazimierui,
+    ir ėmė prašyti malonės; kunigaikštis Kazimieras paža­
+    dėjo suteiksiąs jam savo malonę ir paliksiąs jam jo
+    tėvoniją 7 .
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus —  savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+    Būnant Kazimierui Vilniuje, Drohičino ir Melniko
+    seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman­
+    to.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
+  santrauka: 'Lietuviai gaudė į visas puses Volynės keliais bėgančius totorius, juos žudė ir atiminėjo grobį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
+    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
+    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
+    pereiti, lipdami per totorių ir jų arklių lavonus.
+    174
+
+    ## Puslapis 170
+
+    O tuos nedaugelį totorių, kurie pabėgo su chanai-
+    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
+    2itomiro, Volynės keliais į visas puses, lietuviai žudė
+    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009

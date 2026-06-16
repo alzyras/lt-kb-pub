@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
+1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų. Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Ordino broliams. Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus.
 
 ## Teiginiai
 
@@ -79,7 +79,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78542"></a>
 - t-008
   global_id: t-78542
-  teiginys: 'Dusburgietis teigia, kad ketvirta — Varmė194, kurioje [gyveno] varmiai.'
+  teiginys: 'Ketvirta — Varmė194, kurioje [gyveno] varmiai.'
   pagrindžia:
     - c-003
 
@@ -93,14 +93,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78545"></a>
 - t-010
   global_id: t-78545
-  teiginys: 'Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius.'
+  teiginys: 'Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78546"></a>
 - t-011
   global_id: t-78546
-  teiginys: 'Dusburgietis teigia, kad varmės vardas greičiausiai yra upėvardinės kilmės, plg.'
+  teiginys: 'Varmės vardas greičiausiai yra upėvardinės kilmės, plg.'
   pagrindžia:
     - c-002
 
@@ -114,7 +114,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius.'
+  santrauka: 'Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
@@ -131,6 +131,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-010
 
 - c-002
+  santrauka: 'Varmės vardas greičiausiai yra upėvardinės kilmės, plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     194 D. — Warmia, Jer.— Ermin; plg.  pr. warmayan ‘raudonas’. Varmės vardas
@@ -148,6 +149,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-011
 
 - c-003
+  santrauka: 'Ketvirta — Varmė194, kurioje [gyveno] varmiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trečia — Pagudė193,
@@ -344,7 +346,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/daiktai/Ginklai]]

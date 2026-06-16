@@ -209,7 +209,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Duona]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

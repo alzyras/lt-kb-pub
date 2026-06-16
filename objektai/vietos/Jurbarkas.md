@@ -12,12 +12,12 @@ date_start: '1259'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - pilis
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - pilis
+  - vieta
 ---
 # Jurbarkas
 
@@ -26,103 +26,44 @@ amziai:
 Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurios žemaičiai taip pat neįstengė išgriauti.
 
 ## Teiginiai
-
-<a id="claim-t-83423"></a>
-- t-001
-  global_id: t-83423
-  teiginys: 'Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-83424"></a>
-- t-002
-  global_id: t-83424
-  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, greitai pasistatė Jurbarko pilį.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-83425"></a>
-- t-003
-  global_id: t-83425
-  teiginys: 'Po Durbės pralaimėjimo Jurbarko pilis buvo sugriauta.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-83426"></a>
+<a id="claim-t-83427"></a>
 - t-004
-  global_id: t-83426
+  global_id: t-83427
   teiginys: 'Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-83427"></a>
-- t-005
-  global_id: t-83427
-  teiginys: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-83428"></a>
+<a id="claim-t-184965"></a>
 - t-006
-  global_id: t-83428
+  global_id: t-184965
   teiginys: 'Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-184965"></a>
 - t-007
-  global_id: t-184965
   teiginys: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Po Durbės pralaimėjimo Jurbarko pilis buvo sugriauta.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klai-
-    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
-    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
-    m.), kurios žemaičiai taip pat neįstengė išgriauti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet
-    dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
-    tijos. Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
-    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
-    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
-    čiams (1328 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-003
-
-- c-003
-  santrauka: 'Kryžiuočiai, atslinkę prie Nemuno, greitai pasistatė Jurbarko pilį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kryžiuočiai, atslinkę prie Nemuno, tuojau
-    pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
-
-
-    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
-    ją atlaikyti).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -140,7 +81,6 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindžia:
     - t-006
     - t-004
-
 - c-005
   santrauka: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -172,3 +112,36 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   statusas: verified
   pagrindžia:
     - t-007
+- c-006
+  santrauka: '1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Durbės mūšis (1260 m.) ir jo padariniai. Pasistatęs Klai-
+    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
+    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
+    m.), kurios žemaičiai taip pat neįstengė išgriauti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-007
+  santrauka: 'Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet
+    dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
+    tijos. Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
+    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
+    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
+    čiams (1328 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+    - t-010

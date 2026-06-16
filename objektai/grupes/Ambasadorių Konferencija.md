@@ -12,14 +12,14 @@ date_start: '1921'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - grupe
   - kraštas
   - tauta
   - valstybė
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Ambasadorių Konferencija
 
@@ -28,7 +28,6 @@ amziai:
 Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui. Salia punktų, dėl kurių buvo susitarta, Ambasadorių Konferencija norėjo Klaipėdos konvencijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti šiosios reikalavimus turėti laisvą tranzitą. Ambasadorių Konferencija pagaliau įteikė ultimatumą (rugpiūčio 8 d.), kuriuo pareikalavo per mėnesį laiko pasirašyti be jokių pataisų ir rezervų konferencijos paruoštą projektą.
 
 ## Teiginiai
-
 <a id="claim-t-152689"></a>
 - t-001
   global_id: t-152689
@@ -63,9 +62,10 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginys: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti Lenkijos laisvo tranzito reikalavimus.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,7 +82,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: '1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -102,7 +101,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -120,7 +118,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   pagrindžia:
     - t-002
     - t-001
-
 - c-004
   santrauka: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu ir patenkinti Lenkijos laisvo tranzito reikalavimus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -131,9 +128,11 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     cijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu
     ir patenkinti šiosios reikalavimus turėti laisvą tranzitą. 1923 metų
     balandžio mėnesį derybos buvo pertrauktos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 
@@ -150,7 +149,5 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/zodynas/demarkacijos linija]]
 - [[objektai/zodynas/tranzitas]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]

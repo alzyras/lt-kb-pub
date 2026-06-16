@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę. Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.
+Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną. Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje. Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 
 ## Pavadinimai šaltiniuose
 
@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-86990"></a>
 - t-001
   global_id: t-86990
-  teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
+  teiginys: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-002
 
@@ -115,7 +115,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
+  santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -263,6 +263,7 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/žygis]]

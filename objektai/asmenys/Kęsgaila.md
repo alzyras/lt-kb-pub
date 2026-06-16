@@ -45,9 +45,13 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka]]
 - [[objektai/paprociai/Slaptas santuokos sudarymas krikščioniškomis apeigomis ir ištikimybės priesaika liudytojų akivaizdoje]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/paprociai/Prabangūs šermenys ir iškilmingos laidotuvės nužudytam valdovui]]
 - [[objektai/ivykiai/Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)]]

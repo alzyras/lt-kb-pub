@@ -3,14 +3,23 @@ tipas: zodyno_irasas
 pavadinimas: 'žirgininkas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1470 m.'
+  - '1503 m.'
+date_start: '1470'
+date_end: '1503'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XVI'
 ---
 # žirgininkas
 
 ## Santrauka
 
-Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.
+Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda. Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.
 
 ## Teiginiai
 
@@ -20,6 +29,13 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   teiginys: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187537"></a>
+- t-002
+  global_id: t-187537
+  teiginys: 'Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -44,10 +60,28 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
+    Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
+    buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
+    Pradėjus valdyti Aleksandrui. A ndrius Droždža gavo didžiojo kuni­
+    gaikščio taurininko vietą (1498 m.), vyko su diplomatine misija pas
+    totorius, o  apie 1500 m. tajio Vilniaus žirgininku ir gavo valdyti
+    Belicą (1503) ir Zblianus prie Lydos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/taurininkas]]
 - [[objektai/asmenys/Andrius Mackevičius]]
 - [[objektai/asmenys/Motiejus Kločka]]

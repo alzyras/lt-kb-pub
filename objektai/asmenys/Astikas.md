@@ -46,5 +46,6 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Manvydas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]]

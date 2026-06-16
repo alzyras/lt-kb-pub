@@ -13,27 +13,29 @@ tags:
 
 ## Santrauka
 
-Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale. Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).
+Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą. Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos.
 
 ## Teiginiai
-
 <a id="claim-t-70324"></a>
 - t-001
   global_id: t-70324
-  teiginys: 'Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).'
+  teiginys: 'Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos.'
   pagrindžia:
-    - c-001
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-70325"></a>
 - t-002
   global_id: t-70325
-  teiginys: 'Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale.'
+  teiginys: 'Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kitos organizacijos.** Be šių trijų Susivienijimų, J. Amerikos
@@ -43,13 +45,15 @@ tags:
 
     niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
     ryti kokį nors verslą (biznį).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-002
 - c-002
+  santrauka: 'Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kultūrinė lietuvių būklė Argentinoje. Argentinoje lietu-
@@ -58,11 +62,13 @@ tags:
     būtų išnaudojusios. Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

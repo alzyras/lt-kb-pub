@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
+Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių. 1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus. Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.
 
 ## Teiginiai
 
 <a id="claim-t-71848"></a>
 - t-001
   global_id: t-71848
-  teiginys: 'Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.'
+  teiginys: 'Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.'
   pagrindžia:
     - c-003
 
@@ -53,13 +53,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183013"></a>
-- t-005
-  global_id: t-183013
-  teiginys: 'Barbora Radvilaitė gyveno Radvilų dvare Dubingiuose, kol Zigmantas įsakė ją atlydėti į Vilnių.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -95,6 +88,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-003
 
 - c-003
+  santrauka: 'Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš kautynes
@@ -112,18 +106,3 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-004
-  santrauka: 'Barbora Radvilaitė gyveno Radvilų dvare Dubingiuose, kol Zigmantas įsakė ją atlydėti į Vilnių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Grįždamas į Vilnių, jis ne-
-    pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū-
-    naus vedybas. Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
-    Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams
-    atlydėti žmoną į Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005

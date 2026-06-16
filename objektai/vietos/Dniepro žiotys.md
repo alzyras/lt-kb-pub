@@ -22,26 +22,23 @@ amziai:
 
 ## Santrauka
 
-Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
+1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį. Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo. 1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.
 
 ## Teiginiai
-
 <a id="claim-t-67818"></a>
 - t-001
   global_id: t-67818
   teiginys: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67819"></a>
-- t-002
-  global_id: t-67819
-  teiginys: 'Totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.'
+- t-004
+  teiginys: 'Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo.'
   pagrindžia:
-    - c-002
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -54,20 +51,6 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
-    vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
-    limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
-    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -83,3 +66,18 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   statusas: verified
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Prekyba.** Seniausiais laikais lietuviai prekiavo su skandina-
+    vais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, to-
+    limi vakarinės Azijos kraštai ir Viduržemio pajūris. Bet toto-
+    riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

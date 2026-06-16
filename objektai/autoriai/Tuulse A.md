@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).
+Viljandžio (Tuulse A., Die Burgen..., p. 79).
 
 ## Teiginiai
 
 <a id="claim-t-91935"></a>
 - t-001
   global_id: t-91935
-  teiginys: 'Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).'
+  teiginys: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis

@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus. 1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje. nas BAKA ŠV ASmenaQ, o da rėva pa ODrohičinas o OKobri tuvos Brasta /-- epsass L Ik Pioti ae ORadbinas gen sl age 4 sai keel ir Vengrijos sostą pavyko iškovoti > Čekijos karaliui Vladislovui Jogailaičiui.
+Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą. Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus. 1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.
 
 ## Teiginiai
 
 <a id="claim-t-40515"></a>
 - t-001
   global_id: t-40515
-  teiginys: 'Čekijos karaliui Vladislovui Jogailaičiui pavyko iškovoti Vengrijos sostą.'
+  teiginys: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   pagrindžia:
     - c-002
 
@@ -103,6 +103,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-002
 
 - c-002
+  santrauka: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     D.
@@ -159,7 +160,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-003
 
 - c-004
-  santrauka: 'Čekijos karaliui Vladislovui Jogailaičiui pavyko iškovoti Vengrijos sostą.'
+  santrauka: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     —
@@ -309,7 +310,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]

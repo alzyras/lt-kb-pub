@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m.. Dusburgietis teigia, kad jai tarus šiuos žodžius, regėjimas dingo.
+Jai tarus šiuos žodžius, regėjimas dingo. 1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių.
 
 ## Laikotarpis ir datos
 
@@ -46,21 +46,21 @@ Nenurodyta
 <a id="claim-t-91907"></a>
 - t-001
   global_id: t-91907
-  teiginys: 'Dusburgietis teigia, kad jai tarus šiuos žodžius, regėjimas dingo.'
+  teiginys: 'Jai tarus šiuos žodžius, regėjimas dingo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-91908"></a>
 - t-002
   global_id: t-91908
-  teiginys: '1234 m. magistras Hermanas, išvijus prūsus iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo.'
+  teiginys: '1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1234 m. magistras Hermanas, išvijus prūsus iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo.'
+  santrauka: '1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
@@ -94,6 +94,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Jai tarus šiuos žodžius, regėjimas dingo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šioje pilyje

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta – valdymo sistema tvarkyta pagal Sovietų Sąjungos modelį: rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba, kitą dieną formaliai aukščiausiąja. Sugrąžindamas Lietuvoje sovietų valdžią J. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.
+Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą. 1989 m. gegužės 18 d. LPS reikalavimu priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu. 1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.
 
 ## Teiginiai
 
@@ -24,14 +24,14 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   global_id: t-65775
   teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-65776"></a>
 - t-002
   global_id: t-65776
-  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
+  teiginys: '1989 m. gegužės 18 d. LPS reikalavimu priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-65777"></a>
 - t-003
@@ -40,22 +40,15 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-65778"></a>
-- t-004
-  global_id: t-65778
-  teiginys: 'Nuo 1988 m. rudens visi svarbiausi Aukščiausiosios Tarybos svarstomų įstatymų projektai buvo aptariami LPS seime ir jo taryboje, teiktos kritinės pastabos ir siūlymai.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-65779"></a>
-- t-005
+- t-004
   global_id: t-65779
-  teiginys: 'Spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
+  teiginys: '1988 m. spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-65780"></a>
-- t-006
+- t-005
   global_id: t-65780
   teiginys: 'Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m.'
   pagrindžia:
@@ -103,10 +96,10 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-003
-  santrauka: 'Spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
+  santrauka: '1988 m. spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per keletą mėnesių LPS pa-
@@ -122,27 +115,10 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir
-    lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
-    politinės partijos. Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
-    kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,
-    kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-
-    ją, prieš tai surinkta 1,8 mln. parašų. Nuo 1988 m. rudens visi svarbiausi
-    Aukščiausiosios Tarybos svarstomų įstatymų projektai buvo aptariami
-    LPS seime ir jo taryboje, teiktos kritinės pastabos ir siūlymai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
+- c-004
+  santrauka: '1989 m. gegužės 18 d. LPS reikalavimu priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
@@ -160,7 +136,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-

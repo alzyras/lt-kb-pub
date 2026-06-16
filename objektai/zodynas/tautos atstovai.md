@@ -21,39 +21,20 @@ amziai:
 
 ## Santrauka
 
-Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai. Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.
+1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai. 1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.
 
 ## Teiginiai
 
-<a id="claim-t-70356"></a>
-- t-001
-  global_id: t-70356
-  teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-70357"></a>
-- t-002
+- t-001
   global_id: t-70357
   teiginys: '1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    neįvardyta. Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
-    vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
-    kami trejiems metams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -71,8 +52,8 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -84,5 +65,3 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 - [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)]]
-- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka]]

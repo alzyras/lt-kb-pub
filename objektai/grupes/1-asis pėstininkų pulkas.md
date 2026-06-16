@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin. Tuo tarpu 1-asis pėstininkų pulkas puolimą pradėjo naktį iš 23 į 24 d. palei Zarasų plentą ir siekė pralaužti atsparumu pagarsėjusią „Bružų poziciją“, tačiau lietuviai patyrė nemažų nuostolių ir puolimas nepavyko.
+1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai. Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija. 1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 <a id="claim-t-78159"></a>
 - t-002
   global_id: t-78159
-  teiginys: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
+  teiginys: 'Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-
@@ -97,7 +98,6 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/K. Ladyga]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]

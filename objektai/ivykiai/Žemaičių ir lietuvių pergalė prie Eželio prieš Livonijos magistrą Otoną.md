@@ -59,6 +59,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Otonas]]

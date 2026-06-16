@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasiduoda ATR valdovui Vladislovui Vazai komplikuotis - tuo metu į pietines Rusijos žemes įsiveržė ir niokojo Krymo totoriai (paskatinti užpulti Rusiją ATR.
+Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
 
 ## Teiginiai
 
 <a id="claim-t-40355"></a>
 - t-001
   global_id: t-40355
-  teiginys: 'Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
+  teiginys: 'Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-

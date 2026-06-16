@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie. Dusburgietis teigia, kad 510 D.— duo territoria [...] Abendam et Pubetam, Jer.— Pobêtin unde Bêtin. Dusburgietis teigia, kad manoma, kad Abendos vardas galėjęs būti Betin, t.
+Abenda minima XIV a. vidurio Sembos vyskupo dokumentuose vakarinėje Semboje. Manoma, kad Abendos vardas galėjęs būti Betin, t. 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
 <a id="claim-t-58425"></a>
 - t-002
   global_id: t-58425
-  teiginys: 'Dusburgietis teigia, kad manoma, kad Abendos vardas galėjęs būti Betin, t.'
+  teiginys: 'Manoma, kad Abendos vardas galėjęs būti Betin, t.'
   pagrindžia:
     - c-003
 
@@ -79,6 +79,7 @@ Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties 
     - t-001
 
 - c-003
+  santrauka: 'Manoma, kad Abendos vardas galėjęs būti Betin, t.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.

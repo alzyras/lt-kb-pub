@@ -28,14 +28,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiamas Ordino įsikūrimas Kulmo žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie. Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.
+Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda. 1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą. Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės.
 
 ## Teiginiai
 
 <a id="claim-t-182832"></a>
 - t-001
   global_id: t-182832
-  teiginys: 'Dusburgietis teigia, kad prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.'
+  teiginys: 'Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.'
   pagrindžia:
     - c-001
 
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 <a id="claim-t-185043"></a>
 - t-007
   global_id: t-185043
-  teiginys: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją plėšti grobio.'
+  teiginys: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio.'
   pagrindžia:
     - c-007
 
@@ -98,6 +98,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kulmo (Kulmos?) žemė rašytiniuose šaltiniuose minima nuo 1222 m. Vardas įsitvirtino
@@ -197,7 +198,7 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
     - t-006
 
 - c-007
-  santrauka: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją plėšti grobio.'
+  santrauka: '1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat, nors visą Belzo

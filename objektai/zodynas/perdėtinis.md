@@ -49,5 +49,6 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]

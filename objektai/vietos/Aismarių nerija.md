@@ -12,27 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, Aistija (plg.
+Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“. Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
 
 ## Teiginiai
 
 <a id="claim-t-90276"></a>
 - t-001
   global_id: t-90276
-  teiginys: 'Dusburgietis teigia, kad aismarės (Vulfstano Estmere; vėliau Frische Haff, Vyslos įlanka) (žr.'
+  teiginys: 'Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-90277"></a>
-- t-002
-  global_id: t-90277
-  teiginys: 'Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, Aistija (plg.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aismarės (Vulfstano Estmere; vėliau Frische Haff, Vyslos įlanka) (žr. Gėlo vandens
@@ -49,6 +43,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
     - t-001
 
 - c-002
+  santrauka: 'Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Abenda (žr. Pabečiai)

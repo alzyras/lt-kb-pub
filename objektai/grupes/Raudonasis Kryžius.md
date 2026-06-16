@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas, atsakingas už žmonių evakuaciją iš Parlamento prieigų, medikamentai ir tvarsliava gauti privačia medikų iniciatyva, o vėliau - pagalba.
+Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.
 
 ## Teiginiai
 
 <a id="claim-t-41120"></a>
 - t-001
   global_id: t-41120
-  teiginys: 'Raudonojo Kryžiaus pastangomis M. Mažvydo bibliotekoje įkurtas punktas, atsakingas už pirmąją medicinos pagalbą ir evakuaciją iš Parlamento prieigų.'
+  teiginys: 'Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     deputatų pastangomis. Medicininę pagalbą
@@ -46,6 +47,7 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]

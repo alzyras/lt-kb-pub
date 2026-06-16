@@ -12,23 +12,22 @@ date_start: '1524'
 date_end: '1794'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+  - 'XVIII'
 tags:
   - bajorija
   - didikas
   - kunigaikštis
   - saltinis
-amziai:
-  - 'XVI'
-  - 'XVIII'
 ---
 # Lietuvos Metrika
 
 ## Santrauka
 
-Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė ekonominė sritis. Šios knygos įėjo į istoriją Lietuvos Metrikos vardu.
+Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių. 1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene. Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.
 
 ## Teiginiai
-
 <a id="claim-t-182798"></a>
 - t-001
   global_id: t-182798
@@ -46,7 +45,7 @@ amziai:
 <a id="claim-t-182801"></a>
 - t-003
   global_id: t-182801
-  teiginys: 'Chreptavičiaus ataskaita rodė, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė nemažai pajamų karaliaus iždui.'
+  teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   pagrindžia:
     - c-002
 
@@ -57,8 +56,7 @@ amziai:
   pagrindžia:
     - c-004
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -77,9 +75,8 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
-  santrauka: 'Chreptavičiaus ataskaita rodė, kad Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla teikė nemažai pajamų karaliaus iždui.'
+  santrauka: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus mo­
@@ -97,7 +94,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -121,7 +117,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

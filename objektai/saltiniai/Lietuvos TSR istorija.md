@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija. Dusburgietis teigia, kad lietuvos TSR istorija.—T.
+Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m. „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
 <a id="claim-t-60989"></a>
 - t-002
   global_id: t-60989
-  teiginys: 'Lietuvos TSR istorijoje neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.'
+  teiginys: '„Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
     - t-001
 
 - c-002
-  santrauka: 'Lietuvos TSR istorijoje neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.'
+  santrauka: '„Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,

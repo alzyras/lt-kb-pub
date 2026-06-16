@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.
+Po J. Stalino mirties atšilimo laikotarpiu buvo reabilituotas lietuvių literatūros klasikas Vincas Krėvė-Mickevičius. J. Stalino valdymo metais iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
 <a id="claim-t-19316"></a>
 - t-002
   global_id: t-19316
-  teiginys: 'Iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų žymių lietuvių rašytojų knygos.'
+  teiginys: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kultūros suvienodinimas

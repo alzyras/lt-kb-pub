@@ -10,14 +10,14 @@ date_start: '1756'
 date_end: '1861'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - mokslininkas
 amziai:
   - 'XVIII'
   - 'XIX'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - mokslininkas
 ---
 # Jonas Sniadeckis
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.
 
 ## Teiginiai
-
 <a id="claim-t-183544"></a>
 - t-001
   global_id: t-183544
@@ -35,7 +34,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

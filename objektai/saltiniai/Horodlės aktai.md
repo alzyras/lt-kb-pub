@@ -23,21 +23,21 @@ amziai:
 
 ## Santrauka
 
-71 Horodlės seime Lietuvai išduotas unijos aktas prieš trisdešimt metų buvo Kunigaikščių Radvilų Nesvyžiaus archyve,auten­ tiškas, kaip kad matyti iš MSS, kurį turiu prieš akis, pavad. Lustracya Archiwów zamku Nieświżskiego, wszystkich Regestrów od JP.
+1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.
 
 ## Teiginiai
 
 <a id="claim-t-88308"></a>
 - t-001
   global_id: t-88308
-  teiginys: 'Horodlės seime Lietuvai išduotas unijos aktas XVIII a. buvo Kunigaikščių Radvilų Nesvyžiaus archyve.'
+  teiginys: '1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Horodlės seime Lietuvai išduotas unijos aktas XVIII a. buvo Kunigaikščių Radvilų Nesvyžiaus archyve.'
+  santrauka: '1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     71

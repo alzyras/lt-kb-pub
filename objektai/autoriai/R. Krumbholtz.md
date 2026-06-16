@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Krumbholtz : KrSO, 121 sqq.
+R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.
 
 ## Teiginiai
 
 <a id="claim-t-100120"></a>
 - t-001
   global_id: t-100120
-  teiginys: 'Krumbholtz : KrSO, 121 sqq.'
+  teiginys: 'R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^7) **SRP, III, 224 p.**

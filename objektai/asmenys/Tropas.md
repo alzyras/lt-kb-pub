@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu Tropas, labai taurus ir karštai tikintis žmogus.
+Petras Dusburgietis Tropą mini kaip nužudytą labai taurų ir karštai tikintį vyrą.
 
 ## Teiginiai
 
 <a id="claim-t-60449"></a>
 - t-001
   global_id: t-60449
-  teiginys: 'Tropas buvo nužudytas ir apibūdintas kaip labai taurus bei karštai tikintis vyras.'
+  teiginys: 'Petras Dusburgietis Tropą mini kaip nužudytą labai taurų ir karštai tikintį vyrą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Tropas buvo nužudytas ir apibūdintas kaip labai taurus bei karštai tikintis vyras.'
+  santrauka: 'Petras Dusburgietis Tropą mini kaip nužudytą labai taurų ir karštai tikintį vyrą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taip pat buvęs jų nužudytas dar
@@ -45,3 +45,4 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
 ### Susiję objektai
 - [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]
+- [[objektai/autoriai/Petras Dusburgietis]]

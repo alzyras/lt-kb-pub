@@ -25,14 +25,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
+LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį. Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu. Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
 
 ## Teiginiai
 
 <a id="claim-t-79162"></a>
 - t-001
   global_id: t-79162
-  teiginys: 'LDK valdovas Aleksandras Stanislovą Kišką ir Mykolą Glinskį paskyrė vyriausiais kariuomenės vadais.'
+  teiginys: 'LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 <a id="claim-t-184831"></a>
 - t-003
   global_id: t-184831
-  teiginys: 'Kazimieras išsiuntė kariuomenės vadą Stanislovą Kišką į priekį sustabdyti priešų antpuolių turimomis jėgomis.'
+  teiginys: 'Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.'
   pagrindžia:
     - c-003
 
@@ -84,7 +84,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-002
 
 - c-002
-  santrauka: 'LDK valdovas Aleksandras Stanislovą Kišką ir Mykolą Glinskį paskyrė vyriausiais kariuomenės vadais.'
+  santrauka: 'LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą pačią
@@ -106,7 +106,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-001
 
 - c-003
-  santrauka: 'Kazimieras išsiuntė kariuomenės vadą Stanislovą Kišką į priekį sustabdyti priešų antpuolių turimomis jėgomis.'
+  santrauka: 'Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Netruko surengti tokį žy­
@@ -189,6 +189,11 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - [[objektai/asmenys/Kiška]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

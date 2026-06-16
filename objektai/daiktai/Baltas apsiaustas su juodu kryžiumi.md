@@ -38,7 +38,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-59679"></a>
 - t-001
   global_id: t-59679
@@ -47,7 +46,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,11 +87,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]

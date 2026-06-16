@@ -108,7 +108,6 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Boucicaut]]

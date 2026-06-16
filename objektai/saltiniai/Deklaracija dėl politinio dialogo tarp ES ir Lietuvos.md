@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-1992 m. Lietuva ir ES pasirašė Prekybos ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.
+1992 m. Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.
 
 ## Teiginiai
 
 <a id="claim-t-21036"></a>
 - t-001
   global_id: t-21036
-  teiginys: 'Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.'
+  teiginys: '1992 m. Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1992 m. Lietuva ir ES priėmė deklaraciją dėl politinio dialogo tarp ES ir Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ES) griežtai pasmerkė

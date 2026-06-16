@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.
+Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link Juodosios jūros srities stepių. Prieš Algirdo mirtį plati rytų Europos valstybė pietuose apėmė Podoliją, nusitęsusią link Juodosios jūros srities stepių.
 
 ## Teiginiai
 
 <a id="claim-t-28525"></a>
 - t-001
   global_id: t-28525
-  teiginys: 'Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
+  teiginys: 'Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link Juodosios jūros srities stepių.'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
+  santrauka: 'Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link Juodosios jūros srities stepių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo

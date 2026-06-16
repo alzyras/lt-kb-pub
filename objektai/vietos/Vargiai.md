@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
+Wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 
 ## Teiginiai
 
 <a id="claim-t-58744"></a>
 - t-001
   global_id: t-58744
-  teiginys: 'Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.'
+  teiginys: 'Wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vaplaukis (Woyploc, Woplaukin, dab. Wopławki)

@@ -28,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą. Vytenis pradėjo valdyti Lietuvą greičiausiai 1295 m., nes 1294 m. dar tebebuvo gyvas jo tėvas.
+1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais. Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais. Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
 
 ## Teiginiai
 
@@ -37,235 +37,179 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176814
   teiginys: '1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.'
   pagrindžia:
-    - c-008
+    - c-006
 
 <a id="claim-t-176816"></a>
 - t-002
   global_id: t-176816
   teiginys: 'Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.'
   pagrindžia:
-    - c-010
+    - c-007
 
 <a id="claim-t-176817"></a>
 - t-003
   global_id: t-176817
   teiginys: 'Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.'
   pagrindžia:
-    - c-007
+    - c-005
 
 <a id="claim-t-176818"></a>
 - t-004
   global_id: t-176818
   teiginys: 'Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-176819"></a>
-- t-005
-  global_id: t-176819
-  teiginys: '1298 m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Vytenį į talką.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-176821"></a>
-- t-006
-  global_id: t-176821
-  teiginys: 'Vytenis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
-  pagrindžia:
-    - c-017
+    - c-001
 
 <a id="claim-t-176822"></a>
-- t-007
+- t-005
   global_id: t-176822
   teiginys: 'Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.'
   pagrindžia:
-    - c-006
+    - c-004
 
 <a id="claim-t-176825"></a>
-- t-010
+- t-008
   global_id: t-176825
   teiginys: 'Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.'
   pagrindžia:
-    - c-020
+    - c-016
 
 <a id="claim-t-176828"></a>
-- t-013
+- t-011
   global_id: t-176828
   teiginys: 'Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   pagrindžia:
-    - c-019
+    - c-015
 
 <a id="claim-t-176830"></a>
-- t-015
+- t-013
   global_id: t-176830
   teiginys: 'Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
   pagrindžia:
-    - c-016
-
-<a id="claim-t-176831"></a>
-- t-016
-  global_id: t-176831
-  teiginys: 'Vytenis atgavo didžiąją dalį Palenkės ir prie Lietuvos prijungė Drohičiną bei Brastą.'
-  pagrindžia:
-    - c-009
+    - c-013
 
 <a id="claim-t-176833"></a>
-- t-018
+- t-015
   global_id: t-176833
   teiginys: 'Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.'
   pagrindžia:
-    - c-013
+    - c-010
 
 <a id="claim-t-176835"></a>
-- t-019
+- t-016
   global_id: t-176835
   teiginys: 'XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.'
   pagrindžia:
-    - c-005
+    - c-003
 
 <a id="claim-t-176836"></a>
-- t-020
+- t-017
   global_id: t-176836
   teiginys: 'Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.'
   pagrindžia:
-    - c-018
+    - c-014
 
 <a id="claim-t-176838"></a>
-- t-021
+- t-018
   global_id: t-176838
   teiginys: 'XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais.'
   pagrindžia:
-    - c-005
+    - c-003
 
 <a id="claim-t-176839"></a>
-- t-022
+- t-019
   global_id: t-176839
   teiginys: 'Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.'
   pagrindžia:
-    - c-012
+    - c-009
 
 <a id="claim-t-176840"></a>
-- t-023
+- t-020
   global_id: t-176840
   teiginys: 'Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją.'
   pagrindžia:
-    - c-004
+    - c-002
 
 <a id="claim-t-176841"></a>
-- t-024
+- t-021
   global_id: t-176841
-  teiginys: 'Gediminas buvo Vytenio įpėdinis ir Lietuvos bei Rusios valdovas.'
-  pagrindžia:
-    - c-014
-
-<a id="claim-t-176842"></a>
-- t-025
-  global_id: t-176842
-  teiginys: 'Vytenis pradėjo valdyti Lietuvą greičiausiai 1295 m., nes 1294 m. dar tebebuvo gyvas jo tėvas.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-176843"></a>
-- t-026
-  global_id: t-176843
-  teiginys: 'Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.'
-  pagrindžia:
-    - c-015
-
-<a id="claim-t-176846"></a>
-- t-028
-  global_id: t-176846
-  teiginys: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
+  teiginys: 'Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-176843"></a>
+- t-022
+  global_id: t-176843
+  teiginys: 'Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.'
+  pagrindžia:
+    - c-012
+
+<a id="claim-t-176846"></a>
+- t-024
+  global_id: t-176846
+  teiginys: 'Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.'
+  pagrindžia:
+    - c-008
+
 <a id="claim-t-184884"></a>
-- t-030
+- t-026
   global_id: t-184884
   teiginys: 'Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.'
   pagrindžia:
-    - c-021
+    - c-017
 
 <a id="claim-t-184885"></a>
-- t-031
+- t-027
   global_id: t-184885
   teiginys: 'Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
   pagrindžia:
-    - c-022
+    - c-018
 
 <a id="claim-t-184886"></a>
-- t-032
+- t-028
   global_id: t-184886
   teiginys: 'Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.'
   pagrindžia:
-    - c-023
+    - c-019
 
 <a id="claim-t-184888"></a>
-- t-033
+- t-029
   global_id: t-184888
   teiginys: 'Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį.'
   pagrindžia:
-    - c-024
+    - c-020
 
 <a id="claim-t-184889"></a>
-- t-034
+- t-030
   global_id: t-184889
   teiginys: 'Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.'
   pagrindžia:
-    - c-025
+    - c-021
 
 <a id="claim-t-184890"></a>
-- t-035
+- t-031
   global_id: t-184890
   teiginys: 'Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes.'
   pagrindžia:
-    - c-026
+    - c-022
 
 <a id="claim-t-184891"></a>
-- t-036
+- t-032
   global_id: t-184891
   teiginys: 'Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo.'
   pagrindžia:
-    - c-027
+    - c-023
 
 <a id="claim-t-184892"></a>
-- t-037
+- t-033
   global_id: t-184892
   teiginys: 'Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.'
   pagrindžia:
-    - c-028
+    - c-024
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytenis pradėjo valdyti Lietuvą greičiausiai 1295 m., nes
-    1294 m. dar tebebuvo gyvas jo tėvas. Dar prie gyvos tė-
-    vo galvos Vytenis garsėjo, kaip geras karo vadas. Jau tada jis su
-    lietuvių kariuomene nužygiuodavo į tolimas abiejų ordino šakų
-    ir į lenkų žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-025
-
-- c-002
-  santrauka: '1298 m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Vytenį į talką.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu,
-    pasikvietė Į talką Vytenį. Pirmasis žygis nusisekė: ordinas buvo
-    sumuštas. Bet tais pačiais metais antrą mūšį su ordinu pralaimėjo
-    sąjungininkai. Tačiau sudarytoji sąjunga nenutrūko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­
@@ -280,7 +224,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   pagrindžia:
     - t-004
 
-- c-004
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O Lietuvos metraštis visai neistoriškai Vytenį
@@ -293,9 +237,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-020
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
@@ -310,10 +254,10 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
-    - t-021
+    - t-016
+    - t-018
 
-- c-006
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
@@ -327,9 +271,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-007
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos
@@ -344,16 +288,16 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
-    - t-009
-    - t-029
-    - t-017
+    - t-023
+    - t-007
+    - t-025
+    - t-014
     - t-003
-    - t-011
-    - t-008
-    - t-012
+    - t-009
+    - t-006
+    - t-010
 
-- c-008
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     324 (317). Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
@@ -366,29 +310,10 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-012
     - t-001
 
-- c-009
-  santrauka: 'Vytenis atgavo didžiąją dalį Palenkės ir prie Lietuvos prijungė Drohičiną bei Brastą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Senasis
-    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
-    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
-    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip
-    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
-    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
-    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
-    ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
-    paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-010
+- c-007
   santrauka: 'Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -406,8 +331,8 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   pagrindžia:
     - t-002
 
-- c-011
-  santrauka: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
+- c-008
+  santrauka: 'Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
@@ -442,9 +367,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-024
 
-- c-012
+- c-009
   santrauka: 'Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -465,9 +390,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-019
 
-- c-013
+- c-010
   santrauka: 'Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -493,10 +418,10 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-015
 
-- c-014
-  santrauka: 'Gediminas buvo Vytenio įpėdinis ir Lietuvos bei Rusios valdovas.'
+- c-011
+  santrauka: 'Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wilno 1740 in 8vo, skyr. I. Esą
@@ -526,9 +451,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-021
 
-- c-015
+- c-012
   santrauka: 'Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -542,9 +467,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-022
 
-- c-016
+- c-013
   santrauka: 'Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -568,25 +493,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-013
 
-- c-017
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
-    kunigaikštijos ir tapęs vienuoliu. 1264 m. jis įsitraukė į politinį gyvenimą ir,
-    susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
-    Gediminaičių dinastijos iškilimas
-    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
-    čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
-    Vytenis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-018
+- c-014
   santrauka: 'Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -604,9 +513,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-017
 
-- c-019
+- c-015
   santrauka: 'Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -622,9 +531,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-011
 
-- c-020
+- c-016
   santrauka: 'Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -645,9 +554,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
-- c-021
+- c-017
   santrauka: 'Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -674,9 +583,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-026
 
-- c-022
+- c-018
   santrauka: 'Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -694,9 +603,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-027
 
-- c-023
+- c-019
   santrauka: 'Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -713,9 +622,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-028
 
-- c-024
+- c-020
   santrauka: 'Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -750,9 +659,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-029
 
-- c-025
+- c-021
   santrauka: 'Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -781,9 +690,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-030
 
-- c-026
+- c-022
   santrauka: 'Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -812,9 +721,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-031
 
-- c-027
+- c-023
   santrauka: 'Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -829,9 +738,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-032
 
-- c-028
+- c-024
   santrauka: 'Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -847,33 +756,31 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-037
+    - t-033
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Butvydas]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Jotvingai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/fogtas]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/prastuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vergai]]
@@ -882,7 +789,6 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/ivykiai/Bisenės ir Gardino gynimasis, o kryžiuočiams mėginant pulti lietuvių pilis (1311-1313 m.)]]
-- [[objektai/asmenys/Butigeidis]]
 - [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
@@ -890,7 +796,6 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - [[objektai/daiktai/Laivai]]
 - [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
 - [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
 - [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]
 - [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]
 - [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
@@ -902,14 +807,13 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]
 - [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
 - [[objektai/zodynas/ekspansija]]
-- [[objektai/posakiai/mano priešo priešas yra mano draugas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/popiežiaus legatas]]
-- [[objektai/zodynas/tautiška politika]]
 - [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
 - [[objektai/posakiai/„mano priešo priešas yra mano draugas“]]
 - [[objektai/autoriai/Karamzinas]]
+- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/ivykiai/Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)]]
 - [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]
 - [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]

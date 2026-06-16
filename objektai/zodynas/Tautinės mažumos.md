@@ -22,20 +22,21 @@ amziai:
 
 ## Santrauka
 
-Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad. Apskritai tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lietuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė valstybinės tarnybos.
+Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos.
 
 ## Teiginiai
 
 <a id="claim-t-169938"></a>
 - t-001
   global_id: t-169938
-  teiginys: 'Apskritai tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lietuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė valstybinės tarnybos.'
+  teiginys: 'Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935–1936 mokslo metais veikė apie 30 lenkiškų
@@ -58,9 +59,7 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Antanas Baranauskas]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]

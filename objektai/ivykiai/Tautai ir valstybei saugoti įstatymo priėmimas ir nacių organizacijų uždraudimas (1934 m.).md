@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius. Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.
+1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą. 1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas priimtas siekiant sutramdyti antivalstybinę veiklą. Lietuvos valdžios kratos parodė, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus ir kurstomosios literatūros.
 
 ## Laikotarpis ir datos
 
@@ -58,13 +58,14 @@ Nenurodyta
 <a id="claim-t-75293"></a>
 - t-003
   global_id: t-75293
-  teiginys: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
+  teiginys: 'Lietuvos valdžios kratos parodė, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus ir kurstomosios literatūros.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos valdžios kratos parodė, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus ir kurstomosios literatūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą. Lietuvos valdžia
@@ -104,5 +105,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Klaipėdos nacių organizacijų ginklai ir teismo įrodymai]]
 - [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]

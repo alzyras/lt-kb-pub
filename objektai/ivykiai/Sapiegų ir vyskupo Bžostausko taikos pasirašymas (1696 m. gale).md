@@ -9,11 +9,11 @@ date_start: '1696'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - ivykis
   - vyskupas
-amziai:
-  - 'XVII'
 ---
 # Sapiegų ir vyskupo Bžostausko taikos pasirašymas (1696 m. gale)
 
@@ -34,17 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01798"></a>
 - t-001
   global_id: t-01798
   teiginys: '1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O Lietuvoje jau buvo prasidėjusi atvira
@@ -54,8 +55,10 @@ Nenurodyta
     vyskupas tos pačios bylos reikalu tada buvo išvykęs į Romą).
     Pasirašytąja taika vyskupas turėjo atšaukti ekskomuniką, o het-
     monas — išvesti iš bažnytinių dvarų kariuomenę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

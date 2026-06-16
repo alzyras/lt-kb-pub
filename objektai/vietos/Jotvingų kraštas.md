@@ -17,39 +17,17 @@ tags:
 Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų krašte. Mindaugas jo gyvenamajai vietai buvo paskyręs pietines Lietuvos sritis (jotvingų žemėje).
 
 ## Teiginiai
-
-<a id="claim-t-74008"></a>
-- t-001
-  global_id: t-74008
-  teiginys: 'Mindaugas vyskupui Vitui gyvenamąją vietą paskyrė pietinėse Lietuvos srityse, jotvingų žemėje.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-74009"></a>
-- t-002
+- t-001
   global_id: t-74009
   teiginys: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Mindaugas vyskupui Vitui gyvenamąją vietą paskyrė pietinėse Lietuvos srityse, jotvingų žemėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maždaug kartu su Kristijonu čia vyskupu buvo įšventintas lenkų
-    domininkonas Vitas. Mindaugas jo gyvenamajai vietai buvo
-    paskyręs pietines Lietuvos sritis (jotvingų žemėje). Bet kadangi
-    Vito nerėmė jokia karinė pajėga, kaip kad Kristijoną, tai jis į savo
-    vyskupystę greičiausiai nebuvo nė atvykęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -58,8 +36,10 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
     to paties Boleslovo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

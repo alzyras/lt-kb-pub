@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu Drūzo (Elbingo) uostu.
+Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę. 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį. Kai pavergta Pagudė ir kitos prūsų žemės vėl bandė sukilti prieš kryžiuočius, Skomanto vadovaujama kariuomenė 1277 m. siaubė Ordino valdas.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   global_id: t-91223
   teiginys: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-91224"></a>
 - t-002
@@ -57,19 +57,19 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   global_id: t-91227
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-91228"></a>
 - t-006
   global_id: t-91228
   teiginys: 'Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-91229"></a>
 - t-007
   global_id: t-91229
-  teiginys: 'Pavergę pamedėnus, magistras ir broliai ryžosi pradėti karą prieš pagudėnus.'
+  teiginys: 'Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.'
   pagrindžia:
     - c-002
 
@@ -78,14 +78,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   global_id: t-91230
   teiginys: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-91231"></a>
-- t-009
-  global_id: t-91231
-  teiginys: 'Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu Drūzo (Elbingo) uostu.'
-  pagrindžia:
-    - c-004
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -142,25 +135,6 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     - t-003
 
 - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kryžiuočių ordinas su lenkų (Mozūrų,
-    Kujavijos, Krokuvos, Silezijos, Pamario)
-    kunigaikščių pagalba nukariavo baltų
-    tautos prūsų Pamedės žemę. Remiant
-    kryžininkams iš Vokietijos, 1237 m.
-    buvo užgrobta Pagudė su svarbiu Drūzo
-    (Elbingo) uostu. Toliau veržiamasi į Var-
-    miją, 1238-1240 m. atkakliausia kova vyko
-    Ordinui siekiant užgrobti Balgos pilį prie
-    Aismarių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-005
   santrauka: 'Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -178,7 +152,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-006
 
-- c-006
+- c-005
   santrauka: 'Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -192,7 +166,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-008
 
-- c-007
+- c-006
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -214,7 +188,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   pagrindžia:
     - t-005
 
-- c-008
+- c-007
   santrauka: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

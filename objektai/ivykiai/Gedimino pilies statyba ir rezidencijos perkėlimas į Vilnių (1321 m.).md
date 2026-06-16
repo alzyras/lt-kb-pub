@@ -125,5 +125,6 @@ Nenurodyta
 - [[objektai/grupes/Lotynai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]

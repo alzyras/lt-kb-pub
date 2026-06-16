@@ -72,4 +72,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Duona]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

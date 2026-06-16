@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo katalikybę ir barokinės architektūros bei dailės šviesą iki pat Meksikos, Paragvajaus.
+XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
 
 ## Teiginiai
 
 <a id="claim-t-21596"></a>
 - t-001
   global_id: t-21596
-  teiginys: 'XVI–XVII a. Madridas tebespinduliavo katalikybę ir barokinės architektūros bei dailės įtaką iki Meksikos ir Paragvajaus.'
+  teiginys: 'XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-

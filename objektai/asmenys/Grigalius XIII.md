@@ -9,13 +9,13 @@ date_start: '1578'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - popiežius
 amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - popiežius
 ---
 # Grigalius XIII
 
@@ -24,7 +24,6 @@ periodo_grupes:
 Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 79 Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII. 1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.
 
 ## Teiginiai
-
 <a id="claim-t-82382"></a>
 - t-001
   global_id: t-82382
@@ -33,7 +32,6 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

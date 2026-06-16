@@ -118,5 +118,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/grupes/Latviai]]
+- [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/baskakas]]
 - [[objektai/grupes/Žemaičiai]]

@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-1236 m. kalavijuočių ir jų talkininkų žygis į šiaurinę Lietuvą baigėsi Saulės mūšiu prie Šiaulių srities. Lietuvių, Ivinskio interpretacijoje Vykinto vadovaujamų žemaičių būrių, pergalė smarkiai susilpnino kalavijuočius ir paskatino jų susijungimą su kryžiuočiais.
+1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti. Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių. Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
 
 ## Laikotarpis ir datos
 
@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-10287"></a>
 - t-001
   global_id: t-10287
-  teiginys: '1236 m. rugsėjį į Lietuvą įžengė didžiulės Kalavijuočių ordino ir Europos kryžininkų pajėgos.'
+  teiginys: '1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti.'
   pagrindžia:
     - c-001
 
@@ -72,49 +72,43 @@ Nenurodyta
 <a id="claim-t-10290"></a>
 - t-004
   global_id: t-10290
-  teiginys: '1236 m. pergalė Šiaulių žemėje buvo laikoma itin reikšminga Lietuvos ir viso regiono raidai.'
+  teiginys: '1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-66877"></a>
-- t-005
-  global_id: t-66877
-  teiginys: 'Saulės mūšis įvyko ties Šiauliais ir jį laimėjo lietuviai.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-66879"></a>
-- t-006
+- t-005
   global_id: t-66879
   teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
   pagrindžia:
+    - c-006
     - c-007
-    - c-008
 
 <a id="claim-t-66880"></a>
-- t-007
+- t-006
   global_id: t-66880
-  teiginys: '1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
+  teiginys: 'Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-66881"></a>
-- t-008
+- t-007
   global_id: t-66881
   teiginys: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-66882"></a>
-- t-009
+- t-008
   global_id: t-66882
   teiginys: '1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1236 m. rugsėjį į Lietuvą įžengusios
@@ -162,6 +156,7 @@ Nenurodyta
     - t-003
 
 - c-004
+  santrauka: '1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ties Šiauliais suduotas smūgis ne tik
@@ -184,20 +179,7 @@ Nenurodyta
     - t-004
 
 - c-005
-  santrauka: 'Saulės mūšis įvyko ties Šiauliais ir jį laimėjo lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ties Šiauliais įvyko didelis mūšis, kurį
-    laimėjo lietuviai. Kalavijuočių žuvo visa vadovybė su pačiu
-    magistru ir daugybė svečių. Iš visos jų kariuomenės, kaip rašo
-    kronikos, grįžę namo vos kas dešimtas karys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
+  santrauka: 'Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiaus karas buvo paskelbtas, ir į Livoniją atvyko daugy-
@@ -209,9 +191,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sandomierius 213, 217, 269, 286
@@ -238,9 +220,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
@@ -254,10 +236,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-009
+    - t-005
+    - t-008
 
-- c-009
+- c-008
   santrauka: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -270,13 +252,13 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vykintas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mauricijus]]
 - [[objektai/daiktai/Namas]]

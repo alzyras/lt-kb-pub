@@ -101,3 +101,4 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Kalavijas]]

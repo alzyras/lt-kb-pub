@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­ nant paties Kotlogo. Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis buvo prie Vorsklos pralaimėtas.
+Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene. Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene. Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais.
 
 ## Teiginiai
 
@@ -48,7 +48,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 <a id="claim-t-178745"></a>
 - t-003
   global_id: t-178745
-  teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
+  teiginys: 'Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais.'
   pagrindžia:
     - c-005
 
@@ -172,6 +172,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - t-004
 
 - c-005
+  santrauka: 'Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis ir Koje-

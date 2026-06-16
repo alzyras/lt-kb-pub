@@ -73,6 +73,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/baltų sąjunga]]

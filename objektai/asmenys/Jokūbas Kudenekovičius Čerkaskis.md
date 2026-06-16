@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais. Čerkaskis dalyvavo užimant Gardiną, Vilnių, kur sumušė J.
+Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe. Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas. Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 <a id="claim-t-40212"></a>
 - t-002
   global_id: t-40212
-  teiginys: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių, kur sumušė J. Radvilos ir V. Gosievskio pajėgas.'
+  teiginys: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. Čerkaskis dalyvavo užimant

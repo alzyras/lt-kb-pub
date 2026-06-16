@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad. Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.
+1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios. Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu. Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.
 
 ## Teiginiai
 
 <a id="claim-t-77965"></a>
 - t-001
   global_id: t-77965
-  teiginys: 'Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią šalies politinę jėgą – krikščionis demokratus.'
+  teiginys: '1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.'
   pagrindžia:
     - c-006
 
@@ -40,14 +40,14 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77966
   teiginys: 'Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-77967"></a>
 - t-003
   global_id: t-77967
-  teiginys: 'Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
+  teiginys: 'Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-77968"></a>
 - t-004
@@ -68,7 +68,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77970
   teiginys: '1928 m. gegužės 15 d. A. Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino autoritarinį valdymą.'
   pagrindžia:
-    - c-017
+    - c-016
 
 <a id="claim-t-77971"></a>
 - t-007
@@ -82,7 +82,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77972
   teiginys: 'A. Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva.'
   pagrindžia:
-    - c-019
+    - c-018
 
 <a id="claim-t-77973"></a>
 - t-009
@@ -103,35 +103,35 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77975
   teiginys: 'Nuo 1930 m. per Tautos šventę valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai.'
   pagrindžia:
-    - c-021
+    - c-020
 
 <a id="claim-t-77976"></a>
 - t-012
   global_id: t-77976
-  teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
+  teiginys: 'A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.'
   pagrindžia:
-    - c-015
+    - c-014
 
 <a id="claim-t-77977"></a>
 - t-013
   global_id: t-77977
   teiginys: 'Smetona, kuris prisiekė laikytis šalies konstitucijos.'
   pagrindžia:
-    - c-016
+    - c-015
 
 <a id="claim-t-77978"></a>
 - t-014
   global_id: t-77978
   teiginys: 'A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.'
   pagrindžia:
-    - c-018
+    - c-017
 
 <a id="claim-t-77979"></a>
 - t-015
   global_id: t-77979
   teiginys: '1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-77980"></a>
 - t-016
@@ -145,35 +145,28 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77981
   teiginys: 'A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.'
   pagrindžia:
-    - c-014
-
-<a id="claim-t-77982"></a>
-- t-018
-  global_id: t-77982
-  teiginys: 'Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.'
-  pagrindžia:
-    - c-008
+    - c-013
 
 <a id="claim-t-77983"></a>
-- t-019
+- t-018
   global_id: t-77983
   teiginys: '1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-77984"></a>
-- t-020
+- t-019
   global_id: t-77984
   teiginys: '1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.'
   pagrindžia:
-    - c-020
+    - c-019
 
 <a id="claim-t-77985"></a>
-- t-021
+- t-020
   global_id: t-77985
   teiginys: '1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   pagrindžia:
-    - c-013
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -281,6 +274,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-016
 
 - c-006
+  santrauka: '1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsitokėjusi
@@ -317,24 +311,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - t-007
 
 - c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Architektas V. Landsbergis-Žemkalnis, 1938
-    A. Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir
-    dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.
-    Valstybės biudžeto lėšos leido sukurti profesionalią operą ir baletą, teatrą,
-    formuotis tautiniam kultūros elitui. 1938 m. lapkričio 1 d. įkurtas Antano
-    Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių
-    kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir
-    šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
-    techninius terminus, rinkti tautosakos, dainų lobius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-009
   santrauka: '1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -353,10 +329,10 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
-- c-010
-  santrauka: 'Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
+- c-009
+  santrauka: 'Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
@@ -371,7 +347,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-003
 
-- c-011
+- c-010
   santrauka: 'Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -391,7 +367,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-002
 
-- c-012
+- c-011
   santrauka: '1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -406,7 +382,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-015
 
-- c-013
+- c-012
   santrauka: '1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -420,9 +396,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
-- c-014
+- c-013
   santrauka: 'A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -446,7 +422,8 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-017
 
-- c-015
+- c-014
+  santrauka: 'A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daug žydų buvo laisvųjų profesijų
@@ -466,7 +443,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-012
 
-- c-016
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,
@@ -481,7 +458,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-013
 
-- c-017
+- c-016
   santrauka: '1928 m. gegužės 15 d. A. Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino autoritarinį valdymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -501,7 +478,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-006
 
-- c-018
+- c-017
   santrauka: 'A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -521,7 +498,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-014
 
-- c-019
+- c-018
   santrauka: 'A. Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -538,7 +515,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-008
 
-- c-020
+- c-019
   santrauka: '1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -557,9 +534,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
 
-- c-021
+- c-020
   santrauka: 'Nuo 1930 m. per Tautos šventę valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -583,7 +560,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/zodynas/Filosemitas]]
 - [[objektai/daiktai/Ginklai]]
@@ -593,7 +569,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Lituanistika]]
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
@@ -609,6 +584,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
 - [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
 - [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]
@@ -631,9 +607,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/zodynas/Lituanistika]]
 - [[objektai/zodynas/Lituanizuoti]]
 - [[objektai/daiktai/Lėktuvai]]
 - [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]
@@ -641,7 +617,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/asmenys/Mykolas Sleževičius]]
 - [[objektai/grupes/Oswiata]]
 - [[objektai/grupes/Pochodnia]]
-- [[objektai/grupes/Politinė „ašis“]]
 - [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
 - [[objektai/grupes/Raudonoji armija]]
@@ -649,7 +624,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
-- [[objektai/ivykiai/Saro krašto plebiscitas ir prijungimas prie Vokietijos|Saro krašto plebiscitas ir prijungimas prie Vokietijos (kraštas)]]
 - [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/daiktai/Sutikimo vartai]]
 - [[objektai/ivykiai/Tauragės pučas (1927 m. rugsėjo 8–9 d.)]]

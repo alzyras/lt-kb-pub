@@ -17,7 +17,6 @@ tags:
 Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurtu užgrobti nuotaką.
 
 ## Teiginiai
-
 <a id="claim-t-93744"></a>
 - t-001
   global_id: t-93744
@@ -54,7 +53,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -78,7 +76,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindžia:
     - t-005
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -93,7 +90,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindžia:
     - t-001
     - t-006
-
 - c-003
   santrauka: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -126,4 +122,5 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]

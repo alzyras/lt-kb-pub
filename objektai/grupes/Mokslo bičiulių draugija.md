@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 111 gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą.
+1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“. 1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“. Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.
 
 ## Teiginiai
 
@@ -31,13 +31,6 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 - t-001
   global_id: t-45131
   teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-45132"></a>
-- t-002
-  global_id: t-45132
-  teiginys: 'Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
   pagrindžia:
     - c-001
 

@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13). Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab. Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100).
+H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu. H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą. H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.
 
 ## Teiginiai
 
@@ -44,13 +44,14 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 <a id="claim-t-60556"></a>
 - t-003
   global_id: t-60556
-  teiginys: 'Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab.'
+  teiginys: 'H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.

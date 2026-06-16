@@ -16,30 +16,15 @@ tags:
 
 ## Santrauka
 
-Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto II valdymo pabaiga.
+Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį. Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti. Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.
 
 ## Teiginiai
-
-<a id="claim-t-78943"></a>
-- t-001
-  global_id: t-78943
-  teiginys: 'Augustas II su Petru I sudarė sutartį atimti iš Švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-78945"></a>
 - t-002
   global_id: t-78945
   teiginys: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-78946"></a>
-- t-003
-  global_id: t-78946
-  teiginys: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-78947"></a>
 - t-004
@@ -55,22 +40,32 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   pagrindžia:
     - c-001
 
-<a id="claim-t-78950"></a>
-- t-006
-  global_id: t-78950
-  teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-78953"></a>
 - t-007
   global_id: t-78953
   teiginys: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
+  pagrindžia:
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
+  pagrindžia:
+    - c-009
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.'
+  pagrindžia:
+    - c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -87,7 +82,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-002
   santrauka: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -109,44 +103,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karolis XII
-    staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
-    pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
-    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
-    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
-    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
-    (1706 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
-  santrauka: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau bajorija suprato,
-    kad jai tik tada pasiseks sunaikinti Sapiegas ir įvykdyti savo
-    siekimus, kai ją parems karalius ir kai seime laimės bylą. Tam
-    tikslui tuojau buvo nusiųsta pas karalių delegacija, kuri turėjo
-    prašyti paimti bajoriją į savo globą ir patvirtinti jos nutarimus.
-    Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net
-    buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos
-    Lietuvos vardu atsižadėjo savo teisių rink-
-    tis valdovus ir paskelbė jį absoliutiškai val-
-    dančiu didžiuoju Lietuvos kunigaikščiu su
-    paveldėjamąja teise.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-005
   santrauka: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -165,22 +121,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-006
-  santrauka: 'Augustas II su Petru I sudarė sutartį atimti iš Švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karo pradžia. Kai Augustas II su Petru I padarė sutartį
-    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
-    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
-    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
-    go kunigaikštį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-007
   santrauka: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -196,6 +136,62 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   statusas: verified
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau bajorija suprato,
+    kad jai tik tada pasiseks sunaikinti Sapiegas ir įvykdyti savo
+    siekimus, kai ją parems karalius ir kai seime laimės bylą. Tam
+    tikslui tuojau buvo nusiųsta pas karalių delegacija, kuri turėjo
+    prašyti paimti bajoriją į savo globą ir patvirtinti jos nutarimus.
+    Norėdami tuo reikalu laimėti, žymesnieji bajorijos vadai net
+    buvo pasirašę Augusto reikalaujamą raštą, kuriuo jie visos
+    Lietuvos vardu atsižadėjo savo teisių rink-
+    tis valdovus ir paskelbė jį absoliutiškai val-
+    dančiu didžiuoju Lietuvos kunigaikščiu su
+    paveldėjamąja teise.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Karo pradžia. Kai Augustas II su Petru I padarė sutartį
+    atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo
+    jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Augus-
+    tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
+    go kunigaikštį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: '1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Karolis XII
+    staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
+    pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
+    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
+    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
+    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
+    (1706 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -207,10 +203,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - [[objektai/asmenys/Karolis]]
 - [[objektai/asmenys/Linkas]]
 - [[objektai/grupes/Sapiegų giminė]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/posakiai/saksų laikų]]
-- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]

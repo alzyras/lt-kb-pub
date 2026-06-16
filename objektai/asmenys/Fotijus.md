@@ -140,7 +140,6 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]

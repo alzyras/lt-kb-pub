@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.
+Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
 
 ## Teiginiai
 
 <a id="claim-t-23528"></a>
 - t-001
   global_id: t-23528
-  teiginys: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų valstybinį darinį.'
+  teiginys: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų valstybinį darinį.'
+  santrauka: 'Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-

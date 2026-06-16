@@ -55,6 +55,7 @@ Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurio
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

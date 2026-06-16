@@ -16,14 +16,14 @@ amziai:
 
 ## Santrauka
 
-Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką. Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
+Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras. Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
 
 ## Teiginiai
 
 <a id="claim-t-186294"></a>
 - t-001
   global_id: t-186294
-  teiginys: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
+  teiginys: 'Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras.'
   pagrindžia:
     - c-001
 
@@ -37,7 +37,7 @@ Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Tautvilas, padedamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.'
+  santrauka: 'Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam kraštui, smarkiai sumušė riterių magistras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai

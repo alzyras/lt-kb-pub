@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Romo Kalantos atminimo paminklai ir simboliai minimi kaip užsienyje gyvenusių lietuvių bendruomenių susibūrimo vietose statyti atminimo objektai.
+Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose. Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-45539"></a>
 - t-002
   global_id: t-45539
-  teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
+  teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
+  santrauka: 'Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ši informacija neatitiko tikro-
@@ -90,7 +90,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Romas Kalanta]]
 - [[objektai/daiktai/Tautinės vėliavos]]

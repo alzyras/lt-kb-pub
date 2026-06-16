@@ -12,27 +12,29 @@ tags:
 
 ## Santrauka
 
-Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
+Dvarų milicija buvo didikų atsivesta samdyta kariuomenė. Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
 
 ## Teiginiai
-
 <a id="claim-t-02981"></a>
 - t-001
   global_id: t-02981
   teiginys: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182942"></a>
 - t-002
   global_id: t-182942
-  teiginys: 'Sapiegų priešininkai atsivedė samdytos kariuomenės - savo dvarų milicijos.'
+  teiginys: 'Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia jau buvo sutraukta visa Sapiegų kariuomenė
@@ -40,14 +42,15 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
     Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
     samdytos kariuomenės — savo dvarų milicijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
-  santrauka: 'Sapiegų priešininkai atsivedė samdytos kariuomenės - savo dvarų milicijos.'
+  santrauka: 'Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau Sapiegų priešų jėgos
@@ -56,9 +59,11 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     samdytos kariuomenės — savo dvarų milicijos. Bajorija sudarė
     konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
     Sapiegos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

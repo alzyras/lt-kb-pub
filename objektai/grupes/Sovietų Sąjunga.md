@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. 1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.
+Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. 1944 m. vasarą sovietų kariuomenė išvadavo Lietuvą iš nacių Vokietijos ir tuo pat metu antrą kartą okupavo Lietuvą. 1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS.
 
 ## Teiginiai
 
@@ -74,13 +74,6 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   teiginys: '1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-183183"></a>
-- t-008
-  global_id: t-183183
-  teiginys: 'Vladimiras Dekanozovas diegė Maskvos sprendimus, o prasidėjusius įvykius nulėmė Lietuvoje dislokuota SSRS kariuomenė.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -198,34 +191,11 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     - t-005
     - t-002
 
-- c-007
-  santrauka: 'Vladimiras Dekanozovas diegė Maskvos sprendimus, o prasidėjusius įvykius nulėmė Lietuvoje dislokuota SSRS kariuomenė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Reali aukščiausioji valdžia atiteko ne šalyje li-
-    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
-    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
-    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
-    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
-    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
-    iš Maskvos. V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
-    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
-    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
-    daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/daiktai/Lėktuvai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]

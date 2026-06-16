@@ -13,21 +13,14 @@ tags:
 
 ## Santrauka
 
-Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.
+Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui. Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui.
 
 ## Teiginiai
 
 <a id="claim-t-40298"></a>
 - t-001
   global_id: t-40298
-  teiginys: 'Kunas fon Lichtenšteinas, didysis komtūras, kariuomenei išsirikiavus mūšio lauke vadovavo dešiniajam sparnui.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183750"></a>
-- t-002
-  global_id: t-183750
-  teiginys: 'Didysis komtūras Kunas fon Lichtenšteinas vadovavo dešiniajam sparnui kariuomenei išsirikiavus mūšio lauke.'
+  teiginys: 'Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui.'
   pagrindžia:
     - c-001
 

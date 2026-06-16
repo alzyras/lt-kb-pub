@@ -9,14 +9,14 @@ date_start: '1492'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karalius
-  - kraštas
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - karalius
+  - kraštas
 ---
 # Jonas Albrechtas
 
@@ -25,7 +25,6 @@ periodo_grupes:
 Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.
 
 ## Teiginiai
-
 <a id="claim-t-87714"></a>
 - t-001
   global_id: t-87714
@@ -34,7 +33,6 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -61,4 +59,3 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 ### Susiję objektai
 - [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Krimo orda]]

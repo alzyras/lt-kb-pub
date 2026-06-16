@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“). Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba. „Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.
+1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis. Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus. „Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.
 
 ## Laikotarpis ir datos
 
@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-54316"></a>
 - t-003
   global_id: t-54316
-  teiginys: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
+  teiginys: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   pagrindžia:
     - c-001
 
@@ -85,13 +85,14 @@ Nenurodyta
 <a id="claim-t-183327"></a>
 - t-006
   global_id: t-183327
-  teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  teiginys: '1883 m. Rytprūsiuose pradėta leisti „Aušra“ buvo pirmasis Didžiajai Lietuvai skirtas periodinis leidinys lietuvių kalba ir tradiciniu raidynu.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     V. Kudirka
@@ -170,7 +171,7 @@ Nenurodyta
     - t-002
 
 - c-005
-  santrauka: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
+  santrauka: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Varpas“ laikėsi liberalios demokratijos pozicijų,
@@ -200,7 +201,6 @@ Nenurodyta
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/spiritus movens]]
 - [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
 - [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]

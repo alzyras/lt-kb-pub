@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos literatūros: maldaknygių, katekizmų ar Šventojo Rašto. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
+Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje. Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros. LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
 
 ## Teiginiai
 
 <a id="claim-t-23534"></a>
 - t-001
   global_id: t-23534
-  teiginys: 'Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarams išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.'
+  teiginys: 'Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupei priklausė kun. Karolis Garuckas, fizi-
@@ -94,14 +95,13 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 - [[objektai/asmenys/Antanas Terleckas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Karolis]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/asmenys/Romaldas Juozas Ragaišis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Tomas Venclova]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
-- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
 - [[objektai/daiktai/Religinės relikvijos]]

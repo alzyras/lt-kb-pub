@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.
+Švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.
 
 ## Teiginiai
 
 <a id="claim-t-59046"></a>
 - t-001
   global_id: t-59046
-  teiginys: 'Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.'
+  teiginys: 'Švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švabija, švabai Švandenas Švarcburgas Švedija Šventainė, u.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brodnica)

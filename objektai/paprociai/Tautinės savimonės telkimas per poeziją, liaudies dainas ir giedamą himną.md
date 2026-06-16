@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.
+Lietuvių tautinę savimonę žadino Vinco Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza. Jurgis Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje. Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-75398"></a>
 - t-001
   global_id: t-75398
-  teiginys: 'Lietuvių tautinę savimonę žadino V. Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.'
+  teiginys: 'Lietuvių tautinę savimonę žadino Vinco Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.'
   pagrindžia:
     - c-002
 

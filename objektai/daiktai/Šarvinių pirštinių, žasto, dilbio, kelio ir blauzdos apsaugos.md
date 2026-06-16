@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene. Taip buvo delsiama, kol atvyko visoje Ordoje garsus kunigaikštis - emyras Žasto, dilbio, kelio ir blauzdos apsaugos.
+Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.
 
 ## Pavadinimai šaltiniuose
 
@@ -44,13 +44,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-40806"></a>
-- t-002
-  global_id: t-40806
-  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,45 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čia buvo ir
-    Tochtamišo totoriai (keli tūkstančiai), 400
-    pavienių lenkų riterių, tokių kaip Spytekas
-    iš Melštyno, Krokuvos vaivada ir Podolės
-    valdytojas bei kiti. Buvo valakai, kryžiuo-
-    čių dalinys (100 riterių), vadovaujamas
-    Ragainės komtūro Markvardo. Rugpjūčio
-    pradžioje kariuomenė, persikėlusi per
-    Dnieprą, jo kairiuoju krantu patraukė į
-
-    Šarvinių
-    pirštinių
-    rekonstrukcija
-
-    stepes, kur laukė prie
-    kairiojo Dniepro intako
-    Vorsklos, prie Ordos valdų pari-
-    bių, susitiko su Aukso ordos chano
-    Timūr-Kutluko kariuomene.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/asmenys/Tochtamišas]]
-- [[objektai/grupes/Tochtamišo totoriai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/asmenys/Markvardas Zalzbachas]]

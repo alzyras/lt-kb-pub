@@ -112,3 +112,4 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/ponai]]

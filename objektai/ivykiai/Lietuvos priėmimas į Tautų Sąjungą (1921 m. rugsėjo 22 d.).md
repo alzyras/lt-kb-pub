@@ -9,12 +9,12 @@ date_start: '1921'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - ivykis
   - tauta
   - valstybė
-amziai:
-  - 'XX'
 ---
 # Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)
 
@@ -35,17 +35,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01734"></a>
 - t-001
   global_id: t-01734
   teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visuotinis T. S-gos susirinkimas, be
@@ -66,9 +67,11 @@ Nenurodyta
     Lenkai ir Rumunai).
     Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
     mis teisėmis į pasaulio valstybių draugiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

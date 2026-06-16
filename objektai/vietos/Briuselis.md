@@ -11,11 +11,11 @@ date_start: '1921'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Briuselis
 
@@ -24,7 +24,6 @@ amziai:
 Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 
 ## Teiginiai
-
 <a id="claim-t-170309"></a>
 - t-001
   global_id: t-170309
@@ -33,7 +32,6 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

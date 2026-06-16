@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos valdžios.
+Saksonija buvo nuo Lenkijos netolima teritorija. Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus. Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.
 
 ## Teiginiai
 
@@ -33,50 +33,25 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   global_id: t-174024
   teiginys: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-174025"></a>
 - t-002
   global_id: t-174025
   teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-174026"></a>
-- t-003
-  global_id: t-174026
-  teiginys: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-174027"></a>
-- t-004
+- t-003
   global_id: t-174027
   teiginys: 'Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šiaurės karas
-
-    1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
-    apsiautė Rygą. Tačiau švedai sumušė Augusto II sa-
-    jungininkus, danų ir rusų kariuomenes ir, nubloškę
-    saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
-    riją. Augustui II priešiški Sapiegos parėmė švedus,
-    M atsinaujino Lietuvos didikų tarpusavio kova.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: 'Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -96,10 +71,10 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
     - t-002
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas irgi pasi-

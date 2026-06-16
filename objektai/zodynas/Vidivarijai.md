@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vidivarijai pateikiami kaip senovės geografų vartotas pasienio tautos ar mišraus tautų sambūrio pavadinimas. Pastaboje terminas aiškinamas per skirtį tarp giminės vardo ir bendruomenės vardo.
+Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams. Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.
 
 ## Žodis ir formos
 
@@ -37,7 +37,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 <a id="claim-t-54798"></a>
 - t-002
   global_id: t-54798
-  teiginys: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės, o ne vienos tautos giminės vardas.'
+  teiginys: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
     - t-001
 
 - c-002
-  santrauka: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės, o ne vienos tautos giminės vardas.'
+  santrauka: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kraštas, ku­

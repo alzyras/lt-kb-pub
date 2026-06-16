@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Maskvos kunigaikštis Vasilijus per tarpininką pareiškė karaliui norįs sudaryti taiką ir galįs atsiųsti įgaliotus legatus. Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.
+Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti. Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,7 +32,7 @@ Nenurodyta
 <a id="claim-t-185854"></a>
 - t-001
   global_id: t-185854
-  teiginys: 'Maskvos kunigaikštis Vasilijus per tarpininką pareiškė karaliui norįs sudaryti taiką ir galįs atsiųsti įgaliotus legatus.'
+  teiginys: 'Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Maskvos kunigaikštis Vasilijus per tarpininką pareiškė karaliui norįs sudaryti taiką ir galįs atsiųsti įgaliotus legatus.'
+  santrauka: 'Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Va­

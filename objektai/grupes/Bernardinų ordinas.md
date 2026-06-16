@@ -10,13 +10,13 @@ date_start: '1435'
 date_end: '1500'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - grupe
   - kunigas
   - mokslininkas
   - ordinas
-amziai:
-  - 'XV'
 ---
 # Bernardinų ordinas
 
@@ -25,7 +25,6 @@ amziai:
 Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.
 
 ## Teiginiai
-
 <a id="claim-t-181538"></a>
 - t-001
   global_id: t-181538
@@ -41,7 +40,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -59,7 +57,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

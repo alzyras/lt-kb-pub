@@ -20,20 +20,19 @@ date_start: '1073'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XI'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Semba
 
 ## Santrauka
 
-Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių marių ir Aistmarių, nuolat tapęs Ordino ir lietuvių karo veiksmų erdve. Dusburgiečio leidime ji apibrėžiama ir teritoriniu požiūriu, ir konkrečių žygių, pilių bei perkeltų gyventojų kontekste.
+Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos). 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį. Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.
 
 ## Teiginiai
-
 <a id="claim-t-182828"></a>
 - t-001
   global_id: t-182828
@@ -51,7 +50,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 <a id="claim-t-183808"></a>
 - t-003
   global_id: t-183808
-  teiginys: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjį - Dobrynės kunigaikštystę.'
+  teiginys: 'Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.'
   pagrindžia:
     - c-004
 
@@ -100,7 +99,7 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 <a id="claim-t-184203"></a>
 - t-010
   global_id: t-184203
-  teiginys: 'Tų pačių metų rudenį lietuvių karalius su 8000 raitelių įsibrovė į Sembos žemę ir sudegino pastatus bei pasėlius.'
+  teiginys: 'Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.'
   pagrindžia:
     - c-011
 
@@ -140,7 +139,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
     - c-015
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -152,7 +150,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-012
-
 - c-002
   santrauka: '1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,7 +172,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -211,9 +207,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
-  santrauka: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjį - Dobrynės kunigaikštystę.'
+  santrauka: 'Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kovo viduryje „lietuviai iš Žemaitijos
@@ -226,7 +221,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   santrauka: 'Lietuviai įsiveržė į Sembą ir niokojo priešo teritoriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -243,7 +237,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-006
   santrauka: 'Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -263,7 +256,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-007
   santrauka: '1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -283,7 +275,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-008
   santrauka: 'Sūduviai, pasitelkę lietuvius, užpuolė Sembos žemę ir dešimt dienų degino sodybas bei kitką už pilių ir įtvirtinimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -302,7 +293,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-009
   santrauka: 'Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -322,7 +312,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-010
   santrauka: 'Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -339,9 +328,8 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-011
-  santrauka: 'Tų pačių metų rudenį lietuvių karalius su 8000 raitelių įsibrovė į Sembos žemę ir sudegino pastatus bei pasėlius.'
+  santrauka: 'Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     237 (230). Apie Sembos žemės nusiaubimą
@@ -357,7 +345,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-010
-
 - c-012
   santrauka: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -371,7 +358,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-011
-
 - c-013
   santrauka: 'Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -394,7 +380,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-013
-
 - c-014
   santrauka: 'Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -415,7 +400,6 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-014
-
 - c-015
   santrauka: 'Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

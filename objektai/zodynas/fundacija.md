@@ -192,7 +192,6 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/asmenys/Ignotas Houvaitas]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Jurgis Astikas]]
 - [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/asmenys/Kasparas Bekešas]]

@@ -24,7 +24,6 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - raštai
 
 ## Teiginiai
-
 <a id="claim-t-45651"></a>
 - t-001
   global_id: t-45651
@@ -33,7 +32,6 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

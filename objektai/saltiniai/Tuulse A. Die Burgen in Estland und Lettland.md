@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgietis teigia, kad adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133). Dusburgietis teigia, kad tuulse A.
+A. Tuulse veikalas „Die Burgen in Estland und Lettland“ minimas kaip šaltinis apie Adažių pilį į šiaurės rytus nuo Rygos. Viljandžio (Tuulse A., Die Burgen..., p. 79).
 
 ## Teiginiai
 
@@ -33,13 +33,14 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
 <a id="claim-t-60966"></a>
 - t-002
   global_id: t-60966
-  teiginys: 'Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).'
+  teiginys: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis

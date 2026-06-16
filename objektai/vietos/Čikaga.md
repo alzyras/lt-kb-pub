@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV). Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o. Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.
+1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių. Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai. Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 <a id="claim-t-77710"></a>
 - t-002
   global_id: t-77710
-  teiginys: 'Rugsėjį lietuvių katalikų seimas Čikagoje pritarė Lietuvos autonomijai.'
+  teiginys: 'Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rugsėjį lietuvių katalikų seimas Čikagoje pritarė Lietuvos autonomijai.'
+  santrauka: 'Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-

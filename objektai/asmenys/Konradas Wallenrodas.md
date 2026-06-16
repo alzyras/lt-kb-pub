@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.
+Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
 
 ## Teiginiai
 
 <a id="claim-t-30334"></a>
 - t-001
   global_id: t-30334
-  teiginys: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.'
+  teiginys: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Naujasis ordino vyriausias magistras Konradas Wallenrodas,

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Tanenbergas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,27 +16,26 @@ tags:
 
 ## Santrauka
 
-Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.
+Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.
 
 ## Teiginiai
-
-<a id="claim-t-63398"></a>
+<a id="claim-t-186422"></a>
 - t-001
-  global_id: t-63398
-  teiginys: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos.'
+  global_id: t-186422
+  teiginys: 'Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ordino siena su Lietuva nusistojo tik po Tanenbergo mū-
-    šio ir Torno taikos (žiūr. 129 psl.). Tada jau išnyko ir nuola-
-    tiniai savitarpio puolimai; tiesa, po to dar buvo keletas karų,
-    bet jau kitokio pobūdžio: tai buvo paprasti dviejų valstybių
-    karai, o ne krašto teriojimas.
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
+    pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
+    Gilgenburgą, žygiavo Tannenbergo kryptimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

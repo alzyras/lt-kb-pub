@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtamyšą, tikėdamas jį panaudoti pačių totorių galybei sulaužyti, ir paskui, pasirėmus tais pačiais totoriais, atsisėsti Maskvos soste. Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).
+Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos. Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.
 
 ## Teiginiai
 
@@ -26,13 +26,14 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 <a id="claim-t-176271"></a>
 - t-002
   global_id: t-176271
-  teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir vėliau atsisėsti Maskvos soste.'
+  teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ir nenuostabu, kad jis

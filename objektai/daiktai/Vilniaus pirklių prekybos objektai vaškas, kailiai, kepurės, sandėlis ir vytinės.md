@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-19 Žaliaminės odos ir ypač vaškas tuo laiku buvo svarbiausios išvežamo­ sios prekės. Nauji svečių namai toje vietoje, kur iki šiol sto­ vi, buvo pastatyti miesto lėšomis, taip pat ir kailiadirbių na­ mai prie mūrinių krautuvių turguje, - juose ant sienų par­ davimui iškabintos kepurės ir kailiai teikė patogumą pirkliams ir pirkėjams, o. Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.
+Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės. Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius. Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-87005"></a>
 - t-001
   global_id: t-87005
-  teiginys: 'Žaliaminės odos ir ypač vaškas tuo metu buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
+  teiginys: 'Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
   pagrindžia:
     - c-003
 
@@ -163,7 +163,7 @@ Nenurodyta
     - t-003
 
 - c-003
-  santrauka: 'Žaliaminės odos ir ypač vaškas tuo metu buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
+  santrauka: 'Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     243,
@@ -188,7 +188,6 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/daiktai/Vaškas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]

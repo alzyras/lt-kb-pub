@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos architektas ir šios mokyklos stilistikos formuotojas, kūręs daugiakonfesiame Vilniuje.
+Jonas Kristupas Glaubicas įvardytas pagrindiniu Vilniaus baroko mokyklos architektu. Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK. Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 <a id="claim-t-23203"></a>
 - t-003
   global_id: t-23203
-  teiginys: 'J. K. Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.'
+  teiginys: 'Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.'
   pagrindžia:
     - c-003
 
@@ -149,7 +149,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Baroko epocha]]

@@ -38,3 +38,7 @@ Miulerio vadovaujama kolona įsiveržė į centrinę Aušros vartų gatvę.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Šautuvai]]

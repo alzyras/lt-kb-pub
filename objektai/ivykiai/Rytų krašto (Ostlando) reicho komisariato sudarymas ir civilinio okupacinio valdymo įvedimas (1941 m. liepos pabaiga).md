@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.
+1941 m. liepos 17 d. nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos buvo sudarytas Rytų krašto, arba Ostlando, reicho komisariatas. Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.
 
 ## Laikotarpis ir datos
 
@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-20471"></a>
 - t-001
   global_id: t-20471
-  teiginys: 'Liepos 17-osios nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos buvo sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
+  teiginys: '1941 m. liepos 17 d. nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos buvo sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1941 m. liepos 17 d. nutarimu iš Lietuvos, Latvijos, Estijos ir Gudijos buvo sudarytas Rytų krašto, arba Ostlando, reicho komisariatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ištremtųjų

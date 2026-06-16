@@ -15,11 +15,11 @@ date_start: '1316'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Narva
 
@@ -28,7 +28,6 @@ amziai:
 Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (Estijoje) visiškai sunaikino caro kariuomenę.
 
 ## Teiginiai
-
 <a id="claim-t-182871"></a>
 - t-001
   global_id: t-182871
@@ -36,22 +35,20 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   pagrindžia:
     - c-002
 
-<a id="claim-t-183055"></a>
-- t-002
-  global_id: t-183055
-  teiginys: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-183794"></a>
 - t-003
   global_id: t-183794
   teiginys: '1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.'
   pagrindžia:
     - c-001
+- t-004
+  teiginys: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -68,7 +65,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -87,7 +83,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -97,8 +92,10 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     valdė Daniją, o padaręs čia taiką, ties Narva (Estijoje) visiškai
     sunaikino caro kariuomenę. Po to jis atsigręžė į Augusto ka-
     riuomenę, apgulusią Rygą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.
+Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė. 1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
 <a id="claim-t-183388"></a>
 - t-002
   global_id: t-183388
-  teiginys: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
+  teiginys: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
     - t-001
 
 - c-002
-  santrauka: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
+  santrauka: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Toje teritorijoje gyveno lenkai,

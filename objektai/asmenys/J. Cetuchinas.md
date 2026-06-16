@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti, o vėliau tiesiog įsakydamas jiems pasiduoti.
+J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.
 
 ## Teiginiai
 
 <a id="claim-t-40154"></a>
 - t-001
   global_id: t-40154
-  teiginys: 'Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti, o vėliau tiesiog įsakydamas jiems pasiduoti.'
+  teiginys: 'J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     |

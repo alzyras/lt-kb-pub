@@ -64,6 +64,7 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

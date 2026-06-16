@@ -107,6 +107,8 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - [[objektai/zodynas/stabmeldžių apeigos]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/paprociai/Šermenų kėlimas rūmuose mirus valdovo žmonai]]
+- [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
 - [[objektai/zodynas/žygūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Arijonai]]

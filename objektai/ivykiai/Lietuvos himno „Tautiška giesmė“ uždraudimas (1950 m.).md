@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išniekino savanorių kapus, uždraudė tautines ir religines šventes.
+1950 m. sovietai uždraudė Lietuvos himną – Vinco Kudirkos „Tautišką giesmę“.
 
 ## Laikotarpis ir datos
 
@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-20298"></a>
 - t-001
   global_id: t-20298
-  teiginys: 'Lietuvos valstybingumą liudijusių paminklų vietose statytos sovietinio kario, V. Lenino ir J. Stalino statulos.'
+  teiginys: '1950 m. sovietai uždraudė Lietuvos himną – Vinco Kudirkos „Tautišką giesmę“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1950 m. sovietai uždraudė Lietuvos himną – Vinco Kudirkos „Tautišką giesmę“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-

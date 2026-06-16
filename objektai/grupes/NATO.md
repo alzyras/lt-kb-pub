@@ -95,7 +95,6 @@ amziai:
 - [[objektai/asmenys/Valdas Adamkus]]
 - [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
 - [[objektai/grupes/Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
 - [[objektai/asmenys/Šich Achmetas]]
 - [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

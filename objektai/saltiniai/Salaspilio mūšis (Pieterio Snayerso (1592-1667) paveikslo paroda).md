@@ -22,20 +22,21 @@ amziai:
 
 ## Santrauka
 
-100-107, „Salaspilio mūšis“ fragmentai, dail.
+„Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.
 
 ## Teiginiai
 
 <a id="claim-t-39909"></a>
 - t-001
   global_id: t-39909
-  teiginys: 'Salaspilio mūšis yra 2010 m. Vilniuje išleistas Pieterio Snayerso paveikslo parodos informacinis leidinys.'
+  teiginys: '„Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 100-107, „Salaspilio mūšis“ fragmentai, dail. Pieteris Snayers, xvi a. pradžia. Salaspilio

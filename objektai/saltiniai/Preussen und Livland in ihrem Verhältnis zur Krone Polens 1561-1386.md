@@ -21,20 +21,21 @@ amziai:
 
 ## Santrauka
 
-Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 (1953); H.
+K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.
 
 ## Teiginiai
 
 <a id="claim-t-31894"></a>
 - t-001
   global_id: t-31894
-  teiginys: 'K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ išleista 1953 m.'
+  teiginys: 'K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^162) **Pvz., K. D. Stammler :** **_Preussen und Livland in ihrem Verhältnis

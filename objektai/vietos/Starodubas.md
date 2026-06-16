@@ -4,6 +4,7 @@ pavadinimas: 'Starodubas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1379 m.'
@@ -22,35 +23,35 @@ amziai:
 
 ## Santrauka
 
-Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.
+1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską. Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską. Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.
 
 ## Teiginiai
 
-<a id="claim-t-69311"></a>
-- t-001
-  global_id: t-69311
-  teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-69312"></a>
-- t-002
+- t-001
   global_id: t-69312
   teiginys: '1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-185155"></a>
-- t-003
+- t-002
   global_id: t-185155
   teiginys: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-185156"></a>
-- t-004
+- t-003
   global_id: t-185156
   teiginys: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-187657"></a>
+- t-004
+  global_id: t-187657
+  teiginys: 'Didysis kunigaikštis Skirmantas, nugalėjęs totorių chaną prie Kaidanovo, Rusų žemėje paėmė Starodubą.'
   pagrindžia:
     - c-004
 
@@ -71,23 +72,9 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau amžinosios taikos
-    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -110,9 +97,9 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -133,6 +120,29 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
     didikų patartas, nesiryžo persekioti maskvėnų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Didysis kunigaikštis Skirmantas, nugalėjęs totorių chaną prie Kaidanovo, Rusų žemėje paėmė Starodubą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    50
+
+    ## Puslapis 48
+
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-004

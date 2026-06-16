@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146. Dusburgietis teigia, kad į vakarines prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III, 315), t. Dusburgietis teigia, kad apie Bisenės pilies puolimą 1313 metais 567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1, p. 280; Kirsmomel — SRP, 2, p. 478, plg. pr. kirsa ‘virš’ ir vok. Memel (Nemunas), XV a. šnekamoje kalboje pavirto Skirsnemune (1449 —.
+1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių. Kristmemelis panemunyje buvo pastatytas siekiant praplėsti krikščionių žemes. Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio.
 
 ## Teiginiai
 
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 <a id="claim-t-58316"></a>
 - t-004
   global_id: t-58316
-  teiginys: 'Dusburgietis teigia, kad po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
+  teiginys: 'Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
   pagrindžia:
     - c-001
 
@@ -66,6 +66,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Junigedos papilio sudeginimą 1315 m. spalio 12

@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir Šilutės. Kalmantavičiaus-Bajoro vadovaujama grupė be pasipriešinimo užima Pagėgius, o Jakšto-Kalvaičio vadovaujama III grupė Šilutę. [0] Sausio 14 d. iš Šilutės ir Pagėgių atvyksta II ir III grupių sukilėlių dalis, pagrindinių sukilėlių pajėgų sustiprinimui.
+Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius. Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių. Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.
 
 ## Teiginiai
 
 <a id="claim-t-41996"></a>
 - t-001
   global_id: t-41996
-  teiginys: 'M. Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
+  teiginys: 'Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-41997"></a>
 - t-002
   global_id: t-41997
-  teiginys: 'Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir Šilutės.'
+  teiginys: 'Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.'
   pagrindžia:
     - c-001
 
@@ -41,6 +41,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sukilėlių pajėgos
@@ -59,7 +60,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
     - t-002
 
 - c-002
-  santrauka: 'M. Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
+  santrauka: 'Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ UM. Kalmantavičiaus-Bajoro vadovaujama

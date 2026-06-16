@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Ši formulė įtvirtina Algirdo pergalę ir simbolinį karo ženklą prie Maskvos.
+Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną. Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos.
 
 ## Forma
 
@@ -34,7 +34,7 @@ tags:
 <a id="claim-t-09668"></a>
 - t-002
   global_id: t-09668
-  teiginys: 'Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“'
+  teiginys: 'Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ tags:
     - t-001
 
 - c-002
+  santrauka: 'Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0

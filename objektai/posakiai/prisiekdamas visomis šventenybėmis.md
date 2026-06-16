@@ -51,6 +51,5 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/graikų apeigos]]

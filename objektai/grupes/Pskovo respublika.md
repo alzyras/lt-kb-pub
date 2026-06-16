@@ -181,6 +181,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/proistorė]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]

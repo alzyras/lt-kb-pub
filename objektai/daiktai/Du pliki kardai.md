@@ -10,11 +10,11 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ginklas
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - ginklas
 ---
 # Du pliki kardai
 
@@ -43,7 +43,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-92955"></a>
 - t-001
   global_id: t-92955
@@ -80,7 +79,6 @@ Nenurodyta
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -93,7 +91,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -110,7 +107,6 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
 - c-003
   santrauka: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -136,6 +132,4 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

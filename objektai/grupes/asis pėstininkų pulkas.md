@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin. Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.
+Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai. 1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 <a id="claim-t-80635"></a>
 - t-002
   global_id: t-80635
-  teiginys: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
+  teiginys: '1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     - t-001
 
 - c-002
-  santrauka: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
+  santrauka: '1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-

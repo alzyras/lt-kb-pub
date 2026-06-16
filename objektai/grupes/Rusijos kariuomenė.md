@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Šį kartą valdžia sukilimo slopinimui pasirengė – Vilniaus karinėje apygardoje buvo sutelkta šimtatūkstantinė Rusijos armija, kuri per 1863 m. padidinta dar 1,5 karto – po Krymo karo caro valdžia nebuvo tikra, kad buvę jos priešininkai nesiims karo veiksmų.
+1863 m. sukilimui slopinti Vilniaus karinėje apygardoje buvo sutelkta šimtatūkstantinė Rusijos armija, vėliau padidinta dar 1,5 karto. 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija. 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama 1792 m. karą tarp LLV ir Rusijos.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 <a id="claim-t-66078"></a>
 - t-002
   global_id: t-66078
-  teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
+  teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija.'
   pagrindžia:
     - c-001
 

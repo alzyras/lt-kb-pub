@@ -130,7 +130,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/zodynas/seimas]]

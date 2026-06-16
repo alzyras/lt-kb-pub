@@ -62,7 +62,6 @@ Janas Filipovičius cituojamoje Lietuvos Metrikos archyvo sąrašo ištraukoje v
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/autoriai/Godzislavas Baško]]
 - [[objektai/asmenys/Janas Filipovičius]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo. III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką. Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
+1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo. 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu. III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.
 
 ## Teiginiai
 
@@ -26,22 +26,15 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   pagrindžia:
     - c-001
 
-<a id="claim-t-74134"></a>
-- t-002
-  global_id: t-74134
-  teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-74135"></a>
-- t-003
+- t-002
   global_id: t-74135
   teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74136"></a>
-- t-004
+- t-003
   global_id: t-74136
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   pagrindžia:
@@ -86,7 +79,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
   santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
@@ -106,18 +99,15 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.)]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]

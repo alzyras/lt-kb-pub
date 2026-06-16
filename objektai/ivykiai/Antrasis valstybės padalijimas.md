@@ -77,3 +77,4 @@ Nenurodyta
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/taurininkas]]

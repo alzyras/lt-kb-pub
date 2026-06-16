@@ -45,4 +45,4 @@ Eilinis Kurauskas atbėgo pas mane.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
+- [[objektai/daiktai/Šautuvai]]

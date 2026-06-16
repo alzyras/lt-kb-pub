@@ -66,7 +66,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baro konfederacija]]
+- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/autoriai/Karolis Zikaras]]

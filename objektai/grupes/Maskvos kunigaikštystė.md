@@ -9,26 +9,24 @@ saltiniai:
 datos:
   - '1349 m.'
   - '1425 m.'
-  - '1533 m.'
   - '2026 m.'
 date_start: '1349'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - grupe
 ---
 # Maskvos kunigaikštystė
 
 ## Santrauka
 
-Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
+Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais. Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius. 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 
 ## Teiginiai
-
 <a id="claim-t-92733"></a>
 - t-001
   global_id: t-92733
@@ -72,15 +70,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - c-005
 
-<a id="claim-t-182909"></a>
-- t-009
-  global_id: t-182909
-  teiginys: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
-  pagrindžia:
-    - c-009
-
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -99,7 +89,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -118,7 +107,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -135,7 +123,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -153,7 +140,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -172,7 +158,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-006
   santrauka: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -201,7 +186,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - t-003
     - t-007
-
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -218,7 +202,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - t-001
     - t-008
-
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -235,24 +218,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - t-001
 
-- c-009
-  santrauka: 'Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1533 m. mirė Vosylius III, Maskvos
-    kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
-    dar mažas, tai buvo sudaryta regencija. Su ja Maskvos kuni-
-    gaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikė-
-    josi pasinaudoti, — juo labiau, kad Zigmantas buvo pa-
-    traukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet
-    mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės
-    pavojus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
@@ -264,7 +229,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
 - [[objektai/asmenys/Vasilijus]]
-- [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/chanas]]
@@ -278,9 +242,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/asmenys/Vosylius]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Krimo totoriai]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
-- [[objektai/zodynas/regencija]]

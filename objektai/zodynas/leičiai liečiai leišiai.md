@@ -14,7 +14,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Etnoniminė forma siejama su lietuvių vardu, Lietuvos valdovų valstybės pakraščiuose įkurdintais žmonėmis ir specifinėmis karinėmis funkcijomis.
+Lietuvos valdovų į valstybės pakraščius įkurdinti ištikimi žmonės iš Lietuvos aplinkinių buvo vadinami leičiais, o gal ir liečiais. Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.
 
 ## Žodis ir formos
 
@@ -37,7 +37,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 <a id="claim-t-45829"></a>
 - t-001
   global_id: t-45829
-  teiginys: 'Lietuvos valdovų valstybės pakraščiuose įkurdinti ištikimi žmonės galėjo būti aplinkinių vadinami leičiais arba liečiais.'
+  teiginys: 'Lietuvos valdovų į valstybės pakraščius įkurdinti ištikimi žmonės iš Lietuvos aplinkinių buvo vadinami leičiais, o gal ir liečiais.'
   pagrindžia:
     - c-001
 

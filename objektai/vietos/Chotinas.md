@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. 1621 m. didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė savo paskutinę pergalę,mūšyje prie Chotino. Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.
+1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai. Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale. 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
 
 ## Teiginiai
 
@@ -58,7 +58,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-102185"></a>
 - t-006
   global_id: t-102185
-  teiginys: '1621 m. mūšyje prie Chotino didysis etmonas pasiekė paskutinę savo pergalę.'
+  teiginys: 'Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę.'
   pagrindžia:
     - c-005
 
@@ -177,6 +177,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-001
 
 - c-005
+  santrauka: 'Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1617-1618 m. daly-

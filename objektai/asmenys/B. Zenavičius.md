@@ -13,27 +13,28 @@ tags:
 
 ## Santrauka
 
-Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchovičiaus iš kairės. Zenavičius.
+B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus. Etmono svainis B. Zenavičius žuvo mūšyje su turkais.
 
 ## Teiginiai
 
 <a id="claim-t-40058"></a>
 - t-001
   global_id: t-40058
-  teiginys: 'B. Zenavičiaus vadovaujami LDK husarai iš dešinės atakavo puolančius turkus.'
+  teiginys: 'B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-40059"></a>
 - t-002
   global_id: t-40059
-  teiginys: 'Šiame mūšyje žuvo etmono svainis B. Zenavičius.'
+  teiginys: 'Etmono svainis B. Zenavičius žuvo mūšyje su turkais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     B. Zenavičiaus LDK husarai
@@ -47,7 +48,7 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
     - t-001
 
 - c-002
-  santrauka: 'Šiame mūšyje žuvo etmono svainis B. Zenavičius.'
+  santrauka: 'Etmono svainis B. Zenavičius žuvo mūšyje su turkais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sutelkę

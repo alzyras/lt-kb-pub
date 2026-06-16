@@ -47,4 +47,3 @@ Urbonas, O.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]

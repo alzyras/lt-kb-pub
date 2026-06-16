@@ -10,14 +10,14 @@ date_start: '1190'
 date_end: '1958'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XX'
 tags:
   - karas
   - ordinas
   - vieta
   - vyskupas
-amziai:
-  - 'XII'
-  - 'XX'
 ---
 # Palestina
 
@@ -26,16 +26,16 @@ amziai:
 Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimis reikią kariauti, todėl savanorių karių atsirasdavo nemaža. Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
 
 ## Teiginiai
-
 <a id="claim-t-183067"></a>
 - t-001
   global_id: t-183067
   teiginys: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -49,8 +49,10 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
     davo nemaža. Bet atvykstančių karių pagalba buvo laikinė, nes,
     pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
     reikėdavo ieškoti naujų karių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

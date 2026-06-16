@@ -10,13 +10,13 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Alenšteinas
 
@@ -25,7 +25,6 @@ amziai:
 Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
 
 ## Teiginiai
-
 <a id="claim-t-51349"></a>
 - t-001
   global_id: t-51349
@@ -41,7 +40,6 @@ amziai:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

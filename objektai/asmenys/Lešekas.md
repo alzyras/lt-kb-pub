@@ -96,6 +96,7 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

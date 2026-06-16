@@ -14,16 +14,15 @@ tags:
 
 ## Santrauka
 
-Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).
+Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę. Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės. 1566 m. Žemaitijai buvo paskirtas kaštelionas.
 
 ## Teiginiai
-
 <a id="claim-t-12548"></a>
 - t-001
   global_id: t-12548
   teiginys: 'Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-12549"></a>
 - t-002
@@ -32,22 +31,20 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   pagrindžia:
     - c-001
 
-<a id="claim-t-176244"></a>
-- t-003
-  global_id: t-176244
+- t-005
+  teiginys: '1566 m. Žemaitijai buvo paskirtas kaštelionas.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
   teiginys: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-176246"></a>
-- t-004
-  global_id: t-176246
-  teiginys: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
-  pagrindžia:
-    - c-003
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -60,37 +57,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  santrauka: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik Vilniaus ir Trakų
-    sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vieti-
-    ninkais, bet vaivadomis. Tai buvo lenkiškojo tipo urėdai,
-    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
-    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
-    tarsi padėjėjai buvo kaštelionai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia nuo Vytauto laikų buvo krašto
-    viršininkas, vadinamas seniūnu. Jis buvo lygus su vaiva-
-    domis. Vėliau Žemaitijai buvo paskirtas ir kaštelionas
-    (1566 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
   santrauka: 'Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -103,8 +70,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
+- c-004
   santrauka: 'Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -114,9 +80,26 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     tarsi padėjėjai buvo kaštelionai. (Bet tose dviejose di-
     džiulėse vaivadijose buvo taip pat ir vietininkų, valdančių di-
     džiojo kunigaikščio dvarus su mažesnėmis apylinkėmis).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-005
+  santrauka: '1566 m. Žemaitijai buvo paskirtas kaštelionas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Čia nuo Vytauto laikų buvo krašto
+    viršininkas, vadinamas seniūnu. Jis buvo lygus su vaiva-
+    domis. Vėliau Žemaitijai buvo paskirtas ir kaštelionas
+    (1566 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 
@@ -124,7 +107,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
@@ -148,7 +130,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/asmenys/Kasparas Vilkovskis]]
 - [[objektai/zodynas/Kašteliono valdžia]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas)]]

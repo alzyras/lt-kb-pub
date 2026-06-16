@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. 1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką. Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.
+1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį. 1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką. Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.
 
 ## Laikotarpis ir datos
 
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-66905"></a>
 - t-001
   global_id: t-66905
-  teiginys: '1940 m. vasarą Sovietų Sąjunga prievarta įvedė tariamai demokratinį valdymą ir per kelias savaites įjungė Baltijos valstybes į SSRS sudėtį.'
+  teiginys: '1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.'
   pagrindžia:
     - c-002
 
@@ -81,7 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: '1940 m. vasarą Sovietų Sąjunga prievarta įvedė tariamai demokratinį valdymą ir per kelias savaites įjungė Baltijos valstybes į SSRS sudėtį.'
+  santrauka: '1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mintis „Po
@@ -138,7 +138,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Lėktuvai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Sovietų Sąjunga]]

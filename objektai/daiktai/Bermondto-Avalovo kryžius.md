@@ -62,3 +62,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/Bermontininkai]]
+- [[objektai/daiktai/Kryžius]]

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzuitais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu. 1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.
+Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas. Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu. Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą.
 
 ## Laikotarpis ir datos
 
@@ -73,7 +73,7 @@ Nenurodyta
 <a id="claim-t-71778"></a>
 - t-005
   global_id: t-71778
-  teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  teiginys: 'Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-003
 
@@ -167,7 +167,6 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/zodynas/barokinė santvarka]]

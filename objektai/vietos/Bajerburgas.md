@@ -12,65 +12,56 @@ date_start: '1384'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ordinas
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - ordinas
+  - vieta
 ---
 # Bajerburgas
 
 ## Santrauka
 
-Čia buvo šios ordino pilys: Klaipėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajerburgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir kitos (žiūr.
+Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai. Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti. 1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą.
 
 ## Teiginiai
-
-<a id="claim-t-71842"></a>
-- t-001
-  global_id: t-71842
-  teiginys: 'Gedimino laikais kryžiuočiai, pasistatę Bajerburgo ir Marijenburgo pilis, pasislinko arčiau Lietuvos.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-71843"></a>
-- t-002
+- t-001
   global_id: t-71843
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-71844"></a>
-- t-003
+- t-002
   global_id: t-71844
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71845"></a>
-- t-004
+- t-003
   global_id: t-71845
   teiginys: '1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-71846"></a>
-- t-005
+- t-004
   global_id: t-71846
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71847"></a>
-- t-006
+- t-005
   global_id: t-71847
   teiginys: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Naująjį Bajerburgą bei dar vieną jam pavestą pilį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -86,9 +77,8 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-    - t-005
-
+    - t-002
+    - t-004
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -100,9 +90,8 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-004
-
+    - t-005
+    - t-003
 - c-003
   santrauka: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -114,23 +103,6 @@ amziai:
     nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
     susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
     dėlto atsiuntė savo brolį Kaributą pagalbon.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Gedimino laikais kryžiuočiai, pasistatę Bajerburgo ir Marijenburgo pilis, pasislinko arčiau Lietuvos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vakaruose siena su kry-
-    žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-
-    tenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Ba-
-    jerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.
-    Aukščiau Dubysos žiočių, Lietuvos valstybei priklausė jau abi
-    Nemuno pusės (dabartiniame Suvalkų krašte buvo didžiulė giria,
-    ir ten nebuvo pasistatę pilių nei kryžiuočiai nei lietuviai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

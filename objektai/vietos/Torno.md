@@ -11,12 +11,12 @@ date_start: '1411'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sutartis
-  - vieta
 amziai:
   - 'XV'
   - 'XXI'
+tags:
+  - sutartis
+  - vieta
 ---
 # Torno
 
@@ -25,7 +25,6 @@ amziai:
 Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr.
 
 ## Teiginiai
-
 <a id="claim-t-178211"></a>
 - t-001
   global_id: t-178211
@@ -55,7 +54,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -67,7 +65,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   pagrindžia:
     - t-004
     - t-003
-
 - c-002
   santrauka: 'Po Torno taikos Vytautas iš Jogailos gavo Podoliją ir pasiuntė jam 20 000 grašių kariuomenei apmokėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -84,7 +81,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -129,7 +129,6 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Malūnas]]

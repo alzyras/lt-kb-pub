@@ -80,6 +80,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/zodynas/fait accompli]]

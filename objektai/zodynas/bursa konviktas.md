@@ -58,6 +58,7 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Goreckis]]

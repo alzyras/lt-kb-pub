@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes ir atsitraukti į Šėtą. Nedidelės ir prastai ginkluotos lietuvių pajėgos, parodžiusios drąsą ir ištvermę, sugebėjo atlaikyti daug didesnių pajėgų puolimą ir neleido užgrobti bolševikų.
+Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.
 
 ## Teiginiai
 
 <a id="claim-t-42387"></a>
 - t-001
   global_id: t-42387
-  teiginys: 'Tos pačios dienos vakare bolševikai buvo priversti palikti Kėdainių apylinkes ir atsitraukti į Šėtą.'
+  teiginys: 'Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Miške į šiaurę nuo

@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į. Dusburgietis teigia, kad kronikoje Sudargas, kaip lietuvių karo vadas, figūruoja 1308—1317 m. įvykių aprašyme (III, 303, 311, 332).
+Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose. Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais. Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
 <a id="claim-t-184834"></a>
 - t-003
   global_id: t-184834
-  teiginys: 'Priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
+  teiginys: 'Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.'
   pagrindžia:
     - c-003
 
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
     - t-002
 
 - c-003
-  santrauka: 'Priešas paėmė į nelaisvę Sudargo žmoną, sūnus ir visus šeimynykščius.'
+  santrauka: 'Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kai Chris-

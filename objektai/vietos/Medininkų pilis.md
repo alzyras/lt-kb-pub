@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Medininkų pilis šiame šaltinyje minima kaip mūrais sustiprinta Vytauto laikais.
+Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę. Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais. Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-109758"></a>
 - t-001
   global_id: t-109758
-  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  teiginys: 'Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
   pagrindžia:
     - c-002
 
@@ -104,6 +104,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva tuo metu jau

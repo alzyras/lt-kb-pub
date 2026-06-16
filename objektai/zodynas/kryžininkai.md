@@ -146,5 +146,6 @@ amziai:
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/grupes/Žiemgaliai]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Europos kryžininkai]]
 - [[objektai/asmenys/Konradas Valenrodas]]

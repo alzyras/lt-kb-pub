@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai. Remiantis KGB duomenimis, liepos 15 d., vykdant operaciją Buktos (Žaliosios) miške bei Daukšių kaime, žuvo partizanai Juozas Pūkas ir Motiejus Overa. Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško — Palių pakraštį.
+Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai. Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.
 
 ## Teiginiai
 
@@ -30,13 +30,6 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   teiginys: 'Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-41634"></a>
-- t-003
-  global_id: t-41634
-  teiginys: 'Remiantis KGB duomenimis, liepos 15 d., vykdant operaciją Buktos (Žaliosios) miške bei Daukšių kaime, žuvo partizanai Juozas Pūkas ir Motiejus Overa.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -75,20 +68,3 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuomet žuvo partizanas
-    Jurgis Krušinskas, Juozas Remeikis-Lokys
-    vėliau mirė nuo sužeidimų. Remiantis
-    KGB duomenimis, liepos 15 d., vykdant
-    operaciją Buktos (Žaliosios) miške bei
-    Daukšių kaime, žuvo partizanai Juozas
-    Pūkas ir Motiejus Overa. Visų šių susirė-
-    mimų metu žuvo ir nemažai enkavėdistų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

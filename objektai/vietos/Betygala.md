@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš Vytauto funduotų Žemaitijos bažnyčių vietų.
+Vytautas Žemaitijoje pastatė bažnyčią Betygaloje. Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje. 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 
 ## Teiginiai
 
@@ -31,47 +31,40 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   global_id: t-179756
   teiginys: 'Vytautas Žemaitijoje pastatė bažnyčią Betygaloje.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-179757"></a>
-- t-002
-  global_id: t-179757
-  teiginys: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
-  pagrindžia:
-    - c-002
+    - c-004
 
 <a id="claim-t-179758"></a>
-- t-003
+- t-002
   global_id: t-179758
   teiginys: 'Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-179759"></a>
-- t-004
+- t-003
   global_id: t-179759
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-179760"></a>
-- t-005
+- t-004
   global_id: t-179760
   teiginys: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-179762"></a>
-- t-006
+- t-005
   global_id: t-179762
-  teiginys: '1945 m. vasario 15 d. prie Šilainių miško NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
+  teiginys: '1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1945 m. vasario 15 d. prie Šilainių miško NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
+  santrauka: '1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X ŠILAINIŲ PASALA
@@ -83,24 +76,9 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Saugumo sumetimais, ordino, o gal ir paties vys-
-    kupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė
-    Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Rasei-
-    nių, Ariogalos, Betygalos, Laukuvos ir kt. sričių.Tose srityse vys-
-    kupas jautėsi labai nesaugiai, todėl prašė ordiną globos; už tai jis
-    perleido ordinui kai kurias Mindaugo jam dovanotas žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -119,9 +97,9 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
@@ -135,10 +113,10 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-002
     - t-003
-    - t-004
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­

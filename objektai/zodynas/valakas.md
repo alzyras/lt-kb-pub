@@ -9,94 +9,31 @@ date_start: '1557'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - reforma
   - sąvoka
-amziai:
-  - 'XVI'
 ---
 # valakas
 
 ## Santrauka
 
-Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą. Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni. Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
+1557 m. paskelbtas įstatymas pertvarkė žemės ūkį ir įvedė valakų sistemą. Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos.
 
 ## Teiginiai
-
-<a id="claim-t-72774"></a>
+<a id="claim-t-72776"></a>
 - t-001
-  global_id: t-72774
-  teiginys: 'Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą.'
+  global_id: t-72776
+  teiginys: 'Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72775"></a>
-- t-002
-  global_id: t-72775
-  teiginys: 'Valakas kai kur buvo 30—33 margų, o kai kur siekė net 44 margus.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-72776"></a>
-- t-003
-  global_id: t-72776
-  teiginys: 'Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-72778"></a>
-- t-004
-  global_id: t-72778
-  teiginys: 'Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maža to, 1557 m. jis paskelbė
-    įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų
-    sistemą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi dvaro bernai — vergai, kurie anksčiau apdirbdavo
-    dvaro žemę, per brangiai atseidavo, tai jie iš dvarų buvo iškelti
-    ir apgyvendinti kaimuose. Valstiečiams duodamieji valakai ne-
-    buvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo
-    mažesni, o kur žemė būdavo prastesnė, — didesni. Valakas kai
-    kur buvo 30—33 margų, o kai kur siekė net 44 margus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Valakas kai
-    kur buvo 30—33 margų, o kai kur siekė net 44 margus.
-    Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
-    buvo imami mokesčiai, nuo jo buvo einamos ir pareigos. Pati
-    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
-    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
-    srityse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
+  santrauka: 'Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Valstiečiams duodamieji valakai ne-
@@ -105,11 +42,13 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     kur buvo 30—33 margų, o kai kur siekė net 44 margus.
     Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
     buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

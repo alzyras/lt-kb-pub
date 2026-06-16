@@ -5,11 +5,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1251 m.'
+  - '1485 m.'
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
@@ -26,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.
+1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką. Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus. Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.
 
 ## Teiginiai
 
@@ -42,7 +44,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121909
   teiginys: 'Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-121910"></a>
 - t-003
@@ -51,40 +53,47 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   pagrindžia:
     - c-002
 
-<a id="claim-t-121911"></a>
-- t-004
-  global_id: t-121911
-  teiginys: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-121913"></a>
-- t-006
+- t-005
   global_id: t-121913
   teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-183048"></a>
-- t-007
-  global_id: t-183048
-  teiginys: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
-  pagrindžia:
-    - c-006
+    - c-004
 
 <a id="claim-t-185036"></a>
-- t-008
+- t-006
   global_id: t-185036
-  teiginys: 'Lvovo arkivyskupui ir Vilniaus vyskupui buvo pavesta įsteigti Žemaičių vyskupystę.'
+  teiginys: 'Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.'
   pagrindžia:
-    - c-007
+    - c-005
 
 <a id="claim-t-185037"></a>
-- t-009
+- t-007
   global_id: t-185037
   teiginys: 'Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.'
   pagrindžia:
+    - c-006
+
+<a id="claim-t-187603"></a>
+- t-008
+  global_id: t-187603
+  teiginys: 'Moldavijos vaivada Steponas ir turkų sultono paša Malkočas nusiaubė Lenkijos žemę nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-187604"></a>
+- t-009
+  global_id: t-187604
+  teiginys: 'Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.'
+  pagrindžia:
     - c-008
+
+<a id="claim-t-187605"></a>
+- t-010
+  global_id: t-187605
+  teiginys: 'Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir buvo ten tarp spalio 11 ir 25 dienos.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -122,20 +131,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - t-003
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sovietų Rusija pripažino Lietuvos nepriklausomybę.
-    Buvo nustatyta Lietuvos siena.
-
-    1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
-    Lvovo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Poznanė dar anksčiau už Krokuvą - 1253 metais,
@@ -153,9 +148,9 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   statusas: verified
   pagrindžia:
     - t-002
-    - t-005
+    - t-004
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš ten buvo išva­
@@ -169,28 +164,10 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-006
-  santrauka: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
-    jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
-    šeimos net vedė žmoną.
-    Kartu su jo viešpatavimu Lenkijoje prasidėjo sunkus ka-
-    ras su Turkais, kuriems pasidavė ir kazokų hetmonas Doro-
-    šenko. Lenkams, netvarkingai kariaujantiems, karas labai ne-
-    sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
-    veržėsi į Lvovo apylinkes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-007
-  santrauka: 'Lvovo arkivyskupui ir Vilniaus vyskupui buvo pavesta įsteigti Žemaičių vyskupystę.'
+- c-005
+  santrauka: 'Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vy­
@@ -218,9 +195,9 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
-- c-008
+- c-006
   santrauka: 'Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -235,4 +212,51 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-007
+
+- c-007
+  santrauka: 'Moldavijos vaivada Steponas ir turkų sultono paša Malkočas nusiaubė Lenkijos žemę nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  santrauka: 'Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    17 Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro­
+    kuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o  su Mažo­
+    sios Lenkijos savanoriais ir algininkais. Su jais liepos 9 d. atvyko
+    j Lvovą, k u r buvo sušaukta Rusų vaivadijos ir Podolės bajorų ka­
+    riuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
     - t-009
+
+- c-009
+  santrauka: 'Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir buvo ten tarp spalio 11 ir 25 dienos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    34 Kazimieras grjžo | Lvovu 1485 m. spalio mėn. pradžioje ir
+    buvo ten tarp spalio II Ir 25 d., o  toliau Iki 1485 m. pabaigos
+    buvo Sandomire (XI.4— 13) Ir Petrakavo seime (XII. 1 —3)
+    35 Visos šios past ra i Įlo s chronologija netiksli.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010

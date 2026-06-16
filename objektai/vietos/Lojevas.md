@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Lojevas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link. Lojevo miestas, esantis kitoje (dešinėje) upės pusėje, buvo sudegintas, kad priešui nebūtų kur įsitvirtinti. Gosievskis sudegintame Lojevo mieste užėmė patogias pozicijas ir įsakė supilti pylimą, kad galėtų apšaudyti Podobailos stovyklą, esnačią kitame upės krante.
+Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link. V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti. Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
 
 ## Teiginiai
 
@@ -24,48 +25,32 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   global_id: t-41881
   teiginys: 'Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-41882"></a>
 - t-002
   global_id: t-41882
   teiginys: 'V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-41883"></a>
-- t-003
-  global_id: t-41883
-  teiginys: 'Lojevo miestas, esantis kitoje (dešinėje) upės pusėje, buvo sudegintas, kad priešui nebūtų kur įsitvirtinti.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-183793"></a>
-- t-004
+- t-003
   global_id: t-183793
   teiginys: 'Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-187599"></a>
+- t-004
+  global_id: t-187599
+  teiginys: 'Lojevas buvo BTSR miestas vakariniame Dnepro krante, ties Sožo ir Dnepro santaka, apie 160 km į šiaurę nuo Kijevo.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    S. Podobaila išsirinko vietą tarp
-    Dniepro ir Sožos žiočių, apsuptą nepra-
-    einamų pelkių, o tose vietose, kur buvo
-    įmanoma pereiti, išrausė griovius ir supylė
-    pylimus. Lojevo miestas, esantis kitoje
-    (dešinėje) upės pusėje, buvo sudegintas,
-    kad priešui nebūtų kur įsitvirtinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Su pėstininkais ir artilerija atplaukęs
@@ -82,7 +67,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -100,7 +85,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -113,6 +98,23 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     persikėlė į dešinįjį Dniepro krantą ir pa-
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Lojevas buvo BTSR miestas vakariniame Dnepro krante, ties Sožo ir Dnepro santaka, apie 160 km į šiaurę nuo Kijevo.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
+    jaus sūnus.
+    5 3  Lojevas — BTSR miestas (vakariniam e Dnepro krante, ties
+    Sožo ir Dnepro santaka, apie 160 km Į šiaurę no Kijevo).
+    “ Anastazija —  M stislavlio kunigaikščio Jono Jurgio sūnaus
+    Lengvenaičio duktė, Slucko kunigaikščio Simono Mykolaičio Olel-
+    kaičio (mir.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

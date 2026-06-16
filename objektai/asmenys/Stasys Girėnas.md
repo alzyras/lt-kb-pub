@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1933 m. liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu „Pienocentro“ pastatas Kaune (apie 1938). Girėno sumanytą skrydį. Transatlantiniai lakūnai Steponas Darius ir Stasys Girėnas.
+Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį. 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ periodo_grupes:
 <a id="claim-t-183571"></a>
 - t-003
   global_id: t-183571
-  teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
+  teiginys: 'Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus.'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ periodo_grupes:
     - t-002
 
 - c-003
-  santrauka: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
+  santrauka: 'Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo laiške
@@ -109,4 +109,5 @@ periodo_grupes:
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]
+- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]
 - [[objektai/ivykiai/Felikso Vaitkaus skrydis į Lietuvą (1935 m. gegužės 21-22 d.)]]

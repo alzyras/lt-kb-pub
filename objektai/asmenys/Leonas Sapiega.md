@@ -9,15 +9,15 @@ date_start: '1585'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - bajorija
   - miestas
   - valstybė
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 ---
 # Leonas Sapiega
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega.
 
 ## Teiginiai
-
 <a id="claim-t-173195"></a>
 - t-001
   global_id: t-173195
@@ -35,7 +34,6 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1585 m. Varšuvos seime išduotą privilegiją pasirašė Lietuvos Didžiosios Kunigaikštystės pakancleris Leonas Sapiega.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

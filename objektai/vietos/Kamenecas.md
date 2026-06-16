@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kamenecas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -16,7 +17,7 @@ tags:
 
 ## Santrauka
 
-Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai. Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.
+Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis. Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių. Kamenecas buvo atimtas iš priešo po aštuonių apsiausties dienų.
 
 ## Teiginiai
 
@@ -47,6 +48,13 @@ tags:
   teiginys: 'Vytautas už keturiasdešimt tūkstančių florinų atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą ir Červonogradą.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-187579"></a>
+- t-005
+  global_id: t-187579
+  teiginys: 'Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir Tarnovo.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -145,3 +153,21 @@ tags:
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir Tarnovo.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005

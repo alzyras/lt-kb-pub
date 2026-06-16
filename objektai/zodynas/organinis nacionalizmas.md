@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.
+Lenkų organinis nacionalizmas etniniams lietuviams numatė etninės kultūrinės mažumos statusą Lenkijos valstybėje arba autonominėje Lenkijoje. Lenkų tautinių demokratų lyderis Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina.
 
 ## Teiginiai
 
@@ -28,7 +28,7 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 <a id="claim-t-183449"></a>
 - t-002
   global_id: t-183449
-  teiginys: 'Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina kaip lenkų tautinių demokratų lyderis visų lenkų žemių mastu.'
+  teiginys: 'Lenkų tautinių demokratų lyderis Romanas Dmovskis vadovavosi lenkų organinio nacionalizmo doktrina.'
   pagrindžia:
     - c-001
 

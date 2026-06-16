@@ -9,52 +9,40 @@ date_start: '1309'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - ordinas
   - sąvoka
   - tauta
-amziai:
-  - 'XIV'
 ---
 # tautiška politika
 
 ## Santrauka
 
-Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe. Vytenis varė visiškai tokią pat tautišką politiką, kaip ir Traidenis.
+Vytenis, vykdydamas tautišką politiką ir kovodamas su Ordinu, rado sąjungininkų tarp krikščionių. A. Šapokos redaguotoje istorijoje Vytenio politika apibūdinama kaip tokia pat tautiška kaip Traidenio. Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.
 
 ## Teiginiai
-
 <a id="claim-t-72766"></a>
 - t-001
   global_id: t-72766
-  teiginys: 'Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.'
+  teiginys: 'Vytenis, vykdydamas tautišką politiką ir kovodamas su Ordinu, rado sąjungininkų tarp krikščionių.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72767"></a>
-- t-002
-  global_id: t-72767
-  teiginys: 'Vytenis varė visiškai tokią pat tautišką politiką, kaip ir Traidenis.'
-  pagrindžia:
-    - c-003
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-72768"></a>
-- t-003
+- t-002
   global_id: t-72768
   teiginys: 'Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-182979"></a>
-- t-004
-  global_id: t-182979
-  teiginys: 'Vytenis vykdė tokią pat tautišką politiką kaip Traidenis ir pirmiausia kariavo su vokiečiais.'
-  pagrindžia:
-    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vytenis, vykdydamas tautišką politiką ir kovodamas su Ordinu, rado sąjungininkų tarp krikščionių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug tokių žygių jis atliko ir vėliau; tačiau,
@@ -63,12 +51,13 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
     **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
     Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
     damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -79,44 +68,15 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
     Marijenburgas, —
     nuo 1309 m. kryžiuočių ordino magistro būstinė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia taip pat buvo vienintelis kelias ir ginklams atsigabenti iš
-    vakarų Europos.
-    **Vytenio valstybė.** Vytenis varė visiškai tokią pat tautišką
-    politiką, kaip ir Traidenis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
-- c-004
-  santrauka: 'Vytenis vykdė tokią pat tautišką politiką kaip Traidenis ir pirmiausia kariavo su vokiečiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Vytenio valstybė.** Vytenis varė visiškai tokią pat tautišką
-    politiką, kaip ir Traidenis. Jis visų pirma kariavo su vokiečiais,
-    tačiau net drauge su arkivyskupu ir Ryga nepajėgė jų sunaikinti;
-    jis tepajėgė tik apginti Žemaičius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Vokiečiai]]

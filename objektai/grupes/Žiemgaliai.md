@@ -15,22 +15,21 @@ date_start: '1220'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - grupe
   - mūšis
   - ordinas
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Žiemgaliai
 
 ## Santrauka
 
-Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės mūšio žiemgaliai buvo atsimetę nuo ordino ir prisidėję prie Lietuvos.
+Žiemgaliai vėl sukilo nepakęsdami griežtos kryžiuočių valdžios. Traidenis varžėsi su Livonijos ordinu dėl žiemgalių žemės, kurią buvo pasidaliję kryžiuočiai ir Rygos arkivyskupas. Žiemgala minima tarp atskiras kalbas turėjusių duoklinių tautų.
 
 ## Teiginiai
-
 <a id="claim-t-89339"></a>
 - t-001
   global_id: t-89339
@@ -83,7 +82,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 <a id="claim-t-89347"></a>
 - t-009
   global_id: t-89347
-  teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
+  teiginys: 'Kronikininkai mini, kad kuršiai ir žiemgaliai turėjo spindinčių metalo ginklų.'
   pagrindžia:
     - c-005
 
@@ -136,13 +135,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - c-009
 
-<a id="claim-t-89356"></a>
-- t-018
-  global_id: t-89356
-  teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas žiemgalius ir kuršius.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-89357"></a>
 - t-019
   global_id: t-89357
@@ -160,12 +152,13 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 <a id="claim-t-182934"></a>
 - t-021
   global_id: t-182934
-  teiginys: 'Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.'
+  teiginys: 'Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.'
   pagrindžia:
-    - c-013
+    - c-015
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -185,7 +178,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-013
     - t-016
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -204,7 +196,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-015
     - t-010
-
 - c-003
   santrauka: 'Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -221,7 +212,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-011
     - t-003
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -235,7 +225,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-012
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -249,7 +238,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-009
     - t-018
-
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -267,7 +255,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-019
     - t-005
-
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -284,7 +271,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-007
     - t-014
-
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -301,7 +287,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-008
     - t-002
-
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -317,7 +302,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   pagrindžia:
     - t-017
     - t-001
-
 - c-010
   santrauka: 'Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -331,7 +315,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-011
   santrauka: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -346,7 +329,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-012
   santrauka: '1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -361,21 +343,6 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-020
-
-- c-013
-  santrauka: 'Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet savo valstybės sienų jie čia toliau nepastūmėjo.
-    Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.
-    Po Durbės mūšio žiemgaliai buvo atsimetę nuo ordino ir prisidėję
-    prie Lietuvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-021
-
 - c-014
   santrauka: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -389,6 +356,21 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   statusas: verified
   pagrindžia:
     - t-022
+- c-015
+  santrauka: 'Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet savo valstybės sienų jie čia toliau nepastūmėjo.
+    Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą.
+    Po Durbės mūšio žiemgaliai buvo atsimetę nuo ordino ir prisidėję
+    prie Lietuvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -431,6 +413,5 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - [[objektai/zodynas/donacija]]
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/zodynas/duoklė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]

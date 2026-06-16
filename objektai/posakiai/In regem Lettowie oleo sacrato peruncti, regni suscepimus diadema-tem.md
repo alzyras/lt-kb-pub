@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-(^118) « In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem » (LUB I, 243).
+Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243.
 
 ## Teiginiai
 
 <a id="claim-t-99999"></a>
 - t-001
   global_id: t-99999
-  teiginys: '(^118) « In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem » (LUB I, 243).'
+  teiginys: 'Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „In regem Lettowie oleo sacrato peruncti, regni suscepimus diadematem“ cituojama iš LUB I, 243.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **_Mindaugas ir jo karūna_** **, Aidai, 1954, 55-59 (tas pat vokiškai Zeitschr. für

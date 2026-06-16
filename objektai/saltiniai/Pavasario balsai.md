@@ -21,20 +21,21 @@ amziai:
 
 ## Santrauka
 
-1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
+Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.
 
 ## Teiginiai
 
 <a id="claim-t-78134"></a>
 - t-001
   global_id: t-78134
-  teiginys: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.'
+  teiginys: 'Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo programoje ji buvo įrašiusi suverenios

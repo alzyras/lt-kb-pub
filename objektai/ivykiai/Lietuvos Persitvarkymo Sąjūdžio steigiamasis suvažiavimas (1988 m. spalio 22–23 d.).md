@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suvažiavimas, kuriame dalyvavo 1 021 delegatas. Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio 25 d. išrinktas muzikologas Vytautas Landsbergis.
+Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai. LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais. Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų.
 
 ## Laikotarpis ir datos
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-75190"></a>
 - t-003
   global_id: t-75190
-  teiginys: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
+  teiginys: 'Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų.'
   pagrindžia:
     - c-003
 
@@ -94,6 +94,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas

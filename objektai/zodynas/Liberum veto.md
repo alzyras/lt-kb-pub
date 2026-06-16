@@ -10,14 +10,18 @@ date_start: '1566'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - seimas
-  - sąvoka
 amziai:
   - 'XVI'
   - 'XXI'
+tags:
+  - seimas
+  - sąvoka
 ---
 # Liberum veto
+
+## Santrauka
+
+Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.
 
 ## Žodis ir formos
 
@@ -47,23 +51,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-168674"></a>
-- t-001
-  global_id: t-168674
+- t-005
   teiginys: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-168675"></a>
-- t-002
-  global_id: t-168675
-  teiginys: 'Kubala, Wojna Moskiewska (1910); — Wojna Szwecka (1913); — Pierwsze liberum veto (Szkice hist.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -76,41 +71,27 @@ Nenurodyta
 
 
     nieko nenuveikę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _Kubala,_ Wojna Moskiewska (1910); — Wojna Szwecka
-    (1913); — Pierwsze liberum veto (Szkice hist. II); _A, Šapoka,_ Sicinskis (Švie-
-    sos Keliai, 1931) ; _W.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jekaterina II]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]
-- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
-- [[objektai/paprociai/Aukso laisvės ideologija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

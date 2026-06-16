@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įsakė Kaune esančio 2-ojo pėstininkų pulko vadui karin.
+P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną. P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
 
 ## Teiginiai
 
 <a id="claim-t-39622"></a>
 - t-001
   global_id: t-39622
-  teiginys: 'P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltui per Nemuną.'
+  teiginys: 'P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vasario 3 d. Krašto

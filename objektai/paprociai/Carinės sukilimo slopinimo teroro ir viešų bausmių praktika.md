@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstantinas Kalinauskas), sukilimas ėmė blėsti.
+Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje. Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje. Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą.
 
 ## Laikotarpis ir datos
 
@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-75352"></a>
 - t-002
   global_id: t-75352
-  teiginys: 'Zigmantas Sierakauskas, paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu, Kauno gubernijoje mėgino telkti sukilėlių būrius į armiją.'
+  teiginys: 'Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje.'
   pagrindžia:
     - c-001
 
@@ -175,6 +175,5 @@ Nenurodyta
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/asmenys/Konstantinas Kalinauskas]]
-- [[objektai/zodynas/gubernija]]
 - [[objektai/asmenys/M. Muravjovas]]
 - [[objektai/asmenys/Michailas Muravjovas]]

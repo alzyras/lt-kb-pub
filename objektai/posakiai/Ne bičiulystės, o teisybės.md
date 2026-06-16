@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Ši formuluotė pateikiama kaip Zigmanto pasiteisinimas, kad sprendimas buvo daromas remiantis teisybe, o ne bičiulyste.
+Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.
 
 ## Forma
 
@@ -30,14 +30,14 @@ amziai:
 <a id="claim-t-05378"></a>
 - t-001
   global_id: t-05378
-  teiginys: 'Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
+  teiginys: 'Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
+  santrauka: 'Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas rašė, jog kol jis gyvas busiąs, o taip pat ir jo
@@ -60,3 +60,4 @@ amziai:
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/asmenys/imperatorius Zigmantas]]

@@ -110,7 +110,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
 - [[objektai/grupes/Rusai]]

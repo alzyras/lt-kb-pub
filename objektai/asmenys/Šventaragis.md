@@ -88,6 +88,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]
 - [[objektai/zodynas/amžinoji ugnis Gabija]]
 - [[objektai/zodynas/budeliai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]

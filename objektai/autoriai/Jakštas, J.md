@@ -16,7 +16,6 @@ tags:
 Jakštas, J.
 
 ## Teiginiai
-
 <a id="claim-t-71515"></a>
 - t-001
   global_id: t-71515
@@ -53,7 +52,6 @@ Jakštas, J.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -68,7 +66,6 @@ Jakštas, J.
   pagrindžia:
     - t-005
     - t-002
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -81,7 +78,6 @@ Jakštas, J.
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -99,7 +95,6 @@ Jakštas, J.
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

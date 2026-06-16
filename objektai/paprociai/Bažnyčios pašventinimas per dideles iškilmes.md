@@ -81,5 +81,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Stanislovas]]

@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.
+Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas.
 
 ## Teiginiai
 
 <a id="claim-t-42509"></a>
 - t-001
   global_id: t-42509
-  teiginys: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.'
+  teiginys: 'Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-

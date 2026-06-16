@@ -65,6 +65,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Germantas]]
 - [[objektai/asmenys/Giliginas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Trobius]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/sueiga]]

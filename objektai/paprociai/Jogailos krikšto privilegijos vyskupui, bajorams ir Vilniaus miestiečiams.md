@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-O juk Lietuvos krikšto metu Jogaila suteikė privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
+Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą. Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.
 
 ## Laikotarpis ir datos
 
@@ -46,16 +46,10 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-54243"></a>
-- t-002
-  global_id: t-54243
-  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Petro Naujosios bažnyčios

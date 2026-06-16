@@ -18,14 +18,14 @@ amziai:
 
 ## Santrauka
 
-Amsterdamas, 1650 m.
+Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą. Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą. K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m.
 
 ## Teiginiai
 
 <a id="claim-t-46495"></a>
 - t-001
   global_id: t-46495
-  teiginys: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
+  teiginys: 'Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.'
   pagrindžia:
     - c-002
 

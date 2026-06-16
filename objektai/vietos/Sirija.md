@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros) žlugimą (1291 m.), kronikininkas įdėjo savotišką šventosios žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją, kurioje pritariama popiežiaus kurijos pastangoms suartėti su totoriais — mongolais. Dusburgietis teigia, kad ši kronika, kaip ir atitinkami popiežiaus kurijos dokumentai, patvirtina tarybinėje istoriografijoje keliamą mintį, kad ekspansijos prieš arabų, slavų ir Pabaltijo tautas esmė ir varomosios jėgos buvusios vienodos, kad šios tautos turėjusios bendrą priešą71..
+Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis. Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis. Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.
 
 ## Teiginiai
 
 <a id="claim-t-91383"></a>
 - t-001
   global_id: t-91383
-  teiginys: 'Kryžiaus žygių istorijos atpasakojime aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
+  teiginys: 'Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.'
   pagrindžia:
     - c-001
 

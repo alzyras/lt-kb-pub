@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje, perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m. gegužę Lenkijoje, kurio metu į valdžią grįžo J.
+Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
 
 ## Teiginiai
 
 <a id="claim-t-18850"></a>
 - t-001
   global_id: t-18850
-  teiginys: 'Benito Musolinio atėjimas į valdžią Italijoje skatino veikti nepatenkintuosius Seimo valdymu Lietuvoje.'
+  teiginys: 'Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
@@ -45,7 +46,6 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

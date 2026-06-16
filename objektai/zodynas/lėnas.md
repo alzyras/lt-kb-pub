@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje taip apibūdinama Podolės dalies valda, perduota Spytkui iš Melštyno, o kitame Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.
+Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą. Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.
 
 ## Teiginiai
 
@@ -24,7 +24,7 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 <a id="claim-t-70216"></a>
 - t-002
   global_id: t-70216
-  teiginys: 'Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.'
+  teiginys: 'Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.'
   pagrindžia:
     - c-001
 

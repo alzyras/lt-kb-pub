@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija.
+Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.
 
 ## Teiginiai
 
 <a id="claim-t-95931"></a>
 - t-001
   global_id: t-95931
-  teiginys: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai Smolenske buvo išžudyti.'
+  teiginys: 'Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai Smolenske buvo išžudyti.'
+  santrauka: 'Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Atėjus žiniai apie Vytauto smūgį prie Vorsklos, Sviatoslavo sū­

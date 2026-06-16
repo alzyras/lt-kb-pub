@@ -97,6 +97,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -71,4 +71,3 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/asmenys/Petras (Celestinas V)]]
-- [[objektai/zodynas/išpažintojas]]

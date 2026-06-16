@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo. Pirmoje rezoliucijos dalyje tautų apsisprendimo teisės pagrindu ir remiantis Vilniaus konferencijos nutarimais skelbiama, kad Lietuva yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami visi buvę valstybiniai ryšiai su kitomis valstybėmis. Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.
+1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi. Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo. Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi.
 
 ## Teiginiai
 
 <a id="claim-t-101611"></a>
 - t-001
   global_id: t-101611
-  teiginys: '1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą Lietuvos valstybę su sostine Vilniumi.'
+  teiginys: '1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi.'
   pagrindžia:
     - c-003
 
@@ -53,17 +53,10 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   pagrindžia:
     - c-001
 
-<a id="claim-t-101615"></a>
-- t-005
-  global_id: t-101615
-  teiginys: 'Prancūzija Georges''o B. Clemenceau rašte aiškino, kad Klaipėdos atskyrimas nepažeidė tautų apsisprendimo principo.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-183477"></a>
 - t-006
   global_id: t-183477
-  teiginys: 'Abi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
+  teiginys: 'Dvi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
   pagrindžia:
     - c-005
 
@@ -116,6 +109,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - t-003
 
 - c-003
+  santrauka: '1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. sausio pabaigoje, protestuodami prieš su-
@@ -155,7 +149,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - t-002
 
 - c-005
-  santrauka: 'Abi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
+  santrauka: 'Dvi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai nebuvo

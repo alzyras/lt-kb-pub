@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-1396 m. Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“.
+1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.
 
 ## Teiginiai
 
 <a id="claim-t-39620"></a>
 - t-001
   global_id: t-39620
-  teiginys: '1396 m. Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“.'
+  teiginys: '1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1396 m. Riazanės didysis kunigaikš-

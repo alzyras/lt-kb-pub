@@ -63,6 +63,6 @@ Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntinia
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]

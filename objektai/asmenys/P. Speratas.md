@@ -52,5 +52,6 @@ Dusburgietis teigia, kad speratui priklausiusios knygos.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]]

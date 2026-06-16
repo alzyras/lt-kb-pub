@@ -15,10 +15,9 @@ tags:
 
 ## Santrauka
 
-Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas Vytautą, vedė jo seserį Ringailę, tai ordinas jo neįtarė, ir tuo būdu buvo slapta susitarta. Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį Henriką.
+Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą. Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 
 ## Teiginiai
-
 <a id="claim-t-63618"></a>
 - t-001
   global_id: t-63618
@@ -29,21 +28,13 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 <a id="claim-t-63619"></a>
 - t-002
   global_id: t-63619
-  teiginys: 'Mozūrų kunigaikštis Henrikas pavojaus metu iškeliavo į Prūsus ir rado Vytautą Rittersverderyje.'
+  teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-63620"></a>
-- t-003
-  global_id: t-63620
-  teiginys: 'Jogaila pasiuntė jaunutį Mozūrų kunigaikštį Henriką pas Vytautą.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Mozūrų kunigaikštis Henrikas pavojaus metu iškeliavo į Prūsus ir rado Vytautą Rittersverderyje.'
+  santrauka: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ta sunki Lenkijos būklė ir padeda mums išaiškinti Jo­
@@ -56,7 +47,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -72,18 +62,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Jogaila pasiuntė jaunutį Mozūrų kunigaikštį Henriką pas Vytautą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį
-    Henriką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

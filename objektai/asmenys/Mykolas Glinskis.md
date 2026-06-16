@@ -507,7 +507,6 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Bajorai]]
@@ -525,6 +524,9 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
+- [[objektai/grupes/Korano giminė]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/globėjas]]

@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada Povilas Sapiega, kuris veikė atskirai ir nuo rusų traukėsi Lenkijos link.
+Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus. Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus. Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.
 
 ## Teiginiai
 
@@ -44,13 +44,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 - t-003
   global_id: t-79154
   teiginys: 'Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-79155"></a>
-- t-004
-  global_id: t-79155
-  teiginys: 'Lietuvos didžiojo etmono Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė buvo iš Lietuvos išstumta.'
   pagrindžia:
     - c-002
 
@@ -86,7 +79,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-003
 
 - c-003

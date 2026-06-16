@@ -47,5 +47,6 @@ Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį pri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

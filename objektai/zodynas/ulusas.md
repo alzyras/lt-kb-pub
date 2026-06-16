@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'ulusas'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -14,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.
+Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių. Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
 
 ## Teiginiai
 
@@ -24,6 +25,13 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   teiginys: 'Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187531"></a>
+- t-002
+  global_id: t-187531
+  teiginys: 'Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -51,9 +59,35 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    BK Perekopo orda vadinami Krymo chanato
+    totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių
+    110 Siaurės Kaukazo.
+    2 5  Ulan — feodalinis titulas, kuriuo vadinosi žymiausi chanų
+    giminės totorių feodalai, turintys savas žemės valdas — ulusus ir
+    teisę dalyvauti chanų rinkimuose. Aukso ordoje ulanais vadinosi
+
+    ## Puslapis 290
+
+    chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
+    chanų soste.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Krymo chanatas]]
 - [[objektai/autoriai/Naruszewicz]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Perekopo orda]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/ulan]]

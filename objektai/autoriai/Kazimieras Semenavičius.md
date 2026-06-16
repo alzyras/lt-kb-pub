@@ -4,17 +4,15 @@ pavadinimas: 'Kazimieras Semenavičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1579 m.'
   - '1650 m.'
-date_start: '1579'
-date_end: '1650'
+date_start: '1650'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
 amziai:
-  - 'XVI'
   - 'XVII'
 periodo_grupes:
   - 'LDK'
@@ -23,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšmingiausias originalios karinės inžinerijos mokyklos darbas; veikale siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos bei daugiapakopių raketų teorija.
+K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju. Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju. Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.
 
 ## Darbai
 
@@ -37,51 +35,25 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   global_id: t-23231
   teiginys: 'K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-23233"></a>
 - t-002
   global_id: t-23233
   teiginys: 'Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-23234"></a>
 - t-003
   global_id: t-23234
   teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-26715"></a>
-- t-004
-  global_id: t-26715
-  teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
   santrauka: 'Kazimiero Semenavičiaus raketų brėžiniai siejami su Amsterdamu ir 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -94,7 +66,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   pagrindžia:
     - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko
@@ -112,7 +84,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - t-001
     - t-002
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
@@ -129,10 +101,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Daugiapakopės raketos]]
 - [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]

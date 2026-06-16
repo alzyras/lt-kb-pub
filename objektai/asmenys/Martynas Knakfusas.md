@@ -51,7 +51,3 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus katedros bokšto griūtis ir Vilniaus rotušės bokšto pasvirimas]]

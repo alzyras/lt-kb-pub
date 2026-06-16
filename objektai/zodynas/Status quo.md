@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo. 1939 m. pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipėdai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
+Klaipėdos klausimu Lietuva gynė status quo, nors Vilniaus klausimu reikalavo sienų revizijos. 1939 m. pradžioje britams ir prancūzams negarantuojant Klaipėdos status quo, Lietuva be pagalbos nebegalėjo jos išlaikyti. Lietuva Vilniaus klausimu reikalavo sienų revizijos, o Klaipėdos klausimu gynė esamą padėtį – status quo.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 <a id="claim-t-183465"></a>
 - t-003
   global_id: t-183465
-  teiginys: 'Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.'
+  teiginys: 'Lietuva Vilniaus klausimu reikalavo sienų revizijos, o Klaipėdos klausimu gynė esamą padėtį – status quo.'
   pagrindžia:
     - c-003
 
@@ -72,7 +72,7 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
     - t-002
 
 - c-003
-  santrauka: 'Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.'
+  santrauka: 'Lietuva Vilniaus klausimu reikalavo sienų revizijos, o Klaipėdos klausimu gynė esamą padėtį – status quo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-

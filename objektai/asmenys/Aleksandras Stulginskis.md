@@ -63,5 +63,4 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
-- [[objektai/ivykiai/Steigiamojo Seimo reikalavimas įjungti Klaipėdos teritoriją į Lietuvą (1921 m. lapkričio 11 d.)]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

@@ -1,8 +1,13 @@
 ---
 tipas: posakis
-pavadinimas: '„krikščionys turi raudoti dėl jo mirties“'
+pavadinimas: "„krikščionys turi raudoti dėl jo mirties“"
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+aliases:
+  - 'krikščionys turi raudoti dėl jo mirties'
+  - 'objektai/posakiai/krikščionys turi raudoti dėl jo mirties'
+variantai:
+  - 'krikščionys turi raudoti dėl jo mirties'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,16 +21,19 @@ tags:
 Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.
 
 ## Teiginiai
-
-<a id="claim-t-31578"></a>
+<a id="claim-t-186393"></a>
 - t-001
-  global_id: t-31578
+  global_id: t-186393
   teiginys: 'Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes.'
   pagrindžia:
     - c-001
-
+<a id="claim-t-186394"></a>
+- t-002
+  global_id: t-186394
+  teiginys: 'Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -45,4 +53,3 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 ### Susiję objektai
 - [[objektai/zodynas/neofitas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/krikščionys turi raudoti dėl jo mirties]]

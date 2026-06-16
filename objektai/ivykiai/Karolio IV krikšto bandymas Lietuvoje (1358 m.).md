@@ -74,4 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -58,4 +58,4 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
-- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
+- [[objektai/daiktai/Vytis]]

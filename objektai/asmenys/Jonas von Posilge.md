@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.
+Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui. Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui.
 
 ## Teiginiai
 
@@ -28,7 +28,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 <a id="claim-t-184374"></a>
 - t-002
   global_id: t-184374
-  teiginys: 'Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.'
+  teiginys: 'Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
     - t-001
 
 - c-002
-  santrauka: 'Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.'
+  santrauka: 'Kronikininkas Jonas von Posilge pateikė daug įdomių žinių apie Žemaičių pasidavimą Ordinui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gi įkaitus

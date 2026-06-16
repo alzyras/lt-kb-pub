@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.
+Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.
 
 ## Teiginiai
 
 <a id="claim-t-77789"></a>
 - t-001
   global_id: t-77789
-  teiginys: 'LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.'
+  teiginys: 'Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodo, kad abiejų judėjimų takos-
@@ -40,3 +41,7 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos laisvės lyga]]

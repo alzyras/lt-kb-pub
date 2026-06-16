@@ -61,6 +61,5 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Vilniaus rusinai]]
 - [[objektai/zodynas/miestiečių luomas]]

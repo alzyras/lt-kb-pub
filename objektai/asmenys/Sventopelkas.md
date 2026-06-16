@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip bendros kovos su Lietuva ir prūsais dalyvis kituose aptariamuose šaltiniuose.
+Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus. Prūsai išsirinko Sventopelką savo vyresniuoju ir vadu prieš antpuolį į Prūsijos žemutines apygardas. Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų.
 
 ## Teiginiai
 
@@ -146,7 +146,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 <a id="claim-t-90028"></a>
 - t-018
   global_id: t-90028
-  teiginys: 'Dusburgietis teigia, kad Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.'
+  teiginys: 'Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.'
   pagrindžia:
     - c-022
 
@@ -774,6 +774,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/asmenys/Mstivojus]]

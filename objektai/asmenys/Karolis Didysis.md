@@ -15,7 +15,6 @@ tags:
 Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.
 
 ## Teiginiai
-
 <a id="claim-t-78062"></a>
 - t-001
   global_id: t-78062
@@ -24,7 +23,6 @@ Turima galvoje Karolio Didžiojo imperija, arba ant Romos imperijos griuvėsių 
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

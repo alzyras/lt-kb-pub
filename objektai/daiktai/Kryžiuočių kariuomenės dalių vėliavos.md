@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Kryžiuočių kariuomenės dalių vėliavos'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -12,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kryžiuočių kariuomenės dalių vėliavos po Tanenbergo mūšio pateko lietuviams ir lenkams, o [[objektai/asmenys/Jogaila|Jogaila]] jas nugabeno į Krokuvą. Vėliau rinkinys buvo papildytas dar penkiomis vėliavomis, tačiau pats rinkinys žuvo ir iš jo liko tik XV a. pabaigos piešiniai.
+Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje. 1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare. Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai.
 
 ## Pavadinimai šaltiniuose
 
@@ -36,63 +37,44 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 
 ## Teiginiai
 
-<a id="claim-t-64945"></a>
+<a id="claim-t-186822"></a>
 - t-001
-  global_id: t-64945
-  teiginys: 'Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.'
+  global_id: t-186822
+  teiginys: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
   pagrindžia:
-    - c-001
+    - c-005
 
-<a id="claim-t-64946"></a>
+<a id="claim-t-186823"></a>
 - t-002
-  global_id: t-64946
-  teiginys: 'Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.'
+  global_id: t-186823
+  teiginys: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-64947"></a>
+<a id="claim-t-186824"></a>
 - t-003
-  global_id: t-64947
+  global_id: t-186824
   teiginys: 'Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-186825"></a>
+- t-004
+  global_id: t-186825
+  teiginys: 'Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-64948"></a>
-- t-004
-  global_id: t-64948
-  teiginys: 'Tanenbergo mūšyje lietuviams ir lenkams teko 51 kryžiuočių kariuomenės vėliava.'
+<a id="claim-t-186826"></a>
+- t-005
+  global_id: t-186826
+  teiginys: 'Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.'
   pagrindžia:
-    - c-001
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    PRIEDĖLIŲ PAAIŠKINIMAI
-    **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
-    Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
-    nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
-    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
-    šiuose. Dabar jos jau yra žuvusios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prie
@@ -106,6 +88,66 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   pagrindžia:
     - t-003
 
+- c-002
+  santrauka: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 1  Krokuvos pilies (Vavelio) katedroje 1411 m. rudenj buvo pa­
+    kabinta 51 kryžiuočių ir jų  talkininkų vėliavų, paimlų 1409-1411 m.
+    kare. Apie 300 trofėjinių vėliavų, kabėjusių Vilniaus katedroje ir
+    sudegusių per 1529 m Vilniaus gaisrą, mini Mykolas Lietuvis
+    (Apie totorių, lietuvių ir maskvėnų papročius. V. 1966. p. t> 0).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    PRIEDĖLIŲ PAAIŠKINIMAI
+    **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
+    Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
+    nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį. Prie
+    to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
+    šiuose. Dabar jos jau yra žuvusios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
+  santrauka: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Mykolas
+    Lietuvis savo traktate, rašytame apie 1549—1550 m .,
+    jau žino istoriją apie Kazimiero Jogailaičio išgelbėji­
+    mą 4 5  1454 m., dėstomą Bychovco kronikoje; iš J. Dlu­
+    gošo ar M. Miechovitos jos negalėjo sužinoti.
+    Tas pats Mykolas Lietuvis mini, kad per Vilniaus
+    katedros gaisrą 1529 m. sudegė apie 300 trofėjinių vė­
+    liavų 4 0 , o Bychovco kronikoje sakoma, kad kryžiuočių
+    vėliavos, laimėtos Žalgirio mūšyje, „yra pakabintos"
+    Vilniaus katedroje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
@@ -116,3 +158,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/autoriai/Miechovita]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/autoriai/Mykolas Lietuvis]]

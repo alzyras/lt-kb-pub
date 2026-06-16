@@ -14,14 +14,14 @@ date_start: '1291'
 date_end: '1324'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
-  - mokslininkas
 amziai:
   - 'XIII'
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - autorius
+  - mokslininkas
 ---
 # Dusburgas
 
@@ -36,7 +36,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - Prūsijos žemės kronika
 
 ## Teiginiai
-
 <a id="claim-t-102840"></a>
 - t-001
   global_id: t-102840
@@ -157,7 +156,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     - c-013
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -172,7 +170,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-010
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -188,7 +185,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-002
     - t-015
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -206,7 +202,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-013
     - t-012
-
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -223,7 +218,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -239,7 +233,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -255,7 +248,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -271,7 +263,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-014
-
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -291,7 +282,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -317,7 +307,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-016
     - t-004
-
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -347,7 +336,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-011
     - t-003
-
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -375,7 +363,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -396,7 +383,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-013
   santrauka: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -435,7 +421,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Langobardai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Rytas]]
@@ -452,7 +437,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
 - [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
-- [[objektai/posakiai/Baigėsi karas su prūsais. Prasidėjo karas su lietuviais]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Eberhardas de Virnemburgas]]
 - [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
@@ -489,4 +473,5 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]
+- [[objektai/asmenys/Jėzus Kristus]]
 - [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]

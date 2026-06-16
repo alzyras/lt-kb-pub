@@ -98,6 +98,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]

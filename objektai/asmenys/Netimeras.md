@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Čia apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio brolio rankos. Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi. Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos. Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ periodo_grupes:
 <a id="claim-t-19171"></a>
 - t-002
   global_id: t-19171
-  teiginys: 'Brunonas Bonifacijus apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
+  teiginys: 'Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
   pagrindžia:
     - c-003
 

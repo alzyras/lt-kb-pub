@@ -54,7 +54,3 @@ Jai vadovavo lietuvis karininkas Auglys.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bolševikai]]

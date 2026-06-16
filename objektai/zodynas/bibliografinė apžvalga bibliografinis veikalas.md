@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos bendrų Lietuvos ir Lenkijos istorijos klausimų, šitas bibliografinis veikalas pasidaro gana svarbus Lietuvos istorijos tyrinėtojui.
+Zenonas Ivinskis Bibliografia Historii Polski laikė svarbiu bibliografiniu veikalu Lietuvos istorijos tyrinėtojui.
 
 ## Teiginiai
 
 <a id="claim-t-32767"></a>
 - t-001
   global_id: t-32767
-  teiginys: 'Bibliografia Historii Polski buvo svarbi Lietuvos istorijos tyrinėtojui dėl sistemingos bendrų Lietuvos ir Lenkijos istorijos klausimų apžvalgos.'
+  teiginys: 'Zenonas Ivinskis Bibliografia Historii Polski laikė svarbiu bibliografiniu veikalu Lietuvos istorijos tyrinėtojui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bibliografia Historii Polski buvo svarbi Lietuvos istorijos tyrinėtojui dėl sistemingos bendrų Lietuvos ir Lenkijos istorijos klausimų apžvalgos.'
+  santrauka: 'Zenonas Ivinskis Bibliografia Historii Polski laikė svarbiu bibliografiniu veikalu Lietuvos istorijos tyrinėtojui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Varšuvoje išleistoji**
@@ -45,3 +45,7 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]

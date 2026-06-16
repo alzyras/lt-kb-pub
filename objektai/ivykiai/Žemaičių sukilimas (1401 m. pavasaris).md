@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Pabėgusieji, kurių buvo skaičiuojama apie keturis tūkstančius, nebuvo grąžinti, o pačiuose Žemaičiuose 1401 m. ankstybą pavasarį (kovo viduryje) prasidėjo sukilimas.
+1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.
 
 ## Laikotarpis ir datos
 
@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-100049"></a>
 - t-001
   global_id: t-100049
-  teiginys: 'Pabėgusieji, kurių buvo skaičiuojama apie keturis tūkstančius, nebuvo grąžinti, o pačiuose Žemaičiuose 1401 m. ankstybą pavasarį (kovo viduryje) prasidėjo sukilimas.'
+  teiginys: '1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pabėgusieji, kurių buvo skaičiuojama apie
@@ -66,3 +67,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

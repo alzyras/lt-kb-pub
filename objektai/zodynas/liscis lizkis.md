@@ -21,20 +21,21 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
+Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
 
 ## Teiginiai
 
 <a id="claim-t-58945"></a>
 - t-001
   global_id: t-58945
-  teiginys: 'Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.'
+  teiginys: 'Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos

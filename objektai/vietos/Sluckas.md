@@ -5,11 +5,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1505 m.'
   - '1506 m.'
   - '2026 m.'
-date_start: '1506'
+date_start: '1505'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -26,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje. Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui. Slucke buvo įkurta protestantų mokykla.
 
 ## Teiginiai
 
@@ -114,6 +116,34 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   pagrindžia:
     - c-010
 
+<a id="claim-t-187648"></a>
+- t-014
+  global_id: t-187648
+  teiginys: 'Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.'
+  pagrindžia:
+    - c-011
+
+<a id="claim-t-187649"></a>
+- t-015
+  global_id: t-187649
+  teiginys: 'Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, buvo Mykolo Olelkaičio sūnus ir mirė 1505 m. rugsėjo 14 d.'
+  pagrindžia:
+    - c-012
+
+<a id="claim-t-187650"></a>
+- t-016
+  global_id: t-187650
+  teiginys: 'Umolts — gyvenvietė prie Slucko.'
+  pagrindžia:
+    - c-013
+
+<a id="claim-t-187651"></a>
+- t-017
+  global_id: t-187651
+  teiginys: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
+  pagrindžia:
+    - c-014
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -187,8 +217,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
     - t-003
+    - t-001
 
 - c-005
   santrauka: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
@@ -311,3 +341,73 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   statusas: verified
   pagrindžia:
     - t-013
+
+- c-011
+  santrauka: 'Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kai totoriai pribėgo Ceprą, bemaž visi upėje ir
+    pelkėje prigėrė; taip daug totorių ir jų arklių buvo
+    upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
+    pereiti, lipdami per totorių ir jų arklių lavonus.
+    174
+
+    ## Puslapis 170
+
+    O tuos nedaugelį totorių, kurie pabėgo su chanai-
+    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
+    2itomiro, Volynės keliais į visas puses, lietuviai žudė
+    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-012
+  santrauka: 'Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, buvo Mykolo Olelkaičio sūnus ir mirė 1505 m. rugsėjo 14 d.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    330
+
+    ## Puslapis 323
+
+    2 Slucko kunigaikštis Simonas M ykolaitis Olelkaitis (Olelko-
+    vič) — Algirdo sūnaus Vladimiro palikuonis, Mykolo Olelkaičio sū­
+    nus, Valdė Slucką ir Kopylių, mirė 1505.IX.14.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-013
+  santrauka: 'Umolts — gyvenvietė prie Slucko.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina
+    M  Strijkovskis: „ties Slucku, laukuose u i Umolio, kur Slucko ku­
+    nigaikštis Jurgis, ano [t. y. Simono M ykolalčiol, vaikaitis, dabar
+    pastatydino naująjį dvarą" (Kronika, p. 667).
+    '* N esvyiius — BTSR miestas (prie Ušos, Nemuno Intako, apie
+    70 km j šiaurės vakarus nuo Slucko).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-014
+  santrauka: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    27 Ir 28).
+    7 1  Gričino pelkės — didžiuliai pelkių plotai j pietus nuo Slucko.
+    7 7  Gorodokas — veikiausiai, Davidgorodokas, BTSR miestas (apie
+    120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
+    upės).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-017

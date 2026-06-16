@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos. Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus. Šis vyskupo žingsnis 1581 metais padrąsino viešosios rimties drumstėjus atvirai užpulti reformatų mal­ dos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio žinioje.
+Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas. Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus. 1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 <a id="claim-t-86750"></a>
 - t-002
   global_id: t-86750
-  teiginys: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
+  teiginys: 'Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     - t-001
 
 - c-002
+  santrauka: 'Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
@@ -114,6 +115,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Tšecieskis]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Andrius Volanas]]
 - [[objektai/asmenys/Danielius Lenčickis]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]

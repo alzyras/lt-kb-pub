@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias. Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis. Gorbačiovo vizitas į Lietuvą neatbaidė LPS nuo šių planų.
+Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme. 1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą. 1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101678"></a>
 - t-002
   global_id: t-101678
-  teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
+  teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101680"></a>
 - t-004
   global_id: t-101680
-  teiginys: 'SSRS pradėjus Michailo Gorbačiovo pertvarkos politiką, Lietuvos visuomenės nepasitenkinimas didėjo.'
+  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo.'
   pagrindžia:
     - c-007
 
@@ -66,14 +66,14 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101682"></a>
 - t-006
   global_id: t-101682
-  teiginys: 'SSRS vadovybė su M. Gorbačiovu priešakyje primygtinai reikalavo atšaukti Kovo 11 Aktą.'
+  teiginys: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-101683"></a>
 - t-007
   global_id: t-101683
-  teiginys: 'Sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
+  teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   pagrindžia:
     - c-004
 
@@ -94,7 +94,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 <a id="claim-t-101686"></a>
 - t-010
   global_id: t-101686
-  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
+  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   pagrindžia:
     - c-007
 
@@ -108,6 +108,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai
@@ -162,7 +163,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-005
 
 - c-004
-  santrauka: 'Sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
+  santrauka: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1991 m.
@@ -210,7 +211,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-001
 
 - c-006
-  santrauka: 'SSRS vadovybė su M. Gorbačiovu priešakyje primygtinai reikalavo atšaukti Kovo 11 Aktą.'
+  santrauka: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Euro-
@@ -280,7 +281,6 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/Gorbis ar Lietuva]]
-- [[objektai/asmenys/Jelena Boner]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

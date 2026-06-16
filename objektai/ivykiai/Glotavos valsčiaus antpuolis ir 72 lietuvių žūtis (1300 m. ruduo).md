@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar pagrobė viską, ką ten rado gyvą.
+1300 m. rudenį 75 lietuviai įsibrovė į Varmės vyskupystės Glotavos valsčių ir sudegino vieną kaimą. Po Glotavos antpuolio Valteris Goldinas užkirto lietuviams kelią ir nukovė visus, išskyrus tris.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-183922"></a>
 - t-002
   global_id: t-183922
-  teiginys: 'Valteris Goldinas po Glotavos antpuolio užkirto kelią lietuviams ir nukovė visus, išskyrus tris.'
+  teiginys: 'Po Glotavos antpuolio Valteris Goldinas užkirto lietuviams kelią ir nukovė visus, išskyrus tris.'
   pagrindžia:
     - c-001
 

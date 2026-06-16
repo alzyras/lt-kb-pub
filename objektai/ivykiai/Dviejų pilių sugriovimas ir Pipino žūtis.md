@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219. Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.
+221 Pipino nukankinimas vaizduojamas tendencingai (žr. Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis. Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-66533"></a>
 - t-001
   global_id: t-66533
-  teiginys: 'Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
+  teiginys: '221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
   pagrindžia:
     - c-002
 
@@ -107,6 +107,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).

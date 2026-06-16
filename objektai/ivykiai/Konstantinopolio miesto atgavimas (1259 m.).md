@@ -64,6 +64,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/asmenys/Paleologas]]

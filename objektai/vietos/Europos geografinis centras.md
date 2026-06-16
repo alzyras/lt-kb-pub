@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Europos geografinis centras šiame leidinyje lokalizuojamas Lietuvoje, 25 km į šiaurę nuo Vilniaus, nurodant centro koordinates.
+Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje. Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos. Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,9 +48,16 @@ Nenurodyta
 <a id="claim-t-76261"></a>
 - t-002
   global_id: t-76261
-  teiginys: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
+  teiginys: 'Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-76262"></a>
+- t-003
+  global_id: t-76262
+  teiginys: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
+  pagrindžia:
+    - c-002
 
 <a id="claim-t-76263"></a>
 - t-004
@@ -105,7 +112,7 @@ Nenurodyta
     - t-003
 
 - c-003
-  santrauka: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
+  santrauka: 'Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visai neseniai Pran-

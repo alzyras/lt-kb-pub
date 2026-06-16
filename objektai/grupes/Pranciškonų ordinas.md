@@ -4,12 +4,16 @@ pavadinimas: 'Pranciškonų ordinas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1059 m.'
+  - '1387 m.'
+  - '1388 m.'
+  - '1453 m.'
   - '2026 m.'
 date_start: '1059'
 date_end: '2026'
@@ -25,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje pranciškonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai, jo dvaro aplinkoje veikę vienuoliai ir vėlesnių Vilniaus legendų objektas.
+Vytenis prašė legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam du pranciškonų ordino brolius. 1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius. Maždaug 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią.
 
 ## Teiginiai
 
@@ -130,7 +134,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108294"></a>
 - t-016
   global_id: t-108294
-  teiginys: 'Gedimino laikais katalikų skaičių didino iš Lenkijos ir ordino žemių atvedami belaisvių būriai.'
+  teiginys: 'Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną.'
   pagrindžia:
     - c-002
 
@@ -162,13 +166,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - c-020
 
-<a id="claim-t-108299"></a>
-- t-021
-  global_id: t-108299
-  teiginys: 'Pranciškonai ir toliau veikė sostinėje, kur turėjo savo vienuolyną.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-108300"></a>
 - t-022
   global_id: t-108300
@@ -197,173 +194,194 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - c-011
 
-<a id="claim-t-108304"></a>
-- t-026
-  global_id: t-108304
-  teiginys: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į jau pastatytą bažnyčią.'
-  pagrindžia:
-    - c-012
-
 <a id="claim-t-108305"></a>
-- t-027
+- t-026
   global_id: t-108305
   teiginys: 'Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.'
   pagrindžia:
     - c-034
 
 <a id="claim-t-108306"></a>
-- t-028
+- t-027
   global_id: t-108306
   teiginys: 'Lietuvoje apaštalavę minoritai ne kartą žuvo dėl savo uolumo, o pranciškonai patyrė skaudžių kančių.'
   pagrindžia:
     - c-026
 
 <a id="claim-t-108307"></a>
-- t-029
+- t-028
   global_id: t-108307
   teiginys: 'Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-108308"></a>
-- t-030
+- t-029
   global_id: t-108308
   teiginys: 'Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-108309"></a>
-- t-031
+- t-030
   global_id: t-108309
   teiginys: 'Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.'
   pagrindžia:
     - c-018
 
 <a id="claim-t-108310"></a>
-- t-032
+- t-031
   global_id: t-108310
   teiginys: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-108311"></a>
-- t-033
+- t-032
   global_id: t-108311
   teiginys: 'Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius.'
   pagrindžia:
     - c-032
 
 <a id="claim-t-108315"></a>
-- t-035
+- t-034
   global_id: t-108315
   teiginys: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-108316"></a>
-- t-036
+- t-035
   global_id: t-108316
   teiginys: '1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.'
   pagrindžia:
     - c-023
 
 <a id="claim-t-108317"></a>
-- t-037
+- t-036
   global_id: t-108317
   teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo.'
   pagrindžia:
     - c-027
 
 <a id="claim-t-108318"></a>
-- t-038
+- t-037
   global_id: t-108318
   teiginys: 'Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių.'
   pagrindžia:
     - c-019
 
 <a id="claim-t-108319"></a>
-- t-039
+- t-038
   global_id: t-108319
   teiginys: 'Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia.'
   pagrindžia:
     - c-025
 
 <a id="claim-t-108320"></a>
-- t-040
+- t-039
   global_id: t-108320
   teiginys: 'Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-108321"></a>
-- t-041
+- t-040
   global_id: t-108321
   teiginys: 'Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje.'
   pagrindžia:
     - c-024
 
 <a id="claim-t-108322"></a>
-- t-042
+- t-041
   global_id: t-108322
   teiginys: 'XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-108323"></a>
-- t-043
+- t-042
   global_id: t-108323
   teiginys: '1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-108324"></a>
-- t-044
+- t-043
   global_id: t-108324
   teiginys: 'Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį.'
   pagrindžia:
     - c-027
 
 <a id="claim-t-108325"></a>
-- t-045
+- t-044
   global_id: t-108325
   teiginys: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
   pagrindžia:
     - c-028
 
 <a id="claim-t-108326"></a>
-- t-046
+- t-045
   global_id: t-108326
   teiginys: 'Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.'
   pagrindžia:
     - c-030
 
 <a id="claim-t-108327"></a>
-- t-047
+- t-046
   global_id: t-108327
   teiginys: 'Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.'
   pagrindžia:
     - c-022
 
 <a id="claim-t-108328"></a>
-- t-048
+- t-047
   global_id: t-108328
   teiginys: 'Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.'
   pagrindžia:
     - c-023
 
 <a id="claim-t-108329"></a>
-- t-049
+- t-048
   global_id: t-108329
   teiginys: 'Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184577"></a>
-- t-050
+- t-049
   global_id: t-184577
   teiginys: 'Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės.'
   pagrindžia:
     - c-036
+
+<a id="claim-t-187741"></a>
+- t-050
+  global_id: t-187741
+  teiginys: 'Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.'
+  pagrindžia:
+    - c-037
+
+<a id="claim-t-187742"></a>
+- t-051
+  global_id: t-187742
+  teiginys: 'Algirdui leidus, Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.'
+  pagrindžia:
+    - c-038
+
+<a id="claim-t-187743"></a>
+- t-052
+  global_id: t-187743
+  teiginys: 'Algirdui žygiuojant prieš Maskvą, Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
+  pagrindžia:
+    - c-039
+
+<a id="claim-t-187744"></a>
+- t-053
+  global_id: t-187744
+  teiginys: 'Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje.'
+  pagrindžia:
+    - c-040
 
 ## Reikšmingi paminėjimai
 
@@ -381,7 +399,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
+    - t-048
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -398,8 +416,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
-    - t-029
+    - t-039
+    - t-028
     - t-016
     - t-021
 
@@ -434,7 +452,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-042
 
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -494,7 +512,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   statusas: verified
   pagrindžia:
     - t-002
-    - t-034
+    - t-033
 
 - c-009
   santrauka: 'Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.'
@@ -526,7 +544,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-041
 
 - c-011
   santrauka: 'Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.'
@@ -578,8 +596,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
-    - t-026
+    - t-031
 
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -640,7 +657,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-029
 
 - c-015
   santrauka: 'Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.'
@@ -682,7 +699,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-034
 
 - c-017
   santrauka: 'Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III.'
@@ -722,7 +739,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   statusas: verified
   pagrindžia:
     - t-009
-    - t-031
+    - t-030
 
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -742,7 +759,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-037
 
 - c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -802,7 +819,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   statusas: verified
   pagrindžia:
     - t-011
-    - t-047
+    - t-046
 
 - c-023
   santrauka: '1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.'
@@ -836,8 +853,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
-    - t-048
+    - t-035
+    - t-047
 
 - c-024
   santrauka: 'Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje.'
@@ -855,7 +872,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-040
 
 - c-025
   santrauka: 'Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia.'
@@ -873,7 +890,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-038
     - t-006
 
 - c-026
@@ -895,7 +912,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-027
 
 - c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -917,8 +934,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
-    - t-044
+    - t-036
+    - t-043
 
 - c-028
   santrauka: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
@@ -933,7 +950,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-044
 
 - c-029
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -981,7 +998,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-045
 
 - c-031
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1042,7 +1059,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   statusas: verified
   pagrindžia:
     - t-019
-    - t-033
+    - t-032
 
 - c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1087,7 +1104,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-026
 
 - c-035
   santrauka: 'Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.'
@@ -1132,7 +1149,82 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-049
+
+- c-037
+  santrauka: 'Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
+    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
+    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
+    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
+    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
+    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
+    vardj — „in Arena" arba „na Piaskach".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
     - t-050
+
+- c-038
+  santrauka: 'Algirdui leidus, Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Neilgai trukus, didysis kunigaikštis Algirdas davė
+    Petrui Goštautui Vilnių. Būdamas Vilniaus vaivada \
+    didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­
+    tą parsikvietė iš Lenkijos 14 vienuolių pranciškonų5 ,
+    ir savo rūmuose Vilniuje, kur dabar yra Vilniaus vys­
+    kupo rūmai6 , įsteigė dievo motinos vienuolyną, o sau
+    rūmus pasistatė Smėlynėje7 , priešais Vingrius8 , kur
+    dabar dievo motinos vienuolynas9 . Tasai Petras Goš­
+    tautas pirmas priėmė Romos tikėjimą ir parnešė jį
+    j Lietuvą l0 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-051
+
+- c-039
+  santrauka: 'Algirdui žygiuojant prieš Maskvą, Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
+    VILNIUJE
+    Tuo melu kai didysis kunigaikštis Algirdas žy­
+    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
+    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
+    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
+    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
+    ir septynis vienuolius sukapojo, o kitus septynis vie­
+    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
+    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
+    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
+    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-052
+
+- c-040
+  santrauka: 'Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Pirmuoju Vilniaus vyskupu (1388—
+    I398.XI.14) buvo Lenkijos pranciškonas, būvąs Sereto (Vengrijoje)
+    vyskupas ir Vengrijos karalienės Elžbietos nuodėmklausys Andrius,
+    klaidingai vadinamas Andriumi Vasila. BK nurodomas pranciško­
+    nas Motiejus buvo pirmas Žemaičių vyskupas (1417— 1421) ir penk­
+    tasis Vilniaus vyskupas (1422—1453).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-053
 
 ## Ryšiai
 ### Susiję objektai
@@ -1154,7 +1246,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/grupes/Hanza]]
 - [[objektai/autoriai/Henrikas]]
@@ -1172,13 +1263,16 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Motiejus]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - [[objektai/asmenys/Paulius iš Olivos]]
+- [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/grupes/Romai]]
 - [[objektai/grupes/Rusai]]
@@ -1193,6 +1287,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/in partibus infidelium]]
 - [[objektai/zodynas/kapitula]]
@@ -1200,6 +1296,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/pagonys]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
@@ -1214,17 +1312,17 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/daiktai/Gedimino antspaudas]]
 - [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
 - [[objektai/paprociai/Gotikinės architektūros perėmimas ir mūrinių sakralinių bei gynybinių statinių statyba]]
-- [Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k](/objektai/posakiai/Jie%20ir%20%C5%BEemes%20paver%C4%8Dia%20tyrais%2C%20kaip%20tai%20matyti%20%C5%BDiemgaloje%20ir%20daugelyje%20kit%C5%B3%20%5Bviet%C5%B3%5D.%20Ta%C4%8Diau%20jie%20sako%2C%20jog%20tai%20daro%20d%C4%97l%20to%2C%20kad%20nori%20apginti%20k)
 - [[objektai/asmenys/Jonas (popiežius)]]
 - [[objektai/daiktai/Kardas]]
+- [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje]]
 - [[objektai/paprociai/Kruvini bajorijos susibūrimai, ypač seimeliuose]]
 - [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/grupes/Perkūno garbintojai ir šventos ugnies saugotojai]]
-- [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/asmenys/Petrašu Montgirdaitis]]
 - [[objektai/asmenys/Pranciškus (popiežiaus legatas)]]
+- [[objektai/zodynas/Romos tikėjimas]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
 - [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
@@ -1235,6 +1333,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/autoriai/Waddyngas Luca Vaddingo]]
 - [[objektai/posakiai/kiekvienam geros valios žmogui]]
 - [[objektai/zodynas/popiežiaus legatas]]
+- [[objektai/zodynas/rusų tikėjimas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Jokūbas I]]
 - [[objektai/asmenys/Jonas Pliekta]]
@@ -1249,6 +1348,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]
+- [[objektai/ivykiai/Vilniečių nubaudimas po pranciškonų nužudymo]]
 - [[objektai/zodynas/oratorija]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]

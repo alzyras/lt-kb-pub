@@ -19,14 +19,14 @@ amziai:
 
 ## Santrauka
 
-Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.
+Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais. Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.
 
 ## Teiginiai
 
 <a id="claim-t-70338"></a>
 - t-001
   global_id: t-70338
-  teiginys: 'Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.'
+  teiginys: 'Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.'
   pagrindžia:
     - c-002
 

@@ -61,4 +61,5 @@ Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuv
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Statybininkų šalmai]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

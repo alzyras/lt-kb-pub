@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-`Rotmistras` šiame šaltinyje yra kavalerijos dalinio vadas, gaunantis mobilizacinius raštus, turintis savo pavardę įrašytą šaukimo dokumentuose, pats renkantis karius ir kartais vadovaujantis sparno daliniui mūšyje.
+Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius. Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai. Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
 
 ## Žodis ir formos
 
@@ -48,13 +48,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
   teiginys: 'Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-70313"></a>
-- t-003
-  global_id: t-70313
-  teiginys: 'Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-70314"></a>
 - t-004
@@ -108,6 +101,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     - t-001
 
 - c-003
+  santrauka: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vidinė
@@ -135,6 +129,7 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - [[objektai/zodynas/lengvoji kavalerija]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/petihorai]]
+- [[objektai/zodynas/taurininkas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/asmenys/H. Brantas]]
@@ -145,7 +140,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - [[objektai/asmenys/Kurovičius]]
 - [[objektai/grupes/Kuršiečiai]]
 - [[objektai/asmenys/M. Vaina]]
-- [[objektai/asmenys/P. Snayers]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/T. Dambrava]]
 - [[objektai/asmenys/T. Lackis]]

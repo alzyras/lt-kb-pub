@@ -50,4 +50,5 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Kazimieras Didysis]]

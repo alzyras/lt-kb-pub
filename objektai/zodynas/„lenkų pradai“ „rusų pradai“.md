@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene. „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.
+„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista. Po abiejų sukilimų Rusijos imperijos politikoje lenkų klausimu sustiprėjo rusiškas nacionalizmas ir polonofobija. Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, tikėdamiesi pakeisti separatizmą palaikiusią kultūros dirvą.
 
 ## Teiginiai
 
@@ -43,16 +43,9 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 <a id="claim-t-183488"></a>
 - t-003
   global_id: t-183488
-  teiginys: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
+  teiginys: 'Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, tikėdamiesi pakeisti separatizmą palaikiusią kultūros dirvą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183489"></a>
-- t-004
-  global_id: t-183489
-  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -102,7 +95,6 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-001
 
 ## Ryšiai
@@ -111,10 +103,8 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/separatizmas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/akcijos]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

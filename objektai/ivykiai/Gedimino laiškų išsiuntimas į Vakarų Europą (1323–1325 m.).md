@@ -114,7 +114,6 @@ Nenurodyta
 - [[objektai/autoriai/Dreyer]]
 - [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
-- [[objektai/grupes/Hanza]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
 - [[objektai/grupes/Rygiečiai]]

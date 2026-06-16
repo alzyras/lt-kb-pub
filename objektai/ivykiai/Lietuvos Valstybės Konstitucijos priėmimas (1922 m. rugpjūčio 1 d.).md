@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-1922 m. rugpjūčio 1 d. priimta Lietuvos Valstybės Konstitucija įtvirtino demokratinės respublikos principus, lietuvių kalbos valstybinį statusą, piliečių lygybę ir plačias Seimo galias.
+Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai. Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė. Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.
 
 ## Laikotarpis ir datos
 
@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-45392"></a>
 - t-004
   global_id: t-45392
-  teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
+  teiginys: '1922 m. Lietuvos Valstybės Konstitucija Seimui, sudarytam iš tautos atstovų, suteikė ypač didelių galių.'
   pagrindžia:
     - c-001
 
@@ -127,4 +127,3 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/tautos atstovai]]

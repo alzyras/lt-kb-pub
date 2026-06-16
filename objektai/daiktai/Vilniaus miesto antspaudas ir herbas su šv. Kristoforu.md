@@ -221,6 +221,7 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/daiktai/Herbas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/luomas]]

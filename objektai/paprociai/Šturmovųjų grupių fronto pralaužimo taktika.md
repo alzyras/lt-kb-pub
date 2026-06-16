@@ -82,7 +82,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/durtuvų kautynės]]

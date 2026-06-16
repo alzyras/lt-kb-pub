@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Šimonių girioje 1949 m. lapkritį MGB vidaus kariuomenė vykdė karinę-čekistinę operaciją. Prieš pagrindinį susirėmimą čekistams bunkerį išdavė suimti ir užverbuoti partizanai. 1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas 1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.
+Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai. 1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas. 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
 
 ## Laikotarpis ir datos
 
@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-67011"></a>
 - t-003
   global_id: t-67011
-  teiginys: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio.'
+  teiginys: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.'
   pagrindžia:
     - c-002
 
@@ -76,7 +76,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio.'
+  santrauka: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. spalio 24 d. MGB agentui V. Kučiui

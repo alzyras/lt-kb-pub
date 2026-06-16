@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis). Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die Bau.., 2, p. 17—18). Dusburgietis teigia, kad sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
+M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio. M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį. Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).
 
 ## Teiginiai
 
@@ -38,20 +38,21 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 <a id="claim-t-60666"></a>
 - t-002
   global_id: t-60666
-  teiginys: 'Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die Bau.., 2, p. 17—18).'
+  teiginys: 'M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-60667"></a>
 - t-003
   global_id: t-60667
-  teiginys: 'Dusburgietis teigia, kad sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
+  teiginys: 'Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
@@ -70,6 +71,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
     - t-002
 
 - c-002
+  santrauka: 'Sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio

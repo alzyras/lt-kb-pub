@@ -19,20 +19,21 @@ amziai:
 
 ## Santrauka
 
-1945 m. balandį pasitraukė iš legalaus gyvenimo ir įstojo į Nemunaičio apylinkių partizanų būrį, iš karto buvo išrinktas jo vadu.
+A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu.
 
 ## Teiginiai
 
 <a id="claim-t-41104"></a>
 - t-001
   global_id: t-41104
-  teiginys: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iškart buvo išrinktas jo vadu.'
+  teiginys: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     A. Ramanauskas persikėlė dirbti į

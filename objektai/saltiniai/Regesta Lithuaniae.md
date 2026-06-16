@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393. Dusburgietis teigia, kad l., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p. 117). Dusburgietis teigia, kad apie nuostabų brolių išsigelbėjimą vieno žygio metu 537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).
+Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m. Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota. „Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.
 
 ## Teiginiai
 
@@ -49,7 +49,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 <a id="claim-t-60928"></a>
 - t-003
   global_id: t-60928
-  teiginys: 'Dusburgietis teigia, kad apie nuostabų brolių išsigelbėjimą vieno žygio metu 537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).'
+  teiginys: '„Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.'
   pagrindžia:
     - c-003
 
@@ -100,6 +100,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     - t-002
 
 - c-003
+  santrauka: '„Regesta Lithuaniae“ puslapis 144 nurodomas prie 1292 m. žygio ir pasakojimo apie nuostabų brolių išsigelbėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie nuostabų brolių išsigelbėjimą vieno žygio metu

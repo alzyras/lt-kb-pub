@@ -10,16 +10,16 @@ date_start: '1392'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sutartis
 amziai:
   - 'XIV'
+tags:
+  - sutartis
 ---
 # Astravos sutartis
 
 ## Santrauka
 
-Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą. 1930 m. veikale ši taika vadinama Ostrovos taika ir datuojama 1392 m. rugpjūčio 5 d.; joje Jogaila grąžino Vytautui tėviškę, o Vytautas atgavo Lietuvos valdžią didžiojo kunigaikščio teisėmis.
+Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais. Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną. Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.
 
 ## Laikotarpis ir datos
 
@@ -40,7 +40,6 @@ Nenurodyta
 Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigaikščio teisėmis.
 
 ## Teiginiai
-
 <a id="claim-t-12397"></a>
 - t-001
   global_id: t-12397
@@ -63,22 +62,20 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   pagrindžia:
     - c-003
 
-<a id="claim-t-176169"></a>
-- t-004
-  global_id: t-176169
+- t-007
   teiginys: '1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-176170"></a>
-- t-005
-  global_id: t-176170
-  teiginys: 'Astravos sutartis buvo patvirtinta abiejų pusių atskirais dokumentais.'
-  pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -99,7 +96,6 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -113,7 +109,6 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -129,24 +124,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
-  santrauka: 'Astravos sutartis buvo patvirtinta abiejų pusių atskirais dokumentais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vy-
-    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
-    valdžią ir visada jį palaikyti. Sutartis buvo patvirtinta abiejų
-    pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
-    rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
-    vyga ir Ona.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   santrauka: '1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -158,11 +136,30 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
     tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
     valdžią ir visada jį palaikyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
+- c-005
+  santrauka: 'Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vy-
+    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
+    valdžią ir visada jį palaikyti. Sutartis buvo patvirtinta abiejų
+    pusių atskirais dokumentais. Be Jogailos ir Vytauto, tą susita-
+    rimą atskirais dokumentais dar patvirtino ir jų žmonos — Jad-
+    vyga ir Ona.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

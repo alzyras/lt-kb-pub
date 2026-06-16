@@ -13,34 +13,21 @@ tags:
 
 ## Santrauka
 
-Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba. Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart vis labiau ėmė įsigalėti lenkų kalba.
+Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.
 
 ## Teiginiai
-
-<a id="claim-t-72692"></a>
-- t-001
-  global_id: t-72692
-  teiginys: 'Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-72693"></a>
-- t-002
+- t-001
   global_id: t-72693
   teiginys: 'Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72694"></a>
-- t-003
-  global_id: t-72694
-  teiginys: 'Gudų kalba Lietuvoje dar ilgai buvo vartojama, nes plačiosios bajorų masės nemokėjo lotynų kalbos.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau judėjimas dėl lotynų kalbos veikiai aprimo. Plačiosios
@@ -48,49 +35,18 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
     kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.
     Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
     vis labiau ėmė įsigalėti lenkų kalba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Kalbų vartojimas.** Lietuvoje vidaus reikalams jau nuo XIV
-    amž. galo buvo vartojama gudų rašto kalba. Iš pradžių, greta
-
-
-    jos, dar buvo pradėta vartoti lotynų kalba, tačiau ji neįsigalėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Gudų kalba Lietuvoje dar ilgai buvo vartojama, nes plačiosios bajorų masės nemokėjo lotynų kalbos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Plačiosios
-    bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų,
-    kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.
-    Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
-    vis labiau ėmė įsigalėti lenkų kalba. Tuo pat metu visi publi-
-    cistiški ginčai jau ėjo lenkų kalba; lenkiškais raštais kovojo ir
-    katalikai su tuo metu iškilusiu protestantizmu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]

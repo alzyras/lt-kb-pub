@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su sąmokslu prieš Mindaugą ir vėliau tapęs Pskovo kunigaikščiu. Jis minimas kaip Mindaugo svogeris, priėmęs Timofėjaus vardą ir iš naujosios žemės rengęs žygius prieš Nalšėnus.
+Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė. Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą. Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.
 
 ## Teiginiai
 
@@ -107,7 +107,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 <a id="claim-t-184689"></a>
 - t-012
   global_id: t-184689
-  teiginys: '1441 m. žemaičiai išsirinko Daumantą kunigaikščiu ir visi lyg vienas rėmė Mykolą.'
+  teiginys: '1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.'
   pagrindžia:
     - c-012
 
@@ -353,7 +353,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - t-011
 
 - c-012
-  santrauka: '1441 m. žemaičiai išsirinko Daumantą kunigaikščiu ir visi lyg vienas rėmė Mykolą.'
+  santrauka: '1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Likę žiemos mėnesiai buvo
@@ -388,15 +388,16 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - [[objektai/grupes/Lybiai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/stabmeldžiai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
-- [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/asmenys/Kantautas]]
-- [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/grupes/Rogvoldovičiai]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Kęsgaila]]
 - [[objektai/paprociai/Šermenų kėlimas rūmuose mirus valdovo žmonai]]

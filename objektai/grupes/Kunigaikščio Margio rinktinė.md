@@ -20,19 +20,12 @@ amziai:
 
 ## Santrauka
 
-Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji. Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai sujungti į vieną - Tumo Vaižganto rinktinę ir įtraukti į Vytauto, o Žaliosios rinktinės kovotojai - į Vyčio apygardas.
+1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
 
 ## Teiginiai
 
-<a id="claim-t-40957"></a>
-- t-001
-  global_id: t-40957
-  teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-40958"></a>
-- t-002
+- t-001
   global_id: t-40958
   teiginys: '1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.'
   pagrindžia:
@@ -55,21 +48,6 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    nių, kurie priklausė Vytauto apygardai.
-    Algimanto apygardą sudarė trys rinktinės:
-    Šarūno, Kunigaikščio Margio ir Žalioji.
-    Apygardos teritorijoje, Šimonių girioje,
-    bazavosi srities vadovybė, būdavo ren-
-    giami srities vadų sąskrydžiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -79,5 +57,4 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 - [[objektai/grupes/Tumo Vaižganto rinktinė]]
 - [[objektai/grupes/Vytauto apygarda]]
 - [[objektai/grupes/Vyčio apygarda]]
-- [[objektai/grupes/Šarūno rinktinė]]
 - [[objektai/grupes/Žalioji rinktinė]]

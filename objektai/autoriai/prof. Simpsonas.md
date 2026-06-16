@@ -15,17 +15,18 @@ tags:
 Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo buvusios gubernijos sienos.
 
 ## Teiginiai
-
 <a id="claim-t-01171"></a>
 - t-001
   global_id: t-01171
   teiginys: 'Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
@@ -39,9 +40,11 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
     Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
     pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
     gubernijos kaimai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

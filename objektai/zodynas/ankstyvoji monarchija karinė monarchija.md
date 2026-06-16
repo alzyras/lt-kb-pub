@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuvos antiizoliacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija vertė Lietuvą visą energiją skirti karybai.
+XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordinų agresija vertė Lietuvą daug energijos skirti karybai. Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas. Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 <a id="claim-t-183397"></a>
 - t-003
   global_id: t-183397
-  teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  teiginys: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija.'
   pagrindžia:
     - c-003
 
@@ -71,7 +71,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     - t-001
 
 - c-003
-  santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  santrauka: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminas nebuvo pirmas šios dinastijos atsto-
@@ -90,8 +90,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/posakiai/Rex Lethowye]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/karyba]]

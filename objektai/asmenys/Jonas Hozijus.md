@@ -187,7 +187,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/daiktai/Vamzdžiai]]
 - [[objektai/grupes/Vokiečiai]]

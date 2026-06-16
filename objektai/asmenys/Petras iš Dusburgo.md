@@ -65,4 +65,5 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
 - [[objektai/zodynas/viešpaties darbas opus domini]]
 - [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
 - [[objektai/zodynas/viešpaties karas]]
+- [[objektai/asmenys/Jėzus Kristus]]
 - [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]

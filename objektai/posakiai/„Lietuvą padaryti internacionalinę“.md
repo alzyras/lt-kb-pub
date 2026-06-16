@@ -70,5 +70,4 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/asmenys/Nikolajus Mitkinas]]
 - [[objektai/asmenys/Petras Griškevičius]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]

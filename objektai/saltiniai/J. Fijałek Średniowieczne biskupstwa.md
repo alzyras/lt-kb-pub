@@ -21,20 +21,21 @@ amziai:
 
 ## Santrauka
 
-Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare bei šeimoje stačiatikių įtaka buvo stipresnė negu pas (^2) Fijałek : Średniowieczne biskupstwa , KH, 1896, 518 p. (^3) PSRL, 10, 213; plg.
+J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.
 
 ## Teiginiai
 
 <a id="claim-t-100171"></a>
 - t-001
   global_id: t-100171
-  teiginys: 'Tuo būdu Vilniuje sėdįs valdovas formaliai išlaikė pagonybę, nors jo dvare bei šeimoje stačiatikių įtaka buvo stipresnė negu pas (^2) Fijałek : Średniowieczne biskupstwa , KH, 1896, 518 p. (^3) PSRL, 10, 213; plg.'
+  teiginys: 'J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Fijałeko „Średniowieczne biskupstwa“ minima kaip 1896 m. „Kwartalnik Historyczny“ publikacija.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Matyti, jis buvo įsitikinęs, jog jam priėmus

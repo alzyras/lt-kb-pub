@@ -11,12 +11,12 @@ date_start: '1414'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sutartis
-  - vieta
 amziai:
   - 'XV'
   - 'XXI'
+tags:
+  - sutartis
+  - vieta
 ---
 # Grabova
 
@@ -25,7 +25,6 @@ amziai:
 Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susitarimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demarkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
 
 ## Teiginiai
-
 <a id="claim-t-67983"></a>
 - t-001
   global_id: t-67983
@@ -39,9 +38,10 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   teiginys: 'Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1414–1418 m. paliaubų pasitarimuose Grabovoje Vytautas gynė prekybos reikalus su Ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -60,8 +60,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
+  santrauka: 'Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu lenkai, prancūzų padedami, sutvar-
@@ -74,8 +74,10 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
 
     kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

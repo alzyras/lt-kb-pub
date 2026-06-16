@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos panaikinimo šūkiais. Kas treji metai bajorija galėjo rinktis į seimelius Apskrities seimely ji svarstydavo savo reikalus ir išrinkdavo atstovus į apskrities įstaigas.
+1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais.
 
 ## Laikotarpis ir datos
 
@@ -38,41 +38,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-67046"></a>
+<a id="claim-t-67047"></a>
 - t-001
-  global_id: t-67046
-  teiginys: 'Kas treji metai bajorija galėjo rinktis į seimelius Apskrities seimely ji svarstydavo savo reikalus ir išrinkdavo atstovus į apskrities įstaigas.'
+  global_id: t-67047
+  teiginys: '1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67047"></a>
-- t-002
-  global_id: t-67047
-  teiginys: 'Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos panaikinimo šūkiais.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bajorijai vadovavo apskričių ir gubernijų maršal-
-    kos. Kas treji metai bajorija galėjo rinktis į seimelius
-    Apskrities seimely ji svarstydavo savo reikalus ir išrinkdavo
-    atstovus į apskrities įstaigas. Be to, ten būdavo renkami atsto-
-
-
-    vai į gubernijos seimelį, o šis savo rėžtu rinkdavo gubernijos
-    vadovybę ir atstovus į visas gubernijos įstaigas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ir iš tikro 1817 metų seimeliai rinkosi baudžiavos pa-
@@ -80,15 +57,15 @@ Nenurodyta
     ties (pavieto) seimelis. Instrukcijoje savo atstovams į guberni-
     jos seimelį ukmergiškiai aiškiai reikalavo atleisti valstiečius nuo
     baudžiavos, tik be žemės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/seimelis]]

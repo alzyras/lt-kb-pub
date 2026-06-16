@@ -1,18 +1,23 @@
 ---
 tipas: posakis
-pavadinimas: '„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“'
+pavadinimas: "„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“"
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1270 m.'
 date_start: '1270'
 date_end: ''
+aliases:
+  - 'Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis'
+  - 'objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis'
+variantai:
+  - 'Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-amziai:
-  - 'XIII'
 ---
 # „Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“
 
@@ -21,30 +26,31 @@ amziai:
 ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis ».
 
 ## Teiginiai
-
-<a id="claim-t-97299"></a>
+<a id="claim-t-186397"></a>
 - t-001
-  global_id: t-97299
+  global_id: t-186397
   teiginys: 'Cituojama kronika Traidenį vadino pašėlusiu, nedorovingu, prakeiktu ir negailestingu Lietuvos valdovu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-97300"></a>
+<a id="claim-t-186398"></a>
 - t-002
-  global_id: t-97300
+  global_id: t-186398
   teiginys: 'Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-97301"></a>
+<a id="claim-t-186399"></a>
 - t-003
-  global_id: t-97301
+  global_id: t-186399
   teiginys: 'Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.'
   pagrindžia:
     - c-001
-
+<a id="claim-t-186400"></a>
+- t-004
+  global_id: t-186400
+  teiginys: 'Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -59,10 +65,12 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
+- [[objektai/zodynas/lietopisis]]
+- [[objektai/zodynas/lietopisis lietopisiai]]
+- [[objektai/zodynas/metraštis]]

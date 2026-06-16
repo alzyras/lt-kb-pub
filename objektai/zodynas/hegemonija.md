@@ -77,4 +77,4 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 - [[objektai/posakiai/„aksomine imperija“]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

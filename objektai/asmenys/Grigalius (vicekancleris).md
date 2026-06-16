@@ -61,7 +61,6 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
 - [[objektai/asmenys/Augustas]]

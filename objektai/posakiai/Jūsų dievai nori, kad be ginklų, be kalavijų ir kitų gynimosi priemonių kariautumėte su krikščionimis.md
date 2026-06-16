@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“. Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.
+Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą. Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.
 
 ## Teiginiai
 
@@ -22,41 +22,18 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   global_id: t-89590
   teiginys: 'Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-89591"></a>
 - t-002
   global_id: t-89591
   teiginys: 'Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-89592"></a>
-- t-003
-  global_id: t-89592
-  teiginys: 'Petras Dusburgietis posakį priskiria moteriai, sušaukusiai žemės galinguosius kariauti su krikščionimis be ginklų.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Petras Dusburgietis posakį priskiria moteriai, sušaukusiai žemės galinguosius kariauti su krikščionimis be ginklų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ši, užjausdama savąją lytį, sušaukė pas save visos
-    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
-    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
-    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė  į
-    kaimynų krikščionių žemes. Be kitų nuostolių, kurių ten pridarė, išsivarė su savimi grobį
-    — nesuskaitomą daugybę žmonių ir gyvulių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai traukėsi atgal, kai kuriems belaisviams
@@ -74,26 +51,9 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     - t-002
     - t-001
 
-- c-003
-  santrauka: 'Petras Dusburgietis posakį priskiria moteriai, sušaukusiai žemės galinguosius kariauti su krikščionimis be ginklų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
-    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
-    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
-    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė  į
-    kaimynų krikščionių žemes.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/autoriai/Petras Dusburgietis]]

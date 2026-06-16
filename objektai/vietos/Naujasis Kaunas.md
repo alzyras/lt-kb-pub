@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą). Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. balandį atplaukė Nemunu, priplaukęs Trapénus (žemiau Nevėžio žiočių), paliko laivus, juos apkasęs gynybiniu pylimu, ir atėjo prie Naujojo Kauno pilies, „pradėtos atstatinėti.
+Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą. Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože. 1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 <a id="claim-t-79878"></a>
 - t-003
   global_id: t-79878
-  teiginys: '1363 m. balandį Ordino magistras su kariuomene atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.'
+  teiginys: '1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     - t-002
 
 - c-002
+  santrauka: '1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sužinoję apie Naujojo Kauno statybą,

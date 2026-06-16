@@ -18,47 +18,21 @@ amziai:
 
 ## Santrauka
 
-Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.
+Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.
 
 ## Teiginiai
 
 <a id="claim-t-78168"></a>
 - t-001
   global_id: t-78168
-  teiginys: 'Kaime buvo įsikūręs Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-78169"></a>
-- t-002
-  global_id: t-78169
-  teiginys: 'Prieš lietuvius Širvintų apylinkėse veikė Gardino pulkas.'
+  teiginys: 'Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prieš lietuvius Širvintų apylinkėse veikė Gardino pulkas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Skubiai reikėjo
-    imtis ryžtingų veiksmų.
-    Lapkričio 18 d. pa-
-    vakaryje pulko vadas
-
-    Lenkų pajėgos
-    Prieš lietuvius Širvintų apylinkėse veikė
-    Gardino pulkas. Širvintų apylinkėse
-    buvo sutelkta apie 1800 lenkų kareivių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Kaime buvo įsikūręs Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas.'
+  santrauka: 'Gardino pulko štabas, lauko artilerijos baterija ir vienas pulko batalionas buvo įsikūrę kaime, prie kurio sugulė lietuviai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuviai sugulė greta kaimo esančio miš-

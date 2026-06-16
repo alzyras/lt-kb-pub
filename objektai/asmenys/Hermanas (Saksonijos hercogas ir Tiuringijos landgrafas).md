@@ -66,7 +66,6 @@ Dusburgietis teigia, kad hermanas (Saksonijos hercogas ir Tiuringijos landgrafas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]

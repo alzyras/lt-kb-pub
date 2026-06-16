@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­ tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos. Tas pats Ulrikas visą laiką iki pat mirties buvo Vil­ niaus monetų kalyklos prižiūrėtojas.
+Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti. Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas. Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.
 
 ## Teiginiai
 
@@ -52,7 +52,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 <a id="claim-t-87365"></a>
 - t-004
   global_id: t-87365
-  teiginys: '1515 m. karalius leido Ulrikui Hozijui, Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, savo lėšomis statyti malūną.'
+  teiginys: '1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.'
   pagrindžia:
     - c-005
 
@@ -180,7 +180,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - t-006
 
 - c-005
-  santrauka: '1515 m. karalius leido Ulrikui Hozijui, Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, savo lėšomis statyti malūną.'
+  santrauka: '1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -319,7 +319,6 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Druska]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lotynai]]
@@ -328,11 +327,11 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 - [[objektai/posakiai/Viešpaties vardu Amen]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/palivarkas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]

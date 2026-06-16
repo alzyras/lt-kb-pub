@@ -129,6 +129,7 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Žirgai]]

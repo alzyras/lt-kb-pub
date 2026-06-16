@@ -211,7 +211,6 @@ Nenurodyta.
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
@@ -235,6 +234,6 @@ Nenurodyta.
 - [[objektai/zodynas/metropolija bažnytinė provincija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
 - [[objektai/zodynas/metropolitas metropolija]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
 - [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]

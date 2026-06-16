@@ -55,4 +55,3 @@ tags:
 - [[objektai/grupes/Marijampolės batalionas]]
 - [[objektai/grupes/Mokomoji kuopa]]
 - [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/grupes/brigada]]

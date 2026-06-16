@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pritarė. Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.
+Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė. Augustas netrukus atšalo nuo Kotrynos ir nutarė su ja išsiskirti, aiškindamas, kad santuoka esanti neteisėta.
 
 ## Teiginiai
 
 <a id="claim-t-185940"></a>
 - t-001
   global_id: t-185940
-  teiginys: 'Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pritarė.'
+  teiginys: 'Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdymą, o luomai tam pritarė.'
+  santrauka: 'Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Seimo pradžioje, kai pradė­
@@ -83,7 +83,6 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai]]
-- [[objektai/grupes/Atskiri Lietuvos seimai]]
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
 - [[objektai/paprociai/Audringi ir kalbūs seimai, dažnai iširdavę]]
 - [[objektai/asmenys/Augustas II]]
@@ -100,7 +99,6 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
 - [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/grupes/Habsburgai]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
@@ -111,25 +109,20 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją]]
 - [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
 - [[objektai/asmenys/Kazimieras IV]]
-- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/asmenys/Kunzas Lochneris]]
 - [[objektai/ivykiai/LLV padalijimų aktų panaikinimas Sovietų Rusijoje]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
 - [[objektai/grupes/Lietuvos senatoriai]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Livonijos valstybė]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/ivykiai/Nebylus seimas (1717 m.)]]
-- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
 - [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.)]]
 - [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
@@ -147,7 +140,6 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/posakiai/Tai ne tas kelias, Maloningasis Pone]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/paprociai/Valdovo meilės ryšių viešas smerkimas apkalbomis ir pašiepiamomis dainelėmis]]
 - [[objektai/paprociai/Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
@@ -167,7 +159,6 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Wielkierz Wilkirz Willkühren]]
-- [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/daiktai/Zigmanto Augusto antkapis]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/zodynas/abdikacija]]
@@ -202,7 +193,9 @@ Karalius perdavė sūnui Augustui Lietuvos Didžiosios Kunigaikštystės valdym�
 - [[objektai/posakiai/„taikdarišką“ ir „tarpininkavimo“ misiją]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
 - [[objektai/posakiai/Ab alio expectes alteri quod feceris]]
-- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
+- [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
 - [[objektai/daiktai/Patranka Hidra]]
 - [[objektai/grupes/Radvilos]]

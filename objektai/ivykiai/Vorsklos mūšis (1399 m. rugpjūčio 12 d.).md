@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Vytauto žvaigždė, taip šviesi ir taip aukštai iškilusi, prie Vorsklos apte­ mo.
+Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje. 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis. Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.
 
 ## Laikotarpis ir datos
 
@@ -53,33 +53,26 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-63382"></a>
-- t-002
-  global_id: t-63382
-  teiginys: 'Vorsklos kautynėse daug lėmė Aukso ordos karių kiekybinė persvara.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-63383"></a>
-- t-003
+- t-002
   global_id: t-63383
   teiginys: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183677"></a>
-- t-004
+- t-003
   global_id: t-183677
   teiginys: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-184235"></a>
-- t-005
+- t-004
   global_id: t-184235
   teiginys: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   pagrindžia:
-    - c-009
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -129,34 +122,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Vorsklos kautynėse daug lėmė Aukso ordos karių kiekybinė persvara.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio padariniai
-    Visų trijų Vytauto žygių, Vorsklos kauty-
-    nių įvykiai apibendrinti Detmaro Liubeko
-    kronikos tęsinyje: tuo metu lietuviai prieš
-    totorius kariavę tris kartus, dvejas kautynes
-    laimėję, o prie Vorsklos patyrę nesėkmę;
-    to meto žiniomis, tuose mūšiuose totorių
-    žuvo 300 000, 0 Vytautas praradęs 100 000
-    karių (skaičiai, be abejo, perdėti, gal net
-    dešimtį kartų), bet santykis galėtų būti re-
-    alus: totorių žuvo tris kartus daugiau nei
-    Vytauto ir jo sąjungininkų karių. Vytautas
-    prarado apie 14 savo kariuomenės.
-    Vorsklos kautynėse daug lėmė Aukso
-    ordos karių kiekybinė persvara.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitaip rugpiučio 12 popietėje totorių kariuo­
@@ -168,7 +136,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
 
-- c-006
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš vokiečių ordino kariuomenės teišsigelbėjo pora riterių (jų
@@ -181,7 +149,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
 
-- c-007
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
@@ -194,7 +162,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
 
-- c-008
+- c-007
   santrauka: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -220,9 +188,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-009
+- c-008
   santrauka: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -234,11 +202,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/autoriai/Detmaro Liubeko]]
 - [[objektai/asmenys/Edigėjus]]
 - [[objektai/asmenys/Jonas]]
@@ -250,7 +217,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/daiktai/Vytauto ženklas]]

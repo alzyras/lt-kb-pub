@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Mindaugas karūnos siekė per 1251 m. krikštą ir diplomatinius ryšius su Livonijos ordinu. 1253 m. liepos 6 d. pasiektas karūnos tikslas šaltinyje siejamas su Lietuvos valstybės susikūrimo užbaigimu, tarptautiniu pripažinimu, popiežiaus vasalitetu, savarankiškos vyskupijos teise ir pirmąja tarptautine Lietuvos diplomatijos pergale.
+1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną. 1251 m. Mindaugas krikštijosi perleidęs didelę dalį Žemaitijos Livonijos ordinui, o 1253 m. liepos 6 d. pasiekė karūnos tikslą. Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius.
 
 ## Laikotarpis ir datos
 
@@ -59,7 +59,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 <a id="claim-t-13490"></a>
 - t-002
   global_id: t-13490
-  teiginys: '1251 m. Mindaugas krikštijosi mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui, o svarbiausias krikšto tikslas buvo karūna.'
+  teiginys: '1251 m. Mindaugas krikštijosi perleidęs didelę dalį Žemaitijos Livonijos ordinui, o 1253 m. liepos 6 d. pasiekė karūnos tikslą.'
   pagrindžia:
     - c-002
 
@@ -94,7 +94,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 <a id="claim-t-26857"></a>
 - t-007
   global_id: t-26857
-  teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
+  teiginys: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
   pagrindžia:
     - c-004
 
@@ -173,6 +173,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     - t-006
 
 - c-004
+  santrauka: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo vainikavimas
@@ -200,6 +201,7 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - [[objektai/zodynas/Arkivyskupija]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Morta]]

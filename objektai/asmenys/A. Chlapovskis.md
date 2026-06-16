@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioje buvo paliktas 1-asis ulonų pulkas, Kališo raitelių dalinys, kuopa jėgerių ir viena artilerijos baterija.
+Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą. Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 
 ## Teiginiai
 
 <a id="claim-t-39465"></a>
 - t-001
   global_id: t-39465
-  teiginys: 'A. Chlapovskiui buvo pavesta organizuoti sukilėlių kariuomenės atsitraukimą.'
+  teiginys: 'Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.'
   pagrindžia:
     - c-002
 
@@ -52,6 +52,7 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
     - t-002
 
 - c-002
+  santrauka: 'Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sukilėlių kariuomenės atsitraukimą

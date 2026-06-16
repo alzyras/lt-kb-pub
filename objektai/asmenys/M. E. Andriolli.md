@@ -22,20 +22,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.) L I E T U V O S I S T O R I J A 110 Kariniu požiūriu 60 tūkst.
+M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.
 
 ## Teiginiai
 
 <a id="claim-t-26453"></a>
 - t-001
   global_id: t-26453
-  teiginys: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių.'
+  teiginys: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos sukilėlių vyriausybė į Lietu-

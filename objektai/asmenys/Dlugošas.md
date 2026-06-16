@@ -10,14 +10,14 @@ date_start: '1409'
 date_end: '1411'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
-  - tauta
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
+  - tauta
 ---
 # Dlugošas
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t.
 
 ## Teiginiai
-
 <a id="claim-t-30223"></a>
 - t-001
   global_id: t-30223
@@ -42,7 +41,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -56,7 +54,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -73,7 +70,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -96,16 +92,22 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - [[objektai/grupes/Rusai]]
 - [[objektai/posakiai/Vakkis Ahridlis]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/ivykiai/Astravos sutartis]]
+- [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme]]
 - [[objektai/asmenys/Dobeslavas Skoračevskis]]
 - [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kiršenšteinai]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
+- [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]

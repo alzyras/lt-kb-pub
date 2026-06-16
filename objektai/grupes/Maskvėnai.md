@@ -13,63 +13,41 @@ tags:
 
 ## Santrauka
 
-LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu LDK rytų slavus – lietuviais.
+Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą. Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo. Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių.
 
 ## Teiginiai
 
-<a id="claim-t-19940"></a>
-- t-001
-  global_id: t-19940
-  teiginys: 'LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu LDK rytų slavus – lietuviais.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-184570"></a>
-- t-002
+- t-001
   global_id: t-184570
   teiginys: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-184571"></a>
-- t-003
+- t-002
   global_id: t-184571
   teiginys: 'Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-184572"></a>
-- t-004
+- t-003
   global_id: t-184572
   teiginys: 'Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-184574"></a>
-- t-005
+- t-004
   global_id: t-184574
   teiginys: 'Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Juk pusė senosios Kijevo Ru-
-    sios valstybės pateko į Lietuvos ir Lenkijos sudėtį, ir nuo XIV a. senrusių
-    bajorijos, kunigaikščių savimonė buvo veikiama šiose valstybėse vykstan-
-    čių procesų. XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
-    kvos valstybės rusai. LDK rytų slavai Rusijos žmones vadino maskvėnais, o
-    maskvėnai savo ruožtu LDK rytų slavus – lietuviais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -85,9 +63,9 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -109,9 +87,9 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -130,9 +108,9 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   santrauka: 'Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -148,17 +126,14 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Sologubas]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/seniūnas]]
@@ -180,14 +155,19 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
 - [[objektai/asmenys/Jurgis Tiškevičius]]
 - [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]
+- [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/asmenys/Kristupas iš Viljandžio]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/grupes/Krymo totoriai]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]
 - [[objektai/asmenys/Laurynas Zaremba]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/asmenys/Martynas Volodkovičius]]
 - [[objektai/grupes/Maskvos kariuomenė]]
@@ -205,19 +185,20 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]
 - [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/asmenys/Stanislovas Jendžejevskis]]
 - [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]
 - [[objektai/asmenys/Teodoras Vodka]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- [[objektai/asmenys/Vasilijus]]
 - [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]
 - [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]
 - [[objektai/zodynas/algininkai]]
 - [[objektai/zodynas/cesija ir decesija]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/taikytojas]]
 - [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]
@@ -226,6 +207,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/zodynas/žirgininkas]]
 - [[objektai/ivykiai/Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis]]
 - [[objektai/asmenys/Mengli Girėjus]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/daiktai/Statinės medaus]]
 - [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]
 - [[objektai/asmenys/Zigmantas Vaza]]

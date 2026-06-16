@@ -62,6 +62,5 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 - [[temos/frazė]]
 
 ### Susiję objektai
-- [[objektai/zodynas/lenas]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/grupes/Germanai]]

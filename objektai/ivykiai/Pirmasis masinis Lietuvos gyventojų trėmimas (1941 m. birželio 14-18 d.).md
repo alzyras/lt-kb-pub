@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst. Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.
+Pirmasis masinis Lietuvos gyventojų trėmimas buvo nukreiptas į fizinį šeimų naikinimą. 1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-110636"></a>
 - t-001
   global_id: t-110636
-  teiginys: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
+  teiginys: 'Pirmasis masinis Lietuvos gyventojų trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pirmasis masinis Lietuvos gyventojų trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas

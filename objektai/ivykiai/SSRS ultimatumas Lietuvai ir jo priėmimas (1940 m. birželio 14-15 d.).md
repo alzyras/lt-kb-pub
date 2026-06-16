@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J. Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą. Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.
+1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą. Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai. Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
 
 ## Laikotarpis ir datos
 
@@ -44,14 +44,14 @@ Nenurodyta
 <a id="claim-t-45442"></a>
 - t-001
   global_id: t-45442
-  teiginys: 'Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą.'
+  teiginys: '1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-45443"></a>
 - t-002
   global_id: t-45443
-  teiginys: 'Kariškiai V. Vitkauskas ir S. Raštikis teigė, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  teiginys: 'Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-005
 
@@ -151,6 +151,7 @@ Nenurodyta
     - t-006
 
 - c-004
+  santrauka: '1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-
@@ -169,6 +170,7 @@ Nenurodyta
     - t-001
 
 - c-005
+  santrauka: 'Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau ministro pirmininko
@@ -225,7 +227,7 @@ Nenurodyta
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Stasys Raštikis]]
-- [[objektai/asmenys/V. Vitkauskas]]
 - [[objektai/asmenys/Juozas Urbšys]]
 - [[objektai/asmenys/Michailas Kalininas]]
+- [[objektai/asmenys/V. Vitkauskas]]
 - [[objektai/asmenys/Viačeslavas Molotovas]]

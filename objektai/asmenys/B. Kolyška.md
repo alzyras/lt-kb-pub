@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau to neleido vyriausiasis vadas Z.
+B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę. Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai. B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 <a id="claim-t-40054"></a>
 - t-002
   global_id: t-40054
-  teiginys: 'B. Kolyškai buvo pavesta vadovauti vienai sukilėlių kolonai.'
+  teiginys: 'Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai.'
   pagrindžia:
     - c-002
 
@@ -70,6 +70,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     - t-004
 
 - c-002
+  santrauka: 'Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netrukus iš K. Maleckio žvalgy-

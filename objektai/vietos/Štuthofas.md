@@ -19,26 +19,19 @@ amziai:
 
 ## Santrauka
 
-– į Štuthofą, Dachau, Osvencimą. Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą. Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.
+Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą. 1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą.
 
 ## Teiginiai
 
-<a id="claim-t-77720"></a>
-- t-001
-  global_id: t-77720
-  teiginys: 'Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-77721"></a>
-- t-002
+- t-001
   global_id: t-77721
   teiginys: 'Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-77722"></a>
-- t-003
+- t-002
   global_id: t-77722
   teiginys: '1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą.'
   pagrindžia:
@@ -66,19 +59,5 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
-    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
-    voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
-    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
-    stovyklą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
+    - t-002

@@ -154,4 +154,3 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/zodynas/Nepriklausomybės kovos]]
 - [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/karė]]

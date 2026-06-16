@@ -13,51 +13,23 @@ tags:
 
 ## Santrauka
 
-Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.
+Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.
 
 ## Teiginiai
-
-<a id="claim-t-02501"></a>
-- t-001
-  global_id: t-02501
-  teiginys: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183031"></a>
-- t-002
-  global_id: t-183031
-  teiginys: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-184989"></a>
-- t-003
+- t-002
   global_id: t-184989
   teiginys: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visa tai buvo daroma rusiškajam gaivalui su-
-    stiprinti.
-
-    Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
-    Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
-    ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
-    kurti rusiškos mokyklos: jos neturėdavo mokinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-001
-
 - c-002
   santrauka: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -76,5 +48,23 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visa tai buvo daroma rusiškajam gaivalui su-
+    stiprinti.
+
+    Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
+    Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
+    ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
+    kurti rusiškos mokyklos: jos neturėdavo mokinių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

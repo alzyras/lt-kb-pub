@@ -135,7 +135,6 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Duona]]
 - [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
 - [[objektai/zodynas/globėjas]]

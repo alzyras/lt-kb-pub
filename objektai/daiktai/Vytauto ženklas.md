@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.
+Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą. Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu. Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.
 
 ## Pavadinimai šaltiniuose
 
@@ -63,7 +63,7 @@ Nenurodyta
 <a id="claim-t-183691"></a>
 - t-003
   global_id: t-183691
-  teiginys: 'Edigėjus reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą liepė Lietuvos pinigus žymėti Ordos ženklais.'
+  teiginys: 'Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.'
   pagrindžia:
     - c-003
 
@@ -108,7 +108,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Edigėjus reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą liepė Lietuvos pinigus žymėti Ordos ženklais.'
+  santrauka: 'Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vytautas 5 dienas stovėjo kitoje Vorsklos

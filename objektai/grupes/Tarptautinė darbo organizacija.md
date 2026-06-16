@@ -54,5 +54,4 @@ tags:
 - [[objektai/grupes/Jungtinių Tautų organizacija]]
 - [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
 - [[objektai/grupes/UNESCO]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

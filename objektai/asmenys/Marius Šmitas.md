@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šmitas ir Pranas Kasteckas 1991 m. pučas, KAM.
+1991 m. pučo metu Marius Šmitas buvo įamžintas kartu su Pranu Kastecku. 1991 m. nuotraukoje Marius Šmitas vaizduojamas su medžiokliniu šautuvu.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 <a id="claim-t-40328"></a>
 - t-002
   global_id: t-40328
-  teiginys: '1991 m. Marius Šmitas buvo įamžintas su medžiokliniu šautuvu.'
+  teiginys: '1991 m. nuotraukoje Marius Šmitas vaizduojamas su medžiokliniu šautuvu.'
   pagrindžia:
     - c-001
 

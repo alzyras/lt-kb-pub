@@ -33,63 +33,33 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66501"></a>
 - t-001
   global_id: t-66501
-  teiginys: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
+  teiginys: 'Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą.'
   pagrindžia:
-    - c-002
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66502"></a>
 - t-002
   global_id: t-66502
-  teiginys: 'Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą.'
+  teiginys: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
   pagrindžia:
-    - c-003
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66503"></a>
 - t-003
   global_id: t-66503
   teiginys: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
   pagrindžia:
-    - c-001
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pasisekimas buvo toks didelis, jog kai kuriose parapijose blai-
-    vybės brolijos nariais pasidarė net 97% visų gyventojų. Pajuto
-    tą ir iždas, nes staiga sumažėjo degtinės pajamos. 1859 m. iždas
-    buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės
-    948.056 rublius, o tegavo vos 53.146 rublius. Vilniaus guberni-
-    joje degtinės pajamos kad ir sumažėjo, bet ne taip labai: ten
-    buvo tikėtasi 929.305 rublių, o gauta 336.781 rublis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vyskupo raginama, kunigija tapo uoliausia
-    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-    1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų
-    pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-
-    tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Vyskupo Valančiaus valdoma Žemaičių vyskupystė tapo vieta, kur Lietuvoje blaivybės skelbimas turėjo didžiausią pasisekimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -102,11 +72,47 @@ Nenurodyta
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vyskupo raginama, kunigija tapo uoliausia
+    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
+    1858 m. pradėtas darbas greit išsiplėtė, ir daugumas tikinčiųjų
+    pasižadėjo niekad nebegerti. Vyskupo prašomi, raginami, o kar-
+    tais ir spiriami, dvarininkai ėmė uždarinėti smukles ir bravorus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pasisekimas buvo toks didelis, jog kai kuriose parapijose blai-
+    vybės brolijos nariais pasidarė net 97% visų gyventojų. Pajuto
+    tą ir iždas, nes staiga sumažėjo degtinės pajamos. 1859 m. iždas
+    buvo apskaičiavęs iš Kauno gubernijos gauti nuo degtinės
+    948.056 rublius, o tegavo vos 53.146 rublius. Vilniaus guberni-
+    joje degtinės pajamos kad ir sumažėjo, bet ne taip labai: ten
+    buvo tikėtasi 929.305 rublių, o gauta 336.781 rublis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

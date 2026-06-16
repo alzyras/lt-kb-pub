@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas juos pamokęs bėgti paliekant pilį (III, 121). Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.
+Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis. Pasak Dusburgiečio, per antrąjį prūsų sukilimą Bartenšteinas buvo vienas iš pilių ir miestų karų pasakojimo centrų. Sūduviai apsiautė Bartenšteino pilį, ją sugriovė, gyventojus išžudė arba išsivarė į nelaisvę ir pilį sudegino.
 
 ## Teiginiai
 
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 <a id="claim-t-58302"></a>
 - t-005
   global_id: t-58302
-  teiginys: 'Dusburgietis teigia, kad po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
+  teiginys: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   pagrindžia:
     - c-005
 
@@ -140,6 +140,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-003
 
 - c-005
+  santrauka: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
@@ -196,7 +197,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - t-001
 
 - c-008
-  santrauka: 'Dusburgietis teigia, kad po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
+  santrauka: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,

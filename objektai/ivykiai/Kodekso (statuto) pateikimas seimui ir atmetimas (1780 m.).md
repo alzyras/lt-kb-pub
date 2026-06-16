@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. Kadangi projektas buvo iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net nesvarstę. (Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.
+Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą. 1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.
 
 ## Laikotarpis ir datos
 
@@ -34,31 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66624"></a>
 - t-001
   global_id: t-66624
   teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66625"></a>
-- t-002
-  global_id: t-66625
-  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-66626"></a>
-- t-003
-  global_id: t-66626
-  teiginys: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atmetė jį svarbiausia dėl valstiečiams
@@ -67,50 +54,22 @@ Nenurodyta
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vienas artimiausiųjų jo
-    bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-
-    čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
-    tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
-    ir paimančių juos įstatymo globon.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jame buvo nuostatų, palengvinančių valstiečių būklę
-    ir paimančių juos įstatymo globon. Kadangi projektas buvo
-    iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar
-    seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net ne-
-    svarstę. Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Andrius Kopernikas]]
 - [[objektai/asmenys/Fabianas (Varmės vyskupas)]]
+- [[objektai/ivykiai/I Lietuvos Statuto priėmimas]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/posakiai/Mužikus nori padaryti bajorais, o mus — mužikais]]

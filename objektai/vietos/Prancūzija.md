@@ -14,22 +14,21 @@ date_start: '1291'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - kraštas
   - mokslininkas
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Prancūzija
 
 ## Santrauka
 
-Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją. Atvykęs ir vainikavęsis Krokuvoje, jis savo pažadų nepaisė, vedybas su Ona vis atidėliojo ir svajojo valdyti taip, kaip buvo valdoma Prancūzija, t.
+Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje. LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją. Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.
 
 ## Teiginiai
-
 <a id="claim-t-112063"></a>
 - t-001
   global_id: t-112063
@@ -65,13 +64,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-003
 
-<a id="claim-t-112068"></a>
-- t-006
-  global_id: t-112068
-  teiginys: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-112069"></a>
 - t-007
   global_id: t-112069
@@ -82,7 +74,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-112070"></a>
 - t-008
   global_id: t-112070
-  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  teiginys: 'Zigmantas Sierakauskas manė, kad po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   pagrindžia:
     - c-009
 
@@ -106,20 +98,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   teiginys: 'Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.'
   pagrindžia:
     - c-004
-
-<a id="claim-t-112074"></a>
-- t-012
-  global_id: t-112074
-  teiginys: 'LLV Konstitucija keliais mėnesiais aplenkė Prancūzijos konstituciją.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-112075"></a>
-- t-013
-  global_id: t-112075
-  teiginys: 'Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
-  pagrindžia:
-    - c-011
 
 <a id="claim-t-112076"></a>
 - t-014
@@ -145,40 +123,25 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 <a id="claim-t-183080"></a>
 - t-017
   global_id: t-183080
-  teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+  teiginys: 'Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   pagrindžia:
     - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
+  pagrindžia:
+    - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vakarų Europos universitetus Vokietijoje, Italijoje ir Prancūzijoje.'
+  pagrindžia:
+    - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
-    ryžių, pats Henrikas ir
-    jo brolis Karolis IX
-    stengėsi kai kuriuos
-    punktus pakeisti, bet,
-    delegacijoms nenusilei-
-    dus, su viskuo sutiko
-    ir prisiekė. Tarp kitko,
-    jis pasižadėjo vesti Zig-
-    manto Augusto seserį
-    Oną, nors jam tebebuvo
-    tik 23 m., o jai 55 m.
-    Atvykęs ir vainikavęsis
-    Krokuvoje, jis savo pa-
-    žadų nepaisė, vedybas
-    su Ona vis atidėliojo ir
-    svajojo valdyti taip, kaip
-    buvo valdoma Prancūzi-
-    ja, t. y. absoliutiškai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -196,7 +159,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-007
     - t-014
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -217,7 +179,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-005
     - t-016
-
 - c-004
   santrauka: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -240,7 +201,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-003
     - t-011
-
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -260,7 +220,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-010
     - t-001
-
 - c-006
   santrauka: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -273,7 +232,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   statusas: verified
   pagrindžia:
     - t-015
-
 - c-007
   santrauka: 'LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -291,7 +249,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-002
     - t-012
-
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -307,8 +264,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-009
+  santrauka: 'Zigmantas Sierakauskas manė, kad po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Turėdami savo rankose uostų kontrolę,
@@ -327,7 +284,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-010
   santrauka: 'Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -341,9 +297,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-011
-  santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
+  santrauka: 'Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šiaip, kas norėdavo gauti aukštesniojo ir
@@ -355,9 +310,41 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     Italiją ir Prancūziją. Kadangi į tolimuosius kraštus tegalėjo
     vykti mokytis tik turtingųjų bajorų vaikai, todėl mokytų žmo-
     nių buvo nedaug.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
-    - t-013
+    - t-019
+- c-012
+  santrauka: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
+    ryžių, pats Henrikas ir
+    jo brolis Karolis IX
+    stengėsi kai kuriuos
+    punktus pakeisti, bet,
+    delegacijoms nenusilei-
+    dus, su viskuo sutiko
+    ir prisiekė. Tarp kitko,
+    jis pasižadėjo vesti Zig-
+    manto Augusto seserį
+    Oną, nors jam tebebuvo
+    tik 23 m., o jai 55 m.
+    Atvykęs ir vainikavęsis
+    Krokuvoje, jis savo pa-
+    žadų nepaisė, vedybas
+    su Ona vis atidėliojo ir
+    svajojo valdyti taip, kaip
+    buvo valdoma Prancūzi-
+    ja, t. y. absoliutiškai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-018

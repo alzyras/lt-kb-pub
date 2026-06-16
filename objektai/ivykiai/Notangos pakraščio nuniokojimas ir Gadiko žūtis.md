@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie vienos Notangos dalies nuniokojimą Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais], kurie jam buvo paklusnūs, ir įsibrovė į vieną Notangos žemės pakraštį [confinium], nenorėjusį pritarti taikos sutartims.
+Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis. Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis.
 
 ## Laikotarpis ir datos
 
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-62418"></a>
 - t-001
   global_id: t-62418
-  teiginys: 'Komtūras su Vonsdorfo vyrais įsiveržė į taikos sutartims nepritarusį Notangos pakraštį ir jį nuniokojo plėšdamas bei degindamas.'
+  teiginys: 'Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis.'
   pagrindžia:
     - c-001
 

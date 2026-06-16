@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. - Ramygaloje, 4 val. Po pietų išžygiavome Ramygalos kryptimi.
+Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose. Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.
 
 ## Teiginiai
 
 <a id="claim-t-42087"></a>
 - t-001
   global_id: t-42087
-  teiginys: 'Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.'
+  teiginys: 'Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gegužės 13 d. rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     M. Katche. Rinktinės pajėgos gegužės 13 d.

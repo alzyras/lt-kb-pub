@@ -95,4 +95,5 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/popiežiaus legatas]]

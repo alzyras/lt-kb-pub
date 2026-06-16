@@ -8,13 +8,13 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - miestas
-amziai: []
-periodo_grupes: []
 ---
 # Bona
 
@@ -23,7 +23,6 @@ periodo_grupes: []
 Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje. Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo paties, gyvenusio 85 Tiesa, šimtmečiu vėliau karalienė Bona pagerbė Vytauto atminimą antkapiniu marmuro paminklu di­ džiojo altoriaus dešinėje pusėje. Žygimantas Senasis paprastai gy­ vendavo viename, o karalienė Bona - antrame.
 
 ## Teiginiai
-
 <a id="claim-t-87467"></a>
 - t-001
   global_id: t-87467
@@ -53,7 +52,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -83,7 +81,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -100,7 +97,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -119,7 +115,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
   santrauka: 'Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

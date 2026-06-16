@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]. Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop abu, ilgai gynęsi ir daugybę. Dusburgietis teigia, kad 314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A.
+Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos. Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia. Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.
 
 ## Laikotarpis ir datos
 
@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-66561"></a>
 - t-002
   global_id: t-66561
-  teiginys: 'Sembos puolimas datuojamas 1252–1253 m. žiema arba 1254 m. pradžia.'
+  teiginys: 'Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia.'
   pagrindžia:
     - c-003
 
@@ -103,7 +103,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: 'Sembos puolimas datuojamas 1252–1253 m. žiema arba 1254 m. pradžia.'
+  santrauka: 'Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A. L., Die

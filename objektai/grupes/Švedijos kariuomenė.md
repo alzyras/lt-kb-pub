@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Chodkevičius siekė neleisti švedams susijungti, tačiau to padaryti nepavyko ir rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą.
+Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė. Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 <a id="claim-t-41214"></a>
 - t-002
   global_id: t-41214
-  teiginys: 'Chodkevičius siekė neleisti švedams susijungti, tačiau to padaryti nepavyko ir rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą.'
+  teiginys: 'Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     - t-001
 
 - c-002
+  santrauka: 'Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. K. Chodkevičius siekė neleisti švedams

@@ -74,7 +74,6 @@ Nenurodyta
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Patranka Hidra]]
-- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Palemonas]]

@@ -17,7 +17,6 @@ tags:
 Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekanclerio urėdas, nusileido ir prispaudė antspaudą.
 
 ## Teiginiai
-
 <a id="claim-t-12598"></a>
 - t-001
   global_id: t-12598
@@ -32,15 +31,15 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   pagrindžia:
     - c-002
 
-<a id="claim-t-70375"></a>
-- t-003
-  global_id: t-70375
+<a id="claim-t-182985"></a>
+- t-004
+  global_id: t-182985
   teiginys: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   pagrindžia:
     - c-003
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -53,7 +52,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -66,7 +64,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -76,12 +73,13 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
+    - t-004
 - c-004
   santrauka: 'Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -93,11 +91,13 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     Pirmuoju akademijos rektorium buvo paskirtas mozūras,
     ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
     rašytojas ir pamokslininkas Petras Skarga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -111,13 +111,10 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 - [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
-- [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]
-- [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/seniūnas storasta]]
 - [[objektai/zodynas/statuto dėsniai]]
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/vaivada]]

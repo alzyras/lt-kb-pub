@@ -19,20 +19,21 @@ amziai:
 
 ## Santrauka
 
-Čia reikia paminėti labai kritišką Igną Danilavičių (Danilowicz)^37 , kuris pirmasis sudarė Lietuvos istorijai reikalingų dokumentų ar jų santraukų (regestų) rinkinį lenkų kalba, pradedant nuo Herodoto.
+Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.
 
 ## Teiginiai
 
 <a id="claim-t-28626"></a>
 - t-001
   global_id: t-28626
-  teiginys: 'Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir jų santraukų, vadinamų regestais, rinkinį.'
+  teiginys: 'Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų arba jų santraukų, vadinamų regestais, rinkinį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Čia reikia paminėti labai kritišką Igną Danilavičių

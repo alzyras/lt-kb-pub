@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis Vasilijus Berezuiskis.
+Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto.
 
 ## Teiginiai
 
 <a id="claim-t-39663"></a>
 - t-001
   global_id: t-39663
-  teiginys: 'Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis Vasilijus Berezuiskis.'
+  teiginys: 'Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lapkričio 26-ąją Algirdo pajėgos ap-

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.
+„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis. „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR. „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
 
 ## Teiginiai
 
@@ -36,14 +36,14 @@ amziai:
 <a id="claim-t-75613"></a>
 - t-002
   global_id: t-75613
-  teiginys: 'Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
+  teiginys: '„Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183492"></a>
 - t-003
   global_id: t-183492
-  teiginys: '„Idealiosios Lietuvos“ vaizdinyje spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
+  teiginys: '„Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   pagrindžia:
     - c-003
 
@@ -69,7 +69,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
+  santrauka: '„Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
@@ -96,7 +96,7 @@ amziai:
     - t-002
 
 - c-003
-  santrauka: '„Idealiosios Lietuvos“ vaizdinyje spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
+  santrauka: '„Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
@@ -121,18 +121,12 @@ amziai:
 - [[objektai/asmenys/Jascha Heifetz]]
 - [[objektai/asmenys/John Gielgud]]
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Mekas]]
 - [[objektai/asmenys/Victor David Brenner]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Davidas Suchetas]]
 - [[objektai/asmenys/Eimuntas Nekrošius]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/asmenys/Robertas Zemeckis]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Donatas Katkus]]
-- [[objektai/asmenys/Gintaras Rinkevičius]]
 - [[objektai/daiktai/JAV vieno cento moneta]]
 - [[objektai/asmenys/Jurgis Mačiūnas]]
-- [[objektai/asmenys/Saulius Sondeckis]]
 - [[objektai/asmenys/Violeta Urmana]]

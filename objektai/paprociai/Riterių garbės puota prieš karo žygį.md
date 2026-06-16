@@ -137,7 +137,6 @@ Nenurodyta
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/posakiai/pasak kai kurių]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Škotai]]

@@ -52,4 +52,5 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Savickiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/grupes/Zalivskiai]]

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Antras Vytauto bėgimas į Prusus (1390— 1392).
+1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
 
 ## Laikotarpis ir datos
 
@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-95974"></a>
 - t-001
   global_id: t-95974
-  teiginys: 'Antras Vytauto bėgimas į Prusus (1390— 1392).'
+  teiginys: '1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Antras Vytauto bėgimas į Prusus (1390—
@@ -62,3 +63,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

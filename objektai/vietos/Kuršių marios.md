@@ -24,47 +24,41 @@ amziai:
 
 ## Santrauka
 
-Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.
+Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos. Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo. 1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.
 
 ## Teiginiai
-
 <a id="claim-t-68371"></a>
 - t-001
   global_id: t-68371
   teiginys: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   pagrindžia:
     - c-001
-
 <a id="claim-t-68372"></a>
 - t-002
   global_id: t-68372
   teiginys: 'Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-68374"></a>
-- t-003
-  global_id: t-68374
-  teiginys: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-68375"></a>
 - t-004
   global_id: t-68375
   teiginys: 'Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.'
   pagrindžia:
     - c-004
-
 <a id="claim-t-68376"></a>
 - t-005
   global_id: t-68376
-  teiginys: 'Dusburgietis teigia, kad ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.'
+  teiginys: 'Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.'
   pagrindžia:
     - c-003
+- t-007
+  teiginys: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -80,22 +74,8 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
-    šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
-    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
-    jungiasi su Baltija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-003
+  santrauka: 'Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
@@ -105,7 +85,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-004
   santrauka: 'Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -122,7 +101,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: 'Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,7 +116,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-006
   santrauka: 'Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -153,3 +130,18 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
   statusas: verified
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
+    šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
+    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
+    jungiasi su Baltija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007

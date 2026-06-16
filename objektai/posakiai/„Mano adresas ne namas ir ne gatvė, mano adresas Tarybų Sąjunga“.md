@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.
+Homo sovieticus turėjo būti be tautinių požymių ir, partijai įsakius, dirbti bet kurioje Sovietų Sąjungos vietoje. Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 <a id="claim-t-75617"></a>
 - t-002
   global_id: t-75617
-  teiginys: 'Dainos žodžiais „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ apibūdintas homo sovieticus be tautinių požymių.'
+  teiginys: 'Homo sovieticus turėjo būti asmuo be tautinių požymių, kuris partijai įsakius dirbtų bet kur pagal dainos žodžius „Mano adresas Tarybų Sąjunga“.'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Rusai]]

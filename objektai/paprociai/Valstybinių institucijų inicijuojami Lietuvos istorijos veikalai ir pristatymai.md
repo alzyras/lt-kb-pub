@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis. Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos skyrių, atskleidusį meno, tautodailės, ekonomikos. 1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.
+1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją. 2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją. Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.
 
 ## Laikotarpis ir datos
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-54363"></a>
 - t-002
   global_id: t-54363
-  teiginys: '1990 m. nepriklausomybę atkūrusi ir 2004 m. NATO bei ES nare tapusi Lietuva 2013 m. rengėsi pirmininkauti Europos Sąjungai.'
+  teiginys: '2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.'
   pagrindžia:
     - c-001
 
@@ -68,13 +68,14 @@ Nenurodyta
 <a id="claim-t-183336"></a>
 - t-005
   global_id: t-183336
-  teiginys: 'Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūžiniais valstybės raidos etapais ir išskirtinėmis progomis.'
+  teiginys: 'Valstybės institucijos kartais inicijuoja apibendrinamuosius istorijos darbus, kad valstybės kelias būtų įamžintas ir įvertintas platesne perspektyva.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
@@ -139,6 +140,7 @@ Nenurodyta
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]

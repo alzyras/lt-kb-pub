@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 23 d. nacių ir sovietų nepuolimo sutartis su papildomu slaptuoju protokolu, kuriuo regionas padalytas į įtakos sferas. Lietuvos istorijos pasakojime paktas siejamas su 1940 m. Sovietų Sąjungos įvykdyta okupacija ir aneksija, vėlesniu LLL reikalavimu paskelbti slaptuosius protokolus bei 1989 m. Baltijos kelio protesto akcija.
+1939 m. rugpjūčio 23 d. Vokietija ir SSRS pasirašė nacių ir sovietų nepuolimo sutartį su papildomu slaptuoju protokolu. Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas. 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas, minint pakto pasirašymo 50-ąsias metines.
 
 ## Bibliografiniai duomenys
 
@@ -62,7 +62,7 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
 <a id="claim-t-13525"></a>
 - t-004
   global_id: t-13525
-  teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
+  teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos komisija viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius Lietuvai.'
   pagrindžia:
     - c-003
 

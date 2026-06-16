@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. Taip buvo delsiama, kol atvyko visoje Ordoje garsus kunigaikštis - emyras Žasto, dilbio, kelio ir blauzdos apsaugos.
+Krymo emyro Edygos kariai sudarė dalį totorių pajėgų. Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi. Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 <a id="claim-t-42449"></a>
 - t-002
   global_id: t-42449
-  teiginys: 'Ordoje garsus emyras Edigėjus padrąsino chaną, todėl derybos iš karto prasidėjo su Edigėjumi.'
+  teiginys: 'Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Ordoje garsus emyras Edigėjus padrąsino chaną, todėl derybos iš karto prasidėjo su Edigėjumi.'
+  santrauka: 'Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip buvo delsiama, kol atvyko

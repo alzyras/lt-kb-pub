@@ -30,17 +30,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01782"></a>
 - t-001
   global_id: t-01782
   teiginys: 'Prūsų sukilimams aprimstant, ordinas kviesdavosi paramą iš Vokietijos ir kitų kraštų, o prūsai būdavo įveikiami.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Prūsų sukilimams aprimstant, ordinas kviesdavosi paramą iš Vokietijos ir kitų kraštų, o prūsai būdavo įveikiami.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug kryžiuočių jos tuomet išžudė, daug or-
@@ -49,9 +50,11 @@ Nenurodyta
     naujo nugalėti prūsus. Bet šitokiais kritiškais momentais jis pa-
     sišaukdavo paramos iš Vokietijos ir iš kitų kraštų, ir prūsai bū-
     davo nuveikiami.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

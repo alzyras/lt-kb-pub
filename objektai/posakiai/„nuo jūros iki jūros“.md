@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijos iki Juodosios jūros. Ištraukoje šis planas siejamas su Prancūzijos laikysena ir Lietuvos tarptautinio pripažinimo sunkumais po Pirmojo pasaulinio karo.
+Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą. Formulė „nuo jūros iki jūros“ nusako teritorinę projekciją nuo Baltijos iki Juodosios jūros. Lietuvos pripažinimą sunkino tai, kad Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą.
 
 ## Teiginiai
 
@@ -39,7 +39,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 <a id="claim-t-75620"></a>
 - t-003
   global_id: t-75620
-  teiginys: 'Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.'
+  teiginys: 'Lietuvos pripažinimą sunkino tai, kad Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą.'
   pagrindžia:
     - c-002
 
@@ -73,6 +73,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - t-004
 
 - c-002
+  santrauka: 'Lietuvos pripažinimą sunkino tai, kad Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš jų paimtas karo grobis svariai papildė
@@ -95,7 +96,6 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/karo grobis]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/didvalstybė]]

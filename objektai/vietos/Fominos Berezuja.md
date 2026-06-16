@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie Vytauto.
+Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto.
 
 ## Teiginiai
 
 <a id="claim-t-36221"></a>
 - t-001
   global_id: t-36221
-  teiginys: 'Fominos Berezujos kunigaikščiai, išsigandę Vytauto, geruoju prie jo prisidėjo.'
+  teiginys: 'Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautui užėmus Viazmą, Fominos Berezujos kunigaikščiai išsigando ir geruoju prisidėjo prie Vytauto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Viaz­

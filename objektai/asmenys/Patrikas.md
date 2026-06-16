@@ -12,13 +12,13 @@ date_start: '1348'
 date_end: '1380'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - krikštas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - krikštas
 ---
 # Patrikas (kunigaikštis, XIV a.)
 
@@ -27,7 +27,6 @@ periodo_grupes:
 Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis.
 
 ## Teiginiai
-
 <a id="claim-t-121122"></a>
 - t-001
   global_id: t-121122
@@ -50,7 +49,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -66,7 +64,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1365 m. Patrikas su Kęstučiu, Algirdu ir Aleksandru įsiveržė į Ordino valdas ir jas nuniokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,7 +79,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio ir buvo ietimi numuštas nuo žirgo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -126,10 +122,13 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Henrikas Hochbergas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/lenkų tikėjimas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]
 - [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

@@ -10,62 +10,38 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Mozūrai
 
 ## Santrauka
 
-Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūrus.
+Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje. Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.
 
 ## Teiginiai
-
-<a id="claim-t-52958"></a>
-- t-001
-  global_id: t-52958
-  teiginys: 'Prūsai nusiaubdavo Mozūrus, Kulmą ir aplinkinius krikščioniškuosius kraštus, kai kryžeivių būriai išvykdavo namo.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-52959"></a>
-- t-002
+- t-001
   global_id: t-52959
   teiginys: 'Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   pagrindžia:
-    - c-002
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-52960"></a>
-- t-003
+- t-002
   global_id: t-52960
   teiginys: 'Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
   pagrindžia:
-    - c-001
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į pagalbą jam atvykdavo būriai
-    kryžeivių. Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
-    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
-    krikščioniškuosius kraštus. Tada vysk. Kristijonas kartu su
-    kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
-    ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
-    vo įkūręs Livonijoj.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
   santrauka: 'Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -76,8 +52,28 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
     mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
     būti veikimo bazė vyskupui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Į pagalbą jam atvykdavo būriai
+    kryžeivių. Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
+    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
+    krikščioniškuosius kraštus. Tada vysk. Kristijonas kartu su
+    kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
+    ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
+    vo įkūręs Livonijoj.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

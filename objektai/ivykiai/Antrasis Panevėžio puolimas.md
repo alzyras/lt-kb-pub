@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Puolimas buvo pradėtas 1919 m. gegužės 18 d. naktį. Gegužės 19 d. puolimas buvo tęsiamas, Lietuvių spaudžiami bolševikai traukėsi visu frontu. 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys-Kupiškis, taip sukeldami paniką raudonarmiečių gretose.
+1919 m. gegužės 19 d. Antrasis Panevėžio puolimas buvo tęsiamas, o lietuvių spaudžiami bolševikai traukėsi visu frontu. Užėmus Panevėžį gegužės 20 d. lietuvių pajėgos įsitvirtino mieste ir pradėjo ruoštis galimam bolševikų mėginimui Panevėžį atsiimti. Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
 
 ## Laikotarpis ir datos
 
@@ -72,7 +72,7 @@ Nenurodyta
 <a id="claim-t-41242"></a>
 - t-005
   global_id: t-41242
-  teiginys: 'Gegužės 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir ruože Panevėžys-Kupiškis.'
+  teiginys: 'Antrojo Panevėžio puolimo metu gegužės 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje bei geležinkelio ruože Panevėžys-Kupiškis.'
   pagrindžia:
     - c-002
 
@@ -95,6 +95,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Antrojo Panevėžio puolimo metu gegužės 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje bei geležinkelio ruože Panevėžys-Kupiškis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šioje operacijoje buvo panaudota ir ne-
@@ -177,7 +178,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Lėktuvai]]

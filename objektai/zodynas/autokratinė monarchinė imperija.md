@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“). L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.
+Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius. Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius. 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ tags:
 <a id="claim-t-45784"></a>
 - t-003
   global_id: t-45784
-  teiginys: 'Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
+  teiginys: '1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     III s k y r i u s

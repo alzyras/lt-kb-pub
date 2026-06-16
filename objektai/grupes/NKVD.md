@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-NKVD minima kaip sovietinė saugumo ir represinė struktūra, susijusi su 1940-1941 m. areštais, bėgimo į Vokietiją kontrolės planais, sovietizavimu teroru ir pokario kova prieš Lietuvos partizanus. 1945-1946 m. Lietuvoje dislokuota NKVD kariuomenė, o NKVD ir NKGB skyriai koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.
+Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais. Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą. Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.
 
 ## Pavadinimai šaltiniuose
 
@@ -59,29 +59,22 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-71676"></a>
-- t-001
-  global_id: t-71676
-  teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-71677"></a>
-- t-002
+- t-001
   global_id: t-71677
   teiginys: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-71680"></a>
-- t-003
+- t-002
   global_id: t-71680
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-71681"></a>
-- t-004
+- t-003
   global_id: t-71681
   teiginys: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
   pagrindžia:
@@ -105,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -123,18 +116,6 @@ Nenurodyta
   statusas: verified
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
-    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
-    iki 13 valandos drąsiai atmušinėjo priešo atakas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   santrauka: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -152,9 +133,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     So-
@@ -169,11 +150,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NKGB]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -182,7 +162,6 @@ Nenurodyta
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
 - [[objektai/asmenys/Buiničius]]
-- [[objektai/ivykiai/Didieji pokario trėmimai Lietuvoje (1948–1951 m.)]]
 - [[objektai/grupes/Dzūkų būrys]]
 - [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
 - [[objektai/grupes/Lietuvos partizanai]]

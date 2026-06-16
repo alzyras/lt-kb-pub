@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kazimieras, siekdamas apginti savo teises į Rusią, pirmiausia nutarė kariauti su lietuviais.
+Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185806"></a>
 - t-001
   global_id: t-185806
-  teiginys: 'Kazimieras, siekdamas apginti savo teises į Rusią, pirmiausia nutarė kariauti su lietuviais.'
+  teiginys: 'Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kazimieras, siekdamas apginti savo teises į Rusią, pirmiausia nutarė kariauti su lietuviais.'
+  santrauka: 'Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tad šis, norėdamas apginti savo teises į Ru­

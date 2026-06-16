@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominikonams, Mažesniesiems broliams ir pajūrio miestams. Balińskio pasakojime jie yra svarbūs Vilniaus miesto ir Gedimino sostinės paliudijimui, bet kartu pateikiamas Foigto autentiškumo ginčas, laiškus siejęs su Rygos arkivyskupo klastote.
+Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“. Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu. Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.
 
 ## Bibliografiniai duomenys
 
@@ -35,7 +35,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 - Aptariamas krikšto pasiuntinių laukimas, laiškų platinimas, antspaudo formulė ir vėlesnis autentiškumo ginčas.
 
 ## Teiginiai
-
 <a id="claim-t-55211"></a>
 - t-001
   global_id: t-55211
@@ -119,7 +118,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
 <a id="claim-t-171542"></a>
 - t-012
   global_id: t-171542
-  teiginys: 'Gediminas laiškuose Vakarams titulavosi rex, o Algirdas laiškuose Bizantijos imperijai vadinosi bazileus.'
+  teiginys: 'Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.'
   pagrindžia:
     - c-017
 
@@ -151,8 +150,7 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   pagrindžia:
     - c-018
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -193,7 +191,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -218,7 +215,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -238,7 +234,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -264,7 +259,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -285,7 +279,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -311,7 +304,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -334,7 +326,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -353,7 +344,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -377,7 +367,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -393,7 +382,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-011
   santrauka: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -410,7 +398,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-011
-
 - c-012
   santrauka: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -428,7 +415,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-013
   santrauka: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -439,7 +425,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-014
   santrauka: 'Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -463,7 +448,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-014
-
 - c-015
   santrauka: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -489,7 +473,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-010
-
 - c-016
   santrauka: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -509,9 +492,8 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-013
-
 - c-017
-  santrauka: 'Gediminas laiškuose Vakarams titulavosi rex, o Algirdas laiškuose Bizantijos imperijai vadinosi bazileus.'
+  santrauka: 'Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIETUVOS KRIKŠTAS
@@ -532,7 +514,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-012
-
 - c-018
   santrauka: 'Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -559,7 +540,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   statusas: verified
   pagrindžia:
     - t-016
-
 - c-019
   santrauka: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

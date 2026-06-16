@@ -92,3 +92,4 @@ Nenurodyta
 - [[objektai/asmenys/Mantas]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/asmenys/Henrikas iš Šenenbergo]]
+- [[objektai/daiktai/Kalavijas]]

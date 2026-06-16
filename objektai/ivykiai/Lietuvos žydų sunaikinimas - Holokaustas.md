@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. 1941–1944 nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje. Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse sunaikinta dauguma – apie 150 000 – Lietuvos žydų.
+1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje. Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis. Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose.
 
 ## Laikotarpis ir datos
 
@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-75232"></a>
 - t-002
   global_id: t-75232
-  teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
+  teiginys: 'Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   pagrindžia:
     - c-006
 
@@ -66,7 +66,7 @@ Nenurodyta
 <a id="claim-t-75234"></a>
 - t-004
   global_id: t-75234
-  teiginys: 'Dėl nacių rasinės genocidinės politikos Lietuva liko be šimtmečiais gyvenusios spalvingiausios savo etninės dalies – žydų.'
+  teiginys: 'Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija.'
   pagrindžia:
     - c-004
 
@@ -130,6 +130,7 @@ Nenurodyta
     - t-006
 
 - c-004
+  santrauka: 'Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Už žydų gelbėjimą Pasaulio teisuoliais yra
@@ -164,6 +165,7 @@ Nenurodyta
     - t-001
 
 - c-006
+  santrauka: 'Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
@@ -188,7 +190,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„kovos su judobolševizmu“]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
 - [[objektai/grupes/Sovietų Sąjunga]]

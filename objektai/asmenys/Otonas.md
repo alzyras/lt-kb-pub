@@ -77,6 +77,7 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
 - [[objektai/asmenys/Ditrichas iš Ezbeko]]

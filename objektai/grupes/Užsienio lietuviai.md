@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.
+1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi. Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.
 
 ## Teiginiai
 
@@ -28,13 +28,6 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 - t-002
   global_id: t-20055
   teiginys: 'Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-183190"></a>
-- t-003
-  global_id: t-183190
-  teiginys: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   pagrindžia:
     - c-002
 
@@ -70,7 +63,6 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
 
 ## Ryšiai

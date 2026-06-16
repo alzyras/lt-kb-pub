@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
+1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią. Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
 
 ## Teiginiai
 
 <a id="claim-t-101479"></a>
 - t-001
   global_id: t-101479
-  teiginys: '1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.'
+  teiginys: '1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: '1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
@@ -87,13 +88,10 @@ amziai:
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Unitai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
-- [[objektai/grupes/Unitų bažnyčia]]

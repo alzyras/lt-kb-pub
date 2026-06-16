@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die. Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė Kitais metais (1256) tas pats Karaliaučiaus komtūras vėl sutelkė stiprią kariuomenę ir patraukė į minėtąją Vonsdorfo žemę, ten pasistatė stovyklą, apsupdamas Auktalito pilį334, ir anksčiau. Dusburgietis teigia, kad iII, 75 paragrafe minimo Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas.
+Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas. Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
 
 ## Teiginiai
 
@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   global_id: t-58421
   teiginys: 'Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-58422"></a>
 - t-002
@@ -40,13 +40,6 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   teiginys: 'Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-58423"></a>
-- t-003
-  global_id: t-58423
-  teiginys: 'Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija vokiečiai Volfenbiutelis Volferštorfas Volynė Vona, Vonė Vonbžeznas Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis) Vroclavas Vundenava, Vuntenovė (žr.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -89,37 +82,6 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
     - t-002
 
 - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Viškonys
-    Višogrudas (Wischerot, Wischegrot, dab. Fordonas)
-    Vištytis, ež.
-    Vištytis, miestelis
-    Vitchendorfas, k. Saksonijoje
-    Vitlandas (Witland, Withlandia)
-    Viurcburgas
-    Vizenburgas  (žr. Valevona)
-    Vizna
-    Vloclavekas
-    Vokietija
-       Vakarų Vokietija
-        vokiečiai
-    Volfenbiutelis
-    Volferštorfas
-    Volynė
-    Vona, Vonė
-    Vonbžeznas
-    Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis)
-    Vroclavas
-    Vundenava, Vuntenovė (žr. Baiga)
-    Vurungenas
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   santrauka: 'Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

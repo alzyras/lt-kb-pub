@@ -10,14 +10,14 @@ date_start: '1410'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - mūšis
-  - pilis
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - mūšis
+  - pilis
 ---
 # Ulrichas von Jungingenas
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras, 1410 m. žuvęs Žalgirio mūšyje ir iki jo provokavęs kautynes nuogų kalavijų iššūkiu. Jis minimas ir platesniame Ordino vadovybės žūties bei pralaimėjimo kontekste.
 
 ## Teiginiai
-
 <a id="claim-t-182864"></a>
 - t-001
   global_id: t-182864
@@ -49,7 +48,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -64,7 +62,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Didysis magistras Ulrichas von Jungingenas jojo šešiolikos į kovos lauką slenkančių kryžiuočių vėliavų priešakyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -79,7 +76,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

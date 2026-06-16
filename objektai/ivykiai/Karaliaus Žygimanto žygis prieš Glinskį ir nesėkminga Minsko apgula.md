@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Glinskis nutraukė Minsko apgulą, su kariais nužygiavo į Borisovą ir Oršą, o karalius jį atkakliai persekiojo.
+Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185582"></a>
 - t-001
   global_id: t-185582
-  teiginys: 'Glinskis nutraukė Minsko apgulą, su kariais nužygiavo į Borisovą ir Oršą, o karalius jį atkakliai persekiojo.'
+  teiginys: 'Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Glinskis nutraukė Minsko apgulą, su kariais nužygiavo į Borisovą ir Oršą, o karalius jį atkakliai persekiojo.'
+  santrauka: 'Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ga­
@@ -63,3 +63,4 @@ Nenurodyta
 - [[objektai/zodynas/algininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/skitai]]
+- [[objektai/asmenys/Žygimantas]]

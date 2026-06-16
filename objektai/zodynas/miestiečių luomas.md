@@ -127,7 +127,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/luomas]]

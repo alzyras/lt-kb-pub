@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai. Išleistas 1951 m. Pietų Lietuvos partizanų štabo.
+Pakeliui į 1949 m. vasario 11 d. suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai. 1951 m. Pietų Lietuvos partizanų štabas išleido karikatūrą apie lietuvių padėtį Antrojo pasaulinio karo metu.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 <a id="claim-t-183801"></a>
 - t-002
   global_id: t-183801
-  teiginys: 'Išleistas 1951 m. Pietų Lietuvos partizanų štabo.'
+  teiginys: '1951 m. Pietų Lietuvos partizanų štabas išleido karikatūrą apie lietuvių padėtį Antrojo pasaulinio karo metu.'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
     - t-001
 
 - c-002
-  santrauka: 'Išleistas 1951 m. Pietų Lietuvos partizanų štabo.'
+  santrauka: '1951 m. Pietų Lietuvos partizanų štabas išleido karikatūrą apie lietuvių padėtį Antrojo pasaulinio karo metu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Išleistas 1951 m.

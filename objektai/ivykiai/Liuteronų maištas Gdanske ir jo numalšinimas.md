@@ -83,7 +83,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Liuteris]]

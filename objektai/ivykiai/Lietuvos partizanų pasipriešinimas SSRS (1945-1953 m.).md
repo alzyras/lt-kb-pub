@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. 1944–1953 Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolektyvizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.
+1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija. 1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.
 
 ## Laikotarpis ir datos
 
@@ -56,28 +56,28 @@ Nenurodyta
   global_id: t-75181
   teiginys: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-75182"></a>
 - t-003
   global_id: t-75182
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-75183"></a>
 - t-004
   global_id: t-75183
   teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-75184"></a>
 - t-005
   global_id: t-75184
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-75185"></a>
 - t-006
@@ -86,17 +86,10 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-75186"></a>
+<a id="claim-t-183254"></a>
 - t-007
-  global_id: t-75186
-  teiginys: 'Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-75187"></a>
-- t-008
-  global_id: t-75187
-  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  global_id: t-183254
+  teiginys: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
     - c-007
 
@@ -136,22 +129,6 @@ Nenurodyta
     - t-001
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo
-    ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą
-    maistu, medikamentais, drabužiais. Pagalbos iš užsienio tikėtis nebuvo
-    įmanoma, jie kovėsi vienų vieni. 1944–1946 m. susidarė dideli, net iki
-    100 kovotojų partizanų būriai – iš viso apie 30 tūkst. vyrų, kurie kontro-
-    liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
-    sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-004
   santrauka: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -167,7 +144,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Partizanai
@@ -185,7 +162,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
@@ -203,7 +180,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau prieš tai vyko kruvina kova.
@@ -223,10 +200,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-    - t-008
 
-- c-008
-  santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+- c-007
+  santrauka: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
@@ -241,7 +217,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -249,9 +225,9 @@ Nenurodyta
 - [[objektai/grupes/NKVD]]
 - [[objektai/posakiai/karas po karo]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Drabužiai]]
 - [[objektai/zodynas/kolektyvizacija]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]

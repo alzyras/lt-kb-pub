@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Šiame gabale gynyba aprašoma kaip nuoseklus AT rūmų, jų prieigų ir visuomenės pasipriešinimo organizavimas nuo sausio dienų iki rugpjūčio pučo. Tekste aiškiai siejami Sausio 13-osios nakties įvykiai, vėlesni fortifikavimo darbai ir rugpjūčio mėnesio įtampos eskalacija. Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
+Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai. Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai. Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.
 
 ## Laikotarpis ir datos
 
@@ -64,7 +64,7 @@ Nenurodyta
 <a id="claim-t-171455"></a>
 - t-004
   global_id: t-171455
-  teiginys: 'Pirmomis sausio įvykių dienomis dalis Aukščiausiosios Tarybos gynėjų turėjo ginti rūmus ir jų išorinį perimetrą.'
+  teiginys: 'Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.'
   pagrindžia:
     - c-001
 
@@ -92,14 +92,14 @@ Nenurodyta
 <a id="claim-t-171460"></a>
 - t-008
   global_id: t-171460
-  teiginys: 'Aukščiausiosios Tarybos rūmų gynyba rėmėsi trimis principais: agresijos fiksavimu, karine gynyba ir pilietiniu nesmurtiniu pasipriešinimu.'
+  teiginys: 'Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-171461"></a>
 - t-009
   global_id: t-171461
-  teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o AT gynyba buvo geriau organizuota.'
+  teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
   pagrindžia:
     - c-005
 
@@ -120,16 +120,9 @@ Nenurodyta
 <a id="claim-t-171464"></a>
 - t-012
   global_id: t-171464
-  teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji AT gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
+  teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-171465"></a>
-- t-013
-  global_id: t-171465
-  teiginys: 'Karinės inžinerijos prasme rūmų gynyba buvo sudaryta iš trijų žiedų: rūmų vidaus, išorinio perimetro, tolimųjų rūmų prieigų.'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -211,6 +204,7 @@ Nenurodyta
     - t-007
 
 - c-005
+  santrauka: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     k k < de Artėjant 1991 m. rugpjūčio Maskvos pučo įvykiams, Lietuvos kariai jau turėjo pirmąsias uniformas, AT gynėjai
@@ -292,7 +286,6 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
     - t-002
 
 - c-009
@@ -326,7 +319,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]

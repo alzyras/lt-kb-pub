@@ -61,6 +61,6 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Lietuviai]]

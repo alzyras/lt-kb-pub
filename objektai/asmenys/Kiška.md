@@ -51,12 +51,16 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro lektika]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
+- [[objektai/grupes/Krymo chanatas]]
 - [[objektai/grupes/Krymo orda]]
-- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
 - [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/posakiai/brangią žinių kasyklą]]
 - [[objektai/zodynas/litvomanija]]

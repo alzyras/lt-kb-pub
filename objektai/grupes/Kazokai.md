@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai. Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį kazokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
+Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus. Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą. Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ amziai:
 <a id="claim-t-65306"></a>
 - t-003
   global_id: t-65306
-  teiginys: 'Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.'
+  teiginys: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
   pagrindžia:
     - c-004
 
@@ -120,6 +120,7 @@ amziai:
     - t-002
 
 - c-004
+  santrauka: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
@@ -201,6 +202,7 @@ amziai:
 - [[objektai/grupes/Janičarai]]
 - [[objektai/ivykiai/Kražių įvykiai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/etmonas]]
@@ -242,5 +244,4 @@ amziai:
 - [[objektai/posakiai/gimti Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuolimas]]
 - [[objektai/zodynas/regestrai regestriniai kazokai]]
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/I. Zolotarenko]]
 - [[objektai/paprociai/Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas|Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas (seimas)]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Karolis Chodkevičius įsakė frontui imituoti atsitraukimą. Švedų kariuomenės vadovybė sureagavo puldama besitraukiančius lietuvius.
+Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę. Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti. Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius.
 
 ## Laikotarpis ir datos
 
@@ -66,7 +66,7 @@ Nenurodyta
 <a id="claim-t-71790"></a>
 - t-004
   global_id: t-71790
-  teiginys: 'Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.'
+  teiginys: 'Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu.'
   pagrindžia:
     - c-001
 

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus miestiečių luomas aprašomas kaip vėlai, XIV a., susiformavusi nevienalytė miesto bendruomenė, kurią sudarė nelaisvieji, svetimšaliai amatininkai, pirkliai ir valdovui ar didikams priklausę žmonės. Jo padėtis kito per prekybos privilegijas, Magdeburgo teisės taikymą, dalyvavimą krašto reprezentacijose, miesto gynybos pareigas ir XVI a. privilegijas.
+Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje. Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių. Vokietijos, Rusios ir Livonijos amatininkai bei pirkliai tapo turtingiausiu Vilniaus gyventojų sluoksniu.
 
 ## Pavadinimai šaltiniuose
 
@@ -100,7 +100,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 <a id="claim-t-55084"></a>
 - t-008
   global_id: t-55084
-  teiginys: 'Sostinės miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
+  teiginys: 'Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   pagrindžia:
     - c-006
 
@@ -401,7 +401,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-035
 
 - c-006
-  santrauka: 'Sostinės miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
+  santrauka: 'Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -960,7 +960,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/grupes/Gardino seimas]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Hanulas]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Jeronimas Opachovskis]]
@@ -988,14 +987,15 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/asmenys/Zenonas Zažeckis]]
 - [[objektai/zodynas/barbarai]]
 - [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/miestiečių luomas]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/pastočiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
@@ -1014,6 +1014,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
 - [[objektai/autoriai/Hermanas Corneris Korneris]]
+- [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje]]
 - [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/Szosowe]]
@@ -1025,6 +1026,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]

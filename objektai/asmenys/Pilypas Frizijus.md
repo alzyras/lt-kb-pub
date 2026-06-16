@@ -89,6 +89,7 @@ periodo_grupes: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/kahalas]]

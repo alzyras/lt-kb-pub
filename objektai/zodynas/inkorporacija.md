@@ -95,7 +95,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ### Susiję objektai
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės.
+Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra. Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla. Šią jūrą kai kurie raštininkai vadino Rusų mare.
 
 ## Pavadinimai šaltiniuose
 
@@ -51,7 +51,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 <a id="claim-t-92018"></a>
 - t-002
   global_id: t-92018
-  teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
+  teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
   pagrindžia:
     - c-002
 
@@ -90,6 +90,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     - t-005
 
 - c-002
+  santrauka: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į

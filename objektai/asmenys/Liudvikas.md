@@ -16,31 +16,20 @@ tags:
 Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d'Anjou giminės). Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.
 
 ## Teiginiai
-
-<a id="claim-t-63882"></a>
-- t-001
-  global_id: t-63882
-  teiginys: 'Po bevaikio Kazimiero mirties sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui iš d''''Anjou giminės.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-63883"></a>
+<a id="claim-t-63884"></a>
 - t-002
-  global_id: t-63883
+  global_id: t-63884
   teiginys: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-63884"></a>
 - t-003
-  global_id: t-63884
   teiginys: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   pagrindžia:
     - c-001
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -55,7 +44,6 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -71,7 +59,6 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -88,22 +75,11 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   pagrindžia:
     - t-003
 
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kazimieras
-    mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos
-    karaliui Liudvikui (iš _d'Anjou_ giminės).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]
 - [[objektai/asmenys/Fridrichas iš Holdenštetės]]
 - [[objektai/asmenys/Kantigirdas]]
@@ -135,6 +111,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkijos senatas]]
 - [[objektai/grupes/Lenkų senatas]]
+- [[objektai/asmenys/Liudvikas XVI]]
 - [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]
 - [[objektai/daiktai/Viešpaties erškėčių vainikas]]
 - [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]

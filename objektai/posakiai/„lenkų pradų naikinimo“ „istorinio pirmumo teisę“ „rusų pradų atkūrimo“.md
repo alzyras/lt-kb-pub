@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika. Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika. „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.
+Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos. Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika. „Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 <a id="claim-t-169941"></a>
 - t-002
   global_id: t-169941
-  teiginys: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
+  teiginys: 'Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika.'
   pagrindžia:
     - c-001
 
@@ -55,16 +55,10 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   pagrindžia:
     - c-002
 
-<a id="claim-t-183495"></a>
-- t-005
-  global_id: t-183495
-  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Imperijos politiko-
@@ -129,7 +123,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
     - t-003
 
 ## Ryšiai
@@ -144,7 +137,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - [[objektai/zodynas/separatizmas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
-- [[objektai/zodynas/akcijos]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

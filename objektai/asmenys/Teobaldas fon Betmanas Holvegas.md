@@ -20,20 +20,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Vokietijos kancleris Teobaldas fon Betmanas Holvegas (Theobald von Bethmann Hollweg) 1916 m. balandį Vokietijos reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Vo- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT.
+Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių.
 
 ## Teiginiai
 
 <a id="claim-t-26429"></a>
 - t-001
   global_id: t-26429
-  teiginys: 'Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių nuo Baltijos jūros iki Voluinės pelkių.'
+  teiginys: 'Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Teobaldas fon Betmanas Holvegas 1916 m. balandį Reichstage pareiškė, kad Vokietija negrąžins Rusijai žmonių, gyvenančių nuo Baltijos jūros iki Voluinės pelkių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietijos kancleris Teobaldas fon Betmanas Holvegas (Theobald von

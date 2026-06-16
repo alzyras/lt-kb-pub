@@ -9,13 +9,13 @@ date_start: '1382'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - dokumentas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - dokumentas
 ---
 # Ona Vytautienė
 
@@ -24,7 +24,6 @@ periodo_grupes:
 Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių stačiatikė, vėliau uoli katalikė; ji dalyvavo svarbiose sutartyse ir laidavo, kad Vytautas laikysis susitarimų.
 
 ## Teiginiai
-
 <a id="claim-t-181595"></a>
 - t-001
   global_id: t-181595
@@ -33,7 +32,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -88,5 +86,4 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]
-- [[objektai/asmenys/Sofija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

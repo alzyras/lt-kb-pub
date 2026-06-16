@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt. Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai protarpiais esą mokėję duoklę ir danams.
+Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių. Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą. Vienas prūsas Karaliaučiaus broliams išpranašavo, kad švento Vincento dieną sembai bus išžudyti.
 
 ## Teiginiai
 
@@ -60,7 +60,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175080"></a>
 - t-005
   global_id: t-175080
-  teiginys: 'Dusburgietis teigia, kad vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
+  teiginys: 'Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   pagrindžia:
     - c-022
 
@@ -95,7 +95,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175085"></a>
 - t-010
   global_id: t-175085
-  teiginys: 'Dusburgietis teigia, kad šešta — Semba196, kurioje [gyveno] sembai.'
+  teiginys: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   pagrindžia:
     - c-014
     - c-018
@@ -187,7 +187,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-175098"></a>
 - t-022
   global_id: t-175098
-  teiginys: 'Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys, sustiprintos tam, kad būtų lengviau tramdyti sembus.'
+  teiginys: 'Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti.'
   pagrindžia:
     - c-027
 
@@ -473,6 +473,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-001
 
 - c-014
+  santrauka: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Notanga195, kurioje [gyveno] notangai. Šešta — Semba196, kurioje [gyveno] sembai.
@@ -530,6 +531,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-008
 
 - c-018
+  santrauka: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šešta — Semba196, kurioje [gyveno] sembai.
@@ -603,6 +605,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-012
 
 - c-022
+  santrauka: 'Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vienas
@@ -793,13 +796,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Arbaletai]]
 - [[objektai/daiktai/Arbaletas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kuorai]]

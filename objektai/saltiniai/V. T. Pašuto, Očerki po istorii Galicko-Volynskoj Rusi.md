@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
+V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m. V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
 
 ## Teiginiai
 
@@ -32,13 +32,14 @@ Pašuto, Očerki po istorii Galicko-Volynskoj Rusi , 1950, 259. Pašuto, V.
 <a id="claim-t-31955"></a>
 - t-002
   global_id: t-31955
-  teiginys: 'V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m.'
+  teiginys: 'V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokiame sūnaus ir tėvo santykyje, kaip rodo Livonijos Hen­

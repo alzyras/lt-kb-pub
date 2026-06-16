@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį, saugodami gimtąjį Bakaloriškių kaimą nuo dažnų komunistinių partizanų puldinėjimų.
+Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų.
 
 ## Teiginiai
 
 <a id="claim-t-38443"></a>
 - t-001
   global_id: t-38443
-  teiginys: 'Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį, saugodami gimtąjį Bakaloriškių kaimą nuo dažnų komunistinių partizanų puldinėjimų.'
+  teiginys: 'Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos būrį Bakaloriškių kaimui saugoti nuo komunistinių partizanų puldinėjimų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos

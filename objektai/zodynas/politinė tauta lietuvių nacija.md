@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai, Oginskiai ir kt.
+Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.
 
 ## Teiginiai
 
 <a id="claim-t-22247"></a>
 - t-001
   global_id: t-22247
-  teiginys: 'Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai sieti savo kilmę su romėniška tradicija.'
+  teiginys: 'Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai sieti savo kilmę su romėniška tradicija.'
+  santrauka: 'Lietuvos metraščiuose Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai vesti savo kilmę Palemono tradicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -55,6 +55,5 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]

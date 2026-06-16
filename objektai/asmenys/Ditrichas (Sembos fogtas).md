@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį. Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.
+1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius. Ditrichas Sembos fogtu buvo 1278-1292 m. Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.
 
 ## Teiginiai
 
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 <a id="claim-t-59836"></a>
 - t-004
   global_id: t-59836
-  teiginys: 'Iš Vokietijos grįžęs Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo sumanyto paklydimo.'
+  teiginys: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
   pagrindžia:
     - c-006
 
@@ -168,7 +168,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - t-005
 
 - c-006
-  santrauka: 'Iš Vokietijos grįžęs Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo sumanyto paklydimo.'
+  santrauka: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     190 (185). Apie daugybės pagudėnų išžudymą
@@ -228,7 +228,6 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Konradas]]

@@ -4,10 +4,13 @@ pavadinimas: 'Lietuvos kariuomenė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1236 m.'
   - '1328 m.'
+  - '1398 m.'
+  - '1408 m.'
   - '1547 m.'
   - '1603 m.'
   - '1605 m.'
@@ -27,14 +30,14 @@ amziai:
 
 ## Santrauka
 
-Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, kaip Algirdo vedama kariuomenė prie Mėlynųjų Vandenų, kaip XV a. pabaigos - XVI a. pradžios kilmingųjų pašauktinė raitelių kariuomenė ir kaip aktyvi kovos jėga Klecko bei Kuoknesės kampanijose. Šiame šaltinyje ji apibūdinama ir per savo sandarą, ginkluotę, samdinių naudojimą, žygio tempą bei vadovavimą.
+Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės. Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę. Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.
 
 ## Teiginiai
 
 <a id="claim-t-182738"></a>
 - t-001
   global_id: t-182738
-  teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
+  teiginys: 'Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
   pagrindžia:
     - c-004
 
@@ -48,14 +51,14 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 <a id="claim-t-182742"></a>
 - t-003
   global_id: t-182742
-  teiginys: 'Visuotinio šaukimo metu didesniąją visos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.'
+  teiginys: 'Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-182743"></a>
 - t-004
   global_id: t-182743
-  teiginys: 'Kristupas Radvila Perkūnas 1589–1603 m. buvo Lietuvos Didžiosios Kunigaikštystės kariuomenės didysis etmonas.'
+  teiginys: 'Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas.'
   pagrindžia:
     - c-002
 
@@ -73,51 +76,59 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   pagrindžia:
     - c-006
 
-<a id="claim-t-183159"></a>
-- t-007
-  global_id: t-183159
-  teiginys: 'Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-183160"></a>
-- t-008
+- t-007
   global_id: t-183160
   teiginys: 'Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-183161"></a>
-- t-009
+- t-008
   global_id: t-183161
   teiginys: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-183162"></a>
-- t-010
+- t-009
   global_id: t-183162
   teiginys: 'Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-184332"></a>
-- t-011
+- t-010
   global_id: t-184332
   teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-184333"></a>
-- t-012
+- t-011
   global_id: t-184333
   teiginys: 'Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.'
   pagrindžia:
+    - c-011
+
+<a id="claim-t-187724"></a>
+- t-012
+  global_id: t-187724
+  teiginys: 'Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir sugrįžo į stovyklą su belaisviais bei grobiu.'
+  pagrindžia:
     - c-012
+
+<a id="claim-t-187725"></a>
+- t-013
+  global_id: t-187725
+  teiginys: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Visuotinio šaukimo
@@ -138,7 +149,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-003
 
 - c-002
-  santrauka: 'Kristupas Radvila Perkūnas 1589–1603 m. buvo Lietuvos Didžiosios Kunigaikštystės kariuomenės didysis etmonas.'
+  santrauka: 'Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kristupas Radvila Perkūnas
@@ -187,6 +198,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-002
 
 - c-004
+  santrauka: 'Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gedimino laikais Lie-
@@ -237,22 +249,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - t-006
 
 - c-007
-  santrauka: 'Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sėkmingai likviduotas ir bermontininkų
-    rengtas perversmas Kaune. Kovose gimę Lietuvos kariuomenės savanorių
-    pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones,
-    tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
-    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
-    cūzijos paramą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-008
   santrauka: 'Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -265,9 +261,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
+- c-008
   santrauka: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -283,9 +279,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-010
+- c-009
   santrauka: 'Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -298,9 +294,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-011
+- c-010
   santrauka: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -312,9 +308,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-012
+- c-011
   santrauka: 'Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -327,7 +323,50 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-011
+
+- c-012
+  santrauka: 'Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir sugrįžo į stovyklą su belaisviais bei grobiu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
+    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
+    leido tą naktį 2 S .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
     - t-012
+
+- c-013
+  santrauka: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
+    Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
+    žastis buvo ne du bebrai ir trys statinės medaus, o  Vytauto progra­
+    ma Išplėsti savo įtakų Pskovo Ir Didžiojo Naugardo bajorų respub­
+    likose ir pasodinti ten savo vietininkus. Karo veiksmai ėjo  LDK
+    rytų pasieniu, Ugios Ir Okos upių ruože, daugiausia dabartinės
+    Kalugos srities teritorijoje. Maskvėnų kariuomenė puolė Vlazmų
+    (1406, 1407 m.|, Serpelskų ir Kozelskų (1406 m.), o LDK kariuomenė
+    buvo užėmus) Odojevų, Vorollnskų. BK. matyt, turim as galvoje
+    Vytauto vadovaujamos LDK kariuomenes žygis 1408 m. rudeni-
+    1  A ndrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas
+    Nemyra (be vardo) jau  figūruoja 1398 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
@@ -338,7 +377,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Ietys]]
@@ -346,12 +387,17 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Budrys (Polovinskas)]]
 - [[objektai/asmenys/Karolis]]
+- [[objektai/grupes/Korano giminė]]
 - [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Mongolai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -381,13 +427,15 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
 - [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
 - [[objektai/asmenys/Kopčius]]
 - [[objektai/asmenys/Kuno Lichtenšteinas]]
 - [[objektai/asmenys/Kutlubuga]]
+- [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]
+- [[objektai/daiktai/Lankai]]
 - [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
 - [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]
 - [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
@@ -401,14 +449,13 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
 - [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/asmenys/Stanislovas Liubomirskis]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
@@ -430,16 +477,16 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/rankovės garnizonai]]
 - [[objektai/zodynas/telefonograma]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/daiktai/Šautuvai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/ivykiai/Lietuvos kariuomenės pertvarkymas į Liaudies kariuomenę ir Šaulių sąjungos veiklos sustabdymas (1940 m. liepos 3-11 d.)]]
+- [[objektai/grupes/Raudonoji armija]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/Stasys Raštikis]]
-- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Trimitai]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- [[objektai/posakiai/„Lietuvos kariuomenė pasilieka ir toliau...“]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/grupes/Lietuvos šaulių sąjunga]]
-- [[objektai/grupes/Raudonoji armija]]

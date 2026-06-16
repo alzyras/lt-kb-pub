@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir išsiskleidę pasuko Motiejūnų link.
+Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.
 
 ## Teiginiai
 
 <a id="claim-t-41939"></a>
 - t-001
   global_id: t-41939
-  teiginys: 'Apie 12 val. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.'
+  teiginys: 'Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Apie 12 val. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.'
+  santrauka: 'Apie 12 val. T. Balno kariai pasiekė Motiejūnų-Giedraičių kelią ir pasuko Motiejūnų link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apie 12 val.

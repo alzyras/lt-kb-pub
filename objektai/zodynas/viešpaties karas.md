@@ -48,6 +48,8 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/daiktai/Ginklai]]
+- [[objektai/daiktai/Kalavijas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]

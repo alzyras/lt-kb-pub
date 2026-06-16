@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Nors per panašius incidentus lenkai buvo nušovę 7 lietuvių pasienio policininkus, Varšuva, Vokietijai absorbuojant Austriją, sukėlė antilietuvišką isteriją ir kovo 17-ąją įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius, be išlygų. Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti santykius. Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiuntinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių turėjusią patriotinę „Vilniui vaduoti sąjungą“.
+Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai. Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą. Po Lenkijos ultimatumo Lietuva turėjo apsikeisti pasiuntinybėmis, įsteigti konsulatą Vilniuje ir paleisti „Vilniui vaduoti sąjungą“.
 
 ## Laikotarpis ir datos
 
@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-75118"></a>
 - t-002
   global_id: t-75118
-  teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
+  teiginys: 'Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą.'
   pagrindžia:
     - c-003
 
@@ -65,7 +65,7 @@ Nenurodyta
 <a id="claim-t-75120"></a>
 - t-004
   global_id: t-75120
-  teiginys: 'Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti santykius.'
+  teiginys: 'Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.'
   pagrindžia:
     - c-002
 
@@ -89,6 +89,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors per panašius incidentus lenkai buvo nu-
@@ -125,7 +126,7 @@ Nenurodyta
     - t-002
 
 - c-004
-  santrauka: 'Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti santykius.'
+  santrauka: 'Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti

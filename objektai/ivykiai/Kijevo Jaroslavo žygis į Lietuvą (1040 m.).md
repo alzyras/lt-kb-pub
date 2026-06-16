@@ -107,3 +107,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/na Litvu]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/metraštis]]

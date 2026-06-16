@@ -1,8 +1,13 @@
 ---
 tipas: posakis
-pavadinimas: '„senovės negriauname, naujovių neįvedame“'
+pavadinimas: "„senovės negriauname, naujovių neįvedame“"
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+aliases:
+  - 'senovės negriauname, naujovių neįvedame'
+  - 'objektai/posakiai/senovės negriauname, naujovių neįvedame'
+variantai:
+  - 'senovės negriauname, naujovių neįvedame'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,30 +23,37 @@ tags:
 Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės negriauname, naujovių neįvedame“ – jie palikdavo senąsias kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaikiniais terminais – autonomijas). „Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.
 
 ## Teiginiai
-
-<a id="claim-t-67323"></a>
+<a id="claim-t-186413"></a>
 - t-001
-  global_id: t-67323
+  global_id: t-186413
   teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-67324"></a>
+<a id="claim-t-186414"></a>
 - t-002
-  global_id: t-67324
+  global_id: t-186414
   teiginys: 'Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183506"></a>
+<a id="claim-t-186415"></a>
 - t-003
-  global_id: t-183506
+  global_id: t-186415
   teiginys: 'Lietuvos istorijos autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija perskėlė Kijevo Rusios erdvę.'
   pagrindžia:
     - c-003
-
+<a id="claim-t-186416"></a>
+- t-004
+  global_id: t-186416
+  teiginys: 'Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu.'
+  pagrindžia:
+    - c-001
+<a id="claim-t-186417"></a>
+- t-005
+  global_id: t-186417
+  teiginys: 'Posakis „senovės negriauname, naujovių neįvedame“ apibūdino taktiką palikti senąsias kunigaikštijų struktūras.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +71,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -76,7 +87,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Lietuvos istorijos autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija perskėlė Kijevo Rusios erdvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -104,4 +114,3 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
 - [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas]]
-- [[objektai/posakiai/senovės negriauname, naujovių neįvedame]]

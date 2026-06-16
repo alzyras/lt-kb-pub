@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą. Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.
+Po J. Stalino mirties V. Krėvė-Mickevičius buvo reabilituotas, o jo kūriniai vėl išspausdinti. Stalino valdymo metais iš bibliotekų buvo šalinamos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 <a id="claim-t-64200"></a>
 - t-002
   global_id: t-64200
-  teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+  teiginys: 'Stalino valdymo metais iš bibliotekų buvo šalinamos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stalino valdymo metais iš bibliotekų buvo šalinamos Vinco Krėvės-Mickevičiaus ir kitų lietuvių autorių knygos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kultūros suvienodinimas
@@ -78,13 +79,10 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/MOPR]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]
-- [[objektai/zodynas/judobolševizmas]]
 - [[objektai/zodynas/valymo operacijos]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
-- [[objektai/posakiai/„kovos su judobolševizmu“]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

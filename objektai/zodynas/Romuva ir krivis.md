@@ -101,7 +101,6 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/pagonybė]]

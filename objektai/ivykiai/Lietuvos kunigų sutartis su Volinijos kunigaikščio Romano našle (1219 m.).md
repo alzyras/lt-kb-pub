@@ -129,3 +129,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/zodynas/metraštis]]

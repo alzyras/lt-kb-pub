@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Jam metus šūkį, visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Višniaveckis.
+Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių. Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis.
 
 ## Laikotarpis ir datos
 
@@ -34,24 +34,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66794"></a>
 - t-001
   global_id: t-66794
-  teiginys: 'Didikai bandė šitą elekciją sutrukdyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių.'
+  teiginys: 'Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių.'
   pagrindžia:
     - c-002
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66795"></a>
 - t-002
   global_id: t-66795
-  teiginys: 'Jam metus šūkį, visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Višniaveckis.'
+  teiginys: 'Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau atsirado
@@ -60,13 +62,15 @@ Nenurodyta
     šaky stovėjo Lenkijos vicekancleris Olšovskis. Jam metus šūkį,
     visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Viš-
     niaveckis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: 'Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu jis buvo
@@ -75,9 +79,11 @@ Nenurodyta
     dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -86,4 +92,3 @@ Nenurodyta
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Pacai]]
-- [[objektai/zodynas/bajorija]]

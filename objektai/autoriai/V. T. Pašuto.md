@@ -80,4 +80,3 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Skydai]]
-- [[objektai/zodynas/metrika]]

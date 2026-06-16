@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.
+Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“. J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra. J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas.
 
 ## Teiginiai
 
@@ -37,29 +37,22 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   pagrindžia:
     - c-002
 
-<a id="claim-t-75530"></a>
-- t-003
-  global_id: t-75530
-  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-75531"></a>
-- t-004
+- t-003
   global_id: t-75531
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75532"></a>
-- t-005
+- t-004
   global_id: t-75532
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pateiktas Vilniaus Verkių rūmų interjero vaizdas.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-75533"></a>
-- t-006
+- t-005
   global_id: t-75533
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas.'
   pagrindžia:
@@ -77,7 +70,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   santrauka: 'J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.'
@@ -110,7 +103,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-004
   santrauka: 'Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.'
@@ -142,18 +135,4 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gri-
-    galiaus XIII pritarimas buvo gautas). Tačiau svarbiausia buvo valdovo
-    parama. 1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
-    mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
-    Vilniaus universiteto Didysis kiemas ir Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
+    - t-005

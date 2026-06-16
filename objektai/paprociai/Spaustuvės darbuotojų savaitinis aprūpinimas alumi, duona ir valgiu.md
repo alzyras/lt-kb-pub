@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.
+Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.
 
 ## Laikotarpis ir datos
 
@@ -45,14 +45,14 @@ Nenurodyta
 <a id="claim-t-87284"></a>
 - t-001
   global_id: t-87284
-  teiginys: 'Spaustuvė kas savaitę privalėjo skirti alaus, po 8 kepalus duonos 8 asmenims ir valgį iš kolegijos virtuvės.'
+  teiginys: 'Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Spaustuvė kas savaitę privalėjo skirti alaus, po 8 kepalus duonos 8 asmenims ir valgį iš kolegijos virtuvės.'
+  santrauka: 'Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Spaustuvės lėšas sudaro pajamos, gautos už parduotas

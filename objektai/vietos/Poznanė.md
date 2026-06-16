@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
+1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu. Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises. Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
 
 ## Teiginiai
 
@@ -115,7 +115,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 <a id="claim-t-185098"></a>
 - t-013
   global_id: t-185098
-  teiginys: 'Karalius, keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės per audrą.'
+  teiginys: 'Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą.'
   pagrindžia:
     - c-009
 
@@ -283,7 +283,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     - t-010
 
 - c-009
-  santrauka: 'Karalius, keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės per audrą.'
+  santrauka: 'Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pa­

@@ -14,27 +14,21 @@ tags:
 
 ## Santrauka
 
-Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką stengėsi išsiveržti iš apsupties zonos (miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės).
+Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės. Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 
 ## Teiginiai
 
 <a id="claim-t-38552"></a>
 - t-001
   global_id: t-38552
-  teiginys: 'Mūšyje miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183810"></a>
-- t-002
-  global_id: t-183810
   teiginys: 'Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis prasi-

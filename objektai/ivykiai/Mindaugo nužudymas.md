@@ -1,86 +1,89 @@
 ---
-tipas: ivykis
+tipas: 'ivykis'
 pavadinimas: 'Mindaugo nužudymas'
+sukurta: '2026-06-16'
+variantai:
+  - '6771 metų Mindaugo nužudymas'
+  - 'Mindaugo ir jo sūnų nužudymas'
+aliases: []
 saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+bukle: 'juodrastis'
+laikotarpis: '6771 metai'
 datos:
-  - '1260 m.'
-  - '1268 m.'
-date_start: '1260'
-date_end: '1268'
-sukurta: ''
-atnaujinta: ''
-tags:
-  - ivykis
-  - kunigaikštis
-  - ordinas
-  - popiežius
-amziai:
-  - 'XIII'
+  - '6771 metai'
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: ''
+atnaujinta: '2026-06-16'
+tags: []
 ---
 # Mindaugo nužudymas
 
 ## Santrauka
 
-Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.
+Lietuvos metraštis teigia, kad rudenį Lietuvos didysis kunigaikštis Mindaugas buvo nužudytas. Pasakojimo įžangoje Mindaugo valdymas apibūdinamas kaip lydėtas giminių žudymo ir išvarymo.
 
 ## Laikotarpis ir datos
 
-Nenurodyta
+- laikotarpis: 6771 metai
+- datos:
+  - 6771 metai
 
 ## Dalyviai ir vaidmenys
-
 Nenurodyta
 
 ## Eiga
-
 Nenurodyta
 
 ## Rezultatas
-
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-77902"></a>
+<a id="claim-t-186564"></a>
 - t-001
-  global_id: t-77902
-  teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
+  global_id: t-186564
+  teiginys: 'Lietuvos metraštis teigia, kad rudenį Lietuvos didysis kunigaikštis Mindaugas buvo nužudytas.'
   pagrindžia:
     - c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Lietuvos metraštis teigia, kad rudenį Lietuvos didysis kunigaikštis Mindaugas buvo nužudytas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
-    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
-    Mindaugą. Paprastai istorikai tai laiko pagonių reakcija prieš krikščio-
-    nį valdovą. Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
-    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
-    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
-    Livonija. Mindaugas ryžosi kariauti su Vokiečių ordinu. Kartais teigia-
-    ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
-    metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
-    Mindaugą vadina „šviesaus atminimo valdovu“. Mindaugo krikštas nepa-
-    šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
-    maitija. Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
-    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
-    krikščionio valdovo statusą.
-  citata_rodoma: ''
+    APIE MINDAUGO NUŽUDYMĄ IR MINDAUGO ŠONŲ
+    VAIŠVILKĄ
+    P o1  šito seimo2  prabėgo nemaža laiko, ir rudenį
+    Lietuvos didysis kunigaikštis Mindaugas, visų lietuvių
+    žemių valdovas, buvo nužudytas.
+    Papasakosime apie nužudymą.
+    Buvo šitaip. Jis kunigaikščiavo Lietuvos žemėje ir
+    ėmė žudyti savo brolius ir savo giminaičius, o kitus
+    išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti vi­
+    soje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis di­
+    džia šlove bei didybe, ir nepakentė nė vieno, kuris
+    būtų galėjęs jam paprieštarauti.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
-- [[objektai/asmenys/Klemensas IV]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/apostazija]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/metraštis]]

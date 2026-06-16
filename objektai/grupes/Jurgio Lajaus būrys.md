@@ -53,5 +53,4 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - [[objektai/grupes/Juozo Pandeikos būrys]]
 - [[objektai/grupes/Klarko būrys]]
 - [[objektai/grupes/Kosto Barkausko būrys]]
-- [[objektai/grupes/Muškietininkų būrys]]
 - [[objektai/grupes/Žuvinto-Palių junginys]]

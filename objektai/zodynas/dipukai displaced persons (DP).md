@@ -20,26 +20,19 @@ amziai:
 
 ## Santrauka
 
-Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (angl. Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.
+Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą. Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas.
 
 ## Teiginiai
 
-<a id="claim-t-101577"></a>
-- t-001
-  global_id: t-101577
-  teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-101578"></a>
-- t-002
+- t-001
   global_id: t-101578
-  teiginys: 'Prasidėjus Šaltajam karui tarp JAV ir SSRS, JAV ėmė keisti požiūrį į dipukus ir 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
+  teiginys: 'Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-101579"></a>
-- t-003
+- t-002
   global_id: t-101579
   teiginys: 'Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas.'
   pagrindžia:
@@ -57,10 +50,10 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
-  santrauka: 'Prasidėjus Šaltajam karui, JAV pakeitė požiūrį į dipukus ir 1948 m. priėmė Perkeltųjų asmenų įstatymą.'
+  santrauka: 'Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
@@ -74,7 +67,6 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 ## Ryšiai

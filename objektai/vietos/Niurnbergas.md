@@ -11,21 +11,20 @@ date_start: '1741'
 date_end: '1934'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - krikštas
-  - vieta
 amziai:
   - 'XVIII'
   - 'XX'
+tags:
+  - krikštas
+  - vieta
 ---
 # Niurnbergas
 
 ## Santrauka
 
-Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis.
+Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
 
 ## Teiginiai
-
 <a id="claim-t-47037"></a>
 - t-001
   global_id: t-47037
@@ -33,15 +32,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   pagrindžia:
     - c-001
 
-<a id="claim-t-183063"></a>
-- t-002
-  global_id: t-183063
-  teiginys: 'Algirdas ir Kęstutis pasiuntė į Niurnbergą šeimos narį, kuris įtikino imperatorių, kad Lietuva krikštysis.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,20 +46,3 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Algirdas ir Kęstutis pasiuntė į Niurnbergą šeimos narį, kuris įtikino imperatorių, kad Lietuva krikštysis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Imperatorius parašė Algirdui
-    ir Kęstučiui laiškus, siūlydamas krikštytis. Abu kunigaikš-
-    čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
-    narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino impera-
-    torių, kad Lietuva tikrai krikštysis. Tada imperatorius išsiuntė
-    į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
-    vaujamą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

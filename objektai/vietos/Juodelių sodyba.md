@@ -20,20 +20,21 @@ amziai:
 
 ## Santrauka
 
-Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
+Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
 
 ## Teiginiai
 
 <a id="claim-t-41748"></a>
 - t-001
   global_id: t-41748
-  teiginys: 'Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
+  teiginys: 'Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kautynių metu iš bunkerio pavyko išsiveržti

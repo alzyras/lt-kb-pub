@@ -79,7 +79,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/gotika]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]

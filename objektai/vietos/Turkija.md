@@ -10,11 +10,11 @@ date_start: '1901'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Turkija
 
@@ -23,7 +23,6 @@ amziai:
 Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 
 ## Teiginiai
-
 <a id="claim-t-170860"></a>
 - t-001
   global_id: t-170860
@@ -32,7 +31,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

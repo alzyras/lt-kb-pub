@@ -1,0 +1,70 @@
+---
+tipas: vieta
+pavadinimas: 'Tamovas'
+saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1498 m.'
+date_start: '1498'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
+amziai:
+  - 'XV'
+---
+# Tamovas
+
+## Santrauka
+
+Tamovas šiame gabale apibrėžia puolimo gylį Lenkijos žemėje. Stepono kariuomenė pasiekė net Tamovą. Stepono kariuomenė pasiekė net Tamovą.
+
+## Teiginiai
+
+<a id="claim-t-187350"></a>
+- t-001
+  global_id: t-187350
+  teiginys: 'Tamovas šiame gabale apibrėžia puolimo gylį Lenkijos žemėje.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-187351"></a>
+- t-002
+  global_id: t-187351
+  teiginys: 'Stepono kariuomenė pasiekė net Tamovą.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-187658"></a>
+- t-005
+  global_id: t-187658
+  teiginys: 'Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco ir Lvovo iki Tamovo.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O pas­
+    kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
+    vą 3 9 .
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+    - t-004
+    - t-002
+    - t-001
+    - t-005

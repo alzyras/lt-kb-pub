@@ -232,7 +232,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/dominija]]
-- [[objektai/zodynas/homiletika]]
 - [[objektai/zodynas/mokytojų seminarija]]
 - [[objektai/grupes/Tridento Sinodas]]
 - [[objektai/zodynas/diecezija]]

@@ -118,7 +118,6 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/barbarai]]

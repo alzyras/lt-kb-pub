@@ -129,7 +129,6 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Jelena Boner]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/grupes/Rusai]]

@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti.
+Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.
 
 ## Teiginiai
 
 <a id="claim-t-30262"></a>
 - t-001
   global_id: t-30262
-  teiginys: 'Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulą.'
+  teiginys: 'Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po

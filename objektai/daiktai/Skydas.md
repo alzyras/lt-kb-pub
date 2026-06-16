@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Skydai buvo naudojami kaip apsauga nuo priešo smūgių. Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.
+Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos. Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva. Pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos.
 
 ## Pavadinimai šaltiniuose
 
@@ -66,7 +66,7 @@ Nenurodyta
 <a id="claim-t-111285"></a>
 - t-004
   global_id: t-111285
-  teiginys: 'Martynas iš Golino, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.'
+  teiginys: 'Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.'
   pagrindžia:
     - c-003
 
@@ -100,7 +100,7 @@ Nenurodyta
     - t-006
 
 - c-003
-  santrauka: 'Martynas iš Golino, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.'
+  santrauka: 'Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
@@ -149,10 +149,12 @@ Nenurodyta
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
+- [[objektai/daiktai/Dubnia herbas]]
+- [[objektai/daiktai/Habdankas]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/XIII a. Vakarų Europos pėstininkų apsaugos ir ginkluotės praktika]]

@@ -10,14 +10,14 @@ date_start: '1396'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
-  - pinigai
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
+  - pinigai
 ---
 # Vladimiras Algirdaitis
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui laidavus, Andrius buvo paleistas.
 
 ## Teiginiai
-
 <a id="claim-t-182865"></a>
 - t-001
   global_id: t-182865
@@ -49,7 +48,6 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -66,7 +64,6 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vytautas turėjo pašalinti Vladimirą Algirdaitį iš Kijevo, kad įvykdytų sutartį dėl Kijevo perdavimo Skirgailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -82,7 +79,6 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Vytautas suvaldė Kijevo kunigaikštį Vladimirą Algirdaitį, silpnindamas Gediminaičių valdžią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

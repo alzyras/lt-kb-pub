@@ -31,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a. Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
+Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje. Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją. Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
 
 ## Laikotarpis ir datos
 
@@ -72,7 +72,7 @@ Nenurodyta
 <a id="claim-t-59727"></a>
 - t-003
   global_id: t-59727
-  teiginys: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų rado prieglobstį Lietuvos valstybės teritorijoje ir toliau dalyvavo bendroje kovoje.'
+  teiginys: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.'
   pagrindžia:
     - c-002
 
@@ -106,7 +106,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų rado prieglobstį Lietuvos valstybės teritorijoje ir toliau dalyvavo bendroje kovoje.'
+  santrauka: 'Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,

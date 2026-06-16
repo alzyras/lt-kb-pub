@@ -14,41 +14,21 @@ tags:
 
 ## Santrauka
 
-Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Taip antai, kai kur lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierarchijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių bažnyčių.
+Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.
 
 ## Teiginiai
-
 <a id="claim-t-03184"></a>
 - t-001
   global_id: t-03184
   teiginys: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-03185"></a>
-- t-002
-  global_id: t-03185
-  teiginys: 'Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu.'
-  pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Apskaičiuoja-
-    ma, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs
-    apie 60 milijonų dolerių. Amerikoje visų tautinių bažnyčių tur-
-    tas yra užrašomas vyskupų vardu. Dėl to kartais esti ir nesu-
-    sipratimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl to kartais esti ir nesu-
@@ -56,9 +36,11 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
     jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
     chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
     bažnyčių. Bet jų nedaug tėra — vos 6.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie, Drusa ir pan. (PUB, 1, 1, p. 108, 132); terra Drusen — žemė, kurioje pastatytas Elbingas (SRP, 2, p. 404). Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. IX a. čia (apie. Dusburgietis teigia, kad tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
+Drūsinė XIII a. vidurio dokumentuose minima kaip Drusnie arba Drusa, o apie 890 m. Vulfstanas vietovardį užrašė kaip Truso. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
 <a id="claim-t-58543"></a>
 - t-002
   global_id: t-58543
-  teiginys: 'Dusburgietis teigia, kad tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
+  teiginys: 'Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
     - t-001
 
 - c-002
+  santrauka: 'Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir

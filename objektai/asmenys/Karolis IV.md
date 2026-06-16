@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir tapęs Algirdo derybų partneriu dėl kryžiuočių bei baltų žemių klausimo. Naujas šaltinio fragmentas jį aiškiai įrašo į 1358 m. Lietuvos diplomatijos kontekstą.
+Karolis IV šiame šaltinyje įvardijamas Šv. Romos imperatoriumi. Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis. 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.
 
 ## Teiginiai
 
@@ -52,7 +52,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 <a id="claim-t-89888"></a>
 - t-004
   global_id: t-89888
-  teiginys: '1358 m. Algirdas derybose su Šv. Romos imperatoriumi Karoliu IV reikalavo iškelti kryžiuočius kovoti su mongolais.'
+  teiginys: '1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
     - t-001
 
 - c-002
-  santrauka: '1358 m. Algirdas derybose su Šv. Romos imperatoriumi Karoliu IV reikalavo iškelti kryžiuočius kovoti su mongolais.'
+  santrauka: '1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pergalė prieš kryžiuočius. Lietuvos galybės maksimumas

@@ -2,10 +2,13 @@
 tipas: vieta
 pavadinimas: 'Viazma'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1389 m.'
+  - '1492 m.'
+  - '1493 m.'
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
@@ -23,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9. Maskviečiai gi be sėkmės buvo apgulę Viazmą. 92 Vengrija 6, 83, 102, 103, 249, 259, 260, 267, 269, 275, 282-284, 287, 293, 312, 336 Venta 115, 127, 180, 187 Veredava 207 Verona 167 Versalio taika 30, 41 Veršvai 76, 106, 147 Vestfalija 202 Viazma 313, 320, 321 Vidas ar Vilkas, Traidenio tėvas 200.
+Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos. Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus. Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
 
 ## Teiginiai
 
@@ -54,6 +57,20 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   teiginys: 'Maskviečiai nesėkmingai apgulė Viazmą.'
   pagrindžia:
     - c-005
+
+<a id="claim-t-187668"></a>
+- t-006
+  global_id: t-187668
+  teiginys: 'Maskvos didysis kunigaikštis pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.'
+  pagrindžia:
+    - c-006
+
+<a id="claim-t-187669"></a>
+- t-007
+  global_id: t-187669
+  teiginys: 'Viazma, matyt, buvo užimta vėliau, 1493 m. žiemą iki vasario vidurio.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -131,3 +148,38 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   statusas: verified
   pagrindžia:
     - t-005
+
+- c-006
+  santrauka: 'Maskvos didysis kunigaikštis pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Nuvykę į Maskvą, pas didįjį kunigaikštį Ivaną Va-
+    Siljevičių, jie sudarė su juo amžiną taiką ir, sutvirtin­
+    dami sutartį, prisiekė 1 5  už save ir už savo vaikus, ir
+    susitarė, kad jo duktė, didžioji kunigaikštytė Elena l9 ,
+    tekės už didžiojo kunigaikščio Aleksandro. O Viazmos
+    miestą bei visus aukščiau minėtus miestus ir valsčius
+    Maskvos didysis kunigaikštis pasiliko sau 1 7  ir tik tuos
+    smolenskiečius, kurie tuose miestuose buvo paimti ne­
+    laisvėn, paleido į Smolenską l!.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Viazma, matyt, buvo užimta vėliau, 1493 m. žiemą iki vasario vidurio.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Išskyrus ViaznuĮ. visi aukščiau išvardytieji LDK rytų pasienio
+    miestai, kaip maskvėnų užimti, y ra minimi Aleksandro 1492.IX 27
+    rašte (instrukcijoje); papildomai ten dar nurodytas Mosalskas (apie
+    100 km | vakarus nuo Kalugos) ir Rohačevas (prie Chlepenio Į pie­
+    tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
+    mų ligi įh vasario.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007

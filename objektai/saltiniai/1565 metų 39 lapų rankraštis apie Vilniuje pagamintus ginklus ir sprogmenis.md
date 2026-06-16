@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Nenurodyta
+1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu. 1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją. Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai.
 
 ## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio. Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir. Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.
 
@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-88177"></a>
 - t-002
   global_id: t-88177
-  teiginys: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis LDK gamintus ginklus ir amuniciją.'
+  teiginys: '1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis LDK gamintus ginklus ir amuniciją.'
+  santrauka: '1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA

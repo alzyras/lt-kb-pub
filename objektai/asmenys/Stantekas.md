@@ -56,5 +56,6 @@ Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/maldininkai]]

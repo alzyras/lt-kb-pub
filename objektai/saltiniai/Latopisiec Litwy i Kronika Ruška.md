@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičiaus leidžiamas metraštinės tradicijos rinkinys. Jis cituojamas Jaunučio, Šv. Mikalojaus bažnyčios Vilniuje, mūšio prie Vilijos, Glebo Sviatoslavovičiaus ir Karigailos epizoduose.
+Latopisiec Litwy i Kronika Ruška nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje. Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli. „Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.
 
 ## Bibliografiniai duomenys
 
@@ -47,14 +47,14 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 <a id="claim-t-82002"></a>
 - t-003
   global_id: t-82002
-  teiginys: '„Latopisiec Litewski“ pasakoja, kad mūšis vyko prie Vilijos upės, ties Horodoku, Weyiszczuszki vadintoje vietovėje.'
+  teiginys: '„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-82003"></a>
 - t-004
   global_id: t-82003
-  teiginys: 'Panaši užuomina apie šį Glebą Kronika Ruška, išleista Danilovič i a u s, įdėta Latopisiec Litewski, p. 212.'
+  teiginys: '„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje.'
   pagrindžia:
     - c-003
 
@@ -102,6 +102,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     - t-005
 
 - c-003
+  santrauka: '„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ros. T. V. vert. į lenk. k. p. 137-
@@ -116,7 +117,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     - t-004
 
 - c-004
-  santrauka: '„Latopisiec Litewski“ pasakoja, kad mūšis vyko prie Vilijos upės, ties Horodoku, Weyiszczuszki vadintoje vietovėje.'
+  santrauka: '„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Iš

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Diplomatai savo atstovaujamose valstybėse simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais, dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
+Lietuvos diplomatinės tarnybos diplomatai atstovaujamose valstybėse simboliškai atstovavo Lietuvai ir palaikė ryšius su Baltijos šalių atstovais. Atkūrus Lietuvos nepriklausomybę, 1991 m. rugsėjo 6 d. Lietuvos diplomatinė tarnyba baigė darbą.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-20296"></a>
 - t-001
   global_id: t-20296
-  teiginys: 'Diplomatai savo atstovaujamose valstybėse simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais, dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.'
+  teiginys: 'Lietuvos diplomatinės tarnybos diplomatai atstovaujamose valstybėse simboliškai atstovavo Lietuvai ir palaikė ryšius su Baltijos šalių atstovais.'
   pagrindžia:
     - c-001
 
@@ -58,6 +58,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos diplomatinės tarnybos diplomatai atstovaujamose valstybėse simboliškai atstovavo Lietuvai ir palaikė ryšius su Baltijos šalių atstovais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos oku-

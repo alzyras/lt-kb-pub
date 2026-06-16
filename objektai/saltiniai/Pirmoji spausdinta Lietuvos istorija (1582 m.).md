@@ -14,12 +14,12 @@ variantai:
   - 'Pirmoji spausdinta Lietuvos istorija'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - saltinis
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XVI'
+tags:
+  - saltinis
+  - vyskupas
 ---
 # Pirmoji spausdinta Lietuvos istorija (1582 m.)
 
@@ -35,7 +35,6 @@ amziai:
 - Data: 1582 m.
 
 ## Teiginiai
-
 <a id="claim-t-67517"></a>
 - t-001
   global_id: t-67517
@@ -43,8 +42,7 @@ amziai:
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'M. Strijkovskis 1582 m. Karaliaučiuje išspausdintoje Kronikoje panaudojo Dusburgiečio nuorašą, apėmusį įvykius iki 1326 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -11,11 +11,11 @@ date_start: '1432'
 date_end: '1434'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - unija
   - vieta
-amziai:
-  - 'XV'
 ---
 # Florencija
 
@@ -24,7 +24,6 @@ amziai:
 Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 ## Teiginiai
-
 <a id="claim-t-83346"></a>
 - t-001
   global_id: t-83346
@@ -45,9 +44,10 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginys: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -83,8 +83,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   pagrindžia:
     - t-002
     - t-001
-
 - c-002
+  santrauka: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Imperatorius, norėdamas gauti Vakarų para-
@@ -94,8 +94,10 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
     metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
     su ja žlugo ir unija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

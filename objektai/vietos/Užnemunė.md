@@ -23,58 +23,44 @@ amziai:
 
 ## Santrauka
 
-Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. Žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę.
+Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę. Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą. Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 
 ## Teiginiai
 
 <a id="claim-t-182731"></a>
 - t-001
   global_id: t-182731
-  teiginys: 'Vėliau Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-182733"></a>
-- t-002
-  global_id: t-182733
-  teiginys: 'Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-182735"></a>
-- t-003
-  global_id: t-182735
-  teiginys: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
+  teiginys: 'Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-182736"></a>
-- t-004
-  global_id: t-182736
-  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. - Suvalkų gubernija.'
+<a id="claim-t-182735"></a>
+- t-002
+  global_id: t-182735
+  teiginys: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
   pagrindžia:
-    - c-006
+    - c-003
+
+<a id="claim-t-182736"></a>
+- t-003
+  global_id: t-182736
+  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
+  pagrindžia:
+    - c-005
 
 <a id="claim-t-183097"></a>
-- t-005
+- t-004
   global_id: t-183097
   teiginys: 'Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183098"></a>
-- t-006
+- t-005
   global_id: t-183098
   teiginys: '1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183099"></a>
-- t-007
-  global_id: t-183099
-  teiginys: 'Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai atleisti nuo baudžiavos be žemės.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -92,7 +78,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
   santrauka: 'Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.'
@@ -108,25 +94,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pastaroji oficialiai vadinta
-    Lenkijos karalyste ir formaliu politiniu administraciniu požiūriu nebu-
-    vo laikoma „organine“ Rusijos imperijos dalimi. Nors didžiosios etninės
-    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
-    tautos formavimasis vyko ta pačia kryptimi.
-    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
-    padėties iš esmės nepakeitė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
   santrauka: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -142,10 +112,10 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-005
-  santrauka: 'Vėliau Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
+- c-004
+  santrauka: 'Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia Vytautas pakartoja ankstesnių Lie-
@@ -160,8 +130,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   pagrindžia:
     - t-001
 
-- c-006
-  santrauka: 'Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. - Suvalkų gubernija.'
+- c-005
+  santrauka: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val-
@@ -175,22 +145,4 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-007
-  santrauka: 'Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai atleisti nuo baudžiavos be žemės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip
-    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
-    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
-    vos, tik be žemės.
-    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
-    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
-    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
-    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
+    - t-003

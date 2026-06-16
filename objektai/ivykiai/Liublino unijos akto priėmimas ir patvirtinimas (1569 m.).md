@@ -13,13 +13,13 @@ date_start: '1569'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+  - 'XXI'
 tags:
   - ivykis
   - karalius
   - unija
-amziai:
-  - 'XVI'
-  - 'XXI'
 ---
 # Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)
 
@@ -44,7 +44,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-49168"></a>
 - t-001
   global_id: t-49168
@@ -67,7 +66,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -87,7 +85,6 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-
 - c-002
   santrauka: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

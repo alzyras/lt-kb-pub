@@ -58,8 +58,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/zodynas/unija]]

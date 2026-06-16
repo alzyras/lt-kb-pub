@@ -22,16 +22,16 @@ periodo_grupes:
 
 ## Santrauka
 
-M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius. Šio antrojo kabineto pirmininku buvo M. Sleževičius. Kabinetas tuojau paskelbė visų piliečių šaukimą į savanorių pulkus ginti nepriklausomybės. Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius.
+M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys. 1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.
 
 ## Teiginiai
 
 <a id="claim-t-79103"></a>
 - t-001
   global_id: t-79103
-  teiginys: 'M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius.'
+  teiginys: 'M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-79104"></a>
 - t-002
@@ -39,13 +39,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
   teiginys: '1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-79105"></a>
-- t-003
-  global_id: t-79105
-  teiginys: 'Valstybės prezidentu buvo išrinktas d r. Kazys Grinius, o ministerių pirmininku buvo paskirtas valstiečių liaudininkų lyderis M. Sleževičius.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -69,21 +62,7 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     - t-002
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vy-
-    riausybė buvo sudaryta koalicijos pagrindais iš pačių valstie-
-    čių liaudininkų, socialdemokratų ir tautinių mažumų atstovų.
-    Valstybės prezidentu buvo išrinktas d r. Kazys Grinius,
-    o ministerių pirmininku buvo paskirtas valstiečių liaudininkų
-    lyderis M. Sleževičius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
+  santrauka: 'M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
@@ -107,4 +86,5 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]

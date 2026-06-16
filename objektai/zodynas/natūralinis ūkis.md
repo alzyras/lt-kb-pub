@@ -16,16 +16,16 @@ tags:
 Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
 
 ## Teiginiai
-
 <a id="claim-t-03084"></a>
 - t-001
   global_id: t-03084
   teiginys: 'Lietuvoje dar vyravo natūralinis ūkis, o dėl pinigų stokos vyko mainų prekyba.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvoje dar vyravo natūralinis ūkis, o dėl pinigų stokos vyko mainų prekyba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -36,8 +36,14 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
     nosi nelaisvaisiais.
     Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
     tuomet buvo labai maža, todėl ėjo mainų prekyba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/ponai]]

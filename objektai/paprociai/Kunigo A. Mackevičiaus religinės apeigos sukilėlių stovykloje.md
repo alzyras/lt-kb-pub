@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas. Sukilėlių stovykloje jis laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.
+Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas. Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas. Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.
 
 ## Laikotarpis ir datos
 
@@ -55,13 +55,14 @@ Nenurodyta
 <a id="claim-t-41430"></a>
 - t-002
   global_id: t-41430
-  teiginys: 'Kunigas A. Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
+  teiginys: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiems tikslams įgyvendinti už Anykščių
@@ -80,7 +81,7 @@ Nenurodyta
     - t-003
 
 - c-002
-  santrauka: 'Kunigas A. Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
+  santrauka: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Joje vykdė naujokų ap-
@@ -120,7 +121,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
 - [[objektai/asmenys/Antanas Mackevičius]]

@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškietininkai.
+Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.
 
 ## Teiginiai
 
 <a id="claim-t-42481"></a>
 - t-001
   global_id: t-42481
-  teiginys: 'Tercijos priekyje flanguose būdavo išrikiuojami muškietininkai.'
+  teiginys: 'Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tercijos priekyje ir flanguose būdavo išrikiuojami muškietininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ie r. g“ sel

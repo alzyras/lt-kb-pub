@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje. Nastopką ir Generalinio štabo viršininką gen.
+S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių. S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje. Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 <a id="claim-t-40413"></a>
 - t-003
   global_id: t-40413
-  teiginys: 'Atleidus gen. S. Nastopką iš armijos vado pareigų, rugpjūčio 23 d. armijos vadu paskirtas plk. ltn. K. Ladyga.'
+  teiginys: 'Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu.'
   pagrindžia:
     - c-003
 
@@ -72,7 +72,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
     - t-001
 
 - c-003
-  santrauka: 'Atleidus gen. S. Nastopką iš armijos vado pareigų, rugpjūčio 23 d. armijos vadu paskirtas plk. ltn. K. Ladyga.'
+  santrauka: 'Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Konstantinas Žukas. Atleidus iš
@@ -93,6 +93,5 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/brigada]]
 - [[objektai/grupes/11 brigada]]

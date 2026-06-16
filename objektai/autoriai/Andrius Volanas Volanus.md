@@ -23,14 +23,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas. Volanus knyga, atspausdinta šioje spaustucontra Skargae missam. Lib.
+1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“. Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.
 
 ## Teiginiai
 
 <a id="claim-t-88051"></a>
 - t-001
   global_id: t-88051
-  teiginys: 'Volanus knyga, atspausdinta šioje spaustucontra Skargae missam. Lib.'
+  teiginys: '1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“.'
   pagrindžia:
     - c-001
 
@@ -44,6 +44,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniuje, Kunigaikščio Mikalojaus 65

@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anksčiau minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų ordino broliams Prūsijoje.
+Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusią kunigaikštystės dalį.
 
 ## Teiginiai
 
 <a id="claim-t-60460"></a>
 - t-001
   global_id: t-60460
-  teiginys: 'Vartislavas, Sventopelko sūnus, įstojo į Teutonų ordiną ir jam atidavė paveldėtą kunigaikštystės dalį Prūsijoje.'
+  teiginys: 'Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusią kunigaikštystės dalį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vartislavas, Sventopelko sūnus, įstojo į Teutonų ordiną ir jam atidavė paveldėtą kunigaikštystės dalį Prūsijoje.'
+  santrauka: 'Vartislavas įstojo į Teutonų ordiną broliu ir Ordinui atidavė jam atitekusią kunigaikštystės dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,

@@ -10,11 +10,11 @@ date_start: '1322'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Mėlynieji Vandenys
 
@@ -23,7 +23,6 @@ amziai:
 Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.
 
 ## Teiginiai
-
 <a id="claim-t-171847"></a>
 - t-001
   global_id: t-171847
@@ -32,7 +31,6 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

@@ -23,14 +23,14 @@ amziai:
 
 ## Santrauka
 
-Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas. Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos. Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
+Disidentų pusėje Andrius Volanas beveik vienas atremdinėjo jėzuitų priešinimąsi. Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais. Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
 
 ## Teiginiai
 
 <a id="claim-t-86463"></a>
 - t-001
   global_id: t-86463
-  teiginys: 'Disidentų pusėje Andrius Volanas beveik vienas turėjo atremti jėzuitų vadovaujamų katalikų priešininkus.'
+  teiginys: 'Disidentų pusėje Andrius Volanas beveik vienas atremdinėjo jėzuitų priešinimąsi.'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Disidentų pusėje Andrius Volanas beveik vienas turėjo atremti jėzuitų vadovaujamų katalikų priešininkus.'
+  santrauka: 'Disidentų pusėje Andrius Volanas beveik vienas atremdinėjo jėzuitų priešinimąsi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     293
@@ -166,7 +166,6 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ### Susiję objektai
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Cvinglis]]
-- [[objektai/autoriai/Liuteris]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/grupes/Radvilos]]

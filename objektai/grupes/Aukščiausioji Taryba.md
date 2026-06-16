@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirmininko Vytauto Landsbergio, priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“. Sausio 8 d. perversmininkų minia, reikalavusi atkurti sovietų valdžią ir įvesti tiesioginį ssRS prezidento valdymą, bandė įsiveržti į Aukščiausiosios Tarybos rūmus (seimą) ir nuversti nepriklausomos Lietuvos valdžią, tačiau rūmų apsaugai pavyko atlaikyti.
+1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią. 1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
 
 ## Teiginiai
 
@@ -35,7 +35,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 <a id="claim-t-40859"></a>
 - t-002
   global_id: t-40859
-  teiginys: 'Sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  teiginys: '1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     - t-001
 
 - c-002
-  santrauka: 'Sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  santrauka: '1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     su Vilniumi. Sausio 12 d. Aukščiausioji

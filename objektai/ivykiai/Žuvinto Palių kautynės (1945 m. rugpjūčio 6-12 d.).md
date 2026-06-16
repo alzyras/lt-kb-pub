@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-NKVD apsupo Žuvinto ežerą ir Palias, partizanai slėpėsi salose ir pelkėse, o mūšis tęsėsi visą savaitę. Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį Partizanai slapstėsi Žuvinto ežero salose, o Juozas Kasparavičius-Strausas apgaule privertė rusų valtis artintis.
+Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį. 1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų. Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų.
 
 ## Laikotarpis ir datos
 
@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-71783"></a>
 - t-005
   global_id: t-71783
-  teiginys: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
+  teiginys: 'Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.'
   pagrindžia:
     - c-001
 

@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­ bės istoriją iki Gedimino mirties (AnM, AnOč). Jo veikalo skyriai apie Vytenį ir Gediminą buvo išversti ir lietuviškai^134.
+V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 
 ## Teiginiai
 
 <a id="claim-t-31053"></a>
 - t-001
   global_id: t-31053
-  teiginys: 'V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
+  teiginys: 'V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     XIX amžiui einant į galą rusų universitetų istorikams vis

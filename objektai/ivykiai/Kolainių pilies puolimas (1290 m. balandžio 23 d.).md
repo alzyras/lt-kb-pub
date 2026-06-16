@@ -92,7 +92,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/posakiai/prisiekęs dievų galybe]]
 - [[objektai/zodynas/magistras]]

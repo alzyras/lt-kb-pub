@@ -9,12 +9,12 @@ date_start: '1704'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
 tags:
   - elekcija
   - ivykis
   - seimas
-amziai:
-  - 'XVIII'
 ---
 # Stanislovo Leščinskio išrinkimas karalium (1704 m.)
 
@@ -35,17 +35,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01806"></a>
 - t-001
   global_id: t-01806
   teiginys: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl visuotinio sukilimo
@@ -58,9 +59,11 @@ Nenurodyta
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -69,5 +72,3 @@ Nenurodyta
 - [[objektai/asmenys/Karolis]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Stanislovas Leščinskis]]
-- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]

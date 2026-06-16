@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Hetmonas Pacas atsisakinėjo eiti lenkams į pagalbą, teisindamasis, kad Lietuvos kariuomenė neturinti teisės peržengti Lenkijos sienos. Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui įsakius.
+Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.
 
 ## Laikotarpis ir datos
 
@@ -37,24 +37,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-67152"></a>
 - t-001
   global_id: t-67152
   teiginys: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67153"></a>
-- t-002
-  global_id: t-67153
-  teiginys: 'Hetmonas Pacas ne kartą atsisakė vykti prieš turkus, remdamasis įstatymu, kad Lietuvos kariuomenė už sienų gali išeiti tik seimui įsakius.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvai vado-
@@ -72,28 +66,16 @@ Nenurodyta
     kams į pagalbą, teisin-
     damasis, kad Lietuvos kariuomenė neturinti teisės peržengti Len-
     kijos sienos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet ne kartą hetmonas Pacas visiškai atsisakė vykti prieš
-    turkus, paprastai remdamasis tuo, kad pagal įstatymus Lietuvos
-    kariuomenė tegalinti išeiti už savo valstybės sienų, tik seimui
-    įsakius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Pacai]]
-- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lenkai]]

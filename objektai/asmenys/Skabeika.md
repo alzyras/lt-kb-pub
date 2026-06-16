@@ -43,5 +43,7 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/posakiai/Verbų sekmadieni]]
+- [[objektai/posakiai/šuns kfauju]]
 - [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]
 - [[objektai/daiktai/Vežimai]]

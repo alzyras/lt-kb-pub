@@ -66,7 +66,6 @@ Dusburgietis teigia, kad hugonas sušakosiąs ir ateityje duosiąs gausybę vais
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]

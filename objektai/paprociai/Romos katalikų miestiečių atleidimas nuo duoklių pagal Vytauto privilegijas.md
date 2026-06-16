@@ -108,7 +108,5 @@ Nenurodyta
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kitatikiai]]

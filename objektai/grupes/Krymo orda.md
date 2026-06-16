@@ -148,7 +148,6 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Kiška]]
@@ -157,6 +156,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]

@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimino ir Vytenio santykiais su Ryga, minoritų kvietimu ir ginču su Kryžiuočių ordinu. Pasakojime pateikiamos ir jam nepalankios versijos apie Gedimino vardu parengtus laiškus bei popiežiaus rūmų veikimą.
+Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną. Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą. Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
 
 ## Variantai
 
@@ -60,7 +60,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 <a id="claim-t-54965"></a>
 - t-002
   global_id: t-54965
-  teiginys: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė su juo susitarimus prieš Ordiną.'
+  teiginys: 'Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą.'
   pagrindžia:
     - c-002
 
@@ -158,7 +158,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - t-001
 
 - c-002
-  santrauka: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė su juo susitarimus prieš Ordiną.'
+  santrauka: 'Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     334.
@@ -402,5 +402,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/popiežiaus legatas]]

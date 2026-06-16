@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Suvalkų derybos. Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.
+Suvalkų derybos baigėsi susitarimu, kurį Lietuva ir Lenkija pasirašė 1920 m. spalio 7 d.
 
 ## Laikotarpis ir datos
 
@@ -34,38 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66915"></a>
 - t-001
   global_id: t-66915
-  teiginys: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
+  teiginys: 'Suvalkų derybos baigėsi susitarimu, kurį Lietuva ir Lenkija pasirašė 1920 m. spalio 7 d.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66916"></a>
-- t-002
-  global_id: t-66916
-  teiginys: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-66917"></a>
-- t-003
-  global_id: t-66917
-  teiginys: 'Prasidėjus Suvalkų deryboms, lenkų kariuomenė peržengė demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-66918"></a>
-- t-004
-  global_id: t-66918
-  teiginys: 'Pagaliau Lenkija vėl pasiūlė Lietuvai derybas Suvalkuose (rugsėjo mėn.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Suvalkų derybos baigėsi susitarimu, kurį Lietuva ir Lenkija pasirašė 1920 m. spalio 7 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos vyriausybė, ir šį kartą
@@ -76,64 +56,10 @@ Nenurodyta
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    7 d. Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-
-    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje. Linija už Bastūnų buvo palikta nustatyti vėliau, kai rusai
-    pasitrauks iš tos srities. Kartu buvo sutarta sustabdyti visas
-    kovas tarp Lietuvos ir Lenkijos kariuomenių ir pasikeisti be-
-    laisviais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau Lenkija vėl pasiūlė Lietuvai derybas Su-
-
-
-    valkuose (rugsėjo mėn. 29 d.). Lietuvos vyriausybė, ir šį kartą
-    tikėdamasi geruoju susitarti, sutiko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Prasidėjus Suvalkų deryboms, lenkų kariuomenė peržengė demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Suvalkų derybos.** Tuo pat laiku, kai Tautų Sąjunga nu-
-    sprendė (rugsėjo 20 d.) tarp Lietuvos ir Lenkijos sustabdyti
-    karo veiksmus, nustatė demarkacijos liniją (Kerzono linija, 1919
-    gruodžio 8 d.) ir pasiuntė kontrolės komisiją, — lenkų kariuomenė
-    peržengė tą liniją ir veržėsi į Gardino—Varėnos ruožą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Tautų Sąjunga]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

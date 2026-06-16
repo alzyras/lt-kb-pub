@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.
+Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose ES pripažino Baltijos valstybių tikslą tapti narėmis.
 
 ## Teiginiai
 
 <a id="claim-t-21039"></a>
 - t-001
   global_id: t-21039
-  teiginys: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
+  teiginys: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose ES pripažino Baltijos valstybių tikslą tapti narėmis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose ES pripažino Baltijos valstybių tikslą tapti narėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir ES pasirašė Prekybos

@@ -60,6 +60,7 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
 ### Susiję objektai
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/magistras]]

@@ -111,5 +111,6 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
+- [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/zodynas/trečias grūdas]]
 - [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą. Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais. Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gaudavo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems davė nacių vadai Valteris R.
+Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos. Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą. Klaipėdos nacių teisme buvo surinkti 34 tomai kaltinamosios medžiagos ir 300 dėžių įrodymų.
 
 ## Laikotarpis ir datos
 
@@ -57,13 +57,14 @@ Nenurodyta
 <a id="claim-t-75116"></a>
 - t-003
   global_id: t-75116
-  teiginys: 'Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išrikiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų uniformomis, instrukcijomis, lapeliais, ginklais.'
+  teiginys: 'Klaipėdos nacių teisme buvo surinkti 34 tomai kaltinamosios medžiagos ir 300 dėžių įrodymų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Klaipėdos nacių teisme buvo surinkti 34 tomai kaltinamosios medžiagos ir 300 dėžių įrodymų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Procesą stebėjo daugybė žurnalistų

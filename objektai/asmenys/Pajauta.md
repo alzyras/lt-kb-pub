@@ -56,5 +56,7 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Bychovco kronikos rankraštis]]
+- [[objektai/daiktai/Pajautos stabas]]
 - [[objektai/asmenys/Živinbudas]]
 - [[objektai/asmenys/Kernius]]

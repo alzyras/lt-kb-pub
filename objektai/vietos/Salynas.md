@@ -11,14 +11,14 @@ date_start: '1398'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - mūšis
   - ordinas
   - sutartis
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Salynas
 
@@ -27,7 +27,6 @@ amziai:
 Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.
 
 ## Teiginiai
-
 <a id="claim-t-51874"></a>
 - t-001
   global_id: t-51874
@@ -76,9 +75,10 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   teiginys: 'Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -94,7 +94,6 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-002
   santrauka: '1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -111,7 +110,6 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   pagrindžia:
     - t-002
     - t-001
-
 - c-003
   santrauka: '1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -128,7 +126,6 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   pagrindžia:
     - t-004
     - t-003
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -140,7 +137,6 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
   santrauka: 'Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -151,8 +147,10 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
     likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
     Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007

@@ -3,9 +3,11 @@ tipas: grupe
 pavadinimas: 'Ponų taryba (institucija)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1398 m.'
+  - '1492 m.'
   - '2026 m.'
 date_start: '1398'
 date_end: '2026'
@@ -24,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžiojo kunigaikščio, arba ponų taryba atsirado ir Lietuvoje. Tai ir buvo vadinamoji didžiojo kunigaikščio taryba. Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog, išrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompetencijos ribas.
+Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai. Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų. Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą.
 
 ## Teiginiai
 
@@ -56,40 +58,75 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   pagrindžia:
     - c-003
 
-<a id="claim-t-72611"></a>
-- t-005
-  global_id: t-72611
-  teiginys: 'Ponų taryba buvo nuolatinė aukštesniųjų valstybės urėdų grupė, sprendusi valstybės reikalus.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-72612"></a>
-- t-006
+- t-005
   global_id: t-72612
   teiginys: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-72613"></a>
-- t-007
+- t-006
   global_id: t-72613
   teiginys: 'Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-72615"></a>
-- t-009
+- t-008
   global_id: t-72615
   teiginys: 'Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-72616"></a>
-- t-010
+- t-009
   global_id: t-72616
   teiginys: 'Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą.'
   pagrindžia:
     - c-005
+
+<a id="claim-t-187735"></a>
+- t-010
+  global_id: t-187735
+  teiginys: 'Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-187736"></a>
+- t-011
+  global_id: t-187736
+  teiginys: 'Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-187737"></a>
+- t-012
+  global_id: t-187737
+  teiginys: 'Aleksandras ir Olbrachtas su savo Tarybų ponais dvi savaites dalyvavo seime Parčeve.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-187738"></a>
+- t-013
+  global_id: t-187738
+  teiginys: 'Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.'
+  pagrindžia:
+    - c-011
+
+<a id="claim-t-187739"></a>
+- t-014
+  global_id: t-187739
+  teiginys: 'Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.'
+  pagrindžia:
+    - c-012
+
+<a id="claim-t-187740"></a>
+- t-015
+  global_id: t-187740
+  teiginys: 'Aleksandro 1492 m. rugpjūčio 6 d. privilegija Lietuvos feodalams išplėtė LDK Ponų tarybos teises.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -124,7 +161,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -156,8 +193,8 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
     - t-001
+    - t-007
 
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -173,7 +210,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -189,7 +226,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-007
   santrauka: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
@@ -206,38 +243,170 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Todėl tuo laiku at-
-    sirado nuolatinė grupė aukštesniųjų valstybės urėdų, kurie
-    spręsdavo visus valstybės reikalus. Tai ir buvo vadinamoji
-    didžiojo kunigaikščio taryba.
+    Ir jis sutiko važiuoti
+    su jais ir be lenkų ponų sutikimo nusileido iš Sando-
+    miro pilies pas lietuvių ponus, ir tiedu ponai greitai įį
+    paėmė ir su didele pagarba pristatė didikams į Brastą H .
+    Ir ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis,
+    ir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir
+    Jonas Goštautas, ir Mikalojus Nemiravičius, ir krašto
+    maršalas Astikas 1 5  — pakėlė karalaitį Kazimierą į Lie­
+    tuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo
+    ne daugiau, kaip trylika metų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-010
+
+- c-009
+  santrauka: 'Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
+    tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
+    pabėgo į Mazoviją, nusprendė su tais miestais pereiti
+    Mykoliuko Zygimantaičio tarnybon ir dar prikalbėjo
+    daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
+    Kunigaikštystės. Ir su visais tais miestais prisijungė
+    prie Mazovijos ir ėmė tarnauti Mykoliukui
+    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
+    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
+    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
+    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
+    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
+    vo mažametis. Ir tas Goštautas didžiojo kunigaikščio
+    įsakymu nuvyko į tuos miestus, ir juos įveikė ginklo
+    jėga, ir visus pilnutinai sugrąžino Didžiajai Kunigaikš­
+    tystei o Jurgis Nosuta pabėgo į Mazoviją, nes jis
+    LlHuvoi 129
+
+    ## Puslapis 125
+
+    buvo mozūrų kilmės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-010
+  santrauka: '1496 m. Aleksandras ir Olbrachtas su savo Tarybų ponais dvi savaites dalyvavo seime Parčeve.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+    Septyni tūkstančiai penktaisiais metais nuo pasaulio
+    sutvėrimo, o nuo Kristaus gimimo tūkstantis keturi šim­
+    tai devyniasdešimt septintųjų metų vasarą Lenkijos ka­
+    ralius Olbrachas sutelkė galybę savo kariuomenės ir
+    su visomis Lenkijos karalystės jėgomis, su paruoštais
+    žirgais ir ginklais išžygiavo prieš Moldavijos vaivadą
+    Steponą l0 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-011
+  santrauka: 'Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    “  Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
+    byla, bet ir politiniai nesutarimai — J . Zaberezinskio ir kitų LDK
+    Ponų Tarybos narių pasisakymas už vadinamųjų M elniko unijų,
+    kuriai Aleksandras ir jo broliai buvo priešingi dėl savo dinastinių
+    interesų. Savo ruožtu M. Glinskis veikė kaip Aleksandro politikos
+    rėmėjas, J . Zaberezinskio ir jo  šalininkų politinis priešininkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-012
+  santrauka: 'Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    4 T  Iš Jono Zaberezinskio buvo atim ta n e  tik Trakų vaivados,
+    bet laikinai ir krašto m aršalo vieta. Be to, jis drauge su Vilniaus
+    vyskupu Vaitiekum i Taboru, etm onu St. Kiška ir Žemaičių seniūnu
+    Stanislovu Jonaičiu Kęsgailą buvo pašalintas iš Ponų Tarybos.
+    Neutralizavus Melniko unijos rėmėjus, LDK Ponų Taryba Brastos
+    seime atm etė Lenkijos atstovų reikalavimų ratifikuoti M elniko uni­
+    jos susitarimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-013
+  santrauka: 'Aleksandro 1492 m. rugpjūčio 6 d. privilegija Lietuvos feodalams išplėtė LDK Ponų tarybos teises.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    87 Aleksandro 1492.VHI.6 privilegija Lietuvos leodalams, pra­
+    plečiam i LDK Ponų Tarybos teises, nustatė, kad didžiojo kunigaikš­
+    čio sutartinai su Ponų Tarybos priim tieji nutarim ai negali būti k ei­
+    čiami be Ponų Tarybos žinios; antra, didysis kunigaikštis negali
+    pykti an t Ponų Tarybos, jeigu ji atmestų jo pasiūlytą svarstyti
+    klausimą ar projektą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/asmenys/Astikas]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jurgis Nosuta]]
+- [[objektai/asmenys/Kiška]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zaberezinskis]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/ponai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
+- [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
 - [[objektai/grupes/Lenkijos ponų taryba]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/perdėtinis]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/urėdas]]
+- [[objektai/asmenys/Stanislovas]]
+- [[objektai/asmenys/Stanislovas Kiška]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]

@@ -54,4 +54,5 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
 - [[objektai/asmenys/Algardas Hohenšteino grafas]]
 - [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]
 - [[objektai/asmenys/Henrikas Duseneris]]
+- [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

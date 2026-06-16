@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Partizanams vystant puolimą miestelyje juos iš cerkvės pasitiko kulkosvaidžio ugnis, vienam iš partizanų taiklia ugnimi pavyko jį nutildyti, bet tą pačią akimirką iš šalia esančios bažnyčios bokšto kulkosvaidžio ugnimi buvo nukauti ir sužeisti keli 232.
+Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas. Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
 
 ## Pavadinimai šaltiniuose
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-183689"></a>
 - t-002
   global_id: t-183689
-  teiginys: 'Partizanams vystant puolimą miestelyje juos iš cerkvės pasitiko kulkosvaidžio ugnis, vienam iš partizanų taiklia ugnimi pavyko jį nutildyti, bet tą pačią akimirką iš šalia esančios bažnyčios bokšto kulkosvaidžio ugnimi buvo nukauti ir sužeisti keli 232.'
+  teiginys: 'Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.'
   pagrindžia:
     - c-002
 
@@ -88,7 +88,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Partizanams vystant puolimą miestelyje juos iš cerkvės pasitiko kulkosvaidžio ugnis, vienam iš partizanų taiklia ugnimi pavyko jį nutildyti, bet tą pačią akimirką iš šalia esančios bažnyčios bokšto kulkosvaidžio ugnimi buvo nukauti ir sužeisti keli 232.'
+  santrauka: 'Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Paaiškėjo, kad Druskininkų ba-

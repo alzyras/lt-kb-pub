@@ -22,14 +22,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Dusburgietis teigia, kad apie Brandenburgo pilies sunaikinimą Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais atvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė, degindamas bei plėšdamas, daug žmonių.
+Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397. Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje. Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.
 
 ## Teiginiai
 
 <a id="claim-t-60119"></a>
 - t-001
   global_id: t-60119
-  teiginys: 'Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
+  teiginys: 'Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
   pagrindžia:
     - c-002
 

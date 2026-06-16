@@ -137,13 +137,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Benjaminas iš Tudelio]]

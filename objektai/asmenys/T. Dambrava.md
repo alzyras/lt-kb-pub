@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dambravos vadovaujama viena reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė generolo E J. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.
+T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne. J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija. Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.
 
 ## Teiginiai
 
 <a id="claim-t-40452"></a>
 - t-001
   global_id: t-40452
-  teiginys: 'T. Dambravos vadovaujama viena reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.'
+  teiginys: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     - t-002
 
 - c-002
+  santrauka: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-

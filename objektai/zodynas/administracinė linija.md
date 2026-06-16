@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administracine linija“, bet ne „siena“, kaip norėjo lietuviai. Giminės iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.). Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė perėjusį liniją lenkų kareivį.
+1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį. Apie 1937 m., kai keliai tarp Lietuvos ir Lenkijos buvo uždaryti, giminės iš abiejų pusių susitikdavo prie administracinės linijos. Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 <a id="claim-t-45778"></a>
 - t-002
   global_id: t-45778
-  teiginys: 'Apie 1937 m. giminės iš abiejų pusių susitikdavo prie administracinės linijos, nes keliai tarp Lietuvos ir Lenkijos buvo uždaryti.'
+  teiginys: 'Apie 1937 m., kai keliai tarp Lietuvos ir Lenkijos buvo uždaryti, giminės iš abiejų pusių susitikdavo prie administracinės linijos.'
   pagrindžia:
     - c-002
 

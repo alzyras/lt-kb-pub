@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Po sugrįžimo į Prūsiją nugalėtojai vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.
+Po poilsio Prūsijoje Vytauto kariuomenė vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,14 +35,14 @@ Nenurodyta
 <a id="claim-t-185841"></a>
 - t-001
   global_id: t-185841
-  teiginys: 'Po sugrįžimo į Prūsiją nugalėtojai vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.'
+  teiginys: 'Po poilsio Prūsijoje Vytauto kariuomenė vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po sugrįžimo į Prūsiją nugalėtojai vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.'
+  santrauka: 'Po poilsio Prūsijoje Vytauto kariuomenė vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Nugalėtojai, išžudę ko­

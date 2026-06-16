@@ -25,34 +25,35 @@ periodo_grupes:
 
 ## Santrauka
 
-Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos arkivyskupas Albertas, nepaisydamas popiežiaus įsakymo, priėmė iš Kristijono priesaiką savo vardu. Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis.
+Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį. Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas. Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius.
 
 ## Teiginiai
 
 <a id="claim-t-78932"></a>
 - t-001
   global_id: t-78932
-  teiginys: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
+  teiginys: 'Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78933"></a>
 - t-002
   global_id: t-78933
-  teiginys: 'Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis.'
+  teiginys: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78934"></a>
 - t-003
   global_id: t-78934
-  teiginys: 'Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje.'
+  teiginys: 'Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Palestinoje,
@@ -69,6 +70,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-003
 
 - c-002
+  santrauka: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyskupui
@@ -84,7 +86,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - t-002
 
 - c-003
-  santrauka: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
+  santrauka: 'Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jersikos karalius
@@ -118,6 +120,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 ### Susiję objektai
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Saulė]]
 - [[objektai/grupes/Sėliai]]
@@ -136,6 +139,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
 - [[objektai/asmenys/Gardolfas]]
+- [[objektai/daiktai/Habdankas]]
 - [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)]]
 - [[objektai/asmenys/Henrikas (Jeruzalės karalius)]]
 - [[objektai/asmenys/Henrikas (Jeruzalės patriarchas)]]
@@ -159,4 +163,5 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - [[objektai/grupes/Vilniaus Akademija]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/asmenys/Volfgeris]]
+- [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]
 - [[objektai/zodynas/tenuta laikytojas]]

@@ -165,3 +165,4 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
 - [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
 - [[objektai/grupes/Vilniaus gyventojai]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/pagonys]]

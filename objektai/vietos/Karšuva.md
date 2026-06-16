@@ -13,21 +13,20 @@ date_start: '1303'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - pilis
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - pilis
+  - vieta
 ---
 # Karšuva
 
 ## Santrauka
 
-Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.
+XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra. 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus. Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.
 
 ## Teiginiai
-
 <a id="claim-t-90529"></a>
 - t-001
   global_id: t-90529
@@ -40,7 +39,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   global_id: t-90530
   teiginys: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-90531"></a>
 - t-003
@@ -49,36 +48,28 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   pagrindžia:
     - c-001
 
-<a id="claim-t-90532"></a>
-- t-004
-  global_id: t-90532
-  teiginys: 'Žemaičiai priešais Jurbarką pasistatė savo pilį Karšuvą.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-90533"></a>
-- t-005
+- t-004
   global_id: t-90533
   teiginys: 'Nesisekė tada lietuviams ir Karšuvos srityje.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-184972"></a>
-- t-006
+- t-005
   global_id: t-184972
   teiginys: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-184973"></a>
-- t-007
+- t-006
   global_id: t-184973
   teiginys: 'Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -94,7 +85,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -108,8 +98,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-
+    - t-004
 - c-003
   santrauka: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -124,22 +113,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pasistatęs Klai-
-    pėdos pilį, Livonijos ordinas vėl ėmė pulti žemaičius. Po ilgų
-    kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259
-    m.), kurios žemaičiai taip pat neįstengė išgriauti. Tada priešais
-    Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   santrauka: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -154,8 +128,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-006
+- c-005
   santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -176,9 +149,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-007
+    - t-005
+- c-006
   santrauka: 'Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -194,4 +166,4 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006

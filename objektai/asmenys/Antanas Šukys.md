@@ -92,6 +92,5 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - [[objektai/daiktai/Panevėžio bataliono vėliava]]
 - [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
 - [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/grupes/brigada]]
 - [[objektai/grupes/ojo pėstininkų pulko I batalionas]]
 - [[objektai/zodynas/viršila]]

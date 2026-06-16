@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -24,9 +24,12 @@ Objektų skaičius: 21.
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
+- [[objektai/daiktai/Dubnia herbas]]
 - [[objektai/daiktai/Gedimino antspaudas]]
 - [[objektai/daiktai/Herbai]]
+- [[objektai/daiktai/Kentauro herbas]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
@@ -36,6 +39,7 @@ Objektų skaičius: 21.
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
+- [[objektai/daiktai/Seligos herbas]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/daiktai/Vėliavos]]

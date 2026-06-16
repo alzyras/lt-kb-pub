@@ -9,11 +9,11 @@ date_start: '1915'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - ivykis
   - karas
-amziai:
-  - 'XX'
 ---
 # Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)
 
@@ -34,17 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01602"></a>
 - t-001
   global_id: t-01602
   teiginys: 'Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
@@ -55,9 +56,11 @@ Nenurodyta
     Mašiotas, A. Janulaitis ir M. Sleževičius. Partijų kovoms nė tuomet
     neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
     rų) nariai iš jo išstojo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

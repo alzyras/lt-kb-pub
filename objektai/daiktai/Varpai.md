@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Nuo Vytauto laikų Lietuvoje buvo liejami varpai.
+Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai. Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu. 1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.
 
 ## Pavadinimai šaltiniuose
 
@@ -67,15 +67,8 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-89441"></a>
-- t-005
-  global_id: t-89441
-  teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-89442"></a>
-- t-006
+- t-005
   global_id: t-89442
   teiginys: 'Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.'
   pagrindžia:
@@ -160,20 +153,6 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nekreipkime dėmesio į tuos šaudymus, dainuokime!“
-    Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
-    visą pasaulį. Laidojant sausio 13-osios aukas, solidarumo su Lietuva
-    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
-    kitose Europos šalyse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Monetos]]
@@ -185,10 +164,8 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė]]
 - [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
 - [[objektai/daiktai/Varpų vainikas]]

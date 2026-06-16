@@ -153,6 +153,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]
 - [[objektai/asmenys/Jonas Gornostajus]]
 - [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
 - [[objektai/grupes/Krymo orda]]

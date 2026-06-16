@@ -14,21 +14,21 @@ tags:
 
 ## Santrauka
 
-Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel- 314 ## Puslapis 331 IV KNYGA menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė.
+Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pilims.
 
 ## Teiginiai
 
 <a id="claim-t-86303"></a>
 - t-001
   global_id: t-86303
-  teiginys: 'Marienhausenas minimas tarp Livonijos pilių.'
+  teiginys: 'Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pilims.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Marienhausenas minimas tarp Livonijos pilių.'
+  santrauka: 'Marienhausenas Balińskio pateiktame vietovių sąraše priskirtas Livonijos pilims.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau

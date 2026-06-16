@@ -58,6 +58,7 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Paulius iš Olivos]]
 - [[objektai/grupes/Pranciškonų ordinas]]

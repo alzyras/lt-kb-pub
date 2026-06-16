@@ -20,20 +20,21 @@ periodo_grupes:
 
 ## Santrauka
 
-preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas Albinas Kubilius-Rūgštymas ir Vytenio būrio partizanas Alfonsas Vildžiūnas-Vijoklis.
+1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.
 
 ## Teiginiai
 
 <a id="claim-t-39996"></a>
 - t-001
   global_id: t-39996
-  teiginys: '1949 m. spalio 24 d. buvo suimtas Algimanto apygardos štabo pareigūnas Albinas Kubilius-Rūgštymas.'
+  teiginys: '1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš kautynes

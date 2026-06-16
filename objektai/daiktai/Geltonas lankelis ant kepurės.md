@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.
+Besikuriančioje Lietuvos kariuomenėje geltonas lankelis ant kepurės buvo įvestas kaip skiriamasis ženklas kartu su tautinių spalvų rankovės antsiuvu. Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-78650"></a>
 - t-001
   global_id: t-78650
-  teiginys: 'Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
+  teiginys: 'Besikuriančioje Lietuvos kariuomenėje geltonas lankelis ant kepurės buvo įvestas kaip skiriamasis ženklas kartu su tautinių spalvų rankovės antsiuvu.'
   pagrindžia:
     - c-001
 
@@ -54,6 +54,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Besikuriančioje Lietuvos kariuomenėje geltonas lankelis ant kepurės buvo įvestas kaip skiriamasis ženklas kartu su tautinių spalvų rankovės antsiuvu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
@@ -112,7 +113,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/daiktai/Karūna]]
@@ -121,6 +121,7 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/paprociai/Lietuvos kariuomenės skiriamųjų ženklų įvedimas ir Vyties tvirtinimas prie sagčių]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

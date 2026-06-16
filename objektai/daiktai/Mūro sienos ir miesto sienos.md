@@ -234,12 +234,10 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/autoriai/Benjaminas iš Tudelio]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]

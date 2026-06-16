@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. įkūrus Algimanto apygardą, jis tapo jos vadu, 1948 m. Rytų Lietuvos srities vadu. “O ~~ Kriaunos“ 2 Aleksandravėlė“ = Salos WO 7 d L \ avis, + (Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo) srities vadas), jo žmona ir dar vienas partizanas. “ ## Puslapis 245 ŠIMONIŲ GIRIOS APGULTIS 1949 X OKUPUOTOJI LIETUVA Mūšio priešistorė Algimanto apygarda įkurta 1947 m. gegužės 1 d. Rytų Lietuvos srities partizanų vadų sprendimu iš Panevėžio ir Rokiškio apskrityse veikusių partizanų junginių, kurie.
+Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu. 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
 
 ## Teiginiai
 
@@ -30,46 +30,18 @@ amziai:
   global_id: t-78161
   teiginys: 'Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-78162"></a>
 - t-002
   global_id: t-78162
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-78163"></a>
-- t-003
-  global_id: t-78163
-  teiginys: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Algimanto apygardą sudarė trys rinktinės:
-    Šarūno, Kunigaikščio Margio ir Žalioji.
-    Apygardos teritorijoje, Šimonių girioje,
-    bazavosi srities vadovybė, būdavo ren-
-    giami srities vadų sąskrydžiai. Apygarda
-    leido laikraštį „Partizanų kova“. Algimanto
-    apygardai vadovavo Antanas Slučka-Ša-
-    rūnas (1947 m. gegužė - 1948 m. spalis) ir
-
-    AGENTAI-SMOGIKAI
-
-    KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -97,7 +69,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -135,12 +107,10 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/asmenys/Vaižgantas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Tumo Vaižganto rinktinė]]

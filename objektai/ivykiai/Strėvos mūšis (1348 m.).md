@@ -14,19 +14,19 @@ variantai:
   - 'Strėvos mūšis'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - ivykis
   - karas
   - kraštas
   - mūšis
-amziai:
-  - 'XIV'
 ---
 # Strėvos mūšis (1348 m.)
 
 ## Santrauka
 
-1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]]. Ordinas vėliau išgarsino šį susidūrimą kaip nepaprastai didelę pergalę, tačiau šaltinis pabrėžia, kad toks laimėjimo vaizdas buvo išpūstas.
+1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas|Algirdas]] su [[Kęstutis|Kęstučiu]]. Ordinas vėliau išgarsino šį susidūrimą kaip nepaprastai didelę pergalę, tačiau šaltinis pabrėžia, kad toks laimėjimo vaizdas buvo išpūstas.
 
 ## Laikotarpis ir datos
 
@@ -36,20 +36,19 @@ amziai:
 
 ## Dalyviai ir vaidmenys
 
-- [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] ir [[Kęstutis]]: lietuvių kariuomenės vadai
+- [[objektai/asmenys/Algirdas|Algirdas]] ir [[Kęstutis]]: lietuvių kariuomenės vadai
 - ordinas: surengė žygį į Lietuvą
 - kryžiuočiai: traukdamiesi susikovė prie Strėvos upės
 
 ## Eiga
 
-Atsilygindamas už ankstesnius puolimus, ordinas surengė didelį žygį į Lietuvą, niokojo kraštą ir pasiekė Žiežmarius. Grįžtančiai kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]].
+Atsilygindamas už ankstesnius puolimus, ordinas surengė didelį žygį į Lietuvą, niokojo kraštą ir pasiekė Žiežmarius. Grįžtančiai kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas|Algirdas]] su [[Kęstutis|Kęstučiu]].
 
 ## Rezultatas
 
 Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės pergalės pasakojimas šaltinyje aiškiai nuvertinamas kaip išpūstas.
 
 ## Teiginiai
-
 <a id="claim-t-10296"></a>
 - t-001
   global_id: t-10296
@@ -78,54 +77,8 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   pagrindžia:
     - c-006
 
-<a id="claim-t-10806"></a>
-- t-005
-  global_id: t-10806
-  teiginys: '1348 m. ordinas surengė didelį žygį į Lietuvą, o grįžtančiai jo kariuomenei prie Strėvos upės kelią pastojo [[objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)|Algirdas]] su [[Kęstutis|Kęstučiu]].'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-10807"></a>
-- t-006
-  global_id: t-10807
-  teiginys: 'Ordino skelbtas Strėvos mūšio laimėjimas buvo išpūstas.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Atsilygindamas už tuos užpuolimus, ordinas 1348
-    m. suruošė didelį žygį į Lietuvą. Veliuonos apylinkėje ordino
-    kariuomenė įsiveržė į Žemaičius ir, 8 dienas naikinusi kraštą,
-    persiskyrė į dvi dalis. Dalis grįžo atgal, o kita dalis, viso 800
-    karių, nuklydo į Aukštaičius ir pasiekė Žiežmarius. Grįžtančiai
-    kariuomenei pastojo kelią Algirdas su Kęstučiu. Mūšis įvyko
-    prie Strėvos upės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kryžiuočiams pavyko pasprukti. Po to
-    ordinas ėmė skelbti, kad jų laimėjimas buvęs nepaprastai didelis,
-    kad lietuvių žuvę net 10.000, o mūšyje dalyvavę 40.000! Laimė-
-    jimui atminti ordinas pastatė net du vienuolynus (Karaliaučiuje
-    ir Vėluvoje). Bet iš tikro laimėjimas buvo tik išpūstas: 40.000
-    kariuomenės anais laikais neturėjo ne tik Lietuva, bet nė viena
-    Europos valstybė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -141,7 +94,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -160,7 +112,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -177,7 +128,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -201,7 +151,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/autoriai/J. Jakštas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
@@ -212,7 +161,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/daiktai/Lankai]]
 - [[objektai/asmenys/Vygandas]]

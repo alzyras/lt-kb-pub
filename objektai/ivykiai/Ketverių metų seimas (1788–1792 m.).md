@@ -11,13 +11,13 @@ date_start: '1788'
 date_end: '1792'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
 tags:
   - ivykis
   - karalius
   - seimas
   - sutartis
-amziai:
-  - 'XVIII'
 ---
 # Ketverių metų seimas (1788–1792 m.)
 
@@ -42,14 +42,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-78619"></a>
-- t-001
-  global_id: t-78619
-  teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-78620"></a>
 - t-002
   global_id: t-78620
@@ -57,29 +49,22 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-78621"></a>
-- t-003
-  global_id: t-78621
-  teiginys: 'Ketverių metų seime pirmuoju paveldimuoju karaliumi numatytas Stanislovo Augusto įpėdinis, Saksonijos elektorius Fridrikas Augustas.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-78622"></a>
-- t-004
-  global_id: t-78622
-  teiginys: 'Ketverių metų seimas (1788–1792 m.): šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-78623"></a>
-- t-005
+- t-003
   global_id: t-78623
   teiginys: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
   pagrindžia:
-    - c-004
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -105,62 +90,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
-  santrauka: 'Ketverių metų seime pirmuoju paveldimuoju karaliumi numatytas Stanislovo Augusto įpėdinis, Saksonijos elektorius Fridrikas Augustas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis paveldėjamasis kara-
-    lius turėjo būti Stanislovo Au-
-    gusto įpėdinis, Saksonijos
-    elektorius Fridrikas Augustas
-    (Augusto III anūkas).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusija iš karto
-    protestavo, bet, neturėdama atlie-
-    kamų jėgų, buvo priversta nuty-
-    lėti. Karalius, bijodamas Rusijos
-    keršto, iš pradžių mėgino sulai-
-    kyti reformatorius ir dėl kiek-
-    vienos naujovės prašė Rusijos
-    sutikimo, bet vėliau ir jis pats
-    perėjo į reformų partijos pusę.
-    Šitaip seimas veikė net ištisus
-    4 metus ir per tą laiką pakeitė
-    visą valstybės santvarką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
-    praplėsti karaliaus valdžią. Bet kai susirinko seimas, tai pasi-
-    rodė, kad jame daugiau šalininkų turėjo Rusijos priešai.
-    Nepaisydamas karaliaus pa-
-    stangų, seimas atmetė pasiūlymą
-    sudaryti karinę sąjungą su Ru-
-    sija ir, Prūsijos palaikomas,
-    ėmėsi reformų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   santrauka: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -172,22 +102,41 @@ Nenurodyta
 
     dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
     praplėsti karaliaus valdžią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
+- c-003
+  santrauka: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
+    praplėsti karaliaus valdžią. Bet kai susirinko seimas, tai pasi-
+    rodė, kad jame daugiau šalininkų turėjo Rusijos priešai.
+    Nepaisydamas karaliaus pa-
+    stangų, seimas atmetė pasiūlymą
+    sudaryti karinę sąjungą su Ru-
+    sija ir, Prūsijos palaikomas,
+    ėmėsi reformų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/asmenys/Kotryna]]
 - [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- [[objektai/zodynas/elektorius]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Augustas]]

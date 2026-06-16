@@ -3,6 +3,7 @@ tipas: ivykis
 pavadinimas: 'Lietuvos krikštas (1387 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1387 m.'
   - '2026 m.'
@@ -23,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa. 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Ši privilegija yra svarbiausias krikščionybės įvedimo Lietuvoje aktas.
+Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti. 1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa. Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė.
 
 ## Laikotarpis ir datos
 
@@ -43,40 +44,40 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-75154"></a>
+<a id="claim-t-186366"></a>
 - t-001
-  global_id: t-75154
-  teiginys: '1387 m. įvyko Lietuvos krikštas.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-75156"></a>
-- t-002
-  global_id: t-75156
-  teiginys: 'Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75160"></a>
-- t-003
-  global_id: t-75160
+  global_id: t-186366
   teiginys: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-75161"></a>
-- t-004
-  global_id: t-75161
-  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-183248"></a>
-- t-005
-  global_id: t-183248
+<a id="claim-t-186367"></a>
+- t-002
+  global_id: t-186367
   teiginys: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
   pagrindžia:
-    - c-004
+    - c-003
+
+<a id="claim-t-186368"></a>
+- t-003
+  global_id: t-186368
+  teiginys: 'Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-186369"></a>
+- t-004
+  global_id: t-186369
+  teiginys: 'Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-186370"></a>
+- t-005
+  global_id: t-186370
+  teiginys: 'Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -96,44 +97,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ryškiausios permainos po krikšto buvo išorinės. Su krikštu Lietuvo-
-    je išplito pagonių visuomenei nežinomos institucijos – bažnyčios. Tai ne
-    tik naujos architektūros paminklai, paveikslų, kitų bažnytinės dailės kūri-
-    nių ir bažnytinių knygų „saugyklos“, bet ir rašto bei švietimo įstaigos. Per
-    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
-    ir laidojimo apeigos. XIV a. pabaigoje labai sumažėjo pagonybei būdingų
-    degintinių palaidojimų. Bažnyčios skleidžiamos vieno Dievo, prigimtinės
-    nuodėmės ir Kristaus atpirkimo idėjos, be abejonės, veikė žmogaus sąmo-
-    nę. Pagonybės išugdytam žmogui nauja turėjo būti ne tik atjautos ir labda-
-    ros, bet ir nuodėmės samprata, ypač tai, kad nusidėti galima ne tik veiks-
-    mais, bet ir mintimis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
 
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Prasideda Lietuvos ir Lenkijos suartėjimas.
-    1387
-    Lietuvos krikštas.
-    1392–1430
-    žymiausio Lietuvos valdovo Vytauto valdymo metai.
+    Daugiau Jogaila Lie­
+    tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos
+    didikai.
+
+    Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
+    vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
+    damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
+    spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
+    naujos visuomeninės tvarkos įvedimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-004
-  santrauka: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vis dėlto tai liko istorinis epi-
@@ -149,10 +133,11 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/daiktai/Kryžius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Lietuvos krikštas]]

@@ -35,7 +35,3 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bolševikai]]

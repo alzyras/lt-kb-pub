@@ -16,41 +16,25 @@ tags:
 Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados". Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").
 
 ## Teiginiai
-
 <a id="claim-t-67280"></a>
 - t-001
   global_id: t-67280
-  teiginys: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
+  teiginys: 'Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-67281"></a>
 - t-002
   global_id: t-67281
-  teiginys: 'Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“.'
+  teiginys: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toji lietuvių brošiūra, nors ir sulaukė lenkų spaudoje gyvo at-
-    garsio, tačiau niekas su ja nesutiko. Griežčiausiai neigiamai at-
-    sakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-
-
-
-    kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
-    laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -61,9 +45,29 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Toji lietuvių brošiūra, nors ir sulaukė lenkų spaudoje gyvo at-
+    garsio, tačiau niekas su ja nesutiko. Griežčiausiai neigiamai at-
+    sakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-
+
+
+    kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
+    laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -72,4 +76,3 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]

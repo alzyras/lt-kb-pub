@@ -13,11 +13,11 @@ variantai:
   - 'bemeilijo žūti ugny, negu pasiduoti vokiečiams'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - kunigaikštis
   - posakis
-amziai:
-  - 'XIV'
 ---
 # Bemeilijo žūti ugny, negu pasiduoti vokiečiams
 
@@ -34,17 +34,18 @@ amziai:
 - bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.)
 
 ## Teiginiai
-
 <a id="claim-t-06869"></a>
 - t-001
   global_id: t-06869
   teiginys: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet giliau į kraštą įsibrauti ordinui vis dėlto nepasisekė,
@@ -53,9 +54,11 @@ amziai:
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

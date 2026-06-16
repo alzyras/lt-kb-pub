@@ -24,61 +24,47 @@ amziai:
 
 ## Santrauka
 
-Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją. Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
+Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos. Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos. Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a.
 
 ## Teiginiai
-
 <a id="claim-t-182751"></a>
 - t-001
   global_id: t-182751
   teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-182752"></a>
-- t-002
-  global_id: t-182752
-  teiginys: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-182753"></a>
 - t-003
   global_id: t-182753
   teiginys: 'Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a.'
   pagrindžia:
     - c-004
-
 <a id="claim-t-182754"></a>
 - t-004
   global_id: t-182754
   teiginys: 'Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   pagrindžia:
     - c-002
-
 <a id="claim-t-182756"></a>
 - t-005
   global_id: t-182756
   teiginys: 'Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-183007"></a>
-- t-006
-  global_id: t-183007
-  teiginys: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-184385"></a>
 - t-007
   global_id: t-184385
   teiginys: 'Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.'
   pagrindžia:
     - c-001
+- t-008
+  teiginys: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -92,7 +78,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-002
   santrauka: 'Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -109,7 +94,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -134,7 +118,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -153,7 +136,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -192,7 +174,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindžia:
     - t-001
     - t-002
-
 - c-006
   santrauka: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -203,8 +184,10 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
     Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
     Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-008

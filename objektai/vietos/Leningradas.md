@@ -21,20 +21,28 @@ amziai:
 
 ## Santrauka
 
-GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
+1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade. 1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.
 
 ## Teiginiai
 
 <a id="claim-t-99931"></a>
 - t-001
   global_id: t-99931
-  teiginys: 'GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.'
+  teiginys: '1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-184391"></a>
+- t-002
+  global_id: t-184391
+  teiginys: '1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     V. An-
@@ -50,7 +58,7 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     - t-001
 
 - c-002
-  santrauka: 'GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.'
+  santrauka: '1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-

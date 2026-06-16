@@ -13,23 +13,22 @@ date_start: '1325'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - miestas
   - pilis
   - vieta
   - vyskupas
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Talinas
 
 ## Santrauka
 
-Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę.
+Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais. 1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine. Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka.
 
 ## Teiginiai
-
 <a id="claim-t-136207"></a>
 - t-001
   global_id: t-136207
@@ -47,7 +46,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 <a id="claim-t-136209"></a>
 - t-003
   global_id: t-136209
-  teiginys: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, kur vyravo jiems sava rusakalbė aplinka.'
+  teiginys: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka.'
   pagrindžia:
     - c-004
 
@@ -66,7 +65,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -91,7 +89,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-002
   santrauka: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -118,7 +115,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -135,9 +131,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
-  santrauka: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, kur vyravo jiems sava rusakalbė aplinka.'
+  santrauka: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
@@ -156,7 +151,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

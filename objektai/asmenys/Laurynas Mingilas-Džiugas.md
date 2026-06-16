@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę.
+Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes. Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 
 ## Teiginiai
 
@@ -21,13 +21,6 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 - t-001
   global_id: t-79101
   teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-79102"></a>
-- t-002
-  global_id: t-79102
-  teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė Užpelkių kautynes, kuriose iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
   pagrindžia:
     - c-001
 

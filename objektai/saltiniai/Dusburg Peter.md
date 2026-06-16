@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-(”) Dusburg Peter, LE, t.
+„Dusburg Peter“ nurodytas Lietuvių enciklopedijos 5 tome, 266-267 puslapiuose. Straipsnis „Dusburg Peter“ paskelbtas Lietuvių enciklopedijos 5 tome, 266–267 puslapiuose.
 
 ## Teiginiai
 
@@ -32,7 +32,7 @@ amziai:
 <a id="claim-t-97250"></a>
 - t-002
   global_id: t-97250
-  teiginys: '(”) Didžiųjų Lietuvos kunigaikščių ekonominė politika savo dvaruose, LP, I, 1, 1940, 6-28 p. — (”) Dusburg Peter, LE, t.'
+  teiginys: 'Straipsnis „Dusburg Peter“ paskelbtas Lietuvių enciklopedijos 5 tome, 266–267 puslapiuose.'
   pagrindžia:
     - c-001
 

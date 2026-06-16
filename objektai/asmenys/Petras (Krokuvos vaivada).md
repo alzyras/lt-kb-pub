@@ -80,6 +80,7 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Boleslovas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]

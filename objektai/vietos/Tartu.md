@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsiimtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo įkurtos ir Polocke, ir Rygoje ir Tartuose (Dorpate).
+Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline. 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje. Po Stepono Batoro karų su Maskva jėzuitų kolegija buvo įkurta ir Tartu (Dorpate).
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 <a id="claim-t-80186"></a>
 - t-002
   global_id: t-80186
-  teiginys: '1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos, įskaitant Tartu ir Narvą.'
+  teiginys: '1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
     - t-001
 
 - c-002
-  santrauka: '1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos, įskaitant Tartu ir Narvą.'
+  santrauka: '1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Suomijos įlanka, „ 5

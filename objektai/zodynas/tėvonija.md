@@ -4,6 +4,7 @@ pavadinimas: 'tėvonija'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,14 +17,14 @@ tags:
 
 ## Santrauka
 
-Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.
+Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale. Voluinėje šalutinės Gediminaičių šakos, tokios kaip Sanguškos, Čartoriskiai ir Vyšnioveckiai, sukūrė tėvonijas. Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.
 
 ## Teiginiai
 
 <a id="claim-t-22335"></a>
 - t-001
   global_id: t-22335
-  teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
+  teiginys: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   pagrindžia:
     - c-001
 
@@ -62,9 +63,17 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - c-007
 
+<a id="claim-t-187530"></a>
+- t-008
+  global_id: t-187530
+  teiginys: 'Kernius ir Gimbutas, siekdami praplėsti savo tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.'
+  pagrindžia:
+    - c-008
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
@@ -99,7 +108,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-002
 
 - c-003
-  santrauka: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
+  santrauka: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
@@ -227,16 +236,43 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - t-007
 
+- c-008
+  santrauka: 'Kernius ir Gimbutas, siekdami praplėsti savo tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    4. APIE PALEMONO VAIKAIČIUS KERNIU IR GIMBUTĄ
+    IR VOKIEČIU ĮSIGALĖJIMĄ LATVIŲ 2EMEJE
+    O paskui 1  didysis kunigaikštis Kernius ir Gimbu­
+    tas, geisdami praplėsti savo tėvonijas, sutelkė savo pa­
+    jėgas iš Lietuvos ir Žemaičių ir leidosi į Rusią, link
+    Breslaujos ir link Polocko, ir padarė daug žalos rusams,
+    jų žemę nuniokojo ir daugybę žmonių išsivarė ne­
+    laisvėn 2 .
+    O tuo laiku, jam bebūnant Rusioje, kita gentis, va­
+    dinama latviais, kurie gyveno jūros pakrantėje ir iš­
+    girdo, kad kunigaikščio Kerniaus nebėra Lietuvoje,
+    o didžiojo kunigaikščio Gimbuto — Žemaičiuose, visi
+    susirinkę patraukė į Žemaičių žemę ir pridarė Žemai­
+    čių žemėje daug žalos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/asmenys/Gimbutas]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- [[objektai/asmenys/Kernius]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Teodoras]]
@@ -267,5 +303,6 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/asmenys/Ivanas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
 - [[objektai/asmenys/Jurijus]]

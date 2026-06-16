@@ -15,27 +15,21 @@ tags:
 
 ## Santrauka
 
-Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas. Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka. Jame žuvo patsai ordino kariuomenės vadas — maršalka, trys komtūrai (pilių bei sričių viršininkai) ir daugybė riterių.
+Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m.
 
 ## Teiginiai
-
-<a id="claim-t-70233"></a>
-- t-001
-  global_id: t-70233
-  teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-70234"></a>
-- t-002
+- t-001
   global_id: t-70234
-  teiginys: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
+  teiginys: 'Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rūdavos mūšio paminklas.
@@ -48,23 +42,11 @@ tags:
     tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tikrosios Lietuvos bylas spręsdavo
-    Vilniuje, o gudiškųjų sričių — Naugarduke ir Minske. XVIII
-    amž. jis ėmė rinktis tik Vilniuje ir Gardine.
-    Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
-    pirmininkas, vadinamas tribunolo maršalka.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -72,9 +54,8 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/tribunolas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Albertas Janavičius]]
 - [[objektai/asmenys/Aleksandras Jurgėvičius]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
 - [[objektai/asmenys/Andrius Kopernikas]]
@@ -107,8 +88,6 @@ tags:
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
-- [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]
-- [[objektai/ivykiai/Seimų vietos įstatymo priėmimas (1673 m.)]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/asmenys/Stanislovas Veenas]]
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
@@ -118,23 +97,18 @@ tags:
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/asmenys/Vaitiekus Janavičius]]
 - [[objektai/asmenys/Vaitiekus Narutavičius]]
-- [[objektai/grupes/Valkininkų konfederacija]]
-- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
-- [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/zodynas/partizaniškas karas]]
 - [[objektai/zodynas/pataurininkas]]
-- [[objektai/zodynas/regimentorius]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/tenuta laikytojas]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
-- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
-- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
+- [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/asmenys/Zaberezinskis]]
 - [[objektai/zodynas/ordinariniai seimai]]

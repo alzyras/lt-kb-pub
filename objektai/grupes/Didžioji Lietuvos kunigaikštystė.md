@@ -16,33 +16,26 @@ tags:
 
 ## Santrauka
 
-„Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę". Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).
+Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio. Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio. Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.
 
 ## Teiginiai
-
-<a id="claim-t-96093"></a>
-- t-001
-  global_id: t-96093
-  teiginys: 'Lietuviams reikalaujant, po unijos akto Lietuvai liko nepaliestas visas valdžios aparatas.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-96094"></a>
-- t-002
+- t-001
   global_id: t-96094
   teiginys: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   pagrindžia:
-    - c-004
+    - c-003
 
-<a id="claim-t-96096"></a>
-- t-004
-  global_id: t-96096
+<a id="claim-t-96095"></a>
+- t-002
+  global_id: t-96095
   teiginys: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
   pagrindžia:
-    - c-005
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -58,30 +51,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
+    - t-002
 - c-002
-  santrauka: 'Lietuviams reikalaujant, po unijos akto Lietuvai liko nepaliestas visas valdžios aparatas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
-    reikalaujant. Lietuviams reikalaujant, Lietuvai buvo paliktas
-
-
-    nepaliestas visas valdžios aparatas (§§ 10 ir 17). Tuo būdu jai
-    liko atskiri savi ministeriai, savi valstybiniai kanclerių saugo-
-    mieji antspaudai, be kurių valdovas negalėjo išleisti jokio Lie-
-    tuvai skiriamo rašto; liko savi provincijų valdomieji organai ir
-    valstybės urėdai, liko savas iždas, sava kariuomenė ir sava
-    teritorija su aiškiai nustatyta siena su Lenkija; liko taip pat
-    savos skirtingos Lietuvos teisės, įstatymai ir teismai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -97,9 +68,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-004
+    - t-002
+- c-003
   santrauka: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -115,9 +85,8 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-005
+    - t-001
+- c-004
   santrauka: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -129,28 +98,13 @@ tags:
     Toliau sakoma, kad taip sujungtos valstybės turėsiančios vieną
     bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
     rūnuojamas Krokuvoje (§ 4).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu pasikeitė tiktai rolės: anksčiau
-    lietuvių išsirinktąjį valdovą rinkdavosi ir lenkai, dabar priešin-
-    gai — lenkų išsirinktąjį valdovą rinkdavosi ir lietuviai.
-    Liublino unijos dėsniai. Unijos akto § 3-me išreikšta
-    visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
-    ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
-    taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
-    valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -160,7 +114,6 @@ tags:
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkų karalystė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]

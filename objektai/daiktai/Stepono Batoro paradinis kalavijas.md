@@ -82,3 +82,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/unija]]
+- [[objektai/daiktai/Kalavijas]]

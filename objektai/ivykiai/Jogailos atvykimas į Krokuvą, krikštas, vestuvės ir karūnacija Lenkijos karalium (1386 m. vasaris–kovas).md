@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lenkų ir vengrų pasiuntiniai, gavę iš Jogailos atstovų raš­ tą, kad Lietuva visiškai sujungiama su Lenkija ir kad visa Lie­ tuva prižada apsikrikštyti, sugrįžo atgal. Vasa­ rio 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikš­ tas.
+1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.
 
 ## Laikotarpis ir datos
 
@@ -44,14 +44,14 @@ Nenurodyta
 <a id="claim-t-35831"></a>
 - t-001
   global_id: t-35831
-  teiginys: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas.'
+  teiginys: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas.'
+  santrauka: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vasa­

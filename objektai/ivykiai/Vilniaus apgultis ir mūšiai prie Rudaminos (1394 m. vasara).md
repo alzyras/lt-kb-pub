@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Ypatingai garsus žygis buvo suruoštas tų pačių metų vasarą^3 ), Į tą žygį, kaip paprastai, atvyko nemaža svečių iš Vakarų Eu­ ropos. Pagaliau, po kelių mūšių, priešams pa­ sisekė prisiartinti prie Vilniaus ir jį apsiausti.
+1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.
 
 ## Laikotarpis ir datos
 
@@ -44,13 +44,14 @@ Nenurodyta
 <a id="claim-t-35895"></a>
 - t-001
   global_id: t-35895
-  teiginys: '1394 m. vasarą į žygį prieš Lietuvą atvyko svečių iš Vakarų Europos, o Burgundijos hercogas Pilypas dalyvavo su 200 šaulių.'
+  teiginys: '1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ypatingai garsus žygis buvo suruoštas tų pačių metų vasarą^3 ),

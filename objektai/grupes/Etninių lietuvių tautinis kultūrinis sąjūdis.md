@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
+Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba. Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus. Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
 
 ## Teiginiai
 
@@ -34,26 +34,19 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   pagrindžia:
     - c-001
 
-<a id="claim-t-65148"></a>
-- t-002
-  global_id: t-65148
-  teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183125"></a>
-- t-003
+- t-002
   global_id: t-183125
   teiginys: 'Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-183126"></a>
-- t-004
+- t-003
   global_id: t-183126
   teiginys: 'Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -86,22 +79,6 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
     - t-001
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
-    mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
-    mu. Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
-    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
-    Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
-    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
-    mus – 1830–1831 m. ir 1863–1864 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -116,9 +93,9 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -143,7 +120,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -152,7 +129,6 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/rusinimas]]
 - [[objektai/autoriai/S. Daukantas]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/grupes/Vilniaus universitetas]]

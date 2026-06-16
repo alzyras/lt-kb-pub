@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad ) bandė pasinaudoti Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą ekonominę Lietuvos blokadą. Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį. Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėliau tapusiu imperatoriumi, 1323 m. popiežiaus kurija pradėjo prieš jį organizuoti koaliciją, į kurią įėjo Austrija, Vengrija ir Vengrijos sąjungininkė Lenkija.
+1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos. Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą. Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.
 
 ## Laikotarpis ir datos
 
@@ -65,7 +65,7 @@ Nenurodyta
 <a id="claim-t-62692"></a>
 - t-003
   global_id: t-62692
-  teiginys: 'Gedimino pareiškimai ir laiškai Europos miestams bei dominikonams ir pranciškonams turėjo platų tarptautinį atgarsį.'
+  teiginys: 'Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.'
   pagrindžia:
     - c-003
 
@@ -107,7 +107,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Gedimino pareiškimai ir laiškai Europos miestams bei dominikonams ir pranciškonams turėjo platų tarptautinį atgarsį.'
+  santrauka: 'Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems

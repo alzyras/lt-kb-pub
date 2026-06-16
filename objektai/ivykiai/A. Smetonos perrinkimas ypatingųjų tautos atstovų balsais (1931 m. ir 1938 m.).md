@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie – prezidentą. Smetona sudarė sau sąlygas vėl būti perrenkamas – ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
+Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu. Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą. 1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais, o apskričių tarybos rinkdavo prezidentą renkančius ypatinguosius tautos atstovus.
 
 ## Laikotarpis ir datos
 
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-20156"></a>
 - t-001
   global_id: t-20156
-  teiginys: 'Smetona sudarė sau sąlygas vėl būti perrenkamas – ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.'
+  teiginys: 'Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.'
   pagrindžia:
     - c-002
 
@@ -79,6 +79,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip renkant ypatinguo­sius tautos atstovus buvo labai sun-
@@ -116,5 +117,6 @@ Nenurodyta
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautos atstovai]]
-- [[objektai/asmenys/A. Hitleris]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/A. Hitleris]]

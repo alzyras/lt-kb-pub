@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį tik lavonais liksite, tai tuščias pastatas, ne pastate "2 2 atsakingos KAD, savanorių ir ATAS pajėgos juk Lietuvos simbolis“. “ Aukščiausiosios Tarybos pirmininkas ir šalies vadovas Vytautas Lansbergis 1991 m. sausio 13 d., saugomas ATAS (Aukščiausiosios Tarybos Apsaligos skyriaus) pareigūnų prieigose Žvėryno tiltas užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais. Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS.
+1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai. Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.
 
 ## Teiginiai
 
@@ -33,13 +33,14 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 <a id="claim-t-40833"></a>
 - t-002
   global_id: t-40833
-  teiginys: 'Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose buvo ginkluotas TT pistoletu.'
+  teiginys: 'Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai dezinformacija! Imti

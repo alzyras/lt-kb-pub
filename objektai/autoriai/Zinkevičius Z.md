@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.
+Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.
 
 ## Teiginiai
 
 <a id="claim-t-60829"></a>
 - t-001
   global_id: t-60829
-  teiginys: 'Dusburgietis teigia, kad zinkevičius Z., Lietuvių kalbos kilmė, p. 252.'
+  teiginys: 'Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Z. Zinkevičiaus darbas nurodytas aiškinant Naugarduko žemės vadinimą Krivičių žeme.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis

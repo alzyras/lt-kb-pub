@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio valdymo įvedimo Lietuvoje planą.
+Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.
 
 ## Teiginiai
 
 <a id="claim-t-41101"></a>
 - t-001
   global_id: t-41101
-  teiginys: 'Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio valdymo įvedimo Lietuvoje planą.'
+  teiginys: 'Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos komunistų partija TSKP platformos pagrindu įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą

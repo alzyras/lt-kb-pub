@@ -61,6 +61,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/magistras]]

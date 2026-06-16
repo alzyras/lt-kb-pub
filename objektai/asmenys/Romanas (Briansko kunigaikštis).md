@@ -46,7 +46,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/grupes/Totoriai]]
@@ -56,7 +55,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/grupes/Arabai]]
 - [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/asmenys/Jagurčinas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]

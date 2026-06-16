@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.
 
 ## Teiginiai
 
 <a id="claim-t-36808"></a>
 - t-001
   global_id: t-36808
-  teiginys: 'Į suvažiavimą Vytautas atvyko su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.'
+  teiginys: 'Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­

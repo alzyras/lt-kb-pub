@@ -9,17 +9,17 @@ date_start: '1918'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - ivykis
   - valstybė
-amziai:
-  - 'XX'
 ---
 # Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)
 
 ## Santrauka
 
-Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.). Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.
+1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,24 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01730"></a>
 - t-001
   global_id: t-01730
   teiginys: '1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-01731"></a>
-- t-002
-  global_id: t-01731
-  teiginys: 'Okupacinė valdžia neleido viešai paskelbti 1918 m. vasario 16 d. Lietuvos nepriklausomybės paskelbimo.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kairioji dalis atsisakė dėtis
@@ -62,27 +56,13 @@ Nenurodyta
     vos nepriklausomybę. Taryba ryžosi atgaivinti savo vienybę nau-
     ju, visai savarankišku pareiškimu, kurs patapo
     Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taryba ryžosi atgaivinti savo vienybę nau-
-    ju, visai savarankišku pareiškimu, kurs patapo
-    Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
-    Šito paskelbimo okupacinė valdžia neleido iškelti į vie-
-    šumą. Berlyno vyriausybė atsisakė pripažinti pagal tą paskelbi-
-    mą Lietuvos valstybę ir reikalavo grįžti prie gruodžio 11 d. for-
-    mulės, kuri numatė artimus santykius su Vokietija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

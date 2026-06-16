@@ -56,4 +56,5 @@ Bogdanas Maskevičius su kitais sužeistais pulkų vadais prasiskynė kelią per
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

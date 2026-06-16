@@ -54,5 +54,4 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vykintas]]
 - [[objektai/grupes/Žemaičiai]]

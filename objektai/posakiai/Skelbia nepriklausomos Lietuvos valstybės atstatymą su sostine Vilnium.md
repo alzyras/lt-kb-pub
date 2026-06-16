@@ -26,18 +26,18 @@ tags:
 - Pagrindinė forma: skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium
 
 ## Teiginiai
-
 <a id="claim-t-67284"></a>
 - t-001
   global_id: t-67284
   teiginys: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   pagrindžia:
     - c-001
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     su pažadais sudaryti militarinę ir ekonominę sąjungą su Vo-
@@ -51,26 +51,11 @@ tags:
     somos Lietuvos valstybės atstatymą su sostine Vilnium ir jos atpa-
     laidavimą nuo visų valstybinių ryšių, kurie kada nors yra buvę su
     kitomis valstybėmis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    II. Tai valstybei tvarkyti ir jos reikalams ginti taikos derybose
-    Lietuvos Taryba prašo Vokiečių valstybę apsaugos ir pagalbos. Atsi-
-    žvelgdama į gyvus Lietuvos interesus, kurie reikalauja nieko netru-
-    kus sueiti į artimus ir patvarius santykius su Vokiečių valstybe,
-    Lietuvos Taryba pasisako už nuolatinį (amžiną) tvirtą sąjungos ryšį
-    su Vokietijos valstybe; ta sąjunga turėtų būti įvykdyta ypač milita-
-    rinės bei susisiekimo konvencijos ir muitų bei pinigų sistemos ben-
-    drumo pamatais".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -78,4 +63,3 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/grupes/Vokiečiai]]

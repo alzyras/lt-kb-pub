@@ -21,21 +21,21 @@ amziai:
 
 ## Santrauka
 
-Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis. Norėdamas užklupti priešą nepasiruošusį, jis prie Salacgryvos (Salismiinde) žygiavo tiesiai per miškus. Suformuota flotilė patraukė Salacgryvos uosto link, kurio prieigose etmono įsakymu slapta buvo parengti du branderiai - padegamieji laivai, kurie medinių laivų amžiuje buvo labai efektyvi priemonė naikinant priešo laivus, ypač stovinčius uoste.
+Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos. Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus. Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
 
 ## Teiginiai
 
 <a id="claim-t-42112"></a>
 - t-001
   global_id: t-42112
-  teiginys: 'Uždegti branderiai buvo signalas sausumoje, uosto šturmo pajėgose buvusiems lietuviams pradėti Salacgryvos uosto puolimą iš sausumos.'
+  teiginys: 'Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-42113"></a>
 - t-002
   global_id: t-42113
-  teiginys: 'Salacgryvos uosto prieigose etmono įsakymu slapta buvo parengti du branderiai.'
+  teiginys: 'Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus.'
   pagrindžia:
     - c-003
 
@@ -49,6 +49,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Uždegti branderiai buvo signalas sausu-
@@ -85,6 +86,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-003
 
 - c-003
+  santrauka: 'Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš šių laivų didysis
@@ -129,7 +131,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - t-004
 
 - c-005
-  santrauka: 'Uždegti branderiai buvo signalas sausumoje, uosto šturmo pajėgose buvusiems lietuviams pradėti Salacgryvos uosto puolimą iš sausumos.'
+  santrauka: 'Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nuo padegtų branderių užsidegė

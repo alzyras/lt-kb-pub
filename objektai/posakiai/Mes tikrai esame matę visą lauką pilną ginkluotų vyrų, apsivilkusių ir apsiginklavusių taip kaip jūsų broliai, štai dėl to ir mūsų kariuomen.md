@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, paklausė, kur kiti. Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.
+Pagudėnas, pamatęs nedidelį brolių karių būrį, paklausė, kur yra kiti kariai. Pagudėnai pasakojo matę lauką, pilną ginkluotų vyrų, todėl jų kariuomenė leidosi bėgti. Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų.
 
 ## Teiginiai
 
@@ -28,7 +28,7 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 <a id="claim-t-103452"></a>
 - t-002
   global_id: t-103452
-  teiginys: 'Kiti pagudėnai tą patį pasakojimą viešai kartojo vėliau priėmę Kristaus tikėjimą.'
+  teiginys: 'Pagudėnai pasakojo matę lauką, pilną ginkluotų vyrų, todėl jų kariuomenė leidosi bėgti.'
   pagrindžia:
     - c-002
 

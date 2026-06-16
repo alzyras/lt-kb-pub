@@ -75,7 +75,6 @@ amziai:
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Baranauskas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]

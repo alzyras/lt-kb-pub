@@ -12,19 +12,18 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
 amziai:
   - 'XIV'
   - 'XXI'
+tags: []
 ---
 # bažnytinė provincija
 
 ## Santrauka
 
-Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas. Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.
+Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą. Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją. Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.
 
 ## Teiginiai
-
 <a id="claim-t-70098"></a>
 - t-001
   global_id: t-70098
@@ -53,22 +52,16 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   pagrindžia:
     - c-002
 
-<a id="claim-t-182936"></a>
-- t-005
-  global_id: t-182936
-  teiginys: 'Lietuvos bažnytinės provincijos klausimas buvo visiškai nesutvarkytas.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-182937"></a>
-- t-006
+- t-005
   global_id: t-182937
   teiginys: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
   pagrindžia:
-    - c-005
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -86,7 +79,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -103,7 +95,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   pagrindžia:
     - t-004
     - t-001
-
 - c-003
   santrauka: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -122,26 +113,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
-  santrauka: 'Lietuvos bažnytinės provincijos klausimas buvo visiškai nesutvarkytas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    10).
-
-    Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės
-    provincijos klausimas. Senosios Lietuvos valstybės laikais, nuo
-    pat krikšto, visa etnografinė Lietuva priklausė Lenkijos Gniezno
-    arkivyskupijai, o rusų valdymo laikais ji buvo įterpta į naujai
-    sudarytą Mogilevo arkivyskupiją, kurios arkivyskupas buvo
-    perkeltas į Petrapilį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   santrauka: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -153,11 +125,13 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
     konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
     nepabaigtame ginče su Lenkija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -165,7 +139,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 
 ### Susiję objektai
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/savarankiškumas]]

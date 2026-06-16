@@ -14,83 +14,29 @@ tags:
 
 ## Santrauka
 
-Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalikams pačios pavojingosios buvo protestantų mokyklos. Tik 1660 m. Lietuvos protestantų rūpesčiu Anglijoje buvo išspausdinta didelė dalis lietuviškai išverstos Biblijos.
+Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis. Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai.
 
 ## Teiginiai
-
-<a id="claim-t-01458"></a>
-- t-001
-  global_id: t-01458
-  teiginys: 'Beveik visos didžiųjų ponų šeimos buvo tapusios protestantais.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-01459"></a>
-- t-002
+- t-001
   global_id: t-01459
   teiginys: 'Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis.'
   pagrindžia:
-    - c-001
-
-<a id="claim-t-01460"></a>
-- t-003
-  global_id: t-01460
-  teiginys: 'Tik 1660 m. Lietuvos protestantų rūpesčiu Anglijoje buvo išspausdinta didelė dalis lietuviškai išverstos Biblijos.'
-  pagrindžia:
-    - c-003
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182919"></a>
-- t-004
+- t-002
   global_id: t-182919
-  teiginys: 'Katalikams pavojingiausios buvo protestantų didikų, o kai kur ir miestiečių steigiamos mokyklos.'
+  teiginys: 'Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai.'
   pagrindžia:
-    - c-004
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Katalikams pačios pavojingosios buvo protestantų
-    mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
-    ir miestiečių. Bet jau XVII amžiuje jos ėmė nykti, didesnio
-    vaidmens nesuvaidinusios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Beveik visos didžiųjų ponų šeimos buvo išvir-
-    tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų
-    pastangomis katalikybė ėmė atsigauti, ir daugelis didžiųjų
-    ponų šeimų sugrįžo atgal į katalikybę (žiūr. 253, 290 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl vėlesniai-
-    siais laikais lietuviškų protestantiškųjų knygų spausdinimas ėjo
-    labai lėtai; dažniausiai būdavo išleidžiamos tik naujos minėtų
-    knygų laidos. Tik 1660 m. Lietuvos protestantų rūpesčiu Angli-
-    joje buvo išspausdinta didelė dalis lietuviškai išverstos Bibli-
-    jos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Katalikams pavojingiausios buvo protestantų didikų, o kai kur ir miestiečių steigiamos mokyklos.'
+  santrauka: 'Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visur
@@ -100,11 +46,28 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     Katalikams pačios pavojingosios buvo protestantų
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
+- c-002
+  santrauka: 'Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Katalikams pačios pavojingosios buvo protestantų
+    mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
+    ir miestiečių. Bet jau XVII amžiuje jos ėmė nykti, didesnio
+    vaidmens nesuvaidinusios.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -115,14 +78,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - [[objektai/grupes/Kalvinai]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
-- [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
-- [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuterionys]]
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]
-- [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]
 - [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
-- [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
 - [[objektai/asmenys/Tšecieskis]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
@@ -130,11 +89,9 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
-- [[objektai/asmenys/Zigmantas Vaza]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]
 - [[objektai/zodynas/karakolė]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
-- [[objektai/grupes/Nesvyžiaus Radvilos]]
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

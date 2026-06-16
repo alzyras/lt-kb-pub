@@ -11,21 +11,20 @@ date_start: '1600'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - karas
-  - vieta
 amziai:
   - 'XVI'
   - 'XXI'
+tags:
+  - karas
+  - vieta
 ---
 # Daugavgryva
 
 ## Santrauka
 
-Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryvą (Dünamünde).
+1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą. 1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada. 1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė.
 
 ## Teiginiai
-
 <a id="claim-t-49646"></a>
 - t-001
   global_id: t-49646
@@ -36,7 +35,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
 <a id="claim-t-49647"></a>
 - t-002
   global_id: t-49647
-  teiginys: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę galutinai pavyko panaikinti Rygos blokadą.'
+  teiginys: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada.'
   pagrindžia:
     - c-002
 
@@ -48,7 +47,6 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -75,9 +73,8 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   pagrindžia:
     - t-003
     - t-001
-
 - c-002
-  santrauka: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę galutinai pavyko panaikinti Rygos blokadą.'
+  santrauka: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Galutinai blokadą pavyko panai-

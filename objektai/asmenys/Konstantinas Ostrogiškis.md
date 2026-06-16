@@ -12,14 +12,14 @@ date_start: '1514'
 date_end: '1530'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - ginklas
-  - pilis
 amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - ginklas
+  - pilis
 ---
 # Konstantinas Ostrogiškis
 
@@ -28,7 +28,6 @@ periodo_grupes:
 Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje. Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino Ostrogiškio, 1514 m. rugsėjo 8 d. sutriuškina Maskvos kariuomenę prie Oršos L I E T U V O S I S T O R I J A 78 Vilniaus universitetas Sakoma: aidint patrankoms, mūzos tyli.
 
 ## Teiginiai
-
 <a id="claim-t-181590"></a>
 - t-001
   global_id: t-181590
@@ -72,7 +71,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
     - c-006
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -87,7 +85,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -105,7 +102,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -133,7 +129,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -156,7 +151,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: 'Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -174,7 +168,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -197,7 +190,6 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

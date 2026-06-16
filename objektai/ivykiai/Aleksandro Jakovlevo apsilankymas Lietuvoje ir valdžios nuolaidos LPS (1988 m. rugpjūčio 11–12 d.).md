@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.
+Po Aleksandro Jakovlevo pastabų LKP vadovybei partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse. Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pripažino trispalvę ir „Tautišką giesmę“.
 
 ## Laikotarpis ir datos
 
@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-75092"></a>
 - t-002
   global_id: t-75092
-  teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pripažino trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-001
 
@@ -70,6 +70,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
 - [[objektai/asmenys/Aleksandras Jakovlevas]]
 - [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

@@ -55,7 +55,6 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Žilius]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų žemes, atsirado vis daugiau žinių, kurios kartojamos įvai­ riuose rusų metraščiuose, ypač Laurentijaus ir Ipatijaus sąvaduose.
+Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.
 
 ## Teiginiai
 
 <a id="claim-t-31784"></a>
 - t-001
   global_id: t-31784
-  teiginys: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose kartota vis daugiau žinių apie lietuvių puolimus į rusų žemes.'
+  teiginys: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose kartota vis daugiau žinių apie lietuvių puolimus į rusų žemes.'
+  santrauka: 'Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar ne per arti vienas prie kito

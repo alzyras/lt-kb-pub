@@ -51,7 +51,6 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jaroslavas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/žygis]]

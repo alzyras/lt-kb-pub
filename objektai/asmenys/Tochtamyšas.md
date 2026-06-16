@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo atsisakyti nuo Rusijos ir Vytautui dar suteikti pagalbos. Pas Vytautą buvo atbėgęs baisaus Tamerlano išvytas iš savo valstybės totorių chanas Tochtamyšas.
+Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą. Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą. Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.
 
 ## Teiginiai
 
@@ -50,7 +50,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 <a id="claim-t-184842"></a>
 - t-004
   global_id: t-184842
-  teiginys: 'Vytautas priėmė Tochtamyšą Vilniuje, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
+  teiginys: 'Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.'
   pagrindžia:
     - c-003
 
@@ -101,7 +101,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - t-003
 
 - c-003
-  santrauka: 'Vytautas priėmė Tochtamyšą Vilniuje, pažadėjo jam paramą ir paskelbė Užvolgio skitų chanu.'
+  santrauka: 'Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, ne vieną
@@ -148,7 +148,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'seimas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
+Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Karalius Aleksandras dalyvavo Brastos seime, kuriame nepagrįstai pyko ant didikų dėl Lydos atidavimo Droždžai. Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras paskyrė Lenkijos ponams seimą Radome.
 
 ## Teiginiai
 
@@ -20,6 +21,20 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
   teiginys: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187527"></a>
+- t-002
+  global_id: t-187527
+  teiginys: 'Karalius Aleksandras dalyvavo Brastos seime, kuriame nepagrįstai pyko ant didikų dėl Lydos atidavimo Droždžai.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-187528"></a>
+- t-003
+  global_id: t-187528
+  teiginys: 'Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras paskyrė Lenkijos ponams seimą Radome.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -46,8 +61,45 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Karalius Aleksandras dalyvavo Brastos seime, kuriame nepagrįstai pyko ant didikų dėl Lydos atidavimo Droždžai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O po kunigaikščio Michailo mirties Lucką
+    davė raštininkui ponui Teodorui Januševičiui3 6 .
+    Tais pat metais karalius Aleksandras dalyvavo Bras­
+    tos seime3 7 , nepagrįstai pykdamas ant didikų, ir štai
+    dėl ko. Kunigaikščio Glinskio priprašytas, jis davė
+    Droždžai Lydą3 8 , priklausiusią Iljiničiui3 9 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras paskyrė Lenkijos ponams seimą Radome.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir Maskvos
+    Didžioji Kunigaikštystė sunkiai pralaimėjo ir neapsa­
+    komai daug neteko; labai maža maskvėnų pargrįžo,
+    nesuskaičiuojama jų daugybė žuvo.
+    Paskui6 1  karalius Aleksandras paskyrė Lenkijos po­
+    nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
+    jono dieną 6 5 . Ten dalyvavo ir Lietuvos didikai 6 6 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]
@@ -56,7 +108,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/1905 m. revoliucija Lietuvoje]]
-- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje|1917 m. lietuvių seimas Petrapilyje (seimas, XX a.)]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
@@ -66,12 +117,12 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/daiktai/Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]
+- [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]
+- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Aloyzas Sakalas]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/grupes/Amerikos Lietuvių Darbininkų Susivienijimas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
 - [[objektai/daiktai/Antspaudai]]
@@ -84,7 +135,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/ivykiai/Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.)]]
-- [[objektai/grupes/Baro konfederacija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
@@ -95,6 +145,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Boleslovas Švitrigaila]]
 - [[objektai/autoriai/Brandišauskas V]]
+- [[objektai/ivykiai/Brastos seimas 1505 m.|Brastos seimas 1505 m. (seimas, XVI a.)]]
 - [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]
 - [[objektai/asmenys/Bronislovas Kuzmickas]]
 - [[objektai/grupes/Dalomoji Komisija]]
@@ -103,10 +154,8 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/Didysis Vilniaus Seimas]]
 - [[objektai/paprociai/Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas|Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas (seimas)]]
 - [[objektai/asmenys/Džordžas Robertsonas]]
-- [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/asmenys/Fransua Miteranas]]
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/grupes/Gardino seimas]]
@@ -152,20 +201,14 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/grupes/Kalvinai]]
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
-- [[objektai/grupes/Karo ir iždo komisijos]]
-- [[objektai/ivykiai/Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)]]
 - [[objektai/asmenys/Karolis Stanislovas Radvila]]
-- [[objektai/grupes/Karūnacinis seimas|Karūnacinis seimas (seimas)]]
 - [[objektai/asmenys/Kazimieras Motieka]]
 - [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/ivykiai/Keturių LKP vadovų sušaudymas po 1926 m. perversmo]]
 - [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- [[objektai/ivykiai/Klaipėdos sukilimas]]
-- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/grupes/Konfederaciniai seimai]]
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]
 - [[objektai/asmenys/Konstantinas Karijotaitis]]
@@ -174,10 +217,11 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
+- [[objektai/grupes/LDK žemių seimas|LDK žemių seimas (seimas, XV a.)]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
 - [[objektai/asmenys/Laurynas Gucevičius]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkijos bajorų partija]]
 - [[objektai/grupes/Lenkijos karalystės luomai]]
 - [[objektai/grupes/Lenčicos seimas|Lenčicos seimas (seimas)]]
 - [[objektai/asmenys/Leonas Sapiega]]
@@ -196,10 +240,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/grupes/Lietuvos darbo liaudies sąjunga]]
 - [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]
-- [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/daiktai/Lietuvos herbas Vytis]]
-- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
@@ -213,20 +254,15 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/daiktai/Lietuvos valstybės vėliava]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]
 - [[objektai/grupes/Liublino seimas]]
-- [[objektai/ivykiai/Liublino seimo sprendimas dėl seimų vietos|Liublino seimo sprendimas dėl seimų vietos (seimas)]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje|Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)]]
 - [[objektai/ivykiai/Liubomirskio seimo išardymas (1639 m.)]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
-- [[objektai/grupes/Livonijos valstybė]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/asmenys/Mathias Ziindt]]
 - [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
@@ -242,13 +278,12 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų|Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų (seimas)]]
 - [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]
 - [[objektai/ivykiai/Nebylus seimas (1717 m.)]]
-- [[objektai/asmenys/Nikolajus I]]
 - [[objektai/grupes/Nuolatinė Taryba]]
-- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.)]]
 - [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]
+- [[objektai/ivykiai/Parčevo seimas|Parčevo seimas (seimas, XV a.)]]
 - [[objektai/ivykiai/Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)]]
 - [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]
@@ -257,26 +292,22 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)]]
 - [[objektai/zodynas/Planinė ekonomika]]
 - [[objektai/ivykiai/Polocko praradimas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Povilas Plechavičius]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
-- [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
 - [[objektai/grupes/Provincijų sesijos]]
 - [[objektai/asmenys/Ratajus Širiajevas]]
 - [[objektai/daiktai/Raudonos vėliavos]]
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/asmenys/Rumbaudas]]
-- [[objektai/grupes/Sapiegos]]
 - [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
 - [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]
 - [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]
 - [[objektai/paprociai/Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
-- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
-- [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]
-- [[objektai/ivykiai/Seimų vietos įstatymo priėmimas (1673 m.)]]
 - [[objektai/grupes/Seradzo lenkų seimas|Seradzo lenkų seimas (seimas)]]
 - [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
@@ -287,15 +318,12 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
-- [[objektai/ivykiai/Steigiamojo Seimo reikalavimas įjungti Klaipėdos teritoriją į Lietuvą (1921 m. lapkričio 11 d.)]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
-- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka]]
-- [[objektai/ivykiai/Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)]]
+- [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą]]
 - [[objektai/paprociai/Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą|Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)]]
 - [[objektai/ivykiai/T. Kosciuškos sukilimas]]
 - [[objektai/autoriai/T. Wierzbowski]]
 - [[objektai/autoriai/Tadas Korsakas]]
-- [[objektai/asmenys/Tadas Kosciuška]]
 - [[objektai/autoriai/Tamošaitis M]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
@@ -311,9 +339,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/paprociai/Valdų išpirkimas nuo antpuolių dovanomis per žygūnus]]
 - [[objektai/zodynas/Valstybinis žemės fondas]]
 - [[objektai/grupes/Valstybės Taryba]]
-- [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]
-- [[objektai/grupes/Varšuvos seimas|Varšuvos seimas (seimas)]]
 - [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
 - [[objektai/grupes/Vilniaus gyventojai]]
 - [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]
@@ -346,7 +372,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/zodynas/autoritatyvinis režimas]]
 - [[objektai/zodynas/bajoriškosios lengvatos]]
 - [[objektai/zodynas/civilinė metrikacija]]
-- [[objektai/ivykiai/coaequatio iurium įstatymo priėmimas (1697 m.)]]
 - [[objektai/zodynas/delegacinis seimas|delegacinis seimas (seimas)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]
@@ -358,8 +383,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/zodynas/infamija banicija]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/posakiai/kardinalinės teisės]]
-- [[objektai/zodynas/kariuomenės konfederacija]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/konvokaciniai seimai]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
@@ -379,7 +402,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/zodynas/savanoriškumo kamufliažas]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/statuto dėsniai]]
 - [[objektai/zodynas/suverenitetas suverenumas]]
 - [[objektai/zodynas/suverenumas suverenitetas]]
@@ -392,15 +414,13 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]
 - [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/asmenys/Šarlis Monteskjė]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
 - [[objektai/asmenys/Šich Achmetas]]
 - [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]
 - [[objektai/ivykiai/Šich Achmeto priėmimas Breste ir jo bylos perkėlimas į Radomą]]
 - [[objektai/zodynas/šturmovcai]]
+- [[objektai/posakiai/šuns kfauju]]
 - [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]
 - [[objektai/asmenys/Živinbudas]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/asmenys/Žygimantas Senasis]]
@@ -417,7 +437,9 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/posakiai/„seimokratija“]]
 - [[objektai/posakiai/„seimų laikus“]]
 - [[objektai/posakiai/„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
+- [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]
 - [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/ivykiai/Badas Lietuvoje ir seimo perkėlimas į Brestą|Badas Lietuvoje ir seimo perkėlimas į Brestą (seimas)]]
@@ -425,8 +447,11 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija|Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija (unija, XVI a.)]]
 - [[objektai/grupes/Bresto seimas|Bresto seimas (seimas)]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi]]
+- [[objektai/ivykiai/Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą|Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
 - [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
 - [[objektai/paprociai/Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams]]
@@ -436,6 +461,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą.
 - [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/ivykiai/Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate|Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas)]]
+- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Teodoras Vodka]]
 - [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]

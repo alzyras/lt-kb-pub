@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Radvilišky ir Šiauliuose mūsų kariuomenė rado visko prigrūstus sandėlius. Sutraukta Lietuvos kariuomenė puolė Radviliškį ir Šiaulius.
+1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi. 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio. 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-66848"></a>
 - t-001
   global_id: t-66848
-  teiginys: '1919 m. lapkričio 20 d. pulkininkas leitenantas K. Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
+  teiginys: '1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1919 m. lapkričio 20 d. pulkininkas leitenantas K. Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
+  santrauka: '1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -113,4 +113,5 @@ Nenurodyta
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/K. Škirpa]]
 - [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/asmenys/Kazys Ladyga]]
 - [[objektai/grupes/Panevėžio batalionas]]

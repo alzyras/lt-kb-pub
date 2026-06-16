@@ -69,4 +69,5 @@ Nenurodyta
 - [[temos/drabužis]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Martynas iš Golino]]

@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų teises Lietuvos Statute (1529).
+1529 m. Lietuvos Statute buvo nuostatų apie bites ir bitininkų teises.
 
 ## Teiginiai
 
 <a id="claim-t-31805"></a>
 - t-001
   global_id: t-31805
-  teiginys: 'Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų teises Lietuvos Statute (1529).'
+  teiginys: '1529 m. Lietuvos Statute buvo nuostatų apie bites ir bitininkų teises.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1529 m. Lietuvos Statute buvo nuostatų apie bites ir bitininkų teises.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir

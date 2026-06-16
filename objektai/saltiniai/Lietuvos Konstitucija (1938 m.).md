@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė. Merkys teisėtai tapo prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituciją neturėjo teisės skirti naujo vyriausybės vadovo.
+Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją. 1990 m. priimtu įstatymu buvo atstatytas 1938 m. gegužės 12 d. Lietuvos Konstitucijos galiojimas, bet po pusvalandžio jis sustabdytas. 1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
 <a id="claim-t-45703"></a>
 - t-002
   global_id: t-45703
-  teiginys: 'Atkuriant valstybę siekta nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti 1938 m. Konstituciją.'
+  teiginys: '1990 m. priimtu įstatymu buvo atstatytas 1938 m. gegužės 12 d. Lietuvos Konstitucijos galiojimas, bet po pusvalandžio jis sustabdytas.'
   pagrindžia:
     - c-003
 
@@ -85,7 +85,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     - t-001
 
 - c-003
-  santrauka: 'Atkuriant valstybę siekta nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti 1938 m. Konstituciją.'
+  santrauka: '1990 m. priimtu įstatymu buvo atstatytas 1938 m. gegužės 12 d. Lietuvos Konstitucijos galiojimas, bet po pusvalandžio jis sustabdytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikė-

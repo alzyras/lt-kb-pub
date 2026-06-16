@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lieĮvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 15 tuvių kalba. Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai. Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
+Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi reikšmingiausiais to meto raštijos paminklais. Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas. Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas.
 
 ## Teiginiai
 
@@ -44,7 +44,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
 <a id="claim-t-101552"></a>
 - t-003
   global_id: t-101552
-  teiginys: 'Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega.'
+  teiginys: 'Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas.'
   pagrindžia:
     - c-002
 
@@ -55,61 +55,47 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   pagrindžia:
     - c-004
 
-<a id="claim-t-101554"></a>
-- t-005
-  global_id: t-101554
-  teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-101555"></a>
-- t-006
+- t-005
   global_id: t-101555
   teiginys: 'Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-101556"></a>
-- t-007
+- t-006
   global_id: t-101556
-  teiginys: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
+  teiginys: 'Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-101557"></a>
-- t-008
+- t-007
   global_id: t-101557
   teiginys: 'Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-101558"></a>
-- t-009
+- t-008
   global_id: t-101558
-  teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  teiginys: '1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-101559"></a>
-- t-010
+- t-009
   global_id: t-101559
   teiginys: 'Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-101560"></a>
-- t-011
+- t-010
   global_id: t-101560
   teiginys: '1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-183374"></a>
-- t-012
-  global_id: t-183374
-  teiginys: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
-  pagrindžia:
-    - c-011
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -159,7 +145,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -178,22 +164,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - t-004
 
 - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po dešimt
-    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
-    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
-    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
-    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
-    Vakarų kraštu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
   santrauka: '1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -206,9 +176,10 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-007
+- c-006
+  santrauka: 'Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI–XVIII a. LDK ba-
@@ -223,9 +194,9 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-008
+- c-007
   santrauka: 'Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -250,9 +221,9 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
+- c-008
   santrauka: 'Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -267,9 +238,10 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-010
+- c-009
+  santrauka: '1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Konstitucijos preambulėje glaustai įtvirtinti pagrindiniai principai – atvi-
@@ -288,19 +260,4 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-
-- c-011
-  santrauka: 'Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Vieninte-
-    lis privilegijuotas visuomenės luomas – bajorai, turėję politines teises ir
-    siuntę savo atstovus į Seimą. Kadangi šie atstovai rinkdavo net valdovą,
-    gali susidaryti įspūdis, jog ir santvarka – jau nebe monarchija, o respu-
-    blika (juo labiau kad oficialiai valstybė taip ir vadinosi).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
+    - t-008

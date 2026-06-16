@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lietuvoje susiformavo originali luominės monarchinės santvarkos atmaina – Bajorų respublika arba net anarchija. Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
+Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija. Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę. Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 <a id="claim-t-183400"></a>
 - t-003
   global_id: t-183400
-  teiginys: 'Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lietuvoje susiformavo originali luominės monarchinės santvarkos atmaina – Bajorų respublika arba net anarchija.'
+  teiginys: 'Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.'
   pagrindžia:
     - c-002
 
@@ -93,8 +93,6 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

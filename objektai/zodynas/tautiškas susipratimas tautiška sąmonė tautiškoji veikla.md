@@ -18,45 +18,42 @@ tags:
 Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas kultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir subūrusio jėgas. Jis tada jau reiškėsi ne vien peticijomis valdžiai ir kova dėl savo atstovų į parlamentą, bet ir kultūrine veikla. „Birutės" tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.
 
 ## Teiginiai
-
 <a id="claim-t-104176"></a>
 - t-001
   global_id: t-104176
   teiginys: 'Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-104177"></a>
 - t-002
   global_id: t-104177
   teiginys: '„Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   pagrindžia:
-    - c-003
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-104178"></a>
 - t-003
   global_id: t-104178
   teiginys: 'Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-104180"></a>
-- t-004
-  global_id: t-104180
-  teiginys: 'Prūsijos valdžiai siekiant išnaikinti lietuvių kalbą, Mažojoje Lietuvoje jau buvo prasidėjęs pačių lietuvių tautiškas susipratimas.'
-  pagrindžia:
-    - c-002
-
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182980"></a>
-- t-005
+- t-004
   global_id: t-182980
   teiginys: 'Klaipėdos krašto sujungimą su nepriklausoma Lietuva šaltinis sieja su vietos lietuvių kultūrine veikla ir tautiškos sąmonės gaivinimu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Klaipėdos krašto sujungimas su nepriklausomąja Lietuva siejamas su vietos lietuvių kultūrine veikla, gaivinusia tautišką sąmonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ne kažką galėjo padaryti ir tie. Nors retkar-
@@ -66,34 +63,16 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     priklausomąja Lietuva Klaipėdos kraštas, tai buvo nuopelnas
     kultūrinio vietos lietuvių veikimo, gaivinusio tautišką sąmonę ir
     subūrusio jėgas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-    - t-005
-
-- c-002
-  santrauka: 'Prūsijos valdžiai siekiant išnaikinti lietuvių kalbą, Mažojoje Lietuvoje jau buvo prasidėjęs pačių lietuvių tautiškas susipratimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kultūrinė M. Lietuvos lietuvių veikla ir tautiško susipratimo**
-        **augimas**
-
-    Tuo metu, kai valdžia nusistatė visiškai išnaikinti lietuvių
-    kalbą, o vokiečiai mokslininkai įkūrė draugiją naikinamosios
-    tautos palaikams surinkti, jau buvo prasidėjęs ir pačių lietuvių
-    susipratimas. Jis tada jau reiškėsi ne vien peticijomis valdžiai ir
-    kova dėl savo atstovų į parlamentą, bet ir kultūrine veikla. Kas-
-    kart vis daugiau ėmė rastis laikraščių, atsirado pasiaukojusių
-    veikėjų, ir ėmė kurtis lietuviškos draugijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-004
-
-- c-003
+- c-002
+  santrauka: '„Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmoji
@@ -102,13 +81,14 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
     „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
     ti tautišką sąmonę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-- c-004
+- c-003
   santrauka: 'Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -119,9 +99,11 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
     ti tautišką sąmonę. Jos sumanytojai buvo Basanavi-
     čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir
     nemaža kitų M. Lietuvos veikėjų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 
@@ -130,5 +112,4 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mikšas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių literatų draugija]]
 - [[objektai/grupes/Birutės draugija]]

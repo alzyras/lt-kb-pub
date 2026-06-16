@@ -24,14 +24,14 @@ amziai:
 
 ## Santrauka
 
-Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam magistrui, kviesdamas jį į savo krikšto tėvus.
+Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes. 1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą. Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
 
 ## Teiginiai
 
 <a id="claim-t-133639"></a>
 - t-001
   global_id: t-133639
-  teiginys: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
+  teiginys: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 <a id="claim-t-185129"></a>
 - t-004
   global_id: t-185129
-  teiginys: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  teiginys: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, kuris citatoje vadinamas lenkų žeme.'
   pagrindžia:
     - c-004
 
@@ -77,6 +77,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     - t-002
 
 - c-002
+  santrauka: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie Cėsių (į šiaurę nuo Dauguvos)
@@ -122,7 +123,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     - t-003
 
 - c-004
-  santrauka: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  santrauka: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, kuris citatoje vadinamas lenkų žeme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo

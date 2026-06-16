@@ -68,7 +68,6 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
 - [[objektai/grupes/Leibgvardijos kazokų pulkas]]
 - [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/grupes/Orenburgo ulonų pulkas]]
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
 - [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]

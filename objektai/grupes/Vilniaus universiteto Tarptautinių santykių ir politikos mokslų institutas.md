@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.
+Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.
 
 ## Teiginiai
 
 <a id="claim-t-20076"></a>
 - t-001
   global_id: t-20076
-  teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
+  teiginys: 'Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,

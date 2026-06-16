@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio priešistorė Tesiantis Lietuvos karui su Vokiečių ordinu, 1355 m. pradžioje didelė Kryžiuočių kariuomenė, vadovaujama maršalo, įsiveržusi penketą dienų niokojo centrinę Žemaitijos.
+1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę. 1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės. 1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.
 
 ## Teiginiai
 
@@ -44,7 +44,7 @@ amziai:
 <a id="claim-t-183717"></a>
 - t-003
   global_id: t-183717
-  teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahnfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
+  teiginys: '1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
   pagrindžia:
     - c-002
 
@@ -200,6 +200,7 @@ amziai:
 ### Susiję objektai
 - [[objektai/asmenys/Germantas]]
 - [[objektai/asmenys/Giliginas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Lauras]]
 - [[objektai/grupes/Lenkai]]
@@ -230,7 +231,9 @@ amziai:
 - [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
 - [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
 - [[objektai/daiktai/Bombardos]]
+- [[objektai/ivykiai/Brastos seimas 1505 m.|Brastos seimas 1505 m. (seimas, XVI a.)]]
 - [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]
+- [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]
 - [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
 - [[objektai/asmenys/Ditrichas (Meiseno markgrafas)]]
 - [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
@@ -277,6 +280,7 @@ amziai:
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/asmenys/Kinsgaila]]
 - [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
 - [[objektai/asmenys/Konradas (Mainco arkivyskupas)]]
@@ -311,7 +315,7 @@ amziai:
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
-- [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Redigeris Elneris]]
 - [[objektai/asmenys/Reinoldas]]
 - [[objektai/asmenys/Rudolfas (Tiberiados valdovas)]]
@@ -336,15 +340,15 @@ amziai:
 - [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
 - [[objektai/grupes/Vytauto šalininkai]]
 - [[objektai/asmenys/Winrichas von Kniprodė]]
-- [[objektai/asmenys/Zbignevas iš Bžezės]]
-- [[objektai/asmenys/Zindramas iš Maškovičių]]
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/prastieji žmonės]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/asmenys/Šindekopfas]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]
 - [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
@@ -353,7 +357,6 @@ amziai:
 - [[objektai/asmenys/Berlevinas]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
-- [[objektai/asmenys/Frydrichas fon Valenrodas]]
 - [[objektai/asmenys/Henrikas fon Plockė]]
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/asmenys/Jonas Ritvianskis]]

@@ -45,6 +45,5 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]

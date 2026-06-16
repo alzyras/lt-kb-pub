@@ -9,12 +9,12 @@ date_start: '1938'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # H. Paszkiewicz
 
@@ -23,7 +23,6 @@ periodo_grupes:
 Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (1933);.
 
 ## Teiginiai
-
 <a id="claim-t-64599"></a>
 - t-001
   global_id: t-64599
@@ -39,7 +38,6 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -65,3 +63,4 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/ponai]]

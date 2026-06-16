@@ -81,4 +81,5 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/zodynas/Arkivyskupija]]

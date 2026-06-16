@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Riterių luomas apibūdinamas kaip viduramžių institucija, kurios susiformavimas siejamas su Kryžiaus karais ir plėšikaujančios bajorijos pertvarkymu.
+Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą. Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija. Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.
 
 ## Žodis ir formos
 
@@ -36,7 +36,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 <a id="claim-t-55270"></a>
 - t-002
   global_id: t-55270
-  teiginys: 'Riterių luomas apibūdintas kaip garbingiausioji viduramžių institucija.'
+  teiginys: 'Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.'
   pagrindžia:
     - c-001
 
@@ -88,7 +88,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/ivykiai/Kryžiaus karai]]

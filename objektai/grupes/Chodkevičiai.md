@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį. Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.
+1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą. 1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų. 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 <a id="claim-t-183124"></a>
 - t-003
   global_id: t-183124
-  teiginys: '1605 m. prie Kirchholmo Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  teiginys: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   pagrindžia:
     - c-003
 
@@ -78,7 +78,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
     - t-002
 
 - c-003
-  santrauka: '1605 m. prie Kirchholmo Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  santrauka: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
@@ -102,7 +102,6 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - [[objektai/asmenys/Augustas]]
 - [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/grupes/Janičarai]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
@@ -111,13 +110,10 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - [[objektai/asmenys/Kunzas Lochneris]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lisovčikai]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/asmenys/P. Snayers]]
 - [[objektai/ivykiai/Polocko praradimas]]
 - [[objektai/asmenys/Romanas Sanguška]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
 - [[objektai/zodynas/archikamerarijus]]
 - [[objektai/zodynas/etmonas]]
@@ -129,4 +125,4 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - [[objektai/asmenys/Augustinas Rotundas]]
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
+- [[objektai/asmenys/Vaina]]

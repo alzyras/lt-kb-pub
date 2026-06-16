@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir. Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke. • — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.
+1394 metų Vilniaus apgultyje didysis kunigaikštis įtvirtino įgulas abiejose pilyse ir mieste. 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu. 1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų.
 
 ## Pavadinimai šaltiniuose
 
@@ -62,14 +62,14 @@ Nenurodyta
 <a id="claim-t-87068"></a>
 - t-003
   global_id: t-87068
-  teiginys: 'Magistras tris savaites ir dvi dienas prie Vilniaus pilių daužė sienas ir bokštus, bet jų neužėmė dėl griovių ir perkasų.'
+  teiginys: '1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Magistras tris savaites ir dvi dienas prie Vilniaus pilių daužė sienas ir bokštus, bet jų neužėmė dėl griovių ir perkasų.'
+  santrauka: '1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis tiek netikėtas,

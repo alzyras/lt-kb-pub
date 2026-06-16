@@ -52,4 +52,3 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k](/objektai/posakiai/Jie%20ir%20%C5%BEemes%20paver%C4%8Dia%20tyrais%2C%20kaip%20tai%20matyti%20%C5%BDiemgaloje%20ir%20daugelyje%20kit%C5%B3%20%5Bviet%C5%B3%5D.%20Ta%C4%8Diau%20jie%20sako%2C%20jog%20tai%20daro%20d%C4%97l%20to%2C%20kad%20nori%20apginti%20k)

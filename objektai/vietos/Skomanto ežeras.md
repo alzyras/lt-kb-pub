@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.
+Zioka Skomackas Skomantai Skomanto ež.
 
 ## Teiginiai
 
 <a id="claim-t-58726"></a>
 - t-001
   global_id: t-58726
-  teiginys: 'Dusburgietis teigia, kad zioka Skomackas Skomantai Skomanto ež.'
+  teiginys: 'Zioka Skomackas Skomantai Skomanto ež.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zioka Skomackas Skomantai Skomanto ež.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skokiai žr. Zioka

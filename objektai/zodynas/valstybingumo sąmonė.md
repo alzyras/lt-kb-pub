@@ -78,7 +78,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1411 m. taika šiame veikale aprašoma kaip karo tarp ordino ir Lenkų pabaiga: ordinas turėjo sumokėti karo išlaidas, grąžinti kai kurias žemes Lenkijai ir iki Vytauto bei Jogailos gyvos galvos atsisakyti Žemaičių. Cituojamas ir Haleckio bei Dlugošo aiškinimas, kad ši sutartis daugiausia atsižvelgė į Lietuvos interesus.
+Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta. Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.
 
 ## Bibliografiniai duomenys
 
@@ -33,7 +33,7 @@ amziai:
 <a id="claim-t-36115"></a>
 - t-001
   global_id: t-36115
-  teiginys: 'Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai buvo grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
+  teiginys: 'Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
   pagrindžia:
     - c-002
 
@@ -64,6 +64,7 @@ amziai:
     - t-002
 
 - c-002
+  santrauka: 'Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia kyla klausimas: ar daug yra atsitikimu, kada norima ki­

@@ -53,5 +53,4 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]

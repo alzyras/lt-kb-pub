@@ -50,6 +50,7 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
 ### Susiję objektai
 - [[objektai/asmenys/Germantas]]
 - [[objektai/asmenys/Giliginas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Trobius]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]

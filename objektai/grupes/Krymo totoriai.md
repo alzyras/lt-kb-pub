@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs chanas Devletberdi, vėliau Machmeto nužudytas. Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų. Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, bet paskui jis buvo sumuštas ir išvytas Timur Kotlogo (1395 mt.).
+Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi. 1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius. Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 <a id="claim-t-71640"></a>
 - t-003
   global_id: t-71640
-  teiginys: 'Po pergalės ties Prostkais samdiniai totoriai pasitraukė iš lietuvių pajėgų dėl konflikto dėl belaisvių.'
+  teiginys: 'Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.'
   pagrindžia:
     - c-003
 
@@ -66,7 +66,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 <a id="claim-t-71643"></a>
 - t-006
   global_id: t-71643
-  teiginys: 'Valdekas gavo žinią, kad šiauriau Prostkų per upę keliasi totoriai.'
+  teiginys: 'Šiauriau Prostkų per upę besikeliantiems totoriams sulaikyti G. Valdekas pasiuntė B. Radvilos kavaleriją.'
   pagrindžia:
     - c-004
 
@@ -124,7 +124,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-005
 
 - c-003
-  santrauka: 'Po pergalės ties Prostkais samdiniai totoriai pasitraukė iš lietuvių pajėgų dėl konflikto dėl belaisvių.'
+  santrauka: 'Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
@@ -136,6 +136,7 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - t-003
 
 - c-004
+  santrauka: 'Šiauriau Prostkų per upę besikeliantiems totoriams sulaikyti G. Valdekas pasiuntė B. Radvilos kavaleriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     apgaulingu atsitraukimo manevru išvi-
@@ -251,6 +252,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - [[objektai/zodynas/skitai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Krymo chanatas]]
+- [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/asmenys/Vladislovas Vaza]]

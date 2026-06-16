@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d.
+Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d. Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link. Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 <a id="claim-t-71971"></a>
 - t-002
   global_id: t-71971
-  teiginys: 'Targovica buvo buvęs Ordos karinis administracinis centras prie kelio iš Juodosios jūros ir Krymo link Lucko ir Kijevo.'
+  teiginys: 'Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link.'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Targovica buvo buvęs Ordos karinis administracinis centras prie kelio iš Juodosios jūros ir Krymo link Lucko ir Kijevo.'
+  santrauka: 'Targovica buvo Ordos karinis-administracinis centras prie kelio nuo Juodosios jūros ir Krymo Lucko bei Kijevo link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didžiausia tikimybė, kad Mėlynieji Van-

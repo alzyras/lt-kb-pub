@@ -14,14 +14,14 @@ date_start: '1429'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - karas
   - mokslininkas
   - valdovas
   - vieta
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # Europa
 
@@ -30,7 +30,6 @@ amziai:
 Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą.
 
 ## Teiginiai
-
 <a id="claim-t-109172"></a>
 - t-001
   global_id: t-109172
@@ -44,20 +43,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-109174"></a>
-- t-003
-  global_id: t-109174
-  teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-109175"></a>
-- t-004
-  global_id: t-109175
-  teiginys: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-109176"></a>
 - t-005
@@ -79,23 +64,20 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
-    krėtė Europos valdovai. Jie palaikė ryšius su išgarsėjusiais litera-
-    tais ir mokslininkais, patys užsiėmė literatūra ir mokslu, savo sosti-
-    nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
-    holme ir kt.) ir naujus universitetus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -111,7 +93,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-005
     - t-006
-
 - c-003
   santrauka: 'Lietuva, pagonybės atskirta nuo kitų Europos šalių, savo narsa atrėmė mongolų antpuolius ir priešinosi Prūsijos Kryžiuočių ordinui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -158,24 +139,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-001
     - t-002
-
-- c-004
-  santrauka: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Energingasis Petras I Didysis
-    (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos san-
-    tvarkos šaknis ir išvedė ją į europėjamąjį kelią. Kartu jis atsuko į
-    Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija
-    taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
-    ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
-    kokį svarbesnį Europos politikos klausimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -190,3 +153,37 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-007
+- c-006
+  santrauka: 'Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Energingasis Petras I Didysis
+    (1682—1725 m.) griežtomis priemonėmis pakirto jos rytietiškos san-
+    tvarkos šaknis ir išvedė ją į europėjamąjį kelią. Kartu jis atsuko į
+    Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija
+    taip pat įžengė į pirmaeilių Europos galybių tarpą. Nuo Petro laikų su
+    ja jau buvo skaitomasi, jos jau nebeaplenkė, sprendžiant
+    kokį svarbesnį Europos politikos klausimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-007
+  santrauka: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
+    krėtė Europos valdovai. Jie palaikė ryšius su išgarsėjusiais litera-
+    tais ir mokslininkais, patys užsiėmė literatūra ir mokslu, savo sosti-
+    nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
+    holme ir kt.) ir naujus universitetus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008

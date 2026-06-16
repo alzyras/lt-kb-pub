@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tvirtindama savo pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru62.
+1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru. Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną.
 
 ## Laikotarpis ir datos
 
@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-89378"></a>
 - t-001
   global_id: t-89378
-  teiginys: 'Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.'
+  teiginys: '1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-89379"></a>
 - t-002
   global_id: t-89379
-  teiginys: 'Dusburgietis teigia, kad lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
+  teiginys: 'Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną.'
   pagrindžia:
     - c-001
 

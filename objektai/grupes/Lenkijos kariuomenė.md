@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo. Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje... Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.
+Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo. Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis. Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 
 ## Teiginiai
 
@@ -39,26 +39,19 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   global_id: t-78202
   teiginys: 'Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-78203"></a>
-- t-003
-  global_id: t-78203
-  teiginys: 'Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
-  pagrindžia:
     - c-003
 
 <a id="claim-t-78204"></a>
-- t-004
+- t-003
   global_id: t-78204
   teiginys: 'Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-78205"></a>
-- t-005
+- t-004
   global_id: t-78205
-  teiginys: 'Pagal J. Pilsudskio sumanymą Vilnių užėmė ne Lenkijos kariuomenė, o L. Želigovskio vadovaujami Vilnijos daliniai.'
+  teiginys: 'Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.'
   pagrindžia:
     - c-002
 
@@ -83,6 +76,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-001
 
 - c-002
+  santrauka: 'Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
@@ -99,26 +93,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagal klastingą J. Pilsudskio sumanymą
-    miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos val-
-    džiai „maištininko“ L. Želigovskio vietinių Vilnijos „lietuvių ir baltaru-
-    sių“ daliniai. L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
-    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
-    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
-    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
-    Širvintų ir Giedraičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   santrauka: 'Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -137,7 +114,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   pagrindžia:
     - t-002
 
-- c-005
+- c-004
   santrauka: 'Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -157,33 +134,29 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/Pilsudskis]]
-- [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Želigovskininkai]]
 - [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/asmenys/Albertas Manvydas]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
 - [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
-- [[objektai/grupes/Čekijos husitai]]
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/zodynas/etmonas]]
+- [[objektai/grupes/Kariškoji Lenkų Organizacija (P.O.W.)]]
 - [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]

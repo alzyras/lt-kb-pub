@@ -10,38 +10,40 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - seimas
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - grupe
+  - seimas
 ---
 # Lietuvos seimas (seimas)
 
 ## Santrauka
 
-Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
+Lietuvos seimas liepos 30 d. ratifikavo konvenciją. Lietuvos seimas konvenciją ratifikavo liepos 30 d.
 
 ## Teiginiai
-
 <a id="claim-t-72534"></a>
 - t-001
   global_id: t-72534
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-72535"></a>
 - t-002
   global_id: t-72535
-  teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pačių metų liepos 30 d.'
+  teiginys: 'Lietuvos seimas konvenciją ratifikavo liepos 30 d.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ket-
@@ -51,12 +53,14 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
     **4.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

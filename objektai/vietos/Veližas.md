@@ -4,6 +4,7 @@ pavadinimas: 'Veližas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -24,28 +25,28 @@ amziai:
 
 ## Santrauka
 
-Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.
+Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko. Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 
 ## Teiginiai
 
-<a id="claim-t-69545"></a>
-- t-001
-  global_id: t-69545
-  teiginys: '1582 m. paliaubų sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam grąžinti tik Didieji Lukai.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-69546"></a>
-- t-002
+- t-001
   global_id: t-69546
-  teiginys: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo imituoti įsiveržimą į Rusiją tarp Veližo ir Smolensko.'
+  teiginys: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187667"></a>
+- t-002
+  global_id: t-187667
+  teiginys: 'Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo imituoti įsiveržimą į Rusiją tarp Veližo ir Smolensko.'
+  santrauka: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagal S. Batoro planą Lietuvos lauko etmo-
@@ -65,20 +66,33 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Ka-
-    ralius linko taikintis, nes užėjusi žiema labai trukdė kariauti,
-    be to, kariuomenė buvo išvargusi, joje prasidėjo ligos, o Pskovo
-    tvirtovė buvo gerai sustiprinta ir sunkiai paimama. Todėl po
-    ilgų derybų, 1582 m. sausio 15 d. buvo pasirašyta 10 metų karo
-    paliaubos. Sutartyje caras atsisakė nuo Livonijos, Polocko ir
-    Veližo; jam buvo grąžinti tik Didieji Lukai.
+    Didysis kunigaikštis Vytautas, sutelkęs visas savo
+    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
+    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
+    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
+    gindamas ir imdamas nelaisvėn * .
+    Sekančiais metais didysis kunigaikštis Vytautas išsi­
+    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
+    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
+
+    ## Puslapis 103
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

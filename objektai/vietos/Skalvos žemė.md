@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir upės krante sunaikino kelias priešo pilaites (Kaustryčių ir kt.).
+Skalvių žemė buvo abiejose Nemuno pusėse. 1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės. 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
 
 ## Teiginiai
 
@@ -35,14 +35,14 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 <a id="claim-t-80129"></a>
 - t-002
   global_id: t-80129
-  teiginys: '1360 m. kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį Skalvos žemėje (netoli Tilžės), o kitą prie Nemuno žiočių — Ventės rage (Vindenburgą).'
+  teiginys: '1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-80130"></a>
 - t-003
   global_id: t-80130
-  teiginys: 'Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir upės krante sunaikino kelias priešo pilaites (Kaustryčių ir kt.).'
+  teiginys: '1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atsakydami į kryžiuočių bei kryži-
@@ -92,6 +93,7 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - t-001
 
 - c-003
+  santrauka: '1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Livonijos magistras surengė didelį

@@ -80,7 +80,6 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas iš Baldensheimo]]
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

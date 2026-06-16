@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius T.
+Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams. 1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis. Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
 
 ## Teiginiai
 
@@ -33,22 +33,15 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   pagrindžia:
     - c-003
 
-<a id="claim-t-63709"></a>
-- t-002
-  global_id: t-63709
-  teiginys: 'Gindamas Varšuvą žuvo buvęs Lietuvos sukilėlių vadas Jokūbas Jasinskis.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-63710"></a>
-- t-003
+- t-002
   global_id: t-63710
   teiginys: '1794 m. balandžio 16 d. Šiauliuose prasidėjus sukilimui Lietuvoje, jo vadu tapo Jokūbas Jasinskis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-63711"></a>
-- t-004
+- t-003
   global_id: t-63711
   teiginys: 'Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.'
   pagrindžia:
@@ -72,7 +65,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -87,7 +80,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   santrauka: 'Jokūbas Jasinskis pirmojoje sukilimo fazėje vadovavo visų Lietuvos sukilėlių veiksmams.'
@@ -117,32 +110,9 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   pagrindžia:
     - t-001
 
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pragos priemiestyje kovojo 2-oji
-    Lietuvos kariuomenės kadrinė
-    divizija, pėsčioji Lietuvos gvar-
-    dija. Gindamas Varšuvą žuvo
-    buvęs Lietuvos sukilėlių vadas
-    Jokūbas Jasinskis. Varšuva kapituliavo lap-
-    kričio 5 d.
-
-    1794 m. lietuviai ir lenkai, kovodami už
-    savo laisvę, taip pat padėjo išlikti ir jaunai
-    Prancūzijos respublikai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-005
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Gardino seimas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/zodynas/konstitucijos]]

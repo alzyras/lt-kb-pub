@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, paragindamas vieną prūsą išduoti saviškius (III, 26). Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Dusburgietis teigia, kad minimi čia 7 Ragainės komtūrai (1289—1324 m. laikotarpiu; Bertoldas iš Austrijos, Ernekė, Konradas, Folčas, Verneris, Fridrichas iš Libencelės, Ditrichas bei 1 vicekomtūras (III, 235, 239, 251, 297, 317, 332, 351, 300), 4 Karaliaučiaus komtūrai (Albertas iš.
+Pasakojime apie antrąjį prūsų sukilimą Baiga minima tarp pilių ir miestų, atsidūrusių įvykių centre. Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei. Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi.
 
 ## Teiginiai
 
@@ -72,14 +72,14 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 <a id="claim-t-90296"></a>
 - t-007
   global_id: t-90296
-  teiginys: 'Kronikoje minimi trys Baigos komtūrai, dauguma jų buvo iš rytinės Ordino teritorijos dalies.'
+  teiginys: 'Kronikos dalyje apie karus prieš Lietuvą minimi trys Baigos komtūrai.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-90297"></a>
 - t-008
   global_id: t-90297
-  teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.'
+  teiginys: 'Du laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
   pagrindžia:
     - c-004
 
@@ -199,7 +199,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - t-004
 
 - c-004
-  santrauka: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.'
+  santrauka: 'Du laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
@@ -378,7 +378,7 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - t-014
 
 - c-013
-  santrauka: 'Kronikoje minimi trys Baigos komtūrai, dauguma jų buvo iš rytinės Ordino teritorijos dalies.'
+  santrauka: 'Kronikos dalyje apie karus prieš Lietuvą minimi trys Baigos komtūrai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus

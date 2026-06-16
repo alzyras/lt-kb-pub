@@ -10,13 +10,13 @@ date_start: '1501'
 date_end: '1600'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - grupe
   - kraštas
   - seimas
   - unija
-amziai:
-  - 'XVI'
 ---
 # Lietuvos seimas (XVI a.)
 
@@ -25,17 +25,18 @@ amziai:
 Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau jame unijos klausimas nė kiek nepasistūmėjo.
 
 ## Teiginiai
-
 <a id="claim-t-01408"></a>
 - t-001
   global_id: t-01408
   teiginys: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos sei-
@@ -46,9 +47,11 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
     tiksiąs su Lenkų reikalavimais ir su receso nuostatais. Ir iš tikro,
     Lietuvos delegacija, atvykusi į 1569 m. seimą, vėl siūlė naujus unijos
     projektus ir vėl reikalavo iš naujo pradėti derybas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų. Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
+Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus. 1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
 
 ## Laikotarpis ir datos
 
@@ -49,21 +49,21 @@ Nenurodyta
 <a id="claim-t-77937"></a>
 - t-001
   global_id: t-77937
-  teiginys: 'Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, rengėsi sukilimui, terorizavo lietuvių susirinkimus ir puldinėjo žydus.'
+  teiginys: 'Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-77938"></a>
 - t-002
   global_id: t-77938
-  teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
+  teiginys: '1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, rengėsi sukilimui, terorizavo lietuvių susirinkimus ir puldinėjo žydus.'
+  santrauka: 'Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmasis Europoje procesas prieš nacius
@@ -81,6 +81,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-

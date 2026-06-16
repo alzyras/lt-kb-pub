@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos šaltinių ir jos tyrinėjimų bibliografija iki šiol dar nesudaryta. Tad šis, iš viso pirmasis, Lietuvos istorijos bibliografijos rinkinys yra palikęs didelę spragą.
+Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą.
 
 ## Teiginiai
 
 <a id="claim-t-32764"></a>
 - t-001
   global_id: t-32764
-  teiginys: 'Pirmasis Lietuvos istorijos bibliografijos rinkinys paliko didelę spragą.'
+  teiginys: 'Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zenonas Ivinskis pirmąjį Lietuvos istorijos bibliografijos rinkinį vertino kaip palikusį didelę spragą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visai ignoruoti
@@ -45,3 +46,5 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]

@@ -86,6 +86,5 @@ Nenurodyta
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

@@ -51,7 +51,6 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Ivanas]]
 - [[objektai/posakiai/prisiekdamas visomis šventenybėmis]]

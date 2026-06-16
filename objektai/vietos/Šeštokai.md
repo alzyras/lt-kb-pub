@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Šie batalionai išsikrovė Šeštokų geležinkelio stotyje ir po žygio ilsėjosi gražioje pievoje. Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus.
+Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje. Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 
 ## Teiginiai
 
 <a id="claim-t-42358"></a>
 - t-001
   global_id: t-42358
-  teiginys: 'Pilėnų kunigaikščio Margio pulko 1-asis ir 2-asis batalionai išsikrovė Šeštokų geležinkelio stotyje.'
+  teiginys: 'Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje.'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ tags:
     - t-002
 
 - c-002
-  santrauka: 'Pilėnų kunigaikščio Margio pulko 1-asis ir 2-asis batalionai išsikrovė Šeštokų geležinkelio stotyje.'
+  santrauka: 'Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     [pulko] Pilėnų Kunigaikščio

@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir kaip žygio Nemunu į Kauną pradžios taškas.
+1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje. Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju. Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.
 
 ## Teiginiai
 
@@ -53,7 +53,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 <a id="claim-t-180307"></a>
 - t-004
   global_id: t-180307
-  teiginys: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš miestelio.'
+  teiginys: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės.'
   pagrindžia:
     - c-003
 
@@ -88,7 +88,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 <a id="claim-t-180313"></a>
 - t-009
   global_id: t-180313
-  teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti partizanų dalinius ir pulti Merkinę.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę.'
   pagrindžia:
     - c-008
 
@@ -161,8 +161,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
     - t-001
+    - t-011
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -277,7 +277,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-013
 
 - c-008
-  santrauka: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti partizanų dalinius ir pulti Merkinę.'
+  santrauka: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu

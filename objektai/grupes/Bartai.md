@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai. Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę. 1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.
 
 ## Teiginiai
 
@@ -61,7 +61,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-88527"></a>
 - t-005
   global_id: t-88527
-  teiginys: 'Dusburgietis teigia, kad 1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
+  teiginys: '1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
   pagrindžia:
     - c-004
 
@@ -430,7 +430,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/daiktai/Ginklai]]
@@ -485,6 +484,5 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
 - [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

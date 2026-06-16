@@ -22,14 +22,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis. Tho­ mas de Aldenburg Commendator de Raganita et 44 fratres cum 400 viris de Sambia et Nattangia improvise intra­ verunt in ortu diei suburbium Castri Gedemini, et incendio destruxerunt etc.
+Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino. 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
 
 ## Teiginiai
 
 <a id="claim-t-87584"></a>
 - t-001
   global_id: t-87584
-  teiginys: 'Tomas Aldenburgas, Ragainės komtūras, auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.'
+  teiginys: 'Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Tomas Aldenburgas, Ragainės komtūras, auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.'
+  santrauka: 'Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     g

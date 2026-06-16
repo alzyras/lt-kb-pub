@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Merkinės puolimas buvo sumanytas kaip atsakas į Marcinkonių bataliono vado ir jo kovos draugų žūtį, o ataka prasidėjo baltos raketos signalu. 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas ir dar trys kovos draugai Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.
+Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui. Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas. Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
 
 ## Laikotarpis ir datos
 
@@ -62,36 +62,29 @@ Nenurodyta
   pagrindžia:
     - c-003
 
-<a id="claim-t-66778"></a>
-- t-004
-  global_id: t-66778
-  teiginys: 'Adolfas Ramanauskas-Vanagas nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę, keršijant už kovos draugų žūtį.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-66779"></a>
-- t-005
+- t-004
   global_id: t-66779
   teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-66780"></a>
-- t-006
+- t-005
   global_id: t-66780
-  teiginys: '1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo Lionginas Švalkus-Šernas, Tomas Kondrotas-Briedis, Adolfas Bilinskas-Jurginas ir Martynas Navickas-Kardas.'
+  teiginys: 'Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-66781"></a>
-- t-007
+- t-006
   global_id: t-66781
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183675"></a>
-- t-008
+- t-007
   global_id: t-183675
   teiginys: '1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.'
   pagrindžia:
@@ -119,8 +112,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
     - t-006
+    - t-005
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -149,7 +142,6 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-001
 
 - c-003
@@ -200,8 +192,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-005
+    - t-007
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

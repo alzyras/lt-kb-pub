@@ -19,61 +19,54 @@ amziai:
 
 ## Santrauka
 
-Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių. Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos. Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava.
+Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos. Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava. Dragūnų vėliavą sudarė 100-150 žmonių.
 
 ## Teiginiai
 
-<a id="claim-t-78911"></a>
-- t-001
-  global_id: t-78911
-  teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-78912"></a>
-- t-002
+- t-001
   global_id: t-78912
   teiginys: 'Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-78913"></a>
-- t-003
+- t-002
   global_id: t-78913
   teiginys: 'Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78914"></a>
-- t-004
+- t-003
   global_id: t-78914
   teiginys: 'Dragūnų vėliavą sudarė 100-150 žmonių.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-78915"></a>
-- t-005
+- t-004
   global_id: t-78915
   teiginys: 'Vėliavai vadovaudavo kapitonas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-78916"></a>
-- t-006
+- t-005
   global_id: t-78916
   teiginys: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78917"></a>
-- t-007
+- t-006
   global_id: t-78917
   teiginys: 'Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78918"></a>
-- t-008
+- t-007
   global_id: t-78918
   teiginys: 'Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   pagrindžia:
@@ -94,8 +87,8 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-    - t-007
+    - t-002
+    - t-006
 
 - c-002
   santrauka: 'Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
@@ -112,22 +105,10 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-006
+    - t-007
+    - t-005
 
 - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
-    200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
-    grindas buvo „draugai“ — turtingi bajorai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliavai vadovaudavo
@@ -139,10 +120,10 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-003
     - t-004
-    - t-005
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Riteriai kovose, bendrai, būdavo mažai varžomi,
@@ -155,14 +136,12 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/dragūnai]]
-- [[objektai/zodynas/husarai]]
 - [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
 - [[objektai/autoriai/Aleksandro Gvanjinio]]
@@ -210,3 +189,4 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
 - [[objektai/zodynas/vėliavininkas]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
 - [[objektai/posakiai/„suverenitetų parado“]]
+- [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]

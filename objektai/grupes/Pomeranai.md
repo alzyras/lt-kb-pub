@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo. Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus. Dusburgietis teigia, kad sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.
+Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų. Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo. Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 <a id="claim-t-89175"></a>
 - t-004
   global_id: t-89175
-  teiginys: 'Dusburgietis teigia, kad sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
+  teiginys: 'Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - t-002
 
 - c-002
+  santrauka: 'Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sventopelkas su savo kariuomene priėjo
@@ -135,6 +136,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]

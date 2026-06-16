@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Visla'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1422 m.'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkurin. 27 d. prie Melno ežero (netoli Vislos)^1 ).
+1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos. Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį. Jogaila daug kartų žygiavo į Lenkų žemę ir padarė žalos nuo Lietuvos sienų ligi Vislos upės.
 
 ## Teiginiai
 
@@ -38,6 +39,20 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
   teiginys: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-187680"></a>
+- t-003
+  global_id: t-187680
+  teiginys: 'Jogaila daug kartų žygiavo į Lenkų žemę ir padarė žalos nuo Lietuvos sienų ligi Vislos upės.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-187681"></a>
+- t-004
+  global_id: t-187681
+  teiginys: 'Po Šventojo Kryžiaus medžio pagrobimo Jogaila nukėlė sieną su Lenkija ligi Baltojo vandens, tai yra Vislos upės.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +85,39 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Jogaila daug kartų žygiavo į Lenkų žemę ir padarė žalos nuo Lietuvos sienų ligi Vislos upės.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
+    MEDŽIO PAGROBIMĄ
+    Jogaila valdydamas visą Lietuvos Didžiąją Kuni­
+    gaikštystę, pradėjo kariauti su Mazovija2  ir su Len­
+    kais, nes Mazovijos kunigaikštis, Lenkų padedamas,
+    buvo užgrobęs Drohičiną ir Melniką. Jogaila daug kar­
+    tų žygiavo į Lenkų žemę ir padarė daug žalos Lenkų
+    bei Mozūrų žemėms, ir praliejo daug Romos tikėjimo
+    krikščionių kraujo nuo Lietuvos sienų ligi pat Vislos
+    upės 3.
+    Ir atžygiavę su didele kariuomene prie Vislos, prie­
+    šais Zavichostą \  ėmė tartis, kaip persikelti per upę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Po Šventojo Kryžiaus medžio pagrobimo Jogaila nukėlė sieną su Lenkija ligi Baltojo vandens, tai yra Vislos upės.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Bet grįžkime atgalios.
+    Ir po to pagrobimo Jogaila nukėlė sieną su Lenkija
+    ligi Baltojo vandens, tai yra ligi Vislos upės l5 .
+    29.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004

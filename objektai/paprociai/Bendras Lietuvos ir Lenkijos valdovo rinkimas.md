@@ -10,14 +10,14 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - bajorija
   - elekcija
   - paprotys
   - seimas
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Bendras Lietuvos ir Lenkijos valdovo rinkimas
 
@@ -46,7 +46,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-93025"></a>
 - t-001
   global_id: t-93025
@@ -69,7 +68,6 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -87,7 +85,6 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   santrauka: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -113,6 +110,7 @@ Nenurodyta
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/grupes/Lietuvių bajorija]]

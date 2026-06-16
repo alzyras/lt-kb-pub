@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv.
+Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų. Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams. Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
 
 ## Teiginiai
 
 <a id="claim-t-71981"></a>
 - t-001
   global_id: t-71981
-  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
+  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
   pagrindžia:
     - c-001
 

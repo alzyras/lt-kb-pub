@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruoti visuotinai pripažintų žmogaus teisių ir laisvių, laikytis JT Generalinės Asamblėjos 1948 m. patvirtintos Visuotinės žmogaus teisių deklaracijos, nes SSRS faktiškai jos nepaisė. Lietuvos disidentų siekis buvo tautos savasties išsaugojimas, priešiškų jėgų veiklos dalinis neutralizavimas, žmogaus teisių gynimas. Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš.
+Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus. Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises. Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją.
 
 ## Teiginiai
 
@@ -55,7 +55,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 <a id="claim-t-74671"></a>
 - t-005
   global_id: t-74671
-  teiginys: 'Lietuvos disidentinio judėjimo pradžia laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  teiginys: 'Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   pagrindžia:
     - c-003
 
@@ -98,6 +98,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     - t-002
 
 - c-003
+  santrauka: 'Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Disidentinis judėjimas sten-

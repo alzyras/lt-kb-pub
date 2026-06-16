@@ -15,50 +15,20 @@ tags:
 
 ## Santrauka
 
-Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems vyskupui Albertui, Vilniaus kaštelionui ir Gardino seniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK didžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui ir Bełsko. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.
+Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 
 ## Teiginiai
 
-<a id="claim-t-87421"></a>
-- t-001
-  global_id: t-87421
-  teiginys: '1503 m. Vilniuje duotame rašte kaip dalyvis minimas Vilniaus vyskupas Albertas.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-87422"></a>
-- t-002
+- t-001
   global_id: t-87422
   teiginys: 'Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1503 m. Vilniuje duotame rašte kaip dalyvis minimas Vilniaus vyskupas Albertas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    To viso aiškiam paliudijimui mūsų antspaudas prie
-    šio rašto yra prikabintas. Atlikta ir duota Vilniuje, antradie­
-    nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
-    siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
-    siais. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
-    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
-    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
-    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
-    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
-    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
-    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
-    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
-    Erazmo, dalyvavusio sprendime, ranka.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -78,11 +48,10 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
 - [[objektai/zodynas/Pataurininkis]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/maršalka]]

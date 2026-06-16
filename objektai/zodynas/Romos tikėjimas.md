@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'Romos tikėjimas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
+Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą. Algirdo laikais Lietuvoje, kronikos teigimu, Romos tikėjimo nebebuvo, liko vien rusų tikėjimas.
 
 ## Teiginiai
 
@@ -20,6 +21,13 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   teiginys: 'Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187526"></a>
+- t-002
+  global_id: t-187526
+  teiginys: 'Algirdo laikais Lietuvoje, kronikos teigimu, Romos tikėjimo nebebuvo, liko vien rusų tikėjimas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -52,11 +60,38 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Algirdo laikais Lietuvoje, kronikos teigimu, Romos tikėjimo nebebuvo, liko vien rusų tikėjimas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    76
+
+    ## Puslapis 72
+
+    22. APIE PODOLĖS KAMENECO SENIŪNĄ PETRĄ GOŠTAUTĄ,
+    PIRMĄJĮ LIETUVĮ KATALIKĄ, IR APIE VIENUOLIŲ
+    PRANCIŠKONŲ ĮSIKŪRIMĄ VILNIUJE
+    Kunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­
+    tę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą,
+    o visi lietuvių didikai pasiliko pagonys. Didysis kuni­
+    gaikštis Algirdas jų varu nevarė ir į savo tikėjimą ne­
+    vertė, o Romos tikėjimo Lietuvoje jau nebuvo, vien
+    rusų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/rusų tikėjimas]]
 - [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui]]

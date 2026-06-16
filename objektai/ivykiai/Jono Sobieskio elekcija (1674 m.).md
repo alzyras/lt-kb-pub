@@ -9,19 +9,19 @@ date_start: '1674'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - bajorija
   - elekcija
   - ivykis
   - karas
-amziai:
-  - 'XVII'
 ---
 # Jono Sobieskio elekcija (1674 m.)
 
 ## Santrauka
 
-Kai pasirodė, jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo laikais), tuomet prancūziškoji partija pastatė kandidatu savo vadą hetmoną Sobieskį. Lenkams išrinkus Sobieskį, lietuviai pareiškė protestą ir, sustoję kitoje Vyslos pusėje, į elekcijos lauką neėjo.
+Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,24 +36,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-01634"></a>
-- t-001
-  global_id: t-01634
-  teiginys: 'Lenkams išrinkus Sobieskį, lietuviai pareiškė protestą ir, sustoję kitoje Vyslos pusėje, į elekcijos lauką neėjo.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-01635"></a>
-- t-002
+- t-001
   global_id: t-01635
   teiginys: 'Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     monu Sobieskiu palaikė Prancūzų kandidatą. Kai pasirodė,
@@ -67,36 +61,17 @@ Nenurodyta
     lauko, buvo labai palan-
     kiai lenkų bajorijos su-
     tiktas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkams išrin-
-    kus Sobieskį, lietuviai pareiškė protestą ir, sustoję kitoje
-    Vyslos pusėje, į elekcijos lauką neėjo. Tačiau lietuvių tarpe
-    buvo ir Sobieskio šalininkų: jį palaikė jo sesers vyras, Lietuvos
-    lauko hetmonas ir vicekancleris M. K. Radvila, Sapiegos ir kiti
-    Pacų priešai. Jie atsiskyrė nuo lietuvių daugumos ir prisidėjo
-    prie lenkų. Po kiek laiko tuomet nusileido ir Pacai, ir So-
-    bieskis buvo visų pripažintas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Prancūziškoji partija]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/seimas]]

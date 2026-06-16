@@ -10,21 +10,20 @@ date_start: '1392'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
 ---
 # Sofija
 
 ## Santrauka
 
-Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringailė 47 miręs nuo įduotų nuodų.
+Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila. Sofija buvo Vytauto duktė.
 
 ## Teiginiai
-
 <a id="claim-t-179681"></a>
 - t-001
   global_id: t-179681
@@ -35,12 +34,11 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 <a id="claim-t-183842"></a>
 - t-002
   global_id: t-183842
-  teiginys: 'Sofija buvo Vytauto ir Onos duktė.'
+  teiginys: 'Sofija buvo Vytauto duktė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Sofija buvo vyriausioji Dimitro Doniečio dukteris, kurią pagal 1384 m. susitarimą turėjo vesti Jogaila.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -60,9 +58,8 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
-  santrauka: 'Sofija buvo Vytauto ir Onos duktė.'
+  santrauka: 'Sofija buvo Vytauto duktė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Skubina būtiny­
@@ -87,5 +84,5 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Spycinas]]
-- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]

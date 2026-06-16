@@ -23,14 +23,14 @@ amziai:
 
 ## Santrauka
 
-1746 metais maloningieji tėvai Kazimieras ir Mykolas Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus --• - - 184 ## Puslapis 201 Il. Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus šio tikėjimo apeigų vykdymas persikėlė į patį miestą ir jo centre, netoli Žuvų turgaus, pastoriai Če­ chavičius ir Vendrichovskis septynerius metus nuolat vie­ šai tas apeigas vykdė.
+1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale. Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 
 ## Teiginiai
 
 <a id="claim-t-86290"></a>
 - t-001
   global_id: t-86290
-  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
+  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ amziai:
     - t-002
 
 - c-002
-  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė pajamas iš Liaudanskų mūrinio namo Žuvų turgavietės gale.'
+  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus

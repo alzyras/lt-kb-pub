@@ -13,12 +13,12 @@ date_start: '1255'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - kunigaikštis
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - kunigaikštis
+  - vieta
 ---
 # Brianskas
 
@@ -27,7 +27,6 @@ amziai:
 1263 m. jis išsiuntė savo kariuomenę prieš Briansko kunigaikštį.
 
 ## Teiginiai
-
 <a id="claim-t-179764"></a>
 - t-001
   global_id: t-179764
@@ -50,7 +49,6 @@ amziai:
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -64,7 +62,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -79,7 +76,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

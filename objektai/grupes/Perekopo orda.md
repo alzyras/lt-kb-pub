@@ -60,6 +60,10 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Krymo chanatas]]
+- [[objektai/zodynas/ulan]]
+- [[objektai/zodynas/ulusas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Šach Achmedas]]

@@ -29,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio taško vieta: čia po 1289 m. įsitvirtino Ordino pilis, vietovė dokumentuose perėjo nuo Landeshutės vardo prie Ragainės, o kronikoje ji minima ir kaip krikšto bei karo veiksmų vieta.
+Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio. Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę. 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
 
 ## Teiginiai
 
@@ -57,7 +57,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 <a id="claim-t-169147"></a>
 - t-004
   global_id: t-169147
-  teiginys: 'Dusburgietis teigia, kad tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
+  teiginys: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   pagrindžia:
     - c-015
 
@@ -194,19 +194,12 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - c-019
 
-<a id="claim-t-185119"></a>
-- t-024
-  global_id: t-185119
-  teiginys: 'Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
-  pagrindžia:
-    - c-020
-
 <a id="claim-t-185120"></a>
-- t-025
+- t-024
   global_id: t-185120
   teiginys: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   pagrindžia:
-    - c-021
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -468,6 +461,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-022
 
 - c-015
+  santrauka: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
@@ -560,31 +554,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - t-023
 
 - c-020
-  santrauka: 'Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Kaip
-    192
-
-    ## Puslapis 191
-
-    šie metai praėjo tėvynėje atremiant priešą, taip ki­
-    tais metais karo veiksmai buvo perkelti į priešo že­
-    mę. Rugpjūčio viduryje žemaičiai nuniokojo Ragainės
-    ir Skalvių apylinkes. Kryžiuočių kariai, atskubėję iš
-    iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
-    jus pulkus ir nuvedė juos pulti Christmemelio pilies;
-    taranai daužė pilies sienas, galybė strėlių ir iečių
-    nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­
-    bos skubėjęs būrys tapo užpultas ir sunaikintas, ap­
-    gultųjų padėtis darėsi visai beviltiška.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-024
-
-- c-021
   santrauka: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -605,4 +574,4 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024

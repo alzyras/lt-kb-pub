@@ -84,4 +84,3 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/rezervai]]

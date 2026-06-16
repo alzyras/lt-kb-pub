@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje. Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.
+Lietuvos laisvės armija buvo slapta karinė organizacija, įkurta Kazio Veverskio iniciatyva 1941 m. Vilniuje. Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį. 1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
 <a id="claim-t-78377"></a>
 - t-002
   global_id: t-78377
-  teiginys: 'Kazimieras Kontrimas-Tėvas tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys ir 1943 m. įstojo į Lietuvos laisvės armiją.'
+  teiginys: 'Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį.'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - t-003
 
 - c-003
-  santrauka: 'Kazimieras Kontrimas-Tėvas tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys ir 1943 m. įstojo į Lietuvos laisvės armiją.'
+  santrauka: 'Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras

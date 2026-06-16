@@ -4,6 +4,7 @@ pavadinimas: 'vietininkas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija. Tačiau Vytautas, paėmęs Lietuvą valdyti, kaip Jogailos vietininkas, labai greit pasidarė tikruoju Lietuvos valdovu ir net įgijo Lenkuose įtakos; pavyzdžiui, vieno ginčo su ordinu metu Lenkų ponai Jogailai su Vytautu pasakė: „Jūs abudu esate mūsų valdovai, ir. Tačiau jose esančias pilis valdė didžiojo kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos valstybės vieningumui.
+Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu. Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus. Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 
 ## Pastabos
 
@@ -34,7 +35,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   global_id: t-176250
   teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
-    - c-006
+    - c-004
 
 <a id="claim-t-176251"></a>
 - t-002
@@ -48,154 +49,133 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   global_id: t-176252
   teiginys: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
   pagrindžia:
-    - c-013
-
-<a id="claim-t-176253"></a>
-- t-004
-  global_id: t-176253
-  teiginys: 'Savo dvarams administruoti ir tvarkai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-176254"></a>
-- t-005
-  global_id: t-176254
-  teiginys: 'Vytauto santykiai su Lenkija jo gyvenimo pabaigoj Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.'
-  pagrindžia:
-    - c-003
+    - c-011
 
 <a id="claim-t-176255"></a>
-- t-006
+- t-004
   global_id: t-176255
   teiginys: 'Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
   pagrindžia:
-    - c-009
+    - c-007
 
 <a id="claim-t-176256"></a>
-- t-007
+- t-005
   global_id: t-176256
   teiginys: 'Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.'
   pagrindžia:
-    - c-012
+    - c-010
 
 <a id="claim-t-176258"></a>
-- t-008
+- t-006
   global_id: t-176258
   teiginys: 'Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį.'
   pagrindžia:
-    - c-007
+    - c-005
 
 <a id="claim-t-176259"></a>
-- t-009
+- t-007
   global_id: t-176259
   teiginys: 'Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
   pagrindžia:
-    - c-010
+    - c-008
 
 <a id="claim-t-176260"></a>
-- t-010
+- t-008
   global_id: t-176260
   teiginys: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai buvo išžudyti.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-176261"></a>
-- t-011
+- t-009
   global_id: t-176261
   teiginys: 'Jogaila paskyrė Vaidilą Lydos vietininku ir, nepaisydamas Kęstučio prieštaravimų, atidavė jam į žmonas savo seserį.'
   pagrindžia:
-    - c-007
-
-<a id="claim-t-176262"></a>
-- t-012
-  global_id: t-176262
-  teiginys: 'Iš vietininko tapęs savarankišku Lietuvos valdovu, Vytautas nenorėjo gadinti santykių su Jogaila ir Lenkija.'
-  pagrindžia:
-    - c-003
+    - c-005
 
 <a id="claim-t-176263"></a>
-- t-013
+- t-010
   global_id: t-176263
   teiginys: 'Bogdanas Kievla buvo Vilniaus vaivados ir valstybės kanclerio Mikalojaus Radvilos vietininkas.'
   pagrindžia:
-    - c-012
+    - c-010
 
 <a id="claim-t-176264"></a>
-- t-014
+- t-011
   global_id: t-176264
   teiginys: 'Vytautas panaikino svarbesnes sričių kunigaikštijas ir savarankiškus kunigaikščius pakeitė nuo didžiojo kunigaikščio priklausomais vietininkais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-176266"></a>
-- t-016
+- t-013
   global_id: t-176266
   teiginys: 'Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.'
   pagrindžia:
-    - c-011
+    - c-009
 
 <a id="claim-t-176267"></a>
-- t-017
+- t-014
   global_id: t-176267
   teiginys: 'Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė nuo jo priklausomus vietininkus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-176268"></a>
-- t-018
+- t-015
   global_id: t-176268
   teiginys: 'Vietininkai valdė dvarus, prižiūrėjo pilis ir turėjo jas taisyti bei laikyti paruoštas karui.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-182990"></a>
-- t-019
-  global_id: t-182990
-  teiginys: 'Vytautas, paėmęs Lietuvą valdyti kaip Jogailos vietininkas, greitai tapo tikruoju Lietuvos valdovu.'
-  pagrindžia:
-    - c-014
+    - c-003
 
 <a id="claim-t-182991"></a>
-- t-020
+- t-016
   global_id: t-182991
   teiginys: 'Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.'
   pagrindžia:
-    - c-015
+    - c-012
 
 <a id="claim-t-184644"></a>
-- t-021
+- t-017
   global_id: t-184644
   teiginys: 'Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.'
   pagrindžia:
-    - c-016
+    - c-013
 
 <a id="claim-t-184645"></a>
-- t-022
+- t-018
   global_id: t-184645
   teiginys: 'Moskožovskis nebuvo prikalbėtas tapti karaliaus vietininku Vilniuje.'
   pagrindžia:
-    - c-017
+    - c-014
 
 <a id="claim-t-184646"></a>
-- t-023
+- t-019
   global_id: t-184646
   teiginys: 'Vėl prijungus Podolę prie Lietuvos, pilyse ir miestuose buvo paliktos lietuvių įgulos ir lietuvių kilmės vietininkai.'
   pagrindžia:
-    - c-018
+    - c-015
 
 <a id="claim-t-184647"></a>
-- t-024
+- t-020
   global_id: t-184647
   teiginys: 'Karalius laikinai paskyrė Spiteką valdų vietininku.'
   pagrindžia:
-    - c-019
+    - c-016
 
 <a id="claim-t-184649"></a>
-- t-025
+- t-021
   global_id: t-184649
   teiginys: 'Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.'
   pagrindžia:
-    - c-020
+    - c-017
+
+<a id="claim-t-187533"></a>
+- t-022
+  global_id: t-187533
+  teiginys: 'Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 
@@ -215,8 +195,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
     - t-014
+    - t-011
     - t-002
 
 - c-002
@@ -230,42 +210,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **22. Vytauto santykiai su Lenkija jo gyvenimo pabaigoj**
-
-    Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vy-
-    tautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.
-    Bendradarbiavimo su Lenkija jis ypač buvo reikalingas, kovo-
-    damas ginklu ir diplomatija su ordinu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-    - t-005
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Savo dvarams administruoti ir tvar-
-    kai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus
-    urėdus, kurie buvo vadinami vietininkais. Jų buvo įvai-
-    rių. Vieni buvo paskirti buvusių sritinių kunigaikščių vietose
-    ir valdė dideles sritis, kiti buvo paskirti didžiojo kunigaikščio
-    dvaruose (domenuose) ir valdė tik nedidelius valsčius dvarų
-    apylinkėse; jie turėdavo prižiūrėti ūkį ir už tai gaudavo 1/3 visų
-    dvaro pajamų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie
@@ -279,9 +226,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-015
 
-- c-006
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
@@ -301,7 +248,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - t-001
 
-- c-007
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai buvo žmogus, kurį dar Algirdas dėl didelių
@@ -316,10 +263,10 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
-    - t-008
+    - t-009
+    - t-006
 
-- c-008
+- c-006
   santrauka: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -351,9 +298,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-012
 
-- c-009
+- c-007
   santrauka: 'Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -371,9 +318,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-010
+- c-008
   santrauka: 'Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -391,9 +338,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-011
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PIRMOSIOS
@@ -421,9 +368,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-013
 
-- c-012
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     41
@@ -460,10 +407,10 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-    - t-013
+    - t-005
+    - t-010
 
-- c-013
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     223
@@ -486,27 +433,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - t-003
 
-- c-014
-  santrauka: 'Vytautas, paėmęs Lietuvą valdyti kaip Jogailos vietininkas, greitai tapo tikruoju Lietuvos valdovu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Per Jogailą Lietuva bu-
-    vo surišta su Lenkija; lenkai, suvaržę savo karalių namie, troš-
-    ko įsigalėti ir Lietuvoje. Tačiau Vytautas, paėmęs Lietuvą
-    valdyti, kaip Jogailos vietininkas, labai greit pasidarė tikruoju
-    Lietuvos valdovu ir net įgijo Lenkuose įtakos; pavyzdžiui, vie-
-    no ginčo su ordinu metu Lenkų ponai Jogailai su Vytautu pa-
-    sakė: „Jūs abudu esate mūsų valdovai, ir, kaip jūs nuspręsite,
-    taip ir tesie!"
-
-    Sutvarkymas santykių su Lenkais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-015
+- c-012
   santrauka: 'Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -520,9 +447,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-016
 
-- c-016
+- c-013
   santrauka: 'Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -540,9 +467,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-017
 
-- c-017
+- c-014
   santrauka: 'Moskožovskis nebuvo prikalbėtas tapti karaliaus vietininku Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -566,9 +493,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-018
 
-- c-018
+- c-015
   santrauka: 'Vėl prijungus Podolę prie Lietuvos, pilyse ir miestuose buvo paliktos lietuvių įgulos ir lietuvių kilmės vietininkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -582,9 +509,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-019
 
-- c-019
+- c-016
   santrauka: 'Karalius laikinai paskyrė Spiteką valdų vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -607,9 +534,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-020
 
-- c-020
+- c-017
   santrauka: 'Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -629,7 +556,36 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-021
+
+- c-018
+  santrauka: 'Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Vytautas, sutelkęs visas savo
+    pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
+    mėnesius prie Porchovo miesto3  ir, nepaėmęs miesto,
+    nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
+    gindamas ir imdamas nelaisvėn * .
+    Sekančiais metais didysis kunigaikštis Vytautas išsi­
+    rengė prieš Pskovo miestą5  ir paėmė Pskovo miestus
+    Veližą6  ir Krasnyj Gorod7 . Pskoviečiai, nebenorėdami,
+    kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti­
+    nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų
+    valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok­
+    lę bei įsileisti jo vietininką, ir didysis kunigaikštis
+    (07
+
+    ## Puslapis 103
+
+    pasodino pas juos vietininku Pinsko kunigaikštį Juri­
+    jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
+    žygiavo prieš Naugardą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai
@@ -673,10 +629,8 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęsgaila]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/Pataurininkis]]
@@ -684,33 +638,35 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Stanislovas]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/didysis kunigaikštis]]
-- [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/grašis]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/metraštis]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]
+- [[objektai/grupes/Alšėnų kunigaikščiai]]
 - [[objektai/asmenys/Andrius Sakavičius]]
 - [[objektai/zodynas/Arkikomtūras]]
 - [[objektai/asmenys/Asianas Abrahimovičius]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/asmenys/Celestinas III]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]]
 - [[objektai/asmenys/Ivanas Sidorovičius]]
 - [[objektai/daiktai/Iždo ir pilių raktai]]
-- [Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k](/objektai/posakiai/Jie%20ir%20%C5%BEemes%20paver%C4%8Dia%20tyrais%2C%20kaip%20tai%20matyti%20%C5%BDiemgaloje%20ir%20daugelyje%20kit%C5%B3%20%5Bviet%C5%B3%5D.%20Ta%C4%8Diau%20jie%20sako%2C%20jog%20tai%20daro%20d%C4%97l%20to%2C%20kad%20nori%20apginti%20k)
 - [[objektai/asmenys/Joachimas Pavlovičius]]
 - [[objektai/asmenys/Jonas (Sembos vyskupas)]]
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
@@ -719,18 +675,22 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Kristupas Radvila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]
 - [[objektai/grupes/Lietuviškoji partija]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
 - [[objektai/asmenys/Mikolajus Kulmietis]]
 - [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas]]
 - [[objektai/asmenys/Ona (Vytauto sesuo)]]
 - [[objektai/asmenys/Parfėjus]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/asmenys/Popiežius Celestinas III]]
 - [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Pskoviečiai]]
+- [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]]
 - [[objektai/grupes/Rusiškoji bajorų partija]]
@@ -746,6 +706,9 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
 - [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]
 - [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
+- [[objektai/zodynas/dijokas]]
+- [[objektai/zodynas/duoklė]]
+- [[objektai/zodynas/fryzai]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/posakiai/kiekvienam geros valios žmogui]]
 - [[objektai/zodynas/landkomtūras]]
@@ -755,6 +718,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/zodynas/virvės ištempimas]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/ivykiai/Švitrigailos Vitebsko žemės užėmimas]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksas Jefremovičius]]
@@ -762,11 +726,12 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Stanislovas Strumila Petravičius]]
 - [[objektai/grupes/Vilniaus gyventojai]]
 - [[objektai/zodynas/bojarinai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Dovilas, arba Dovydas]]
 - [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/zodynas/tėvūnas]]
+- [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]
 - [[objektai/asmenys/Fiodoras Grigorovičius]]

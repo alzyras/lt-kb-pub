@@ -66,7 +66,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]

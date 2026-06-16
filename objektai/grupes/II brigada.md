@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Į operaciją įsitraukė ir II brigada. Il brigada pralaužia gynybą ir 28 d. priverčia bolševikus trauktis už Dauguvos.
+II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų. II brigada pralaužė gynybą ir 28 d. privertė bolševikus trauktis už Dauguvos.
 
 ## Teiginiai
 
 <a id="claim-t-40890"></a>
 - t-001
   global_id: t-40890
-  teiginys: 'II brigada Šiaurės Rytų Lietuvoje stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
+  teiginys: 'II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'II brigada Šiaurės Rytų Lietuvoje stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
+  santrauka: 'II brigada Šiaurės Rytų Lietuvoje darniai veikdama su artilerija stūmė bolševikus iš okupuotų Lietuvos teritorijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 brigadai užėmus Zarasus,
@@ -84,6 +84,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/brigada]]

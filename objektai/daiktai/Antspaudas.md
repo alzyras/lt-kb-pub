@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1383 m. prie dokumentų turėjo būti pridėti antspaudai. Kriavo akto dokumentą savo antspaudais tvirtino trys Jogailos broliai, o antspaudą pridėjo ir Vytautas.
+1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais. XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais. 1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-64897"></a>
 - t-001
   global_id: t-64897
-  teiginys: '1401 m. kovo 11 d. Radome duoto Lenkų karališkos tarybos dokumento originalas išliko su 49 antspaudais.'
+  teiginys: '1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.'
   pagrindžia:
     - c-002
 
@@ -84,7 +84,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: '1401 m. kovo 11 d. Radome duoto Lenkų karališkos tarybos dokumento originalas išliko su 49 antspaudais.'
+  santrauka: '1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
@@ -139,7 +139,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
 - [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai]]
 - [[objektai/paprociai/Bažnytinių mėsinių nuoma ir laisva mėsos prekyba Vilniuje]]
 - [[objektai/asmenys/Boleslavas (Mazovijos kunigaikštis)]]
@@ -197,6 +196,7 @@ Nenurodyta
 - [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]
 - [Vojakas [Vojachas]](/objektai/asmenys/Vojakas%20%5BVojachas%5D)
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/pūdas talentas]]
 - [[objektai/zodynas/tenuta laikytojas]]
@@ -206,7 +206,6 @@ Nenurodyta
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]
 - [[objektai/posakiai/Harum Testimonio Literarum]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
 - [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken]]

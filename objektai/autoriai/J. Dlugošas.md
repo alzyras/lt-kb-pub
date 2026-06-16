@@ -28,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje jis papildomai naudojamas kaip istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes; prieduose nurodoma ir jo raštų publikacija.
+J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama. J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje. J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 <a id="claim-t-172866"></a>
 - t-002
   global_id: t-172866
-  teiginys: 'J. Dlugošas pateikia Ordino pasiuntinio Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po vizito Jogailos stovykloje.'
+  teiginys: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.'
   pagrindžia:
     - c-007
 
@@ -232,7 +232,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-004
 
 - c-007
-  santrauka: 'J. Dlugošas pateikia Ordino pasiuntinio Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po vizito Jogailos stovykloje.'
+  santrauka: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Raitelio
@@ -352,16 +352,23 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Dlugošas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Lotynai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]
+- [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme]]
 - [[objektai/asmenys/Dobeslavas Skoračevskis]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
+- [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

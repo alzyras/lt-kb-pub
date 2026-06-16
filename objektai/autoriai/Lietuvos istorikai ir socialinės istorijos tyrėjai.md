@@ -20,7 +20,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. , 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).
+R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais. A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje. P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.
 
 ## Teiginiai
 
@@ -90,7 +90,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 <a id="claim-t-179545"></a>
 - t-010
   global_id: t-179545
-  teiginys: 'L. Bičkauskas-Gentvila rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
+  teiginys: 'L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
   pagrindžia:
     - c-004
 
@@ -157,7 +157,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - t-008
 
 - c-004
-  santrauka: 'L. Bičkauskas-Gentvila rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
+  santrauka: 'L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     R. Strazdūnaitė:

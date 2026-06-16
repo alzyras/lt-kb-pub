@@ -91,6 +91,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/zodynas/žygis]]

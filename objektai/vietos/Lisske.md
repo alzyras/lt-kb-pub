@@ -21,20 +21,21 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
+Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
 
 ## Teiginiai
 
 <a id="claim-t-58700"></a>
 - t-001
   global_id: t-58700
-  teiginys: 'Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
+  teiginys: 'Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos

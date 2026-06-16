@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­ upio Strėvos (arti Žiežmarių).
+1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų. Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 
 ## Teiginiai
 
 <a id="claim-t-69972"></a>
 - t-001
   global_id: t-69972
-  teiginys: 'Gavusi iš savo žvalgų informaciją, jog nuo Žiežmarių iki Alytaus nebuvo nei lietuvių, nei vokiečių dalinių, bolševikų karinė vadovybė 1919 m. vasario pradžioje ryžosi pradėti Kauno puolimą iš pietų pusės.'
+  teiginys: '1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo

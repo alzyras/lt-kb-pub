@@ -20,21 +20,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.
+Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
 
 ## Teiginiai
 
 <a id="claim-t-87840"></a>
 - t-001
   global_id: t-87840
-  teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijai, jos prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
+  teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijai, jos prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
+  santrauka: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-

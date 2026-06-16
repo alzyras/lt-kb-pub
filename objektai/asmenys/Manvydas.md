@@ -10,15 +10,15 @@ date_start: '1396'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - didikas
   - karalius
   - kunigaikštis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Manvydas
 
@@ -27,7 +27,6 @@ periodo_grupes:
 O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus. Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].
 
 ## Teiginiai
-
 <a id="claim-t-87374"></a>
 - t-001
   global_id: t-87374
@@ -71,7 +70,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-006
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -108,7 +106,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -129,7 +126,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -155,7 +151,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Trakų vaivada Manvydas buvo sučiuptas ir Žygimanto įsakymu nukirsdintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -173,7 +168,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -191,7 +185,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-006
   santrauka: 'Manvydas susitarė su Goštautu ir Astiku paskelbti valdovu karalių Vladislovą pagal senąjį susitarimą su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai. Dusburgietis teigia, kad po kurio laiko magistras ir vėl sušaukė žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
+Štarkenbergo pilies statybos metu prūsų kariuomenė netikėtai užpuolė ir išžudė magistro sušauktus darbininkus. Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį. Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-89424"></a>
 - t-002
   global_id: t-89424
-  teiginys: 'Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį prie Osos, Kulmo ir Pamedės vyskupysčių pasienyje.'
+  teiginys: 'Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.'
   pagrindžia:
     - c-001
 

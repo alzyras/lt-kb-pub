@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Dusburgietis teigia, kad baltų dievus — Gimbutienė M.
+Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį. Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus.
 
 ## Teiginiai
 
 <a id="claim-t-60600"></a>
 - t-001
   global_id: t-60600
-  teiginys: 'Marija Gimbutienė minima prie požiūrio, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
+  teiginys: 'Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Marija Gimbutienė minima prie požiūrio, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
+  santrauka: 'Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,

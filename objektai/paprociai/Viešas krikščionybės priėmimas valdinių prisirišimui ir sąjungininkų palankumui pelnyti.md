@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, norėdami labiau prie savęs prisirišti valdinius.
+Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,14 +32,14 @@ Nenurodyta
 <a id="claim-t-185905"></a>
 - t-001
   global_id: t-185905
-  teiginys: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, norėdami labiau prie savęs prisirišti valdinius.'
+  teiginys: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, norėdami labiau prie savęs prisirišti valdinius.'
+  santrauka: 'Erdivydas, Vykintas ir Tautvilas viešai priėmė krikščionybę, siekdami labiau prie savęs prisirišti savo valdinius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jau­
@@ -64,4 +64,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Tautvilas]]
-- [[objektai/asmenys/Vykintas]]

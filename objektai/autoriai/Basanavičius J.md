@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII). Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.
+Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII). Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
 
 ## Teiginiai
 
 <a id="claim-t-64567"></a>
 - t-001
   global_id: t-64567
-  teiginys: 'Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
+  teiginys: 'Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išliko padavimas apie kunigaikštį Katenoviškj, palaidotą aukštame Katenavos kape,

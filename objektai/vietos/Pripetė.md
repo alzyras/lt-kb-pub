@@ -11,84 +11,42 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - karalius
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - karalius
+  - vieta
 ---
 # Pripetė
 
 ## Santrauka
 
-Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.
+Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla. Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto. Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.
 
 ## Teiginiai
-
-<a id="claim-t-180490"></a>
-- t-001
-  global_id: t-180490
-  teiginys: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183082"></a>
-- t-002
-  global_id: t-183082
-  teiginys: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-185100"></a>
-- t-003
+- t-002
   global_id: t-185100
   teiginys: 'Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-185101"></a>
-- t-004
+- t-003
   global_id: t-185101
   teiginys: 'Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.'
   pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.'
+  pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kanalas atsėjo
-    apie 12 milijonų auksinų. Jį iškasė savo lėšomis hetmonas
-    Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
-    kanalu).
-    Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia
-    Pripetės intaką Piną su Bugo intaku Muchavcu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
-  santrauka: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jį iškasė savo lėšomis hetmonas
-    Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
-    kanalu).
-    Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia
-    Pripetės intaką Piną su Bugo intaku Muchavcu. Tuo būdu iš
-    Juodosios jūros į Baltiją atsirado dar vienas kelias, būtent
-    Dniepras—Vysla.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -103,9 +61,8 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-004
+    - t-002
+- c-003
   santrauka: 'Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -125,5 +82,23 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jį iškasė savo lėšomis hetmonas
+    Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
+    kanalu).
+    Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia
+    Pripetės intaką Piną su Bugo intaku Muchavcu. Tuo būdu iš
+    Juodosios jūros į Baltiją atsirado dar vienas kelias, būtent
+    Dniepras—Vysla.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004

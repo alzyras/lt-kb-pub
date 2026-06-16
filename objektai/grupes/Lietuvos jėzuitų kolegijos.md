@@ -19,14 +19,14 @@ amziai:
 
 ## Santrauka
 
-Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis daugiau praplito Lietuvos kilmingųjų sluoksniuose, Koja­ lavičius parašė savo Historiae Lituanae.
+Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui. Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui. Lietuvos jėzuitų kolegijos ir Vilniaus akademija prisidėjo prie lotynų kalbos plitimo tarp Lietuvos kilmingųjų.
 
 ## Teiginiai
 
 <a id="claim-t-81463"></a>
 - t-001
   global_id: t-81463
-  teiginys: 'Pilaitė, buvusi jėzuitų nuosavybė, vėliau atiteko Vilniaus universitetui.'
+  teiginys: 'Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.'
   pagrindžia:
     - c-001
 
@@ -47,6 +47,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pilaitė, jėzuitų buvusi, per mylią

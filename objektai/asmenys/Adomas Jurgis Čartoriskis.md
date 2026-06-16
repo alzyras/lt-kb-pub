@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas. Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.
+Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto. Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 <a id="claim-t-18759"></a>
 - t-002
   global_id: t-18759
-  teiginys: 'Adomui Jurgiui Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę Rusijos imperijos globoje parengiamoji grandis.'
+  teiginys: 'Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šios apygardos centras – Vilniaus universitetas,

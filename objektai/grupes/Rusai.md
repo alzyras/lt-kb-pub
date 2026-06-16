@@ -28,14 +28,14 @@ amziai:
 
 ## Santrauka
 
-Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
+„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai. Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko. Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles.
 
 ## Teiginiai
 
 <a id="claim-t-117247"></a>
 - t-001
   global_id: t-117247
-  teiginys: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
+  teiginys: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai.'
   pagrindžia:
     - c-007
 
@@ -49,7 +49,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 <a id="claim-t-117249"></a>
 - t-003
   global_id: t-117249
-  teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai atsisakydavo mokėti dvasininkams dešimtinę, pelno mokestį ir kitas duokles.'
+  teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles.'
   pagrindžia:
     - c-005
 
@@ -95,19 +95,12 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - c-002
 
-<a id="claim-t-182920"></a>
-- t-010
-  global_id: t-182920
-  teiginys: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-184580"></a>
-- t-011
+- t-010
   global_id: t-184580
   teiginys: 'Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai.'
   pagrindžia:
-    - c-009
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -233,6 +226,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-008
 
 - c-007
+  santrauka: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuga-
@@ -252,30 +246,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-001
 
 - c-008
-  santrauka: 'Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos
-    istorijos tyrinėjimas perėjo į ru-
-    sų ir lenkų rankas.
-    **Rusai** domėjosi Lietuvos
-    istorija dėl savo politikos tikslų.
-    Jiems rūpėjo įrodyti, kad seno-
-    vės didžioji Lietuvos kunigaikš-
-    tija, kuriai priklausė didžiuliai
-    rusų žemių plotai, buvusi rusiš-
-    kos kultūros įtakoj ar net visai
-    rusiška valstybė, kad ji tik iš
-    vardo tebuvusi lietuviška, todėl
-    ir istorijoje jie ieškojo argumen-
-    tų šitai savo tezei paremti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-009
   santrauka: 'Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -291,7 +261,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -319,7 +289,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
 - [[objektai/asmenys/B. Kolyška]]
 - [[objektai/asmenys/B. Žarskis]]
-- [[objektai/grupes/Baro konfederacija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
@@ -377,13 +346,10 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/ivykiai/Kražių įvykiai]]
 - [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
-- [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
-- [[objektai/ivykiai/LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
 - [[objektai/grupes/Leibgvardijos kazokų pulkas]]
 - [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]
-- [[objektai/posakiai/Leidžiama spausdinti, tik rusiškomis raidėmis]]
 - [[objektai/autoriai/Lelevelis]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
 - [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
@@ -440,11 +406,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/daiktai/Pistoletai-kulkosvaidžiai]]
 - [[objektai/asmenys/Povilas Lukšys]]
 - [[objektai/asmenys/Povilas Morkūnas-Rimantas]]
-- [[objektai/grupes/Pravoslavai]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/grupes/Pskovo muškietininkų pulkas]]
 - [[objektai/asmenys/Pukuveras (Lietuvos karalius)]]
-- [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
@@ -489,7 +453,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/autoriai/V. V. Antonovičius]]
 - [[objektai/asmenys/V. Vainauskas]]
 - [[objektai/autoriai/V. Zaikin]]
-- [[objektai/ivykiai/Valstiečių sukilimas Gintiliškių ir Salantų parapijose (1831 m.)]]
 - [[objektai/daiktai/Vienaragis (pabūklas)]]
 - [[objektai/asmenys/Vikintas]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
@@ -524,13 +487,12 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
 - [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]
-- [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/pralotas]]
 - [[objektai/zodynas/prancūzmetis]]
+- [[objektai/zodynas/pravoslavai]]
 - [[objektai/posakiai/prieš vėją nepapūs]]
 - [[objektai/zodynas/protežė]]
-- [[objektai/zodynas/rekrūtų pareiga rekrūtas]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/rusinimas dvikalbystė]]
 - [[objektai/zodynas/rusinimas rusinimo politika]]
@@ -541,7 +503,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/turi sekti kataliką, ar katalikę]]
 - [[objektai/zodynas/tuteišiai]]
 - [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/zodynas/činšininkas]]
 - [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
 - [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
 - [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
@@ -564,6 +525,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
@@ -576,8 +538,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
-- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
@@ -587,23 +548,24 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Aleksas Jefremovičius]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
 - [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Andrius Vingaudas]]
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/ivykiai/Antrasis valstybės padalijimas]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
 - [[objektai/grupes/Aukso orda]]
+- [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]
 - [[objektai/asmenys/Barkus]]
 - [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
-- [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
 - [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
 - [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]]
-- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
 - [[objektai/ivykiai/Briansko užėmimas ir Seversko žemės perėjimas į Maskvos pusę]]
+- [[objektai/daiktai/Bychovco kronikos rankraštis]]
 - [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
 - [[objektai/asmenys/Chariničius]]
 - [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
@@ -627,16 +589,13 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/asmenys/Ginvilas]]
 - [[objektai/ivykiai/Grafo Barbio kariuomenės sutriuškinimas ir pilių atėmimas iš kryžiuočių]]
 - [[objektai/daiktai/Graižtviniai šautuvai]]
 - [[objektai/asmenys/Grinevičius]]
-- [[objektai/grupes/Hanza]]
 - [[objektai/autoriai/Hartknoch Ch]]
-- [[objektai/autoriai/Henrikas]]
 - [[objektai/autoriai/Isaac Taylor]]
 - [[objektai/asmenys/Ivanas (Maskvos valdovas)]]
 - [[objektai/asmenys/Ivanas Jermoliničius]]
@@ -646,6 +605,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/ivykiai/Jogailos ir Sofijos santuoka (1421 m.)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
 - [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
@@ -674,7 +634,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
 - [[objektai/paprociai/Knygos ir spaudos branginimas nepriklausomoje Lietuvoje]]
-- [[objektai/grupes/Komjaunimas]]
 - [[objektai/asmenys/Konradas (Zemovito sūnus)]]
 - [[objektai/asmenys/Konradas Frankenbergas]]
 - [[objektai/asmenys/Kristupas II Radvila]]
@@ -689,13 +648,13 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Leonas]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
 - [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
+- [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]
 - [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/ivykiai/Lietuvių žygis į Kališo ir Seradzo žemes]]
 - [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
 - [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba]]
@@ -722,13 +681,13 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/paprociai/Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą|Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Mongolai]]
+- [[objektai/asmenys/Motiejus Strijkovskis]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Mstislavas Romanovičius]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/autoriai/Mykolas Kleopas Oginskis]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
-- [[objektai/ivykiai/Napoleono kariuomenės žygis į Lietuvą (1812 m.)]]
+- [[objektai/autoriai/N. Ulaščikas]]
 - [[objektai/ivykiai/Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas]]
 - [[objektai/asmenys/Nestanas]]
 - [[objektai/ivykiai/Nikolajaus II manifesto paskelbimas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų]]
@@ -740,15 +699,17 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/autoriai/P. Klimas]]
 - [[objektai/asmenys/P. Virgoličius]]
 - [[objektai/paprociai/Padėkos pamaldos už karinę pergalę]]
+- [[objektai/ivykiai/Parčevo seimas|Parčevo seimas (seimas, XV a.)]]
 - [[objektai/paprociai/Pasalos rengimas kelią užverčiant prikirstais medžiais]]
-- [[objektai/grupes/Petrapilio lietuvių choras]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
-- [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Pionierių organizacijos]]
 - [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
 - [[objektai/asmenys/Pisimantas]]
+- [[objektai/daiktai/Platesniojo sąvado nuorašai]]
+- [[objektai/grupes/Polocko kunigaikščiai]]
 - [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]
+- [[objektai/grupes/Poloviečiai]]
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Pranciškus Ferdinandas]]
@@ -771,6 +732,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]
 - [[objektai/grupes/Seversko kunigaikščiai]]
 - [[objektai/asmenys/Skirmantas]]
+- [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
 - [[objektai/grupes/Slavofilai]]
@@ -780,18 +742,18 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
 - [[objektai/asmenys/Stanislovas Strumila Petravičius]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą]]
 - [[objektai/ivykiai/Sukilimo pradžia Žemaitijoje ir išplitimas Lietuvoje]]
-- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
 - [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/asmenys/Tadas Kosciuška]]
-- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
 - [[objektai/paprociai/Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis]]
 - [[objektai/zodynas/Tautinės mažumos]]
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/ivykiai/Tautvilos krikštas Rygoje|Tautvilos krikštas Rygoje (krikštas)]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/asmenys/Tochtamyšas]]
@@ -804,8 +766,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/asmenys/Vaižgantas]]
 - [[objektai/posakiai/Vakkis Ahridlis]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
 - [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]
+- [[objektai/posakiai/Verbų sekmadieni]]
 - [[objektai/posakiai/Verčiau pasiduodant išsaugoti šiokią tokią valstybę]]
 - [[objektai/paprociai/Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti]]
 - [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
@@ -821,9 +783,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/grupes/Vokiečių ir rusų pirkliai]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
+- [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline]]
 - [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę]]
 - [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]
 - [[objektai/asmenys/Zemovitas]]
@@ -835,7 +799,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/grupes/asis šaulių pulko batalionas]]
 - [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
 - [[objektai/zodynas/baskakas]]
-- [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/cesija ir decesija]]
 - [[objektai/zodynas/daraktorinės mokyklėlės]]
@@ -844,26 +807,29 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/zodynas/etnografinė siena]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/graikų schizma]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/kirilika]]
 - [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
 - [[objektai/zodynas/lenkų pradų naikinimo politika istorinio pirmumo teisė]]
 - [[objektai/zodynas/liaudies demokratija]]
 - [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/zodynas/margutis]]
+- [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/metropolitas metropolija]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/grupes/oji rezervo divizija]]
-- [[objektai/zodynas/pravoslavai]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
+- [[objektai/zodynas/rusų tikėjimas]]
 - [[objektai/posakiai/sobiratel’ russkich žemeli]]
 - [[objektai/zodynas/stabmeldžių apeigos]]
 - [[objektai/zodynas/svečiai Svečių namai]]
+- [[objektai/zodynas/sąvadas]]
+- [[objektai/zodynas/transkripcija]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]
+- [[objektai/grupes/Černigovo kunigaikštystė]]
 - [[objektai/zodynas/čiornai čiornyje liūdi]]
 - [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
 - [[objektai/asmenys/Šach Achmedas]]
@@ -890,7 +856,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
 - [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/asmenys/Germantas]]
+- [[objektai/grupes/Jotvingiai]]
 - [[objektai/ivykiai/Lietuvių ir rusų žygis į Mazoviją (1262 m.)]]
 - [[objektai/grupes/NKGB]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/posakiai/Vieno smūgio bereikią]]
+- [[objektai/zodynas/dvarionis]]
+- [[objektai/zodynas/dvarionys]]
+- [[objektai/zodynas/konfederacija]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam gyvenimui korektyvomis“, kurios galutinę struktūrą.
+Vilniaus konferencijos pagrindinė rezoliucija leido tikslinti santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams. Vilniaus konferencijoje dominavo kunigai, valstiečiai ir inteligentai: atitinkamai 66, 65 ir 59 dalyviai.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 <a id="claim-t-75535"></a>
 - t-002
   global_id: t-75535
-  teiginys: 'Konferencijoje dominavo kunigai – 66, valstiečiai – 65 ir inteligentai – 59.'
+  teiginys: 'Vilniaus konferencijoje dominavo kunigai, valstiečiai ir inteligentai: atitinkamai 66, 65 ir 59 dalyviai.'
   pagrindžia:
     - c-001
 

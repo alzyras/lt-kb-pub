@@ -107,6 +107,7 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Saladinas]]
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
 - [[objektai/asmenys/Geremferdenas]]

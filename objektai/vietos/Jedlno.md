@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasakyta, kad valdovus renka viena pusė su žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios ir pritarimo.
+Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.
 
 ## Teiginiai
 
 <a id="claim-t-36255"></a>
 - t-001
   global_id: t-36255
-  teiginys: 'Jedlnos nutarimais lenkai išsirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.'
+  teiginys: 'Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­

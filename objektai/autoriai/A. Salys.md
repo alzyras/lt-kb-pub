@@ -11,19 +11,19 @@ date_start: '1930'
 date_end: '1955'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
-  - upė
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
+  - upė
 ---
 # A. Salys
 
 ## Santrauka
 
-A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žemaičių tarmių istorija, baltų kalbų apžvalga ir baltų santykių su slavų bei germanų kalbomis tyrimu. Dabartinis šaltinis jį papildomai mini tarp žurnalo „Kalba“ straipsnių autorių.
+Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais. A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu. A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.
 
 ## Darbai
 
@@ -33,7 +33,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - straipsniai žurnale „Kalba"
 
 ## Teiginiai
-
 <a id="claim-t-12236"></a>
 - t-001
   global_id: t-12236
@@ -51,7 +50,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 <a id="claim-t-64514"></a>
 - t-003
   global_id: t-64514
-  teiginys: 'A. Salys parašė Die Beziehungen des Baltischen zum Slavischen und Germanischen.'
+  teiginys: 'A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.'
   pagrindžia:
     - c-004
 
@@ -77,7 +76,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -90,7 +88,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -107,7 +104,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -120,8 +116,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-004
+  santrauka: 'A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —Salys, A. : _Baltic Languages,_
@@ -134,7 +130,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   santrauka: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -148,7 +143,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

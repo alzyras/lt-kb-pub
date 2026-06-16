@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė eiti prieš Vytautą, nes, ma­ tyt, nenorėjo pagadinti tų santykių, kurie buvo tarp Vytauto ir Hanzai priklausančio Dorpato, kad tuo pačiu nepakenktų savo prekybiniams interesams šiaurėje.
+Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje. Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos. Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 <a id="claim-t-184943"></a>
 - t-004
   global_id: t-184943
-  teiginys: 'Maskvėnai apiplėšė Dorpatą ir išsivarė į nelaisvę Dorpato vyskupą bei dvasininkų kolegiją.'
+  teiginys: 'Apiplėšę Dorpatą, maskvėnai išsivarė į nelaisvę Dorpato vyskupą ir visą dvasininkų kolegiją.'
   pagrindžia:
     - c-004
 
@@ -105,7 +105,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
     - t-003
 
 - c-004
-  santrauka: 'Maskvėnai apiplėšė Dorpatą ir išsivarė į nelaisvę Dorpato vyskupą bei dvasininkų kolegiją.'
+  santrauka: 'Apiplėšę Dorpatą, maskvėnai išsivarė į nelaisvę Dorpato vyskupą ir visą dvasininkų kolegiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viljandyje į priešų rankas pakliuvo pats magistras Fiur-

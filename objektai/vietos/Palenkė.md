@@ -29,14 +29,14 @@ amziai:
 
 ## Santrauka
 
-Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny. Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.
+Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje. Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje. Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.
 
 ## Teiginiai
 
 <a id="claim-t-112042"></a>
 - t-001
   global_id: t-112042
-  teiginys: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
+  teiginys: 'Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.'
   pagrindžia:
     - c-001
 
@@ -45,151 +45,138 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   global_id: t-112043
   teiginys: 'Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje.'
   pagrindžia:
-    - c-007
-
-<a id="claim-t-112044"></a>
-- t-003
-  global_id: t-112044
-  teiginys: 'Vytenis atgavo didžiąją dalį Palenkės ir prie Lietuvos prijungė Drohičiną bei Brastą.'
-  pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-112045"></a>
-- t-004
+- t-003
   global_id: t-112045
   teiginys: 'Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.'
   pagrindžia:
-    - c-010
+    - c-007
 
 <a id="claim-t-112046"></a>
-- t-005
+- t-004
   global_id: t-112046
   teiginys: 'Kazimiero laikais Palenkė buvo tarp tankiau gyvenamų Lietuvos sričių kartu su tikrąja Lietuva, Voluine ir Podolės Braclavo sritimi.'
   pagrindžia:
-    - c-007
+    - c-004
 
 <a id="claim-t-112047"></a>
-- t-006
+- t-005
   global_id: t-112047
   teiginys: 'Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.'
   pagrindžia:
-    - c-009
+    - c-006
 
 <a id="claim-t-112048"></a>
-- t-007
+- t-006
   global_id: t-112048
   teiginys: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-112049"></a>
-- t-008
-  global_id: t-112049
-  teiginys: 'Palenkėje, Lenkijos kaimynijoje, pirmiausia buvo įvesti kaimai su trilaukiais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-112050"></a>
-- t-009
+- t-007
   global_id: t-112050
   teiginys: 'Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje.'
   pagrindžia:
-    - c-010
+    - c-007
 
 <a id="claim-t-112051"></a>
-- t-010
+- t-008
   global_id: t-112051
   teiginys: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke.'
   pagrindžia:
-    - c-011
+    - c-008
 
 <a id="claim-t-112052"></a>
-- t-011
+- t-009
   global_id: t-112052
   teiginys: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.'
   pagrindžia:
-    - c-013
-
-<a id="claim-t-112053"></a>
-- t-012
-  global_id: t-112053
-  teiginys: 'Gediminas glaudžiai sujungė su savo valstybe Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis.'
-  pagrindžia:
-    - c-006
+    - c-010
 
 <a id="claim-t-112054"></a>
-- t-013
+- t-010
   global_id: t-112054
   teiginys: 'Trakų kunigaikštija, Gardino ir Palenkės sritys sudarė Kęstučio valdytą vakarinę valstybės dalį.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-112055"></a>
-- t-014
+- t-011
   global_id: t-112055
   teiginys: 'Vytauto laikais Palenkėje, Melnyke ir galbūt Brastoje, imta statyti pilis rusėniškose LDK žemėse.'
   pagrindžia:
-    - c-009
+    - c-006
 
 <a id="claim-t-112056"></a>
-- t-015
+- t-012
   global_id: t-112056
-  teiginys: 'Sudėtingai klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį.'
+  teiginys: 'Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį.'
   pagrindžia:
-    - c-014
+    - c-011
 
 <a id="claim-t-112057"></a>
-- t-016
+- t-013
   global_id: t-112057
   teiginys: 'Palenkėje tarp vietos žmonių sklido padavimas, kad senovėje iš ten eidavo į Vilnių kalnų kasti.'
   pagrindžia:
-    - c-012
+    - c-009
 
 <a id="claim-t-112058"></a>
-- t-017
+- t-014
   global_id: t-112058
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.'
   pagrindžia:
-    - c-008
+    - c-005
 
 <a id="claim-t-112059"></a>
-- t-018
+- t-015
   global_id: t-112059
   teiginys: 'Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-112060"></a>
-- t-019
+- t-016
   global_id: t-112060
   teiginys: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas.'
   pagrindžia:
-    - c-008
+    - c-005
+
+<a id="claim-t-183066"></a>
+- t-017
+  global_id: t-183066
+  teiginys: 'Jogailos ir Kęstučio pasirašytoje sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.'
+  pagrindžia:
+    - c-012
 
 <a id="claim-t-185079"></a>
-- t-021
+- t-018
   global_id: t-185079
   teiginys: 'Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.'
   pagrindžia:
-    - c-016
+    - c-013
 
 <a id="claim-t-185080"></a>
-- t-022
+- t-019
   global_id: t-185080
   teiginys: 'Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.'
   pagrindžia:
-    - c-017
+    - c-014
 
 <a id="claim-t-185081"></a>
-- t-023
+- t-020
   global_id: t-185081
   teiginys: 'Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.'
   pagrindžia:
-    - c-018
+    - c-015
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Trakuose buvo padarytos 10 metų paliaubos.
@@ -203,21 +190,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - t-001
 
 - c-002
-  santrauka: 'Palenkėje, Lenkijos kaimynijoje, pirmiausia buvo įvesti kaimai su trilaukiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toksai ūkis turėjo įtakos ir Lietuvai. Pirmiausia tokie
-    kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Pa-
-    lenkėje. Tuo tarpu visose kitose Lietuvos srityse vyravo kito-
-    niškas ūkis. Čia valstiečiai gyveno po vieną ar po kelis; prasi-
-    dirbdavo žemės kur giriose ir sėdavo, kaip įmanydavo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kęstutaitis iš pusbrolio
@@ -229,9 +201,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas valdančiosios giminės kunigaikštis turėjo savo
@@ -243,47 +215,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
-    - t-018
+    - t-010
+    - t-015
 
-- c-005
-  santrauka: 'Vytenis atgavo didžiąją dalį Palenkės ir prie Lietuvos prijungė Drohičiną bei Brastą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Senasis
-    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
-    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
-    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip
-    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
-    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
-    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
-    ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
-    paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-006
-  santrauka: 'Gediminas glaudžiai sujungė su savo valstybe Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ir čia Lietuvos sienos jau Vytenio lai-
-    kais buvo nukeltos toli nuo lietuviškojo krašto. Tačiau kai ku-
-    rios sritys Vytenio laikais dar nebuvo visiškai prijungtos: jos
-    tebuvo tiktai pasidavusios Lietuvos įtakai. Gediminas čia glau-
-    džiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pa-
-    girį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės,
-    prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais
-    miestais ir paėmė į savo įtaką tolimąjį Kijevą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-007
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip Vy-
@@ -296,10 +231,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
     - t-002
 
-- c-008
+- c-005
   santrauka: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -313,10 +248,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
-    - t-017
+    - t-016
+    - t-014
 
-- c-009
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
@@ -331,10 +266,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-014
+    - t-005
+    - t-011
 
-- c-010
+- c-007
   santrauka: 'Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -361,10 +296,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-009
+    - t-003
+    - t-007
 
-- c-011
+- c-008
   santrauka: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -374,9 +309,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
-- c-012
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, statydindamas pilį
@@ -401,9 +336,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-013
 
-- c-013
+- c-010
   santrauka: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -415,9 +350,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009
 
-- c-014
+- c-011
+  santrauka: 'Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rūpesčių ir toliau kėlė Ordino livoniškoji atšaka,
@@ -428,10 +364,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-012
 
-- c-015
-  santrauka: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
+- c-012
+  santrauka: 'Jogailos ir Kęstučio pasirašytoje sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jas pasirašė Jogaila ir Kęstutis. Sutartyje ordinas pasižadėjo ne-
@@ -442,9 +378,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-017
 
-- c-016
+- c-013
   santrauka: 'Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -465,9 +401,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-018
 
-- c-017
+- c-014
   santrauka: 'Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -500,9 +436,9 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-019
 
-- c-018
+- c-015
   santrauka: 'Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -523,4 +459,4 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-020

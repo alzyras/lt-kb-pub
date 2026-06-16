@@ -62,6 +62,7 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jaroslavas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]

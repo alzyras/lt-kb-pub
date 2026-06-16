@@ -10,11 +10,11 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Taučiūnai
 
@@ -23,7 +23,6 @@ amziai:
 Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 
 ## Teiginiai
-
 <a id="claim-t-172013"></a>
 - t-001
   global_id: t-172013
@@ -39,7 +38,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -55,7 +53,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

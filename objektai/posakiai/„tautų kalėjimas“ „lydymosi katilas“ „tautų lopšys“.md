@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
+LDK į istoriją įėjo ne kaip „tautų kalėjimas“ ar „lydymosi katilas“, o kaip „tautų lopšys“. LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 <a id="claim-t-183511"></a>
 - t-002
   global_id: t-183511
-  teiginys: 'Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.'
+  teiginys: 'LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.'
   pagrindžia:
     - c-001
 
@@ -54,3 +54,5 @@ Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų atmini
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Ukrainiečiai]]

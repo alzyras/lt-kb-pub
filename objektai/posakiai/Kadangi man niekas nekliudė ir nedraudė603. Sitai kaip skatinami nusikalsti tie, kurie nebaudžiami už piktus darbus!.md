@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek daug ir šitokių baisių piktadarysčių esąs pridaręs, jis atsakė: „Kadangi man niekas nekliudė ir nedraudė603.
+Sugautas vyras savo piktadarybes aiškino tuo, kad niekas jam nekliudė ir nedraudė. Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
 <a id="claim-t-89594"></a>
 - t-002
   global_id: t-89594
-  teiginys: 'Karvedys Henrikas pilyje grobė ir žiauriai kankino dvasininkus, pasauliečius, vienuolius ir kitus pro šalį ėjusius žmones.'
+  teiginys: 'Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
     - t-001
 
 - c-002
-  santrauka: 'Karvedys Henrikas pilyje grobė ir žiauriai kankino dvasininkus, pasauliečius, vienuolius ir kitus pro šalį ėjusius žmones.'
+  santrauka: 'Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pastarojoje pilyje buvo karvedys, vardu Henrikas, karys, lengva širdimi grobęs

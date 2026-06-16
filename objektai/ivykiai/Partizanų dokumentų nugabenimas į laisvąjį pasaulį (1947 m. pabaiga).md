@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų. Pirmą kartą užmegzti ryšiai tarp partizanų ir į Vakarus pasitraukusių lietuvių ir jų organizacijų, Vakarai gavo tikrų žinių apie sovietų okupuotoje Lietuvoje susiklosčiusią situaciją ir partizanines kovas, tačiau lietuvių ginkluotos kovos neparėmė, grupę.
+1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus. 1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.
 
 ## Laikotarpis ir datos
 
@@ -48,15 +48,8 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-75256"></a>
-- t-002
-  global_id: t-75256
-  teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius iš užverbuotų buvusių partizanų ir MGB karininkų.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-75257"></a>
-- t-003
+- t-002
   global_id: t-75257
   teiginys: '1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.'
   pagrindžia:
@@ -84,7 +77,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 - c-002
   santrauka: '1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.'
@@ -108,7 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-1261 m. balandžio 27 d. Livonijos ordino vicemagistras maldavo pagalbos iš Liubeko miesto, skųsdamasis, jog ordinas turėjęs daug nuostolių arkliais, ginklais ir kitokiomis gėrybėmis^174.
+1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus. Iš Liubeko ir kitų Hanzos miestų į Vilnių atvykę amatininkai kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto sluoksniu. Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise.
 
 ## Teiginiai
 
@@ -61,7 +61,7 @@ amziai:
 <a id="claim-t-175382"></a>
 - t-005
   global_id: t-175382
-  teiginys: 'Rygiečiai Hanzos sąjungoje, Liubeke ir Rostoke, skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
+  teiginys: 'Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   pagrindžia:
     - c-007
 
@@ -247,7 +247,7 @@ amziai:
     - t-011
 
 - c-007
-  santrauka: 'Rygiečiai Hanzos sąjungoje, Liubeke ir Rostoke, skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
+  santrauka: 'Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras

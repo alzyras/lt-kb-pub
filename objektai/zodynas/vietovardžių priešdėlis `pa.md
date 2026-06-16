@@ -55,5 +55,4 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]

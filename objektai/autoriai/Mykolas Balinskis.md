@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Vilniaus miesto istorija“, pirmą kartą lietuviškai išleista 2007 m. Jo darbai apėmė Vilniaus akademijos istoriją, „Senovės Lenkiją“, biografijas, istorinius leidinius ir publicistiką. „Vilniaus miesto istorijos“ rengimas rėmėsi kronikomis, archyviniais rankraščiais, dokumentų paieška ir pagalbininkų teikta medžiaga.
+Balinskis paliko istorinių darbų ir apybraižų, tarp jų „Vilniaus akademijos istoriją“ ir su Tadu Lipinskiu parengtą „Senovės Lenkiją“. Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės. Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą.
 
 ## Laikotarpis ir datos
 
@@ -57,7 +57,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 <a id="claim-t-55011"></a>
 - t-002
   global_id: t-55011
-  teiginys: 'M. Balinskis apibūdinamas kaip kruopštus istorikas, vengęs rašyti be faktografinės bazės.'
+  teiginys: 'Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.'
   pagrindžia:
     - c-004
 
@@ -162,7 +162,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-003
 
 - c-004
-  santrauka: 'M. Balinskis apibūdinamas kaip kruopštus istorikas, vengęs rašyti be faktografinės bazės.'
+  santrauka: 'Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gimęs Lenkijos-Lie­
@@ -302,9 +302,8 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/ivykiai/1863 m. sukilimas]]
 - [[objektai/ivykiai/Aleksandro II reformų pradžia]]
 - [[objektai/ivykiai/Antrasis valstybės padalijimas]]

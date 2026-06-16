@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1561 m. Livonijos konfederacija nustojo egziscS <cremoss:® 2 tuoti. Tokie kardai kilo iš Vengrijos, kur jie formavosi turkų Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
+Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis. 1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai. Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ amziai:
 <a id="claim-t-78385"></a>
 - t-003
   global_id: t-78385
-  teiginys: 'Steponas Batoras ir Mikalojus Radvila Rudasis siekė atkirsti Livoniją nuo Rusijos ir perkelti karo veiksmus.'
+  teiginys: 'Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.'
   pagrindžia:
     - c-002
 

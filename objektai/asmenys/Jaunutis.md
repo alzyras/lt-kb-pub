@@ -12,23 +12,22 @@ date_start: '1345'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - ordinas
-  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - ordinas
+  - valdovas
 ---
 # Jaunutis (valdovas, XIV a.)
 
 ## Santrauka
 
-Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie tėvų Vilniuje. Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).
+Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto. Jaunutis iš Vilniaus buvo išvytas jėga. Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 
 ## Teiginiai
-
 <a id="claim-t-176435"></a>
 - t-001
   global_id: t-176435
@@ -50,13 +49,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   pagrindžia:
     - c-004
 
-<a id="claim-t-176439"></a>
-- t-004
-  global_id: t-176439
-  teiginys: 'Jaunutis nebuvo gavęs jokios srities, gyveno prie tėvų Vilniuje, o tėvui mirus tapo Vilniaus ir gretimų sričių valdovu.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-184715"></a>
 - t-005
   global_id: t-184715
@@ -70,9 +62,14 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   teiginys: 'Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -85,20 +82,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
-    bartas. Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
-    jokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis
-    automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-003
   santrauka: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,7 +101,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -142,7 +124,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   santrauka: 'Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -165,7 +146,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: 'Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -188,6 +168,21 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   statusas: verified
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
+    bartas. Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
+    jokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis
+    automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -201,4 +196,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
 - [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/asmenys/Gediminas]]

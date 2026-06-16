@@ -99,7 +99,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Numa]]

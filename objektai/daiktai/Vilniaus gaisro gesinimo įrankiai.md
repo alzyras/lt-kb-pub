@@ -86,4 +86,5 @@ Nenurodyta
 - [[objektai/autoriai/Z. Raulinaitis]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/daiktai/Laivo pavidalo akmens kirviai]]
+- [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas|Smolensko prastųjų žmonių sukilimas (sukilimas)]]
 - [[objektai/daiktai/Ūkio įrankiai]]

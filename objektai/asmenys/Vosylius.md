@@ -9,13 +9,13 @@ date_start: '1425'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
 ---
 # Vosylius
 
@@ -24,7 +24,6 @@ periodo_grupes:
 Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija. Vosylius jau buvo tapęs kunigaikščiu ir norėjo vesti savo sužadėtinę, Vytauto dukterį Sofiją.
 
 ## Teiginiai
-
 <a id="claim-t-51190"></a>
 - t-001
   global_id: t-51190
@@ -47,7 +46,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -66,7 +64,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   pagrindžia:
     - t-002
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -91,12 +88,11 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/grupes/Krimo totoriai]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Vosylius I]]
 - [[objektai/zodynas/regencija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/asmenys/Vosylius II]]

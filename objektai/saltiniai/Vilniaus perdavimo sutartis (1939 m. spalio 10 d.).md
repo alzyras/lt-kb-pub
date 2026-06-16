@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.
+Vilniaus perdavimo sutarties straipsniai potencialiai grėsė Lietuvos nepriklausomybei. 1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
 <a id="claim-t-183387"></a>
 - t-002
   global_id: t-183387
-  teiginys: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis.'
+  teiginys: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
     - t-001
 
 - c-002
-  santrauka: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis.'
+  santrauka: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija

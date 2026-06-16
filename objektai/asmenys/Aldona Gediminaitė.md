@@ -14,21 +14,20 @@ date_start: '1325'
 date_end: '1326'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
 ---
 # Aldona Gediminaitė
 
 ## Santrauka
 
-Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ištekėjusi už Kazimiero ir vėliau vadinta Lenkijos karaliene.
+Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi. 1339 m. mirė Lenkijos karalienė Aldona Gediminaitė. 1325 m. Aldona-Ona buvo ištekinta už Kazimiero.
 
 ## Teiginiai
-
 <a id="claim-t-05154"></a>
 - t-001
   global_id: t-05154
@@ -48,7 +47,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   global_id: t-97302
   teiginys: '1325 m. Aldona-Ona buvo ištekinta už Kazimiero.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-97303"></a>
 - t-004
@@ -67,54 +66,39 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 <a id="claim-t-97305"></a>
 - t-006
   global_id: t-97305
-  teiginys: 'Gedimino duktė Aldona 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero.'
+  teiginys: 'Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-97306"></a>
-- t-007
-  global_id: t-97306
-  teiginys: 'Aldona Gediminaitė buvo Gedimino dukra ir ištekėjo už Lokietkos sūnaus Kazimiero.'
-  pagrindžia:
-    - c-004
+    - c-005
 
 <a id="claim-t-97308"></a>
-- t-008
+- t-007
   global_id: t-97308
   teiginys: '1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-97309"></a>
-- t-009
+- t-008
   global_id: t-97309
   teiginys: 'Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-97311"></a>
-- t-010
+- t-009
   global_id: t-97311
   teiginys: 'Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-97312"></a>
-- t-011
-  global_id: t-97312
-  teiginys: '1325 m. Gediminas išleido dukterį Aldoną už Vladislovo Lokietkos sūnaus Kazimiero Didžiojo.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-97313"></a>
-- t-012
+- t-010
   global_id: t-97313
   teiginys: '1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -131,8 +115,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   statusas: verified
   pagrindžia:
     - t-001
-    - t-012
-
+    - t-010
 - c-002
   santrauka: '1339 m. mirė Lenkijos karalienė Aldona Gediminaitė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -147,7 +130,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -160,35 +142,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
-  santrauka: '1325 m. Gediminas išleido dukterį Aldoną už Vladislovo Lokietkos sūnaus Kazimiero Didžiojo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tą numanydamas, Gediminas ir ruošėsi karui. Ieš-
-    kovodamas sąjungi-
-    ninkų prieš ordiną, jis
-    susiartino ir sudarė są-
-    jungą su Lenkijos
-    karalium Vladis-
-    lovu Lokietką, karia-
-    vusiu su ordinu dėl
-    lenkiškojo Pamario.
-    Sutartis buvo sudaryta
-    1325 m.; kad ji būtų
-    tvirtesnė, Gediminas
-    išleido už Vladislovo
-    sūnaus, būsimojo Len-
-    kijos karaliaus Kazi-
-    miero Didžiojo, savo
-    dukterį Aldoną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-005
   santrauka: 'Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -209,10 +163,9 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
-
-- c-006
-  santrauka: 'Gedimino duktė Aldona 1325 m. buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero.'
+    - t-009
+- c-005
+  santrauka: 'Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neumark, dab. Nowe Miasto
@@ -224,8 +177,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-007
+- c-006
   santrauka: '1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -243,7 +195,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
     - t-003
 
 ## Ryšiai

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
+1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę. 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes.
 
 ## Laikotarpis ir datos
 
@@ -44,43 +44,20 @@ Nenurodyta
 <a id="claim-t-75140"></a>
 - t-001
   global_id: t-75140
-  teiginys: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, stebėjusi Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
+  teiginys: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-75141"></a>
 - t-002
   global_id: t-75141
-  teiginys: 'Andrejaus Sacharovo iniciatyva SSRS kūrėsi grupės, stebėjusios Helsinkio Baigiamojo akto įgyvendinimą ir žmogaus teisių pažeidimus.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-75142"></a>
-- t-003
-  global_id: t-75142
-  teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
+  teiginys: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Grupei priklausė kun. Karolis Garuckas, fizi-
-    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
-    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
-    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
-    tinėmis grupėmis. Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
-    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
-    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: '1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, stebėjusi Helsinkio Baigiamojo akto nuostatų įgyvendinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -106,21 +83,6 @@ Nenurodyta
     - t-001
     - t-002
 
-- c-003
-  santrauka: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
-    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
-    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje. Taip
-    demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
-    dimus SSRS.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
@@ -128,9 +90,7 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/asmenys/Jurijus]]
 - [[objektai/asmenys/Karolis]]
-- [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Tomas Venclova]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

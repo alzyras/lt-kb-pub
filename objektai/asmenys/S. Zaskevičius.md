@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi.
+Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno. Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi. Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 <a id="claim-t-40416"></a>
 - t-003
   global_id: t-40416
-  teiginys: 'Karin. S. Zaskevičius, tuometinis krašto apsaugos viceministras, ėmėsi vadovauti operacijai pavojui neutralizuoti.'
+  teiginys: 'Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų.'
   pagrindžia:
     - c-002
 
@@ -55,6 +55,7 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     - t-002
 
 - c-002
+  santrauka: 'Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     bus ruožas buvo silpnai pridengtas.

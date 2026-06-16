@@ -45,6 +45,7 @@ atnaujinta: ''
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]

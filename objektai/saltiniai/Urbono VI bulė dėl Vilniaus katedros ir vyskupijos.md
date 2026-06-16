@@ -23,14 +23,14 @@ amziai:
 
 ## Santrauka
 
-Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą. Tačiau Vilniaus diecezijos senųjų turto doVilnensis.
+Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m. 1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę.
 
 ## Teiginiai
 
 <a id="claim-t-88343"></a>
 - t-001
   global_id: t-88343
-  teiginys: 'Tačiau Vilniaus diecezijos senųjų turto doVilnensis.'
+  teiginys: 'Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
     - t-002
 
 - c-002
+  santrauka: 'Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau

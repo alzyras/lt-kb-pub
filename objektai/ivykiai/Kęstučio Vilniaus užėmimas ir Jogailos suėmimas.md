@@ -1,0 +1,167 @@
+---
+tipas: 'ivykis'
+pavadinimas: 'Kęstučio Vilniaus užėmimas ir Jogailos suėmimas'
+sukurta: '2026-06-16'
+variantai:
+  - 'Kęstučio žygis į Vilnių prieš Jogailą'
+  - 'Jogailos paėmimas į nelaisvę Vilniuje'
+aliases: []
+saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+bukle: 'juodrastis'
+laikotarpis: 'po Algirdo mirties, Jogailos valdymo pradžioje'
+datos:
+  - 'po Algirdo mirties, Jogailos valdymo pradžioje'
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: ''
+atnaujinta: '2026-06-16'
+tags: []
+---
+# Kęstučio Vilniaus užėmimas ir Jogailos suėmimas
+
+## Santrauka
+
+Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais. Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę.
+
+## Laikotarpis ir datos
+
+- laikotarpis: po Algirdo mirties, Jogailos valdymo pradžioje
+- datos:
+  - po Algirdo mirties, Jogailos valdymo pradžioje
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+<a id="claim-t-186668"></a>
+- t-001
+  global_id: t-186668
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais.'
+  pagrindžia:
+    - c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
+<a id="claim-t-186669"></a>
+- t-002
+  global_id: t-186669
+  teiginys: 'Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę.'
+  pagrindžia:
+    - c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
+<a id="claim-t-186670"></a>
+- t-003
+  global_id: t-186670
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną.'
+  pagrindžia:
+    - c-001
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
+<a id="claim-t-186671"></a>
+- t-004
+  global_id: t-186671
+  teiginys: 'Lietuvos metraštis pasakoja, kad Kęstutis nenorėjo išvyti savo giminės ir grąžino Jogailai jo tėvo dalį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
+<a id="claim-t-186672"></a>
+- t-005
+  global_id: t-186672
+  teiginys: 'Lietuvos metraštis pasakoja, kad Jogaila prisiekė ištikimybę Kęstučiui ir pažadėjo Vilniaus nebereikalauti.'
+  pagrindžia:
+    - c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
+<a id="claim-t-186673"></a>
+- t-006
+  global_id: t-186673
+  teiginys: 'Lietuvos metraštis pasakoja, kad Jogaila po to pažado nesilaikė ir vėl užėmė Vilnių.'
+  pagrindžia:
+    - c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Mūsų tėvas šito padaryti, atimti iš jo
+    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
+    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
+    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
+    jo priprato žmonės.
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
+    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
+    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
+    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
+    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+    - t-003
+- c-002
+  santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis nenorėjo išvyti savo giminės ir grąžino Jogailai jo tėvo dalį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske. Ir po to tačiau tiesos nesilaikė ir užėmė Vil­
+    nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
+    žygyje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+    - t-005
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/metraštis]]
+- [[objektai/zodynas/žirgynas]]

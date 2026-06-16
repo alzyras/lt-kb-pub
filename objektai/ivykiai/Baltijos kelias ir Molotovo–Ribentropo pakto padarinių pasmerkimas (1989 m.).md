@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam Molotovo–Ribentropo paktui. LPS staigus populiarumas ir masiškumas (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.
+LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą. 1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-26364"></a>
 - t-001
   global_id: t-26364
-  teiginys: 'LSSR Aukščiausiosios Tarybos komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
+  teiginys: 'LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą.'
   pagrindžia:
     - c-002
 
@@ -86,6 +86,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS reika-

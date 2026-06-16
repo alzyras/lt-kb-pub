@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Čia pat medinė šventykla, prie kurios šliejosi pagonių vaidilų būstai. Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės. 3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.
+Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai. Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes. Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.
 
 ## Teiginiai
 
@@ -42,14 +42,14 @@ amziai:
 <a id="claim-t-86496"></a>
 - t-003
   global_id: t-86496
-  teiginys: 'Prie Kreivosios pilies stovėjo apvalus mūrinis bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
+  teiginys: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prie Kreivosios pilies stovėjo apvalus mūrinis bokštas su langu, pro kurį žyniai ir pranašai skelbdavo pranašystes žmonėms.'
+  santrauka: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,

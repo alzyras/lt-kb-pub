@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdžios politikai, reikalauti tikintiesiems ir bažnyčiai konstitucinių teisių. Jau pirmame jos numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,.
+1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“. Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas. „Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-75313"></a>
 - t-003
   global_id: t-75313
-  teiginys: 'Vakarų radijo stotims „Kronika“ tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.'
+  teiginys: '„Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '„Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vakarų radijo stotims „Kronika“ tapo pagrindiniu

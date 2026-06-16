@@ -10,13 +10,13 @@ date_start: '1351'
 date_end: '1382'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - ordinas
 ---
 # Vinrichas von Kniprodė
 
@@ -25,7 +25,6 @@ periodo_grupes:
 Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 
 ## Teiginiai
-
 <a id="claim-t-117889"></a>
 - t-001
   global_id: t-117889
@@ -48,7 +47,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -63,7 +61,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -86,7 +83,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -96,6 +96,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Konradas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/ginklanešiai]]

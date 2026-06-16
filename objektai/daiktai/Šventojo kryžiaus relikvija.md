@@ -76,5 +76,6 @@ Nenurodyta
 - [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]

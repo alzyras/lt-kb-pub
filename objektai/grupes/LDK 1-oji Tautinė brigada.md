@@ -55,6 +55,5 @@ Pirmoji kovų fazė: Vilniaus išvadavimas 1794 m. balandžio 16 d. Šiauliuose 
 ### Susiję objektai
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
 - [[objektai/grupes/brigada]]
-- [[objektai/asmenys/Bogdanas Knorringas]]
 - [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]
 - [[objektai/zodynas/husarai]]

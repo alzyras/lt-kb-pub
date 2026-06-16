@@ -15,34 +15,29 @@ tags:
 
 ## Santrauka
 
-Šita politika buvo vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija. Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.
+Egzekucija buvo vadinama įstatymų vykdymo politika. Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.
 
 ## Teiginiai
-
 <a id="claim-t-02983"></a>
 - t-001
   global_id: t-02983
   teiginys: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-02984"></a>
 - t-002
   global_id: t-02984
   teiginys: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-182943"></a>
-- t-003
-  global_id: t-182943
-  teiginys: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma vadinamoji egzekucija.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu Lenkų valstybė stengėsi susigrąžinti sau visus bajo-
@@ -52,13 +47,15 @@ tags:
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
+  santrauka: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šita politika buvo
@@ -69,40 +66,24 @@ tags:
     Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
     lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
     sianti vykdoma vadinamoji egzekucija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-- c-003
-  santrauka: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma vadinamoji egzekucija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
-    ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
-    atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-    Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
-    lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
-    sianti vykdoma vadinamoji egzekucija.
-    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/asmenys/A. Suvorovas]]
-- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
 - [[objektai/asmenys/Ignotas Masalskis]]
 - [[objektai/grupes/Jakobinų klubas]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]

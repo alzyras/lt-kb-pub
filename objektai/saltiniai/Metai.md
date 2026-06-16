@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-„Metai“ apibūdinami kaip Kristijono Donelaičio poema ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje. Kūrinys datuojamas apie 1750 m.
+1818 m. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą. Kristijono Donelaičio poema „Metai“ apibūdinama kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys Mažojoje Lietuvoje. Karaliaučiuje Liudvikas Rėza išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.
 
 ## Bibliografiniai duomenys
 
@@ -59,7 +59,7 @@ amziai:
 <a id="claim-t-45743"></a>
 - t-005
   global_id: t-45743
-  teiginys: 'Kristijono Donelaičio poema „Metai“ apie 1750 m. iškilo Mažojoje Lietuvoje kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.'
+  teiginys: 'Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.'
   pagrindžia:
     - c-001
 

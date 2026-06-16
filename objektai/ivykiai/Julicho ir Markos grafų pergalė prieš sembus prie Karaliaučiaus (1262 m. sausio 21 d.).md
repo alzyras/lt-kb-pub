@@ -145,6 +145,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Engelbertas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/zodynas/maldininkai]]

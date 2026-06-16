@@ -45,4 +45,5 @@ Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo l
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/Žemaičiai]]

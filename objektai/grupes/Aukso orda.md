@@ -4,6 +4,7 @@ pavadinimas: 'Aukso orda'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1325 m.'
@@ -22,70 +23,83 @@ amziai:
 
 ## Santrauka
 
-Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
+Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė galinti sudrebinti Maskvos valstybę. Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.
 
 ## Teiginiai
 
-<a id="claim-t-175513"></a>
+<a id="claim-t-187435"></a>
 - t-001
-  global_id: t-175513
+  global_id: t-187435
   teiginys: 'Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė galinti sudrebinti Maskvos valstybę.'
   pagrindžia:
-    - c-005
+    - c-006
 
-<a id="claim-t-175515"></a>
+<a id="claim-t-187436"></a>
 - t-002
-  global_id: t-175515
+  global_id: t-187436
+  teiginys: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-187437"></a>
+- t-003
+  global_id: t-187437
   teiginys: 'Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-175516"></a>
-- t-003
-  global_id: t-175516
-  teiginys: '1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-175517"></a>
+<a id="claim-t-187438"></a>
 - t-004
-  global_id: t-175517
-  teiginys: 'Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
+  global_id: t-187438
+  teiginys: 'Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-187439"></a>
+- t-005
+  global_id: t-187439
+  teiginys: 'XIV a. pabaigoje silpstanti Aukso Orda leido manyti, kad Vytauto sutelkta jėga sudrebins Maskvos valstybę.'
   pagrindžia:
     - c-006
 
-<a id="claim-t-175519"></a>
+<a id="claim-t-187440"></a>
 - t-006
-  global_id: t-175519
-  teiginys: 'XIV a. pabaigoje silpstanti Aukso Orda leido manyti, kad Vytauto sutelkta jėga sudrebins Maskvos valstybę.'
+  global_id: t-187440
+  teiginys: 'Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, o vėliau grįžo į LDK.'
   pagrindžia:
-    - c-005
+    - c-008
 
-<a id="claim-t-175520"></a>
+<a id="claim-t-187441"></a>
 - t-007
-  global_id: t-175520
+  global_id: t-187441
   teiginys: 'Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-175521"></a>
-- t-008
-  global_id: t-175521
+<a id="claim-t-187443"></a>
+- t-009
+  global_id: t-187443
+  teiginys: '1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-187444"></a>
+- t-010
+  global_id: t-187444
   teiginys: 'Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-183119"></a>
-- t-010
-  global_id: t-183119
-  teiginys: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
+<a id="claim-t-187447"></a>
+- t-013
+  global_id: t-187447
+  teiginys: '1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.'
   pagrindžia:
-    - c-007
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal rusų met­
@@ -98,11 +112,10 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-    - t-005
+    - t-012
+    - t-003
 
 - c-002
-  santrauka: '1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1325 m. Aukso orda surengė puolimą
@@ -115,10 +128,9 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-013
 
 - c-003
-  santrauka: 'Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočių ordinui, remiamam kryži-
@@ -133,7 +145,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-010
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -150,10 +162,25 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
     - t-007
+    - t-008
 
 - c-005
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    “  M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­
+    sandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso
+    ordų pas chanų Slch-Achmatų buvo siunčiamas dar 1496.VIII už­
+    megzti reguliarių santykių. 1501 m., tarpininkaujant M. Chaleckiui.
+    tarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš
+    Krymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^6) PRATARMĖ
@@ -167,10 +194,9 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   statusas: verified
   pagrindžia:
     - t-001
-    - t-006
+    - t-005
 
-- c-006
-  santrauka: 'Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gedimino žygis, mūšis prie Irpenės ir
@@ -191,8 +217,26 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   pagrindžia:
     - t-004
 
-- c-007
-  santrauka: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
+- c-008
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
+    pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
+    sumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­
+    doje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK
+    (žr.Сборник Русского императорского исторического общества,
+    т. 41. С  Петербург, 1884, р. 516).
+    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
+    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+    - t-011
+
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai perimama ir žlu-
@@ -206,7 +250,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -226,8 +270,11 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
 - [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
 - [[objektai/asmenys/Tochtamišas]]
+- [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]
+- [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Mongolų imperija]]

@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.
+1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus. 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius. 1928 m. gegužės 15 d. nauja Konstitucija sustiprino Antano Smetonos galias prieš Seimą ir įteisino autoritarinį valdymą.
 
 ## Teiginiai
 
 <a id="claim-t-21122"></a>
 - t-001
   global_id: t-21122
-  teiginys: '1928 m. Konstitucija sustiprino A. Smetonos pozicijas, nes įteisino jo viršenybę prieš Seimą ir teisę leisti įstatymus.'
+  teiginys: '1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus.'
   pagrindžia:
     - c-002
 

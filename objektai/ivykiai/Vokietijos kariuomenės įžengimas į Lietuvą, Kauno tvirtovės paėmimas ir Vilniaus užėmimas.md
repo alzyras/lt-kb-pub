@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15-ąją įžengė į Vilnių – taip senoji. Toje teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.
+1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių. 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių. Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.
 
 ## Laikotarpis ir datos
 
@@ -47,13 +47,6 @@ Nenurodyta
   teiginys: '1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-75305"></a>
-- t-002
-  global_id: t-75305
-  teiginys: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-183286"></a>
 - t-003
@@ -85,7 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: '1915 m. vokiečiai be mūšio paėmė Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
+  santrauka: '1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams

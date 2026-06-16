@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Ordino įsitvirtinimo pradžia. Šaltiniuose jis minimas kaip vyskupo Kristijono globėjas ir kaip valdovas, pakvietęs Ordiną į Prūsus bei padovanojęs jam Kulmo žemę.
+Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje. Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo. Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.
 
 ## Teiginiai
 
@@ -41,50 +41,42 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93420
   teiginys: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-93421"></a>
-- t-003
-  global_id: t-93421
-  teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
-  pagrindžia:
     - c-007
 
 <a id="claim-t-93422"></a>
-- t-004
+- t-003
   global_id: t-93422
   teiginys: 'Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-93423"></a>
-- t-005
+- t-004
   global_id: t-93423
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-93424"></a>
-- t-006
+- t-005
   global_id: t-93424
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-93425"></a>
-- t-007
+- t-006
   global_id: t-93425
-  teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
+  teiginys: '„Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-93426"></a>
-- t-008
+- t-007
   global_id: t-93426
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.'
   pagrindžia:
     - c-003
-    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -139,7 +131,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -154,8 +146,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
     - t-005
+    - t-004
 
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -188,24 +180,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
-    faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi-
-    nas pamažu pradeda užkariauti lybius, latvius, estus, kuršius. Kovodamas
-    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
-    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
-    ordino riterius (kryžiuočius).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
 
-- c-008
+- c-007
   santrauka: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -249,7 +226,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   pagrindžia:
     - t-002
 
-- c-009
+- c-008
+  santrauka: '„Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
@@ -260,9 +238,9 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-010
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguvos žiotyse susikūręs Kalavijuočių ordi-
@@ -284,6 +262,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - [[objektai/grupes/Germanai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Odoničius]]
@@ -291,6 +270,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]

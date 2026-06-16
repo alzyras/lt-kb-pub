@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai. Dusburgietis teigia, kad be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.
+Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę.
 
 ## Teiginiai
 
 <a id="claim-t-60113"></a>
 - t-001
   global_id: t-60113
-  teiginys: 'Dusburgietis teigia, kad be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.'
+  teiginys: 'Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo

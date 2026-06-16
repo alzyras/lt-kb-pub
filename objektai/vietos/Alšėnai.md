@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Alšėnai'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1536 m.'
@@ -21,43 +22,27 @@ amziai:
 
 ## Santrauka
 
-Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus vyskupas, mirė 1553 m. Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................
+Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų. Išgirdęs Voložine apie didžiojo kunigaikščio Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.
 
 ## Teiginiai
 
-<a id="claim-t-86057"></a>
+<a id="claim-t-86058"></a>
 - t-001
-  global_id: t-86057
-  teiginys: 'Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus vyskupas, mirė 1553 m.'
+  global_id: t-86058
+  teiginys: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-86058"></a>
+<a id="claim-t-187563"></a>
 - t-002
-  global_id: t-86058
-  teiginys: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
+  global_id: t-187563
+  teiginys: 'Išgirdęs Voložine apie didžiojo kunigaikščio Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
-    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
-    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
-    metų, 1538 m.
-    13. Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis
-    iš savo giminės, pirma Lucko, paskui, nuo 1536 m., Vilniaus
-    vyskupas, mirė 1553 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -67,6 +52,27 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
     ................Jonui, Jurgiui Astikaičiui, Trakų...................
     Gregorovičiui, Alšėnų kunigaikščiui ir Kijevo...................
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Išgirdęs Voložine apie didžiojo kunigaikščio Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis
+    kunigaikštis Žygimantas rašė ir jam, kad skirtu laiku
+    atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
+    lenską jo vieton nusiuntė Andrių Sakavičių * . Kelyje
+    pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa­
+    sisvečiuoti pas Voložino kunigaikščius, ir Voložine at­
+    ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį,
+    ir Goštautas išskubėjo j Alšėnus6  pas kunigaikštį Jurgį
+    Simonaitį Alšėniškį7 . Ir ten suvažiavę skubiai praneša
+    Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
+    Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs. Ten kryžiuočių nelaisvėn pakliuvęs, buvo žiauriai nužudytas pilies gynėjas, Jogailos brolis Karigaila (Mstislavlio kunigaikštis).
+Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas. Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų. Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 <a id="claim-t-63794"></a>
 - t-002
   global_id: t-63794
-  teiginys: 'Karigaila, Julijonos sūnus ir Jogailos brolis, minimas kaip liudininkas trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
+  teiginys: 'Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
   pagrindžia:
     - c-003
 
@@ -94,7 +94,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     - t-003
 
 - c-003
-  santrauka: 'Karigaila, Julijonos sūnus ir Jogailos brolis, minimas kaip liudininkas trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
+  santrauka: 'Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­

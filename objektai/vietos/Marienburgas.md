@@ -4,6 +4,7 @@ pavadinimas: 'Marienburgas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -25,14 +26,14 @@ amziai:
 
 ## Santrauka
 
-rijenburgas.
+Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį. 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi. 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.
 
 ## Teiginiai
 
 <a id="claim-t-177683"></a>
 - t-001
   global_id: t-177683
-  teiginys: 'Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pagaminti atitinkamo aukščio šturmo bokštai.'
+  teiginys: 'Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį.'
   pagrindžia:
     - c-004
 
@@ -53,7 +54,7 @@ rijenburgas.
 <a id="claim-t-177686"></a>
 - t-004
   global_id: t-177686
-  teiginys: 'Dusburgietis teigia, kad marienburgo pilis Nogato deš.'
+  teiginys: 'Marienburgo pilis Nogato deš.'
   pagrindžia:
     - c-003
 
@@ -123,7 +124,7 @@ rijenburgas.
 <a id="claim-t-177697"></a>
 - t-014
   global_id: t-177697
-  teiginys: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
+  teiginys: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
   pagrindžia:
     - c-001
 
@@ -148,10 +149,17 @@ rijenburgas.
   pagrindžia:
     - c-014
 
+<a id="claim-t-187606"></a>
+- t-018
+  global_id: t-187606
+  teiginys: 'Marienburge pas magistrą atvyko daug lietuvių kunigaikščių ir bajorų, kai pabėgėlis buvo pas vokiečius.'
+  pagrindžia:
+    - c-015
+
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Nuo 1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
+  santrauka: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
@@ -183,6 +191,7 @@ rijenburgas.
     - t-016
 
 - c-003
+  santrauka: 'Marienburgo pilis Nogato deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
@@ -196,6 +205,7 @@ rijenburgas.
     - t-004
 
 - c-004
+  santrauka: 'Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygiui ruoštasi visus metus. Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pag-
@@ -411,3 +421,20 @@ rijenburgas.
   statusas: verified
   pagrindžia:
     - t-017
+
+- c-015
+  santrauka: 'Marienburge pas magistrą atvyko daug lietuvių kunigaikščių ir bajorų, kai pabėgėlis buvo pas vokiečius.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir jis pa­
+    gal jos patarimą apsivilko vienos tarnaitės drabužiais,
+    su antrąja išėjo ir, nusileidęs iš pilies, pabėgo į Prūsi­
+    ją pas vokiečius7 .
+    Su vokiečiais bebūnant pas magistrą Marienburge s,
+    pas jį atvyko daug lietuvių kunigaikščių ir bajorų. Vo­
+    kiečių padedamas, jis ėmėsi atkariauti Lietuvos žemę''.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-018

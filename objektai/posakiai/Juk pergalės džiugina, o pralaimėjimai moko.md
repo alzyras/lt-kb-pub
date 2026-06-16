@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami pergalėms, knygos leidėjai nenuėjo lengviausiu keliu ir skyrė dėmesio svarbiems pralaimėjimams, kadangi būtent skaudūs pralaimėjimai paskatina kariuomenes daryti reformas, permąstyti savo. Juk pergalės džiugina, o pralaimėjimai moko.
+Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina kariuomenes mokytis ir keistis. Leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina kariuomenes reformuotis ir diegti inovacijas. Posakis „Juk pergalės džiugina, o pralaimėjimai moko“ aiškina, kad skaudūs pralaimėjimai skatina kariuomenių reformas ir inovacijas.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 <a id="claim-t-183721"></a>
 - t-003
   global_id: t-183721
-  teiginys: 'Knygos leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina reformas ir inovacijas.'
+  teiginys: 'Posakis „Juk pergalės džiugina, o pralaimėjimai moko“ aiškina, kad skaudūs pralaimėjimai skatina kariuomenių reformas ir inovacijas.'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
     - t-002
 
 - c-002
-  santrauka: 'Knygos leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina reformas ir inovacijas.'
+  santrauka: 'Posakis „Juk pergalės džiugina, o pralaimėjimai moko“ aiškina, kad skaudūs pralaimėjimai skatina kariuomenių reformas ir inovacijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     pateike ne tik zinomus fak- G

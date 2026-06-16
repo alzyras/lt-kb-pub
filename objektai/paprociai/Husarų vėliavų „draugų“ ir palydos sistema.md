@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Husarų vėliavų branduolį sudarė turtingi bajorai - draugai. Kiekvienas draugas atsivesdavo palydą ir tarnus, o palydą ginklais, šarvais ir žirgais aprūpindavo pats draugas.
+Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą. Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a. Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.
 
 ## Laikotarpis ir datos
 
@@ -48,38 +48,31 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-71799"></a>
-- t-002
-  global_id: t-71799
-  teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-71800"></a>
-- t-003
+- t-002
   global_id: t-71800
   teiginys: 'Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-71801"></a>
-- t-004
+- t-003
   global_id: t-71801
   teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-71802"></a>
-- t-005
+- t-004
   global_id: t-71802
   teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-71803"></a>
-- t-006
+- t-005
   global_id: t-71803
-  teiginys: 'XVII a. Lietuvos ir Lenkijos husarai buvo pralaužiamoji „šoko kavalerija“ Europoje.'
+  teiginys: 'XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje.'
   pagrindžia:
     - c-004
 
@@ -110,8 +103,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-002
+    - t-004
 
 - c-002
   santrauka: 'Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.'
@@ -164,7 +156,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -183,8 +175,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-004
+    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

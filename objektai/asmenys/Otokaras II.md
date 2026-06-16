@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius, dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą, konstatuoja, kad už Prūsijos į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad aquilonem — Colker M. Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
+Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“. 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
 
 ## Teiginiai
 
 <a id="claim-t-175267"></a>
 - t-001
   global_id: t-175267
-  teiginys: 'Dusburgietis teigia, kad otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
+  teiginys: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   pagrindžia:
     - c-003
 
@@ -86,6 +86,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   statusas: verified
 
 - c-003
+  santrauka: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Susitaikius Čekijos karalius
@@ -147,6 +148,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]
 - [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Reformacija tapo nauju lenkėjimo postūmiu.
+LDK politinis elitas nesulaukė lietuviakalbės kultūrinės programos ir rinkosi lenkakalbę raštijos tradiciją. Lietuvos istorijos autoriai Reformaciją apibūdina kaip naują LDK lenkėjimo postūmį.
 
 ## Laikotarpis ir datos
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-183317"></a>
 - t-002
   global_id: t-183317
-  teiginys: 'Reformacija tapo nauju lenkėjimo postūmiu.'
+  teiginys: 'Lietuvos istorijos autoriai Reformaciją apibūdina kaip naują LDK lenkėjimo postūmį.'
   pagrindžia:
     - c-001
 

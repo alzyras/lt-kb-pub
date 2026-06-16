@@ -23,40 +23,22 @@ amziai:
 Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
 
 ## Teiginiai
-
 <a id="claim-t-84379"></a>
 - t-001
   global_id: t-84379
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   pagrindžia:
     - c-002
-
 <a id="claim-t-84381"></a>
 - t-003
   global_id: t-84381
   teiginys: 'Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.'
   pagrindžia:
-    - c-001
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -70,3 +52,22 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-001
     - t-002
+- c-003
+  santrauka: 'Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

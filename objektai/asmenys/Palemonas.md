@@ -4,6 +4,7 @@ pavadinimas: 'Palemonas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,33 +16,29 @@ tags:
 
 ## Santrauka
 
-Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.
+Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija. Bychovco kronikos legendinėje kilmės istorijoje Palemonas vaizduojamas kaip imperatoriaus Nerono giminaitis ir romėnų „bajorų“ vedlys.
 
 ## Teiginiai
-
-<a id="claim-t-19185"></a>
+<a id="claim-t-187453"></a>
 - t-001
-  global_id: t-19185
+  global_id: t-187453
   teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-184814"></a>
-- t-002
-  global_id: t-184814
-  teiginys: 'Mirus lietuvių valdovui, Palemonas buvo bendru balsavimu išrinktas nauju valdovu.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-184815"></a>
+<a id="claim-t-187455"></a>
 - t-003
-  global_id: t-184815
+  global_id: t-187455
   teiginys: 'Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Lietuvos metraštis vaizduoja Palemoną kaip imperatoriaus Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.'
+  pagrindžia:
+    - c-004
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,29 +56,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Mirus lietuvių valdovui, Palemonas buvo bendru balsavimu išrinktas nauju valdovu.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Lietuviai, suža­
-    vėti jų dorybių, ėmė svetimšalius ne tik mylėti bei
-    globoti kaip svečius bei sąjungininkus, bet ir gerbti.
-    Mirus jų valdovui, bendru balsavimu buvo išrinktas
-    Palemonas.
-    Mat
-    taurumas
-    Italas
-    P a le m o n a s—
-    patraukia netgi tamsius bei
-    L ie tu v o s ir Ž em a iti-
-    laukinius žmones.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -103,6 +77,28 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   statusas: verified
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Lietuvos metraštis vaizduoja Palemoną kaip imperatoriaus Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Platesnysis Lietuvos metraščių sąvadas, vadinamas
+    „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kroni­
+    ka", kilo, veikiausiai, XVI a. antrajame dešimtmetyje.
+    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
+    prasideda sakiniu apie Kristaus gimimą, valdant Romos
+    imperatoriui Augustui, Romos imperatorių ligi Nerono
+    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -111,19 +107,25 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Langobardai]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Barkus]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
+- [[objektai/grupes/Langobardai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/paprociai/Valdovo rinkimas bendru balsavimu ir bendruomenės valia]]
 - [[objektai/daiktai/Valtys]]
 - [[objektai/zodynas/Variagai]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/ivykiai/Palemono išrinkimas Lietuvos valdovu A. Kojelavičiaus pasakojime]]
-- [[objektai/daiktai/Stulpai]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/asmenys/Barkus]]
+- [[objektai/grupes/Kentauro herbo dinastija]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
+- [[objektai/ivykiai/Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti]]
+- [[objektai/zodynas/patricijus]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/metraštis]]

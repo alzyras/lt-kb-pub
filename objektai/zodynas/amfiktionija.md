@@ -11,7 +11,7 @@ tags: []
 
 ## Santrauka
 
-Amfiktionija paaiškinama kaip polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
+Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti. Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.
 
 ## Žodis ir formos
 
@@ -34,13 +34,14 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 <a id="claim-t-23432"></a>
 - t-001
   global_id: t-23432
-  teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
+  teiginys: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio proceso ankstyvąja apraiška reikėtų laikyti
@@ -56,7 +57,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
     - t-001
 
 - c-002
-  santrauka: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
+  santrauka: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
@@ -76,7 +77,6 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/daiktai/Aukuro kalnai ir akmenys]]
 - [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

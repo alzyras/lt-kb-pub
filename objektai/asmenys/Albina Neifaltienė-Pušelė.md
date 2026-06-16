@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Mūšyje narsiai kovėsi ir junginio vado žmona Albina Neifaltienė-Pušelė, kuri taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių, tačiau ir pati buvo priešo kulkos pakirsta.
+Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos. Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.
 
 ## Teiginiai
 
 <a id="claim-t-39994"></a>
 - t-001
   global_id: t-39994
-  teiginys: 'Albina Neifaltienė-Pušelė taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
+  teiginys: 'Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Albina Neifaltienė-Pušelė taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
+  santrauka: 'Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšyje narsiai kovėsi ir junginio vado
@@ -45,7 +45,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
     - t-001
 
 - c-002
-  santrauka: 'Albina Neifaltienė-Pušelė taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
+  santrauka: 'Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Panaudojus

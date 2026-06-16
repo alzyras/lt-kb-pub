@@ -11,13 +11,13 @@ date_start: '1667'
 date_end: '1772'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
+  - 'XVIII'
 tags:
   - paliaubos
   - saltinis
   - sutartis
-amziai:
-  - 'XVII'
-  - 'XVIII'
 ---
 # Andrusavos taika (1667 m.)
 
@@ -26,7 +26,6 @@ amziai:
 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas. Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
 
 ## Teiginiai
-
 <a id="claim-t-10469"></a>
 - t-001
   global_id: t-10469
@@ -41,8 +40,7 @@ amziai:
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -58,7 +56,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

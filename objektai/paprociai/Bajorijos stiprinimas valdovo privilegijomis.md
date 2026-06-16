@@ -106,6 +106,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/baudžiavinė epocha]]
 - [[objektai/zodynas/luominė diferenciacija]]

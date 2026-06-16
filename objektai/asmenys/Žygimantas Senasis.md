@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).
+Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą. 1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui. Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu.
 
 ## Teiginiai
 
@@ -108,7 +108,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 <a id="claim-t-173319"></a>
 - t-012
   global_id: t-173319
-  teiginys: 'Žygimantas Senasis buvo Lenkijos karalius ir didysis Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikštis.'
+  teiginys: 'Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.'
   pagrindžia:
     - c-011
 
@@ -475,7 +475,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-029
 
 - c-011
-  santrauka: 'Žygimantas Senasis buvo Lenkijos karalius ir didysis Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikštis.'
+  santrauka: 'Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi manome, kad iš vi­
@@ -1022,7 +1022,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 ### Susiję objektai
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Ginklai]]
@@ -1050,7 +1049,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/palivarkas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/seniūnas]]
@@ -1060,18 +1059,19 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Mahometas Aminas]]
 - [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
 - [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
 - [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
-- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]

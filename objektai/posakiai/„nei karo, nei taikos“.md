@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.
+Po 1922 m. sausį Vilniaus krašte surengtų rinkimų Vidurinė Lietuva formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ padėtyje.
 
 ## Teiginiai
 
 <a id="claim-t-20922"></a>
 - t-001
   global_id: t-20922
-  teiginys: '1922 m. sausį po rinkimų Vilniaus krašte–Vidurinėje Lietuvoje Lietuva liko „nei karo, nei taikos“ situacijoje.'
+  teiginys: 'Po 1922 m. sausį Vilniaus krašte surengtų rinkimų Vidurinė Lietuva formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ padėtyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po 1922 m. sausį Vilniaus krašte surengtų rinkimų Vidurinė Lietuva formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ padėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva, tai
@@ -50,4 +51,3 @@ tags:
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/kantonas kantoninis principas]]

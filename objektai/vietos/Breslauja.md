@@ -5,6 +5,7 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1200 m.'
   - '1337 m.'
@@ -13,13 +14,13 @@ date_start: '1200'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XXI'
 tags:
   - kraštas
   - pilis
   - vieta
-amziai:
-  - 'XII'
-  - 'XXI'
 ---
 # Breslauja
 
@@ -28,44 +29,37 @@ amziai:
 Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai.
 
 ## Teiginiai
-
-<a id="claim-t-114195"></a>
+<a id="claim-t-187201"></a>
 - t-001
-  global_id: t-114195
+  global_id: t-187201
   teiginys: 'Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-114196"></a>
+<a id="claim-t-187202"></a>
 - t-002
-  global_id: t-114196
+  global_id: t-187202
   teiginys: 'Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-114197"></a>
+<a id="claim-t-187203"></a>
 - t-003
-  global_id: t-114197
+  global_id: t-187203
   teiginys: 'Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-114198"></a>
+<a id="claim-t-187204"></a>
 - t-004
-  global_id: t-114198
+  global_id: t-187204
   teiginys: 'Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis.'
   pagrindžia:
     - c-003
-
-<a id="claim-t-114199"></a>
+<a id="claim-t-187205"></a>
 - t-005
-  global_id: t-114199
+  global_id: t-187205
   teiginys: 'Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.'
   pagrindžia:
     - c-001
-
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -79,10 +73,9 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-001
     - t-003
     - t-005
-    - t-001
-
 - c-002
   santrauka: 'Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -103,7 +96,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

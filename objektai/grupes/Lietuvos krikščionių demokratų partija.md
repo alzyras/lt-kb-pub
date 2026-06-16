@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai. Krikščionys demokratai ir liaudininkai po Klaipėdos atplėšimo sąlyginai sugrįžo į valdžią. Krikščionys demokratai ir liaudininkai, prieš tai susitarę, pareikalavo ministru pirmininku vietoje A.
+Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas. Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį. Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos.
 
 ## Teiginiai
 
 <a id="claim-t-74744"></a>
 - t-001
   global_id: t-74744
-  teiginys: 'Po Klaipėdos atplėšimo krikščionys demokratai ir liaudininkai sąlyginai sugrįžo į valdžią.'
+  teiginys: 'Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74745"></a>
 - t-002
   global_id: t-74745
-  teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj A. Merkio ministru pirmininku paskirti gen. S. Raštikį.'
+  teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.'
   pagrindžia:
     - c-003
 
@@ -65,6 +65,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     - t-004
 
 - c-002
+  santrauka: 'Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos
@@ -81,6 +82,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
     - t-001
 
 - c-003
+  santrauka: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
@@ -102,6 +104,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Merkys]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Jonas Černius]]

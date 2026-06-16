@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau - palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
+Spalio 7 d. nustatyta demarkacinė linija ėjo palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 
 ## Teiginiai
 
 <a id="claim-t-80602"></a>
 - t-001
   global_id: t-80602
-  teiginys: 'Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Bastūnų stoties palei Vilniaus-Lydos geležinkelį.'
+  teiginys: 'Spalio 7 d. nustatyta demarkacinė linija ėjo palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Spalio 7 d. demarkacinė linija buvo nustatyta nuo Vokietijos sienos iki Bastūnų stoties palei Vilniaus-Lydos geležinkelį.'
+  santrauka: 'Spalio 7 d. nustatyta demarkacinė linija ėjo palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkai su tuo nesutiko ir vilkino

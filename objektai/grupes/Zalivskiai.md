@@ -51,5 +51,6 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Neliubovičiai]]
 - [[objektai/grupes/Savickiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/asmenys/Jonas Neliubovičius]]
 - [[objektai/asmenys/Kristupas Zalivskis]]

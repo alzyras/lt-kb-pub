@@ -19,20 +19,21 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
+Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
 
 ## Teiginiai
 
 <a id="claim-t-61218"></a>
 - t-001
   global_id: t-61218
-  teiginys: 'Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
+  teiginys: 'Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama

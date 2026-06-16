@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port. Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.
+Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko. Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.
 
 ## Laikotarpis ir datos
 
@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-67057"></a>
 - t-002
   global_id: t-67057
-  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių statyboje.'
+  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
   pagrindžia:
     - c-001
 

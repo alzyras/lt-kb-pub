@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Monografijoje yra 320 puslapiu.
+Monografijoje „Vytauto vieta mūsų istorijoje“ yra 320 puslapių. Monografijoje „Vytauto vieta mūsų istorijoje“ yra 320 puslapių.
 
 ## Teiginiai
 
 <a id="claim-t-34265"></a>
 - t-001
   global_id: t-34265
-  teiginys: 'Monografijoje yra 320 puslapių.'
+  teiginys: 'Monografijoje „Vytauto vieta mūsų istorijoje“ yra 320 puslapių.'
   pagrindžia:
     - c-001
 

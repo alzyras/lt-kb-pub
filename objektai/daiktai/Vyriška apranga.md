@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Sukilimo legenda tapo jauna dvarininkaitė Emilija Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
+Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,13 +40,14 @@ Nenurodyta
 <a id="claim-t-19610"></a>
 - t-001
   global_id: t-19610
-  teiginys: 'Sukilimo legenda tapo jauna dvarininkaitė Emilija Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.'
+  teiginys: 'Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Emilija Pliaterytė sukilėlių daliniuose kovėsi vilkėdama vyrišką aprangą ir jodama ant žirgo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rudenį Rusija susigrąžino ir Lenkijos karalystę.
@@ -61,5 +62,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Emilija Pliaterytė]]
 - [[objektai/grupes/Lenkai]]

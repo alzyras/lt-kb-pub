@@ -41,6 +41,5 @@ Lietuvos krikščionėjimo simboliu tapo šv.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/zodynas/didysis kunigaikštis]]

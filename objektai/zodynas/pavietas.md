@@ -16,47 +16,41 @@ tags:
 
 ## Santrauka
 
-Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje. Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas. Veliuona kurį laiką buvo Žemaitijos pavieto centras. Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 
 ## Teiginiai
-
-<a id="claim-t-113659"></a>
-- t-001
-  global_id: t-113659
-  teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-113660"></a>
-- t-002
-  global_id: t-113660
-  teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-113661"></a>
-- t-003
+- t-002
   global_id: t-113661
   teiginys: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-113662"></a>
-- t-004
+- t-003
   global_id: t-113662
   teiginys: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-182966"></a>
-- t-006
-  global_id: t-182966
-  teiginys: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
+<a id="claim-t-113663"></a>
+- t-004
+  global_id: t-113663
+  teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
   pagrindžia:
-    - c-005
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-182966"></a>
+- t-005
+  global_id: t-182966
+  teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -73,9 +67,8 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-    - t-005
-
+    - t-002
+    - t-004
 - c-002
   santrauka: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -112,9 +105,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
+    - t-003
 - c-003
+  santrauka: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
@@ -123,27 +116,15 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
     davo vietoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
+    - t-004
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toks krašto
-    padalinimas į vaivadijas ir pavietus išbuvo iki valstybės pabaigos.
-    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
-    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
+  santrauka: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik bylos dėl žemės ribų (ežių) buvo pa-
@@ -152,25 +133,13 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
     davo vietoje. Pagaliau baudžiamosios (kriminalinės) bylos
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
-    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
-    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
-    teismą ir kitus urėdus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -180,7 +149,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
-- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vaidila]]

@@ -9,18 +9,18 @@ date_start: '1635'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - ivykis
   - karalius
   - paliaubos
-amziai:
-  - 'XVII'
 ---
 # Štumdorfo paliaubos (1635 m.)
 
 ## Santrauka
 
-Po ilgų derybų Lenkijos ponai prieš karaliaus valią padarė 26 m. paliaubas.
+Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,17 +35,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01892"></a>
 - t-001
   global_id: t-01892
-  teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų paliaubas.'
+  teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, lenkų bajorija reikalavo taikos ir gra-
@@ -55,9 +56,11 @@ Nenurodyta
     duoti savo ūkio produktus. Karalių palaikė tik Lietuva, kuriai
     rūpėjo atgauti Livoniją. Po ilgų derybų Lenkijos ponai prieš
     karaliaus valią padarė 26 m. paliaubas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -68,4 +71,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/grupes/Švedai]]

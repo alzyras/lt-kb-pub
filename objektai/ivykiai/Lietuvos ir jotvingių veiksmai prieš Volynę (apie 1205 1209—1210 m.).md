@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.
+Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.
 
 ## Laikotarpis ir datos
 
@@ -43,14 +43,14 @@ Nenurodyta
 <a id="claim-t-59656"></a>
 - t-001
   global_id: t-59656
-  teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra su 1209–1210 m. įvykiais.'
+  teiginys: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra su 1209–1210 m. įvykiais.'
+  santrauka: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
@@ -68,6 +68,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/žygis]]

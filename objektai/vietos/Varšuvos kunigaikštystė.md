@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes.
+Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai. 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. 1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ amziai:
 <a id="claim-t-77421"></a>
 - t-003
   global_id: t-77421
-  teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė - pusiau nepriklausoma, Napoleono globojama valstybė.'
+  teiginys: '1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė - pusiau nepriklausoma, Napoleono globojama valstybė.'
+  santrauka: '1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dail. Jean-Baptiste Madou, 1827 m.

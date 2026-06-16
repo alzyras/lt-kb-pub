@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.
+Priėmus įstatymą dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo, šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio sustabdytas. Įstatymas dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo buvo priimtas siekiant atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.
 
 ## Teiginiai
 
 <a id="claim-t-21325"></a>
 - t-001
   global_id: t-21325
-  teiginys: '1938 m. Lietuvos Konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio buvo sustabdytas.'
+  teiginys: 'Priėmus įstatymą dėl 1938 m. Lietuvos Konstitucijos galiojimo atstatymo, šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio sustabdytas.'
   pagrindžia:
     - c-001
 

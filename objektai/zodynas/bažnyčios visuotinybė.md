@@ -57,7 +57,6 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Maudelis]]

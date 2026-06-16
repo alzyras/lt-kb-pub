@@ -19,27 +19,28 @@ amziai:
 
 ## Santrauka
 
-Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai. Mūšio išvakarės Žuvinto-Palių partizanų persekiojimas tęsėsi toliau.
+Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo. Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi.
 
 ## Teiginiai
 
 <a id="claim-t-41232"></a>
 - t-001
   global_id: t-41232
-  teiginys: 'Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį.'
+  teiginys: 'Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-41233"></a>
 - t-002
   global_id: t-41233
-  teiginys: 'Žuvinto-Palių partizanų persekiojimas tęsėsi mūšio išvakarėse.'
+  teiginys: 'Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Partizanų pajėgos
@@ -60,6 +61,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - t-001
 
 - c-002
+  santrauka: 'Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio išvakarės
@@ -84,4 +86,3 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - [[objektai/grupes/Jurgio Lajaus būrys]]
 - [[objektai/grupes/Klarko būrys]]
 - [[objektai/grupes/Kosto Barkausko būrys]]
-- [[objektai/grupes/Muškietininkų būrys]]

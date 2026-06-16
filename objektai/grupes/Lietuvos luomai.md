@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus. Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila. Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.
+Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais. Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila. Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.
 
 ## Teiginiai
 
 <a id="claim-t-185432"></a>
 - t-001
   global_id: t-185432
-  teiginys: 'Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus.'
+  teiginys: 'Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais.'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Pio
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Aleksandras pasiūlė Lietuvos luomams Vilniaus seime aptarti ir patvirtinti Piotrkove priimtus nutarimus.'
+  santrauka: 'Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu Aleksandras, didžiai rūpindama­

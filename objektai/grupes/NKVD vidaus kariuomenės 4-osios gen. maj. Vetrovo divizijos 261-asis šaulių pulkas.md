@@ -19,19 +19,12 @@ amziai:
 
 ## Santrauka
 
-NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios partizanus Panevėžio apskrityje.
+NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu.
 
 ## Teiginiai
 
-<a id="claim-t-78391"></a>
-- t-001
-  global_id: t-78391
-  teiginys: '1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio ir Žaliosios girios partizanus Panevėžio apskrityje.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-78393"></a>
-- t-002
+- t-001
   global_id: t-78393
   teiginys: 'NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu.'
   pagrindžia:
@@ -53,27 +46,8 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūsiškius paliko miške.“
-
-    Mūšis
-    1945 m. kovo pradžioje NKVD divizija puolė
-    Pušaloto, Pasvalio, Žaliosios girios parti-
-    zanus Panevėžio apskrityje. Persekiojami
-    partizanai pasitraukė į Ažagų-Eimuliškio
-    miškus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]

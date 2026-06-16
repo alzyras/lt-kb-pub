@@ -21,49 +21,20 @@ amziai:
 
 ## Santrauka
 
-Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius.
+Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.
 
 ## Teiginiai
 
-<a id="claim-t-38785"></a>
-- t-001
-  global_id: t-38785
-  teiginys: 'Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-184651"></a>
-- t-002
+- t-001
   global_id: t-184651
   teiginys: 'Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Puolimas buvo pradėtas 1919 m. ge-
-    gužės 18 d. naktį. Dešinioji kolona ener-
-    gingu puolimu užėmė plane numatytus
-    Jotvainių, Griniūnų ir Katinų kaimus.
-    Viduriniajai vorai po atkaklių kautynių
-    pavyko užimti Užkalnius, Ėriškėlius ir
-    Barklainius. Kairioji vora puolimą pradėjo
-
-    ## Puslapis 183
-
-    sėkmingai, tačiau ties Radikonių dvaru
-    sutiko stiprų bolševikų pasipriešinimą,
-    kurio metu žuvo kolonos vadas karin.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -89,11 +60,10 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/Girdila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

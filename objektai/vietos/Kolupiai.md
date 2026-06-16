@@ -19,45 +19,21 @@ amziai:
 
 ## Santrauka
 
-Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių. Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių.
+1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.
 
 ## Teiginiai
 
 <a id="claim-t-79488"></a>
 - t-001
   global_id: t-79488
-  teiginys: '1919 m. Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-79489"></a>
-- t-002
-  global_id: t-79489
-  teiginys: 'Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių.'
+  teiginys: '1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvių sava-
-    norių būriai, remiami maždaug
-    50 vokiečių kareivių, apėjo bolše-
-    vikų dešinįjį sparną ir smogė jiems
-    lemtingą smūgį. Miške į šiaurę nuo
-    Kolupių kaimo į nelaisvę buvo paimta
-    18 raudonarmiečių. Bolševikai tos pa-
-    čios dienos vakare buvo priversi palikti
-    Kėdainių apylinkes ir atsitraukti į Šėtą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: '1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Turėję didelę

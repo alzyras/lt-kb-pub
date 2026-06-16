@@ -53,4 +53,3 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
 - [[objektai/grupes/Vokietijos valdovai elektoriai]]
 - [[objektai/asmenys/Henrikas VII]]
 - [[objektai/ivykiai/Henriko Liuksemburgiečio išrinkimas Romos karaliumi (1308 m. lapkričio 25 d.)]]
-- [[objektai/grupes/Brandenburgo elektoriai]]

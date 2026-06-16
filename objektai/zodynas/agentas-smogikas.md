@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMOGIKAI MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje. Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.
+Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas. MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 
 ## Teiginiai
 
 <a id="claim-t-42428"></a>
 - t-001
   global_id: t-42428
-  teiginys: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.'
+  teiginys: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas.'
   pagrindžia:
     - c-002
 
@@ -66,6 +66,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
     - t-002
 
 - c-002
+  santrauka: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-

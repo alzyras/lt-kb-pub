@@ -71,5 +71,3 @@ amziai:
 - [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zbignevas iš Bžezės]]
-- [[objektai/asmenys/Zindramas iš Maškovičių]]

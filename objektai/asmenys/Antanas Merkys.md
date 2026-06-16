@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę. Merkį. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.
+Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį. Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį. 1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę.
 
 ## Teiginiai
 
@@ -37,14 +37,14 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 <a id="claim-t-169958"></a>
 - t-002
   global_id: t-169958
-  teiginys: 'Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
+  teiginys: 'Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-169959"></a>
 - t-003
   global_id: t-169959
-  teiginys: 'LVLS ir LKDP sutiko deleguoti po du atstovus į 1939 m. lapkritį sudarytą tautininko Antano Merkio vyriausybę.'
+  teiginys: '1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę.'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'LVLS ir LKDP sutiko deleguoti po du atstovus į 1939 m. lapkritį sudarytą tautininko Antano Merkio vyriausybę.'
+  santrauka: '1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     deleguotas ministras turėjo vykdyti jo užduotis. LVLS ir LKDP neparei-
@@ -96,7 +96,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - t-005
 
 - c-003
-  santrauka: 'Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
+  santrauka: 'Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,

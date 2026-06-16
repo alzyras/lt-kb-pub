@@ -61,6 +61,7 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas]]
 - [[objektai/asmenys/Pisonas]]
 - [[objektai/asmenys/Trepka]]

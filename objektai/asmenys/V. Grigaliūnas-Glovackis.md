@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti. Grigaliūnui-Glovackiui tą pačią dieną išsiųsti į Prienus viceministro karin. GrigaliūnoGlovackio vadovaujamas 2-asis pėstininkų pulkas ir spalio 28 d. į Baisogalą atvykęs 1-asis pėstininkų pulkas.
+V. Grigaliūno-Glovackio vadovaujamą kovinę grupę sudarė 2-asis ir 10-asis pėstininkų pulkai, 6-ojo pulko batalionas, 5-oji ir 9-oji artilerijos baterijos ir 2-ojo husarų pulko eskadronas. Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę. 1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.
 
 ## Teiginiai
 
@@ -27,14 +27,14 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 <a id="claim-t-49491"></a>
 - t-002
   global_id: t-49491
-  teiginys: 'Vasario 8 d. V. Grigaliūnui-Glovackiui įsakyta išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.'
+  teiginys: 'Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-49492"></a>
 - t-003
   global_id: t-49492
-  teiginys: 'Vasario 3 d. V. Grigaliūnui-Glovackiui įsakyta atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.'
+  teiginys: '1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.'
   pagrindžia:
     - c-001
 
@@ -55,6 +55,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vasario 3 d. Krašto
@@ -70,6 +71,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     - t-003
 
 - c-002
+  santrauka: 'Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kariuomenės štabo virši-

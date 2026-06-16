@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Minsko Lietuva šiame leidinyje minima kaip į rytus nuo Vidurinės Lietuvos buvusių senųjų rusėniškųjų LDK žemių pavadinimas; moderniosios Lietuvos kūrėjai į ją nebepretendavo.
+Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus. Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos. Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.
 
 ## Pavadinimai šaltiniuose
 
@@ -41,21 +41,21 @@ Nenurodyta
 <a id="claim-t-77010"></a>
 - t-001
   global_id: t-77010
-  teiginys: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
+  teiginys: 'Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-77011"></a>
 - t-002
   global_id: t-77011
-  teiginys: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
+  teiginys: 'Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-77012"></a>
 - t-003
   global_id: t-77012
-  teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
+  teiginys: 'Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.'
   pagrindžia:
     - c-003
 
@@ -72,13 +72,6 @@ Nenurodyta
   teiginys: 'Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-77015"></a>
-- t-006
-  global_id: t-77015
-  teiginys: 'Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-77016"></a>
 - t-007
@@ -140,6 +133,7 @@ Nenurodyta
     - t-006
 
 - c-004
+  santrauka: 'Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos valia vykusiuose rinkimuose gen. Liucijano

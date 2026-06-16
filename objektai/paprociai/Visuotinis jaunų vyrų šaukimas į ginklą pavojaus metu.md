@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kryžiuočių kariuomenei sutelkti buvo įsakyta griebtis ginklo visiems kariauti pajėgiantiems miestų ir kaimų jauniems vyrams.
+Kryžiuočių kariuomenei sutelkti į kovą buvo pašaukti kariauti pajėgiantys miestų ir kaimų jauni vyrai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,14 +32,14 @@ Nenurodyta
 <a id="claim-t-185931"></a>
 - t-001
   global_id: t-185931
-  teiginys: 'Kryžiuočių kariuomenei sutelkti buvo įsakyta griebtis ginklo visiems kariauti pajėgiantiems miestų ir kaimų jauniems vyrams.'
+  teiginys: 'Kryžiuočių kariuomenei sutelkti į kovą buvo pašaukti kariauti pajėgiantys miestų ir kaimų jauni vyrai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kryžiuočių kariuomenei sutelkti buvo įsakyta griebtis ginklo visiems kariauti pajėgiantiems miestų ir kaimų jauniems vyrams.'
+  santrauka: 'Kryžiuočių kariuomenei sutelkti į kovą buvo pašaukti kariauti pajėgiantys miestų ir kaimų jauni vyrai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į sto­

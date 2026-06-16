@@ -15,40 +15,37 @@ tags:
 
 ## Santrauka
 
-Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują aktą, normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti tikroji valstybių unija. Naują susitarimą patvirtino trys doku- mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de- legatai susikeitė. Melniko aktas (1501 m.): šiuo susita- rimu buvo norima įkurti viena jungtinė valstybė, kuri turė- tų bendrą seimą, bendrai vienoje vietoje rinktąjį valdovą, bendrą apsaugą ir bendrus pinigus. Melniko aktas (1501 m.): tuo būdu šis susitarimas pasiliko tik popieriuje: Lietuva ir Lenkija, kaip ir anksčiau, liko atskiros valstybės, tik vieno valdovo valdomos (personalinė unija). Bet vis dėlto, kai po 50 m. vėl iškilo Lietuvos ir Lenkijos santykių sunormavimo klausimas, lenkai.
+Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus. Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą. Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.
 
 ## Teiginiai
-
 <a id="claim-t-67483"></a>
 - t-001
   global_id: t-67483
-  teiginys: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-67484"></a>
-- t-002
-  global_id: t-67484
-  teiginys: 'Melniko aktas (1501 m.): tuo būdu šis susitarimas pasiliko tik popieriuje: Lietuva ir Lenkija, kaip ir anksčiau, liko atskiros valstybės, tik vieno valdovo valdomos (personalinė unija). Bet vis dėlto, kai po 50 m. vėl iškilo Lietuvos ir Lenkijos santykių sunormavimo klausimas, lenkai.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-67485"></a>
-- t-003
-  global_id: t-67485
   teiginys: 'Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67486"></a>
-- t-004
-  global_id: t-67486
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-67485"></a>
+- t-002
+  global_id: t-67485
   teiginys: 'Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   pagrindžia:
-    - c-004
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-67486"></a>
+- t-003
+  global_id: t-67486
+  teiginys: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -60,43 +57,14 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-
     legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
     rimą atskiru dokumentu patvirtino Aleksandras.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
-    kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re-
-    ceso aktų. Bet lietuviai sakė, kad 1501 m. aktų Lietuva neprisiekusi,
-    o 1563—4 m. seime jos delegatai neturėję neribotų įgaliojimų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu šis susitarimas pasiliko tik popieriuje: Lietuva
-    ir Lenkija, kaip ir anksčiau, liko atskiros valstybės, tik vieno
-    valdovo valdomos (personalinė unija). Bet vis dėlto, kai po
-    50 m. vėl iškilo Lietuvos ir Lenkijos santykių sunormavimo
-    klausimas, lenkai šitą susitarimą padarė derybų pagrindu. Ir
-    vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi pa-
-    imti iš to paties Melniko akto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
+- c-002
   santrauka: 'Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -110,8 +78,25 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
     pinigus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
+- c-003
+  santrauka: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
+    kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re-
+    ceso aktų. Bet lietuviai sakė, kad 1501 m. aktų Lietuva neprisiekusi,
+    o 1563—4 m. seime jos delegatai neturėję neribotų įgaliojimų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

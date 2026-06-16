@@ -168,7 +168,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/grupes/Tochtamišo totoriai]]
-- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
 - [[objektai/grupes/Auksinė Orda]]
@@ -184,6 +183,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]

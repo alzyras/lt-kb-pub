@@ -121,6 +121,7 @@ periodo_grupes:
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
-- [[objektai/grupes/Rusijos Federacija]]
+- [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas|Smolensko prastųjų žmonių sukilimas (sukilimas)]]
 - [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]
+- [[objektai/grupes/Rusijos Federacija]]
 - [[objektai/asmenys/Sofija (Švitrigailos žmona)]]

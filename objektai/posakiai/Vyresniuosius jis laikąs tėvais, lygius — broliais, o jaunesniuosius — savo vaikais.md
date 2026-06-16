@@ -24,17 +24,18 @@ tags:
 - Pagrindinė forma: vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais
 
 ## Teiginiai
-
 <a id="claim-t-06884"></a>
 - t-001
   global_id: t-06884
   teiginys: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusiškosios sritys pagrasino, kad jo nebeklau-
@@ -47,9 +48,11 @@ tags:
     piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
     jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
     kais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

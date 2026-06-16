@@ -15,17 +15,18 @@ tags:
 Šliūpas, o kai šį vokiečių valdžia privertė išvažiuoti į Ameriką, — vėl Mikšas.
 
 ## Teiginiai
-
 <a id="claim-t-01029"></a>
 - t-001
   global_id: t-01029
   teiginys: 'Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
@@ -37,9 +38,11 @@ tags:
     o kai šį vokiečių valdžia
     privertė išvažiuoti į
     Ameriką, — vėl Mikšas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

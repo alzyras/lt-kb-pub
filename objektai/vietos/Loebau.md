@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Nuo Torno Drevencos krantu iki Loebau (VII.
+Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi. Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau.
 
 ## Teiginiai
 
 <a id="claim-t-28395"></a>
 - t-001
   global_id: t-28395
-  teiginys: 'Prie Loebau atvedęs savo pulkus, magistras sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi.'
+  teiginys: 'Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-„Pienocentro“ pastatas Kaune (apie 1938).
+„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-71580"></a>
 - t-001
   global_id: t-71580
-  teiginys: '„Pienocentro“ pastatas Kaune (apie 1938).'
+  teiginys: '„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šventės

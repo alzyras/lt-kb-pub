@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus. Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262. Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.
+Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius. 1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją. Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-62814"></a>
 - t-001
   global_id: t-62814
-  teiginys: 'Gerlachas Rudasis pranešė popiežiui, kad magistras Folkvinas ir daug brolių bei maldininkų žuvo kovoje.'
+  teiginys: 'Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Nenurodyta
 <a id="claim-t-62817"></a>
 - t-004
   global_id: t-62817
-  teiginys: 'Dusburgietis teigia, kad 263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
+  teiginys: '263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
   pagrindžia:
     - c-001
     - c-002
@@ -96,6 +96,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
@@ -129,12 +130,12 @@ Nenurodyta
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/asmenys/Folkvinas]]
-- [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]

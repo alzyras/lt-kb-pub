@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Tai sukėlė nesiliaujančius vaidus tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­ kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­ vo šaltinį netoli miesto, už Subačiaus vartų, prie.
+Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
 
 ## Laikotarpis ir datos
 
@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-87310"></a>
 - t-001
   global_id: t-87310
-  teiginys: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
+  teiginys: 'Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
+  santrauka: 'Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus

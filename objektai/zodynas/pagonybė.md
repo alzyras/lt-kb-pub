@@ -88,7 +88,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Romai]]
 - [[objektai/autoriai/A. Brückner]]
@@ -110,7 +109,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/paprociai/Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi]]
 - [[objektai/asmenys/Dobrogostas]]
 - [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/asmenys/Engelhardas Rabė]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Gediminas]]
@@ -138,7 +136,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
-- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
@@ -151,7 +148,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu prie pagonybės]]
@@ -226,4 +222,6 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 - [[objektai/posakiai/„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]
+- [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams]]
+- [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje]]
 - [[objektai/autoriai/Motiejus Stryjkovskis]]

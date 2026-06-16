@@ -20,14 +20,14 @@ amziai:
 
 ## Santrauka
 
-Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę. Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę. 1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare. 1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 
 ## Teiginiai
 
 <a id="claim-t-85928"></a>
 - t-001
   global_id: t-85928
-  teiginys: '1811 m. Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus ir vėliau juos įsigijo kaip nuosavybę.'
+  teiginys: '1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.'
   pagrindžia:
     - c-001
 
@@ -55,7 +55,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1811 m. Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus ir vėliau juos įsigijo kaip nuosavybę.'
+  santrauka: '1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būsimo

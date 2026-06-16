@@ -13,51 +13,28 @@ tags:
 
 ## Santrauka
 
-Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
+Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga. Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.
 
 ## Teiginiai
 
-<a id="claim-t-22017"></a>
+<a id="claim-t-22018"></a>
 - t-001
-  global_id: t-22017
-  teiginys: 'Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus.'
+  global_id: t-22018
+  teiginys: 'Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-22018"></a>
-- t-002
-  global_id: t-22018
-  teiginys: 'Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183457"></a>
-- t-004
+- t-002
   global_id: t-183457
   teiginys: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Planinės ekonomikos laivas plūduriavo kapitalizmo
-    jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
-    dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką. Tam reikėjo
-    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
-    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
-    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
-    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
-    pasaulio ekonomikos standartus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
@@ -68,28 +45,9 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
-  santrauka: 'Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų pasaulio ekonomikos standartus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tam reikėjo
-    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
-    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
-    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
-    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
-    pasaulio ekonomikos standartus.
-    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
-    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
-    pasinaudojo ne visi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
+- c-002
   santrauka: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -103,9 +61,4 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Investiciniai čekiai]]
-- [[objektai/paprociai/Valstybinio turto privatizavimas investiciniais čekiais]]
+    - t-002

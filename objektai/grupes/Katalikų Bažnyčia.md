@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo su juo kovą.
+Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo. Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija. XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.
 
 ## Teiginiai
 
@@ -39,21 +39,21 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116727"></a>
 - t-002
   global_id: t-116727
-  teiginys: 'Dusburgietis teigia, kad šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
+  teiginys: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-116728"></a>
 - t-003
   global_id: t-116728
-  teiginys: 'XIII-XIV a. Lietuvos istorijai nušviesti svarbios kronikos apie kovas prieš Kryžiuočių ordiną, Vakarų Europos feodalus ir katalikų bažnyčią.'
+  teiginys: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-116729"></a>
 - t-004
   global_id: t-116729
-  teiginys: 'Bažnyčios su dviem grakščiais bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
+  teiginys: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   pagrindžia:
     - c-003
 
@@ -81,14 +81,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116733"></a>
 - t-008
   global_id: t-116733
-  teiginys: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios stačiatikių vyskupijos.'
+  teiginys: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-116734"></a>
 - t-009
   global_id: t-116734
-  teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
+  teiginys: 'Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-014
 
@@ -116,7 +116,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116738"></a>
 - t-013
   global_id: t-116738
-  teiginys: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  teiginys: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.'
   pagrindžia:
     - c-002
 
@@ -165,7 +165,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 <a id="claim-t-116745"></a>
 - t-020
   global_id: t-116745
-  teiginys: '„Kronika“ virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
+  teiginys: '„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
   pagrindžia:
     - c-010
 
@@ -195,7 +195,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-016
 
 - c-002
-  santrauka: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  santrauka: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo ruožtu pagrindinis tikslas – Lietu-
@@ -218,7 +218,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-013
 
 - c-003
-  santrauka: 'Bažnyčios su dviem grakščiais bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
+  santrauka: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryškiausias ypatumas – ypač aukšti ir
@@ -234,6 +234,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-004
 
 - c-004
+  santrauka: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Visi šie faktai rodo, kad XIII a. baltų žemėse, t. y. pačių lietuvių (su žemaičiais),
@@ -365,7 +366,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-001
 
 - c-010
-  santrauka: '„Kronika“ virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
+  santrauka: '„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
@@ -437,6 +438,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-014
 
 - c-014
+  santrauka: 'Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
@@ -458,7 +460,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-009
 
 - c-015
-  santrauka: 'XIII-XIV a. Lietuvos istorijai nušviesti svarbios kronikos apie kovas prieš Kryžiuočių ordiną, Vakarų Europos feodalus ir katalikų bažnyčią.'
+  santrauka: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
@@ -479,7 +481,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
     - t-003
 
 - c-016
-  santrauka: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios stačiatikių vyskupijos.'
+  santrauka: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1387 m.
@@ -586,7 +588,6 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/dominija]]
 - [[objektai/zodynas/kulto laisvė]]
 - [[objektai/zodynas/kunigas]]
@@ -596,14 +597,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/autoriai/A. Alekna]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
 - [[objektai/asmenys/Kristijonas]]
+- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/zodynas/kirilika]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]

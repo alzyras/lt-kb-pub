@@ -15,55 +15,63 @@ tags:
 
 ## Santrauka
 
-1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Taigi ir Salyno sutartis buvo sudaryta jo paties autoritetu: Jogaila ten nė žodžiu neminimas.
+1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi. Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami. Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.
 
 ## Teiginiai
-
 <a id="claim-t-67534"></a>
 - t-001
   global_id: t-67534
-  teiginys: '1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis.'
+  teiginys: '1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi.'
   pagrindžia:
-    - c-003
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-67535"></a>
 - t-002
   global_id: t-67535
-  teiginys: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
+  teiginys: 'Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį.'
   pagrindžia:
-    - c-004
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-67536"></a>
 - t-003
   global_id: t-67536
   teiginys: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-67537"></a>
-- t-004
-  global_id: t-67537
-  teiginys: 'Po Salyno sutarties žemaičiai taip pat nepasidavė geruoju: juos teko jėga pavergti.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-67538"></a>
-- t-005
-  global_id: t-67538
-  teiginys: 'Kai šis apsiėmė laikytis Salyno sutarties, ordinas pradėjo karą, norėdamas pašalinti Vytautą ir jo vietoje pastatyti Švitrigailą.'
-  pagrindžia:
-    - c-006
-
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-67539"></a>
-- t-006
+- t-004
   global_id: t-67539
-  teiginys: 'Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).'
+  teiginys: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
   pagrindžia:
-    - c-001
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
+  santrauka: '1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
+    įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
+    buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala
+    Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo pasirašymo vie-
@@ -73,13 +81,14 @@ tags:
     Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
     ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
     rytuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-
-- c-002
+    - t-002
+- c-003
   santrauka: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -92,26 +101,13 @@ tags:
     autoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats,
     nesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui
     didelius jam pavestos valstybės plotus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
-    įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
-    buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala
-    Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
-    tos ir sutartis vadinama Salyno sutartim.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-004
   santrauka: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -121,33 +117,10 @@ tags:
     Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
     sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
     Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pabėg-
-    damas į ordiną, Vytautas irgi atiduodavo jam Žemaičius (1384 ir
-    1390 m.). Tačiau ordinas vis nepajėgdavo jų užimti. Po Salyno
-    sutarties žemaičiai taip pat nepasidavė geruoju: juos teko jėga
-    pavergti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai šis apsiėmė laikytis Salyno sutarties, ordinas pradėjo karą,
-    norėdamas pašalinti Vytautą ir jo vietoje pastatyti Švitrigailą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005

@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos“ autorius. Leidinio įvade jis apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs kroniką ir įteikęs ją magistrui; kronika buvo pratęsta iki 1330 m., o jos tekstas rodo autoriaus teologinį išsilavinimą. To paties leidinio pratarmėje autorius pats išdėsto kronikos paskirtį, užbaigimo datą ir nurodo, kad remiasi savo matytais, dalyvių papasakotais bei iš patikimų šaltinių perimtais dalykais.
+Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje. Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms. Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
 
 ## Teiginiai
 
@@ -94,7 +94,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181469"></a>
 - t-011
   global_id: t-181469
-  teiginys: 'Dusburgietis teigia, kad epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
+  teiginys: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
   pagrindžia:
     - c-005
 
@@ -143,7 +143,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 <a id="claim-t-181476"></a>
 - t-018
   global_id: t-181476
-  teiginys: 'Dusburgietis teigia, kad petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
+  teiginys: 'Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
   pagrindžia:
     - c-010
 
@@ -230,6 +230,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-013
 
 - c-005
+  santrauka: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Epocha, kurioje rašė Petras iš Dusburgo
@@ -360,6 +361,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - t-004
 
 - c-010
+  santrauka: 'Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
@@ -455,7 +457,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]
 - [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
-- [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]
 - [[objektai/autoriai/M. Poliakuvna]]
 - [[objektai/posakiai/Maldininke, nuramink žęmę]]
 - [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs]]
@@ -463,7 +464,10 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/zodynas/Prūsijos žemė]]
 - [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/asmenys/Tropas]]
+- [[objektai/asmenys/Ulrichas iš Magdeburgo]]
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
+- [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės]]
 - [[objektai/posakiai/moteriškos vilionės palaužė stiprųjį Samsoną]]
 - [[objektai/posakiai/nesibaiminkite visokeriopų vargų]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Čia buvo pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
+Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.
 
 ## Pavadinimai šaltiniuose
 
@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-87086"></a>
 - t-001
   global_id: t-87086
-  teiginys: 'Nuo senosios medinės tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki pat Vilijos.'
+  teiginys: 'Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Nuo senosios medinės tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki pat Vilijos.'
+  santrauka: 'Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     17

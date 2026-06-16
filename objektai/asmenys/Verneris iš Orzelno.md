@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras iš Dusburgo įteikė savo kroniką. Jis siejamas su Ordino restauracija, vidaus reforma, liturginės tvarkos nustatymu ir 1329 m. žygiu į Žemaitiją.
+Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d. Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai. Generalinėje kapituloje Verneris nustatė kunigams kasdien po sumos skaityti evangeliją „Pradžioje buvo žodis“ ir nurodė broliams klauptis ties žodžiais „Ir žodis tapo kūnu“.
 
 ## Vaidmenys
 
@@ -55,14 +55,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64224"></a>
 - t-004
   global_id: t-64224
-  teiginys: 'Norint atremti Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-64225"></a>
-- t-005
-  global_id: t-64225
-  teiginys: 'Norint atremti Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, Verneriui reikėjo kronikos.'
+  teiginys: 'Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.'
   pagrindžia:
     - c-003
 
@@ -76,7 +69,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 <a id="claim-t-64227"></a>
 - t-007
   global_id: t-64227
-  teiginys: 'Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai po sumos kasdien skaitytų evangeliją.'
+  teiginys: 'Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją.'
   pagrindžia:
     - c-011
 
@@ -359,6 +352,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Laužas]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]

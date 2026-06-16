@@ -22,44 +22,20 @@ amziai:
 
 ## Santrauka
 
-Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
 
 ## Teiginiai
 
-<a id="claim-t-21154"></a>
-- t-001
-  global_id: t-21154
-  teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-183366"></a>
-- t-002
+- t-001
   global_id: t-183366
   teiginys: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Demokratinė Rusija, kaip ir
-    Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl
-    nepriklausomybės. Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
-    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
-    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
-    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
-    apie Rusijos ir jos tautų ateitį. Draugiški valstybių vadovų santykiai leido
-    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -75,4 +51,4 @@ Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Feder
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

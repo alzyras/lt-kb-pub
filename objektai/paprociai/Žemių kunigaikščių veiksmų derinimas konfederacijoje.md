@@ -74,4 +74,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/santvarka]]

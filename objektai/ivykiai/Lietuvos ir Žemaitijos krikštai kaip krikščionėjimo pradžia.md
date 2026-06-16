@@ -77,7 +77,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/gotika]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]

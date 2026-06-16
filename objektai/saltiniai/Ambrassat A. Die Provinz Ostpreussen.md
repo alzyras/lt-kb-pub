@@ -31,14 +31,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389). Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421). Dusburgietis teigia, kad ambrassat A.
+Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo. A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.
 
 ## Teiginiai
 
 <a id="claim-t-60947"></a>
 - t-001
   global_id: t-60947
-  teiginys: 'Gilgenburgo ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.'
+  teiginys: 'Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.'
   pagrindžia:
     - c-002
 
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
     - t-002
 
 - c-002
-  santrauka: 'Gilgenburgo ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.'
+  santrauka: 'Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,

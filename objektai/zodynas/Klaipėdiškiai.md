@@ -75,5 +75,5 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]
-- [[objektai/zodynas/lietuvininkai]]
 - [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]
+- [[objektai/zodynas/lietuvininkai]]

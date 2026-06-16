@@ -55,4 +55,3 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
 - [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/zodynas/getas]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

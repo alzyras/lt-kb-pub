@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo. Dusburgietis teigia, kad viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė Varmių vadui Glapui, kad broliai esą iš čia išvykę. Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.
+Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva. Glapas su kariuomene buvo užkluptas apgulęs pilį ir netikėtai užpultas brolių bei ginklanešių. Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.
 
 ## Teiginiai
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 <a id="claim-t-89792"></a>
 - t-004
   global_id: t-89792
-  teiginys: 'Viena prūsė pabėgo iš pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
+  teiginys: 'Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 <a id="claim-t-184072"></a>
 - t-006
   global_id: t-184072
-  teiginys: 'Viena prūsė pabėgo iš Brandenburgo pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
+  teiginys: 'Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.'
   pagrindžia:
     - c-005
 
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-001
 
 - c-002
-  santrauka: 'Viena prūsė pabėgo iš pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
+  santrauka: 'Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viena prūsė, vergų luomo ir Belialo duktė, pabėgo iš šios pilies ir pranešė
@@ -139,7 +139,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-005
 
 - c-005
-  santrauka: 'Viena prūsė pabėgo iš Brandenburgo pilies ir pranešė Varmių vadui Glapui, kad broliai iš jos išvykę.'
+  santrauka: 'Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai
@@ -164,7 +164,6 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vergai]]

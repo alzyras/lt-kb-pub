@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Mūšis aprašomas kaip lietuvių puolimas prieš besitraukiančias Švedijos ir Brandenburgo pajėgas ties Prostkais. Tekste išskiriamas apgaulingas lietuvių atsitraukimo manevras, priešo puolimo sužlugdymas ir Boguslavo Radvilos patekimą į nelaisvę. 1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.
+Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė. Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių. 1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės.
 
 ## Laikotarpis ir datos
 
@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-78632"></a>
 - t-001
   global_id: t-78632
-  teiginys: 'Švedijos ir jos sąjungininko Brandenburgo besitraukiančias pajėgas ties Prostkais pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujamos pajėgos.'
+  teiginys: 'Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė.'
   pagrindžia:
     - c-001
 
@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-78634"></a>
 - t-003
   global_id: t-78634
-  teiginys: 'Spalio 8 d. ties Prostkais priešingos kariuomenės suartėjo prie Elko upės.'
+  teiginys: '1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės.'
   pagrindžia:
     - c-004
 

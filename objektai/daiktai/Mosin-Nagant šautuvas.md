@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuomenė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
+Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas. Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.
 
 ## Pavadinimai šaltiniuose
 
@@ -52,13 +52,21 @@ Nenurodyta
 <a id="claim-t-39209"></a>
 - t-001
   global_id: t-39209
-  teiginys: 'Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuomenė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
+  teiginys: 'Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183687"></a>
+- t-002
+  global_id: t-183687
+  teiginys: 'Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuo-
@@ -79,7 +87,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuomenė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
+  santrauka: 'Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Įvairių pajėgų naudotas kovų metu buvusioje Rusijos imperijos teritorijoje.
@@ -95,5 +103,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]

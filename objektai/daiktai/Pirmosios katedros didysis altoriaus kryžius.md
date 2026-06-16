@@ -73,3 +73,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Kryžius]]

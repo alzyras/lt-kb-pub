@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­ mi patį Kijevą ir Lucką.
+1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 
 ## Laikotarpis ir datos
 
@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-34538"></a>
 - t-001
   global_id: t-34538
-  teiginys: '1414-1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
+  teiginys: '1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1414–1416 m. Edygos vadovaujami totoriai dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­

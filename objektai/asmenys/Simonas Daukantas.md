@@ -26,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.
+Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi. Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“. P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.
 
 ## Teiginiai
 
@@ -78,13 +78,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   teiginys: 'Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.'
   pagrindžia:
     - c-004
-
-<a id="claim-t-183567"></a>
-- t-009
-  global_id: t-183567
-  teiginys: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -195,32 +188,12 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   pagrindžia:
     - t-002
 
-- c-007
-  santrauka: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
-    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
-    plito nuorašais. Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
-    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
-    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
-    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
-    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
-    Simonas Daukantas. Dail. J. Zenkevičius,
-    1850 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vilniaus archeologijos komisija]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]

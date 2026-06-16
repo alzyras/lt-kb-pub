@@ -48,3 +48,4 @@ Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino
 - [[objektai/asmenys/Edigejus]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/daiktai/Kalavijas]]

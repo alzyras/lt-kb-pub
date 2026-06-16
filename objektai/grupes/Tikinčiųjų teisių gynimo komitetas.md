@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar. Komitetas siekė katalikams lygių teisių su ateistais, atkreipė dėmesį į tikinčiųjų diskriminavimo faktus, prašė padėti apginti tikinčiųjų teises.
+Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises. 1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą.
 
 ## Teiginiai
 
 <a id="claim-t-20047"></a>
 - t-001
   global_id: t-20047
-  teiginys: 'Komitetas siekė katalikams lygių teisių su ateistais, atkreipė dėmesį į tikinčiųjų diskriminavimo faktus, prašė padėti apginti tikinčiųjų teises.'
+  teiginys: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ tags:
     - t-002
 
 - c-002
+  santrauka: 'Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-

@@ -56,3 +56,4 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
 
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/ponai]]

@@ -15,17 +15,18 @@ tags:
 Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
 
 ## Teiginiai
-
 <a id="claim-t-02572"></a>
 - t-001
   global_id: t-02572
   teiginys: 'Kopenhagos derybos dėl Nemuno atidarymo vėliau buvo tęsiamos Lugane, Šveicarijoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kopenhagos derybos dėl Nemuno atidarymo vėliau buvo tęsiamos Lugane, Šveicarijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
@@ -36,8 +37,10 @@ Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
     Nemuną miško plukdymui, todėl pasiūlymą priėmė. Kopen-
     hagos derybos vėliau dar buvo tęsiamos Luganoj (Šveica-
     rijoje).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

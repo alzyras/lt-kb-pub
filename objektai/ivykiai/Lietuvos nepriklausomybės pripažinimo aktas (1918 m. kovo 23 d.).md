@@ -9,10 +9,10 @@ date_start: '1918'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
 amziai:
   - 'XX'
+tags:
+  - ivykis
 ---
 # Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)
 
@@ -33,17 +33,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01732"></a>
 - t-001
   global_id: t-01732
   teiginys: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovo mėn.
@@ -54,9 +55,11 @@ Nenurodyta
     kaizeris Vilhelmas II tą pačią dieną pasirašė pripažinimo aktą,
     surišdamas tą pripažinimą su artimų santykių užmezgimu su
     Vokietija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

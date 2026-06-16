@@ -2,7 +2,6 @@
 tipas: vieta
 pavadinimas: 'Ortelsburgas'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -12,26 +11,25 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - miestas
   - pilis
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Ortelsburgas
 
 ## Santrauka
 
-Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
+Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose. Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti.
 
 ## Teiginiai
-
 <a id="claim-t-182872"></a>
 - t-001
   global_id: t-182872
-  teiginys: 'Tais pačiais metais Kęstutis Prūsuose puolė Ortelsburgą ir talkino Liubarto bei Algirdo žygiuose.'
+  teiginys: 'Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose.'
   pagrindžia:
     - c-002
 
@@ -43,7 +41,6 @@ amziai:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -60,9 +57,8 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
-  santrauka: 'Tais pačiais metais Kęstutis Prūsuose puolė Ortelsburgą ir talkino Liubarto bei Algirdo žygiuose.'
+  santrauka: 'Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Taip kronikose vėl atsi­

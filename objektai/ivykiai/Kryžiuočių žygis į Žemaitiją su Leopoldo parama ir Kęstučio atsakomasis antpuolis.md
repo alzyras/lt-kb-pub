@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą. Kęstutis, negalėdamas pasivyti atsitraukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.
+Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą. Kęstutis, nepasivijęs atgal traukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185729"></a>
 - t-002
   global_id: t-185729
-  teiginys: 'Kęstutis, negalėdamas pasivyti atsitraukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
+  teiginys: 'Kęstutis, nepasivijęs atgal traukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
   pagrindžia:
     - c-002
 
@@ -76,7 +76,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Kęstutis, negalėdamas pasivyti atsitraukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
+  santrauka: 'Kęstutis, nepasivijęs atgal traukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išžudę tuos, kurie netiko nei

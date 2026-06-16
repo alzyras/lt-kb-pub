@@ -111,4 +111,5 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/daiktai/Kardas]]

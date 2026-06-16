@@ -10,14 +10,14 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - ežeras
   - kraštas
   - sutartis
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Druskininkai
 
@@ -26,7 +26,6 @@ amziai:
 O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta nuo savųjų. 2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.
 
 ## Teiginiai
-
 <a id="claim-t-170325"></a>
 - t-001
   global_id: t-170325
@@ -35,7 +34,6 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

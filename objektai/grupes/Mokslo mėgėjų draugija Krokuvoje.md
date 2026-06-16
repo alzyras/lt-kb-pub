@@ -16,24 +16,26 @@ tags:
 Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universitetas patyrinėtų jų praeitį ir šį tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.
 
 ## Teiginiai
-
 <a id="claim-t-01420"></a>
 - t-001
   global_id: t-01420
   teiginys: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182910"></a>
 - t-002
   global_id: t-182910
   teiginys: 'Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet tuo pačiu metu va-
@@ -51,12 +53,13 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     lietuvių stovįs universitetas
     patyrinėtų jų praeitį ir šį
     tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -73,9 +76,11 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj. Tokį pra-
     nešimą Krokuvoje padarė Vilniaus universiteto garbės narys, uk-
     mergiškis kunigas Ks.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

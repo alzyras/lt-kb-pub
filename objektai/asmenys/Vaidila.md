@@ -9,15 +9,15 @@ date_start: '1380'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - karas
   - miestas
   - pilis
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Vaidila
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila. Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti. Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
 
 ## Teiginiai
-
 <a id="claim-t-87462"></a>
 - t-001
   global_id: t-87462
@@ -49,7 +48,6 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -69,7 +67,6 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -95,7 +92,6 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -143,4 +139,5 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - [[objektai/zodynas/Arkikomtūras]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/ivykiai/Vaidilos pakorimas Kęstučio įsakymu]]

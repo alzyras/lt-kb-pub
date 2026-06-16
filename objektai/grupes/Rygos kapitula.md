@@ -87,10 +87,10 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia]]

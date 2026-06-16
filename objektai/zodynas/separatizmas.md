@@ -70,7 +70,6 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/asmenys/M. Muravjovas]]
-- [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/rusinimas rusinimo politika]]

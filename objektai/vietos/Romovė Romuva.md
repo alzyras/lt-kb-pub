@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės resp. Romuvos vieta apskritai nebeatsekama. Dusburgietis teigia, kad aprašyta Romovė resp. Romuva — autentiškas faktas.
+Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras. Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama. Aprašyta Romovė resp. Romuva — autentiškas faktas.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
 <a id="claim-t-58477"></a>
 - t-003
   global_id: t-58477
-  teiginys: 'Dusburgietis teigia, kad aprašyta Romovė resp. Romuva — autentiškas faktas.'
+  teiginys: 'Aprašyta Romovė resp. Romuva — autentiškas faktas.'
   pagrindžia:
     - c-003
 
@@ -66,6 +66,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
     - t-001
 
 - c-003
+  santrauka: 'Aprašyta Romovė resp. Romuva — autentiškas faktas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mūsų nuomone, D. aprašyta Romovė resp. Romuva — autentiškas faktas.

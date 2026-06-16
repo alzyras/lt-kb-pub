@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
+1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR. 1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo Lietuvos Respublikos, o ne LSSR. 1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR.
 
 ## Teiginiai
 
@@ -32,7 +32,7 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
 <a id="claim-t-46507"></a>
 - t-002
   global_id: t-46507
-  teiginys: '1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė su plakatu reikalavo ne LSSR, o Lietuvos Respublikos.'
+  teiginys: '1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo Lietuvos Respublikos, o ne LSSR.'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
     - t-003
 
 - c-002
-  santrauka: '1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė su plakatu reikalavo ne LSSR, o Lietuvos Respublikos.'
+  santrauka: '1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo Lietuvos Respublikos, o ne LSSR.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.

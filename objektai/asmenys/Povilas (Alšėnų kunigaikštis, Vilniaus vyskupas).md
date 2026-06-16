@@ -308,7 +308,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/dignitoriai]]

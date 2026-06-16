@@ -12,11 +12,11 @@ date_start: '1801'
 date_end: '1900'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 tags:
   - kraštas
   - sąvoka
-amziai:
-  - 'XIX'
 ---
 # generalgubernatorius
 
@@ -25,7 +25,6 @@ amziai:
 Jį valdė Vilniaus generalgubernatorius.
 
 ## Teiginiai
-
 <a id="claim-t-45820"></a>
 - t-001
   global_id: t-45820
@@ -45,25 +44,11 @@ Jį valdė Vilniaus generalgubernatorius.
   global_id: t-182947
   teiginys: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
   pagrindžia:
-    - c-001
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
-    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
-    sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
-    šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
-    bernatorius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -77,7 +62,6 @@ Jį valdė Vilniaus generalgubernatorius.
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -95,7 +79,6 @@ Jį valdė Vilniaus generalgubernatorius.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -112,6 +95,22 @@ Jį valdė Vilniaus generalgubernatorius.
   statusas: verified
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
+    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
+    sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
+    šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
+    bernatorius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -131,3 +130,4 @@ Jį valdė Vilniaus generalgubernatorius.
 - [[objektai/asmenys/T. Dalevskis]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]
 - [[objektai/zodynas/rusinimas rusinimo politika]]
+- [[objektai/asmenys/V. Nazimovas]]

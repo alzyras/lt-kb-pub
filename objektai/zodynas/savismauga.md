@@ -50,7 +50,6 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/posakiai/„savismauga“]]
-- [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/zodynas/ponų tauta viešpataujanti tauta]]
 - [[objektai/zodynas/rasės atžvilgiu svetimi elementai]]
 - [[objektai/posakiai/„viešpataujanti“ „ponų tauta“]]

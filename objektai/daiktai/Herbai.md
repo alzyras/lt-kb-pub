@@ -11,16 +11,16 @@ date_start: '1401'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - simbolis
 amziai:
   - 'XV'
+tags:
+  - simbolis
 ---
 # Herbai
 
 ## Santrauka
 
-Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasisavinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė išvadą, kad iš romėnų kilę lietuviai esą kilnesni už lenkus. Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lietuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
+Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai. Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą. Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
 
 ## Pavadinimai šaltiniuose
 
@@ -43,7 +43,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-12289"></a>
 - t-001
   global_id: t-12289
@@ -73,13 +72,6 @@ Nenurodyta
   pagrindžia:
     - c-004
 
-<a id="claim-t-92960"></a>
-- t-005
-  global_id: t-92960
-  teiginys: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-92961"></a>
 - t-006
   global_id: t-92961
@@ -90,7 +82,7 @@ Nenurodyta
 <a id="claim-t-92962"></a>
 - t-007
   global_id: t-92962
-  teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
+  teiginys: 'Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.'
   pagrindžia:
     - c-007
 
@@ -108,22 +100,26 @@ Nenurodyta
   pagrindžia:
     - c-007
 
-<a id="claim-t-92965"></a>
-- t-010
-  global_id: t-92965
-  teiginys: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-92966"></a>
 - t-011
   global_id: t-92966
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.'
   pagrindžia:
     - c-009
+- t-012
+  teiginys: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
+  pagrindžia:
+    - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
+  pagrindžia:
+    - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -136,7 +132,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -152,7 +147,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -169,7 +163,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -183,44 +176,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-005
-  santrauka: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš to jie padarė išvadą, kad lietuviai ir romėnai
-    seniau būsią kalbėję viena kalba; taigi lietuviai, jų nuomone,
-    būsią kilę iš romėnų.
-    Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
-    tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
-    Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasi-
-    savinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė
-    išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
-    kus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo pat metu daugelis lietuvių
-    pramoko lotyniškai, susipažino su Romos imperijos istorija ir
-    pastebėjo, kad daugelis lietuviškųjų žodžių skamba panašiai į
-    lotyniškuosius. Iš to jie padarė išvadą, kad lietuviai ir romėnai
-    seniau būsią kalbėję viena kalba; taigi lietuviai, jų nuomone,
-    būsią kilę iš romėnų.
-    Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
-    tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -253,7 +208,6 @@ Nenurodyta
   pagrindžia:
     - t-009
     - t-007
-
 - c-008
   santrauka: 'Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -273,7 +227,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -294,7 +247,6 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-011
-
 - c-010
   santrauka: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -314,6 +266,45 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
+- c-011
+  santrauka: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo pat metu daugelis lietuvių
+    pramoko lotyniškai, susipažino su Romos imperijos istorija ir
+    pastebėjo, kad daugelis lietuviškųjų žodžių skamba panašiai į
+    lotyniškuosius. Iš to jie padarė išvadą, kad lietuviai ir romėnai
+    seniau būsią kalbėję viena kalba; taigi lietuviai, jų nuomone,
+    būsią kilę iš romėnų.
+    Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
+    tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-012
+  santrauka: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš to jie padarė išvadą, kad lietuviai ir romėnai
+    seniau būsią kalbėję viena kalba; taigi lietuviai, jų nuomone,
+    būsią kilę iš romėnų.
+    Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
+    tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
+    Tuo tarpu Lietuvos istorikai ėmė teigti, kad lenkai herbus pasi-
+    savinę iš čekų, o šie savo rėžtu — iš romėnų; tuo būdu jie padarė
+    išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
+    kus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -328,6 +319,7 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Julius Slovackis]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
@@ -335,20 +327,19 @@ Nenurodyta
 - [[objektai/daiktai/Stulpai]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/kultūrinimas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/nobilitetas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/šlėkta]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/posakiai/senesnė ir garbingesnė, negu lenkų]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
-- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]
-- [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]

@@ -16,10 +16,9 @@ tags:
 
 ## Santrauka
 
-Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.
+Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų. Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų. 1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.
 
 ## Teiginiai
-
 <a id="claim-t-89681"></a>
 - t-001
   global_id: t-89681
@@ -27,49 +26,24 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   pagrindžia:
     - c-002
 
-<a id="claim-t-89682"></a>
-- t-002
-  global_id: t-89682
-  teiginys: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-89683"></a>
-- t-003
-  global_id: t-89683
-  teiginys: 'Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-89684"></a>
-- t-004
-  global_id: t-89684
-  teiginys: 'Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-184682"></a>
 - t-005
-  global_id: t-184682
   teiginys: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
-    jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
-    to paties Boleslovo. Ir Bonifacas buvo paskelbtas šventuoju
-    kankiniu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-002
   santrauka: 'Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,25 +64,25 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
-    Pagaliau
-    1008 m. gale jis iš-
-    vyko iš Lenkijos
-    aisčių krikštyti net
-    su 18 palydovų.
-    Bet ir jo misijos
-    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
-    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-004
+    - t-005
+- c-006
   santrauka: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -128,35 +102,37 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     vyko iš Lenkijos
     aisčių krikštyti net
     su 18 palydovų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-005
-  santrauka: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+    - t-007
+- c-007
+  santrauka: '1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po to nugalėtojai, paleisti pasiplėšti grobio,
-    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
-    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
-    toli Livonijos įlankos, magistras Brunonas nirtulingai
-    juos užpuolė prie Treiderės upės, jau apsikrovusius
-    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
-    dėl to, kad neturėjo po ranka kariuomenės (paprastai
-    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
-    džiusi po kaimus.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
+    Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+    Bet ir jo misijos
+    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
+    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Jotvingai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/magistras]]

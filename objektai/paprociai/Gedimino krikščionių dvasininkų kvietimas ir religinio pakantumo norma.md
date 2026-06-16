@@ -116,5 +116,6 @@ Nenurodyta
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/grupes/Domininkonų ordinas]]

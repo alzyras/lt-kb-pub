@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai? Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo. Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.
+1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo. Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos. XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   global_id: t-90458
   teiginys: '1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-90459"></a>
 - t-002
@@ -56,33 +56,26 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   pagrindžia:
     - c-003
 
-<a id="claim-t-90462"></a>
-- t-005
-  global_id: t-90462
-  teiginys: 'Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-90463"></a>
-- t-006
+- t-005
   global_id: t-90463
   teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-90464"></a>
-- t-007
+- t-006
   global_id: t-90464
   teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-90465"></a>
-- t-008
+- t-007
   global_id: t-90465
-  teiginys: '1232 m. Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
+  teiginys: '1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -113,7 +106,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
     - t-002
 
 - c-003
@@ -134,20 +127,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - t-004
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
-    tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-
-    sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
-    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
-    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   santrauka: '1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -161,7 +140,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -173,10 +152,10 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-007
-  santrauka: '1232 m. Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
+- c-006
+  santrauka: '1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     24. Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
@@ -189,4 +168,4 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007

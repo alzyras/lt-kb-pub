@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
+Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli. Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų. II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.
 
 ## Teiginiai
 
@@ -48,7 +48,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 <a id="claim-t-169586"></a>
 - t-003
   global_id: t-169586
-  teiginys: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
+  teiginys: 'II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.'
   pagrindžia:
     - c-003
 
@@ -134,6 +134,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-005
 
 - c-003
+  santrauka: 'II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau,
@@ -248,7 +249,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/grupes/Andrejaus Vlasovo armija]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/grupes/Joniškėlio partizanų batalionas]]
 - [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
@@ -296,6 +296,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/terrula žemelė]]
+- [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/grupes/Kuršiai]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos sutartimi“). Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.
+Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“. Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 <a id="claim-t-20928"></a>
 - t-002
   global_id: t-20928
-  teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
+  teiginys: 'Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
   pagrindžia:
     - c-002
 
@@ -56,6 +56,7 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     - t-001
 
 - c-002
+  santrauka: 'Prie 1920 m. liepos 12 d. taikos sutarties 2 straipsnio sovietai įbruko slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apskritai 1920 m. liepos 12 d.

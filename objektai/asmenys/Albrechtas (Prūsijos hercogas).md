@@ -51,5 +51,6 @@ Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įk�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]]

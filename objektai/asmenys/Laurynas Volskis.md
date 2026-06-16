@@ -60,6 +60,7 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/kahalas]]
 - [[objektai/zodynas/kapitula]]

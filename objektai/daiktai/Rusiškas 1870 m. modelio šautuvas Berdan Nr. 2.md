@@ -83,5 +83,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.
+Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai. 1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus. Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
 
 ## Teiginiai
 
@@ -35,7 +35,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 <a id="claim-t-65205"></a>
 - t-002
   global_id: t-65205
-  teiginys: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinė Lietuvos komunistų partija mitingo metu mėgino užimti AT rūmus.'
+  teiginys: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus.'
   pagrindžia:
     - c-002
 
@@ -49,14 +49,14 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 <a id="claim-t-65207"></a>
 - t-004
   global_id: t-65207
-  teiginys: 'Apie 400 „raudonraiščių“ buvo vadovaujami komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
+  teiginys: 'Apie 400 „raudonraiščių“ vadovavo „Nacionalinio gelbėjimo komiteto“ lyderiai ir Valerijaus Ivanovo organizacija „Jedinstvo“.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-183135"></a>
 - t-005
   global_id: t-183135
-  teiginys: 'Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.'
+  teiginys: 'Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.'
   pagrindžia:
     - c-005
 
@@ -79,7 +79,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-003
 
 - c-002
-  santrauka: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinė Lietuvos komunistų partija mitingo metu mėgino užimti AT rūmus.'
+  santrauka: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po to, kai 1990 m. kovo 11 d. buvo pa-
@@ -124,7 +124,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-001
 
 - c-004
-  santrauka: 'Apie 400 „raudonraiščių“ buvo vadovaujami komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.'
+  santrauka: 'Apie 400 „raudonraiščių“ vadovavo „Nacionalinio gelbėjimo komiteto“ lyderiai ir Valerijaus Ivanovo organizacija „Jedinstvo“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į okupantų pusę. Apie 400 „raudonraiš-
@@ -142,7 +142,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - t-004
 
 - c-005
-  santrauka: 'Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.'
+  santrauka: 'Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savarankiška LKP, vėliau
@@ -188,7 +188,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/zodynas/penktoji kolona]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/asmenys/Juozas Jermalavičius]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/asmenys/Mykolas Burokevičius]]
-- [[objektai/asmenys/Valerijus Ivanovas]]

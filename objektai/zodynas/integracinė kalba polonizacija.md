@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620). Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 75 kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo laiške, rašytame 1615 m.: „Nors lietuviu esu.
+Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Lenkų kalba LDK bajorijai tapo integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.
 
 ## Teiginiai
 
 <a id="claim-t-22165"></a>
 - t-001
   global_id: t-22165
-  teiginys: 'Lenkų kalba Seime gavo oficialios raštinių kalbos statusą vietoje anksčiau vartotos rusėnų raštų kalbos.'
+  teiginys: 'Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     - t-002
 
 - c-002
+  santrauka: 'Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seime jai suteikiamas oficialios raštinių kalbos
@@ -69,7 +70,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/polonizacija]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/oficialusis kultūros modelis]]

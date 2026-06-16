@@ -19,7 +19,6 @@ tags:
 Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę ateiti į pagalbą prieš turkus, tačiau hetmonas Pacas jeigu ir nuvykdavo, tai visada veikdavo savarankiškai, neklau- sydamas karaliaus, ir dažniausiai išvengdavo didesnių mūšių. Bet ne kartą. Mykolas Pacas: vienas iš jų, Mykolas, buvo hetmonas ir Vil- niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.
 
 ## Teiginiai
-
 <a id="claim-t-79142"></a>
 - t-001
   global_id: t-79142
@@ -32,26 +31,11 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   global_id: t-79144
   teiginys: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
   pagrindžia:
-    - c-001
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
-    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
-    dovavo jau Pacai. Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
-    niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
-    Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
-    o penktas, Petras, — Žemaičių seniūnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -68,6 +52,23 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   statusas: verified
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Mykolas Pacas buvo hetmonas ir Vilniaus vaivada.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
+    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
+    dovavo jau Pacai. Vienas iš jų, Mykolas, buvo hetmonas ir Vil-
+    niaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, —
+    Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
+    o penktas, Petras, — Žemaičių seniūnas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

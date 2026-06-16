@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).
+Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė. Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį. Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.
 
 ## Teiginiai
 
@@ -88,7 +88,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 <a id="claim-t-183850"></a>
 - t-009
   global_id: t-183850
-  teiginys: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui dovanotą stiklo gamybos privilegiją.'
+  teiginys: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją.'
   pagrindžia:
     - c-009
 
@@ -130,7 +130,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 <a id="claim-t-184911"></a>
 - t-015
   global_id: t-184911
-  teiginys: 'Karalius Žygimantas Augustas, gindamas arkivyskupą, išsiuntė pas magistrą kilmingą bajorą.'
+  teiginys: 'Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą.'
   pagrindžia:
     - c-015
 
@@ -293,7 +293,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-008
 
 - c-009
-  santrauka: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui dovanotą stiklo gamybos privilegiją.'
+  santrauka: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
@@ -429,7 +429,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - t-014
 
 - c-015
-  santrauka: 'Karalius Žygimantas Augustas, gindamas arkivyskupą, išsiuntė pas magistrą kilmingą bajorą.'
+  santrauka: 'Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kapituliacijos sąlygos nebuvo sun­
@@ -522,7 +522,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

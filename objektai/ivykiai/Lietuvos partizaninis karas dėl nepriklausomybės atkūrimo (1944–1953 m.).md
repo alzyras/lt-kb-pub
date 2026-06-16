@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo. Užimant Grupė Lietuvos partizanų 1947 m. Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.
+1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą. 1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.
 
 ## Laikotarpis ir datos
 
@@ -58,35 +58,28 @@ Nenurodyta
   global_id: t-75175
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-75176"></a>
-- t-003
-  global_id: t-75176
-  teiginys: '1944–1953 m. MGB organai sunaikino 2 353 Lietuvos partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
-  pagrindžia:
     - c-003
 
-<a id="claim-t-75177"></a>
-- t-004
-  global_id: t-75177
-  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-75178"></a>
-- t-005
+- t-003
   global_id: t-75178
   teiginys: '1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-75179"></a>
-- t-006
+- t-004
   global_id: t-75179
   teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183252"></a>
+- t-005
+  global_id: t-183252
+  teiginys: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -122,28 +115,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 - c-003
-  santrauka: '1944–1953 m. MGB organai sunaikino 2 353 Lietuvos partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
-    cijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų
-    grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė
-    ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių šau-
-    tuvų, 31 minosvaidį, 3 002 kulkosvaidžius, 40 000 automatų, šautuvų ir
-    pistoletų, 557 rašomąsias mašinėles ir dauginimo aparatus. Laisvės ko-
-    votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
-    Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
-    ir kariuomenės neveiklumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau prieš tai vyko kruvina kova.
@@ -163,10 +137,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-004
 
-- c-005
-  santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+- c-004
+  santrauka: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
@@ -181,9 +154,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-006
+- c-005
   santrauka: 'Pereita prie įprasto partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir šnipų naikinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -201,15 +174,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-005
+    - t-006
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/posakiai/karas po karo]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]

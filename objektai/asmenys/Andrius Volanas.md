@@ -48,4 +48,5 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vilniaus reformatai ir disidentai]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]

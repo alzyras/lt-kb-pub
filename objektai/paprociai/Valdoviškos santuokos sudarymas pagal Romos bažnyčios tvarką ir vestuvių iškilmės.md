@@ -96,6 +96,7 @@ Nenurodyta
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]]
 - [[objektai/asmenys/Leopoldas (Austrijos erchercogas)]]

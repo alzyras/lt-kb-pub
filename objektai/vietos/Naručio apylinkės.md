@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizanų žemines.
+1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 
 ## Teiginiai
 
 <a id="claim-t-41956"></a>
 - t-001
   global_id: t-41956
-  teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenės kareiviai Naručio apylinkėse puolė dvi partizanų žemines.'
+  teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PASTOVIAIO)

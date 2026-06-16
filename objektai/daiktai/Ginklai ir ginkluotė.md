@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Voldemaro vyriausybė neturėjo ginkluotųjų pajėgų. Iš jų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę. Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.
+1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą. 1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą. Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.
 
 ## Pavadinimai šaltiniuose
 
@@ -78,7 +78,7 @@ Nenurodyta
 <a id="claim-t-183296"></a>
 - t-006
   global_id: t-183296
-  teiginys: '1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Lietuvoje.'
+  teiginys: '1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune bei kituose miestuose.'
   pagrindžia:
     - c-005
 
@@ -166,7 +166,7 @@ Nenurodyta
     - t-003
 
 - c-005
-  santrauka: '1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Lietuvoje.'
+  santrauka: '1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune bei kituose miestuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
@@ -188,7 +188,6 @@ Nenurodyta
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -196,7 +195,6 @@ Nenurodyta
 - [[objektai/asmenys/M. Sleževičius]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/karo grobis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Bermontininkai]]

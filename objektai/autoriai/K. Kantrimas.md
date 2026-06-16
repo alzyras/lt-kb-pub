@@ -13,42 +13,21 @@ tags:
 
 ## Santrauka
 
-Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.
+K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.
 
 ## Teiginiai
-
-<a id="claim-t-01075"></a>
-- t-001
-  global_id: t-01075
-  teiginys: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-01076"></a>
-- t-002
+- t-001
   global_id: t-01076
   teiginys: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Kantrimas** savo memoriale kuratoriui Čartoriskiui rašo, esą,
-    didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.
-    Nemaža lietuviškai kalbančių esą ir Lenkų karalystėj (t. y. Užnemu-
-    nėj) ir Prūsuose. Tilžėj, Klaipėdoj, iš dalies ir Karaliaučiuj lietuviškai
-    esą atliekami net prekybos reikalai; tose srityse lietuviškai atliekama
-    dalis pamaldų ir lietuviškai žmonės mokomi tikybos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Projekto autorius buvo universiteto bibliotekininkas K. Kantri-
@@ -57,15 +36,14 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
     tik tuo metu prasidėjo rusų reakcija prieš lenkiškąją universiteto
     linkmę, ir vadovybei nebebuvo kada galvoti apie savo darbo
     plėtimą; reikėjo tik rūpintis išlaikyti tai, kas pasiekta.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/kuratorius]]
-- [[objektai/zodynas/memorialas]]

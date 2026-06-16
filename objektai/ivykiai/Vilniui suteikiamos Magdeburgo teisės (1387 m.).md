@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-1387 m. Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises. Šaltinis šį sprendimą sieja su Vilniaus gyventojų ištikimybe, siekiu stabilizuoti miesto valdžią ir noru pritraukti svetimtaučius kurtis Vilniuje.
+Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės. Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-54696"></a>
 - t-001
   global_id: t-54696
-  teiginys: 'Valdovas Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
+  teiginys: 'Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.'
   pagrindžia:
     - c-002
 
@@ -82,6 +82,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS

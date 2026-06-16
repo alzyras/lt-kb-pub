@@ -9,17 +9,17 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - didikas
   - karalienė
-amziai: []
-periodo_grupes: []
 ---
 # Barbora Radvilaitė
 
 ## Santrauka
 
-Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštauto našlė ir Žygimanto Augusto slapta žmona. Jos atminimas siejamas su rūmais prie Vilijos, antkapiais Šv. Stanislovo bažnyčioje, Šv. Barboros bažnyčia ir Žygimanto Augusto testamento nuostatomis dėl palaikų bei apdarų.
+Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė. Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje. Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
 
 ## Variantai
 
@@ -49,7 +49,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - karalienė
 
 ## Teiginiai
-
 <a id="claim-t-54947"></a>
 - t-001
   global_id: t-54947
@@ -68,7 +67,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 <a id="claim-t-54949"></a>
 - t-003
   global_id: t-54949
-  teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
+  teiginys: 'Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
     - c-006
 
@@ -150,7 +149,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - c-009
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -176,7 +174,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   pagrindžia:
     - t-002
     - t-004
-
 - c-002
   santrauka: '1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -202,7 +199,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -219,7 +215,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -242,7 +237,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -281,7 +275,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   pagrindžia:
     - t-009
     - t-012
-
 - c-006
   santrauka: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -306,7 +299,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - t-001
     - t-002
     - t-003
-
 - c-007
   santrauka: 'Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -330,7 +322,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   pagrindžia:
     - t-010
     - t-006
-
 - c-008
   santrauka: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -371,7 +362,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   statusas: verified
   pagrindžia:
     - t-013
-
 - c-009
   santrauka: 'Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -397,17 +387,18 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - [[temos/karalienė]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Barbora Cyleikaitė]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Gzovskis]]
-- [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Barbora Cyleikaitė]]
 - [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
 - [[objektai/ivykiai/Biblioteka Warszawska steigimas]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
@@ -416,7 +407,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
 - [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Radvilų prokuratorija]]

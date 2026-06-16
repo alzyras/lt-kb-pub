@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vilniuje ir vieną Nau­ garduke, o Algirdui viešpataujant, vienas didikas Goštautas apgyvendino Vilniuje dar 12 pranciškonų ir įkūrė jiems vie­ nuolyną.
+Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos. Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių. Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.
 
 ## Teiginiai
 
@@ -65,14 +65,14 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 <a id="claim-t-184707"></a>
 - t-006
   global_id: t-184707
-  teiginys: 'Vytautas, vykdamas pas imperatorių, pasikvietė į palydovus didikus Goštautą, Rumbaudą ir Radvilą.'
+  teiginys: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-184708"></a>
 - t-007
   global_id: t-184708
-  teiginys: 'Vytautas į Korčino seimą iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
+  teiginys: 'Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.'
   pagrindžia:
     - c-006
 
@@ -211,7 +211,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-004
 
 - c-005
-  santrauka: 'Vytautas, vykdamas pas imperatorių, pasikvietė į palydovus didikus Goštautą, Rumbaudą ir Radvilą.'
+  santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto buvo pamato būgštauti, kad jie gali
@@ -235,7 +235,7 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-006
 
 - c-006
-  santrauka: 'Vytautas į Korčino seimą iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
+  santrauka: 'Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
@@ -313,18 +313,27 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
 - [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]
 - [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/daiktai/Habdankas]]
 - [[objektai/ivykiai/Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)]]
 - [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/ivykiai/Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/ivykiai/Vilniečių nubaudimas po pranciškonų nužudymo]]
+- [[objektai/zodynas/pagonys]]
+- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/stabmeldžių apeigos]]
+- [[objektai/posakiai/Šitaip aš, nors jaunas, vienas pats apgyniau nuo priešo tėvynę]]
 - [[objektai/ivykiai/Šv. Pranciškaus ordino brolių nukankinimas Vilniuje]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
 - [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
 - [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
+- [[objektai/grupes/Goštautų giminė]]
 - [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
 - [[objektai/asmenys/Mykolas Goštautas]]
 - [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]

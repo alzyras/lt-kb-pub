@@ -9,10 +9,10 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai: []
 periodo_grupes: []
+tags:
+  - autorius
 ---
 # O. Halecki
 
@@ -32,7 +32,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - From, the Union with Hungary to the Union with Lithuania : Jadwiga, 1374-99
 
 ## Teiginiai
-
 <a id="claim-t-179557"></a>
 - t-001
   global_id: t-179557
@@ -98,7 +97,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - c-009
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -110,7 +108,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -124,7 +121,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -140,7 +136,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
   santrauka: 'O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -156,7 +151,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -177,7 +171,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -190,7 +183,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -205,7 +197,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-008
   santrauka: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -222,7 +213,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-009
   santrauka: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

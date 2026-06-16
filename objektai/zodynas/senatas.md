@@ -108,7 +108,6 @@ Lenkams aprimus, jie ramiau žiūrėjo į lietuvių senato ir kunigaikščio vei
 - [[objektai/zodynas/federacija federacinė valstybė]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]
 - [[objektai/zodynas/graikų schizma]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/posakiai/vienui viena veiksminga priemonė]]
 - [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]

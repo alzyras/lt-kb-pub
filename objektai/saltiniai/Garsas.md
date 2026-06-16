@@ -16,17 +16,20 @@ tags:
 „Garso Amerikos Lietuvių" antraštė.
 
 ## Teiginiai
-
 <a id="claim-t-02165"></a>
 - t-001
   global_id: t-02165
   teiginys: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
+  santrauka: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Dabartinė lietuviškosios spaudos būklė J. Amerikos Valsty-
@@ -38,8 +41,10 @@ tags:
     „Laisvė" ir „Vilnis"', socialistų „Naujienos"), keletas dvidie-
     ninių, tridieninių ir savaitinių; kiti — dvisavaitiniai ir mėne-
     siniai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

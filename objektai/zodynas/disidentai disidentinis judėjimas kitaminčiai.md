@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuviai disidentai Aleksandras Štromas, Tomas Venclova, Pranas Morkus užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti žurnalą „Sintaksis“, teikė informaciją iš. Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras. Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris suaktyvino kitaminčius.
+Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais. Sovietinė valdžia žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus, tarp jų Balį Gajauską ir Viktorą Petkų, suimdavo ir nuteisdavo. Valdžiai uždraudus svarbius klubus, dalis jaunuolių suartėjo su disidentais.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 <a id="claim-t-104187"></a>
 - t-003
   global_id: t-104187
-  teiginys: 'Uždraudus valdžiai svarbius klubus, dalis jaunuolių suartėjo su disidentais.'
+  teiginys: 'Valdžiai uždraudus svarbius klubus, dalis jaunuolių suartėjo su disidentais.'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Uždraudus valdžiai svarbius klubus, dalis jaunuolių suartėjo su disidentais.'
+  santrauka: 'Valdžiai uždraudus svarbius klubus, dalis jaunuolių suartėjo su disidentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdžiai

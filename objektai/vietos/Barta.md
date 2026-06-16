@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha. Dusburgietis teigia, kad sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos. Dusburgietis teigia, kad šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.
+Bartos šiaurinė dalis aprėpė Girdavų, dabartinio Železnodorožno, apylinkes. Šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 <a id="claim-t-58338"></a>
 - t-002
   global_id: t-58338
-  teiginys: 'Dusburgietis teigia, kad šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.'
+  teiginys: 'Šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.'
   pagrindžia:
     - c-004
 
@@ -112,6 +112,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - t-005
 
 - c-004
+  santrauka: 'Šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.

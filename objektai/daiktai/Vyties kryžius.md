@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-p. 185, „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“, dail.
+Emilis Jeneris 1928 m. sukūrė darbą „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,13 +46,14 @@ Nenurodyta
 <a id="claim-t-40788"></a>
 - t-001
   global_id: t-40788
-  teiginys: 'Emilis Jeneris 1928 m. sukūrė kūrinį „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“.'
+  teiginys: 'Emilis Jeneris 1928 m. sukūrė darbą „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Emilis Jeneris 1928 m. sukūrė darbą „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 185, „Pirmasis Vyties Kryžiaus apdovanojimas karių, pasižymėjusių fronte 1919 m.“,
@@ -63,3 +64,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kryžius]]

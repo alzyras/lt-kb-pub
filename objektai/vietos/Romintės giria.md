@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
+Nadruvos pietryčiuose, Pisos intako Romintės (dab.
 
 ## Teiginiai
 
 <a id="claim-t-58719"></a>
 - t-001
   global_id: t-58719
-  teiginys: 'Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.'
+  teiginys: 'Nadruvos pietryčiuose, Pisos intako Romintės (dab.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nadruvos pietryčiuose, Pisos intako Romintės (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Turime pagrindo manyti, kad Nadruvoje buvusi ne viena vieta, susijusi su pagonišku

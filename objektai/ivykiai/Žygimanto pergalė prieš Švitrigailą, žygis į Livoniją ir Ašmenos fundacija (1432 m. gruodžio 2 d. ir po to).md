@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje po to, kai su keturiasdešimties tūkstančių kariuomene buvo įsirengęs stovyklą prie Ašmenos. Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
+Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos. Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,7 +35,7 @@ Nenurodyta
 <a id="claim-t-185548"></a>
 - t-001
   global_id: t-185548
-  teiginys: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje po to, kai su keturiasdešimties tūkstančių kariuomene buvo įsirengęs stovyklą prie Ašmenos.'
+  teiginys: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje po to, kai su keturiasdešimties tūkstančių kariuomene buvo įsirengęs stovyklą prie Ašmenos.'
+  santrauka: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neilgai trukus, tai yra gruodžio 2 d., Boleslovas

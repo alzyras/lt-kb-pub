@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Kalibras - 17,4 mm. Pagamintas Potsdame.
+Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.
 
 ## Teiginiai
 
 <a id="claim-t-38531"></a>
 - t-001
   global_id: t-38531
-  teiginys: 'XVIII a. antrojoje pusėje Potsdame buvo pagamintas prūsiškas karabinas su titnagine spyna.'
+  teiginys: 'Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prūsiškas karabinas su titnagine spyna. Kalibras - 17,4 mm. Pagamintas Potsdame. XVIII a. antrojoje

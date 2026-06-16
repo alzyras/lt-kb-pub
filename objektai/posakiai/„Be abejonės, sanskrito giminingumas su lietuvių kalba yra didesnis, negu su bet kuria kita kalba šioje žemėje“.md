@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).
+Posakis apie sanskrito giminingumą su lietuvių kalba pateiktas kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata. Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-75607"></a>
 - t-002
   global_id: t-75607
-  teiginys: 'Posakis pateiktas kaip britų mokslininko Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.'
+  teiginys: 'Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Posakis pateiktas kaip britų mokslininko Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.'
+  santrauka: 'Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams

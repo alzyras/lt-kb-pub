@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kronikininkas pasakoja asketinius ir stebuklinius epizodus.
+Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis. Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo. Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.
 
 ## Teiginiai
 
@@ -69,7 +69,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 <a id="claim-t-89615"></a>
 - t-008
   global_id: t-89615
-  teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
+  teiginys: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   pagrindžia:
     - c-005
 
@@ -151,6 +151,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - t-007
 
 - c-005
+  santrauka: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl jis, didžiai susikrimtęs, su ašaromis meldė viešpatį nukrauti jam nuo pečių uždėtą

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti ne į Lietuvos Brastą, o neleisti Rusijos kariuomenei persikelti per Bugą šiauriau, nors ten tokio pavojaus nebuvo.
+Liepos 22 d. Janove buvęs A. Byševskis gavo nurodymą neleisti Rusijos kariuomenei persikelti per Bugą šiauriau.
 
 ## Teiginiai
 

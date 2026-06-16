@@ -10,37 +10,31 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - sąvoka
 ---
 # konsiliumas
 
 ## Santrauka
 
-Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.
+Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.
 
 ## Teiginiai
-
 <a id="claim-t-70190"></a>
 - t-001
   global_id: t-70190
   teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-70191"></a>
-- t-002
-  global_id: t-70191
-  teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
-  pagrindžia:
-    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **3. Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
@@ -49,11 +43,12 @@ amziai:
     vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Ja-
     me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
     ris jau buvo spręstas Konstancos suvažiavime.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001
 
 ## Ryšiai

@@ -65,3 +65,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/įpėdinis]]

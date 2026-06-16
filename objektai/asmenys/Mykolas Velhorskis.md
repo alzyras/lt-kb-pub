@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. Vietoje Jokūbo Jasinskio Lietuvos sukilėlių vadu paskirtas lenkų generolas Michalas Velhorskis nesugebėjo tinkamai vadovauti.
+Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą. Jokūbą Jasinskį Lietuvos sukilėlių vado pareigose pakeitęs lenkų generolas Mykolas Velhorskis nesugebėjo tinkamai vadovauti.
 
 ## Teiginiai
 
@@ -29,13 +29,14 @@ Jį pakeitė iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis. V
 <a id="claim-t-40364"></a>
 - t-002
   global_id: t-40364
-  teiginys: 'Vietoje Jokūbo Jasinskio Lietuvos sukilėlių vadu paskirtas lenkų generolas Michalas Velhorskis nesugebėjo tinkamai vadovauti.'
+  teiginys: 'Jokūbą Jasinskį Lietuvos sukilėlių vado pareigose pakeitęs lenkų generolas Mykolas Velhorskis nesugebėjo tinkamai vadovauti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokūbą Jasinskį Lietuvos sukilėlių vado pareigose pakeitęs lenkų generolas Mykolas Velhorskis nesugebėjo tinkamai vadovauti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau

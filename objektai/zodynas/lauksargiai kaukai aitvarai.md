@@ -12,27 +12,30 @@ tags:
 
 ## Santrauka
 
-Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių dievybių.
+Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių.
 
 ## Teiginiai
-
 <a id="claim-t-03062"></a>
 - t-001
   global_id: t-03062
-  teiginys: 'Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių dievybių.'
+  teiginys: 'Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lauksargiai, kaukai ir aitvarai minimi tarp javų globėjų ir kitokių dievybių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo net svarbes-
     nių javų (pav., linų) globėjų, lauksargių, kaukų, aitvarų ir kitokių
     dievybių. Be to, buvo miškų, namų, židinio ir gyvulių dievų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

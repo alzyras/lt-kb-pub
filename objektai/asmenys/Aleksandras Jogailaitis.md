@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi laivyba Vilija, vedė Eleną ir Vilnių pasirinko nuolatiniam gyvenimui. Pasakojime taip pat pabrėžiama jo ligos, 1506 m. Kłecko pergalės žinios ir mirties Žemutinėje Vilniaus pilyje aplinkybės.
+1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį. Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal. Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 
 ## Variantai
 
@@ -69,7 +69,7 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 <a id="claim-t-54936"></a>
 - t-002
   global_id: t-54936
-  teiginys: 'Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal.'
+  teiginys: 'Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   pagrindžia:
     - c-001
 
@@ -909,12 +909,10 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Bona]]
 - [[objektai/zodynas/Cechas]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/daiktai/Namas]]
@@ -929,21 +927,32 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
 - [[objektai/zodynas/kustodas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/įpėdinis]]
+- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
+- [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]
+- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
 - [[objektai/asmenys/Jonas Gornostajus]]
 - [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]
+- [[objektai/ivykiai/Parčevo seimas|Parčevo seimas (seimas, XV a.)]]
 - [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
+- [[objektai/zodynas/avangardas]]
+- [[objektai/zodynas/dijokas]]
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/grupes/Krymo totoriai]]
+- [[objektai/zodynas/dvarionis]]
+- [[objektai/zodynas/dvarionys]]
 - [[objektai/paprociai/Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta]]
 - [[objektai/grupes/Perekopo orda]]
 - [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]

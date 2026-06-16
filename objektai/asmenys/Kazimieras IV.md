@@ -137,7 +137,6 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]

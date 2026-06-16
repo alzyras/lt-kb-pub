@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Ano laiko papuošalų ornamentai giminingi lietuvių kaimo audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
+Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams. Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,14 +48,7 @@ Nenurodyta
 <a id="claim-t-47812"></a>
 - t-001
   global_id: t-47812
-  teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-47813"></a>
-- t-002
-  global_id: t-47813
-  teiginys: 'Ano laiko papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
+  teiginys: 'Apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
   pagrindžia:
     - c-001
 

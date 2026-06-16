@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Martyno Paleckio privilegijos kontekste minimi į Vilnių iš Lenkijos vežami stiklo gaminiai: didelės ir mažos Kurovo stiklinės bei langų stiklas. Šaltinis nurodo jų kainas, pardavimo ribojimus ir kasmetinę stiklinių prievolę karališkiesiems Vilniaus rūmams.
+Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą. Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą. Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant.
 
 ## Pavadinimai šaltiniuose
 
@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-55044"></a>
 - t-004
   global_id: t-55044
-  teiginys: 'Už žemės dovanojimą Martynas Paleckis turėjo kasmet pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.'
+  teiginys: 'Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.'
   pagrindžia:
     - c-002
 

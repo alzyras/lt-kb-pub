@@ -108,7 +108,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/asmenys/Judas Makabėjus]]
 - [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]
 - [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]
-- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas (Baigos kunigas)]]

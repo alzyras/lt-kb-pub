@@ -10,11 +10,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - grupe
 ---
 # Vikingai
 
@@ -23,24 +23,26 @@ amziai:
 Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmonių, saugančių upe keliaujančius pirklius nuo plėšikų.
 
 ## Teiginiai
-
 <a id="claim-t-66261"></a>
 - t-001
   global_id: t-66261
   teiginys: 'Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182930"></a>
 - t-002
   global_id: t-182930
   teiginys: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
@@ -50,12 +52,13 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
     dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
     pirklius nuo plėšikų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -67,9 +70,11 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
     pirklius nuo plėšikų. Tad nemaža tokių sodybų buvo ir Padau-
     guvy.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -79,4 +84,3 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
 - [[objektai/grupes/Skandinavai]]
-- [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]

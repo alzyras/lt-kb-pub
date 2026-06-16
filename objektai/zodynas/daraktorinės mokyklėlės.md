@@ -22,21 +22,21 @@ amziai:
 
 ## Santrauka
 
-Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
+Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.
 
 ## Teiginiai
 
 <a id="claim-t-77792"></a>
 - t-001
   global_id: t-77792
-  teiginys: 'Po 1863–1864 m. sukilimo slaptos daraktorinėmis vadintos mokyklėlės masiškai išplito etninės Lietuvos kaimuose.'
+  teiginys: 'Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po 1863–1864 m. sukilimo slaptos daraktorinėmis vadintos mokyklėlės masiškai išplito etninės Lietuvos kaimuose.'
+  santrauka: 'Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Etninės Lietuvos miestuose atsirado ir rusų kultūros židinių, bet jie te-

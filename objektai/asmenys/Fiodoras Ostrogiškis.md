@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę. Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams į pagalbą atskuba didelės jėgos.
+Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę. Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos.
 
 ## Teiginiai
 
@@ -24,7 +24,7 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 <a id="claim-t-186038"></a>
 - t-002
   global_id: t-186038
-  teiginys: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams į pagalbą atskuba didelės jėgos.'
+  teiginys: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
     - t-001
 
 - c-002
-  santrauka: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams į pagalbą atskuba didelės jėgos.'
+  santrauka: 'Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Lenkai atgavo drąsą ir ūpą, tuo

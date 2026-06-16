@@ -14,10 +14,9 @@ tags:
 
 ## Santrauka
 
-Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo vietininkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo kunigaikščio nustatytos.
+Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį. Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones. Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių.
 
 ## Teiginiai
-
 <a id="claim-t-12593"></a>
 - t-001
   global_id: t-12593
@@ -25,15 +24,22 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   pagrindžia:
     - c-001
 
-<a id="claim-t-70370"></a>
-- t-002
-  global_id: t-70370
-  teiginys: 'Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo vietininkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo kunigaikščio nustatytos.'
+<a id="claim-t-182983"></a>
+- t-003
+  global_id: t-182983
+  teiginys: 'Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -48,8 +54,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
+  santrauka: 'Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl nei bajorų nei di-
@@ -60,14 +66,15 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     ninkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie
     iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
     kunigaikščio nustatytos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
+    - t-003
 - c-003
-  santrauka: 'Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo vietininkus ir dvarų prievaizdus, vadinamus tėvūnais; o šie iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo kunigaikščio nustatytos.'
+  santrauka: 'Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač lengva valstiečių
@@ -77,11 +84,13 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
     kunigaikščio nustatytos. Tuo tarpu bajorai stengėsi kuo dau-
     giausia išnaudoti savo valstiečius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -89,4 +98,3 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]
 - [[objektai/zodynas/Sūdas|sūdas]]
-- [[objektai/zodynas/vietininkas]]

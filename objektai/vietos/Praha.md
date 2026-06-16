@@ -15,79 +15,58 @@ date_start: '1490'
 date_end: '2002'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - krikštas
   - vieta
   - vyskupas
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # Praha
 
 ## Santrauka
 
-Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatorius išsiuntė į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vadovaujamą.
+2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO. Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius. Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.
 
 ## Teiginiai
-
 <a id="claim-t-181441"></a>
 - t-001
   global_id: t-181441
   teiginys: '2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-181442"></a>
 - t-002
   global_id: t-181442
-  teiginys: 'Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927).'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-183078"></a>
-- t-003
-  global_id: t-183078
-  teiginys: 'Prahos vyskupas šv. Vaitiekus, arba Adalbertas, buvo pirmasis žinomas aisčių apaštalas.'
+  teiginys: 'Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-183079"></a>
-- t-004
-  global_id: t-183079
-  teiginys: 'Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-183868"></a>
-- t-005
+- t-004
   global_id: t-183868
   teiginys: 'Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-185099"></a>
-- t-006
+- t-005
   global_id: t-185099
   teiginys: 'Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.'
   pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.'
+  pagrindžia:
     - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Prahos vyskupas šv. Vaitiekus, arba Adalbertas, buvo pirmasis žinomas aisčių apaštalas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv.
-    _Vaitiekus,_ arba _Adalbertas._ Jis buvo aukštos kilmės čekas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
+  santrauka: 'Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
@@ -105,8 +84,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
+- c-002
   santrauka: '2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -124,24 +102,7 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
-  santrauka: 'Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Abu kunigaikš-
-    čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
-    narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino impera-
-    torių, kad Lietuva tikrai krikštysis. Tada imperatorius išsiuntė
-    į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
-    vaujamą. Ji turėjo baigti derybas dėl krikšto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   santrauka: 'Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -158,9 +119,8 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-
-- c-006
+    - t-004
+- c-005
   santrauka: 'Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -179,5 +139,22 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Abu kunigaikš-
+    čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
+    narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino impera-
+    torių, kad Lietuva tikrai krikštysis. Tada imperatorius išsiuntė
+    į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
+    vaujamą. Ji turėjo baigti derybas dėl krikšto.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006

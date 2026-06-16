@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė nuo perkėlos suversti vežimus po ledu.
+Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą. Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.
 
 ## Teiginiai
 
@@ -24,7 +24,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
 <a id="claim-t-186089"></a>
 - t-002
   global_id: t-186089
-  teiginys: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė nuo perkėlos suversti vežimus po ledu.'
+  teiginys: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
     - t-001
 
 - c-002
-  santrauka: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė nuo perkėlos suversti vežimus po ledu.'
+  santrauka: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Prasidėjo smar­

@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, siekęs sustiprinti Ordiną; jo vadovavimo laikui priskiriamas Ordino iškilimas, privilegijos, relikvijos gavimas ir kunigaikščio titulo suteikimas magistrams.
+Hermanas iš Zalcos 1210-1239 m. vadovavo Teutonų ordinui ir buvo apibūdinamas kaip iškalbingas, mandagus bei išmintingas magistras. Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino. Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.
 
 ## Vaidmenys
 
@@ -89,7 +89,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89826"></a>
 - t-008
   global_id: t-89826
-  teiginys: 'Dusburgietis teigia, kad Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
+  teiginys: 'Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
   pagrindžia:
     - c-003
     - c-004
@@ -104,7 +104,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89828"></a>
 - t-010
   global_id: t-89828
-  teiginys: 'Dusburgietis teigia, kad Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.'
+  teiginys: 'Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.'
   pagrindžia:
     - c-002
 
@@ -153,7 +153,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 <a id="claim-t-89835"></a>
 - t-017
   global_id: t-89835
-  teiginys: 'Dusburgietis teigia, kad leidėjai jį priskyrė Hermanui iš Zalcos111.'
+  teiginys: 'Leidėjai jį priskyrė Hermanui iš Zalcos111.'
   pagrindžia:
     - c-005
 
@@ -201,6 +201,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-006
 
 - c-003
+  santrauka: 'Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
@@ -242,6 +243,7 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - t-012
 
 - c-005
+  santrauka: 'Leidėjai jį priskyrė Hermanui iš Zalcos111.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
@@ -400,7 +402,9 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - [[objektai/asmenys/Folkvinas]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Venedai]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]

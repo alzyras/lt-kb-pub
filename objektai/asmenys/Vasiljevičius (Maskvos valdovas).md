@@ -98,8 +98,11 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos]]
+- [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+- [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]
 - [[objektai/asmenys/Jonas Gornostajus]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
@@ -112,3 +115,5 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
 - [[objektai/ivykiai/Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/asmenys/Šach Achmedas]]
+- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
+- [[objektai/zodynas/dijokas]]

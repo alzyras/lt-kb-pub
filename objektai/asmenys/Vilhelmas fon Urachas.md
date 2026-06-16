@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami tokias idėjas, remiami katalikų centro Reichstage vadovo Matijo Ercbergerio (Matthias Erzberger), pakvietė Viurtembergo kunigaikštį Vilhelmą fon Urachą (Wilhelm von Urach) užimti.
+Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 
 ## Teiginiai
 
 <a id="claim-t-26463"></a>
 - t-001
   global_id: t-26463
-  teiginys: '1918 m. liepos 13 d. Lietuvos Tarybos konservatoriai ir monarchistai pakvietė Vilhelmą fon Urachą užimti Lietuvos sostą ir paskelbė jį karaliumi Mindaugu II.'
+  teiginys: 'Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovo 23 dieną Berlyne A. Smetonos vadovau-

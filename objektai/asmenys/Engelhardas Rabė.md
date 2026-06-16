@@ -16,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie kurią užsimena F o i gt a s, V, 507, sudarytoje ties Kaunu 1388 metais, Scriptum prope Cowno in crastino b. Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino maršalo Engelhardo Rabės22, kadangi didysis magistras Konradas Ciolneris gu­ lėjo pakirstas sunkios ligos.
+Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo. Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis. Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 <a id="claim-t-184432"></a>
 - t-003
   global_id: t-184432
-  teiginys: 'Ordino maršalas Engelhardas Rabe paėmė Maišiagalą ir sudegino Kernavę.'
+  teiginys: 'Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
     - t-002
 
 - c-002
-  santrauka: 'Ordino maršalas Engelhardas Rabe paėmė Maišiagalą ir sudegino Kernavę.'
+  santrauka: 'Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytauto lydimi kryžiuočiai darė vieną po kito didelius žygius,
@@ -109,4 +109,5 @@ Tik taikos sutartyje tarp Ordi­ no maršalo Engelhardo Rabės ir Lietuvos, apie
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Rabė]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]

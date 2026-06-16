@@ -8,12 +8,12 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - autorius
   - bajorija
   - seimas
-amziai: []
-periodo_grupes: []
 ---
 # A. Janulaitis
 
@@ -22,7 +22,6 @@ periodo_grupes: []
 Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
 
 ## Teiginiai
-
 <a id="claim-t-100104"></a>
 - t-001
   global_id: t-100104
@@ -31,7 +30,6 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

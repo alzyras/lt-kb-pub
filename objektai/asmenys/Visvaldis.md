@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto.
+Visvaldis buvo nugalėtas Rygos vyskupo Alberto. Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 
 ## Teiginiai
 
@@ -31,13 +31,6 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 - t-001
   global_id: t-79219
   teiginys: 'Visvaldis buvo nugalėtas Rygos vyskupo Alberto.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-79220"></a>
-- t-002
-  global_id: t-79220
-  teiginys: 'Visvaldį nugalėjo Rygos vyskupas Albertas.'
   pagrindžia:
     - c-001
 

@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
+Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius. Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų.
 
 ## Teiginiai
 
 <a id="claim-t-22171"></a>
 - t-001
   global_id: t-22171
-  teiginys: 'Jakobinų klubas rengė manifestacijas, kurios privertė teismą paskelbti mirties nuosprendžius.'
+  teiginys: 'Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
     - t-002
 
 - c-002
-  santrauka: 'Jakobinų klubas rengė manifestacijas, kurios privertė teismą paskelbti mirties nuosprendžius.'
+  santrauka: 'Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
@@ -74,7 +74,6 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
 ### Susiję objektai
 - [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/jakobinizmas]]

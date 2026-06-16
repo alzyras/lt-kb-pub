@@ -20,14 +20,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683). Dusburgietis teigia, kad vokiškuose kryžiuočių kelių aprašymuose — Rangith (Weg. Dusburgietis teigia, kad pabaigoje kryžiuočių kelių į Lietuvą aprašymuose vadinamas Sessow, Sassow ir pan.
+Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe. XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis. 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
 
 ## Teiginiai
 
 <a id="claim-t-60930"></a>
 - t-001
   global_id: t-60930
-  teiginys: 'Vaikių valsčių įtikimiau lokalizuoti į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
+  teiginys: 'Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
   pagrindžia:
     - c-001
 
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vaikių valsčių įtikimiau lokalizuoti į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
+  santrauka: 'Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     545 D.— contra territorium [...] Wayken, intraverunt territorium Waykinam, Jer.—

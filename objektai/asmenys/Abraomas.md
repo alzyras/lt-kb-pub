@@ -53,6 +53,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
+- [[objektai/zodynas/reformacija]]

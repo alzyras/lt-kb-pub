@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Vaistinės prekės apima žaliavas, užjūrio ir vietinius preparatus, medikamentus, degtinę, vaistus ir gydomuosius gėrimus. Šie objektai šaltinyje siejami su vaistinės atsargų apskaita, pajamomis, draudimu pardavinėti degtinę ir gydymu be užmokesčio.
+Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos. Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo. Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų.
 
 ## Pavadinimai šaltiniuose
 
@@ -87,7 +87,7 @@ Nenurodyta
 <a id="claim-t-172863"></a>
 - t-006
   global_id: t-172863
-  teiginys: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
+  teiginys: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
   pagrindžia:
     - c-004
 
@@ -159,7 +159,7 @@ Nenurodyta
     - t-002
 
 - c-004
-  santrauka: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
+  santrauka: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     A

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui. Lietuvos aukštosios moky- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 255 klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose. 1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.
+Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų. Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis. 2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją.
 
 ## Teiginiai
 
@@ -92,7 +92,7 @@ amziai:
 <a id="claim-t-183127"></a>
 - t-010
   global_id: t-183127
-  teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą kartu su kitomis demokratinėmis valstybėmis kurti žemyno ateities.'
+  teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.'
   pagrindžia:
     - c-010
 
@@ -258,7 +258,7 @@ amziai:
     - t-008
 
 - c-010
-  santrauka: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą kartu su kitomis demokratinėmis valstybėmis kurti žemyno ateities.'
+  santrauka: '2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo oficialių diplomatinių
@@ -280,7 +280,6 @@ amziai:
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Valionis]]
 - [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -293,9 +292,7 @@ amziai:
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]
 - [[objektai/grupes/Tarptautinė darbo organizacija]]
 - [[objektai/grupes/UNESCO]]
 - [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

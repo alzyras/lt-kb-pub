@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte. Po šio Livonijos ordino sutriuškinimo žiemgaliai vėl sukilo prieš Ordiną, jų kunigaikščio Nameisio vadovaujami ir remiami lietuvių, atsiėmė Tervetės pilį, dalį belaisvių Ordino brolių žemgaliai pasiuntė lietuviams.
+Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte. Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį. Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 <a id="claim-t-183756"></a>
 - t-003
   global_id: t-183756
-  teiginys: 'Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte.'
+  teiginys: 'Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.'
   pagrindžia:
     - c-002
 

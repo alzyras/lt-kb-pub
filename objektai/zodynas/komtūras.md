@@ -13,13 +13,13 @@ date_start: '1346'
 date_end: '1383'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - ordinas
   - pilis
   - sąvoka
   - upė
-amziai:
-  - 'XIV'
 ---
 # komtūras
 
@@ -28,7 +28,6 @@ amziai:
 1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais. Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas. „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
 
 ## Teiginiai
-
 <a id="claim-t-182848"></a>
 - t-001
   global_id: t-182848
@@ -51,7 +50,6 @@ amziai:
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -67,7 +65,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -80,7 +77,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -105,6 +101,7 @@ amziai:
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/įgula]]
@@ -127,7 +124,6 @@ amziai:
 - [[objektai/asmenys/Fridrichas de Libencelė]]
 - [[objektai/asmenys/Frydrichas fon Valenrodas]]
 - [[objektai/asmenys/Gadikas]]
-- [[objektai/autoriai/Gaerte W]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
 - [[objektai/asmenys/Glapas]]
@@ -251,7 +247,6 @@ amziai:
 - [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas]]
 - [[objektai/daiktai/Šventojo kryžiaus ženklas]]
 - [[objektai/asmenys/Švitrigaila]]
@@ -287,6 +282,7 @@ amziai:
 - [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]
 - [[objektai/asmenys/Verneris (Ragainės komtūras)]]
 - [[objektai/asmenys/Zigfridas iš Rechbergo]]
+- [[objektai/zodynas/kūmas]]
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]

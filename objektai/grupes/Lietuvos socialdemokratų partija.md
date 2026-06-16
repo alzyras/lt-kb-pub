@@ -24,48 +24,42 @@ amziai:
 
 ## Santrauka
 
-LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP). Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.
+1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia. Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia. 1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.
 
 ## Teiginiai
 
-<a id="claim-t-169729"></a>
-- t-001
-  global_id: t-169729
-  teiginys: '1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-169731"></a>
-- t-002
+- t-001
   global_id: t-169731
-  teiginys: 'Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-169732"></a>
-- t-003
-  global_id: t-169732
-  teiginys: 'Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsavo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba apkarpyti dvarus ir išdalyti žemę.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-169733"></a>
-- t-004
-  global_id: t-169733
-  teiginys: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
+  teiginys: '1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia.'
   pagrindžia:
     - c-003
 
+<a id="claim-t-169732"></a>
+- t-002
+  global_id: t-169732
+  teiginys: 'Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.'
+  pagrindžia:
+    - c-004
+
+<a id="claim-t-169733"></a>
+- t-003
+  global_id: t-169733
+  teiginys: '1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.'
+  pagrindžia:
+    - c-002
+
 <a id="claim-t-169734"></a>
-- t-005
+- t-004
   global_id: t-169734
-  teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
+  teiginys: 'LDDP vėliau susivienijo su Lietuvos socialdemokratais ir tapo LSDP.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LDDP vėliau susivienijo su Lietuvos socialdemokratais ir tapo LSDP.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-
@@ -88,26 +82,10 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė
-    pučus keliose apskrityse. Sukilimas kuriam laikui pavyko tik Tauragėje,
-    buvo perimtas vadovavimas miestui, tačiau valdžia jį nuslopino, daugu-
-    mą jo dalyvių suėmė ir nuteisė. Sukilusieji su savo lyderiu Jeronimu Pleč-
-    kaičiu priešakyje pasitraukė į užsienį ir kurį laiką, veikdami iš Rygos, o
-    paskui iš Lenkijos, vykdė teroro veiksmus, puoselėdami planus... autori-
-    tarinės Lenkijos padedami nuversti nedemokratinę A. Smetonos valdžią.
-    Tai diskreditavo socialdemokratus visuomenės akyse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: '1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O čia dar po kie-
@@ -121,9 +99,10 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-004
+- c-003
+  santrauka: '1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
@@ -140,9 +119,10 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-005
+- c-004
+  santrauka: 'Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
@@ -157,10 +137,10 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-006
-  santrauka: 'Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime.'
+- c-005
+  santrauka: '1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
@@ -172,24 +152,19 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
-- [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/zodynas/Tautinės mažumos]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/ivykiai/1992 m. Seimo rinkimai ir LDDP dauguma|1992 m. Seimo rinkimai ir LDDP dauguma (seimas, XX a.)]]
 - [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]
 - [[objektai/grupes/Lietuvos demokratinė darbo partija]]

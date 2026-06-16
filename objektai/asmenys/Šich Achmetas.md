@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Šich Achmetas, Užvolgio skitų valdovas ir tremtinys Breste bei Radome, atvyko iš Vilniaus į seimą. Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą. Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
+Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras. Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą. Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą.
 
 ## Teiginiai
 
 <a id="claim-t-186025"></a>
 - t-001
   global_id: t-186025
-  teiginys: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys Breste bei Radome, atvyko iš Vilniaus į seimą.'
+  teiginys: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras.'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ atnaujinta: ''
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys Breste bei Radome, atvyko iš Vilniaus į seimą.'
+  santrauka: 'Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Į seimą atvyko iš Vilniaus

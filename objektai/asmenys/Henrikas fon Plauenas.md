@@ -20,20 +20,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
+Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.
 
 ## Teiginiai
 
 <a id="claim-t-40136"></a>
 - t-001
   global_id: t-40136
-  teiginys: 'Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.'
+  teiginys: 'Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pavėluota šios

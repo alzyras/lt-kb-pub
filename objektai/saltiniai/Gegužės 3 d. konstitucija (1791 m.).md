@@ -9,7 +9,6 @@ datos:
   - '1791 m.'
   - '1792 m.'
   - '1794 m.'
-  - '1795 m.'
   - '1915 m.'
 date_start: '1783'
 date_end: '1915'
@@ -28,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82; Gaonas ir „Šiaurės Jeruzalė“ 83 ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios. Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas. Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
+Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų. Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją. 1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.
 
 ## Teiginiai
 
@@ -37,74 +36,61 @@ amziai:
   global_id: t-78088
   teiginys: 'Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-78089"></a>
-- t-002
-  global_id: t-78089
-  teiginys: 'Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas.'
-  pagrindžia:
-    - c-009
+    - c-007
 
 <a id="claim-t-78090"></a>
-- t-003
+- t-002
   global_id: t-78090
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-78091"></a>
-- t-004
-  global_id: t-78091
-  teiginys: '70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82; Gaonas ir „Šiaurės Jeruzalė“ 83 ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-78092"></a>
-- t-005
+- t-003
   global_id: t-78092
   teiginys: '1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-78093"></a>
-- t-006
+- t-004
   global_id: t-78093
   teiginys: 'Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-78094"></a>
-- t-007
+- t-005
   global_id: t-78094
-  teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
+  teiginys: 'Gegužės 3 d. konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-78095"></a>
-- t-008
+- t-006
   global_id: t-78095
-  teiginys: 'Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas.'
+  teiginys: '1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78096"></a>
-- t-009
+- t-007
   global_id: t-78096
   teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-78097"></a>
-- t-010
+- t-008
   global_id: t-78097
-  teiginys: 'Gegužės 3 d. konstitucijoje minimos Respublikos valstybės – Lenkija ir Lietuva.'
+  teiginys: 'Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ANKSČIAUSIA KONSTITUCIJA EUROPOJE
@@ -123,7 +109,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -144,57 +130,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gotika 53;  Raštija 56;
-    Renesansas ir reformacija 60
-    II s k y r i u s
-    LENKIJOS IR LIETUVOS VALSTYBIŲ JUNGTUVĖS  63
-    ABIEJŲ TAUTŲ RESPUBLIKA 64
-    Liublino unija 64; LDK Baroko epochos Europoje. Bajoriškoji demokratija 67;
-    Valstybinė religija ar dešimt konfesijų? 70;  Tautos, kalbos, raštijos 72;
-    Vilniaus universitetas 78;  Ryčiausia ir šiauriausia Europoje baroko
-    architektūra 82;  Gaonas ir „Šiaurės Jeruzalė“ 83
-
-    ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85
-    Apšvieta ateina į LDK 85; Gegužės trečiosios konstitucija ir Abiejų Tautų
-    tarpusavio įžadas  91;  Lietuvos Didžiosios Kunigaikštijos sunaikinimas  94
-    III s k y r i u s
-    RUSIJOS IMPERIJOS VALDOMA LIETUVA (1795–1915)  98
-    BUVUSIO VALSTYBINGUMO TRAUKOJE 99
-    Kultūrinė autonomija Napoleono šešėlyje 99;  1830–1831 metų sukilimas 104;
-    Caro valdžia: „Čia nebus Lenkijos“ 106;  1863–1864 metų sukilimas 108;
-    Vyskupo M. Valančiaus „kunigaikštystė“ 110
-    LIAUDIS VIRSTA TAUTA 114
-    Rusinimo politika 1864–1904 metais 114;  „Lietuviais esame mes gimę“ 118;
-    Kitokia Lietuva siekia autonomijos 121;  Lietuva po 1905-ųjų –
-    kultūrinė kova 123
-    IV   s k y r i u s
-    LIETUVOS VALSTYBĖS ATKŪRIMAS  128
-    KOVA DĖL NEPRIKLAUSOMYBĖS 130
-    Lietuvos planai: nuo autonomijos iki nepriklausomybės 130;
-    1918 metų Vasario 16 Aktas 135;  Versalio sistemoje 138;
-    1920 m. liepos 12 d. taika su Sovietų Rusija 141;  Paskutinė federacijos
-    su Lenkija galimybė 143; Steigiamasis Seimas ir jo nutarimai 147
-    TAUTOS TAPSMAS 151
-    Lietuva įgyja jūrų uostą – Klaipėdos prisijungimas 151;  Kairės demokratija
-    ir 1926 metų gruodžio perversmas 154;  Prezidentas A. Smetona ir ministras
-    pirmininkas A. Voldemaras 158;  A. Smetonos ir J. Tūbelio tandemas 163;
-    Lietuvos piliečiai žydai ir lenkai 167;  Nepriklausomybės karta 171
-    TRIJŲ KAIMYNIŲ ULTIMATUMŲ ERA 177
-    Lietuva ir Lenkija: santykiai be santykių  177; Pirmasis Europoje procesas
-    prieš nacius ir Klaipėdos praradimas  179; Neutralumo politika ir Molotovo–
-    Ribentropo paktas 183;  SSRS 1940 metų ultimatumas ir sovietų okupacija 186
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
   santrauka: 'Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -215,9 +153,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-005
+- c-004
   santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -241,9 +179,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-006
+- c-005
   santrauka: '1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -262,9 +200,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-007
+- c-006
+  santrauka: 'Gegužės 3 d. konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Seimui pirmininkauti
@@ -284,9 +223,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-008
+- c-007
   santrauka: 'Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -301,23 +240,8 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo
-    ministro užsienio reikalams postas. Ta funkcija 1791 m. birželio 8 d.
-    patikėta ATR vicekancleriui nuo LDK Joachimui Liutaurui Chreptavi-
-    čiui (Joachim Litawor Chreptowicz). Jis sukomplektavo pirmąją Užsie-
-    nio reikalų ministeriją. Formaliai URM pradėjo veikti 1791-ųjų birželio
-    19-ąją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-010
-  santrauka: 'Gegužės 3 d. konstitucijoje minimos Respublikos valstybės – Lenkija ir Lietuva.'
+- c-008
+  santrauka: 'Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-
@@ -331,4 +255,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008

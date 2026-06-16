@@ -39,7 +39,7 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 
 - tipas: pilis
 - regionas: Trakai, Galvės ežeras
-- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 

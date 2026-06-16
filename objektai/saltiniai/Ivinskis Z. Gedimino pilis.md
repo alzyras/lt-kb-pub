@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340). Dusburgietis teigia, kad ivinskis Z.
+Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome. Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.
 
 ## Teiginiai
 
@@ -37,13 +37,14 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
 <a id="claim-t-60982"></a>
 - t-002
   global_id: t-60982
-  teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
+  teiginys: 'Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Patikimesni atrodo bandymai ją

@@ -18,7 +18,6 @@ tags:
 Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai.
 
 ## Teiginiai
-
 <a id="claim-t-116516"></a>
 - t-001
   global_id: t-116516
@@ -55,7 +54,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
     - c-004
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -71,7 +69,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Petro iš Dusburgo kronikoje Pamedė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,7 +86,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,7 +102,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,7 +122,6 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
   santrauka: 'Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -18,21 +18,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Algirdas Kamenece paėmė į nelaisvę Nestaną, Teodoro vardu valdžiusį Podolę, ir išsiuntė jį į Vilnių.
+Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
 
 ## Teiginiai
 
 <a id="claim-t-186242"></a>
 - t-001
   global_id: t-186242
-  teiginys: 'Algirdas Kamenece paėmė į nelaisvę Nestaną, Teodoro vardu valdžiusį Podolę, ir išsiuntė jį į Vilnių.'
+  teiginys: 'Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Algirdas Kamenece paėmė į nelaisvę Nestaną, Teodoro vardu valdžiusį Podolę, ir išsiuntė jį į Vilnių.'
+  santrauka: 'Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kadangi Teodoras buvo išvykęs (įkurdinęs pily­

@@ -9,10 +9,10 @@ date_start: '1917'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
 amziai:
   - 'XX'
+tags:
+  - ivykis
 ---
 # Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)
 
@@ -33,17 +33,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01591"></a>
 - t-001
   global_id: t-01591
   teiginys: '1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
@@ -54,13 +55,14 @@ Nenurodyta
     2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
     rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
     kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
-- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]

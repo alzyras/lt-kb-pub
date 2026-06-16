@@ -22,14 +22,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornvalijos grafo, Anglijos karaliaus brolio, išrinkimą Romos karaliais nesantarvės metais 1256 viešpaties metais Vokietijos valdovai nesutardami išrinko Romos karaliais du žmones, būtent: Kastilijos karalių.
+1256 m. Vokietijos valdovai nesutardami Romos karaliais išrinko Kastilijos karalių Alfonsą ir Kornvalijos grafą Ričardą. 1256 m. Vokietijos valdovai nesutardami Romos karaliais išrinko Kastilijos karalių Alfonsą ir Kornvalijos grafą Ričardą.
 
 ## Teiginiai
 
 <a id="claim-t-60426"></a>
 - t-001
   global_id: t-60426
-  teiginys: '1256 m. Vokietijos valdovai Romos karaliumi išrinko Kornvalijos grafą Ričardą, Anglijos karaliaus brolį.'
+  teiginys: '1256 m. Vokietijos valdovai nesutardami Romos karaliais išrinko Kastilijos karalių Alfonsą ir Kornvalijos grafą Ričardą.'
   pagrindžia:
     - c-001
 

@@ -117,6 +117,7 @@ amziai:
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/žygis]]

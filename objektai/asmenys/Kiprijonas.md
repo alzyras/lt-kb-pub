@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo pastangų pravesti Lietuvos stačiatikių metropolitu Polocko vyskupą Teodosijų.
+Kiprijonas 1390-1406 m. buvo Kijevo ir visos Rusios metropolitas. Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.
 
 ## Teiginiai
 
@@ -38,14 +38,14 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 <a id="claim-t-63829"></a>
 - t-002
   global_id: t-63829
-  teiginys: 'Konstantinopolio patriarchas ragino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius.'
+  teiginys: 'Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Konstantinopolio patriarchas ragino Kijevo metropolitą Kiprijoną kviesti tikinčiuosius į karą prieš totorius.'
+  santrauka: 'Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Popiežiaus
@@ -92,6 +92,7 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/bulė]]

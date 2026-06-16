@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Šalia jo stovėjęs skyrininkas Lukoševičius komisarą nudūrė.
+Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
 
 ## Teiginiai
 
 <a id="claim-t-80739"></a>
 - t-001
   global_id: t-80739
-  teiginys: 'Šalia jo stovėjęs skyrininkas Lukoševičius komisarą nudūrė.'
+  teiginys: 'Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai. Kai
@@ -44,5 +45,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Durtuvas]]

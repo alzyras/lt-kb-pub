@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vadinamuoju kontrmaršu: kai priešakinė karių eilė iššaudavo, į jos vietą žengdavo antroji eilė, kuri, vadinamąjį svetimšalių autoramentą. Svetimšalių regimentai, organizuoti Lietuvoje, pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).
+Svetimšalių pėstininkija daugiausia vadinta vokiškąja, nes jos pagrindą sudarė samdiniai iš vokiškų kraštų. Svetimšalių samdymas sistema tapo Vladislovo Vazos laikais. Lietuvoje organizuoti svetimšalių regimentai pasirodė 1633 m., o regimentui vadovavo oberšteris, arba pulkininkas.
 
 ## Teiginiai
 
@@ -39,13 +39,14 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
 <a id="claim-t-78910"></a>
 - t-003
   global_id: t-78910
-  teiginys: 'Svetimšalių regimentai, organizuoti Lietuvoje, pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).'
+  teiginys: 'Lietuvoje organizuoti svetimšalių regimentai pasirodė 1633 m., o regimentui vadovavo oberšteris, arba pulkininkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje organizuoti svetimšalių regimentai pasirodė 1633 m., o regimentui vadovavo oberšteris, arba pulkininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Svetimšalių regimentai, organizuoti Lietuvoje,

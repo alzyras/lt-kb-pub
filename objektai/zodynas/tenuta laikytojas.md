@@ -66,11 +66,9 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Albertas Janavičius]]
 - [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
 - [[objektai/asmenys/Stanislovas]]

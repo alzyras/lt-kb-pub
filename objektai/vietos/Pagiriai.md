@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-25“ LIETUVIAI SUTINKA SAVO KARIUOMENĘ 2-ojo pėstininkų pulko I bataliono puskarininkis Antanas Šukys prisimena bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą. „I...] Pagirį pasiekėme 12 00 valandą, pamaldoms besibaigiant. @ Tuo pat metu lenkų kavalerijos brigada užima Pagirius, jų judėjimą seka ir kolonas atakuoja lietuvių karo lėktuvai.
+Antanas Šukys prisiminė 2-ojo pėstininkų pulko I bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą. Lenkų kavalerijos brigadai užėmus Pagirius, jos judėjimą sekė ir kolonas atakavo lietuvių karo lėktuvai. Lenkų kavalerijos brigada užėmė Pagirius, o lietuvių karo lėktuvai sekė jos judėjimą ir atakavo kolonas.
 
 ## Teiginiai
 
 <a id="claim-t-41992"></a>
 - t-001
   global_id: t-41992
-  teiginys: '2-ojo pėstininkų pulko I batalionas, žygiuodamas į Panevėžio frontą, sustojo Pagirių kaime.'
+  teiginys: 'Antanas Šukys prisiminė 2-ojo pėstininkų pulko I bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Antanas Šukys prisiminė 2-ojo pėstininkų pulko I bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     III. 25“

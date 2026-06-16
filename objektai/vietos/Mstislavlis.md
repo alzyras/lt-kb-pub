@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Mstislavlis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1362 m.'
@@ -21,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
+Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai. Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą. Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
 
 ## Teiginiai
 
 <a id="claim-t-182082"></a>
 - t-001
   global_id: t-182082
-  teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
+  teiginys: 'Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.'
   pagrindžia:
     - c-002
 
@@ -49,9 +50,23 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 <a id="claim-t-185058"></a>
 - t-004
   global_id: t-185058
-  teiginys: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet ir ten nepasiekė didesnės sėkmės.'
+  teiginys: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-187618"></a>
+- t-005
+  global_id: t-187618
+  teiginys: 'Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo lensko bajorais ėmė tartis dėl krikščionių kraujo pra liejimo ir patraukė į Mstislavlio miestą8 .'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-187619"></a>
+- t-006
+  global_id: t-187619
+  teiginys: 'Kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -70,6 +85,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     - t-002
 
 - c-002
+  santrauka: 'Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
@@ -96,7 +112,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     - t-003
 
 - c-004
-  santrauka: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet ir ten nepasiekė didesnės sėkmės.'
+  santrauka: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Neimdami į rankas kir-
@@ -119,3 +135,41 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo lensko bajorais ėmė tartis dėl krikščionių kraujo pra liejimo ir patraukė į Mstislavlio miestą8 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
+    lių sugrįžo, iš kur atėję.
+    Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­
+    lensko bajorais ėmė tartis dėl krikščionių kraujo pra­
+    liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie
+
+    ## Puslapis 89
+
+    Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­
+    trankų, o savo karius paleido po Mstislavlio žemų ir
+    praliejo daug krikščioniško kraujo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Žygiuokime prieš jį,
+    pasitikėdami dievu ir krikščionių galybe."
+    Ir atžygiavo prie Mstislavlio. O kunigaikštis Sveto­
+    slavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį
+    iš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį,
+    kad prieš jį ateina su broliais didysis kunigaikštis Skir­
+    gaila IJ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006

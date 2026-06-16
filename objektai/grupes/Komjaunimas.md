@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.
+Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.
 
 ## Teiginiai
 
@@ -22,13 +22,6 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   teiginys: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183142"></a>
-- t-002
-  global_id: t-183142
-  teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -48,29 +41,10 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
-    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
-    Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
-    dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
-    organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/MOPR]]
-- [[objektai/ivykiai/Perėjimas prie 12 metų mokymo lietuvių mokyklose (1988 m. ruduo)]]
 - [[objektai/grupes/Pionierių organizacijos]]
 - [[objektai/asmenys/Vincas Kudirka]]
 - [[objektai/grupes/Žydai]]

@@ -13,18 +13,16 @@ date_start: '1429'
 date_end: '1430'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - karūnacija
 amziai:
   - 'XV'
+tags:
+  - karūnacija
 ---
 # Vytauto karūnacijos byla (1429–1430 m.)
 
 ## Santrauka
 
-Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai. 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos. Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
-
-Ivinskis išskiria ir imperatoriaus parengtus vainikus, ir pasienyje sulaikytą delegaciją, kuri sužlugdė 1430 m. rugsėjo 8 d. numatytą vainikavimą.
+Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą. Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą. Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
 
 ## Laikotarpis ir datos
 
@@ -43,7 +41,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-05325"></a>
 - t-001
   global_id: t-05325
@@ -57,14 +54,14 @@ Nenurodyta
   teiginys: 'Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą.'
   pagrindžia:
     - c-001
-    - c-008
+    - c-007
 
 <a id="claim-t-66986"></a>
 - t-003
   global_id: t-66986
   teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-66987"></a>
 - t-004
@@ -73,22 +70,14 @@ Nenurodyta
   pagrindžia:
     - c-003
 
-<a id="claim-t-66988"></a>
-- t-005
-  global_id: t-66988
-  teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-184600"></a>
-- t-006
+- t-005
   global_id: t-184600
   teiginys: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
   pagrindžia:
-    - c-009
+    - c-008
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -104,7 +93,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -120,7 +108,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -138,71 +125,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkų ponai įrodinėjo, kad Vytauto karūnavi-
-    mas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lie-
-    tuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą,
-    kurį išsirinktų po Jogailos mirties lenkai. Kai Jogaila savo suti-
-    kimo vis dėlto neatšaukė, lenkų ponai išvažiavo iš Lucko. Iš-
-    važiavo su jais ir Jogaila. Tuo būdu Vytauto karūnacijos klau-
-    simas Lucke liko neišspręstas; jis turėjo būti išspręstas vėliau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
-    Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
-    nacijos. Atšaukimas buvo laišku praneštas imperatoriui Zigman-
-    tui, kurs laiško nuorašą tuojau nusiuntė Vytautui. Jame Jogaila
-    rašo, kad sutikimą davęs, nepasitaręs su savo ponų taryba; pasi-
-    taręs dabar matąs, kad turįs atšaukti sutikimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Įsižeidęs jis nusprendė karūnuotis, į nieką neatsi-
-    žvelgdamas. Maža to, per savo delegaciją jis pareikalavo, kad
-    Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar ne-
-    laisvais. Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
-    vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
-    broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
-    laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
-
-
-    Tačiau tas nieko nepadėjo. Vytautas, susitaręs su imperatorium,
-    ruošėsi karūnuotis. Jo pasiuntiniai pareiškė Jogailai ir lenkams,
-    kad Vytautas, esą, vis tiek karūnuosis, nes tik karūnavęsis tega-
-    lįs nuplauti padarytą gėdą ir pasirodyti iš tikrųjų laisvas.
-    Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą,
-    prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net
-    Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
-    Tačiau Vytautas viską atmetė. Tada lenkai pradėjo ginkluotis.
-    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
-    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
-    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais. Bet
-    lenkai buvo pasiryžę nieku būdu neleisti įvykdyti karūnacijos.
-    Todėl jie suėmė imperatoriaus pasiuntinius, ir Vytautas su sve-
-    čiais jų nesulaukė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ir
@@ -221,8 +144,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
@@ -235,8 +157,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-009
+- c-008
   santrauka: 'Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -256,24 +177,23 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karūnacija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]

@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.
+Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis. Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.
 
 ## Teiginiai
 
@@ -31,39 +31,18 @@ periodo_grupes:
   global_id: t-82553
   teiginys: 'Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-82554"></a>
-- t-002
-  global_id: t-82554
-  teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-82555"></a>
-- t-003
+- t-002
   global_id: t-82555
   teiginys: 'Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ankstes-
-    nės lietuvių kilmės iš romėnų idėjos pagrindu formuojasi samprata, kad
-    lotynų kalba – tai tikroji, arba gimtoji, lietuvių kalba.
-    1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
-    viena iš reikšmingiausių Naujųjų amžių apraiškų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -91,16 +70,12 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Romėnai]]
 - [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/vaivada]]

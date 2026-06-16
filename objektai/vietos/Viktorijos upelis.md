@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22. Žemė derlinga, Viktorijos upelis, nors mažas, bet vertas gražaus vardo.
+Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija. Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.
 
 ## Teiginiai
 
 <a id="claim-t-86112"></a>
 - t-001
   global_id: t-86112
-  teiginys: 'Žygimantas Pabaisko mūšio lauką per jį tekėjusį mažą upelį pavadino Viktorija.'
+  teiginys: 'Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija.'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ tags:
     - t-002
 
 - c-002
-  santrauka: 'Žygimantas Pabaisko mūšio lauką per jį tekėjusį mažą upelį pavadino Viktorija.'
+  santrauka: 'Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­

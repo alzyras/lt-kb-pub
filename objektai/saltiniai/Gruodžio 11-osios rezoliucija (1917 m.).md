@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą. Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio 11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas, skilo ir pati Taryba.
+Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą. Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą. Gruodžio 11-osios rezoliucija pravertė Vokietijai Bresto taikos derybose, į kurias Lietuvos Tarybos delegacija nebuvo pakviesta.
 
 ## Teiginiai
 
@@ -50,7 +50,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 <a id="claim-t-183359"></a>
 - t-004
   global_id: t-183359
-  teiginys: 'Oberostas Kaune įteikė rezoliucijos projektą Lietuvos Tarybos prezidiumui, kuris gruodžio 11 d. grąžino jį kaip priimtą.'
+  teiginys: '1917 m. Oberostas Kaune įteikė Gruodžio 11-osios rezoliucijos projektą Lietuvos Tarybos prezidiumui, o šis gruodžio 11 d. grąžino jį kaip priimtą.'
   pagrindžia:
     - c-004
 
@@ -111,7 +111,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     - t-003
 
 - c-004
-  santrauka: 'Oberostas Kaune įteikė rezoliucijos projektą Lietuvos Tarybos prezidiumui, kuris gruodžio 11 d. grąžino jį kaip priimtą.'
+  santrauka: '1917 m. Oberostas Kaune įteikė Gruodžio 11-osios rezoliucijos projektą Lietuvos Tarybos prezidiumui, o šis gruodžio 11 d. grąžino jį kaip priimtą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 metų Vasario 16 Aktas

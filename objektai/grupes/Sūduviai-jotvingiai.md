@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių baltų gentis, veikianti tiek savarankiškai, tiek drauge su lietuviais ir prūsais. Šiame šaltinyje Sūduvos vardas tiesiogiai siejamas su sūduvių, arba jotvingių, kraštu.
+Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje. Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos. Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175107"></a>
 - t-002
   global_id: t-175107
-  teiginys: 'Į nelaisvę paimtas brolis Liudvikas iš Libencelės buvo atiduotas Skomantui, kuris jį pamėgo dėl drąsos.'
+  teiginys: 'Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.'
   pagrindžia:
     - c-019
 
@@ -50,7 +50,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175110"></a>
 - t-004
   global_id: t-175110
-  teiginys: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, vyrus išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
+  teiginys: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
   pagrindžia:
     - c-015
 
@@ -88,14 +88,14 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175115"></a>
 - t-009
   global_id: t-175115
-  teiginys: 'Dusburgietis teigia, kad stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.'
+  teiginys: 'Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-175116"></a>
 - t-010
   global_id: t-175116
-  teiginys: 'Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
+  teiginys: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   pagrindžia:
     - c-005
 
@@ -137,7 +137,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 <a id="claim-t-175123"></a>
 - t-016
   global_id: t-175123
-  teiginys: 'Dusburgietis teigia, kad sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
+  teiginys: 'Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
   pagrindžia:
     - c-012
 
@@ -322,6 +322,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-001
 
 - c-005
+  santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočiai patyrė pirmą nuo pat
@@ -435,6 +436,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-005
 
 - c-012
+  santrauka: 'Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Semba, turtingiausia  ir tirščiausiai gyvenama žemė, galėjo sutelkti
@@ -484,7 +486,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-022
 
 - c-015
-  santrauka: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, vyrus išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
+  santrauka: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kulmo žemėje buvo pilis ant kalno, vardu Vartenbergas435, buvusiame viduryje ežero,
@@ -786,6 +788,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/asmenys/Konradas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]

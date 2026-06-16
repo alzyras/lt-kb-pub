@@ -104,5 +104,4 @@ Nenurodyta
 - [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis)]]
 - [[objektai/asmenys/Petras (Celestinas V)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/išpažintojas]]
 - [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]

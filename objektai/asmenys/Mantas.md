@@ -64,7 +64,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
 - [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]
 - [[objektai/grupes/Notangai]]

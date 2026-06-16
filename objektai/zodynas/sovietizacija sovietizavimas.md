@@ -81,7 +81,6 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

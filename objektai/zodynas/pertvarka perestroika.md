@@ -106,5 +106,4 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - [[objektai/asmenys/Rimgaudas Songaila]]
 - [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
 - [[objektai/asmenys/Petras Griškevičius]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/posakiai/Viešumas, demokratija, suverenumas]]

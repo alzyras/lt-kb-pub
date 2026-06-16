@@ -10,10 +10,10 @@ date_start: '1654'
 date_end: '1655'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
 amziai:
   - 'XVII'
+tags:
+  - ivykis
 ---
 # Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)
 
@@ -34,17 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01747"></a>
 - t-001
   global_id: t-01747
   teiginys: '1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet XVII amžiuje, kai, pradedant Vladis-
@@ -53,9 +54,11 @@ Nenurodyta
     sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav.,
     1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie
     visiškai išnyko.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

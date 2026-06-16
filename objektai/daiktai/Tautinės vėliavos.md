@@ -68,7 +68,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/asmenys/Romas Kalanta]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]

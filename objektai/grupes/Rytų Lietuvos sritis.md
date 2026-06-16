@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1947 m. įkūrus Algimanto apygardą, jis tapo jos vadu, 1948 m. Rytų Lietuvos srities vadu. Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d. atvedė čekistus prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiaus, Butkiškio vienkiemio Jovaišų sodyboje. Nematydami kitos išeities, bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas kartu su savo žmona, RL štabo nare, štabo sekretore Joana Railaite-Neringa ir partizanu Juozu JovaišaLokiu.
+Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys. Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje. Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ amziai:
 <a id="claim-t-41138"></a>
 - t-002
   global_id: t-41138
-  teiginys: 'Spalio 28 d. čekistai buvo atvesti prie Šiaurės Rytų partizanų srities štabo bunkerio Butkiškio vienkiemio Jovaišų sodyboje.'
+  teiginys: 'Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje.'
   pagrindžia:
     - c-001
 
@@ -48,6 +48,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po intensyvių tardymų

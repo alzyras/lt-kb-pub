@@ -1,19 +1,24 @@
 ---
 tipas: posakis
-pavadinimas: '„mano priešo priešas yra mano draugas“'
+pavadinimas: "„mano priešo priešas yra mano draugas“"
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1297 m.'
 date_start: '1297'
 date_end: ''
+aliases:
+  - 'mano priešo priešas yra mano draugas'
+  - 'objektai/posakiai/mano priešo priešas yra mano draugas'
+variantai:
+  - 'mano priešo priešas yra mano draugas'
+amziai:
+  - 'XIII'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ordinas
   - posakis
-amziai:
-  - 'XIII'
 ---
 # „mano priešo priešas yra mano draugas“
 
@@ -22,30 +27,31 @@ amziai:
 Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 
 ## Teiginiai
-
-<a id="claim-t-54390"></a>
+<a id="claim-t-186404"></a>
 - t-001
-  global_id: t-54390
+  global_id: t-186404
   teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama principu „mano priešo priešas yra mano draugas“.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-54391"></a>
+<a id="claim-t-186405"></a>
 - t-002
-  global_id: t-54391
+  global_id: t-186405
   teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-184368"></a>
+<a id="claim-t-186406"></a>
 - t-003
-  global_id: t-184368
+  global_id: t-186406
   teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.'
   pagrindžia:
     - c-002
-
+<a id="claim-t-186407"></a>
+- t-004
+  global_id: t-186407
+  teiginys: 'Ivinskis posakiu „mano priešo priešas yra mano draugas“ apibūdino lietuvių ir rygiečių sąjungos pagrindą.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -60,7 +66,6 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -83,4 +88,3 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/asmenys/Vytenis]]
-- [[objektai/posakiai/mano priešo priešas yra mano draugas]]

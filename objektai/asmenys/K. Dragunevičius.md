@@ -74,10 +74,10 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vora]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

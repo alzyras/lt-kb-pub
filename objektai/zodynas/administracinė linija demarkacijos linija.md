@@ -22,23 +22,23 @@ amziai:
 
 ## Santrauka
 
-Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo. Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.
+1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes. 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje. Lietuvos ir Lenkijos demarkacinė linija keliolikai metų uždarė traukinių ir pašto judėjimą tarp valstybių.
 
 ## Teiginiai
 
 <a id="claim-t-108561"></a>
 - t-001
   global_id: t-108561
-  teiginys: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
+  teiginys: '1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-108562"></a>
 - t-002
   global_id: t-108562
-  teiginys: '1920 m. spalio 9 d. Liucjanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
+  teiginys: '1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-108563"></a>
 - t-003
@@ -52,28 +52,21 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   global_id: t-108564
   teiginys: '1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-108565"></a>
-- t-005
-  global_id: t-108565
-  teiginys: '1923 m. kovo 15 d. Ambasadorių konferencija priėmė sprendimą palikti Vilnių Lenkijai.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-108566"></a>
-- t-006
-  global_id: t-108566
-  teiginys: 'Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, o ne demarkacijos linija ar siena.'
-  pagrindžia:
     - c-004
 
+<a id="claim-t-108566"></a>
+- t-005
+  global_id: t-108566
+  teiginys: 'Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.'
+  pagrindžia:
+    - c-003
+
 <a id="claim-t-108567"></a>
-- t-007
+- t-006
   global_id: t-108567
   teiginys: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -92,24 +85,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - t-003
 
 - c-002
-  santrauka: '1923 m. kovo 15 d. Ambasadorių konferencija priėmė sprendimą palikti Vilnių Lenkijai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
-    kol neatsisakys savo suverenumo Lenkijos naudai.
-    Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
-    torinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą pa-
-    tylėti… E. Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.
-    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
-    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
-    su Rusija pagal 1921 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
+  santrauka: '1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi iki XX a. nė viena pusė neneigė,
@@ -127,8 +103,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, o ne demarkacijos linija ar siena.'
+- c-003
+  santrauka: 'Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir Lenkija kaktomuša susidūrė
@@ -148,9 +124,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-005
+- c-004
   santrauka: '1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -166,7 +142,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   pagrindžia:
     - t-004
 
-- c-006
+- c-005
   santrauka: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -178,10 +154,10 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-007
-  santrauka: '1920 m. spalio 9 d. Liucjanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
+- c-006
+  santrauka: '1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai atmetė
@@ -205,11 +181,9 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -221,7 +195,6 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/demarkacijos linija]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/asmenys/L. Želigovskis]]

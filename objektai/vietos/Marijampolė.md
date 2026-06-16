@@ -11,35 +11,27 @@ date_start: '1929'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - mūšis
   - unija
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Marijampolė
 
 ## Santrauka
 
-Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.
+Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių. J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m. Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.
 
 ## Teiginiai
-
-<a id="claim-t-68592"></a>
-- t-001
-  global_id: t-68592
-  teiginys: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-68593"></a>
 - t-002
   global_id: t-68593
-  teiginys: 'Paties autoriaus sulietuvinta: Mindaugas, Lietuvos karalius, Marijampolė 1932.'
+  teiginys: 'J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-68594"></a>
 - t-003
@@ -47,16 +39,14 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   teiginys: 'Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-68595"></a>
 - t-004
-  global_id: t-68595
-  teiginys: ': Baltijos valstybių politinė geografija ; Lietuvos ribų problema, Kaunas-Marijampolė 1929 (vert.'
+  teiginys: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
   pagrindžia:
-    - c-002
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -76,21 +66,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    - _Och-
-    HL._ — Pakštas, K. : _Baltijos valstybių politinė geografija_ ; _Lietuvos ribų
-    problema,_ Kaunas-Marijampolė 1929 (vert. latv. ir lenk.) (”) _Lietuvių
-    tautos plotai ir gyventojai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
+  santrauka: 'J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^70) **J. Totoraitis :** **_Die Litauer unter dem König Mindowe bis zum Jahre
@@ -103,8 +80,8 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-004
+- c-003
+  santrauka: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
@@ -114,8 +91,10 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     zinos pavedęs kariuomenę savo maršalui Miuratui, — per Vil-
     nių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių
     rinkti naujų jėgų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004

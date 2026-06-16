@@ -66,4 +66,3 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/tėvūnas]]
 - [[objektai/zodynas/vergai]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

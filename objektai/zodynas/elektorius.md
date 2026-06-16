@@ -15,24 +15,26 @@ tags:
 Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir elektoriaus peršamą Neuburgo princą, bet kartu statė ir savo kandidatūrą.
 
 ## Teiginiai
-
 <a id="claim-t-02988"></a>
 - t-001
   global_id: t-02988
   teiginys: 'Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182944"></a>
 - t-002
   global_id: t-182944
   teiginys: 'Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Galin-
@@ -50,12 +52,13 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     elektoriaus peršamą Neuburgo
     princą, bet kartu statė ir savo
     kandidatūrą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -71,9 +74,11 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     princas Kondė atskiru bajori-
     jos nutarimu buvo išbrauktas
     iš kandidatų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -85,9 +90,7 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 - [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/grupes/Karalaičio Jokūbo partija]]
 - [[objektai/asmenys/Karolis VI]]
-- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Inocentas IX]]
 - [[objektai/asmenys/Klemensas VIII]]

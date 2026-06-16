@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės teologų; Vytautas jį paskyrė į LDK stačiatikių metropoliją, o G. Camblako vadovaujama delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.
+Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją. Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją. 1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.
 
 ## Teiginiai
 
@@ -44,14 +44,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 <a id="claim-t-45610"></a>
 - t-003
   global_id: t-45610
-  teiginys: '1415 m. Naugarduke Vytautas sušaukė LDK stačiatikių vyskupų suvažiavimą, įkūrė metropoliją ir paskyrė Grigorijų Camblaką.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-45611"></a>
-- t-004
-  global_id: t-45611
-  teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
+  teiginys: '1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.'
   pagrindžia:
     - c-001
 

@@ -25,23 +25,23 @@ periodo_grupes:
 
 ## Santrauka
 
-Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti. Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius. Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.
+Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius. Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti. Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.
 
 ## Teiginiai
 
 <a id="claim-t-93427"></a>
 - t-001
   global_id: t-93427
-  teiginys: 'Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius.'
+  teiginys: 'Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-93428"></a>
 - t-002
   global_id: t-93428
   teiginys: 'Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.'
   pagrindžia:
-    - c-008
+    - c-005
 
 <a id="claim-t-93429"></a>
 - t-003
@@ -53,58 +53,44 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 <a id="claim-t-93430"></a>
 - t-004
   global_id: t-93430
-  teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  teiginys: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.'
   pagrindžia:
-    - c-009
-
-<a id="claim-t-93431"></a>
-- t-005
-  global_id: t-93431
-  teiginys: 'Kristijonas buvo Olivos cistersų vienuolis iš Pamarės ir pirmasis misijonierius, kuriam Prūsuose ėmė sektis.'
-  pagrindžia:
-    - c-005
+    - c-006
 
 <a id="claim-t-93432"></a>
-- t-006
+- t-005
   global_id: t-93432
   teiginys: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
   pagrindžia:
-    - c-010
+    - c-007
 
 <a id="claim-t-93433"></a>
-- t-007
+- t-006
   global_id: t-93433
   teiginys: 'Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-93434"></a>
-- t-008
-  global_id: t-93434
-  teiginys: 'Ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui ir turėjo jam priklausyti.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-93435"></a>
-- t-009
-  global_id: t-93435
-  teiginys: 'Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę, iš kurios ordinas nesirūpino jo išvaduoti net 5 metus.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-93436"></a>
-- t-010
+- t-007
   global_id: t-93436
   teiginys: 'Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.'
   pagrindžia:
-    - c-007
+    - c-004
 
 <a id="claim-t-93437"></a>
-- t-011
+- t-008
   global_id: t-93437
   teiginys: 'Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.'
   pagrindžia:
-    - c-011
+    - c-008
+
+<a id="claim-t-183554"></a>
+- t-009
+  global_id: t-183554
+  teiginys: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -124,7 +110,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -141,20 +127,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - t-003
 
 - c-003
-  santrauka: 'Ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui ir turėjo jam priklausyti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krašto valdovais, be ordino, dar buvo vyskupai. Pats
-    ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui
-    Kristijonui, kuriam turėjo ir priklausyti. Tačiau jis veikiai išsi-
-    vadavo iš vyskupo priklausomybės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-004
+  santrauka: 'Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vaitiekaus ir šv. Bonifaco mirties. Kristijonui pasi-
@@ -166,33 +139,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindžia:
     - t-001
 
-- c-005
-  santrauka: 'Kristijonas buvo Olivos cistersų vienuolis iš Pamarės ir pirmasis misijonierius, kuriam Prūsuose ėmė sektis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš
-    gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristi-
-    jonas. Jis veikė XIII amžiaus pradžioje, t. y. praėjus šimtui
-    metų po šv. Vaitiekaus ir šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas turėjo būti jų įrankis. Tačiau išėjo visai ki-
-    taip. Netrukus vyskupas Kristijonas pateko prūsams į nelaisvę,
-    iš kurios ordinas nesirūpino jo išvaduoti net 5 metus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-007
+- c-004
   santrauka: 'Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -215,9 +162,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-007
 
-- c-008
+- c-005
   santrauka: 'Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -238,7 +185,8 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindžia:
     - t-002
 
-- c-009
+- c-006
+  santrauka: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maža to,
@@ -254,7 +202,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindžia:
     - t-004
 
-- c-010
+- c-007
   santrauka: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -268,9 +216,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-011
+- c-008
   santrauka: 'Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -283,10 +231,10 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-008
 
-- c-012
-  santrauka: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+- c-009
+  santrauka: 'Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visa tai – Mindaugo politikos rezulta-
@@ -299,12 +247,15 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kryžininkai]]
@@ -334,6 +285,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
 - [[objektai/zodynas/interliudas]]
 - [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]
+- [[objektai/zodynas/Ordino brolis]]
 - [[objektai/grupes/Dobryniaus riterių brolija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/posakiai/dieviškojo žodžio sėkla krito į negerą dirvą]]

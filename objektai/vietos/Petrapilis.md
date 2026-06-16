@@ -11,50 +11,42 @@ date_start: '1903'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Petrapilis
 
 ## Santrauka
 
-Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Leningradą). Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais. Tuo metu Čartoriskiai pasiuntė į Petrapilį savo sesers sūnų Stanislovą Augustą Poniatauską.
+Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį. 1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas. Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.
 
 ## Teiginiai
-
-<a id="claim-t-68915"></a>
-- t-001
-  global_id: t-68915
-  teiginys: 'Petras I Nevos paupyje pradėjo statyti būsimąją Rusijos sostinę Petrapilį.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-68917"></a>
-- t-002
-  global_id: t-68917
-  teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-68918"></a>
-- t-003
+- t-002
   global_id: t-68918
   teiginys: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183072"></a>
-- t-004
+- t-003
   global_id: t-183072
+  teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
   teiginys: 'Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.'
   pagrindžia:
-    - c-004
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -65,25 +57,25 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
+    - t-002
 - c-002
+  santrauka: 'Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Karolio XII žygis į
-    Saksoniją ir Altrandštato
-    taika (1706 m.).** Tuo tarpu caras Petras I sėkmingai kariavo su
-    švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo
-    statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Le-
-    ningradą). Iš čia, susitaręs su Augustu, jis atvyko į Lietuvą ir už-
-    ėmė Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    Bet Augusto III
+    karaliavimo gale partijų kovose persvara jau aiškiai linko į Čarto-
+    riskių pusę. Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.
 
+    ## 24.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 - c-003
+  santrauka: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augusto III val-
@@ -93,23 +85,10 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet Augusto III
-    karaliavimo gale partijų kovose persvara jau aiškiai linko į Čarto-
-    riskių pusę. Ypač jiems padėjo artimi ryšiai su Petrapilio rūmais.
-
-    ## 24.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-003

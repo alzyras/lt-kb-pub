@@ -61,5 +61,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vykintas]]
 - [[objektai/asmenys/Tautvilas]]

@@ -20,34 +20,28 @@ amziai:
 
 ## Santrauka
 
-Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai metodai. Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
+Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas. Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas. Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.
 
 ## Teiginiai
 
 <a id="claim-t-22113"></a>
 - t-001
   global_id: t-22113
-  teiginys: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-22114"></a>
-- t-002
-  global_id: t-22114
-  teiginys: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
+  teiginys: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-22115"></a>
-- t-003
+- t-002
   global_id: t-22115
-  teiginys: 'Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai metodai.'
+  teiginys: 'Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Lietuvos komunistų administracija
@@ -66,21 +60,10 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Likusius Lietuvoje gyventojus kaustė nuolatinė baimė dėl savo ir arti-
-    mųjų saugumo. Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
-    Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
 
-- c-003
+- c-002
+  santrauka: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -101,8 +84,8 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   pagrindžia:
     - t-001
 
-- c-004
-  santrauka: 'Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai metodai.'
+- c-003
+  santrauka: 'Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai kuriems jų neleista apsi-
@@ -117,20 +100,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
-    Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
-    Tačiau prieš tai vyko kruvina kova.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

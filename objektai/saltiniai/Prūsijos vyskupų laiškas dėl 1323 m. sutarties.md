@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sutartis vaizduojama kaip pavojinga krikščioniškajam pasauliui, o adresatai raginami ją atmesti ir tęsti kovą.
+Prūsijos vyskupų laiškas dėl Vilniaus sutarties buvo parengtas Elbinge ir siųstas Livonijos bei Estijos bažnytiniams ir pasaulietiniams adresatams. Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu. Laiško originalas datuotas 1323 m. pirmadieniu prieš Šv. Simono ir Judo šventę ir siejamas su Slaptojo archyvo signatūra Spinta XI, Nr. 18.
 
 ## Bibliografiniai duomenys
 
@@ -40,7 +40,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 <a id="claim-t-55233"></a>
 - t-002
   global_id: t-55233
-  teiginys: 'Laiškas ragino atmesti sutartį ir tęsti kovą su priešu.'
+  teiginys: 'Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.'
   pagrindžia:
     - c-002
 
@@ -91,6 +91,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
     - t-004
 
 - c-002
+  santrauka: 'Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS

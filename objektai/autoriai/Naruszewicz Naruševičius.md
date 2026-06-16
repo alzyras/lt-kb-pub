@@ -3,8 +3,9 @@ tipas: autorius
 pavadinimas: 'Naruszewicz Naruševičius'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-date_start: ''
+datos:
+  - '1816 m.'
+date_start: '1816'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
@@ -13,48 +14,29 @@ tags:
   - kunigaikštis
   - miestas
   - ordinas
-amziai: []
-periodo_grupes: []
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Naruszewicz Naruševičius
 
 ## Santrauka
 
-Šitai pa­ kartojo Naruszewicz Histor. Naruszewicz, Jadvyga - Opolės kunigaikščio VlaH/sf. Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
+Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 
 ## Teiginiai
 
-<a id="claim-t-87993"></a>
-- t-001
-  global_id: t-87993
-  teiginys: 'Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-87996"></a>
-- t-002
+- t-001
   global_id: t-87996
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pranešimas apie jos mirtį yra 74
-    Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns. T. IU,
-    Prūsijos magistrui, rašytame iš Ry- 374. Długosz, Hist. Polon. Il, 1418-
-    gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz  Taurykū,
-    iš pastarojo aišku, kad kunigaikštie- p. 78.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugiausia jų įsikūrė už
@@ -70,10 +52,8 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Livonijos ordinas]]

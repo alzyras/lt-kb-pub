@@ -92,7 +92,6 @@ Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]

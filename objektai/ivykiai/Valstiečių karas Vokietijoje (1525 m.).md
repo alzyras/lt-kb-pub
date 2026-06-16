@@ -64,5 +64,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Aleksandras Gvagninis]]
-- [[objektai/autoriai/Liuteris]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/ponai]]

@@ -4,11 +4,13 @@ pavadinimas: 'Radomas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1505 m.'
   - '1936 m.'
   - '2026 m.'
-date_start: '1936'
+date_start: '1505'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -17,14 +19,14 @@ tags:
   - dokumentas
   - vieta
 amziai:
-  - 'XX'
+  - 'XVI'
   - 'XXI'
 ---
 # Radomas
 
 ## Santrauka
 
-Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žuvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą surašė Radome.
+Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome. Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome. Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome.
 
 ## Teiginiai
 
@@ -48,6 +50,13 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   teiginys: 'Karalius Šich Achmeto skundus turėjusį svarstyti bendrą lenkų ir lietuvių seimą nukėlė į Radomą.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-187644"></a>
+- t-005
+  global_id: t-187644
+  teiginys: 'Radomo seimas vyko 1505 m. balandžio-birželio mėn.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -123,3 +132,19 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Radomo seimas vyko 1505 m. balandžio-birželio mėn.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    6 5  Seimas Radome b uvo 1505 m. balandžio—birželio mėn.
+    (111.30—VL14). Nurodydamas klaidingą Radomo seimo datą, BK
+    autorius gal turėjo galvoje Aleksandro buvimą Gardine 1505 m.
+    rudeni (X1.22—XII,29).
+    “  LDK atstovai į Radomo seimą atvyko 1505 m. gegužės vi­
+    duryje. išvyko VI. 1 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005

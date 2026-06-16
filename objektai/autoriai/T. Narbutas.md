@@ -48,3 +48,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Bychovco kronikos rankraštis]]
+- [[objektai/daiktai/Kentauro herbas]]

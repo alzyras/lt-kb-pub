@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lietuviai per nacionalines šventes mini tris Lietuvos valstybingumo datas. Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.
+Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos. Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų. Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-78722"></a>
 - t-001
   global_id: t-78722
-  teiginys: 'Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuvos valstybingumo datos.'
+  teiginys: 'Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos.'
   pagrindžia:
     - c-001
 
@@ -57,17 +57,10 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-78724"></a>
-- t-003
-  global_id: t-78724
-  teiginys: 'Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-78725"></a>
 - t-004
   global_id: t-78725
-  teiginys: 'Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesibodėjo savo karų istorijos, ir tai lengva pamatyti Stokholme, kuris yra kupinas paminklų savo karvedžiams ir valdovams.'
+  teiginys: 'Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes.'
   pagrindžia:
     - c-002
 

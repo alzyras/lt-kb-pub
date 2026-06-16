@@ -13,21 +13,20 @@ date_start: '1259'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ordinas
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - ordinas
+  - vieta
 ---
 # Žiemgala
 
 ## Santrauka
 
-Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.
+1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti. Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti. 1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.
 
 ## Teiginiai
-
 <a id="claim-t-99904"></a>
 - t-001
   global_id: t-99904
@@ -66,12 +65,13 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 <a id="claim-t-183117"></a>
 - t-006
   global_id: t-183117
-  teiginys: 'Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.'
+  teiginys: 'Žiemgalos dalis buvo patekusi į Ordino priešininko valdžią.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -89,7 +89,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindžia:
     - t-005
     - t-003
-
 - c-002
   santrauka: 'Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -120,7 +119,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindžia:
     - t-002
     - t-004
-
 - c-003
   santrauka: '1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -138,9 +136,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
-  santrauka: 'Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam nepasisekė visiškai nugalėti ordino.'
+  santrauka: 'Žiemgalos dalis buvo patekusi į Ordino priešininko valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl jį
@@ -150,8 +147,10 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 
     Po Durbės mūšio sukilusias kiltis ordinas jau buvo
     nugalėjęs.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006

@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Bet Herasimo sąmokslas buvo susektas, ir jis, Švitrigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko, kaip buvęs, Švitrigailos valdžioje.
+Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,17 +29,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01622"></a>
 - t-001
   global_id: t-01622
-  teiginys: 'Herasimas siekė sukelti maištą Smolenske, bet jo sąmokslas buvo susektas ir Švitrigailos įsakymu jis sudegintas ant laužo.'
+  teiginys: 'Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau Švitrigailai tą darbą sutrukdė Zigman-
@@ -50,9 +51,11 @@ Nenurodyta
     Zigmantas. Bet Herasimo sąmokslas buvo susektas, ir jis, Švit-
     rigailos įsakymu, buvo sudegintas ant laužo, o Smolenskas liko,
     kaip buvęs, Švitrigailos valdžioje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -62,3 +65,4 @@ Nenurodyta
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/daiktai/Laužas]]

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad siekdamas pagrįsti kryžiuočių užkariavimus Prūsijoje ir jau kuris metas vedamą karą prieš Lietuvą, parodyti Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Dusburgietis teigia, kad epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.
+Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a. 1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-62430"></a>
 - t-001
   global_id: t-62430
-  teiginys: 'Dusburgietis teigia, kad epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
+  teiginys: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
   pagrindžia:
     - c-001
 

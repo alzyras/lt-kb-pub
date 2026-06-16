@@ -17,17 +17,18 @@ tags:
 Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.
 
 ## Teiginiai
-
 <a id="claim-t-02079"></a>
 - t-001
   global_id: t-02079
   teiginys: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę,
@@ -38,9 +39,11 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
     vą), dėl kurių abi valstybės rungėsi XIV ir XV amž. Tuo būdu Lie-
     tuva grasino susitaikinti ir susijungti ne tik su Maskva, bet ir su
     Lenkijai baisiais totoriais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

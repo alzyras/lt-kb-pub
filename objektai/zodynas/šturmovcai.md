@@ -70,8 +70,6 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/ivykiai/Klaipėdos sukilimas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/zodynas/seimas]]

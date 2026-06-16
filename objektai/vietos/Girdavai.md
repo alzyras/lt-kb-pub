@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 vienas tikėjimą bei tikinčiuosius rėmęs žmogus, vardu Girdavas, kurio palikuonys po šiai dienai vadinami Rendaliais, turėjo Bartos žemėje pilį, nuo jo vardo pavadintą Girdavai388. Dusburgietis teigia, kad zeleznodorožnas) — Girdavai, gyvenvietė Bartoje, prie Alnos deš.
+Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais. Zeleznodorožnas) — Girdavai, gyvenvietė Bartoje, prie Alnos deš.
 
 ## Teiginiai
 
@@ -29,13 +29,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
 <a id="claim-t-58553"></a>
 - t-002
   global_id: t-58553
-  teiginys: 'Dusburgietis teigia, kad zeleznodorožnas) — Girdavai, gyvenvietė Bartoje, prie Alnos deš.'
+  teiginys: 'Zeleznodorožnas) — Girdavai, gyvenvietė Bartoje, prie Alnos deš.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zeleznodorožnas) — Girdavai, gyvenvietė Bartoje, prie Alnos deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     388  D.— Girdaw, Jer.— Girdawin; vėliau — Gerdauen (dab. Zeleznodorožnas) —

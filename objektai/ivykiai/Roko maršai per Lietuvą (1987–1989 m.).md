@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Ypač populiarūs tapo vadinamieji Roko maršai.
+Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones.
 
 ## Laikotarpis ir datos
 
@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-20463"></a>
 - t-001
   global_id: t-20463
-  teiginys: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis ir buvo skirti LPS idėjoms skleisti.'
+  teiginys: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Roko maršai per Lietuvą vyko 1987, 1988 ir 1989 m. vasaromis, skleisdami LPS idėjas ir drąsindami režimo įbaugintus žmones.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ypač populiarūs tapo vadi-

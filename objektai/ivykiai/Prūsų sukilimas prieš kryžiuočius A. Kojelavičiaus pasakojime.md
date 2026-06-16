@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių. Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės ir prieš šv. Motiejaus dieną visame krašte griovė bažnyčias.
+Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, sukurstė prūsus atsimesti nuo kryžiuočių. Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185763"></a>
 - t-002
   global_id: t-185763
-  teiginys: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės ir prieš šv. Motiejaus dieną visame krašte griovė bažnyčias.'
+  teiginys: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės ir prieš šv. Motiejaus dieną visame krašte griovė bažnyčias.'
+  santrauka: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat prūsai, išsirinkę vadus, atsimetė nuo krikš­

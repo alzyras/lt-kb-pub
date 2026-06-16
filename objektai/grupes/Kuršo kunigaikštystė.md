@@ -11,13 +11,13 @@ date_start: '1561'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+  - 'XXI'
 tags:
   - grupe
   - sutartis
   - valstybė
-amziai:
-  - 'XVI'
-  - 'XXI'
 ---
 # Kuršo kunigaikštystė
 
@@ -26,14 +26,6 @@ amziai:
 Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomos priklausančios lygiai abiem valstybėm.
 
 ## Teiginiai
-
-<a id="claim-t-71644"></a>
-- t-001
-  global_id: t-71644
-  teiginys: 'Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-71645"></a>
 - t-002
   global_id: t-71645
@@ -61,9 +53,14 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   teiginys: '1561 m. Livonijos konfederacijai nustojus egzistuoti, Kuršo ir Livonijos kunigaikštystės atiteko Lietuvai.'
   pagrindžia:
     - c-001
+- t-006
+  teiginys: 'Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -76,7 +73,6 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   pagrindžia:
     - t-005
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -97,7 +93,6 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   pagrindžia:
     - t-004
     - t-003
-
 - c-003
   santrauka: 'Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -108,11 +103,13 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
     bus laikomos priklausančios lygiai abiem valstybėm.
     Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietu-
     voje įsigyti dvarų ir gauti urėdų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

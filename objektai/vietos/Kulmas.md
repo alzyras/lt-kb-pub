@@ -24,103 +24,83 @@ amziai:
 
 ## Santrauka
 
-tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.
+Kryžiuočių pirmąsias bazes sudarė Tornas, įkurtas 1232 m., ir Kulmas, įkurtas 1235 m. Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų. Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.
 
 ## Teiginiai
-
 <a id="claim-t-90747"></a>
 - t-001
   global_id: t-90747
   teiginys: 'Kryžiuočių pirmąsias bazes sudarė Tornas, įkurtas 1232 m., ir Kulmas, įkurtas 1235 m.'
   pagrindžia:
     - c-001
-
 <a id="claim-t-90748"></a>
 - t-002
   global_id: t-90748
   teiginys: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų.'
   pagrindžia:
-    - c-011
-
+    - c-010
 <a id="claim-t-90749"></a>
 - t-003
   global_id: t-90749
   teiginys: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   pagrindžia:
-    - c-012
-
-<a id="claim-t-90750"></a>
-- t-004
-  global_id: t-90750
-  teiginys: 'Kryžeiviams išvykus namo, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
-  pagrindžia:
-    - c-003
-
+    - c-011
 <a id="claim-t-90751"></a>
-- t-005
+- t-004
   global_id: t-90751
   teiginys: 'Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-90752"></a>
-- t-006
-  global_id: t-90752
-  teiginys: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
-  pagrindžia:
-    - c-002
-
+    - c-007
 <a id="claim-t-90753"></a>
-- t-007
+- t-006
   global_id: t-90753
   teiginys: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   pagrindžia:
-    - c-013
-
+    - c-012
 <a id="claim-t-90754"></a>
-- t-008
+- t-007
   global_id: t-90754
   teiginys: 'Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.'
   pagrindžia:
     - c-001
-
 <a id="claim-t-90755"></a>
-- t-009
+- t-008
   global_id: t-90755
   teiginys: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
   pagrindžia:
-    - c-004
-
+    - c-003
 <a id="claim-t-90756"></a>
-- t-010
+- t-009
   global_id: t-90756
   teiginys: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   pagrindžia:
-    - c-014
-
+    - c-013
 <a id="claim-t-90758"></a>
-- t-012
+- t-011
   global_id: t-90758
   teiginys: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
   pagrindžia:
-    - c-009
-
+    - c-008
 <a id="claim-t-90759"></a>
-- t-013
+- t-012
   global_id: t-90759
   teiginys: 'Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.'
   pagrindžia:
-    - c-005
-
+    - c-004
 <a id="claim-t-90760"></a>
-- t-014
+- t-013
   global_id: t-90760
   teiginys: 'Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno.'
   pagrindžia:
-    - c-010
+    - c-009
+- t-016
+  teiginys: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
+  pagrindžia:
+    - c-016
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -135,43 +115,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   statusas: verified
   pagrindžia:
     - t-001
-    - t-008
-
-- c-002
-  santrauka: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
-    sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
-    menes, bet dar teriojo ir Lenkijos sritis. Tada Mozūrų kunigaikš-
-    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
-    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
-    mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
-    būti veikimo bazė vyskupui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
+    - t-007
 - c-003
-  santrauka: 'Kryžeiviams išvykus namo, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į pagalbą jam atvykdavo būriai
-    kryžeivių. Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
-    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
-    krikščioniškuosius kraštus. Tada vysk. Kristijonas kartu su
-    kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
-    ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
-    vo įkūręs Livonijoj.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -188,9 +133,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
-
-- c-005
+    - t-008
+- c-004
   santrauka: 'Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -203,9 +147,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
-
-- c-006
+    - t-012
+- c-005
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -219,9 +162,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
-
-- c-007
+    - t-010
+- c-006
   santrauka: '1330 m. rudenį Lenkijos karalius Lokietka užgriuvo Kulmo žemę ir dešimt dienų ją grobė bei degino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -242,8 +184,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-- c-008
+- c-007
   santrauka: 'Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -258,9 +199,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
-
-- c-009
+    - t-004
+- c-008
   santrauka: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -283,9 +223,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
-
-- c-010
+    - t-011
+- c-009
   santrauka: 'Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -300,9 +239,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
-
-- c-011
+    - t-013
+- c-010
   santrauka: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -318,8 +256,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-012
+- c-011
   santrauka: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -336,8 +273,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-013
+- c-012
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -352,9 +288,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-014
+    - t-006
+- c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -371,9 +306,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
-
-- c-015
+    - t-009
+- c-014
   santrauka: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -391,9 +325,8 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
-
-- c-016
+    - t-014
+- c-015
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -408,5 +341,23 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Praėjo net keliolika metų, o vysk. Kristijonui vis ne-
+    sisekė: pagonys ne tik naikino jo kuriamas krikščionių bendruo-
+    menes, bet dar teriojo ir Lenkijos sritis. Tada Mozūrų kunigaikš-
+    tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+    kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+    mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
+    būti veikimo bazė vyskupui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016

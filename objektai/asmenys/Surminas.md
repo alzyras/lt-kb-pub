@@ -173,7 +173,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas iš Vienos]]
 - [[objektai/daiktai/Laivai]]

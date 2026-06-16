@@ -40,7 +40,6 @@ Nenurodyta
 - registras turi artimą viešą įrašą `Suverenitetas`; čia pateikiama šaltinio vartosena ir variantas `suverenumas`; šaltinis terminą vartoja istoriškai, o ne teoriškai, todėl aiškinant reikės saugoti kontekstą.
 
 ## Teiginiai
-
 <a id="claim-t-05427"></a>
 - t-001
   global_id: t-05427
@@ -55,95 +54,26 @@ Nenurodyta
   pagrindžia:
     - c-005
 
-<a id="claim-t-10898"></a>
-- t-003
-  global_id: t-10898
+- t-009
   teiginys: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
   pagrindžia:
-    - c-001
-
-<a id="claim-t-10899"></a>
-- t-004
-  global_id: t-10899
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
   teiginys: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-10900"></a>
-- t-005
-  global_id: t-10900
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-011
   teiginys: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
   pagrindžia:
-    - c-003
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
-    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
-    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
-    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
-    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
-    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
-    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
-    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
-    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
-    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
-    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
-    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
-    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
-    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
-    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
-    atsiskaitymus ir paties statuto keitimo procedūrą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš politinių sutarčių paminėtinos yra drau-
-    gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
-    baltijo valstybių sąjunga.
-    1920 m. padarius taiką su Sovietų Rusija, ši daug kartų yra
-    parodžiusi Lietuvai palankumo ir užstojusi Lietuvą jos kovose.
-    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
-    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
-    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
-    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
-    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
-    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
-    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
-    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
-    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų. Abi
-    šalys, be to, pasižadėjo neteikti paramos kitoms valstybėms,
-    kurios pultų vieną iš jų. Šios sutarties pasirašymo metu Sovietų
-    vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
-    simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
-    somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
-    Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
-    12 dienos sutartim.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-004
   santrauka: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -163,7 +93,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -179,6 +108,77 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+- c-006
+  santrauka: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
+    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
+    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
+    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
+    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
+    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
+    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
+    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
+    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
+    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
+    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
+    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
+    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
+    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
+    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
+    atsiskaitymus ir paties statuto keitimo procedūrą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-007
+  santrauka: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš politinių sutarčių paminėtinos yra drau-
+    gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
+    baltijo valstybių sąjunga.
+    1920 m. padarius taiką su Sovietų Rusija, ši daug kartų yra
+    parodžiusi Lietuvai palankumo ir užstojusi Lietuvą jos kovose.
+    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
+    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-008
+  santrauka: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
+    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų. Abi
+    šalys, be to, pasižadėjo neteikti paramos kitoms valstybėms,
+    kurios pultų vieną iš jų. Šios sutarties pasirašymo metu Sovietų
+    vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
+    simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
+    somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
+    Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
+    12 dienos sutartim.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -204,9 +204,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/asmenys/Nikolajus I]]
 - [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]

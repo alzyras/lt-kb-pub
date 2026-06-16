@@ -131,3 +131,4 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/prastuomenė]]
+- [[objektai/ivykiai/Keturiolikos pranciškonų nužudymas Vilniuje]]

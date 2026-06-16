@@ -11,14 +11,14 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - bajorija
   - diplomatas
   - karas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Vilkaviškis
 
@@ -27,17 +27,18 @@ amziai:
 Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių, kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuomene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
 
 ## Teiginiai
-
 <a id="claim-t-69569"></a>
 - t-001
   global_id: t-69569
   teiginys: 'Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl Lietu-
@@ -49,8 +50,10 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
     kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
     kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

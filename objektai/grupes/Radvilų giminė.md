@@ -281,6 +281,7 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/zodynas/imunitetai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

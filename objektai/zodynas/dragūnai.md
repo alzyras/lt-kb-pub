@@ -20,28 +20,28 @@ amziai:
 
 ## Santrauka
 
-Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Dragūnus buvo galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.
+Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs. Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.
 
 ## Teiginiai
 
 <a id="claim-t-38711"></a>
 - t-001
   global_id: t-38711
-  teiginys: 'Dragūnus buvo galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.'
+  teiginys: 'Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-38712"></a>
 - t-002
   global_id: t-38712
-  teiginys: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygyje jodavo raiti.'
+  teiginys: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygyje jodavo raiti.'
+  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
@@ -56,6 +56,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     - t-002
 
 - c-002
+  santrauka: 'Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dragūnus buvo
@@ -70,7 +71,7 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     - t-001
 
 - c-003
-  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygyje jodavo raiti.'
+  santrauka: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Regimentą sudarė kompanijos (kuopos), kurios dalijosi į vienetus

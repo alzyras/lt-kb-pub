@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
+VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.
 
 ## Teiginiai
 
 <a id="claim-t-100142"></a>
 - t-001
   global_id: t-100142
-  teiginys: 'Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.'
+  teiginys: 'VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Be to, Vengrija su Lenkija turėjo

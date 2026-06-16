@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-25 d. išbėgo Karaliaučiun ir apsikrikštijo Henriko vardu.
+Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
 
 ## Laikotarpis ir datos
 
@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-34537"></a>
 - t-001
   global_id: t-34537
-  teiginys: 'Butautas 1365 m. liepos 25 d. su Survila išbėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
+  teiginys: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Butautas, kuriam šaltiniai duoda įvai­

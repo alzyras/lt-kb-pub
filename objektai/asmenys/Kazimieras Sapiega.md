@@ -15,7 +15,6 @@ tags:
 1644 m. iš vicekanclerio Kazimiero Sapiegos fundacijos buvo įsteigtas ir teisių fakultetas;.
 
 ## Teiginiai
-
 <a id="claim-t-49419"></a>
 - t-001
   global_id: t-49419
@@ -31,7 +30,6 @@ tags:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

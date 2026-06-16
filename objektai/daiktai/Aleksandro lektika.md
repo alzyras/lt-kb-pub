@@ -74,6 +74,7 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Zabžezinskis]]
 - [[objektai/asmenys/Kiška]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/grupes/Krymo orda]]

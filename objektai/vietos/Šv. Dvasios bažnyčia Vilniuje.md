@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18. Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­ ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv. Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.
+Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus. Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią. Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.
 
 ## Teiginiai
 
 <a id="claim-t-86054"></a>
 - t-001
   global_id: t-86054
-  teiginys: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
+  teiginys: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
   pagrindžia:
     - c-001
 
@@ -35,14 +35,14 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 <a id="claim-t-86056"></a>
 - t-003
   global_id: t-86056
-  teiginys: 'Ulrikas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
+  teiginys: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Prieglaudos sklypo riba buvo žymima nuo vartų, esančių iš gatvės priešais Šv. Dvasios bažnyčios kapinių vartus.'
+  santrauka: 'Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios vienuolyno tėvais reikalai taip susi­
@@ -62,7 +62,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - t-001
 
 - c-002
-  santrauka: 'Ulrikas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
+  santrauka: 'Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­

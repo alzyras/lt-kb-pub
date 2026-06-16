@@ -3,17 +3,18 @@ tipas: daiktas
 pavadinimas: 'Artilerija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'objektai/saltiniai/Lietuvos metraštis, Bychovco kronika (1971 m.).md'
 datos:
   - '1920 m.'
 date_start: '1920'
 date_end: ''
+amziai:
+  - 'XX'
 sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
   - valstybė
-amziai:
-  - 'XX'
 ---
 # Artilerija
 
@@ -42,16 +43,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-26408"></a>
+<a id="claim-t-187515"></a>
 - t-001
-  global_id: t-26408
+  global_id: t-187515
   teiginys: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
   pagrindžia:
     - c-001
+<a id="claim-t-187516"></a>
+- t-002
+  global_id: t-187516
+  teiginys: 'Komentare nurodoma, kad 1501—1502 m. žiemą sąjungininkai totoriai tikėjosi iš LDK karinės paramos artilerija; Šioje išnašoje artilerija minima kaip konkretus karo reikmenų tipas greta kariuomenės ir maisto.'
+  pagrindžia:
+    - c-002
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -73,19 +80,43 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Komentare nurodoma, kad 1501—1502 m. žiemą sąjungininkai totoriai tikėjosi iš LDK karinės paramos artilerija; Šioje išnašoje artilerija minima kaip konkretus karo reikmenų tipas greta kariuomenės ir maisto.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    4 4  Seversko N augardas ir Starodubas Aukso ordos totorių bu­
+    vo puolami 1501 m. rugsėjo mėn. (prieš X.7).
+    45 Čia nurodytose vietose Ir dar plačiau | pietus ir rytus Auk­
+    so ordos totoriai žiemojo labai šaltų 1501— 1502 m. žiemų, nesu­
+    laukdami, Išskyrus pažadus, jokios realios paramos kariuomene,
+    artilerija ir m aistu Iš Aleksandro ir LDK Ponų Tarybos, visai ne­
+    įvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun-
+    gininko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/grupes/Želigovskininkai]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/asmenys/A. Chlapovskis]]
 - [[objektai/asmenys/A. Tučkovas]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Antanas Gelgaudas]]
+- [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]
 - [[objektai/asmenys/B. Zenavičius]]
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
@@ -113,7 +144,6 @@ Nenurodyta
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/Kazimieras Sapiega]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/asmenys/Kazimieras Simanavičius]]
 - [[objektai/asmenys/Kioleris]]
 - [[objektai/grupes/Kėdainių įgula]]

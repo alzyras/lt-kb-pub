@@ -13,10 +13,9 @@ tags:
 
 ## Santrauka
 
-Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur žuvo pirmas fronto kareivis Povilas Lukšys (1919 m. vasario 7—9 d.).
+Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris. Povilas Lukšys buvo paskirtas sustiprinto 17 žmonių žvalgybos patrulio vyresniojo padėjėju. Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
 
 ## Teiginiai
-
 <a id="claim-t-49483"></a>
 - t-001
   global_id: t-49483
@@ -41,12 +40,11 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 <a id="claim-t-49486"></a>
 - t-004
   global_id: t-49486
-  teiginys: 'P. Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.'
+  teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -71,7 +69,6 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   pagrindžia:
     - t-004
     - t-003
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -85,7 +82,6 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -108,11 +104,9 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
 - [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

@@ -17,47 +17,25 @@ tags:
 
 ## Santrauka
 
-Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną. Ordinas tebevaldė Pamarį, kuris buvo vienintelis Lenkijos išėjimas prie jūros.
 
 ## Teiginiai
-
-<a id="claim-t-91232"></a>
-- t-001
-  global_id: t-91232
-  teiginys: '1466 m. Torno taika Lenkija atgavo Pamarį, Dancigą, Elbingą, Marijenburgą ir Varmijos vyskupystę.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-91233"></a>
-- t-002
+- t-001
   global_id: t-91233
   teiginys: 'Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-91234"></a>
-- t-003
+- t-002
   global_id: t-91234
   teiginys: 'Ordinas tebevaldė Pamarį, kuris buvo vienintelis Lenkijos išėjimas prie jūros.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1466 m. Torne buvo pasirašyta taika, kuria ordinas
-    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
-    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
-    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -73,9 +51,8 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-003
+    - t-001
+- c-002
   santrauka: 'Ordinas tebevaldė Pamarį, kuris buvo vienintelis Lenkijos išėjimas prie jūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -87,4 +64,4 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

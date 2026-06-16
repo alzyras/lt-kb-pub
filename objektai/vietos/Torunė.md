@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.
+Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje. Torunę 1235 m. pastatė kryžiuočiai. Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.
 
 ## Teiginiai
 
@@ -95,7 +95,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 <a id="claim-t-175442"></a>
 - t-010
   global_id: t-175442
-  teiginys: 'Ordino magistras persikėlė į Kulmo žemę ir pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
+  teiginys: '1231 m. Ordino magistras Kulmo žemėje pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
     - c-007
 
@@ -239,6 +239,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - t-008
 
 - c-007
+  santrauka: '1231 m. Ordino magistras Kulmo žemėje pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam

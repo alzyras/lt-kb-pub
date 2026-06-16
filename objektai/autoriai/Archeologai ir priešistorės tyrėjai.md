@@ -22,14 +22,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Šioje srityje pirmiausiai minėtini archeologai: P. Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t. Tautavi­ čius išleido knygą Lietuvos archeologijos bruožai (1961).
+R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema. P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.
 
 ## Teiginiai
 
 <a id="claim-t-179498"></a>
 - t-001
   global_id: t-179498
-  teiginys: 'R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“.'
+  teiginys: 'R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema.'
   pagrindžia:
     - c-001
 

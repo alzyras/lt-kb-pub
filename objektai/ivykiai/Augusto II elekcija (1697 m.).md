@@ -33,40 +33,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66463"></a>
 - t-001
   global_id: t-66463
   teiginys: '1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas.'
   pagrindžia:
-    - c-002
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66464"></a>
 - t-002
   global_id: t-66464
   teiginys: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
   pagrindžia:
-    - c-001
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu didelė dalis ba-
-    jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-
-    tija tačiau atskirai paskelbė išrinktu princą Kontį. Bet Augus-
-    tas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia ka-
-    rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
-    konfederaciją jam paremti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: '1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -80,11 +65,30 @@ Nenurodyta
     karaliaus sūnus Jokūbas.
     Bet Jokūbas buvo nepo-
     puliarus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu didelė dalis ba-
+    jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-
+    tija tačiau atskirai paskelbė išrinktu princą Kontį. Bet Augus-
+    tas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia ka-
+    rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
+    konfederaciją jam paremti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -93,4 +97,3 @@ Nenurodyta
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Prancūziškoji partija]]
-- [[objektai/zodynas/bajorija]]

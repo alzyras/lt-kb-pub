@@ -120,12 +120,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
 - [[objektai/asmenys/Brunonas]]
 - [[objektai/grupes/Dobrynės broliai]]

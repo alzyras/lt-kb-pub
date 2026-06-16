@@ -8,7 +8,6 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1936 m.'
-  - '1939 m.'
   - '2026 m.'
 date_start: '1936'
 date_end: '2026'
@@ -27,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj. Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.
+Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę. Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę. Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais.
 
 ## Teiginiai
 
@@ -45,54 +44,47 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - c-001
 
-<a id="claim-t-114295"></a>
+<a id="claim-t-114296"></a>
 - t-003
-  global_id: t-114295
-  teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
+  global_id: t-114296
+  teiginys: 'Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-114296"></a>
-- t-004
-  global_id: t-114296
-  teiginys: 'Iš Italijos kilęs de Senis papuošė Vilnių nuostabaus darbo meno kūriniais.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-114297"></a>
-- t-005
+- t-004
   global_id: t-114297
   teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-114298"></a>
-- t-006
+- t-005
   global_id: t-114298
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-183020"></a>
-- t-008
+- t-007
   global_id: t-183020
   teiginys: 'Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-183021"></a>
-- t-009
+- t-008
   global_id: t-183021
   teiginys: 'Aukštojo mokslo siekę nedvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-184962"></a>
-- t-011
+- t-009
   global_id: t-184962
   teiginys: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
   pagrindžia:
-    - c-008
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -111,8 +103,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -131,25 +123,11 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-005
     - t-006
-    - t-007
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1939 m. Kaune Lietuva antrą
-    kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
-    Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
-    laikui tapo sportu Nr. 1, kaip tautinės pergalės simbolis, dvasios ir kūno
-    lavinimo pergalė, puikus pavyzdys kitų sporto šakų atstovams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Iš Italijos kilęs de Senis papuošė Vilnių nuostabaus darbo meno kūriniais.'
+  santrauka: 'Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     — • —
@@ -169,9 +147,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   santrauka: 'Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -184,9 +162,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-006
+- c-005
   santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -203,25 +181,10 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-005
+    - t-004
+    - t-008
 
-- c-007
-  santrauka: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sportininkus parvežantį traukinį kie-
-    kvienoje Lietuvos stotelėje sutiko tūkstantinės minios su gėlėmis, tautos
-    himnu, sveikinimais ir džiaugsmo ašaromis. 1939 m. Kaune Lietuva antrą
-    kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
-    Italijoje iškovojo Europos čempionato sidabro medalius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-008
+- c-006
   santrauka: 'Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -247,4 +210,4 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009

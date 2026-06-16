@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Žemaičiai ilgai išlaikė savitą vidaus tvarkymąsi ir socialinį savitumą. Didieji Lietuvos kunigaikščiai krašto vidaus reikaluose turėjo ribotą įtaką, bet pavojaus metu teikdavo pagalbą, o skirtingos žemaičių privilegijos išliko iki pat XVI amžiaus.
+Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą. Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.
 
 ## Laikotarpis ir datos
 
@@ -37,7 +37,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-05373"></a>
 - t-001
   global_id: t-05373
@@ -45,15 +44,14 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-67250"></a>
-- t-002
-  global_id: t-67250
-  teiginys: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'
+- t-004
+  teiginys: 'Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -70,8 +68,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
+  santrauka: 'Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **2. Žemaičių kunigaikštystės privilegija**
@@ -79,11 +77,13 @@ Nenurodyta
     padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

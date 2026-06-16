@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta. 1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
+1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos. Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta. Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, bet Lietuvos Tarybos delegacija į derybas nebuvo pakviesta.
 
 ## Teiginiai
 
@@ -29,6 +29,13 @@ tags:
   teiginys: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183358"></a>
+- t-003
+  global_id: t-183358
+  teiginys: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, bet Lietuvos Tarybos delegacija į derybas nebuvo pakviesta.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -71,7 +78,7 @@ tags:
     - t-001
 
 - c-003
-  santrauka: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
+  santrauka: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, bet Lietuvos Tarybos delegacija į derybas nebuvo pakviesta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nebeliko

@@ -11,18 +11,18 @@ date_start: '1924'
 date_end: '1958'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # K. Būga
 
 ## Santrauka
 
-K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su Rinktiniais Raštais, aisčių vardo vartosenos aiškinimu ir baltų kalbų istorijos darbais.
+Būga kartu su Jauniumi vadino aisčių gimines aisčiais. K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus. K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.
 
 ## Darbai
 
@@ -31,14 +31,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte der Ortsnamenforschung
 
 ## Teiginiai
-
-<a id="claim-t-00043"></a>
-- t-001
-  global_id: t-00043
-  teiginys: 'Būga kartu su Jauniumi vadino aisčių gimines aisčiais.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-64668"></a>
 - t-002
   global_id: t-64668
@@ -56,26 +48,17 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 <a id="claim-t-64672"></a>
 - t-004
   global_id: t-64672
-  teiginys: 'K. Būga parašė Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte der Ortsnamenforschung.'
+  teiginys: 'K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Būga kartu su Jauniumi vadino aisčių gimines aisčiais.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas geografinis terminas reiš-
-    kia Baltijos pajūrio tautas. Tik didieji mūsų kalbininkai Jaunius su
-    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
-    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
-    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -89,7 +72,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -104,8 +86,8 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
+  santrauka: 'K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Suwałki,_ Wiadomości Archeolo­
@@ -120,6 +102,22 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   statusas: verified
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Būga kartu su Jauniumi vadino aisčių gimines aisčiais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tas geografinis terminas reiš-
+    kia Baltijos pajūrio tautas. Tik didieji mūsų kalbininkai Jaunius su
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
+    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
+    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

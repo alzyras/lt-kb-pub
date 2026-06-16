@@ -19,21 +19,21 @@ amziai:
 
 ## Santrauka
 
-Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
+Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse.
 
 ## Teiginiai
 
 <a id="claim-t-86245"></a>
 - t-001
   global_id: t-86245
-  teiginys: 'Totorių vartų pavadinimas kilo nuo totorių, kurie, regis, pirmiausia buvo įsikūrę Lukiškėse.'
+  teiginys: 'Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Totorių vartų pavadinimas kilo nuo totorių, kurie, regis, pirmiausia buvo įsikūrę Lukiškėse.'
+  santrauka: 'Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia jų,

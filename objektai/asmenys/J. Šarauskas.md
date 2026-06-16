@@ -78,7 +78,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/įgula]]

@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie. Dusburgietis teigia, kad 246 D.— cum omni domo et familia sua. Dusburgietis teigia, kad daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis, kurių vardus vienas dievas težino.
+246 D.— cum omni domo et familia sua. Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna. Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 
 ## Teiginiai
 
 <a id="claim-t-58818"></a>
 - t-001
   global_id: t-58818
-  teiginys: 'Dusburgietis teigia, kad 246 D.— cum omni domo et familia sua.'
+  teiginys: '246 D.— cum omni domo et familia sua.'
   pagrindžia:
     - c-004
 
@@ -111,6 +111,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     - t-003
 
 - c-004
+  santrauka: '246 D.— cum omni domo et familia sua.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     246 D.— cum omni domo et familia sua. D. domus (namai) — tai šeimos nariai, o

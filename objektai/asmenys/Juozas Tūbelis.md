@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas J. Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį.
+Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai. Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas. Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 <a id="claim-t-170079"></a>
 - t-003
   global_id: t-170079
-  teiginys: 'Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepakeliamas skolas.'
+  teiginys: 'Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę.'
   pagrindžia:
     - c-003
 
@@ -66,7 +66,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 <a id="claim-t-170082"></a>
 - t-006
   global_id: t-170082
-  teiginys: 'Tūbelis, vadovavęs Ministrų Tarybai 7,5 metų (ilgiausiai išsilaikė toje pozicijoje), garantavo vyriausybių stabilumą ir vieningą visų ministrų politiką, sudarydamas Lietuvai šansą plėtoti įvairių krypčių pažangą visose sferose be jokios paramos iš užsienio.'
+  teiginys: 'Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką.'
   pagrindžia:
     - c-006
 
@@ -141,6 +141,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-008
 
 - c-003
+  santrauka: 'Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
@@ -196,6 +197,7 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
     - t-005
 
 - c-006
+  santrauka: 'Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.

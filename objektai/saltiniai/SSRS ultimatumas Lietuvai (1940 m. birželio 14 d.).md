@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J. Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą. Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.
+Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą. 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius. Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.
 
 ## Teiginiai
 
 <a id="claim-t-75516"></a>
 - t-001
   global_id: t-75516
-  teiginys: 'Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą.'
+  teiginys: 'Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.'
   pagrindžia:
     - c-002
 
@@ -40,7 +40,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 <a id="claim-t-75519"></a>
 - t-004
   global_id: t-75519
-  teiginys: 'Kariuomenės vadas V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  teiginys: 'Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-003
 
@@ -67,6 +67,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-002
 
 - c-002
+  santrauka: 'Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS iš anksto pasiruošė invazijai: pasienyje įsteigtos ligoninės sužeis-
@@ -85,7 +86,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - t-001
 
 - c-003
-  santrauka: 'Kariuomenės vadas V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
+  santrauka: 'Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau ministro pirmininko

@@ -26,9 +26,9 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185550"></a>
+<a id="claim-t-187467"></a>
 - t-001
-  global_id: t-185550
+  global_id: t-187467
   teiginys: 'Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.'
   pagrindžia:
     - c-001

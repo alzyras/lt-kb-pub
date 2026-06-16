@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Nazimovas balandžio pabaigoje įsakė gen.
+Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
 
 ## Teiginiai
 
 <a id="claim-t-40489"></a>
 - t-001
   global_id: t-40489
-  teiginys: 'V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį Anykščių kryptimi ir sunaikinti ten susibūrusius sukilėlius.'
+  teiginys: 'Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Daugelis sukilėlių turėjo tik senus
@@ -44,3 +45,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/generalgubernatorius]]

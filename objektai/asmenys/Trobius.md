@@ -116,6 +116,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
 ### Susiję objektai
 - [[objektai/asmenys/Germantas]]
 - [[objektai/asmenys/Giliginas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/globėjas]]
 - [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]

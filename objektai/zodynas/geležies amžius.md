@@ -15,16 +15,16 @@ tags:
 Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; tiktai pirmaisiais amžiais po Kr.
 
 ## Teiginiai
-
 <a id="claim-t-02997"></a>
 - t-001
   global_id: t-02997
   teiginys: 'Geležis Lietuvoje pradėta vartoti ne anksčiau kaip apie 500 m. pr. Kr., o turtinga geležies amžiaus kultūra išryškėjo pirmaisiais amžiais po Kr.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Geležis Lietuvoje pradėta vartoti ne anksčiau kaip apie 500 m. pr. Kr., o turtinga geležies amžiaus kultūra išryškėjo pirmaisiais amžiais po Kr.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -34,9 +34,11 @@ Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; t
     sios kultūros liudininkų; tiktai pirmaisiais amžiais po Kr. Lietu-
     voje susiduriame su turtinga, gražia ir savita geležies am-
     žiaus kultūra.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

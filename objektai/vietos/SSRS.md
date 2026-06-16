@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą. Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė. Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą. Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas. 1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 <a id="claim-t-77327"></a>
 - t-002
   global_id: t-77327
-  teiginys: 'Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas privalomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarkytos pagal SSRS aukštųjų mokyklų sistemą.'
+  teiginys: 'Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas.'
   pagrindžia:
     - c-005
 
@@ -58,7 +58,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 <a id="claim-t-77331"></a>
 - t-005
   global_id: t-77331
-  teiginys: 'Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
+  teiginys: 'Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   pagrindžia:
     - c-009
 
@@ -72,7 +72,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 <a id="claim-t-77333"></a>
 - t-007
   global_id: t-77333
-  teiginys: 'Galimybė atsidurti „po rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų režimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus.'
+  teiginys: 'Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.'
   pagrindžia:
     - c-011
 
@@ -180,6 +180,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-009
 
 - c-005
+  santrauka: 'Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sumažėjo lietuvių kalbos vaidmuo viešajame gyvenime – lietuvių kal-
@@ -250,7 +251,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-006
 
 - c-009
-  santrauka: 'Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
+  santrauka: 'Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS 1940 metų ultimatumas ir
@@ -286,6 +287,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-003
 
 - c-011
+  santrauka: 'Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mintis „Po
@@ -310,7 +312,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-007
 
 - c-012
-  santrauka: 'Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas privalomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarkytos pagal SSRS aukštųjų mokyklų sistemą.'
+  santrauka: 'Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Populiarus to meto posakis, kad mylintis savo

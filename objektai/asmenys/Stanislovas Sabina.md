@@ -114,7 +114,6 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Rotundas]]
 - [[objektai/asmenys/Augustinas Rotundas Milesijus]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/unija]]

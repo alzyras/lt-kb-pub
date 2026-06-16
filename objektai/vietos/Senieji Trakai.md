@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Senieji Trakai šiame šaltinyje minimi kaip vieta, kur Vytautas įkurdino benediktinus, atkeldintus iš Mažosios Lenkijos Tynieco.
+Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco. Vytautas įkurdino benediktinus Senuosiuose Trakuose. Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.
 
 ## Pavadinimai šaltiniuose
 
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-71966
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-71967"></a>
 - t-002
@@ -67,13 +67,6 @@ Nenurodyta
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-71969"></a>
-- t-004
-  global_id: t-71969
-  teiginys: 'Trakai- [10] Rugpjūčio 26 d.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -92,17 +85,3 @@ Nenurodyta
     - t-002
     - t-003
     - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    [9] Rugpjūčio 25 d. Gel. li-
-    nija Marcinkonys-Varėna-
-    Valkininkai-Sen. Trakai-
-
-    [10] Rugpjūčio 26 d. Vilnius
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004

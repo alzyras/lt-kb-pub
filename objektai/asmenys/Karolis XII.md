@@ -10,16 +10,16 @@ date_start: '1700'
 date_end: '1721'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karalius
-  - karas
-  - kunigaikštis
 amziai:
   - 'XVII'
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - karalius
+  - karas
+  - kunigaikštis
 ---
 # Karolis XII
 
@@ -28,7 +28,6 @@ periodo_grupes:
 Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Tada Karolis XII, pasiskelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją, Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Augusto vietoje pastatyti kitą karalių. Švedų karalius Karolis XII, išvijęs ją iš Livonijos, įsiveržė iš pradžių į Lietuvą, o paskui ir į Lenkiją.
 
 ## Teiginiai
-
 <a id="claim-t-171586"></a>
 - t-001
   global_id: t-171586
@@ -44,7 +43,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -61,7 +59,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -89,4 +86,3 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
 - [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
-- [[objektai/ivykiai/Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)]]

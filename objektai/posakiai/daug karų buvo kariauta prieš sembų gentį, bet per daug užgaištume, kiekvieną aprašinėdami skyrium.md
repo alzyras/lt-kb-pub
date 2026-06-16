@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar. Dusburgietis teigia, kad nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“ (III, 179). Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.
+Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta. Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys. Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo.
 
 ## Teiginiai
 
@@ -23,51 +23,25 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   global_id: t-89579
   teiginys: 'Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-89580"></a>
 - t-002
   global_id: t-89580
   teiginys: 'Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-89581"></a>
-- t-003
-  global_id: t-89581
-  teiginys: 'Dusburgietis apie Nadruvą pažymėjo, kad su šia žeme daug kartų buvo vedami karai, kurių jis plačiau neaprašė.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-89582"></a>
-- t-004
+- t-003
   global_id: t-89582
   teiginys: 'Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Dusburgietis apie Nadruvą pažymėjo, kad su šia žeme daug kartų buvo vedami karai, kurių jis plačiau neaprašė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
-    kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi
-    karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“
-    (III, 179). Aprašęs kai kurias kovas Skalvoje abipus Nemuno, kronikininkas pažymi, jog
-    „daug karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną“ (III, 188).
-    Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
-    į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
-    dažniau įsibraudavo“  į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
-    nuostolių, kad tai labai dažnai pasikartodavo (III, 192).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
@@ -81,10 +55,10 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
     - t-002
 
-- c-003
+- c-002
   santrauka: 'Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -105,9 +79,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]

@@ -56,4 +56,3 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Celestino V kanonizavimas (1313 m. gegužės 5 d.)]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/zodynas/išpažintojas]]

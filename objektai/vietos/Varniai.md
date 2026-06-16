@@ -12,13 +12,13 @@ date_start: '1316'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - kraštas
   - vieta
   - vyskupas
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Varniai
 
@@ -27,7 +27,6 @@ amziai:
 Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
 
 ## Teiginiai
-
 <a id="claim-t-99302"></a>
 - t-001
   global_id: t-99302
@@ -48,9 +47,10 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   teiginys: 'Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Varniuose Vytautas paskyrė Žemaičių vyskupo buveinę, o jo pastatyta bažnyčia pašventinta katedra.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -68,7 +68,6 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1316 m. kryžiuočiai brovėsi iki Varnių, o vasarą vėl kelis kartus teriojo Varnių sritį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -85,8 +84,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
+  santrauka: 'Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     St. Radvilos fundacija), Pa-
@@ -96,8 +95,10 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
     piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
     Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
     Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

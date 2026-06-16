@@ -11,14 +11,14 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - karas
   - miestas
   - sąvoka
   - tauta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # demarkacijos linija
 
@@ -27,7 +27,6 @@ amziai:
 Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ribą. Ankstesniame šaltinyje ji rodoma kaip konferencijos ir Suvalkų derybų nustatyta laikina siena, o šiame šaltinyje papildomai pateikiama konkreti 1920 m. spalio 7 d. linijos eiga nuo Vokietijos sienos iki Bastūnų stoties.
 
 ## Teiginiai
-
 <a id="claim-t-181355"></a>
 - t-001
   global_id: t-181355
@@ -43,7 +42,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +57,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -80,4 +77,5 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
+- [[objektai/zodynas/Kerzono linija]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]

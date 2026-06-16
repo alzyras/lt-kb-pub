@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
+Panemunėje esama Rambyno (žr.
 
 ## Teiginiai
 
 <a id="claim-t-58714"></a>
 - t-001
   global_id: t-58714
-  teiginys: 'Dusburgietis teigia, kad panemunėje esama Rambyno (žr.'
+  teiginys: 'Panemunėje esama Rambyno (žr.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Panemunėje esama Rambyno (žr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Panemunėje esama Rambyno (žr. paaiškinimą III, 183; ant Rambyno po akmeniu yra

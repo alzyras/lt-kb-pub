@@ -64,6 +64,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/kunigaikščiai]]

@@ -50,4 +50,5 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
 - [[objektai/grupes/Lenkų senatas]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/senatas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]

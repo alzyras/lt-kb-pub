@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube. Netrukus Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pabaigoje caro valdžia įvedė karo padėtį.
+Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį. 1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube. Kai kurių Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-54324"></a>
 - t-001
   global_id: t-54324
-  teiginys: 'Netrukus Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi tik po to, kai vasaros pabaigoje caro valdžia įvedė karo padėtį.'
+  teiginys: 'Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį.'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-183329"></a>
 - t-004
   global_id: t-183329
-  teiginys: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius Targovicos konfederatams.'
+  teiginys: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.'
   pagrindžia:
     - c-003
 
@@ -111,7 +111,7 @@ Nenurodyta
     - t-002
 
 - c-003
-  santrauka: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius Targovicos konfederatams.'
+  santrauka: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius kai kuriems Targovicos konfederatams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos

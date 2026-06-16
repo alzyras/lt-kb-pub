@@ -13,22 +13,21 @@ date_start: '1432'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - mūšis
   - seimas
   - vieta
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # Silezija
 
 ## Santrauka
 
-Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo priverstas atsisakyti nuo sosto.
+Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno. 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis. 1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
 
 ## Teiginiai
-
 <a id="claim-t-95160"></a>
 - t-001
   global_id: t-95160
@@ -50,13 +49,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   pagrindžia:
     - c-004
 
-<a id="claim-t-95163"></a>
-- t-004
-  global_id: t-95163
-  teiginys: 'Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-95164"></a>
 - t-005
   global_id: t-95164
@@ -67,14 +59,14 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 <a id="claim-t-95165"></a>
 - t-006
   global_id: t-95165
-  teiginys: 'Švitrigaila prašė garantijų savo dvariškiams Hansui Tscheizui ir Mikalojui Sachsei, vykusiems su reikalais į Sileziją.'
+  teiginys: 'Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems su reikalais į Sileziją.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-95166"></a>
 - t-007
   global_id: t-95166
-  teiginys: 'Švitrigaila prašė garantijų savo dvariškiams Hansui Tscheizui ir Mikalojui Sachsei, vykusiems į Sileziją.'
+  teiginys: 'Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems į Sileziją.'
   pagrindžia:
     - c-006
 
@@ -105,9 +97,14 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginys: 'Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.'
   pagrindžia:
     - c-009
+- t-012
+  teiginys: 'Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.'
+  pagrindžia:
+    - c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -130,7 +127,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   pagrindžia:
     - t-010
     - t-008
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -149,23 +145,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu Lenkijoj laimėjo Za-
-    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
-    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
-    Tuo būdu buvo karūnuotas atvykęs Zigmantas. Maksimilijonas
-    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
-    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
-    priverstas atsisakyti nuo sosto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -186,7 +165,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   santrauka: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -204,7 +182,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -225,7 +202,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   pagrindžia:
     - t-006
     - t-007
-
 - c-007
   santrauka: 'Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -244,7 +220,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-008
   santrauka: 'Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -265,7 +240,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-009
   santrauka: 'Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -284,3 +258,21 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-011
+- c-010
+  santrauka: 'Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu Lenkijoj laimėjo Za-
+    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas. Maksimilijonas
+    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
+    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
+    priverstas atsisakyti nuo sosto.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012

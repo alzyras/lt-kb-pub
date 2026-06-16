@@ -126,6 +126,7 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/asmenys/Jonas de Lovenbinkė]]
 - [[objektai/grupes/Livonijos ordinas]]

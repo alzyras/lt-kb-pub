@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-1928 m. sausio 29 d. po ilgų derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis Berlyne nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.
+1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje. 1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.
 
 ## Laikotarpis ir datos
 
@@ -46,19 +46,12 @@ Nenurodyta
 <a id="claim-t-45361"></a>
 - t-001
   global_id: t-45361
-  teiginys: '1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
+  teiginys: '1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-45362"></a>
-- t-002
-  global_id: t-45362
-  teiginys: '1928 m. sausio 29 d. pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-45363"></a>
-- t-003
+- t-002
   global_id: t-45363
   teiginys: '1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
@@ -81,10 +74,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-003
 
 - c-002
-  santrauka: '1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
+  santrauka: '1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva įgijo neužšalantį

@@ -10,45 +10,48 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sąvoka
-  - unija
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - sąvoka
+  - unija
 ---
 # statuto dėsniai
 
 ## Santrauka
 
-Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs panaikinti visus Lietuvos įstatymus (statuto dėsnius), draudžiančius lenkams įsigyti Lietuvoje dvarų. Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuostatai niekad nebuvo pakeisti.
+Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti. Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti. Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje.
 
 ## Teiginiai
-
 <a id="claim-t-70335"></a>
 - t-001
   global_id: t-70335
-  teiginys: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-70336"></a>
-- t-002
-  global_id: t-70336
   teiginys: 'Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-70336"></a>
+- t-002
+  global_id: t-70336
+  teiginys: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182978"></a>
 - t-003
   global_id: t-182978
-  teiginys: 'Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs panaikinti visus Lietuvos įstatymus (statuto dėsnius), draudžiančius lenkams įsigyti Lietuvoje dvarų.'
+  teiginys: 'Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje.'
   pagrindžia:
-    - c-003
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     To-
@@ -61,29 +64,15 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
     panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
     džiančius lenkams įsigyti Lietuvoje dvarų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vėliau jiems buvo leista įsigyti dvarų tik ve-
-    dybomis. O valstybinių urėdų jie niekuomet negalėjo gauti
-    Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
-    statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
-    tik bendras valdovas ir bendri seimai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs panaikinti visus Lietuvos įstatymus (statuto dėsnius), draudžiančius lenkams įsigyti Lietuvoje dvarų.'
+- c-002
+  santrauka: 'Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitais unijos akto paragrafais nusta-
@@ -94,15 +83,32 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     džiančius lenkams įsigyti Lietuvoje dvarų.
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
     reikalaujant.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-003
+  santrauka: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vėliau jiems buvo leista įsigyti dvarų tik ve-
+    dybomis. O valstybinių urėdų jie niekuomet negalėjo gauti
+    Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
+    statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
+    tik bendras valdovas ir bendri seimai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Liublino seimas]]
 - [[objektai/zodynas/seimas]]

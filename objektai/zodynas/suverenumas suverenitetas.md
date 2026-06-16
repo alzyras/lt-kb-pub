@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai. LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
+LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto. Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai. Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 <a id="claim-t-70348"></a>
 - t-002
   global_id: t-70348
-  teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
+  teiginys: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
     - t-001
 
 - c-002
+  santrauka: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -97,7 +98,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
     - t-003
 
 - c-004
-  santrauka: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
+  santrauka: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-

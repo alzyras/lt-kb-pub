@@ -19,14 +19,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės iškilęs asmuo, dažnai minimas tolerancijos tyrėjų.
+Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės. Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 
 ## Teiginiai
 
 <a id="claim-t-23196"></a>
 - t-001
   global_id: t-23196
-  teiginys: 'Isaakas ben Abrahamas iš Trakų kilo iš LDK karaimų bendruomenės.'
+  teiginys: 'Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.'
   pagrindžia:
     - c-001
 

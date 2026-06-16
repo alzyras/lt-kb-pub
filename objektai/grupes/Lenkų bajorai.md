@@ -9,104 +9,31 @@ date_start: '1401'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - bajorija
   - grupe
   - karalius
   - privilegija
-amziai:
-  - 'XV'
 ---
 # Lenkų bajorai
 
 ## Santrauka
 
-atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų bajorai. Iš savo pusės Lenkų ba- jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios. Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.
+Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios. Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.
 
 ## Teiginiai
-
-<a id="claim-t-72423"></a>
-- t-001
-  global_id: t-72423
-  teiginys: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-72424"></a>
-- t-002
-  global_id: t-72424
-  teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir lenkų bajorai.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-72425"></a>
-- t-003
+- t-001
   global_id: t-72425
   teiginys: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-72426"></a>
-- t-004
-  global_id: t-72426
-  teiginys: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
-  pagrindžia:
-    - c-003
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Juo buvo patvirtintas Vytauto sava-
-    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
-    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
-    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
-    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
-    jo sūnums sostą. Lenkų bajorai, už tai išsireikalavę iš Jogailos
-    sau privilegijų praplėtimo, sutiko. Atrodė, kad jau viskas
-    bus gerai, kad, seniesiems valdovams mirus, abudu sostus gaus
-    Jogailos sūnūs, — taip bent svajojo lenkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: '1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas tam nesiprie-
-    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
-    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
-    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
-    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
-    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-004
   santrauka: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -117,22 +44,40 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
+- c-002
+  santrauka: 'Lenkų bajorai pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
+    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]

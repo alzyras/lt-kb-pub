@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis. Jogailos šalininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.
+Slaptoje sąmokslo sutartyje buvo numatyta nužudyti Kęstutį ir jo palikuonis, o Vaidilai atlyginti nugalėtų priešų valdomis. Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185773"></a>
 - t-002
   global_id: t-185773
-  teiginys: 'Jogailos šalininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
+  teiginys: 'Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Jogailos šalininkai nutarė nestoti į atvirą kovą, kol nebus sudaryta karinė sąjunga su Prūsijos ir Livonijos kryžiuočiais.'
+  santrauka: 'Vaidilos patvarkymu Jogaila ir kryžiuočiai slaptai pasirašė susitarimą prieš stojimą į atvirą kovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto nutariama tol nestoti į atvirą kovą, kol
@@ -100,3 +100,5 @@ Nenurodyta
 - [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vaidila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -177,6 +177,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
@@ -184,6 +185,4 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/autoriai/Karolis Zikaras]]

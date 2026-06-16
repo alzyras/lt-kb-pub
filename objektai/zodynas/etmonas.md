@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'etmonas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -12,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Greta didžiojo etmono M.
+Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu. Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą. Žemaičių seniūnas ir Lietuvos Didžiosios Kunigaikštystės etmonas Joną Cerniną su svetimšaliais nusiuntė į Polocką kaip įgulą.
 
 ## Teiginiai
 
@@ -22,6 +23,20 @@ Greta didžiojo etmono M.
   teiginys: 'Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187521"></a>
+- t-002
+  global_id: t-187521
+  teiginys: 'Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-187522"></a>
+- t-003
+  global_id: t-187522
+  teiginys: 'Žemaičių seniūnas ir Lietuvos Didžiosios Kunigaikštystės etmonas Joną Cerniną su svetimšaliais nusiuntė į Polocką kaip įgulą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -52,6 +67,42 @@ Greta didžiojo etmono M.
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Žemaičių seniūnas ir Lietuvos Didžiosios Kunigaikštystės etmonas Joną Cerniną su svetimšaliais nusiuntė į Polocką kaip įgulą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir, apsupę Mstislavlio miestą, ilgokai stovėjo ir,
+    pridarę aplink miestą daug žalos, sugrįžo atgal5 8 .
+    Ponas Žemaičių seniūnas ir visos Lietuvos Didžio­
+    sios Kunigaikštystės etmonas ilgokai stovyklavo kalnuo­
+    se ir paskui nužygiavo į Lietuvą, čeką Joną Cerniną su
+    visais svetimšaliais nusiuntė į Polocką kaip įgulą5 9 .
+    Septyni tūkstančiai dešimtaisiais, o nuo Kristaus gi­
+    mimo tūkstantis penki šimtai pirmaisiais metais Toru-
+    nės mieste, Prūsijoje, mirė Lenkijos karalius Olbrach-
+    tas 6 0 , karaliaus Aleksandro brolis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustas]]
@@ -59,8 +110,13 @@ Greta didžiojo etmono M.
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Abiejų Tautų konfederacija]]
 - [[objektai/asmenys/Aleksandras Gonsevskis]]
@@ -78,6 +134,7 @@ Greta didžiojo etmono M.
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/asmenys/Kristupas II Radvila]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/asmenys/Kunzas Lochneris]]
@@ -96,6 +153,7 @@ Greta didžiojo etmono M.
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
 - [[objektai/grupes/Targovicos konfederacija]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/grupes/Vilniaus konfederacija]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]
@@ -112,6 +170,7 @@ Greta didžiojo etmono M.
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Radvila]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/asmenys/S. Kosakovskis]]
 - [[objektai/asmenys/Stanislovas Kiška]]

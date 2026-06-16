@@ -10,68 +10,55 @@ date_start: '1514'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - valdovas
 amziai:
   - 'XVI'
   - 'XXI'
+tags:
+  - grupe
+  - valdovas
 ---
 # Habsburgai
 
 ## Santrauka
 
-Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdomosios Vengrijos bei Čekijos. Nors vėliau ir vedė Habsburgaitę, tačiau šeimos laimės jau nebesulaukė: gyvenimo pabaigoje net persiskyrė su žmona. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV.
+Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną. Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.
 
 ## Teiginiai
-
 <a id="claim-t-181244"></a>
 - t-001
   global_id: t-181244
   teiginys: 'Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-181245"></a>
-- t-002
-  global_id: t-181245
-  teiginys: 'Zigmanto Augusto žmona Habsburgaitė netrukus mirė.'
-  pagrindžia:
-    - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182891"></a>
-- t-003
+- t-002
   global_id: t-182891
   teiginys: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-182892"></a>
-- t-004
-  global_id: t-182892
-  teiginys: 'Austrų Habsburgai ir caras Jonas IV ypač rūpinosi po Zigmanto Augusto mirties įžengti į Lietuvos ir Lenkijos sostus.'
-  pagrindžia:
-    - c-004
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Zigmanto Augusto žmona Habsburgaitė netrukus mirė.'
+  santrauka: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Zigmanto Augusto ir Barboros Radvilaitės vedybos ir**
-        **konfliktas dėl jos su lenkais**
-    Įsikurdamas Vilniuje, Zigmantas Augustas jau buvo vedęs. Bet
-    jo žmona Habsburgaitė netrukus mirė. Tuo metu, greta didžiojo
-    kunigaikščio rūmų, buvusiuose Radvilų rūmuose, gyveno jauna graži
-    našlė Barbora Radvilaitė Goš-
-    tautienė.
-  citata_rodoma: ''
+    **Antrasis karas su Maskva** Lietuvai buvo daug nelaiminges-
+    nis. Glinskio rūpesčiu, šį kartą Maskvai pasisekė gauti daug
+    paramos iš imperatoriaus Maksimilijono. Mat, imperatorius
+    norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habs-
+    burgai negautų jo brolio Vladislovo valdomosios Vengrijos
+    bei Čekijos.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -82,50 +69,17 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
     čiau su ja negyveno; ji išvažiavo į Vieną. Negaudamas persisky-
     rimo, jis nebegalėjo vesti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Antrasis karas su Maskva** Lietuvai buvo daug nelaiminges-
-    nis. Glinskio rūpesčiu, šį kartą Maskvai pasisekė gauti daug
-    paramos iš imperatoriaus Maksimilijono. Mat, imperatorius
-    norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habs-
-    burgai negautų jo brolio Vladislovo valdomosios Vengrijos
-    bei Čekijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Austrų Habsburgai ir caras Jonas IV ypač rūpinosi po Zigmanto Augusto mirties įžengti į Lietuvos ir Lenkijos sostus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karas tuo būdu lai-
-    kinai pasibaigė. Visi laukė anksti pasenusio Zigmanto Au-
-    gusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties
-    įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-
-    trų Habsburgai ir caras Jonas IV.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Dobrogostas]]
 - [[objektai/grupes/Habsburgų dinastija]]
@@ -138,4 +92,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - [[objektai/autoriai/Simono Grunau]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/grupes/Romanovų dinastija]]

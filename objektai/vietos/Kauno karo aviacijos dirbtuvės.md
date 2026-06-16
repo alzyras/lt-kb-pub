@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-66 tokie lėktuvai buvo pastatyti Kauno karo aviacijos dirbtuvėse.
+Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.
 
 ## Teiginiai
 
 <a id="claim-t-15268"></a>
 - t-001
   global_id: t-15268
-  teiginys: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 tokie lėktuvai.'
+  teiginys: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-

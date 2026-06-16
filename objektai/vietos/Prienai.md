@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus.
+Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją. Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų. 7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.
 
 ## Teiginiai
 
@@ -41,24 +41,17 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   pagrindžia:
     - c-002
 
-<a id="claim-t-69033"></a>
-- t-003
-  global_id: t-69033
-  teiginys: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-69034"></a>
-- t-004
+- t-003
   global_id: t-69034
-  teiginys: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti jį iš pietų.'
+  teiginys: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti jį iš pietų.'
+  santrauka: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ‘ tikslu perėjus per Nemuną
@@ -74,7 +67,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
@@ -144,23 +137,6 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     - t-001
 
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šiaurinė Užnemunės dalis anksčiau priklausė
-    Žemaičių, o pietinė — Vilniaus vyskupijai. Norėdama atskirti
-    ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia
-    įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vig-
-    riuose (1798 m.; 1818 m. ji buvo perkelta į Seinus). Pir-
-    muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
-    kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
-    lankus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -211,9 +187,9 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
+- c-005
   santrauka: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -225,4 +201,4 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005

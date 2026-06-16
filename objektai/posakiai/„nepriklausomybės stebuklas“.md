@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus. Pirmąsias sutartis Lietuva pasirašė kaip tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas įvyko.
+Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“.
 
 ## Teiginiai
 
 <a id="claim-t-67320"></a>
 - t-001
   global_id: t-67320
-  teiginys: 'Pirmąsias sutartis Lietuva pasirašė kaip tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas įvyko.'
+  teiginys: 'Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva nelengvai, tačiau tapo

@@ -10,11 +10,11 @@ date_start: '1967'
 date_end: '1977'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - valstybė
   - vieta
-amziai:
-  - 'XX'
 ---
 # Kolumbija
 
@@ -23,7 +23,6 @@ amziai:
 Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais.
 
 ## Teiginiai
-
 <a id="claim-t-46781"></a>
 - t-001
   global_id: t-46781
@@ -32,7 +31,6 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

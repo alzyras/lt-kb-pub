@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Šimonių girioje bazavosi srities vadovybė. Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.
+Šimonių girioje būdavo rengiami srities vadų sąskrydžiai. Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,7 +47,7 @@ Nenurodyta
 <a id="claim-t-09607"></a>
 - t-002
   global_id: t-09607
-  teiginys: 'Šimonių girioje bazavosi srities vadovybė.'
+  teiginys: 'Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.'
   pagrindžia:
     - c-001
 

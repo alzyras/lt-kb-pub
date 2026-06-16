@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tekstas Chotino mūšį pristato kaip gynybinio mūšio pavyzdį ir paskutinę Jono Karolio Chodkevičiaus pergalę. Po mūšio minimos Turkijos paliaubos ir Dniestro linijoje atkurta siena. Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
+Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą. Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė. Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
 
 ## Laikotarpis ir datos
 
@@ -58,7 +58,7 @@ Nenurodyta
 <a id="claim-t-41270"></a>
 - t-003
   global_id: t-41270
-  teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
+  teiginys: 'Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šis laimėjimas - puikus gy-

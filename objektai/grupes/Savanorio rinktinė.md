@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Po rinktinės vado suėmimo J.
+Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.
 
 ## Teiginiai
 
 <a id="claim-t-39004"></a>
 - t-001
   global_id: t-39004
-  teiginys: 'Po rinktinės vado suėmimo J. Paliūnui pavyko pakrikusius partizanus suorganizuoti į Savanorio rinktinę.'
+  teiginys: 'Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po rinktinės vado suėmimo J. Paliūnas pakrikusius partizanus suorganizavo į Savanorio rinktinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po rinktinės vado suėmimo J. Paliūnui

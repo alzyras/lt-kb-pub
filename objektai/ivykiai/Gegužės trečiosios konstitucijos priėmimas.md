@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją. Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją. Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.
+Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją. Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją. Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
 
 ## Laikotarpis ir datos
 
@@ -57,22 +57,15 @@ Nenurodyta
   pagrindžia:
     - c-003
 
-<a id="claim-t-75100"></a>
-- t-003
-  global_id: t-75100
-  teiginys: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-75102"></a>
-- t-005
+- t-004
   global_id: t-75102
   teiginys: 'Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75103"></a>
-- t-006
+- t-005
   global_id: t-75103
   teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   pagrindžia:
@@ -113,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-003
   santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
@@ -137,7 +130,6 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-003
     - t-002
 
@@ -156,8 +148,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-    - t-005
+    - t-006
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

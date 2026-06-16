@@ -4,11 +4,13 @@ pavadinimas: 'Riazanė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1389 m.'
+  - '1396 m.'
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
@@ -27,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų. Riazanei buvo palikta teisė pačiai pasirinkti sau globą.
+Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką. 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi. Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.
 
 ## Teiginiai
 
@@ -38,108 +40,94 @@ amziai:
   pagrindžia:
     - c-004
 
-<a id="claim-t-99063"></a>
-- t-002
-  global_id: t-99063
-  teiginys: 'Į Vytauto suvažiavimą atvyko Riazanės kunigaikščiai.'
-  pagrindžia:
-    - c-010
-
 <a id="claim-t-99064"></a>
-- t-003
+- t-002
   global_id: t-99064
   teiginys: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-99065"></a>
-- t-004
+- t-003
   global_id: t-99065
-  teiginys: 'Iš Smolensko puldamas Riazanę, Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
+  teiginys: 'Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-99066"></a>
-- t-005
+- t-004
   global_id: t-99066
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-99067"></a>
-- t-006
+- t-005
   global_id: t-99067
   teiginys: 'Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-99068"></a>
-- t-007
-  global_id: t-99068
-  teiginys: 'Vytauto žygio į Maskvą metu buvo pasiekta Riazanė.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-99069"></a>
-- t-008
+- t-006
   global_id: t-99069
   teiginys: 'Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-99070"></a>
-- t-009
+- t-007
   global_id: t-99070
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-99071"></a>
-- t-010
-  global_id: t-99071
-  teiginys: 'Riazanei buvo palikta teisė pačiai pasirinkti sau globą.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-99072"></a>
-- t-011
+- t-008
   global_id: t-99072
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-99073"></a>
-- t-012
+- t-009
   global_id: t-99073
   teiginys: 'Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-99074"></a>
-- t-013
+- t-010
   global_id: t-99074
   teiginys: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-183088"></a>
-- t-014
+- t-011
   global_id: t-183088
   teiginys: 'Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   pagrindžia:
-    - c-011
+    - c-008
 
 <a id="claim-t-185123"></a>
-- t-015
+- t-012
   global_id: t-185123
   teiginys: 'Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.'
   pagrindžia:
-    - c-012
+    - c-009
+
+<a id="claim-t-187646"></a>
+- t-013
+  global_id: t-187646
+  teiginys: 'Kunigaikštis Jurgis Svetoslavovičius viešėjo Riazanėje pas savo uošvį kunigaikštį Olegą Ivanovičių.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Iš Smolensko puldamas Riazanę, Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
+  santrauka: 'Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
@@ -154,7 +142,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -168,7 +156,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-009
 
 - c-003
   santrauka: 'Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.'
@@ -186,7 +174,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -203,7 +191,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
     - t-001
 
 - c-005
@@ -233,26 +221,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-005
+    - t-007
+    - t-004
 
 - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau neparemti jie pralaimėjo, ir Kazi-
-    mierui teko padaryti su Maskva amžinąją taiką (1449 m.), —
-    vadinasi, teko pripažinti Maskvą esant visiškai lygią su Lietuva.
-    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
-    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
-    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
-    pasirinkti sau globą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-007
   santrauka: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -265,9 +237,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-010
 
-- c-008
+- c-007
   santrauka: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -288,43 +260,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-    - t-011
-
-- c-009
-  santrauka: 'Vytauto žygio į Maskvą metu buvo pasiekta Riazanė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas
-    tuojau išžygiavo į Maskvą, bet jaunučio Maskvos kunigaikš-
-    čio Vosyliaus II motina, Vytauto duktė Sofija, atvykusi jo pa-
-    sitikti į Smolenską, permaldavo Vytautą, ir jis tuo metu tepri-
-    jungė prie Lietuvos tik keletą kunigaikštysčių, kurios anksčiau
-    svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė
-    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
-    buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
-    Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų
-    rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigman-
-    tas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikš-
-    čių atstovų. Suvažiavimo šeimininkas, Vytautas, turėjo progos
-    parodyti savo vaišingumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-002
+    - t-008
 
-- c-011
+- c-008
   santrauka: 'Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -337,9 +276,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-011
 
-- c-012
+- c-009
   santrauka: 'Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -358,4 +297,30 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-012
+
+- c-010
+  santrauka: 'Kunigaikštis Jurgis Svetoslavovičius viešėjo Riazanėje pas savo uošvį kunigaikštį Olegą Ivanovičių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O kunigaikštis Jurgis Svetoslavovičius tuo metu
+    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
+
+    ## Puslapis 97
+
+    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013

@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-„Wiadomości literackie“ minimas kaip vienas pirmųjų Lietuvos laikraščių, pradėjusių eiti 1760 m.
+„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių. „Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių. „Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių kartu su „Kurier Litewski“.
 
 ## Bibliografiniai duomenys
 
@@ -28,13 +28,6 @@ amziai:
 <a id="claim-t-23418"></a>
 - t-001
   global_id: t-23418
-  teiginys: '„Wiadomości literackie“ pradėjo eiti 1760 m.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-23419"></a>
-- t-002
-  global_id: t-23419
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių.'
   pagrindžia:
     - c-001

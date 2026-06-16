@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas už karinius nuopelnus valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei. Privilegijoje jam suteikiamas Alantos dvaras su priklausiniais, paveldėjimo teisėmis, ūkinės plėtros galimybėmis ir karinės tarnybos pareiga.
+Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami. Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams. Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.
 
 ## Variantai
 
@@ -59,7 +59,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 <a id="claim-t-54971"></a>
 - t-002
   global_id: t-54971
-  teiginys: 'Bekešas kare prieš Maskvos kunigaikštį prie Polocko rizikavo gyvybe ir vėliau vadovavo vengrų riteriams ties Velikije Lūki.'
+  teiginys: 'Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
   pagrindžia:
     - c-001
 
@@ -108,6 +108,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip ir
@@ -347,6 +348,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/nuorašas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]

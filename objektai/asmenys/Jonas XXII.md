@@ -26,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo. Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai.
+Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto. Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo. 1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę.
 
 ## Teiginiai
 
@@ -40,14 +40,14 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 <a id="claim-t-183840"></a>
 - t-002
   global_id: t-183840
-  teiginys: 'Jonas XXII pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
+  teiginys: 'Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-184095"></a>
 - t-003
   global_id: t-184095
-  teiginys: 'Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai.'
+  teiginys: '1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę.'
   pagrindžia:
     - c-004
 
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - t-001
 
 - c-002
-  santrauka: 'Jonas XXII pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
+  santrauka: 'Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
@@ -119,7 +119,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   statusas: verified
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad apie popiežių Joną XXII ir išrinktus [karalius] 1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti karaliai.'
+  santrauka: '1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     118. Apie popiežių Joną XXII ir išrinktus [karalius]
@@ -138,7 +138,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

@@ -11,7 +11,7 @@ tags: []
 
 ## Santrauka
 
-Lietuvos seniausių laikų tyrimų sritis, kuriai reikalingi archeologiniai metodai; Lietuvos priešistorė, ankstyviausias Lietuvos istorijos laikotarpis, siejamas su archeologiniais tyrimais. Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru mokslu.
+Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais. Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija. Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.
 
 ## Žodis ir formos
 
@@ -36,7 +36,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 <a id="claim-t-05457"></a>
 - t-001
   global_id: t-05457
-  teiginys: 'Lietuvos proistorė jau yra atskiras mokslas.'
+  teiginys: 'Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
   pagrindžia:
     - c-001
     - c-002
@@ -48,24 +48,10 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   pagrindžia:
     - c-001
 
-<a id="claim-t-05607"></a>
-- t-003
-  global_id: t-05607
-  teiginys: 'Lietuvos proistorė jau buvo išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-05608"></a>
 - t-004
   global_id: t-05608
   teiginys: 'Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-70293"></a>
-- t-005
-  global_id: t-70293
-  teiginys: 'Lietuvos proistorė yra jau plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.'
   pagrindžia:
     - c-001
 
@@ -96,6 +82,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - t-004
 
 - c-002
+  santrauka: 'Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Čia tenka paminėti bent iškilesnius tarybinius istori­

@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
+Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas. Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas. Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.
 
 ## Laikotarpis ir datos
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-183332"></a>
 - t-003
   global_id: t-183332
-  teiginys: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
+  teiginys: 'Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.'
   pagrindžia:
     - c-002
 
@@ -78,7 +78,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
+  santrauka: 'Pasak Simono Grunau kronikos, Rikojote buvo prūsų dievų kulto centras su žaliuojančiu ąžuolu ir šventykla, papuošta trijų dievų stabais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasak

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-1418 m. Vytautas siunčia į Konstancą jau minėtą G.
+1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.
 
 ## Laikotarpis ir datos
 
@@ -38,13 +38,14 @@ Nenurodyta
 <a id="claim-t-20184"></a>
 - t-001
   global_id: t-20184
-  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko amžininkams tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
+  teiginys: '1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1418 m. Vytauto į Konstancą siųstos G. Camblako delegacijos mišios Konstanco katedroje buvo išsamiai vaizduojamos to meto kronikose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1418 m. Vytautas siunčia į
@@ -63,6 +64,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

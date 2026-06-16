@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv. Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.
+Lietuvos „karaliaus“ Netimero krikštas 1009 m. minimas greta kitų Europos christianizacijos įvykių. Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio. Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais siejama su Žemaičių krikštu.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 <a id="claim-t-183438"></a>
 - t-003
   global_id: t-183438
-  teiginys: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, siejamą su Žemaičių krikštu.'
+  teiginys: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais siejama su Žemaičių krikštu.'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - t-002
 
 - c-003
-  santrauka: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, siejamą su Žemaičių krikštu.'
+  santrauka: 'Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais siejama su Žemaičių krikštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
@@ -101,6 +101,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 ### Susiję objektai
 - [[objektai/asmenys/Adalbertas]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/Adynos|adynos]]

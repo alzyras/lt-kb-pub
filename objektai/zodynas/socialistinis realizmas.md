@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir propagandos su menu.
+Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
 
 ## Teiginiai
 
 <a id="claim-t-22301"></a>
 - t-001
   global_id: t-22301
-  teiginys: 'Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir propagandos su menu.'
+  teiginys: 'Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kultūrininkai pa-

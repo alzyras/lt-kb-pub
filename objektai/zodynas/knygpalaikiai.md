@@ -15,17 +15,18 @@ tags:
 Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius labai sparčiai augo.
 
 ## Teiginiai
-
 <a id="claim-t-03035"></a>
 - t-001
   global_id: t-03035
   teiginys: 'Lietuviai neėmė į rankas valdžios leistų rusiškomis raidėmis spausdintų knygpalaikių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lietuviai neėmė į rankas valdžios leistų rusiškomis raidėmis spausdintų knygpalaikių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Per 40 spaudos draudimo
@@ -34,9 +35,11 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
     leidžiamąsias knygas, spausdintas rusiškomis raidėmis. Lietu-
     viai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skai-
     čius labai sparčiai augo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

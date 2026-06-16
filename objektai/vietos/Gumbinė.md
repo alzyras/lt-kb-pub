@@ -11,11 +11,11 @@ date_start: '1750'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XVIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Gumbinė
 
@@ -24,7 +24,6 @@ amziai:
 kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.
 
 ## Teiginiai
-
 <a id="claim-t-170419"></a>
 - t-001
   global_id: t-170419
@@ -33,7 +32,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

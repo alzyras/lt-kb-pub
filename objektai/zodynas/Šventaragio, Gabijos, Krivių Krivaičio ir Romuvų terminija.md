@@ -126,7 +126,6 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Alkos ir romuvos]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lotynai]]
 - [[objektai/asmenys/Vaidila]]

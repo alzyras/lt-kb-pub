@@ -24,51 +24,27 @@ amziai:
 
 ## Santrauka
 
-MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okupantų baudžiamųjų akcijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių.
+1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai. V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.
 
 ## Teiginiai
 
 <a id="claim-t-65908"></a>
 - t-001
   global_id: t-65908
-  teiginys: 'MGB operatyvinė karinė grupė apsupo kaimo gyventojo sodybą, kurioje slėpėsi 3 partizanai.'
+  teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-65909"></a>
-- t-002
-  global_id: t-65909
-  teiginys: '1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 <a id="claim-t-65910"></a>
-- t-003
+- t-002
   global_id: t-65910
   teiginys: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors partizaninis karas, kovojant vienų vieniems, ir pralaimėtas, jo
-    reikšmė didelė. Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
-    cijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų
-    grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė
-    ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių šau-
-    tuvų, 31 minosvaidį, 3 002 kulkosvaidžius, 40 000 automatų, šautuvų ir
-    pistoletų, 557 rašomąsias mašinėles ir dauginimo aparatus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -79,9 +55,10 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-003
+- c-002
+  santrauka: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X GULBINIŠKIŲ KAUTYNĖS
@@ -98,5 +75,4 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/įgula]]

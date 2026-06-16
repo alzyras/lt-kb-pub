@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Turovas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1348 m.'
@@ -21,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė. Maskvos pasienio sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mozyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
+Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų. Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku. Po didžiojo kunigaikščio Skirmanto mirties Pisimantas sėdo valdyti Turovą.
 
 ## Teiginiai
 
@@ -35,9 +36,16 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 <a id="claim-t-185165"></a>
 - t-002
   global_id: t-185165
-  teiginys: 'Polesės žymiausi miestai buvo Turovas, Pinskas ir David Gorodokas.'
+  teiginys: 'Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-187664"></a>
+- t-003
+  global_id: t-187664
+  teiginys: 'Po didžiojo kunigaikščio Skirmanto mirties Pisimantas sėdo valdyti Turovą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +67,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - t-001
 
 - c-002
-  santrauka: 'Polesės žymiausi miestai buvo Turovas, Pinskas ir David Gorodokas.'
+  santrauka: 'Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų
@@ -72,3 +80,18 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Po didžiojo kunigaikščio Skirmanto mirties Pisimantas sėdo valdyti Turovą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O paskui didysis kunigaikštis Skirmantas pasimirė.
+    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
+    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
+    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
+    tus daugelį metų !0 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

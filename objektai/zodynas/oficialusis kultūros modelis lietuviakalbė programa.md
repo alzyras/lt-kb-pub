@@ -107,6 +107,5 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/oficialusis kultūros modelis]]
 - [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“]]

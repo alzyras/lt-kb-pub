@@ -48,6 +48,5 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/leno teisė feodas luominė monarchija]]

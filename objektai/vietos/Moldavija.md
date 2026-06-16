@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Moldavija'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1431 m.'
   - '2026 m.'
@@ -21,23 +22,23 @@ amziai:
 
 ## Santrauka
 
-Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr.
+Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją. Karaliui Olbrachtui įsiveržus į Moldaviją, vaivada Steponas sutelkė kariuomenę, sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
 
 ## Teiginiai
 
-<a id="claim-t-171836"></a>
-- t-001
-  global_id: t-171836
-  teiginys: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-171837"></a>
-- t-002
+- t-001
   global_id: t-171837
   teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187616"></a>
+- t-002
+  global_id: t-187616
+  teiginys: 'Karaliui Olbrachtui įsiveržus į Moldaviją, vaivada Steponas sutelkė kariuomenę, sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -57,22 +58,30 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Karaliui Olbrachtui įsiveržus į Moldaviją, vaivada Steponas sutelkė kariuomenę, sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Jogaila apsiautė Lucką, apgula
-    tęsėsi, tačiau jo pajėgos buvo atremtos —
-    lietuviai sėkmingai gynėsi. Švitrigailos
-    įkalbėtas Ordinas trimis kryptimis puolė
-    Lenkiją, ją puolė ir Moldavija. Jogaila
-    1431 m. vasaros pabaigoje buvo priverstas
-    sudaryti Čartorysko paliaubų sutartį dve-
-    Jiems metams su abejomis Ordino šakomis,
-    Moldavija ir totoriais.
+    Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+    O tuomet Olbrachtas jau buvo įžengęs į Moldavi­
+    jos žemę2 6 . Patikimai sužinojęs, kad karalius Olbrach­
+    tas, pykčiu degdamas, su neapsakoma galybe įsiveržė
+    į jo žemę, Moldavijos vaivada Steponas sutraukė visą
+    savo kariuomenę, gerai sustiprino savo sostinę — Su-
+    čiavos2 7  pilį bei visus kitus savo miestus ir, palikęs
+    ten savo įgulas, pats su visa kariuomene išėjo į kalnus,
+    į siaurus ir nepereinamus tarpeklius, kur buvo jo mėgs-
+    /52
+
+    ## Puslapis 148
+
+    lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
+    su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

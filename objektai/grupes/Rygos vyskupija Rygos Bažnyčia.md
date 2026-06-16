@@ -58,7 +58,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/Rygos kapitula]]

@@ -195,7 +195,6 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Benediktas]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/posakiai/Iki gyvos galvos]]

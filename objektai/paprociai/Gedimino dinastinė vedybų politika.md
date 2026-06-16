@@ -12,7 +12,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Gediminas valstybę stiprino ne tik karu ir diplomatija, bet ir dinastinėmis vaikų vedybomis. Ši politika tęsėsi jo sūnų ir palikuonių santuokomis su rusų kunigaikštytėmis bei rusų papročių perėmimu rytinėse valdose.
+Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis. Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes. Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.
 
 ## Laikotarpis ir datos
 
@@ -35,7 +35,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-05339"></a>
 - t-001
   global_id: t-05339
@@ -46,7 +45,7 @@ Nenurodyta
 <a id="claim-t-05340"></a>
 - t-002
   global_id: t-05340
-  teiginys: 'Gedimino sūnūs vedė rusų kunigaikštytes arba priėmė stačiatikių tikėjimą.'
+  teiginys: 'Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes.'
   pagrindžia:
     - c-004
 
@@ -65,7 +64,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -80,7 +78,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -98,22 +95,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gediminas taip pat buvo pirmasis, kuris
-    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
-    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
-    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
-    sūnų bei dukterų vedybomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-004
+  santrauka: 'Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jau nuo XIII amž., santykiaudama su Vakarų Europos kul­
@@ -128,7 +111,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -155,8 +137,6 @@ Nenurodyta
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]

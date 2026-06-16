@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1919 m. liepos mėn. 1919 m. spalių mėnesį, kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės, bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir pradėjo rodyti aiškų nepalankumą Lietuvai.
+1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė. 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai. Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.
 
 ## Laikotarpis ir datos
 
@@ -55,17 +55,10 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-66495"></a>
-- t-003
-  global_id: t-66495
-  teiginys: '1919 m. spalį bermontininkai užėmė Šiaulius, Biržus, Linkuvą ir Radviliškį, kai šiaurinėje Lietuvos dalyje dar nebuvo Lietuvos kariuomenės.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-66496"></a>
-- t-004
+- t-003
   global_id: t-66496
-  teiginys: 'Lietuvos vyriausybė negalėjo sustabdyti plk. Virgoličiaus rinktinės, nes Lietuvos kariuomenė tuo metu kovėsi su bolševikais Dauguvos fronte.'
+  teiginys: 'Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.'
   pagrindžia:
     - c-002
 
@@ -91,7 +84,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Lietuvos vyriausybė negalėjo sustabdyti plk. Virgoličiaus rinktinės, nes Lietuvos kariuomenė tuo metu kovėsi su bolševikais Dauguvos fronte.'
+  santrauka: 'Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Spalio 5 d. plk. Virgoličiaus
@@ -105,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -121,24 +114,9 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kuršėnus. Iš pradžių ši kariuomenė nerodė savo priešingumo
-    Lietuvai, kariaujančiai su bolševikais. Bet 1919 m. spalių mėnesį,
-    kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės,
-    bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir
-    pradėjo rodyti aiškų nepalankumą Lietuvai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Virgoličiaus rinktinė]]

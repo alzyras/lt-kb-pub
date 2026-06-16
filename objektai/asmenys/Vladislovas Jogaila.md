@@ -688,9 +688,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
@@ -708,7 +706,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/seniūnas]]
@@ -731,7 +728,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Zigmanto Vazos elekcija (1587 m.): į elekcijos seimą 1587 m. Za- moiskis ir jo priešininkai suvažiavo su dideliais kariuomenės būriais. Elekcijos laukas atrodė, kaip dviejų priešų karo sto- vykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo: jie reikalavo, kad pirma lenkai. Zigmanto Vazos elekcija (1587 m.): pirmasis kandidatas į sostą dabar buvo imperatoriaus Ru- dolfo brolis Maksimilijonas, kurį rėmė ir Lietuvos didikai. Antrasis kandidatas bu- vo Maskvos caras Teo- doras; šį palaikė daugu- mas Lietuvos bajorijos. Trečiasis kandidatas buvo Švedų karalaitis. Zigmanto Vazos elekcija (1587 m.): visą mėnesį seimas ne- galėjo susitarti dėl kan- didatų. Pagaliau abi lenkų partijos išsirinko sau po atskirą karalių: Zamoiskio partija pa- skelbė išrinktu Zigman- tą Vazą, o jos priešai — Maksimilijoną. Lietuviai pareiškė, jog nesutinką nei su vieno nei su.
+1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas. 1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti.
 
 ## Laikotarpis ir datos
 
@@ -34,30 +34,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-67001"></a>
-- t-001
-  global_id: t-67001
-  teiginys: 'Po mėnesio nesutarimų Zamoiskio partija paskelbė išrinktu Zigmantą Vazą, o jos priešininkai – Maksimilijoną.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-67002"></a>
-- t-002
+- t-001
   global_id: t-67002
-  teiginys: '1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-67003"></a>
-- t-003
-  global_id: t-67003
   teiginys: '1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-67003"></a>
+- t-002
+  global_id: t-67003
+  teiginys: '1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1587 m. elekcijos seime Zamoiskis ir jo priešininkai suvažiavo su kariuomenėmis, o lietuviai reikalavo jas pašalinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -68,41 +62,14 @@ Nenurodyta
     vykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo:
     jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir paša-
     lintų kariuomenę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
-  santrauka: 'Po mėnesio nesutarimų Zamoiskio partija paskelbė išrinktu Zigmantą Vazą, o jos priešininkai – Maksimilijoną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visą mėnesį seimas ne-
-    galėjo susitarti dėl kan-
-    didatų. Pagaliau abi
-    lenkų partijos išsirinko
-    sau po atskirą karalių:
-    Zamoiskio partija pa-
-    skelbė išrinktu Zigman-
-    tą Vazą, o jos priešai —
-    Maksimilijoną. Lietuviai
-    pareiškė, jog nesutinką
-    nei su vieno nei su antro
-    išrinkimu, ir išvažiavo namo. Tuo tarpu Lenkijoj laimėjo Za-
-    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
-    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
-    Tuo būdu buvo karūnuotas atvykęs Zigmantas. Maksimilijonas
-    dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
-    Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
-    priverstas atsisakyti nuo sosto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-003
+- c-002
   santrauka: '1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -119,9 +86,11 @@ Nenurodyta
     nosi Stp. Batoro našlė
     Ona: mat, jisai buvo jos
     sesers Kotrynos sūnus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

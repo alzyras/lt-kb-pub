@@ -112,7 +112,6 @@ Nenurodyta
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/asmenys/Ziemovitas]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/zodynas/šlėkta]]

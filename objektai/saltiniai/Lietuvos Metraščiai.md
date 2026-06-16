@@ -16,42 +16,35 @@ amziai:
 
 ## Santrauka
 
-„Lietuvos Metraščiai“ šiame veikale minimi kaip M. Jučo 1968 m. Vilniuje paskelbtas leidinys. Santrumpų sąraše šis pavadinimas pateikiamas kaip savarankiška bibliografinė nuoroda.
+Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija. Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais. Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
 
 ## Teiginiai
 
-<a id="claim-t-75477"></a>
-- t-001
-  global_id: t-75477
-  teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-75478"></a>
-- t-002
+- t-001
   global_id: t-75478
-  teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu bajorijai savo kilmę sieti su Palemono tradicija.'
+  teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-75480"></a>
-- t-003
+- t-002
   global_id: t-75480
-  teiginys: 'Lietuvos metraščiuose užrašyti keli lietuvių epinius pasakojimus atitinkantys siužetai.'
+  teiginys: 'Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75481"></a>
-- t-004
+- t-003
   global_id: t-75481
   teiginys: 'Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos metraščiuose užrašyti keli lietuvių epinius pasakojimus atitinkantys siužetai.'
+  santrauka: 'Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
@@ -71,10 +64,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
-  santrauka: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu bajorijai savo kilmę sieti su Palemono tradicija.'
+  santrauka: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinės tautos genezės jau galima ieško-
@@ -88,25 +81,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
-    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
-    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
-    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
-    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
-    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
-    lenkiškai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -128,4 +105,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003

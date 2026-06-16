@@ -13,41 +13,63 @@ tags:
 
 ## Santrauka
 
-Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje. Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.
+Pacai iškilo pirmiau už Sapiegas ir Jono Kazimiero atsisakymo nuo sosto metu vadovavo Lietuvoje. Tarpuvaldžio pradžioje Pacai, bijodami hetmono Sobieskio kandidatūros, pradėjo prieš jį veikti. Pacai iškilo prieš Sapiegas ir vadovavo Lietuvoje Jonui Kazimierui atsisakant sosto.
 
 ## Teiginiai
-
 <a id="claim-t-65967"></a>
 - t-001
   global_id: t-65967
-  teiginys: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
+  teiginys: 'Pacai iškilo pirmiau už Sapiegas ir Jono Kazimiero atsisakymo nuo sosto metu vadovavo Lietuvoje.'
   pagrindžia:
-    - c-002
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-65968"></a>
 - t-002
   global_id: t-65968
-  teiginys: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
+  teiginys: 'Tarpuvaldžio pradžioje Pacai, bijodami hetmono Sobieskio kandidatūros, pradėjo prieš jį veikti.'
   pagrindžia:
-    - c-001
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182914"></a>
 - t-003
   global_id: t-182914
   teiginys: 'Pacai iškilo prieš Sapiegas ir vadovavo Lietuvoje Jonui Kazimierui atsisakant sosto.'
   pagrindžia:
-    - c-002
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182915"></a>
 - t-004
   global_id: t-182915
   teiginys: 'Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Pacai iškilo pirmiau už Sapiegas ir Jono Kazimiero atsisakymo nuo sosto metu vadovavo Lietuvoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Laikotarpio charakteristika**
+
+
+    dikų šeimos. Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
+    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
+    dovavo jau Pacai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-003
+- c-002
+  santrauka: 'Tarpuvaldžio pradžioje Pacai, bijodami hetmono Sobieskio kandidatūros, pradėjo prieš jį veikti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai pasirodė,
@@ -65,29 +87,13 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     kandidatūros, buvo pra-
     dėję prieš jį veikti dar
     tarpuvaldžio pradžioje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-- c-002
-  santrauka: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Laikotarpio charakteristika**
-
-
-    dikų šeimos. Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
-    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
-    dovavo jau Pacai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-001
-
 - c-003
   santrauka: 'Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -110,9 +116,11 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     buvo vadinamas kiekvie-
     nas kandidatas iš saviš-
     kių).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 
@@ -121,10 +129,8 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūziškoji partija]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/A. Nelepcos]]
-- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/grupes/Lenkijos bajorų partija]]
 - [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]

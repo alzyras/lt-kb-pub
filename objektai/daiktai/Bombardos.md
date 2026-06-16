@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderį.
+Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė. 1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė. Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.
 
 ## Pavadinimai šaltiniuose
 
@@ -52,31 +52,24 @@ Nenurodyta
   global_id: t-113454
   teiginys: 'Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-113455"></a>
-- t-002
-  global_id: t-113455
-  teiginys: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
-  pagrindžia:
     - c-002
 
 <a id="claim-t-113456"></a>
-- t-003
+- t-002
   global_id: t-113456
   teiginys: '1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-113457"></a>
-- t-004
+- t-003
   global_id: t-113457
   teiginys: 'Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-113458"></a>
-- t-005
+- t-004
   global_id: t-113458
   teiginys: '1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.'
   pagrindžia:
@@ -95,26 +88,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Primityvus apgulos bombardų lafetas —
-    nejudamai prie žemės pritvirtinta masyvi
-    medinė dėžė. Apgulos metu perkelinėti
-    ugnies nereikėdavo, buvo šaudoma į tą
-    pačią sienos vietą, kol ši sugriūdavo.
-
-    nukovė. Didžiąją mašiną lietuviai tuojau
-    pataisė, bet ji vėl buvo sudaužyta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po keturių savaičių apgulties, po dauge-
@@ -132,7 +108,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -153,9 +129,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   santrauka: '1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -171,25 +147,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
-- c-006
-  santrauka: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Metalinis vamzdis, nukaltas
-    iš atskirų segmentų.
-
-    Primityvus apgulos bombardų lafetas —
-    nejudamai prie žemės pritvirtinta masyvi
-    medinė dėžė. Apgulos metu perkelinėti
-    ugnies nereikėdavo, buvo šaudoma į tą
-    pačią sienos vietą, kol ši sugriūdavo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

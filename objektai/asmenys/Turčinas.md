@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuviškų kapų pridėjo 2 flor. Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­ liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas liet.
+Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių. Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 <a id="claim-t-87587"></a>
 - t-002
   global_id: t-87587
-  teiginys: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
+  teiginys: 'Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.'
   pagrindžia:
     - c-002
 
@@ -49,7 +49,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     - t-001
 
 - c-002
-  santrauka: 'Rugpjūčio 5 d. Turčinas nuvežė karališkajai didenybei pinigus į Leipcigą.'
+  santrauka: 'Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­

@@ -7,7 +7,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1325 m.'
-  - '1466 m.'
   - '1919 m.'
   - '1936 m.'
 date_start: '1325'
@@ -22,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dancigas šiame šaltinyje minimas kaip vienas svarbiausių Lietuvos prekybos krypčių Baltijos erdvėje: su juo siejami Ordino prekybos ryšiai, eksporto keliai ir vėlesni politiniai pokyčiai po Torno taikos. Dancigas šiame fragmente yra viena iš pakrantės pilių. Dancigas šiame fragmente yra viena iš vokiečių įkurtų pilių.
+Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų. Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu. Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.
 
 ## Pavadinimai šaltiniuose
 
@@ -45,52 +44,28 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - tipas: miestas / pilis
 
 ## Teiginiai
-
 <a id="claim-t-182720"></a>
 - t-001
   global_id: t-182720
   teiginys: 'Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-183004"></a>
-- t-002
-  global_id: t-183004
-  teiginys: 'Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-183005"></a>
-- t-003
-  global_id: t-183005
-  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
-  pagrindžia:
     - c-001
 
-<a id="claim-t-183006"></a>
-- t-004
-  global_id: t-183006
+- t-007
+  teiginys: 'Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
   teiginys: 'Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
   pagrindžia:
-    - c-004
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1466 m. Torne buvo pasirašyta taika, kuria ordinas
-    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
-    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
-    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: 'Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -109,8 +84,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
+- c-002
   santrauka: 'Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -120,13 +94,14 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
     kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
     rais—Karaliaučium ir Dancigu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-004
+    - t-007
+- c-003
   santrauka: 'Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -137,8 +112,10 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.
     Lietuva iš pradžių visai nepripažino Batoro savo val-
     dovu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008

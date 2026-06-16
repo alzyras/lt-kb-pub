@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį. Gedimino laimėjimai dar labiau buvo skersai kelio didžiajam Maskvos kunigaikščiui Jonui Kalitai.
+Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį. Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.
 
 ## Teiginiai
 
@@ -36,13 +36,14 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 <a id="claim-t-30309"></a>
 - t-002
   global_id: t-30309
-  teiginys: 'Totorių palaikomas Jonas Kalita savo valdžion taip pat užiminėjo rusų žemes.'
+  teiginys: 'Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai 1324 m. gegužės

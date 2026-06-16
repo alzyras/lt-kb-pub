@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.
+Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.
 
 ## Laikotarpis ir datos
 
@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-54231"></a>
 - t-001
   global_id: t-54231
-  teiginys: 'Įžadas tapo pacta conventa dalimi, todėl jam turėjo prisiekti būsimi elekcinių valdovų įpėdiniai.'
+  teiginys: 'Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
+  santrauka: 'Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos valstybės teisių

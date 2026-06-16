@@ -81,5 +81,6 @@ Nenurodyta
 - [[temos/ritualas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]

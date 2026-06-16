@@ -72,7 +72,7 @@ function claimDeeplinkPill(localId: string, anchorId: string): string {
   if (!anchorId) {
     return pill(localId)
   }
-  return `<a class="claim-deeplink" href="#${escapeHtml(anchorId)}" aria-label="Nuoroda į teiginį ${escapeHtml(localId)}">${pill(localId)}</a>`
+  return `<a class="claim-deeplink" href="#${escapeHtml(anchorId)}" data-no-popover="true" aria-label="Nuoroda į teiginį ${escapeHtml(localId)}">${pill(localId)}</a>`
 }
 
 function markdownCell(text: string): string {

@@ -103,7 +103,6 @@ Nenurodyta
 - [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]
 - [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]
 - [[objektai/daiktai/Ietis]]
-- [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
 - [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.)]]

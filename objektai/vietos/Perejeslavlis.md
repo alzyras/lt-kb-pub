@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Jis pasidavė Maskvai, gaudamas Perejeslavlį.
+Andriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį. Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 
 ## Teiginiai
 
 <a id="claim-t-99942"></a>
 - t-001
   global_id: t-99942
-  teiginys: 'Audriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
+  teiginys: 'Andriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Audriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
+  santrauka: 'Andriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuvykęs Maskvon, jis prikalbėjo

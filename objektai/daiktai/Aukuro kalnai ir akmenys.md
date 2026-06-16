@@ -66,5 +66,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/amfiktionija]]

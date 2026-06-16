@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1291 lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras savo sūnų Vytenį Lenkijon išsiuntė su didele kariuo­ mene^21. 1300 jie vėl pasirodė Dobry­ niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių.
+Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis. 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene. Sventopelkas slaptai plėšė brolių valdinius, o vėliau įsiveržė į kunigaikščiui Kazimierui priklausiusią Kujaviją.
 
 ## Teiginiai
 
@@ -51,7 +51,7 @@ amziai:
 <a id="claim-t-90740"></a>
 - t-004
   global_id: t-90740
-  teiginys: 'Kunigaikštis davė Dobrynės broliams žemės plotą arba dvarą Kujavijoje, pavadintą Sedlcais.'
+  teiginys: 'Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.'
   pagrindžia:
     - c-007
 
@@ -206,7 +206,7 @@ amziai:
     - t-001
 
 - c-007
-  santrauka: 'Kunigaikštis davė Dobrynės broliams žemės plotą arba dvarą Kujavijoje, pavadintą Sedlcais.'
+  santrauka: 'Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė

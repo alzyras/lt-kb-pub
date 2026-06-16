@@ -105,6 +105,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/sidabrinė duoklė]]
 - [[objektai/asmenys/Žygimantas]]

@@ -65,4 +65,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

@@ -5,7 +5,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
-  - '1921 m.'
   - '1940 m.'
   - '2026 m.'
 date_start: '1919'
@@ -24,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir Lenkijos sustabdyti karo veiksmus, nustatė demarkacijos liniją (Kerzono linija, 1919 gruodžio 8 d.) ir pasiuntė kontrolės komisiją, — lenkų kariuomenė peržengė tą liniją ir veržėsi į. Tautų Sąjunga norėjo, kad tas žmonių atsiklausimas būtų visai laisvas ir teisingas, todėl reikalavo, kad lenkų kariuomenė išsikraustytų iš okupuoto krašto ir kad ją pakeistų internacionaliniai, specialiai plebiscito reikalui sudaryti, pulkai.
+Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją. Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą. 1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
 
 ## Teiginiai
 
@@ -33,7 +32,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   global_id: t-181335
   teiginys: 'Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-181336"></a>
 - t-002
@@ -42,15 +41,8 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   pagrindžia:
     - c-002
 
-<a id="claim-t-181337"></a>
-- t-003
-  global_id: t-181337
-  teiginys: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-181338"></a>
-- t-004
+- t-003
   global_id: t-181338
   teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
   pagrindžia:
@@ -71,7 +63,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   santrauka: 'Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
@@ -93,19 +85,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - t-002
 
 - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
-    ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
-    diskusijom“. 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją,
-    pritariančią Himanso planui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
   santrauka: 'Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -130,16 +109,12 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Estai]]
-- [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
 - [[objektai/zodynas/de jure]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/asmenys/L. Želigovskis]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
 - [[objektai/grupes/Želigovskininkai]]
 - [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

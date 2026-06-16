@@ -54,4 +54,5 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
 ### Susiję objektai
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/leno teisė feodas luominė monarchija]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

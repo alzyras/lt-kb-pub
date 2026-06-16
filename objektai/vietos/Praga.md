@@ -12,14 +12,14 @@ date_start: '1283'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - bajorija
   - elekcija
   - seimas
   - vieta
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Praga
 
@@ -28,7 +28,6 @@ amziai:
 Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai.
 
 ## Teiginiai
-
 <a id="claim-t-71956"></a>
 - t-001
   global_id: t-71956
@@ -77,9 +76,10 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   teiginys: 'Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
   pagrindžia:
     - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -92,7 +92,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-002
   santrauka: 'Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -109,7 +108,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   pagrindžia:
     - t-002
     - t-001
-
 - c-003
   santrauka: 'Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -127,7 +125,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-004
   santrauka: 'Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -145,7 +142,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-005
   santrauka: 'Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -162,7 +158,6 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: 'Lietuvos atstovai per elekcijas sustodavo Varšuvos priemiestyje Pragoje, dešiniajame Vyslos krante.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -174,8 +169,10 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     Pragoje, dešiniajam Vyslos krante, ir laikydavosi vieningai. Tad
     iš tikrųjų būdavo renkama ne bendrai, o buvo du rinkėjai —
     Lenkija ir Lietuva.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007

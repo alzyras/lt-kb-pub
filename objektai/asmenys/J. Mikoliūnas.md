@@ -74,11 +74,11 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vora]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

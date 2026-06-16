@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-17) daug žemių Vilniaus apylinkėse (Malėtus, La­ banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste, vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat keturis medinius namus^3 ).
+1387 m. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį. Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ amziai:
 <a id="claim-t-115025"></a>
 - t-002
   global_id: t-115025
-  teiginys: 'Karalius iškilmingu aktu Vilniaus katedrai dovanojo kunigaikštišką Tauragnų pilį su visu pavietu.'
+  teiginys: 'Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ amziai:
     - t-001
 
 - c-002
-  santrauka: 'Karalius iškilmingu aktu Vilniaus katedrai dovanojo kunigaikštišką Tauragnų pilį su visu pavietu.'
+  santrauka: 'Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat

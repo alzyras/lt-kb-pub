@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“. Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.
+Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis. Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.
 
 ## Teiginiai
 
@@ -65,7 +65,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]
 - [[objektai/grupes/Raudonoji armija]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]

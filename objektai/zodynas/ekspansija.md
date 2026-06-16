@@ -81,7 +81,6 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/asmenys/Uzbeko]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/didvalstybė]]
 - [[objektai/zodynas/komputas]]
 - [[objektai/posakiai/„narsią ir karingą tautą“]]

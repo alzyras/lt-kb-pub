@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Rusijos imperijos priespaudos laikų švietimą lietuvių kalba vaizduojanti alegorinė skulptūra „Lietuvos mokykla 1864–1904“.
+Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais. Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais. P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.
 
 ## Pavadinimai šaltiniuose
 
@@ -54,6 +54,13 @@ Nenurodyta
   pagrindžia:
     - c-001
 
+<a id="claim-t-45467"></a>
+- t-003
+  global_id: t-45467
+  teiginys: 'P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +83,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
+  santrauka: 'P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusų kalba

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti, mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolūkių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
+Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo. Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių. 1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc.
 
 ## Teiginiai
 
@@ -34,20 +34,21 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 <a id="claim-t-22194"></a>
 - t-002
   global_id: t-22194
-  teiginys: 'Varu į kolūkius varomi valstiečiai menkai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių.'
+  teiginys: 'Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183435"></a>
 - t-003
   global_id: t-183435
-  teiginys: '1949 m. pradžioje į kolūkius buvo įstoję 4 proc. valstiečių, o metų pabaigoje - jau 62 proc.'
+  teiginys: '1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po

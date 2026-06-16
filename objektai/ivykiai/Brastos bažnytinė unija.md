@@ -78,6 +78,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]

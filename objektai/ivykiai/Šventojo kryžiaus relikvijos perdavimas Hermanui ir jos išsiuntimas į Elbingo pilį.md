@@ -89,6 +89,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas II]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]

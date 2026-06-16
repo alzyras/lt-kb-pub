@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų. Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu. Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
+Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui. Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu. Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.
 
 ## Teiginiai
 
 <a id="claim-t-185428"></a>
 - t-001
   global_id: t-185428
-  teiginys: 'Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
+  teiginys: 'Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui.'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą nepaisydamas lenkų norų.'
+  santrauka: 'Lenkų senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vytautas, pasipiktinęs ne tiek
@@ -162,7 +162,6 @@ Vytautas išėjo iš lenkų senato posėdžio ir pagrasino pasiekti savo tikslą
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Konstantinas Karijotaitis]]
 - [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Jaranda iš Brudzevo|Jaranda iš Brudzevo (vyskupas)]]
 - [[objektai/asmenys/Jonas iš Lichino|Jonas iš Lichino (vyskupas)]]
 - [[objektai/asmenys/Laurynas Zaremba]]

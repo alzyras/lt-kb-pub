@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
+Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
 
 ## Teiginiai
 
 <a id="claim-t-30391"></a>
 - t-001
   global_id: t-30391
-  teiginys: 'Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
+  teiginys: 'Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visos Rusi­

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Partizanai pratybose sass | Prisikėlimo apygardos partizanų antsiuvas, nuo 1949 m. patvirtintas bendru LLKS antsiuvu Mūšis Išaušo gražus rugpjūčio 13-osios rytas.
+Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu. Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,13 +46,6 @@ Nenurodyta
 <a id="claim-t-78675"></a>
 - t-001
   global_id: t-78675
-  teiginys: 'Spėjama, kad partizanų stovyklą išdavė ryšininkas Leonas Juškus-Dangus, atvedęs čekistus tiesiai į Užpelkių miško aikštelę netoli Godų kaimo.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-78676"></a>
-- t-002
-  global_id: t-78676
   teiginys: 'Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.'
   pagrindžia:
     - c-001

@@ -25,37 +25,31 @@ amziai:
 26 d. ties Kuršėnais iš Latvijos perėjo į Lietuvos teritoriją stipri jungtinė vo. Iš 8-tos ir 10-tos vokiečių armijų likučių Latvijoje buvo sudaryta tam reikalui speciali ka.
 
 ## Teiginiai
-
 <a id="claim-t-181427"></a>
 - t-001
   global_id: t-181427
   teiginys: 'Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.'
   pagrindžia:
     - c-003
-
 <a id="claim-t-181428"></a>
 - t-002
   global_id: t-181428
   teiginys: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-002
-
 <a id="claim-t-181429"></a>
 - t-003
   global_id: t-181429
   teiginys: 'SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.'
   pagrindžia:
     - c-004
-
 <a id="claim-t-181431"></a>
 - t-004
   global_id: t-181431
   teiginys: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-002
-
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -70,7 +64,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -90,7 +83,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -108,7 +100,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: 'SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

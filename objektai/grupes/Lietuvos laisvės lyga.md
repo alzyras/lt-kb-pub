@@ -20,41 +20,35 @@ amziai:
 
 ## Santrauka
 
-LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.
+Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“. 1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose. Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
 
 ## Teiginiai
 
-<a id="claim-t-74751"></a>
-- t-001
-  global_id: t-74751
-  teiginys: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-74752"></a>
-- t-002
+- t-001
   global_id: t-74752
-  teiginys: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
+  teiginys: 'Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-74754"></a>
-- t-003
+- t-002
   global_id: t-74754
   teiginys: '1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74756"></a>
-- t-004
+- t-003
   global_id: t-74756
-  teiginys: 'Antano Terlecko supratimu, Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
+  teiginys: 'Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
@@ -68,7 +62,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   santrauka: '1978 m. įkurtos Lietuvos laisvės lygos tikslas buvo atkurti nepriklausomą Lietuvą ir kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.'
@@ -87,10 +81,10 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-003
-  santrauka: 'Antano Terlecko supratimu, Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
+  santrauka: 'Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Skirtingai nei
@@ -105,48 +99,17 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tik drąsiausi ir nebebijantys teismų, areštų, kalėjimo
-    ėjo į atvirą konfrontaciją su sovietų režimu. Kol kas jų buvo mažuma.
-    Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
-    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
-    atkūrusia Lietuvos nepriklausomybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kol kas jų buvo mažuma.
-    Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
-    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
-    atkūrusia Lietuvos nepriklausomybę. Atrodo, kad abiejų judėjimų takos-
-    kyra galima laikyti ne vien jų taktikos nuostatas, bet ir skirtingas veiklos
-    tradicijas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Terleckas]]
 - [[objektai/asmenys/Romaldas Juozas Ragaišis]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Lietuvos disidentai]]
 - [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
 - [[objektai/asmenys/Nijolė Sadūnaitė]]
 - [[objektai/asmenys/Petras Cidzikas]]
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/zodynas/brežnevinė stagnacija]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

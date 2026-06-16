@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Etnolingvistinis ir istoriografinis terminas, kuriuo šiame leidinyje apimami prūsai, nadruviai, skalviai, kuršiai ir su jais gretinami jotvingiai. Terminas nuolat priešpriešinamas rytiniams baltams.
+Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui. Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų. Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.
 
 ## Žodis ir formos
 
@@ -57,7 +57,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 <a id="claim-t-70381"></a>
 - t-005
   global_id: t-70381
-  teiginys: 'Vakarų baltų prūsų tarmės laikomos daugeliu atvejų archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes.'
+  teiginys: 'Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes.'
   pagrindžia:
     - c-002
 

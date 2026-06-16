@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Čia buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems karaliams.
+Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.
 
 ## Teiginiai
 
 <a id="claim-t-86031"></a>
 - t-001
   global_id: t-86031
-  teiginys: 'Rūdninkų medžioklės rūmai buvo skirti apsistoti karaliams.'
+  teiginys: 'Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rūdninkų medžioklės rūmai buvo skirti apsistoti karaliams.'
+  santrauka: 'Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto esama vieno gana nemažo

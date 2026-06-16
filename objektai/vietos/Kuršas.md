@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo Kuršo. Kraštas tarp Ventos ir Daugavos iki šiol vadinamas Kuršu. Kuršas minimas kaip viena iš vietų, kur tikrieji lietuviai tebgyvena atsikieminėję vienkiemiuose.
+1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę. 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą. Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
 
 ## Pavadinimai šaltiniuose
 
@@ -54,7 +54,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   global_id: t-90762
   teiginys: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-90763"></a>
 - t-003
@@ -70,117 +70,103 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - c-003
 
-<a id="claim-t-90765"></a>
-- t-005
-  global_id: t-90765
-  teiginys: 'Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-90766"></a>
-- t-006
+- t-005
   global_id: t-90766
   teiginys: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-90767"></a>
-- t-007
+- t-006
   global_id: t-90767
   teiginys: '1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-90768"></a>
-- t-008
+- t-007
   global_id: t-90768
   teiginys: 'Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-90769"></a>
-- t-009
+- t-008
   global_id: t-90769
   teiginys: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-90770"></a>
-- t-010
+- t-009
   global_id: t-90770
   teiginys: 'Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90771"></a>
-- t-011
+- t-010
   global_id: t-90771
   teiginys: 'Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-90772"></a>
-- t-012
+- t-011
   global_id: t-90772
   teiginys: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-90773"></a>
-- t-013
+- t-012
   global_id: t-90773
-  teiginys: 'Dusburgietis teigia, kad apie prūsų susiskirstymą bei jų galybę Prūsijos žemė188 skirstoma į apie Nemuną, skiriantį Prūsiją nuo Kuršo.'
+  teiginys: 'Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-90774"></a>
-- t-014
+- t-013
   global_id: t-90774
   teiginys: 'Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.'
   pagrindžia:
-    - c-014
+    - c-013
 
 <a id="claim-t-90775"></a>
-- t-015
+- t-014
   global_id: t-90775
   teiginys: 'Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos.'
   pagrindžia:
-    - c-015
+    - c-014
 
 <a id="claim-t-90776"></a>
-- t-016
+- t-015
   global_id: t-90776
-  teiginys: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus traukėsi į Kuršą, Bauskę ir Mintaują.'
+  teiginys: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-90777"></a>
-- t-017
+- t-016
   global_id: t-90777
   teiginys: 'Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-183036"></a>
-- t-019
-  global_id: t-183036
-  teiginys: 'Priešo kariuomenei traukiant į Karšuvą, žemaičiai įsibrovė naikinti ordino valdomo Kuršo.'
-  pagrindžia:
-    - c-016
-
 <a id="claim-t-184998"></a>
-- t-021
+- t-019
   global_id: t-184998
   teiginys: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   pagrindžia:
-    - c-018
+    - c-016
 
 <a id="claim-t-184999"></a>
-- t-022
+- t-020
   global_id: t-184999
   teiginys: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
   pagrindžia:
-    - c-019
+    - c-017
 
 ## Reikšmingi paminėjimai
 
@@ -196,7 +182,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -212,8 +198,8 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-017
+    - t-007
+    - t-016
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -245,7 +231,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -261,7 +247,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
     - t-003
 
 - c-006
@@ -280,7 +266,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
 - c-007
   santrauka: '1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.'
@@ -304,27 +290,10 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kairiajame Dauguvos krante buvęs
-    Kuršo kunigaikštis Fridrichas Ketleris, ma-
-    tydamas besirikiuojančius lietuvius, savo
-    300 raitelių įsakė persikelti į dešinįjį krantą.
-    Kuršiečiai, kartu su kunigaikščiu, sėkmin-
-    gai perplaukė upę ir prisistatė didžiajam
-    etmonui. Ši akimirka labai pakėlė Lietuvos
-    karių nuotaiką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-009
-  santrauka: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus traukėsi į Kuršą, Bauskę ir Mintaują.'
+  santrauka: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šios Sapiegų kariuomenės
@@ -346,9 +315,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-010
+- c-009
   santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -365,7 +334,8 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   pagrindžia:
     - t-002
 
-- c-011
+- c-010
+  santrauka: 'Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     172) Dusburgiečio tekste kalbama
@@ -379,9 +349,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-012
+- c-011
   santrauka: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -395,9 +365,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-013
+- c-012
   santrauka: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -427,9 +397,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-014
+- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
@@ -442,9 +412,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-015
+- c-014
   santrauka: 'Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -463,26 +433,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-016
-  santrauka: 'Priešo kariuomenei traukiant į Karšuvą, žemaičiai įsibrovė naikinti ordino valdomo Kuršo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada priešais
-    Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Ordinas
-    ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
-    Livonijos ordinui atėjo į pagalbą Prūsų ordinas ir daug svečių
-    iš Europos. Bet visai priešo kariuomenei traukiant į Karšuvą,
-    žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo
-    Kuršo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-019
-
-- c-017
+- c-015
   santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -498,9 +451,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-018
 
-- c-018
+- c-016
   santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -521,9 +474,9 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-019
 
-- c-019
+- c-017
   santrauka: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -544,4 +497,4 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-020

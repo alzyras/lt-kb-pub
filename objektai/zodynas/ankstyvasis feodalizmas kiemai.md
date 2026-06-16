@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
+Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais. Valdant Ldk Gediminui Lietuvoje ankstyvojo feodalizmo dvarai vadinti kiemais.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 <a id="claim-t-183396"></a>
 - t-002
   global_id: t-183396
-  teiginys: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija ir ankstyvieji dvarai, vadinti kiemais.'
+  teiginys: 'Valdant Ldk Gediminui Lietuvoje ankstyvojo feodalizmo dvarai vadinti kiemais.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
     - t-001
 
 - c-002
-  santrauka: 'Valdant Ldk Gediminui Lietuvoje susiformavo ankstyvoji, arba karinė, monarchija ir ankstyvieji dvarai, vadinti kiemais.'
+  santrauka: 'Valdant Ldk Gediminui Lietuvoje ankstyvojo feodalizmo dvarai vadinti kiemais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminas nebuvo pirmas šios dinastijos atsto-

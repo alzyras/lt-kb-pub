@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo formules: simbolinio kraujo auką ir žodinį bei politinį pasipriešinimą.
+Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu. Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.
 
 ## Forma
 
@@ -27,20 +27,21 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 <a id="claim-t-09678"></a>
 - t-001
   global_id: t-09678
-  teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su galimybe priešintis protestais ir Vyriausybės pasitraukimu.'
+  teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-09679"></a>
 - t-002
   global_id: t-09679
-  teiginys: 'Dažnai kartojama Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. pasirinkimų vertinimu.'
+  teiginys: 'Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi 1792 m. liepos 23-iosios situacija akivaizdžiai dramatiš-
@@ -58,7 +59,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     - t-002
 
 - c-002
-  santrauka: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su galimybe priešintis protestais ir Vyriausybės pasitraukimu.'
+  santrauka: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų

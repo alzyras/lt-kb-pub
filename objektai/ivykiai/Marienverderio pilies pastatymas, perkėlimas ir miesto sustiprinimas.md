@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir. Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis, jis per vienus metus, kuriuos ten praleido, atplaukė čia ir perkėlė su magistru bei. Dusburgietis teigia, kad apie Marienverderio miesto pastatymą Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai trokštamų įžadų, atvyko daug kunigaikščių iš Lenkijos: kunigaikštis Konradas227, Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo.
+Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį. 1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę. 1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-66768"></a>
 - t-001
   global_id: t-66768
-  teiginys: 'Lenkijos ir Pomeranijos kunigaikščiai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.'
+  teiginys: 'Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.'
   pagrindžia:
     - c-001
 
@@ -67,7 +67,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lenkijos ir Pomeranijos kunigaikščiai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.'
+  santrauka: 'Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Marienverderio miesto pastatymą

@@ -52,6 +52,7 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Dovydas]]

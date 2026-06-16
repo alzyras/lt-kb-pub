@@ -25,61 +25,35 @@ amziai:
 
 ## Santrauka
 
-Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis. Vytautas pats dar laikėsi nuošaliai, bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pradėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys, o jie patys buvo išvyti iš Žemaičių. Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri ordinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis reviduoti Melno taikos sąlygas.
+1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis. 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį. Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.
 
 ## Teiginiai
-
 <a id="claim-t-80132"></a>
 - t-001
   global_id: t-80132
   teiginys: '1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.'
   pagrindžia:
     - c-002
-
 <a id="claim-t-80134"></a>
 - t-002
   global_id: t-80134
-  teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.'
   pagrindžia:
-    - c-004
-
+    - c-003
 <a id="claim-t-80135"></a>
 - t-003
   global_id: t-80135
   teiginys: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-80136"></a>
-- t-004
-  global_id: t-80136
-  teiginys: 'Skirsnemunėje Švitrigaila sudarė sąjungą su ordinu ir sutiko atiduoti kryžiuočiams Palangą bei pajūrio ruožą.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-80137"></a>
-- t-005
-  global_id: t-80137
-  teiginys: 'Kryžiuočiai prie Nemuno kiek vėliau pasistatė Skirsnemunės pilį, bet netrukus turėjo ją sugriauti.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-80138"></a>
-- t-006
-  global_id: t-80138
+- t-008
   teiginys: '1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-80139"></a>
-- t-007
-  global_id: t-80139
-  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.'
-  pagrindžia:
-    - c-004
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -96,7 +70,6 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: '1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -116,24 +89,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
-  santrauka: 'Kryžiuočiai prie Nemuno kiek vėliau pasistatė Skirsnemunės pilį, bet netrukus turėjo ją sugriauti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kryžiuočiai, atslinkę prie Nemuno, tuojau
-    pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
-
-
-    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
-    ją atlaikyti).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
@@ -152,38 +108,8 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   statusas: verified
   pagrindžia:
     - t-002
-    - t-007
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
-    dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
-    duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
-    duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet
-    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
-    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
-    sulaukė visuotinio sukilimo. Vytautas pats dar laikėsi nuošaliai,
-    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
-    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
-    o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
-
-- c-007
+- c-006
   santrauka: 'Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -197,5 +123,23 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  pagrindžia:
+    - t-007
+- c-007
+  santrauka: '1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet
+    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
+    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
+    sulaukė visuotinio sukilimo. Vytautas pats dar laikėsi nuošaliai,
+    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
+    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
+    o jie patys buvo išvyti iš Žemaičių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008

@@ -11,11 +11,11 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - daiktas
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - daiktas
 ---
 # Vežimai
 
@@ -44,7 +44,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-93001"></a>
 - t-001
   global_id: t-93001
@@ -67,7 +66,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -88,7 +86,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -135,6 +132,5 @@ Nenurodyta
 - [[objektai/asmenys/Vincentas iš Šamotulų]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/pilėnas pilėnai]]
-- [[objektai/zodynas/sidabrinė duoklė]]
 - [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
 - [[objektai/asmenys/Skabeika]]

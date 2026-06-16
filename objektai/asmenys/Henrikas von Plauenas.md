@@ -10,15 +10,15 @@ date_start: '1410'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - miestas
   - ordinas
   - pilis
-amziai:
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Henrikas von Plauenas
 
@@ -27,7 +27,6 @@ periodo_grupes:
 Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo surinkti jėgų, ir sąjungininkams nebepasisekė paimti Marijenburgo; ypač nepasisekė dėl to, kad Vytautas, dėl gerai nežinomų priežasčių, netrukus su savo kariuomene grįžo namo. 47) Švitco komtūro Henriko v.
 
 ## Teiginiai
-
 <a id="claim-t-176403"></a>
 - t-001
   global_id: t-176403
@@ -47,12 +46,11 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   global_id: t-176405
   teiginys: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   pagrindžia:
-    - c-003
-    - c-006
-    - c-003
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -69,7 +67,6 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   pagrindžia:
     - t-002
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -89,8 +86,24 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   pagrindžia:
     - t-001
     - t-001
+- c-004
+  santrauka: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl Makras,
+    įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas
+    nori su Lietuva karo.
 
-- c-003
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+- c-005
   santrauka: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -113,29 +126,13 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
     51) Heiligenbeilio miesto, 52) Braunšveigo kunigaikščio, 53—56) Livonijos
     magistro (paimtos 1431 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl Makras,
-    įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas
-    nori su Lietuva karo.
-
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

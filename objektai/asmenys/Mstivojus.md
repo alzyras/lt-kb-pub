@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą]. Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis. Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
+Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 <a id="claim-t-59895"></a>
 - t-002
   global_id: t-59895
-  teiginys: 'Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
+  teiginys: 'Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
   pagrindžia:
     - c-006
 
@@ -66,14 +66,14 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 <a id="claim-t-59899"></a>
 - t-006
   global_id: t-59899
-  teiginys: 'Rabė patarė pasiųsti Sventopelko sūnų Mstivojų Austrijos kunigaikščiui kaip įkaitą.'
+  teiginys: 'Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rabė patarė pasiųsti Sventopelko sūnų Mstivojų Austrijos kunigaikščiui kaip įkaitą.'
+  santrauka: 'Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
@@ -172,6 +172,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     - t-001
 
 - c-006
+  santrauka: 'Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to jums patariu niekad jiems nesipriešinti, bet
@@ -199,6 +200,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/įkaitai]]

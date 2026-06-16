@@ -12,13 +12,13 @@ date_start: '1788'
 date_end: '1792'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
 tags:
   - grupe
   - karalius
   - reforma
   - seimas
-amziai:
-  - 'XVIII'
 ---
 # Ketverių metų seimas
 
@@ -27,7 +27,6 @@ amziai:
 Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip seimas veikė net ištisus 4 metus ir per tą laiką pakeitė visą valstybės santvarką. Priimtoje konstitucijoje buvo pasakyta, kad ji galėsianti būti pataisyta tik po 25 metų tam reikalui sušaukto specialaus seimo.
 
 ## Teiginiai
-
 <a id="claim-t-74186"></a>
 - t-001
   global_id: t-74186
@@ -48,16 +47,18 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginys: 'Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.'
   pagrindžia:
     - c-003
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182897"></a>
 - t-004
   global_id: t-182897
   teiginys: 'Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +74,6 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -92,7 +92,6 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Ketverių metų seimas veikė ištisus ketverius metus ir per tą laiką pakeitė visą valstybės santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -111,12 +110,13 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     karus, Rusija nusiuntė į Res-
     publiką savo kariuomenę ir su-
     griovė visas reformas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Ketverių metų seimo priimta konstitucija galėjo būti taisoma tik po 25 metų specialiai sušauktame seime.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -128,9 +128,11 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 
@@ -147,6 +149,5 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 - [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
 - [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]

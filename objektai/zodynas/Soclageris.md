@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.
+Soclagerio politinės, ekonominės ir tautinės krizės metu lietuviai sukūrė tautinio judėjimo modelį ir padėjo sunaikinti vienpartinį SSRS režimą. Soclagerio politinės, ekonominės ir tautinės krizės sąlygomis lietuviai sukūrė tautinio judėjimo modelį ir prisidėjo prie SSRS vienpartinio režimo žlugimo.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 <a id="claim-t-183464"></a>
 - t-002
   global_id: t-183464
-  teiginys: 'Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.'
+  teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės sąlygomis lietuviai sukūrė tautinio judėjimo modelį ir prisidėjo prie SSRS vienpartinio režimo žlugimo.'
   pagrindžia:
     - c-001
 
@@ -64,4 +64,3 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/V. Leninas]]
 - [[objektai/asmenys/Vladimiras Leninas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

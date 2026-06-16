@@ -121,6 +121,7 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
 - [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]

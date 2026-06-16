@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
+Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų. Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.
 
 ## Teiginiai
 
 <a id="claim-t-77144"></a>
 - t-001
   global_id: t-77144
-  teiginys: 'Per 20 metų apie 30 proc. iš Lietuvos emigravusių gyventojų sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
+  teiginys: 'Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.'
   pagrindžia:
     - c-001
 

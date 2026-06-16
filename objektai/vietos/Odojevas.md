@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštupių kunigaikščius, kurių vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.
+Odojevo kunigaikščiai buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto. 1432 m. Švitrigaila sustiprino ryšius su Odojevo kunigaikščiais. 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 <a id="claim-t-79893"></a>
 - t-003
   global_id: t-79893
-  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Odojevo kunigaikščiais.'
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Odojevo kunigaikščiais.'
   pagrindžia:
     - c-001
 

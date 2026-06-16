@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25. Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo žydo Brastoje ėmė po 56 lenkiškus grašius.
+Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą. Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai.
 
 ## Teiginiai
 
@@ -26,14 +26,14 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 <a id="claim-t-86493"></a>
 - t-002
   global_id: t-86493
-  teiginys: 'Lenkijoje už talerį mokėta po 30 grašių, o Lietuvoje Jo Karališkosios Didenybės paliepimu - po 25 lietuviškus grašius.'
+  teiginys: 'Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lenkijoje už talerį mokėta po 30 grašių, o Lietuvoje Jo Karališkosios Didenybės paliepimu - po 25 lietuviškus grašius.'
+  santrauka: 'Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus universiteto bibliotekoje)

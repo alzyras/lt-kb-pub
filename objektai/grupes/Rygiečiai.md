@@ -10,11 +10,11 @@ date_start: '1253'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - grupe
   - ordinas
-amziai:
-  - 'XIII'
 ---
 # Rygiečiai
 
@@ -23,7 +23,6 @@ amziai:
 Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.
 
 ## Teiginiai
-
 <a id="claim-t-179438"></a>
 - t-001
   global_id: t-179438
@@ -49,7 +48,6 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - c-005
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -63,7 +61,6 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -77,23 +74,6 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Livonijoje tebeėjo smarkios varžytynės tarp arkivyskupo ir
-    ordino, kurs nenorėjo^2 /з nukariauto krašto atiduoti arkivysku-
-    pui, stengdamasis pasidaryti viso krašto viešpačiu. Tam labai
-    priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori-
-    tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.
-    Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu,
-    pasikvietė Į talką Vytenį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -109,7 +89,6 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   pagrindžia:
     - t-002
     - t-001
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -143,8 +122,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 - [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]
 - [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
 - [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]
+- [[objektai/ivykiai/Tautvilos krikštas Rygoje|Tautvilos krikštas Rygoje (krikštas)]]
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
-- [[objektai/posakiai/mano priešo priešas yra mano draugas]]
 - [[objektai/posakiai/„mano priešo priešas yra mano draugas“]]
 - [[objektai/ivykiai/Vytenio ir rygiečių žygis Livonijoje Karksio paėmimas ir pergalė prie Treiderės upės (1298 m.)]]
-- [[objektai/zodynas/laisvasis Rygos miestas]]

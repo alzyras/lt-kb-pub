@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Jurijus pabėgo iš Smolensko pas uošvį, o jo palikti smolenskiečiai atidavė pilį ir žemę Vytautui.
+Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185828"></a>
 - t-001
   global_id: t-185828
-  teiginys: 'Jurijus pabėgo iš Smolensko pas uošvį, o jo palikti smolenskiečiai atidavė pilį ir žemę Vytautui.'
+  teiginys: 'Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jurijus pabėgo iš Smolensko pas uošvį, o jo palikti smolenskiečiai atidavė pilį ir žemę Vytautui.'
+  santrauka: 'Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip

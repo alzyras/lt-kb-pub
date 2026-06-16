@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių. Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai. Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.
+1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais. Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui. Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 <a id="claim-t-59883"></a>
 - t-002
   global_id: t-59883
-  teiginys: 'Liudvikas iš Libencelės buvo kilmingas brolis, nuo jaunų dienų įgudęs kariauti ir vėliau patekęs į Skomanto nelaisvę.'
+  teiginys: 'Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui.'
   pagrindžia:
     - c-005
 
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 <a id="claim-t-59886"></a>
 - t-005
   global_id: t-59886
-  teiginys: 'Liudvikas iš Libencelės, būdamas nelaisvėje, atvertė į Kristaus tikėjimą Kantigirdą ir 1600 abiejų lyčių sūduvių.'
+  teiginys: 'Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.'
   pagrindžia:
     - c-006
 
@@ -152,7 +152,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     - t-006
 
 - c-005
-  santrauka: 'Liudvikas iš Libencelės buvo kilmingas brolis, nuo jaunų dienų įgudęs kariauti ir vėliau patekęs į Skomanto nelaisvę.'
+  santrauka: 'Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     210 (205). Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Tuo me­ tu Vilnius, kaip ir visa Lietuva, buvo patekusi prancūzų val­ džion, ir krašto bajorai, užgniaužę kvapą, laukdavo žinių apie Napoleono karo kampaniją Rusijos imperijos gilumoje. Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas visuomeninio gyvenimo pagyvėjimas.
+1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje. Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas.
 
 ## Laikotarpis ir datos
 
@@ -52,13 +52,14 @@ Nenurodyta
 <a id="claim-t-86923"></a>
 - t-002
   global_id: t-86923
-  teiginys: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas visuomeninio gyvenimo pagyvėjimas.'
+  teiginys: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas

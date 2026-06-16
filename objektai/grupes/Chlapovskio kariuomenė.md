@@ -9,10 +9,10 @@ date_start: '1831'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
 amziai:
   - 'XIX'
+tags:
+  - grupe
 ---
 # Chlapovskio kariuomenė
 
@@ -21,17 +21,18 @@ amziai:
 Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo ginklus.
 
 ## Teiginiai
-
 <a id="claim-t-168145"></a>
 - t-001
   global_id: t-168145
   teiginys: 'Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Chlapovskio vadovaujama kariuomenė nekovojo su rusais ir, prieš pereidama Prūsijos sieną, padėjo ginklus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto
@@ -41,9 +42,11 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
     Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot
     kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo gink-
     lus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

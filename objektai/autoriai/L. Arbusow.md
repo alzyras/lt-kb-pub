@@ -9,12 +9,12 @@ date_start: '1928'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # L. Arbusow
 
@@ -23,7 +23,6 @@ periodo_grupes:
 Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos); Th.
 
 ## Teiginiai
-
 <a id="claim-t-64694"></a>
 - t-001
   global_id: t-64694
@@ -39,7 +38,6 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

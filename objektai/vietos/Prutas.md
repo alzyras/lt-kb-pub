@@ -13,33 +13,24 @@ tags:
 
 ## Santrauka
 
-Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariuomene; tik papirkęs sultono ministerius, išsigelbėjo ir padarė gana palankią sau taiką.
+Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui. Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 
 ## Teiginiai
-
-<a id="claim-t-84557"></a>
-- t-001
-  global_id: t-84557
-  teiginys: '1711 m. ties Prutu caras, papirkęs sultono ministerius, išsigelbėjo su kariuomene ir sudarė sau gana palankią taiką.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-84558"></a>
-- t-002
+- t-001
   global_id: t-84558
   teiginys: 'Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-84559"></a>
-- t-003
+- t-002
   global_id: t-84559
   teiginys: 'Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -90,20 +81,5 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  santrauka: '1711 m. ties Prutu caras, papirkęs sultono ministerius, išsigelbėjo su kariuomene ir sudarė sau gana palankią taiką.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Karo pabaiga.** Karolis XII dar tikėjosi atsigauti, sukėlęs
-    prieš carą turkus. Iš tikro jam pasisekė: 1711 m. ties Prutu
-    caras vos nežuvo su visa savo kariuomene; tik papirkęs sul-
-    tono ministerius, išsigelbėjo ir padarė gana palankią sau tai-
-    ką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
+    - t-002

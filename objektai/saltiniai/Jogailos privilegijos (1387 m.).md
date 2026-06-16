@@ -10,14 +10,14 @@ date_start: '1387'
 date_end: '1413'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XV'
 tags:
   - bajorija
   - privilegija
   - saltinis
   - unija
-amziai:
-  - 'XIV'
-  - 'XV'
 ---
 # Jogailos privilegijos (1387 m.)
 
@@ -26,7 +26,6 @@ amziai:
 Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę ir buvo atleisti nuo.
 
 ## Teiginiai
-
 <a id="claim-t-12456"></a>
 - t-001
   global_id: t-12456
@@ -34,8 +33,7 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -3,23 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: 'didvalstybė'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1345 m.'
-  - '1377 m.'
-date_start: '1345'
-date_end: '1377'
 sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-amziai:
-  - 'XIV'
 ---
 # didvalstybė
 
 ## Santrauka
 
-Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe (lenk. Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros.
+Pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe. Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.
 
 ## Teiginiai
 
@@ -36,13 +29,6 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   teiginys: 'Valdant Ldk Algirdui 1345–1377 m., Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-183414"></a>
-- t-003
-  global_id: t-183414
-  teiginys: 'Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -76,28 +62,11 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kryžiaus karai prieš Lietuvą iš dalies paaiški-
-    na Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų
-    pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose. Valdant Ldk
-    Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
-    savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva
-    pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
-    teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Kryžiaus karai]]
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/Miera|miera]]
@@ -105,7 +74,6 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Mongolų imperija]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/posakiai/Sausis didžiąja raide]]
-- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
 - [[objektai/posakiai/„aksomine imperija“]]

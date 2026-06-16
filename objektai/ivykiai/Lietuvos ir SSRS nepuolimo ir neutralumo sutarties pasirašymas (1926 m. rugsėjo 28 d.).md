@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-1926 m. rugsėjo 28 d. Maskvoje Lietuva pasirašė nepuolimo ir neutralumo sutartį su SSRS; ja patvirtintas 1920 m. sutarties sąlygų tęstinumas ir Lietuvos interesai Vilniuje.
+1926 m. rugsėjo 28 d. Maskvoje pasirašyta Lietuvos ir SSRS nepuolimo ir neutralumo sutartis. Sutartyje SSRS patvirtino 1920 m. sutarties sąlygų tęstinumą. Georgijaus Čičerino nota prie Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje.
 
 ## Laikotarpis ir datos
 
@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-23339"></a>
 - t-003
   global_id: t-23339
-  teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje.'
+  teiginys: 'Georgijaus Čičerino nota prie Lietuvos ir SSRS nepuolimo ir neutralumo sutarties patvirtino Lietuvos interesus Vilniuje.'
   pagrindžia:
     - c-001
 

@@ -177,7 +177,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Steponas]]
@@ -189,7 +188,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/asmenys/Juozas Gabrys-Paršaitis]]
 - [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]
-- [[objektai/ivykiai/Pirmojo vietos lietuviško laikraščio JAV išėjimas]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/posakiai/„Lietuviais esame mes gimę...“]]
 - [[objektai/asmenys/Vudrau Vilsonas]]

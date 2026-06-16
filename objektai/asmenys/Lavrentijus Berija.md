@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
+Lavrentijus Berija lankė Joną Žemaitį-Vytautą kameroje, o šis apsilankymas rodo, kad Berija partizaninį karą Lietuvoje laikė rimta grėsme sovietų valdymui.
 
 ## Teiginiai
 
 <a id="claim-t-19104"></a>
 - t-001
   global_id: t-19104
-  teiginys: 'L. Berija lankė J. Žemaitį kameroje ir pripažino partizaninį karą Lietuvoje rimta grėsme sovietų valdymui.'
+  teiginys: 'Lavrentijus Berija lankė Joną Žemaitį-Vytautą kameroje, o šis apsilankymas rodo, kad Berija partizaninį karą Lietuvoje laikė rimta grėsme sovietų valdymui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lavrentijus Berija lankė Joną Žemaitį-Vytautą kameroje, o šis apsilankymas rodo, kad Berija partizaninį karą Lietuvoje laikė rimta grėsme sovietų valdymui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1953 m. pavasarį užverbuoti

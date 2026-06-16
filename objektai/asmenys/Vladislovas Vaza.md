@@ -25,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santykiai su Švedais Vladislovo laikais ....
+Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų. Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais. Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.
 
 ## Teiginiai
 
@@ -39,7 +39,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 <a id="claim-t-79222"></a>
 - t-002
   global_id: t-79222
-  teiginys: 'Kiek mažiau jų buvo tik Vladislovo laikais, bet Jono Kazimiero laikais visa Lietuva buvo nuteriota Maskvos ir Švedų kariuomenių.'
+  teiginys: 'Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais.'
   pagrindžia:
     - c-005
 
@@ -71,22 +71,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   pagrindžia:
     - c-001
 
-<a id="claim-t-79228"></a>
-- t-007
-  global_id: t-79228
-  teiginys: 'Vladislovo asmuo ir elekcija 315.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-79229"></a>
-- t-008
+- t-007
   global_id: t-79229
-  teiginys: 'Vladislovo Vazoslaikai (1632—1648 m.).'
+  teiginys: 'Vladislovo Vazos valdymo laikai datuojami 1632–1648 m.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-79230"></a>
-- t-009
+- t-008
   global_id: t-79230
   teiginys: 'Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko.'
   pagrindžia:
@@ -125,7 +118,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   statusas: verified
   pagrindžia:
     - t-007
-    - t-008
 
 - c-003
   santrauka: '1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.'
@@ -162,9 +154,10 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-005
+  santrauka: 'Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Krašto nualinimas karo metu.** Beveik visas trijų Vazų val-

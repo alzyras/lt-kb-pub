@@ -31,17 +31,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01998"></a>
 - t-001
   global_id: t-01998
   teiginys: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ano
@@ -52,9 +53,11 @@ Nenurodyta
     Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
     jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
     nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

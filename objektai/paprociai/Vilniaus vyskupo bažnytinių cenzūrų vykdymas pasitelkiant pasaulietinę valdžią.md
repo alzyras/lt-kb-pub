@@ -87,4 +87,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/instigatorius]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/statutas]]

@@ -76,6 +76,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/zodynas/šeimynykštis]]
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]

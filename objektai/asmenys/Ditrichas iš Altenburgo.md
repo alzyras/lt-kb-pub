@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos žemės kronikoje“ nemaža detalių pakeista arba pridėta79. Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku. Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą 1324 metais Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras, ir 44 broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies papilį, sudegino jį ir išžudė visus.
+Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje. 1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies. Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 <a id="claim-t-59951"></a>
 - t-003
   global_id: t-59951
-  teiginys: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m., o apie 1340 m. jo laikais Mikalojus baigė darbą.'
+  teiginys: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m., o apie 1340 m. jo laikais Mikalojus baigė darbą.'
+  santrauka: 'Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Versti jis pradėjo dar didžiojo Ordino magistro Liuterio iš Braunšveigo

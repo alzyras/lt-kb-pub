@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.
+Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje.
 
 ## Teiginiai
 
 <a id="claim-t-86194"></a>
 - t-001
   global_id: t-86194
-  teiginys: 'Apie 880 metus iš Danijos išvaryti tremtiniai persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  teiginys: 'Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Apie 880 metus iš Danijos išvaryti tremtiniai persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  santrauka: 'Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk šis kroniki­

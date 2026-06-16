@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužudęs jį dėl karaliaus vietos ir netrukus pats žuvęs.
+Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje. 1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai. Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
 <a id="claim-t-56964"></a>
 - t-003
   global_id: t-56964
-  teiginys: 'Dusburgietis teigia, kad kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.'
+  teiginys: 'Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.'
   pagrindžia:
     - c-001
 

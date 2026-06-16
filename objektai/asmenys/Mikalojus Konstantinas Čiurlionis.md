@@ -16,7 +16,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kompozitorius, studijavęs Varšuvoje bei Leipcige ir tautinio apsisprendimo kontekste pasirinkęs lietuvius.
+Čiurlionio muziejaus senojo meno ekspozicija. Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige. M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.
 
 ## Teiginiai
 
@@ -51,14 +51,14 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 <a id="claim-t-101692"></a>
 - t-005
   global_id: t-101692
-  teiginys: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet pasirinkdamas lietuvius dar gerai nemokėjo lietuviškai.'
+  teiginys: 'Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-101693"></a>
 - t-006
   global_id: t-101693
-  teiginys: 'Po J. Stalino mirties prasidėjus atšilimui buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
+  teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
   pagrindžia:
     - c-003
 

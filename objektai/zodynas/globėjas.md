@@ -47,7 +47,6 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Vasilijus]]
 - [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
 - [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
@@ -67,7 +66,6 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
 - [[objektai/asmenys/Jonas Albrechtas]]
 - [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/asmenys/M. Muravjovas]]
 - [[objektai/grupes/Maskvos kunigaikštija]]

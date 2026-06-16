@@ -74,5 +74,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/vietovardžių priešdėlis `pa]]

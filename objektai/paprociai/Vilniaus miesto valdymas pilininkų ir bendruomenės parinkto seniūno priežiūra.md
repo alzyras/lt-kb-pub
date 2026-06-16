@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Ankstyvojo Vilniaus tvarka aprašoma kaip leninio valdymo aplinkoje susiklostęs miesto valdymas. Pilininkai vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu, o senoviniai papročiai atstojo rašytas teisės normas.
+Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus. Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu. Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.
 
 ## Laikotarpis ir datos
 
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-55161"></a>
 - t-001
   global_id: t-55161
-  teiginys: 'Gedimino laikais Vilnius, iškilęs iki miesto, turėjo laikytis leninio valdymo aplinkoje nusistovėjusios tvarkos.'
+  teiginys: 'Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus.'
   pagrindžia:
     - c-001
 
@@ -63,14 +63,14 @@ Nenurodyta
 <a id="claim-t-81870"></a>
 - t-004
   global_id: t-81870
-  teiginys: 'Gedimino dėka Vilnius iš mažos gyvenvietės iškilo iki miesto ir tapo Lietuvos sostine.'
+  teiginys: 'Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gedimino laikais Vilnius, iškilęs iki miesto, turėjo laikytis leninio valdymo aplinkoje nusistovėjusios tvarkos.'
+  santrauka: 'Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
@@ -119,7 +119,7 @@ Nenurodyta
     - t-003
 
 - c-003
-  santrauka: 'Gedimino dėka Vilnius iš mažos gyvenvietės iškilo iki miesto ir tapo Lietuvos sostine.'
+  santrauka: 'Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilnius, Gedimino dėka nuo mažos gyvenvie­

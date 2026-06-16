@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų. Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo. Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.
+1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją. Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.
 
 ## Teiginiai
 
 <a id="claim-t-181533"></a>
 - t-001
   global_id: t-181533
-  teiginys: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos suvažiavimas, priėmęs Valkininkų nutarimą.'
+  teiginys: '1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos suvažiavimas, priėmęs Valkininkų nutarimą.'
+  santrauka: '1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-

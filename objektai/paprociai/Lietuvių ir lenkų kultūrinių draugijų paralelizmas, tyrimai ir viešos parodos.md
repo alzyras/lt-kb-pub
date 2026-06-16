@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos. Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą. Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.
+Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją ir pradėjo rengti viešas dailės parodas. Vilniuje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija telkė skirtingas tautinio sąjūdžio aplinkas. Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija leido mokslinius tęstinius leidinius ir buvo viena kitos kolektyvinės narės.
 
 ## Laikotarpis ir datos
 
@@ -69,14 +69,14 @@ Nenurodyta
 <a id="claim-t-54283"></a>
 - t-005
   global_id: t-54283
-  teiginys: 'Neatkūrus Vilniaus universiteto, įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
+  teiginys: 'Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-54284"></a>
 - t-006
   global_id: t-54284
-  teiginys: 'Vilniuje lietuviai įkūrė Lietuvių dailės draugiją, o vėliau vietiniai dailininkai įsteigė atskirą Vilniaus dailės draugiją.'
+  teiginys: 'Vilniuje lietuviai pirmieji įkūrė Lietuvių dailės draugiją, o vėliau atskirą Vilniaus dailės draugiją įsteigė vietiniai dailininkai.'
   pagrindžia:
     - c-003
 
@@ -101,6 +101,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'Nepavykus atkurti Vilniaus universiteto, Lietuvoje įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, etnografi-
@@ -119,6 +120,7 @@ Nenurodyta
     - t-005
 
 - c-003
+  santrauka: 'Vilniuje lietuviai pirmieji įkūrė Lietuvių dailės draugiją, o vėliau atskirą Vilniaus dailės draugiją įsteigė vietiniai dailininkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dailės ir vaizduojamojo me-

@@ -19,70 +19,21 @@ amziai:
 
 ## Santrauka
 
-Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia jo Livonijos šaka, toliau liko Švitrigailos rėmėja, nes siekė, kad pastarasis organizuotų platų pietryčių frontą (su voluiniečiais, podoliečiais, totoriais) prieš Lenkiją, kuri su husitais vakaruose rengėsi kovoti prieš Ordiną. Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė.
+Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
 
 ## Teiginiai
 
-<a id="claim-t-41206"></a>
+<a id="claim-t-41207"></a>
 - t-001
-  global_id: t-41206
-  teiginys: 'Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė.'
+  global_id: t-41207
+  teiginys: 'Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-41207"></a>
-- t-002
-  global_id: t-41207
-  teiginys: 'Lenkija su husitais vakaruose rengėsi kovoti prieš Ordiną.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-41208"></a>
-- t-003
-  global_id: t-41208
-  teiginys: 'Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vakaruose 1433 m. Lenkijai suartėjus su
-    čekų husitais, Ordinui kilo didelė grėsmė.
-    Magistras dar balandį prašė Švitrigailos
-    kartu su Livonija, Podole, Valakija-Mol-
-    davija ir totoriais pulti Lenkiją. Tuo tar-
-    pu žemaičiai puolė Kuršą ir niokojo jį
-    19 dienų, husitų ir Lenkijos kariuomenė
-    įsiveržė į Ordino valdas birželio pradžioje,
-    viską naikino ir degino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kovai prieš Ordiną Lenkija suartėjo
-    su Čekijos husitais. Tuo pat metu buvo
-    veikiama prieš Švitrigailą Lietuvoje.
-    Slapta buvo pažadėta Lenkijos karaliaus
-    parama pretendentui į Lietuvos sostą
-    Žygimantui Kęstutaičiui, ir jį paremsian-
-    tiems Lietuvos kunigaikščiams bei bajo-
-    rams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  santrauka: 'Lenkija su husitais vakaruose rengėsi kovoti prieš Ordiną.'
+  santrauka: 'Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ordinas, pirmiausia jo Livonijos šaka,
@@ -104,38 +55,13 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-004
-  santrauka: 'Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Švitrigaila
-    siekė visiško savarankiškumo ir palaikė
-    ryšį su Ordinu.
-
-    Kovai prieš Ordiną Lenkija suartėjo
-    su Čekijos husitais. Tuo pat metu buvo
-    veikiama prieš Švitrigailą Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

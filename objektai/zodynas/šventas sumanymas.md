@@ -52,6 +52,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
 - [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]

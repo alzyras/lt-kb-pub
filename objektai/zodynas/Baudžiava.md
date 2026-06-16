@@ -22,6 +22,10 @@ amziai:
 ---
 # Baudžiava
 
+## Santrauka
+
+Petrapily paruoštas ir 1861 m. vasario 19 d. paskelbtas manifestas Rusijos imperijoje panaikino baudžiavą ir suteikė valstiečiams teisę per 49 metus išsipirkti žemę. Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai. 1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
+
 ## Žodis ir formos
 
 Baudžiava šiame veikale nusako valstiečių priklausomybę ponui ir jų privalomas prievoles dvarui.
@@ -50,182 +54,70 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-108568"></a>
-- t-001
-  global_id: t-108568
-  teiginys: 'Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos imperijoje buvo panaikinta baudžiava, o valstiečiams duota teisė per 49 metus išsipirkti žemę.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-108569"></a>
-- t-002
-  global_id: t-108569
-  teiginys: 'Bajorai dažnai versdavo valstiečius eiti baudžiavą, mokėti mokesčius ir pirkti nustatytą kiekį degtinės.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-108570"></a>
-- t-003
+- t-002
   global_id: t-108570
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai.'
   pagrindžia:
-    - c-010
-
-<a id="claim-t-108571"></a>
-- t-004
-  global_id: t-108571
-  teiginys: 'Privilegija padėjo pamatą visuotinei baudžiavai, nes bajorų valstiečiai liko savo ponų valdžioje ir nebegalėjo išsikelti iš jų žemių.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-108572"></a>
-- t-005
-  global_id: t-108572
-  teiginys: 'Po 1447 m. privilegijos palengva prasidėjo tikroji baudžiava, o valstiečiai buvo apkraunami didesniais mokesčiais ir darbais.'
-  pagrindžia:
-    - c-002
+    - c-009
 
 <a id="claim-t-108573"></a>
-- t-006
+- t-003
   global_id: t-108573
   teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   pagrindžia:
-    - c-009
-
-<a id="claim-t-108574"></a>
-- t-007
-  global_id: t-108574
-  teiginys: 'Į baudžiavą nebegalėjo būti grąžinti valstiečiai, kuriuos buvo atleidę patys dvarininkai.'
-  pagrindžia:
-    - c-004
+    - c-008
 
 <a id="claim-t-108575"></a>
-- t-008
+- t-005
   global_id: t-108575
   teiginys: '1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-108576"></a>
-- t-009
+- t-006
   global_id: t-108576
   teiginys: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-108577"></a>
-- t-010
-  global_id: t-108577
-  teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-108578"></a>
-- t-011
-  global_id: t-108578
-  teiginys: '1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-108579"></a>
-- t-012
-  global_id: t-108579
-  teiginys: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-108580"></a>
-- t-013
-  global_id: t-108580
-  teiginys: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-108581"></a>
-- t-014
-  global_id: t-108581
-  teiginys: 'Privilegija padėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko ponų valdžioje ir nebegalėjo išsikelti iš jų žemių.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-108583"></a>
-- t-016
-  global_id: t-108583
-  teiginys: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
-  pagrindžia:
     - c-007
 
+- t-012
+  teiginys: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
+  pagrindžia:
+    - c-006
+- t-013
+  teiginys: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
+  pagrindžia:
+    - c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
+  pagrindžia:
+    - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
+  pagrindžia:
+    - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Į baudžiavą nebegalėjo būti grąžinti valstiečiai, kuriuos buvo atleidę patys dvarininkai.'
+  pagrindžia:
+    - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-017
+  teiginys: 'Petrapily paruoštas ir 1861 m. vasario 19 d. paskelbtas manifestas Rusijos imperijoje panaikino baudžiavą ir suteikė valstiečiams teisę per 49 metus išsipirkti žemę.'
+  pagrindžia:
+    - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl laisvieji valstiečiai
-    iš bajorų dvarų mielai kėlėsi į didžiojo kunigaikščio žemes. No-
-    rėdama pastoti tam kelią, bajorija išreikalavo, kad į šitą pri-
-    vilegiją būtų įrašytas nuostatas, draudžiąs didžiajam kunigaikš-
-    čiui priimti pabėgusius bajorų valstiečius. Taigi privilegija pa-
-    dėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko visiš-
-    koje savo ponų valdžioje; jie nebeturėjo jokių pareigų didžia-
-    jam kunigaikščiui (valstybei), o vien tik ponams ir niekur ne-
-    begalėjo išsikelti iš jų žemių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-    - t-014
-    - t-004
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau valstiečių
-    būklė ne tik nepagerėjo, bet dar pablogėjo (ypač bajorijos dva-
-    ruose). Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
-    džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
-    čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-    - t-005
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nebuvo tik sutikimo dėl tolimesnio jų li-
-    kimo. Bet vis dėlto vienur daugumas, kitur bent dalis bajorų
-    stojo už tai, kad valstiečiams turi būti leista išsipirkti savo val-
-    domąją žemę ir pasidaryti jos savininkais.
-    **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
-    pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
-    rijoje buvo panaikinta baudžiava, o valstiečiams
-    duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-    - t-001
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
-    teliais pilnateisiais piliečiais, o valstiečiai ir toliau liko
-    beteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima
-    bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
-    Daugiau teisių gavo miestiečiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-    - t-007
-
 - c-005
   santrauka: '1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -241,24 +133,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-
+    - t-005
 - c-006
-  santrauka: 'Bajorai dažnai versdavo valstiečius eiti baudžiavą, mokėti mokesčius ir pirkti nustatytą kiekį degtinės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tikro-
-    joje Lietuvoje iš pramonės, galima sakyt, tebuvo tik kiekvieno
-    turtingesnio bajoro laikomas _bravoras._ Labai dažnai bajorai
-    versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav.,
-    vertė eiti baudžiavą ar mokėti mokesčius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-007
   santrauka: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -273,9 +149,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-
-- c-008
+    - t-012
+- c-007
   santrauka: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -294,10 +169,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-015
-
-- c-009
+    - t-006
+    - t-011
+- c-008
   santrauka: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -312,9 +186,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-010
+    - t-003
+- c-009
   santrauka: 'Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -327,11 +200,63 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+- c-010
+  santrauka: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau valstiečių
+    būklė ne tik nepagerėjo, bet dar pablogėjo (ypač bajorijos dva-
+    ruose). Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
+    džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
+    čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-011
+  santrauka: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
+    teliais pilnateisiais piliečiais, o valstiečiai ir toliau liko
+    beteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima
+    bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
+    Daugiau teisių gavo miestiečiai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+    - t-016
+- c-012
+  santrauka: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nebuvo tik sutikimo dėl tolimesnio jų li-
+    kimo. Bet vis dėlto vienur daugumas, kitur bent dalis bajorų
+    stojo už tai, kad valstiečiams turi būti leista išsipirkti savo val-
+    domąją žemę ir pasidaryti jos savininkais.
+    **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
+    pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
+    rijoje buvo panaikinta baudžiava, o valstiečiams
+    duota teisė per 49 metus išsipirkti žemę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/zodynas/Baudžiavinė santvarka]]
@@ -345,10 +270,8 @@ Nenurodyta
 - [[objektai/zodynas/servitutas]]
 - [[objektai/zodynas/taikos suvažiavimai]]
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
-- [[objektai/zodynas/ukazai]]
 - [[objektai/zodynas/valsčių viršaičiai staršinos]]
 - [[objektai/zodynas/činšininkai]]
-- [[objektai/zodynas/činšininkas]]
 - [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras II]]
@@ -357,7 +280,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vilniaus Senienų muziejus]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/autoriai/Adomas Honorijus Kirkoras]]
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/ivykiai/Aleksandro II reformų pradžia]]
@@ -369,12 +291,11 @@ Nenurodyta
 - [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]
-- [[objektai/zodynas/inventoriai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/žemės santykiais pagrįsta periodizacija]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
+- [[objektai/paprociai/Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis]]
 - [[objektai/zodynas/Lažas|lažas]]

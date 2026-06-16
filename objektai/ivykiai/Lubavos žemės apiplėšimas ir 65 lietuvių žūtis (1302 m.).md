@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Dusburgietis teigia, kad po to broliai iš patikimų šaltinių sužinojo, kad vos keli šio būrio lietuviai gyvi ir sveiki besugrįžo.
+Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai. 1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.
 
 ## Laikotarpis ir datos
 
@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-62382"></a>
 - t-001
   global_id: t-62382
-  teiginys: 'Po Lubavos žygio broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli šio būrio lietuviai.'
+  teiginys: 'Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai.'
   pagrindžia:
     - c-002
 
@@ -72,7 +72,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Po Lubavos žygio broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli šio būrio lietuviai.'
+  santrauka: 'Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita brolių dalis surado tik penkis

@@ -48,4 +48,5 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/daiktai/Bombardos]]

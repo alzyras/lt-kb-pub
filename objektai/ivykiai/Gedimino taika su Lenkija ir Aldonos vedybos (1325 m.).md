@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje. 1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.000 Lietuvoje buvusių lenkų karo belaisvių. Jo 1325 m. sutartis buvo pir­ masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­ čiamas Liublino unijos išvakarėse, t.
+Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje. Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse. 1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis.
 
 ## Laikotarpis ir datos
 
@@ -61,14 +61,14 @@ Nenurodyta
 <a id="claim-t-100024"></a>
 - t-003
   global_id: t-100024
-  teiginys: '1325 m. Gedimino ir Lokietkos sąjungininkai taikos sutartį sutvirtino Kazimiero ir Gedimino dukters Aldonos vedybomis.'
+  teiginys: '1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-100025"></a>
 - t-004
   global_id: t-100025
-  teiginys: 'Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.'
+  teiginys: 'Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.'
   pagrindžia:
     - c-003
 
@@ -110,6 +110,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: 'Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo
@@ -136,6 +137,8 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
 - [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]

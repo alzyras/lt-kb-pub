@@ -101,3 +101,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/posakiai/na Litvu]]
+- [[objektai/zodynas/pagonys]]

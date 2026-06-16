@@ -11,20 +11,20 @@ date_start: '1792'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
+  - 'XXI'
 tags:
   - ivykis
   - kraštas
   - miestas
   - reforma
-amziai:
-  - 'XVIII'
-  - 'XXI'
 ---
 # Targovicos konfederacija (1792—1793 m.)
 
 ## Santrauka
 
-Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė. Opozicionieriai, atvykę į Targovicos miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos aktą. Ši konfederacija lietė tiktai Lenkiją.
+Targovicos konfederacija lietė tik Lenkiją, o Vilniuje buvo suorganizuota prie jos prisidėjusi Lietuvos konfederacija. Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija. Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.
 
 ## Laikotarpis ir datos
 
@@ -43,37 +43,21 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66928"></a>
-- t-001
-  global_id: t-66928
-  teiginys: 'Targovicos konfederacija lietė tik Lenkiją, o Vilniuje buvo suorganizuota prie jos prisidėjusi Lietuvos konfederacija.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-66929"></a>
+<a id="claim-t-66931"></a>
 - t-002
-  global_id: t-66929
+  global_id: t-66931
   teiginys: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-66930"></a>
 - t-003
-  global_id: t-66930
-  teiginys: 'Targovicos miestelyje Ukrainoje reformų priešininkai paskelbė konfederacijos aktą.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-66931"></a>
-- t-004
-  global_id: t-66931
   teiginys: 'Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -94,8 +78,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: 'Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Priimtoje konsti-
@@ -105,49 +89,16 @@ Nenurodyta
     ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
     riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
     skelbimo vietos yra vadinama Targovicos konfederacija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ši konfederacija lie-
-    tė tiktai Lenkiją. Bet
-    tuojau po to Vilniuje
-    buvo suorganizuota to-
-    kia pat Lietuvos konfe-
-    deracija, kuri pasiskelbė
-    prisidedanti prie Tar-
-    govicos konfederacijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Targovicos miestelyje Ukrainoje reformų priešininkai paskelbė konfederacijos aktą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuojau visi didieji reformų priešininkai
-    buvo sukviesti į Petrapilį, kur buvo nutarta suorganizuoti re-
-    formoms priešingą konfederaciją; tam tikslui buvo išsiųsta
-    64.000 rusų kariuomenės. Opozicionieriai, atvykę į Targovicos
-    miestelį (Ukrainoje, prie Sieniuchos), paskelbė konfederacijos
-    aktą. Jie skelbėsi einą sugrąžinti seimo sulaužytų krašto laisvių;
-    rusai esą jų sąjungininkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/seimas]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį. Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės.
+1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis. Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai. 1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-75194"></a>
 - t-001
   global_id: t-75194
-  teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  teiginys: '1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
     - c-003
 
@@ -65,7 +65,7 @@ Nenurodyta
 <a id="claim-t-183257"></a>
 - t-004
   global_id: t-183257
-  teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+  teiginys: '1992 m. spalio 25 d. referendume priimtos Konstitucijos preambulėje įtvirtinti pilietinės visuomenės ir teisinės valstybės principai.'
   pagrindžia:
     - c-004
 
@@ -109,6 +109,7 @@ Nenurodyta
     - t-002
 
 - c-003
+  santrauka: '1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
@@ -130,7 +131,7 @@ Nenurodyta
     - t-001
 
 - c-004
-  santrauka: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+  santrauka: '1992 m. spalio 25 d. referendume priimtos Konstitucijos preambulėje įtvirtinti pilietinės visuomenės ir teisinės valstybės principai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-

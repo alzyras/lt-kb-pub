@@ -54,3 +54,4 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/metraštis]]

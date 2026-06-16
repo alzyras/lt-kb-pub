@@ -19,14 +19,14 @@ amziai:
 
 ## Santrauka
 
-Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.
+Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige. Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige. Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.
 
 ## Teiginiai
 
 <a id="claim-t-83727"></a>
 - t-001
   global_id: t-83727
-  teiginys: 'Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad juos laiku nusiųstų Mlodyčiui į Leipcigą.'
+  teiginys: 'Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige.'
   pagrindžia:
     - c-002
 

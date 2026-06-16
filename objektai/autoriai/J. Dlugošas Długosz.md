@@ -106,5 +106,6 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/žygis]]

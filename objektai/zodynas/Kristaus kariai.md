@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti. Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.
+Kristaus kariais vadinti Dobrynės broliai. Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
 
 ## Teiginiai
 
 <a id="claim-t-58854"></a>
 - t-001
   global_id: t-58854
-  teiginys: 'Kristaus kariai citatoje tapatinami su vadinamaisiais Dobrynės broliais.'
+  teiginys: 'Kristaus kariais vadinti Dobrynės broliai.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
     - t-002
 
 - c-002
-  santrauka: 'Kristaus kariai citatoje tapatinami su vadinamaisiais Dobrynės broliais.'
+  santrauka: 'Kristaus kariais vadinti Dobrynės broliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
@@ -75,12 +75,13 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
 - [[objektai/asmenys/Brunonas]]
-- [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

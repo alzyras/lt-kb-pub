@@ -317,6 +317,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/dignitoriai]]
 - [[objektai/zodynas/pakancleris]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]

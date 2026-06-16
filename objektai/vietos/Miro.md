@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
+Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę.
 
 ## Teiginiai
 
 <a id="claim-t-41934"></a>
 - t-001
   global_id: t-41934
-  teiginys: 'Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.'
+  teiginys: 'Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmasis didelis mūšis įvyko bir-

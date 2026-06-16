@@ -126,4 +126,5 @@ Nenurodyta
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Jonas Olbrachtas]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

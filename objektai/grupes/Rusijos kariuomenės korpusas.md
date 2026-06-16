@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojoje kovų fazėje Rusijos kariuomenės korpusas, papildytas gen.
+Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai. Liepos 19-20 d. Vilnių puolė Bogdano Knorringo Rusijos kariuomenės korpusas, turėjęs 8 tūkst. pėstininkų, 4 tūkst. raitelių ir 46 pabūklus.
 
 ## Teiginiai
 
 <a id="claim-t-41132"></a>
 - t-001
   global_id: t-41132
-  teiginys: 'Trečiojoje kovų fazėje Rusijos kariuomenės korpusas papildytas Pavelo Cicijanovo ir Ivano Hermano daliniais.'
+  teiginys: 'Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trečiojoje kovų fazėje Rusijos kariuomenės korpusą papildė Pavelo Cicijanovo ir Ivano Hermano daliniai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Trečiojoje kovų

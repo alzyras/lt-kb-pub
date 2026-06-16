@@ -82,6 +82,7 @@ Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke, kad b�
 ### Susiję objektai
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Fotijus]]
 - [[objektai/ivykiai/Naugarduko rusų tautos suvažiavimas ir Grigorijaus Fotijaus nušalinimas]]
 - [[objektai/paprociai/Viešas ganytojų ir rusų tautos suvažiavimas religiniams ginčams spręsti]]

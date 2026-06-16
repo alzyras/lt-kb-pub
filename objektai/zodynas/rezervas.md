@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą. Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.
+Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai. Aktyvuotas lenkų rezervas pradėjo apeiti kryžiuočius kairėje nuo jų dešiniojo flango.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 <a id="claim-t-42504"></a>
 - t-002
   global_id: t-42504
-  teiginys: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
+  teiginys: 'Aktyvuotas lenkų rezervas pradėjo apeiti kryžiuočius kairėje nuo jų dešiniojo flango.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
     - t-001
 
 - c-002
-  santrauka: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
+  santrauka: 'Aktyvuotas lenkų rezervas pradėjo apeiti kryžiuočius kairėje nuo jų dešiniojo flango.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočiai, pamanę, jog mūšis laimė-

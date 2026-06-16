@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122— 123; Łowmiański H., Początki Polski, t.
+T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.
 
 ## Teiginiai
 
 <a id="claim-t-60846"></a>
 - t-001
   global_id: t-60846
-  teiginys: 'Dusburgietis teigia, kad istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės pakrantės ir Riugeno (Rugijos) salos gyventojai (Manteuffel T., Papiestwo.., p. 122— 123; Łowmiański H., Początki Polski, t.'
+  teiginys: 'T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'T. Manteuffelio „Papiestwo“ cituojamas prie teiginio, kad rutėnais dažnai vadinti pietinės Baltijos pakrantės ir Riugeno gyventojai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Istorijos šaltiniuose rutėnais (Rutheni) dažnai buvo vadinami Baltijos jūros pietinės

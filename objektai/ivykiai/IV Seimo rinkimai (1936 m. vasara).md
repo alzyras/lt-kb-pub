@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dėl to atgaivinta Seimo institucija. Todėl 1936 m. vasarą vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas „smetoniniu Seimu“.
+1936 m. rinkimuose kandidatus į Seimą galėjo siūlyti tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės. 1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“. 1936 m. atgaivinus Seimo instituciją, kandidatus į Seimą galėjo siūlyti tik tautininkų kontroliuojamos savivaldybės.
 
 ## Laikotarpis ir datos
 
@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-20206"></a>
 - t-002
   global_id: t-20206
-  teiginys: 'Todėl 1936 m. vasarą vykę rinkimai nebuvo demokratiniai, o išrinktas IV Seimas vadintas „smetoniniu Seimu“.'
+  teiginys: '1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“.'
   pagrindžia:
     - c-002
 
@@ -82,6 +82,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, o išrinktas Seimas vadintas „smetoniniu Seimu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip opozicijos

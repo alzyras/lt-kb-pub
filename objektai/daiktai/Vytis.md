@@ -3,6 +3,7 @@ tipas: daiktas
 pavadinimas: 'Vytis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.
+Vytis bent XIV a. antrojoje pusėje laikomas Vilniaus žemės arba kunigaikštystės herbu, o nuo 1384 m. juo galėjo antspauduoti Gediminaičiai. Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.
 
 ## Pavadinimai šaltiniuose
 
@@ -38,9 +39,16 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-77917"></a>
+<a id="claim-t-186858"></a>
 - t-001
-  global_id: t-77917
+  global_id: t-186858
+  teiginys: 'Vytis bent XIV a. antrojoje pusėje laikomas Vilniaus žemės arba kunigaikštystės herbu, o nuo 1384 m. juo galėjo antspauduoti Gediminaičiai.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-186859"></a>
+- t-002
+  global_id: t-186859
   teiginys: 'Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   pagrindžia:
     - c-001
@@ -48,7 +56,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau šios konstitucijos veikimas visa apim-
@@ -70,13 +77,35 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-002
+
+- c-002
+  santrauka: 'Vytis bent XIV a. antrojoje pusėje laikomas Vilniaus žemės arba kunigaikštystės herbu, o nuo 1384 m. juo galėjo antspauduoti Gediminaičiai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai,
+    bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­
+    nigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo
+    susijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo
+    antspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo
+    1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės
+    kunigaikščiams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
 - [[objektai/asmenys/Aloyzas Sakalas]]
@@ -86,6 +115,7 @@ Nenurodyta
 - [[objektai/daiktai/Herbai]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/asmenys/Kazimieras Motieka]]
+- [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.)]]
 - [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]
@@ -116,12 +146,10 @@ Nenurodyta
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/vachmistras]]
 - [[objektai/asmenys/Česlovas Stankevičius]]
-- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]
+- [[objektai/grupes/Gediminaičiai]]
 - [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų]]
 - [[objektai/daiktai/Ringrafas]]
-- [[objektai/asmenys/Steponas Batoras]]

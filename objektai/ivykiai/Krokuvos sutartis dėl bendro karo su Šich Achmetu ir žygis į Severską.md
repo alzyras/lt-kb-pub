@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui. Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį bei pasidavusias vietoves Chaleckiui.
+Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui. Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185592"></a>
 - t-002
   global_id: t-185592
-  teiginys: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį bei pasidavusias vietoves Chaleckiui.'
+  teiginys: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį bei pasidavusias vietoves Chaleckiui.'
+  santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Staigiu

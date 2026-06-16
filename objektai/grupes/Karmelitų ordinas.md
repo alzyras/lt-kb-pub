@@ -10,13 +10,13 @@ date_start: '1514'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - grupe
   - kunigas
   - mokslininkas
   - ordinas
-amziai:
-  - 'XVI'
 ---
 # Karmelitų ordinas
 
@@ -25,42 +25,20 @@ amziai:
 Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.
 
 ## Teiginiai
-
-<a id="claim-t-112560"></a>
-- t-001
-  global_id: t-112560
-  teiginys: 'Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-112561"></a>
 - t-002
   global_id: t-112561
   teiginys: 'Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tiesa, kur-ne-kur
-    jie įsteigdavo ir pradžios mokyklų (kur turėdavo keletą savo
-    žmonių, bet neturėdavo pakankamai lėšų kolegijai įkurti). Bet
-    galima sakyti, kad tik vidurinis ir aukštasis mokslas Lietuvoje
-    tebuvo jėzuitų rankose. Pradžios mokslu, be parapijų kunigų,
-    dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-
-    nardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lie-
-
-
-    tuvoje buvo jau gana daug.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -78,6 +56,27 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   statusas: verified
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tiesa, kur-ne-kur
+    jie įsteigdavo ir pradžios mokyklų (kur turėdavo keletą savo
+    žmonių, bet neturėdavo pakankamai lėšų kolegijai įkurti). Bet
+    galima sakyti, kad tik vidurinis ir aukštasis mokslas Lietuvoje
+    tebuvo jėzuitų rankose. Pradžios mokslu, be parapijų kunigų,
+    dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-
+    nardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lie-
+
+
+    tuvoje buvo jau gana daug.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

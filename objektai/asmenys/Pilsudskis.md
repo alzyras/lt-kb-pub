@@ -13,33 +13,23 @@ tags:
 
 ## Santrauka
 
-Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo jo iškilmingus pareiškimus, kad Lenkija pripažįstanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos integralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams užmegzti. Tų metų balandžio mėnesį Pilsudskio vadovaujama Lenkijos kariuomenė, pasinaudodama mūsų kariuomenės silpnumu ir josios kovomis su rusais bolševikais, užėmė pietinę ir rytinę Letuvos dalį nuo Gardino iki Vilniaus (balandžio 19 d.).
+Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją.
 
 ## Teiginiai
-
-<a id="claim-t-64035"></a>
-- t-001
-  global_id: t-64035
-  teiginys: '1919 m. balandžio 19 d. Pilsudskio vadovaujama Lenkijos kariuomenė užėmė Lietuvos dalį nuo Gardino iki Vilniaus.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-64036"></a>
-- t-002
-  global_id: t-64036
-  teiginys: 'Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-64037"></a>
-- t-003
+- t-002
   global_id: t-64037
   teiginys: 'Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją.'
   pagrindžia:
     - c-001
+- t-003
+  teiginys: 'Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -56,8 +46,7 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-
+    - t-002
 - c-002
   santrauka: 'Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -71,36 +60,17 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     tanti ir gerbsianti Lietuvos nepriklausomybę ir teritorijos inte-
     gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
     užmegzti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '1919 m. balandžio 19 d. Pilsudskio vadovaujama Lenkijos kariuomenė užėmė Lietuvos dalį nuo Gardino iki Vilniaus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tad iš
-    pradžių viskas baigdavosi tik diplomatine kova; pavojus su-
-    eiti su Lenkija į ginkluotą konfliktą atsirado tik 1919 m. pavasarį.
-    **Pirmasis Vilniaus krašto okupavimas.** Tų metų balandžio
-    mėnesį Pilsudskio vadovaujama Lenkijos kariuomenė, pasinau-
-    dodama mūsų kariuomenės silpnumu ir josios kovomis su rusais
-
-
-    bolševikais, užėmė pietinę ir rytinę Letuvos dalį nuo Gardino
-    iki Vilniaus (balandžio 19 d.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
@@ -108,7 +78,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Jonas Žilius]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/asmenys/L. Želigovskis]]

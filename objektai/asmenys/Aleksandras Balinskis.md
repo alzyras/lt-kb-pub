@@ -191,7 +191,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/zodynas/Istorinis-geografinis tautos supratimas]]
 - [[objektai/paprociai/Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje]]

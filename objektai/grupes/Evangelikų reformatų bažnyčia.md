@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
+LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą. Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
 
 ## Teiginiai
 
 <a id="claim-t-19690"></a>
 - t-001
   global_id: t-19690
-  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinizmą.'
+  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183128"></a>
 - t-002
   global_id: t-183128
-  teiginys: 'Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
+  teiginys: 'Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.'
   pagrindžia:
     - c-001
 

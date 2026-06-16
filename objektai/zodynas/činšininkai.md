@@ -16,17 +16,18 @@ tags:
 Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi sutiko, kad valstiečius reikia paversti činšininkais, t.
 
 ## Teiginiai
-
 <a id="claim-t-03231"></a>
 - t-001
   global_id: t-03231
   teiginys: 'Činšininkais vadinti valstiečiai, kurie turėjo mokėti tik mokesčius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Činšininkais vadinti valstiečiai, kurie turėjo mokėti tik mokesčius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po to
@@ -47,9 +48,11 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
     tarpe atsirado nemaža baudžiavos šalininkų, bet galų gale visi
     sutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-
     čiais tik mokesčius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -57,4 +60,3 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/bajorija]]

@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-ANBO lėktuvai siejami su Lietuvos Respublikos aviacijos pasiekimais, lėktuvų projektavimu ir gamyba Kaune. Antanas Gustaitis sukonstravo ANBO seriją; Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai, o ANBO VIII įvardytas kaip lengvasis bombonešis.
+ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas. Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai. ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.
 
 ## Pavadinimai šaltiniuose
 
@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-13451"></a>
 - t-003
   global_id: t-13451
-  teiginys: 'ANBO VIII apibūdintas kaip Antano Gustaičio sukonstruotas ir Kaune pagamintas lengvasis bombonešis.'
+  teiginys: 'ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.'
   pagrindžia:
     - c-002
 
@@ -106,6 +106,7 @@ Nenurodyta
     - t-004
 
 - c-002
+  santrauka: 'ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per 20 metų iš

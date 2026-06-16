@@ -10,13 +10,13 @@ date_start: '1832'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karas
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - asmuo
+  - karas
 ---
 # Lizdeika
 
@@ -25,7 +25,6 @@ periodo_grupes:
 Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.
 
 ## Teiginiai
-
 <a id="claim-t-82548"></a>
 - t-001
   global_id: t-82548
@@ -41,7 +40,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -70,7 +68,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

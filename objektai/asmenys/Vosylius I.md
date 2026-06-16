@@ -26,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I (1389-1425), su kuriuo oficialiai laikėsi taikos. Tokia Vosyliaus laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, kurie užsitęsė trejus metus (1406-1408).
+Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą. Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos. 1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.
 
 ## Teiginiai
 
@@ -54,7 +54,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 <a id="claim-t-64268"></a>
 - t-004
   global_id: t-64268
-  teiginys: 'Vosyliaus I laikysena paskatino Vytautą 1406–1408 m. pradėti karo veiksmus prieš Vosylių I.'
+  teiginys: 'Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m.'
   pagrindžia:
     - c-004
 
@@ -116,7 +116,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-002
 
 - c-004
-  santrauka: 'Vosyliaus I laikysena paskatino Vytautą 1406–1408 m. pradėti karo veiksmus prieš Vosylių I.'
+  santrauka: 'Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gavęs paramos iš
@@ -142,5 +142,4 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]

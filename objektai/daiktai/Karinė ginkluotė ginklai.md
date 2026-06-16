@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vaidevutis vengė karinių stovyklų, nes manė, kad žmonės, paėmę į rankas ginklą, suįžūlėja ir nebeklauso įsakymų.
+Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -32,14 +32,14 @@ Nenurodyta
 <a id="claim-t-185853"></a>
 - t-001
   global_id: t-185853
-  teiginys: 'Vaidevutis vengė karinių stovyklų, nes manė, kad žmonės, paėmę į rankas ginklą, suįžūlėja ir nebeklauso įsakymų.'
+  teiginys: 'Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vaidevutis vengė karinių stovyklų, nes manė, kad žmonės, paėmę į rankas ginklą, suįžūlėja ir nebeklauso įsakymų.'
+  santrauka: 'Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl neilgai trukus paaiškė­
@@ -66,4 +66,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Laužas]]
 - [[objektai/daiktai/Ginklai]]

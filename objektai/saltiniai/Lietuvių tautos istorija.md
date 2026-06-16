@@ -9,13 +9,13 @@ date_start: '1835'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 tags:
   - kraštas
   - miestas
   - saltinis
   - tauta
-amziai:
-  - 'XIX'
 ---
 # Lietuvių tautos istorija
 
@@ -24,7 +24,6 @@ amziai:
 Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo. Narbuto istorijos pirmasis tomas, kitais metais - pirmoji M. Narbuto istorijos atžvilgiu, kurią galima vertinti kaip romantinės istori­ jos rašymo kritiką: „<..
 
 ## Teiginiai
-
 <a id="claim-t-88258"></a>
 - t-001
   global_id: t-88258
@@ -46,8 +45,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -64,7 +62,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -79,7 +76,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

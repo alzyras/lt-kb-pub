@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Gitara „Zemaitis“ aprašoma kaip Tony’o Zemaicio sukurtas muzikos instrumentas, kuriuo grojo keli pasaulinio garso muzikantai ir kuris roko pasaulyje tapo bendrine sąvoka.
+Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka. Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“. Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 
 ## Pavadinimai šaltiniuose
 
@@ -52,7 +52,7 @@ Nenurodyta
 <a id="claim-t-45488"></a>
 - t-001
   global_id: t-45488
-  teiginys: 'Tony Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
+  teiginys: 'Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-002
 
@@ -99,7 +99,7 @@ Nenurodyta
     - t-003
 
 - c-002
-  santrauka: 'Tony Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
+  santrauka: 'Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-

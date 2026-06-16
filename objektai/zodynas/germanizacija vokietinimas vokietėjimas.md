@@ -13,26 +13,19 @@ tags:
 
 ## Santrauka
 
-Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.; pagaliau pati germanizacijos politika M. Vokietėjimas ir vokietinimas nebuvo visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.
+Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, todėl ji nespėjo suvokietinti visų lietuvių.
 
 ## Teiginiai
-
-<a id="claim-t-70147"></a>
-- t-001
-  global_id: t-70147
-  teiginys: 'Vokietėjimas ir vokietinimas nebuvo visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-70148"></a>
-- t-002
+- t-001
   global_id: t-70148
   teiginys: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, todėl ji nespėjo suvokietinti visų lietuvių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, todėl ji nespėjo suvokietinti visų lietuvių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,29 +38,11 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be
-    to, jie turėjo rūpintis susilyginti su proteguojamuoju valstiečių
-    kolonistų sluoksniu; todėl, tik panaikinus baudžiavą, padaugėjo
-    mišrųjų lietuvių vokiečių vedybų, atsirado mišrųjų šeimų, kuriose
-    greit būdavo pamirštama lietuvių kalba.
-    **Karalius ir lietuviai.** Vokietėjimas ir vokietinimas nebuvo
-    visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus
-
-
-    pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos
-    vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

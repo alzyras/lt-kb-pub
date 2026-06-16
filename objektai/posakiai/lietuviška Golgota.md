@@ -58,6 +58,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/daiktai/Kryžių kalno kryžiai]]
 - [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]

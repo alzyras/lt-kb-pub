@@ -11,20 +11,20 @@ date_start: '1793'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
+  - 'XXI'
 tags:
   - ivykis
   - karalius
   - seimas
   - sutartis
-amziai:
-  - 'XVIII'
-  - 'XXI'
 ---
 # Antrasis Respublikos padalinimas (1793 m.)
 
 ## Santrauka
 
-Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Brandenburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vieną plotą, bet net išlygintos ir labai praplėstos jos sienos. Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
+1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos. Po 1793 m. okupacijų Rusijai ir Prūsijai reikėjo gauti karaliaus bei seimo padalinimo patvirtinimą ir sudaryti naują taikos sutartį.
 
 ## Laikotarpis ir datos
 
@@ -43,7 +43,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66451"></a>
 - t-001
   global_id: t-66451
@@ -51,22 +50,8 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-66452"></a>
-- t-002
-  global_id: t-66452
-  teiginys: '1793 m. dalybų sutartimi Prūsijai turėjo atitekti dideli Lenkijos plotai tarp abiejų Prūsų karalystės dalių.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-66453"></a>
-- t-003
-  global_id: t-66453
-  teiginys: 'Po 1793 m. okupacijų Rusijai ir Prūsijai reikėjo gauti karaliaus bei seimo padalinimo patvirtinimą ir sudaryti naują taikos sutartį.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -87,43 +72,9 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusija sau tenkančias žemes tuo metu jau buvo užėmusi; Prū-
-    sija savąsias irgi tuojau okupavo. Tuomet, kaip ir 1772 m., iš
-    karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
-    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
-    Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl 1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
-    tartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai,
-    esantieji tarp abiejų Prūsų karalystės dalių. Tuo būdu prieš
-    pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Bran-
-    denburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vie-
-    ną plotą, bet net išlygintos ir labai praplėstos jos sienos. Rusijai
-    pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lie-
-    tuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus,
-    Naugarduko ir Brastos vaivadijų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Gardino seimas]]

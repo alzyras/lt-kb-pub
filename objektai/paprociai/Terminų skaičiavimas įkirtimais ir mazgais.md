@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad štai dėl to, kai, norėdami tesėti tarp savęs ar su svetimaisiais sudarytą sandėrį ar sutartį, susikalba dėl vienokio ar kitokio dienų skaičiaus, jie paprastai, šitai padarę, pirmąją dieną įkerta kokį ženklą į medį arba užmezga mazgą apyvaruosė ar juostoje.. Dusburgietis teigia, kad 214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.
+214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.
 
 ## Laikotarpis ir datos
 
@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-62718"></a>
 - t-001
   global_id: t-62718
-  teiginys: 'Dusburgietis teigia, kad 214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
+  teiginys: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Nenurodyta
   statusas: verified
 
 - c-002
+  santrauka: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva. Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos. 1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų. Lietuvos Didžiosios Kunigaikštijos teritorija, apėmusi ir dabartinę Baltarusiją, ilgainiui pradėta vadinti Lietuva.
 
 ## Teiginiai
 
@@ -79,7 +79,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 <a id="claim-t-184927"></a>
 - t-009
   global_id: t-184927
-  teiginys: 'Kazimieras žiemos viduryje aplankė Baltarusiją, kur Polocke, Vitebske ir Smolenske tvarkė taikos bei karo reikalus.'
+  teiginys: 'Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   pagrindžia:
     - c-007
 
@@ -199,7 +199,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - t-008
 
 - c-007
-  santrauka: 'Kazimieras žiemos viduryje aplankė Baltarusiją, kur Polocke, Vitebske ir Smolenske tvarkė taikos bei karo reikalus.'
+  santrauka: 'Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Žiemos viduryje ap­

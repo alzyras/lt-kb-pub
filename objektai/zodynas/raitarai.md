@@ -50,7 +50,6 @@ tags:
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
 - [[objektai/asmenys/Georgas Fridrikas Valdekas]]
-- [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/grupes/Lisovčikai]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]

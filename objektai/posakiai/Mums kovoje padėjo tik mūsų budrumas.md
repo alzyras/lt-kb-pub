@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Ši frazė yra partizanų ištarta savos sėkmės ir išlikimo formulė, susieta su budrumu ir miško pažinimu.
+Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio.
 
 ## Forma
 
@@ -31,13 +31,6 @@ amziai:
 - t-001
   global_id: t-67276
   teiginys: 'Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-67277"></a>
-- t-002
-  global_id: t-67277
-  teiginys: 'Pasakotojas teigė, kad kovoje padėjo budrumas ir geras miško pažinimas.'
   pagrindžia:
     - c-001
 
@@ -55,5 +48,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001

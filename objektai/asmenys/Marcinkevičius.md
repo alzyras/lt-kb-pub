@@ -39,7 +39,6 @@ Marcinkevičių ir dar vieną rusą karininką.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKGB]]
 - [[objektai/asmenys/Bernardas Berensonas]]
 - [[objektai/asmenys/David Baltimore]]

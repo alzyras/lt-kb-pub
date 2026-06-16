@@ -22,21 +22,21 @@ periodo_grupes:
 
 ## Santrauka
 
-O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.
+Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 
 ## Teiginiai
 
 <a id="claim-t-78043"></a>
 - t-001
   global_id: t-78043
-  teiginys: 'Algirdas Julius Greimas šaltinyje minimas kaip Prancūzijoje plačiai žinomas semiotikas.'
+  teiginys: 'Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Algirdas Julius Greimas šaltinyje minimas kaip Prancūzijoje plačiai žinomas semiotikas.'
+  santrauka: 'Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-

@@ -276,7 +276,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/asmenys/Kūnas]]

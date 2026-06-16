@@ -10,14 +10,14 @@ date_start: '1434'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 tags:
   - kunigaikštis
   - pilis
   - pinigai
   - sąvoka
-amziai:
-  - 'XV'
-  - 'XXI'
 ---
 # pastočiai
 
@@ -26,31 +26,34 @@ amziai:
 dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio mokesčio (sidabrinės).
 
 ## Teiginiai
-
 <a id="claim-t-72714"></a>
 - t-001
   global_id: t-72714
-  teiginys: 'Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-72715"></a>
-- t-002
-  global_id: t-72715
   teiginys: 'Atleidimas nuo pastočių ir kitų prievolių nepalengvino bajorų valstiečių būklės.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-72715"></a>
+- t-002
+  global_id: t-72715
+  teiginys: 'Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-72716"></a>
 - t-003
   global_id: t-72716
   teiginys: 'Bajorų valstiečiai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei piniginio mokesčio.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Atleidimas nuo pastočių ir kitų prievolių nepalengvino bajorų valstiečių būklės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
@@ -63,9 +66,11 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
     nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
     kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
     rų savininkams — bajorams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
     - t-002

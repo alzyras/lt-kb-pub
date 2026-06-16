@@ -3,10 +3,6 @@ tipas: zodyno_irasas
 pavadinimas: 'klaipėdiečiai klaipėdiškiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1925 m.'
-date_start: '1925'
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,14 +10,12 @@ tags:
   - kraštas
   - seimas
   - sąvoka
-amziai:
-  - 'XX'
 ---
 # klaipėdiečiai klaipėdiškiai
 
 ## Santrauka
 
-1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai. Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.
+Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų. Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas. Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 
 ## Teiginiai
 
@@ -35,19 +29,12 @@ amziai:
 <a id="claim-t-22187"></a>
 - t-002
   global_id: t-22187
-  teiginys: 'Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius, balsavusius už vokiškas partijas.'
+  teiginys: 'Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-183431"></a>
-- t-003
-  global_id: t-183431
-  teiginys: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183432"></a>
-- t-004
+- t-003
   global_id: t-183432
   teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
   pagrindžia:
@@ -56,6 +43,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos vyriausybė nerado atramos Klaipėdos krašto viduje: krašto
@@ -86,7 +74,6 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-001
 
 - c-003
@@ -105,7 +92,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -113,5 +100,5 @@ amziai:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seimelis]]
-- [[objektai/zodynas/klaipėdiečiai]]
 - [[objektai/zodynas/Klaipėdiškiai]]
+- [[objektai/zodynas/klaipėdiečiai]]

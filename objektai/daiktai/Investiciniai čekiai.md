@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Investiciniai čekiai aprašomi kaip privatizacijos priemonė, kuria buvo įsigyjamas privatizuojamas valstybės turtas. Šaltinis pabrėžia nevienodą pasinaudojimą čekiais ir garantijų stoką juos patikėjusiems asmenims.
+Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių. Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės. Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto.
 
 ## Pavadinimai šaltiniuose
 
@@ -87,15 +87,8 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-75332"></a>
-- t-006
-  global_id: t-75332
-  teiginys: 'Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-75333"></a>
-- t-007
+- t-006
   global_id: t-75333
   teiginys: 'Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi.'
   pagrindžia:
@@ -174,30 +167,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-    - t-003
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos privatizavimo įstatymuose liko galybė spragų, kurios leido
-    privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
-    į privačias rankas perleisti valstybės turtą. Privatizuojamam turtui įsigyti
-    kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta
-    savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
-    nepalikta garantijų investicinius čekius patikėjusiems asmenims. Tuo pa-
-    sinaudojo buvę kolūkių pirmininkai ar tarybinių ūkių direktoriai, suge-
-    bėję per trumpą laiką savo rankose sukaupti didžiulius turtus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
+    - t-003
 
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Privatizacija ir išvalstybinimas]]

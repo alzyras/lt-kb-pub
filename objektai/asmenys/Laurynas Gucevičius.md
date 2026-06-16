@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Laurynas Gucevičius (1753–1798) 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją. Gucevičius, T.
+Laurynas Gucevičius laikomas vienu ryškiausių Lietuvos menininkų, susiejusių savo likimą su krašto likimu. Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ tags:
 <a id="claim-t-19103"></a>
 - t-002
   global_id: t-19103
-  teiginys: 'Žymiausias Lietuvos klasicizmo kūrėjas lietuvis Laurynas Gucevičius (1753–1798) 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.'
+  teiginys: 'Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1769 m. nugriuvo
@@ -71,4 +72,3 @@ tags:
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]
-- [[objektai/ivykiai/Vilniaus katedros bokšto griūtis ir Vilniaus rotušės bokšto pasvirimas]]

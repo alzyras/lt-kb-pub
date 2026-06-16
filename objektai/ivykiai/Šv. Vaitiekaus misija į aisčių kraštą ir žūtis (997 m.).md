@@ -9,16 +9,16 @@ date_start: '997'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - krikštas
 amziai:
   - 'X'
+tags:
+  - krikštas
 ---
 # Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)
 
 ## Santrauka
 
-997 m. vyskupas Vaitiekus, gavęs Lenkų kunigaikščio Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą, tačiau jo misija buvo nesėkminga. Sustojęs šventajame miške, jis buvo nužudytas, o po mirties paskelbtas krikščionybės kankiniu.
+Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse. Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės. Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.
 
 ## Laikotarpis ir datos
 
@@ -41,38 +41,28 @@ Vaitiekus išplaukė iš Lenkijos į aisčių kraštą, Priegliaus žiotyse išl
 Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.
 
 ## Teiginiai
-
-<a id="claim-t-07570"></a>
-- t-001
-  global_id: t-07570
-  teiginys: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-07571"></a>
-- t-002
-  global_id: t-07571
+- t-005
   teiginys: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-07572"></a>
-- t-003
-  global_id: t-07572
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
   teiginys: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-07573"></a>
-- t-004
-  global_id: t-07573
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
   teiginys: 'Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
@@ -80,13 +70,15 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
+    - t-005
 - c-002
+  santrauka: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Išplaukęs Vysla į jūrą,
@@ -94,12 +86,13 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
+    - t-006
 - c-003
   santrauka: 'Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -108,33 +101,18 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet vieną rytą, kai visi trys
-    misijonieriai atlaikė mišias, juos užpuolė vietiniai gyventojai ir
-    nužudė vyskupą Vaitiekų. Pasirodė, kad misijonieriai, nieko neži-
-    nodami, buvo sustoję šventajam miške, kur negalėjo įžengti joks
-    svetimšalis. Pagonys tuo būdu atkeršijo už savo šventovės
-    įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
-    vonus išpirko kunigaikštis Boleslovas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
-- [[objektai/asmenys/Boleslovas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]

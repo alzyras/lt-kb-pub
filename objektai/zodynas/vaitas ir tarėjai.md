@@ -100,7 +100,6 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Duona]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
@@ -108,5 +107,6 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 - [[objektai/zodynas/regula]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]

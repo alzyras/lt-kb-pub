@@ -17,7 +17,7 @@ tags:
 
 ## Santrauka
 
-Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo Žemaičių bajoro Vydimanto duktė; kitame šaltinyje ji siejama su nužudymu Brastoje.
+Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris. Birutė iš jų bus išmokęs skaityti ir rašyti. Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.
 
 ## Teiginiai
 
@@ -73,7 +73,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 <a id="claim-t-184675"></a>
 - t-008
   global_id: t-184675
-  teiginys: 'Kęstutis, sugrįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę.'
+  teiginys: 'Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.'
   pagrindžia:
     - c-007
 
@@ -213,7 +213,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     - t-007
 
 - c-007
-  santrauka: 'Kęstutis, sugrįžęs į Lietuvą, paėmė į žmonas vaidilutę Birutę.'
+  santrauka: 'Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo tarpu lietuviai, išsaugoję likusius
@@ -277,10 +277,12 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/žygūnai]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
 - [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
 - [[objektai/autoriai/Józef Wolff]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
 - [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
 - [[objektai/grupes/Lietuvos partizanų Vyriausioji vadovybė]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]

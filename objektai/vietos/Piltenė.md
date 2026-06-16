@@ -10,55 +10,33 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - pilis
   - vieta
   - vyskupas
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Piltenė
 
 ## Santrauka
 
-Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos (Eželio) vyskupystę.
+Piltene vadintos buvusios Kuršo vyskupystės žemės.
 
 ## Teiginiai
-
 <a id="claim-t-43827"></a>
 - t-001
   global_id: t-43827
   teiginys: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-43828"></a>
-- t-002
-  global_id: t-43828
-  teiginys: 'Danai tuo metu turėjo buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos vyskupystę.'
-  pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
-    klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
-    Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
-    kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
-    Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
-    tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
-    dalis teko Lietuvai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visai Livonijai bu-
@@ -72,8 +50,10 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

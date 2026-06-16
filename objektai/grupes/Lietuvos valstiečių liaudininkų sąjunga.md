@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP). Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė – valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tautinių mažumų atstovai Seime. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M.
+1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją. Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo. Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
 
 ## Teiginiai
 
 <a id="claim-t-101466"></a>
 - t-001
   global_id: t-101466
-  teiginys: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
+  teiginys: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją.'
   pagrindžia:
     - c-002
 
@@ -132,7 +132,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-004
 
 - c-002
-  santrauka: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
+  santrauka: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O čia dar po kie-
@@ -257,14 +257,11 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Mykolas Sleževičius]]

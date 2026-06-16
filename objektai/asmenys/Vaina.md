@@ -12,27 +12,28 @@ tags:
 
 ## Santrauka
 
-Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husarams buvo pasiųstas pastiprinimas — kelios kuršiečių reitarų kuopos.
+V. Vainos kavalerija atakavo priešo pėstininkus centre, kai J. K. Chodkevičius įsakė pulti švedų rikiuotei praradus darnumą. Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.
 
 ## Teiginiai
 
 <a id="claim-t-40498"></a>
 - t-001
   global_id: t-40498
-  teiginys: 'V. Vainos kavalerija atakavo švedų pėstininkus centre.'
+  teiginys: 'V. Vainos kavalerija atakavo priešo pėstininkus centre, kai J. K. Chodkevičius įsakė pulti švedų rikiuotei praradus darnumą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-40499"></a>
 - t-002
   global_id: t-40499
-  teiginys: 'Rotmistro A. Vainos husarams buvo pasiųstas pastiprinimas – kelios kuršiečių reitarų kuopos.'
+  teiginys: 'Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Vainos kavalerija atakavo priešo pėstininkus centre, kai J. K. Chodkevičius įsakė pulti švedų rikiuotei praradus darnumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ J.K. Chodkevičius, pastebėjęs, kad švedų
@@ -46,6 +47,7 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
     - t-001
 
 - c-002
+  santrauka: 'Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos
@@ -70,3 +72,4 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/grupes/Chodkevičiai]]

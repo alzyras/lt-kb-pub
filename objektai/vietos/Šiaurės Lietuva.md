@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-“LIETUVOS asies Mūšio priešistorė Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas - bermontininkai. Bermontininkų rankose atsidūrė Šiaurės Lietuva, palaipsniui judėdami į pietus bermontininkai pasiekė net Raseinius.
+Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius. Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai. Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
 
 ## Teiginiai
 
@@ -29,20 +29,21 @@ tags:
 <a id="claim-t-80580"></a>
 - t-002
   global_id: t-80580
-  teiginys: 'Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Baltijos valstybių priešas – bermontininkai.'
+  teiginys: 'Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-80581"></a>
 - t-003
   global_id: t-80581
-  teiginys: 'Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus jie pasiekė net Raseinius.'
+  teiginys: 'Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     “LIETUVOS

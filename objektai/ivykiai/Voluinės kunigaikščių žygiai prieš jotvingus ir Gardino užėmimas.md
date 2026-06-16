@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną. Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.
+Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną.
 
 ## Laikotarpis ir datos
 
@@ -34,40 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66982"></a>
+<a id="claim-t-66983"></a>
 - t-001
-  global_id: t-66982
-  teiginys: 'Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.'
+  global_id: t-66983
+  teiginys: 'Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66983"></a>
-- t-002
-  global_id: t-66983
-  teiginys: 'Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
-    atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
-    būt, bus turėjęs kitą vardą). Tuo būdu XIII amž. pradžioje, kai
-    Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikš-
-    tijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose. Mer-
-    kinė čia buvo kraštutinė didesnioji lietuvių pilis, nors jotvingų
-    sodybos dar toli nuėjo į pietus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų kovų, XIII amž. pra-
@@ -79,20 +57,17 @@ Nenurodyta
     Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
     atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
     būt, bus turėjęs kitą vardą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Jotvingai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigaikštija]]

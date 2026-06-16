@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija. Sutartis buvo sudaryta 1325 m.; Ivinskis pabrėžia, kad sąjungininkai ją sutvirtino Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos vedybomis, o 1326 m. sąjunga virto karine pagalba prieš ordiną.
+Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis. 1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą. 1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo.
 
 ## Laikotarpis ir datos
 
@@ -33,7 +33,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66537"></a>
 - t-001
   global_id: t-66537
@@ -44,34 +43,24 @@ Nenurodyta
 <a id="claim-t-66538"></a>
 - t-002
   global_id: t-66538
-  teiginys: '1326 m. Gediminas talkininkavo Lokietkai, pasiųsdamas 1200 vyrų, ir sąjungininkai palaikė vienas kitą kovoje prieš ordiną.'
+  teiginys: '1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-66539"></a>
-- t-003
-  global_id: t-66539
-  teiginys: 'Gediminas taip pat buvo pirmasis, kuris prieš kryžiuočius sudarė sąjungą su Lenkija.'
-  pagrindžia:
-    - c-006
-    - c-005
-
-<a id="claim-t-66540"></a>
-- t-004
-  global_id: t-66540
-  teiginys: '1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-66541"></a>
-- t-005
+- t-004
   global_id: t-66541
   teiginys: '1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis.'
   pagrindžia:
     - c-001
+- t-005
+  teiginys: '1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -86,9 +75,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-
+    - t-004
 - c-002
+  santrauka: '1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo
@@ -103,7 +92,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -121,7 +109,6 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-001
-
 - c-004
   santrauka: '1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -143,25 +130,13 @@ Nenurodyta
     kijos karaliaus Kazi-
     miero Didžiojo, savo
     dukterį Aldoną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gediminas taip pat buvo pirmasis, kuris
-    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
-    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
-    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
-    sūnų bei dukterų vedybomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -170,8 +145,6 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
@@ -179,5 +152,4 @@ Nenurodyta
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Lokietka]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]

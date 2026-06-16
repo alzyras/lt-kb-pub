@@ -20,7 +20,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
+J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje. J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu. J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 
 ## Teiginiai
 
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 <a id="claim-t-60512"></a>
 - t-006
   global_id: t-60512
-  teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
+  teiginys: 'J. Powierskio darbai nurodyti tarp literatūros apie Romovę arba Romuvą.'
   pagrindžia:
     - c-002
 
@@ -99,6 +99,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - t-004
 
 - c-002
+  santrauka: 'J. Powierskio darbai nurodyti tarp literatūros apie Romovę arba Romuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
@@ -201,7 +202,6 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Šventasis ąžuolas]]
 - [[objektai/zodynas/žygis]]

@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -30,7 +31,7 @@ amziai:
 
 ## Santrauka
 
-Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse. Žemaičiai yra pagrindinis ordino karinis tikslas. Kituose šaltiniuose jie rodomi kaip savarankiškumą išlaikanti bendruomenė, anksti pradėjusi intensyvius karo žygius prieš vokiečius, taiką tvirtinusi delnų sudaužymu ir palaikiusi prekybinius ryšius su rygiečiais. Daukanto tekste jie dar aiškinami kaip pajūrių arba žemai gyvenantys žmonės, Perūną vadinę Kūrėju, žinyčiose nestatę savo dievų paveikslų ir motinų išlaikyta sena kalba besididžiuojanti bendruomenė.
+Žemaičiai, anksčiau neturėję teisės prekiauti su aukštaičiais, vėliau šią teisę atgavo. Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną. 1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo dvasininkus vesti derybas su kryžiuočiais, atstovaujant žemaičiams.
 
 ## Teiginiai
 
@@ -39,448 +40,393 @@ amziai:
   global_id: t-176115
   teiginys: 'Žemaičiai, anksčiau neturėję teisės prekiauti su aukštaičiais, vėliau šią teisę atgavo.'
   pagrindžia:
-    - c-040
+    - c-034
 
 <a id="claim-t-176116"></a>
 - t-002
   global_id: t-176116
   teiginys: 'Zenonas Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir Mindaugo karines pajėgas prieš Ordiną.'
   pagrindžia:
-    - c-036
+    - c-032
 
 <a id="claim-t-176117"></a>
 - t-003
   global_id: t-176117
   teiginys: '1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo dvasininkus vesti derybas su kryžiuočiais, atstovaujant žemaičiams.'
   pagrindžia:
-    - c-028
+    - c-024
 
 <a id="claim-t-176119"></a>
 - t-004
   global_id: t-176119
   teiginys: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.'
   pagrindžia:
-    - c-038
+    - c-033
 
 <a id="claim-t-176120"></a>
 - t-005
   global_id: t-176120
   teiginys: 'Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.'
   pagrindžia:
-    - c-006
-    - c-007
+    - c-003
+    - c-004
 
 <a id="claim-t-176121"></a>
 - t-006
   global_id: t-176121
   teiginys: 'Livonijos kryžiuočiai po Žemaičių teriojimo pasirodė Jogailos pusėje prie Trakų.'
   pagrindžia:
-    - c-008
+    - c-005
 
 <a id="claim-t-176122"></a>
 - t-007
   global_id: t-176122
-  teiginys: '1381 m. rugpjūčio 3 d. Kęstučiui, Vytautui ir Liubartui atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
+  teiginys: 'Livonijos kryžiuočiai pasirodė Jogailos pusėje prie Trakų po Žemaičių teriojimo.'
   pagrindžia:
-    - c-008
+    - c-005
 
 <a id="claim-t-176123"></a>
 - t-008
   global_id: t-176123
   teiginys: 'Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.'
   pagrindžia:
-    - c-024
+    - c-020
 
 <a id="claim-t-176124"></a>
 - t-009
   global_id: t-176124
   teiginys: 'Vytautas, būdamas Kęstučio sūnus, turėjo didelių simpatijų Žemaičiuose ir Lietuvoje.'
   pagrindžia:
-    - c-010
+    - c-007
 
 <a id="claim-t-176125"></a>
 - t-010
   global_id: t-176125
   teiginys: 'Žemaičiai turėjo keletą savo kunigaikščių.'
   pagrindžia:
-    - c-045
+    - c-038
 
 <a id="claim-t-176126"></a>
 - t-011
   global_id: t-176126
-  teiginys: 'Žemaičiai atlaikė 1236 m. Saulės mūšį, o 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
-  pagrindžia:
-    - c-021
-
-<a id="claim-t-176127"></a>
-- t-012
-  global_id: t-176127
-  teiginys: 'Žemaičiai gyveno dabartinėje savo vietoje, Klaipėdos krašte ir Kuršių marių pakrantėse.'
-  pagrindžia:
-    - c-042
-
-<a id="claim-t-176128"></a>
-- t-013
-  global_id: t-176128
-  teiginys: 'Racionžo taikoje Vytautas pažadėjo metus neleisti pirkliams prekiauti su Žemaičiais ir įvežti jiems druskos, javų bei geležies.'
-  pagrindžia:
-    - c-011
-
-<a id="claim-t-176130"></a>
-- t-014
-  global_id: t-176130
-  teiginys: 'Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.'
-  pagrindžia:
-    - c-033
-
-<a id="claim-t-176131"></a>
-- t-015
-  global_id: t-176131
-  teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.'
-  pagrindžia:
-    - c-044
-
-<a id="claim-t-176132"></a>
-- t-016
-  global_id: t-176132
-  teiginys: 'Atgavus Žemaičių žemę, karalius ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.'
-  pagrindžia:
-    - c-014
-
-<a id="claim-t-176133"></a>
-- t-017
-  global_id: t-176133
-  teiginys: 'Manoma, kad Lietuvos valdovai žemaičių gyvenamose valstybės pakraščių teritorijose įkurdino ištikimus žmones iš Lietuvos.'
-  pagrindžia:
-    - c-025
-
-<a id="claim-t-176134"></a>
-- t-018
-  global_id: t-176134
-  teiginys: 'Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.'
-  pagrindžia:
-    - c-013
-
-<a id="claim-t-176135"></a>
-- t-019
-  global_id: t-176135
-  teiginys: 'Dusburgietis teigia, kad žemaičių senovė.—Kaunas—Marijampolė, 1928.'
-  pagrindžia:
-    - c-041
-
-<a id="claim-t-176137"></a>
-- t-020
-  global_id: t-176137
-  teiginys: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-176138"></a>
-- t-021
-  global_id: t-176138
-  teiginys: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.'
-  pagrindžia:
-    - c-019
-
-<a id="claim-t-176139"></a>
-- t-022
-  global_id: t-176139
-  teiginys: 'Žemaičiuose prieš ordiną buvo pastatyta daug ginamųjų pilių, tarp jų Veliuona, Kolainiai ir Bisėnai.'
-  pagrindžia:
-    - c-039
-
-<a id="claim-t-176140"></a>
-- t-023
-  global_id: t-176140
-  teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir nužudė apie 70 žmonių.'
-  pagrindžia:
-    - c-027
-
-<a id="claim-t-176141"></a>
-- t-024
-  global_id: t-176141
-  teiginys: 'Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.'
-  pagrindžia:
-    - c-015
-
-<a id="claim-t-176143"></a>
-- t-025
-  global_id: t-176143
-  teiginys: '1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.'
-  pagrindžia:
-    - c-029
-    - c-030
-    - c-031
-
-<a id="claim-t-176145"></a>
-- t-026
-  global_id: t-176145
-  teiginys: '1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.'
-  pagrindžia:
-    - c-022
-
-<a id="claim-t-176146"></a>
-- t-027
-  global_id: t-176146
-  teiginys: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis sąlygų ir padėjo Ordinui pavergti nepasiduodančius žemaičius.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-176147"></a>
-- t-028
-  global_id: t-176147
-  teiginys: 'Po Torno taikos ginčijamų sienų ir žemių klausimų centre buvo Žemaičiai ir didžiosios Sūduvos girios pasidalijimas.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-176148"></a>
-- t-029
-  global_id: t-176148
-  teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.'
-  pagrindžia:
-    - c-016
-
-<a id="claim-t-176150"></a>
-- t-031
-  global_id: t-176150
-  teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai miške iš pasalų apsupo atsitraukiančią kariauną ir užvertė kelią medžiais.'
-  pagrindžia:
-    - c-032
-
-<a id="claim-t-176151"></a>
-- t-032
-  global_id: t-176151
-  teiginys: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
-  pagrindžia:
-    - c-037
-
-<a id="claim-t-176152"></a>
-- t-033
-  global_id: t-176152
-  teiginys: 'Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  teiginys: '1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   pagrindžia:
     - c-017
 
-<a id="claim-t-176153"></a>
-- t-034
-  global_id: t-176153
-  teiginys: '1398 m. Gardino preliminariąja sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pažadėjo padėti statyti pilis.'
+<a id="claim-t-176128"></a>
+- t-012
+  global_id: t-176128
+  teiginys: 'Racionžo taikoje Vytautas pažadėjo metus neleisti pirkliams prekiauti su Žemaičiais ir įvežti jiems druskos, javų bei geležies.'
   pagrindžia:
-    - c-033
+    - c-008
 
-<a id="claim-t-176154"></a>
-- t-035
-  global_id: t-176154
-  teiginys: 'Vytautas pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti į jį druskos, javų bei geležies.'
+<a id="claim-t-176130"></a>
+- t-013
+  global_id: t-176130
+  teiginys: 'Gardino preliminarine sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo padėti statyti pilis.'
   pagrindžia:
-    - c-011
+    - c-029
 
-<a id="claim-t-176155"></a>
-- t-036
-  global_id: t-176155
-  teiginys: 'Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.'
+<a id="claim-t-176131"></a>
+- t-014
+  global_id: t-176131
+  teiginys: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.'
   pagrindžia:
-    - c-043
+    - c-037
 
-<a id="claim-t-176156"></a>
-- t-037
-  global_id: t-176156
-  teiginys: 'Pagal Eiliuotąją Livonijos kroniką, žemaičiai po laimėjimo prašė Treniotos įtikinti Mindaugą grįžti į pagonybę.'
+<a id="claim-t-176132"></a>
+- t-015
+  global_id: t-176132
+  teiginys: 'Atgavus Žemaičių žemę, karalius ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-176133"></a>
+- t-016
+  global_id: t-176133
+  teiginys: 'Manoma, kad Lietuvos valdovai žemaičių gyvenamose valstybės pakraščių teritorijose įkurdino ištikimus žmones iš Lietuvos.'
+  pagrindžia:
+    - c-021
+
+<a id="claim-t-176134"></a>
+- t-017
+  global_id: t-176134
+  teiginys: 'Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.'
   pagrindžia:
     - c-009
 
-<a id="claim-t-176157"></a>
-- t-038
-  global_id: t-176157
-  teiginys: 'Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.'
+<a id="claim-t-176135"></a>
+- t-018
+  global_id: t-176135
+  teiginys: 'Žemaičių senovė.—Kaunas—Marijampolė, 1928.'
   pagrindžia:
-    - c-036
-
-<a id="claim-t-176158"></a>
-- t-039
-  global_id: t-176158
-  teiginys: 'Atgavę Žemaičių žemę, Jogaila ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.'
-  pagrindžia:
-    - c-014
-
-<a id="claim-t-176159"></a>
-- t-040
-  global_id: t-176159
-  teiginys: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
-  pagrindžia:
-    - c-018
     - c-035
 
-<a id="claim-t-176160"></a>
-- t-041
-  global_id: t-176160
-  teiginys: '1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-176161"></a>
-- t-042
-  global_id: t-176161
-  teiginys: 'Ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir sudegino miestą.'
-  pagrindžia:
-    - c-027
-
-<a id="claim-t-176162"></a>
-- t-043
-  global_id: t-176162
-  teiginys: 'Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
-  pagrindžia:
-    - c-023
-
-<a id="claim-t-176163"></a>
-- t-044
-  global_id: t-176163
-  teiginys: 'Žemaičių kunigaikščiai kovose su kryžiuočiais naudojosi didžiojo kunigaikščio parama, bet menkai paisė jo vyriausios valdžios.'
-  pagrindžia:
-    - c-034
-
-<a id="claim-t-176164"></a>
-- t-045
-  global_id: t-176164
-  teiginys: 'Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.'
+<a id="claim-t-176138"></a>
+- t-019
+  global_id: t-176138
+  teiginys: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.'
   pagrindžia:
     - c-015
 
-<a id="claim-t-176165"></a>
-- t-046
-  global_id: t-176165
-  teiginys: 'Vytauto gretose buvo daug dar nepakrikštytų žemaičių ir lietuvių, nes žemaičiai linko prie Birutės sūnaus Vytauto.'
+<a id="claim-t-176140"></a>
+- t-020
+  global_id: t-176140
+  teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir nužudė apie 70 žmonių.'
   pagrindžia:
-    - c-026
+    - c-023
 
-<a id="claim-t-176166"></a>
-- t-047
-  global_id: t-176166
-  teiginys: 'Ordinas siekė nukariauti Žemaičius ir taip sujungti abi savo šakas.'
+<a id="claim-t-176141"></a>
+- t-021
+  global_id: t-176141
+  teiginys: 'Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.'
+  pagrindžia:
+    - c-011
+
+<a id="claim-t-176143"></a>
+- t-022
+  global_id: t-176143
+  teiginys: '1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.'
+  pagrindžia:
+    - c-025
+    - c-026
+    - c-027
+
+<a id="claim-t-176145"></a>
+- t-023
+  global_id: t-176145
+  teiginys: '1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.'
+  pagrindžia:
+    - c-018
+
+<a id="claim-t-176147"></a>
+- t-024
+  global_id: t-176147
+  teiginys: 'Po Torno taikos ginčijamų sienų ir žemių klausimų centre buvo Žemaičiai ir didžiosios Sūduvos girios pasidalijimas.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-176148"></a>
+- t-025
+  global_id: t-176148
+  teiginys: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu.'
   pagrindžia:
     - c-012
 
-<a id="claim-t-176167"></a>
-- t-048
-  global_id: t-176167
-  teiginys: 'Vytautas turėjo didelių simpatijų Žemaičiuose ir Lietuvoje, todėl buvo laikomas galinčiu įvesti krašte tvarką ir ramybę.'
+<a id="claim-t-176150"></a>
+- t-027
+  global_id: t-176150
+  teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai miške iš pasalų apsupo atsitraukiančią kariauną ir užvertė kelią medžiais.'
   pagrindžia:
-    - c-020
+    - c-028
 
-<a id="claim-t-176168"></a>
-- t-049
-  global_id: t-176168
-  teiginys: 'Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi.'
+<a id="claim-t-176152"></a>
+- t-028
+  global_id: t-176152
+  teiginys: 'Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  pagrindžia:
+    - c-013
+
+<a id="claim-t-176153"></a>
+- t-029
+  global_id: t-176153
+  teiginys: '1398 m. Gardino preliminariąja sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pažadėjo padėti statyti pilis.'
+  pagrindžia:
+    - c-029
+
+<a id="claim-t-176154"></a>
+- t-030
+  global_id: t-176154
+  teiginys: 'Vytautas pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti į jį druskos, javų bei geležies.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-176155"></a>
+- t-031
+  global_id: t-176155
+  teiginys: 'Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.'
+  pagrindžia:
+    - c-036
+
+<a id="claim-t-176156"></a>
+- t-032
+  global_id: t-176156
+  teiginys: 'Pagal Eiliuotąją Livonijos kroniką, žemaičiai po laimėjimo prašė Treniotos įtikinti Mindaugą grįžti į pagonybę.'
+  pagrindžia:
+    - c-006
+
+<a id="claim-t-176157"></a>
+- t-033
+  global_id: t-176157
+  teiginys: 'Z. Ivinskis 4000 lietuvių pajėgas aiškino kaip jungtines žemaičių ir karaliaus Mindaugo karines pajėgas prieš Ordiną.'
+  pagrindžia:
+    - c-032
+
+<a id="claim-t-176158"></a>
+- t-034
+  global_id: t-176158
+  teiginys: 'Atgavę Žemaičių žemę, Jogaila ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-176159"></a>
+- t-035
+  global_id: t-176159
+  teiginys: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
+  pagrindžia:
+    - c-014
+    - c-031
+
+<a id="claim-t-176160"></a>
+- t-036
+  global_id: t-176160
+  teiginys: '1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.'
   pagrindžia:
     - c-002
 
+<a id="claim-t-176161"></a>
+- t-037
+  global_id: t-176161
+  teiginys: 'Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir jį sudegino.'
+  pagrindžia:
+    - c-023
+
+<a id="claim-t-176162"></a>
+- t-038
+  global_id: t-176162
+  teiginys: 'Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
+  pagrindžia:
+    - c-019
+
+<a id="claim-t-176163"></a>
+- t-039
+  global_id: t-176163
+  teiginys: 'Žemaičių kunigaikščiai kovose su kryžiuočiais naudojosi didžiojo kunigaikščio parama, bet menkai paisė jo vyriausios valdžios.'
+  pagrindžia:
+    - c-030
+
+<a id="claim-t-176164"></a>
+- t-040
+  global_id: t-176164
+  teiginys: 'Cituojamame aiškinime žemaičiai Lietuvą vadino Auxtote, nes ji laikyta aukštesne žeme už Žemaitiją.'
+  pagrindžia:
+    - c-011
+
+<a id="claim-t-176165"></a>
+- t-041
+  global_id: t-176165
+  teiginys: 'Vytauto gretose buvo daug dar nepakrikštytų žemaičių ir lietuvių, nes žemaičiai linko prie Birutės sūnaus Vytauto.'
+  pagrindžia:
+    - c-022
+
+<a id="claim-t-176167"></a>
+- t-042
+  global_id: t-176167
+  teiginys: 'Vytautas turėjo didelių simpatijų Žemaičiuose ir Lietuvoje, todėl buvo laikomas galinčiu įvesti krašte tvarką ir ramybę.'
+  pagrindžia:
+    - c-016
+
 <a id="claim-t-183907"></a>
-- t-052
+- t-045
   global_id: t-183907
   teiginys: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.'
   pagrindžia:
-    - c-047
+    - c-040
 
 <a id="claim-t-184591"></a>
-- t-053
+- t-046
   global_id: t-184591
   teiginys: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
   pagrindžia:
-    - c-048
+    - c-041
 
 <a id="claim-t-184592"></a>
-- t-054
+- t-047
   global_id: t-184592
   teiginys: 'Staigi grėsmė išjudino kuršius, žemaičius ir lietuvius, kurie pirmajame susidūrime sutriuškino krikščionių karius.'
   pagrindžia:
-    - c-049
+    - c-042
 
 <a id="claim-t-184593"></a>
-- t-055
+- t-048
   global_id: t-184593
-  teiginys: 'Sutelkus didelę kuršių ir žemaičių kariuomenę, buvo nusiaubti dideli Livonijos plotai.'
+  teiginys: 'Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.'
   pagrindžia:
-    - c-050
+    - c-043
 
 <a id="claim-t-184594"></a>
-- t-056
+- t-049
   global_id: t-184594
   teiginys: 'Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.'
   pagrindžia:
-    - c-051
+    - c-044
 
 <a id="claim-t-184595"></a>
-- t-057
+- t-050
   global_id: t-184595
-  teiginys: 'Kryžiuočių magistras Henrikas reikalavo, kad Germantas prisiektų, jog lietuviai ir žemaičiai nesikiš į prūsų karą.'
+  teiginys: 'Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą.'
   pagrindžia:
-    - c-052
+    - c-045
 
 <a id="claim-t-184596"></a>
-- t-058
+- t-051
   global_id: t-184596
   teiginys: 'Prūsai ir žemaičiai iš miškų užpuolė grobio ieškojusius kryžiuočius, kai šie plėšikavo nepasirūpinę apsauga.'
   pagrindžia:
-    - c-053
+    - c-046
 
 <a id="claim-t-184597"></a>
-- t-059
+- t-052
   global_id: t-184597
   teiginys: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.'
   pagrindžia:
-    - c-054
+    - c-047
+
+<a id="claim-t-187752"></a>
+- t-053
+  global_id: t-187752
+  teiginys: 'Vykintas sidabru ir įvairiomis dovanomis palenkė jotvingius ir pusę žemaičių Danieliaus ir Vasilkos naudai.'
+  pagrindžia:
+    - c-048
+
+<a id="claim-t-187753"></a>
+- t-054
+  global_id: t-187753
+  teiginys: 'Tautvilas Žemaitijoje pas Vykintą pasitelkė jotvingius, žemaičius ir Danieliaus pagalbą ir išžygiavo prieš Mindaugą.'
+  pagrindžia:
+    - c-049
+
+<a id="claim-t-187754"></a>
+- t-055
+  global_id: t-187754
+  teiginys: 'Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.'
+  pagrindžia:
+    - c-050
+
+<a id="claim-t-187755"></a>
+- t-056
+  global_id: t-187755
+  teiginys: 'Žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje.'
+  pagrindžia:
+    - c-051
+
+<a id="claim-t-187756"></a>
+- t-057
+  global_id: t-187756
+  teiginys: 'Žemaičiai Palangoje nuo kopų akmenimis sumušė Prūsijos ir Livonijos vokiečių kariuomenę.'
+  pagrindžia:
+    - c-052
+
+<a id="claim-t-187757"></a>
+- t-058
+  global_id: t-187757
+  teiginys: 'Kęstutis, siekdamas pagalbos prieš Jogailą, nujojo į Žemaičius ir su žemaičiais atėjo prie Trakų.'
+  pagrindžia:
+    - c-053
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis sąlygų ir padėjo Ordinui pavergti nepasiduodančius žemaičius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Žemaičių sukilimas 1409 m.** Po Racionžo taikos Vytautas
-    dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pa-
-    vergti nepasiduodančius Žemaičius. Bet po sėkmingo žygio į
-    Smolenską jis vėl ėmė ieškoti progos Žemaičiams atsiimti. Ordi-
-    nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių
-    prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
-    vežti į Pavyslį, kaip įkaitai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-027
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordino valdžia buvo labai žiauri.
-    Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo
-    apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai
-    saugomi. Dėl viso to žemaičiai tuojau pradėjo nerimauti. Jau
-    1407 m. jie išsiuntinėjo raštus Europos valdovams, skųsdamiesi
-    dėl ordino žiaurumų ir priespaudos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-049
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kitais metais krašte jau
-    buvo pilna Vytauto atsiųstų žmonių, ir bruzdėjimas ėjo atviryn.
-    Tada ordinas ėmė reikalauti, kad Vytautas atsiimtų tuos savo
-    250 žmonių, kuriuos turėjo gauti pagal Racionžo sutartį. Bet
-    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
-    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
-    sulaukė visuotinio sukilimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-020
-
-- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet Torno taika abiem valstybėm nedavė to, ko jos po Žalgirio
@@ -491,9 +437,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-024
 
-- c-005
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pagonys žemaičiai iš pradžių
@@ -505,9 +451,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-036
 
-- c-006
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tiesa, Vok.
@@ -525,7 +471,7 @@ amziai:
   pagrindžia:
     - t-005
 
-- c-007
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip uolesni pagonys už kitus lietuvius, žemaičiai
@@ -540,7 +486,7 @@ amziai:
   pagrindžia:
     - t-005
 
-- c-008
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visas savo
@@ -556,7 +502,7 @@ amziai:
     - t-006
     - t-007
 
-- c-009
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Eiliuotinę Livonijos kroniką, Žemaičiai po šito laimėjimo
@@ -568,9 +514,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
+    - t-032
 
-- c-010
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tik jis, būdamas Kęstučio sūnus ir turė­
@@ -584,7 +530,7 @@ amziai:
   pagrindžia:
     - t-009
 
-- c-011
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau ši sutartis pirk­
@@ -602,23 +548,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
-    - t-013
+    - t-030
+    - t-012
 
-- c-012
-  santrauka: 'Ordinas siekė nukariauti Žemaičius ir taip sujungti abi savo šakas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Svarbiausias dabar ordino tikslas buvo
-    nukariauti Žemaičius ir tuo būdu sujungti abi savo šakas. Anks-
-    čiau Nemuną buvo pasiekęs iš Kuršo ir Livonijos ordinas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-047
-
-- c-013
+- c-009
   santrauka: 'Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -631,9 +564,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-014
+- c-010
   santrauka: 'Atgavus Žemaičių žemę, karalius ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -653,10 +586,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-    - t-039
+    - t-015
+    - t-034
 
-- c-015
+- c-011
   santrauka: 'Cituotame aiškinime žemaičiai laikomi tais pačiais žmonėmis kaip lietuviai, kalbančiais ta pačia kalba.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -686,10 +619,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
-    - t-045
+    - t-021
+    - t-040
 
-- c-016
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau
@@ -717,9 +650,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-025
 
-- c-017
+- c-013
   santrauka: 'Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -734,9 +667,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-028
 
-- c-018
+- c-014
   santrauka: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -750,9 +683,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-035
 
-- c-019
+- c-015
   santrauka: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -766,9 +699,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-019
 
-- c-020
+- c-016
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vienintelis as­
@@ -782,10 +715,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-042
 
-- c-021
-  santrauka: 'Žemaičiai atlaikė 1236 m. Saulės mūšį, o 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
+- c-017
+  santrauka: '1236 m. žemaičiai Saulės mūšyje atlaikė žygį, bet 1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
@@ -802,7 +735,7 @@ amziai:
   pagrindžia:
     - t-011
 
-- c-022
+- c-018
   santrauka: '1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -826,9 +759,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-023
 
-- c-023
+- c-019
   santrauka: 'Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -841,9 +774,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-038
 
-- c-024
+- c-020
   santrauka: 'Žemaičiai buvo viena iš šešių pagrindinių lietuvių tautos atšakų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -876,7 +809,7 @@ amziai:
   pagrindžia:
     - t-008
 
-- c-025
+- c-021
   santrauka: 'Manoma, kad Lietuvos valdovai žemaičių gyvenamose valstybės pakraščių teritorijose įkurdino ištikimus žmones iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -892,9 +825,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-026
+- c-022
   santrauka: 'Vytauto gretose buvo daug dar nepakrikštytų žemaičių ir lietuvių, nes žemaičiai linko prie Birutės sūnaus Vytauto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -949,9 +882,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-041
 
-- c-027
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
@@ -973,10 +906,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
-    - t-023
+    - t-037
+    - t-020
 
-- c-028
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     72
@@ -994,7 +927,7 @@ amziai:
   pagrindžia:
     - t-003
 
-- c-029
+- c-025
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat buvo susitarta
@@ -1013,9 +946,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-022
 
-- c-030
+- c-026
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų dau­
@@ -1028,9 +961,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-022
 
-- c-031
+- c-027
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lie­
@@ -1042,9 +975,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-022
 
-- c-032
+- c-028
   santrauka: 'Prie Strėvos upės Trakų paviete žemaičių būriai miške iš pasalų apsupo atsitraukiančią kariauną ir užvertė kelią medžiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1093,9 +1026,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-027
 
-- c-033
+- c-029
   santrauka: '1398 m. Gardino preliminariąja sutartimi Vytautas atidavė Ordinui Žemaičius iki Nevėžio ir pažadėjo padėti statyti pilis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1108,10 +1041,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
-    - t-014
+    - t-029
+    - t-013
 
-- c-034
+- c-030
   santrauka: 'Žemaičių kunigaikščiai kovose su kryžiuočiais naudojosi didžiojo kunigaikščio parama, bet menkai paisė jo vyriausios valdžios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1127,9 +1060,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-044
+    - t-039
 
-- c-035
+- c-031
   santrauka: '1390 m. gegužės 26 d. trisdešimt žemaičių atstovų pasižadėjo laikytis Vytauto ir su Ordinu sudarė karo bei prekybos sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1144,9 +1077,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-035
 
-- c-036
+- c-032
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pajėgos
@@ -1170,34 +1103,11 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-026
     - t-002
-    - t-038
+    - t-033
 
-- c-037
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Teritorija, kurioje lietuviai gy-
-    veno kurdami valstybę (iš esmės tai šiandieninė Lietuva), ir vadinama
-    etninėmis lietuvių žemėmis. Tačiau dalis etninės Lietuvos yra už šian-
-    dieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus
-    nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-
-    galių ir prūsų teritorijos. Ir tai dėsninga: Lietuvos valstybės formavimo-
-    si branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),
-
-    L I E T U V O S  I S T O R I J A
-    14
-    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
-    antraštinio lapo
-    tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
-    taip pat plėtė savo įtaką į giminingų genčių teritorijas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-032
-
-- c-038
+- c-033
   santrauka: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o prieš Durbės mūšį ir jame mini lietuvius arba pagonis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1223,25 +1133,7 @@ amziai:
   pagrindžia:
     - t-004
 
-- c-039
-  santrauka: 'Žemaičiuose prieš ordiną buvo pastatyta daug ginamųjų pilių, tarp jų Veliuona, Kolainiai ir Bisėnai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Žodžiu, šitam laikotarpy Žemaičiai atsidūrė tarp
-    dviejų ordino šakų frontų, tarytum tarp dviejų žiaunų, kurios
-    stengėsi susičiaupti ir juos praryti.
-    Kai ordino pilių tinklas buvo jau nutiestas, ilgą laiką jo
-    nebepajėgė sunaikinti nė visos Lietuvos pajėgos. Bet ir Že-
-    maičiuose prieš ordiną buvo pastatyta daugybė ginamųjų pilių:
-    Veliuona, Kolainiai, Bisėnai ir t.t. Tos Panemunės pilys turėjo
-    saugoti Dubysos upyną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-022
-
-- c-040
+- c-034
   santrauka: 'Žemaičiai, anksčiau neturėję teisės prekiauti su aukštaičiais, vėliau šią teisę atgavo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1255,7 +1147,8 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-041
+- c-035
+  santrauka: 'Žemaičių senovė.—Kaunas—Marijampolė, 1928.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kšivickis L. Žemaičių senovė.—Kaunas—Marijampolė, 1928.
@@ -1263,27 +1156,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
-- c-042
-  santrauka: 'Žemaičiai gyveno dabartinėje savo vietoje, Klaipėdos krašte ir Kuršių marių pakrantėse.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Lietuvių kiltys,** iš kurių yra susiformavusi lietuvių tauta,
-    gyveno į šiaurę ir į rytus nuo prūsų,—maždaug iki dabartinės Lat-
-    vių sienos. Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kurš-
-    marių pakrantėmis, gyveno žemaičiai. Toliau nuo jų, į pietus,
-    kairiajam Nemuno krante, t. y. pietinėje Mažosios Lietuvos da-
-    lyje, dabartiniam Suvalkų krašte, — maždaug nuo Merkinės jau
-    abiejuose Nemuno krantuose iki anapus Naugarduko, Slanimo
-    ir Brastos — gyveno sūduviai, arba jotvingai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-043
+- c-036
   santrauka: 'Pasak Eiliuotinės Livonijos kronikos, po laimėjimo žemaičiai siuntė pasiuntinius pas Mindaugą ir prašė Treniotos jį grąžinti į pagonybę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1299,9 +1174,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-031
 
-- c-044
+- c-037
   santrauka: '1384 m. vasario pradžioje Medininkų, Vangių ir kitų Žemaičių krašto gyventojai pareiškė Ordinui paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1316,9 +1191,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-045
+- c-038
   santrauka: 'Žemaičiai turėjo keletą savo kunigaikščių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1331,10 +1206,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-050
     - t-010
+    - t-043
 
-- c-046
+- c-039
   santrauka: 'Paaštrėjus Vytauto ir Ordino santykiams, Vytautas parėmė žemaičius, o žemaičiai išvarė kryžiuočius iš savo krašto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1347,9 +1222,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-044
 
-- c-047
+- c-040
   santrauka: 'Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1363,9 +1238,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-045
 
-- c-048
+- c-041
   santrauka: 'Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1397,9 +1272,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-053
+    - t-046
 
-- c-049
+- c-042
   santrauka: 'Staigi grėsmė išjudino kuršius, žemaičius ir lietuvius, kurie pirmajame susidūrime sutriuškino krikščionių karius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1419,10 +1294,10 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-054
+    - t-047
 
-- c-050
-  santrauka: 'Sutelkus didelę kuršių ir žemaičių kariuomenę, buvo nusiaubti dideli Livonijos plotai.'
+- c-043
+  santrauka: 'Utenio sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus ir privertė priešą ginti savo kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kitais metais
@@ -1443,9 +1318,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-048
 
-- c-051
+- c-044
   santrauka: 'Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1461,10 +1336,10 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-056
+    - t-049
 
-- c-052
-  santrauka: 'Kryžiuočių magistras Henrikas reikalavo, kad Germantas prisiektų, jog lietuviai ir žemaičiai nesikiš į prūsų karą.'
+- c-045
+  santrauka: 'Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Atrodė, jog kryžiuočiams šį
@@ -1495,9 +1370,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-057
+    - t-050
 
-- c-053
+- c-046
   santrauka: 'Prūsai ir žemaičiai iš miškų užpuolė grobio ieškojusius kryžiuočius, kai šie plėšikavo nepasirūpinę apsauga.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1523,9 +1398,9 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-058
+    - t-051
 
-- c-054
+- c-047
   santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1543,7 +1418,118 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-059
+    - t-052
+
+- c-048
+  santrauka: 'Vykintas sidabru ir įvairiomis dovanomis palenkė jotvingius ir pusę žemaičių Danieliaus ir Vasilkos naudai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O
+    paskui Danielius sumanė su savo broliu ir nusiuntė
+    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
+    damas: „Dabar proga krikščionims prieš pagonis eiti,
+    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
+    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
+    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
+    sidabru ir įvairiomis dovanomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-053
+
+- c-049
+  santrauka: 'Tautvilas Žemaitijoje pas Vykintą pasitelkė jotvingius, žemaičius ir Danieliaus pagalbą ir išžygiavo prieš Mindaugą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-054
+
+- c-050
+  santrauka: 'Kęstutis valdė Trakus ir Žemaičių žemę ir turėjo šešis sūnus.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-055
+
+- c-051
+  santrauka: 'Žemaičiai išžudė Prūsijos vokiečių vietininkus, nebenorėdami būti vokiečių valdžioje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir išvažinėjo savo keliais.
+    Sekančią vasarą žemaičiai išžudė Prūsijos vokiečių
+    vietininkus, nebenorėdami daugiau būti vokiečių val­
+    džioje ,a. Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-056
+
+- c-052
+  santrauka: 'Žemaičiai Palangoje nuo kopų akmenimis sumušė Prūsijos ir Livonijos vokiečių kariuomenę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Prūsijos ir Livonijos vokiečiai ėmė telkti prieš
+    juos kariuomenę Palangoje, norėdami vėl juos pavergti,
+    bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš­
+    mušė tą vokiečių kariuomenę5 . Ir kai nuo kopų vo­
+    kiečius sumušė, atsiuntė pas Vytautą pasiuntinius: jei­
+    gu jis norįs valdyti Žemaičius, tai tegu daugiau jų nie­
+    kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
+    valdovu. Ir Vytautas juos priėmė savo globon 6 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-057
+
+- c-053
+  santrauka: 'Kęstutis, siekdamas pagalbos prieš Jogailą, nujojo į Žemaičius ir su žemaičiais atėjo prie Trakų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-058
 
 ## Ryšiai
 ### Susiję objektai
@@ -1601,7 +1587,6 @@ amziai:
 - [[objektai/grupes/Gotai]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Jotvingai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Karigaila]]
 - [[objektai/asmenys/Krivis]]
@@ -1611,18 +1596,18 @@ amziai:
 - [[objektai/autoriai/L. Kolankowski]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Naugardukiečiai]]
 - [[objektai/grupes/Normanai]]
-- [[objektai/daiktai/Pilys]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/autoriai/Thunmanas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/asmenys/Treniota]]
+- [[objektai/asmenys/Vasilijus]]
+- [[objektai/asmenys/Vasilka]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -1642,12 +1627,14 @@ amziai:
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/pagonys]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/posakiai/savo „karaliaus Vytauto”]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Živinbudas]]
@@ -1667,7 +1654,6 @@ amziai:
 - [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]
 - [[objektai/daiktai/Laivai Memelyje]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]
 - [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.)]]
@@ -1677,19 +1663,21 @@ amziai:
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/zodynas/Szomoyth Auxtote]]
 - [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės]]
-- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
 - [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime]]
 - [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]
 - [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]
+- [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]
 - [[objektai/asmenys/Germantas]]
 - [[objektai/asmenys/Kukovaitis]]
 - [[objektai/asmenys/Linkas]]
-- [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Skirmantas]]
+- [[objektai/asmenys/Tautvilas]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/asmenys/Zenonas]]
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
-- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/ivykiai/Lietuvių ir žemaičių Prūsijos nusiaubimas bei nesėkmingas Europos valdovų žygis į Lietuvą (1342-1343 m.)]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/posakiai/pinklėmis antremti pinkles]]

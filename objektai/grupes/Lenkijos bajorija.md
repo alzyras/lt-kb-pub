@@ -50,8 +50,6 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/zodynas/luomas „tauta“]]
 - [[objektai/zodynas/pacta conventa]]
 - [[objektai/grupes/Lenkų bajorija]]

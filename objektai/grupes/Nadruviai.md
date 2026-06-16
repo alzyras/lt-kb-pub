@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių. Septinta — Nadruva197, kurioje [gyveno] nadruviai. M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-65934"></a>
 - t-002
   global_id: t-65934
-  teiginys: 'Dusburgietis teigia, kad septinta — Nadruva197, kurioje [gyveno] nadruviai.'
+  teiginys: 'Septinta — Nadruva197, kurioje [gyveno] nadruviai.'
   pagrindžia:
     - c-005
 
@@ -54,7 +54,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-65937"></a>
 - t-005
   global_id: t-65937
-  teiginys: 'Dusburgietis teigia, kad viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
+  teiginys: 'Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
   pagrindžia:
     - c-002
 
@@ -83,7 +83,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-65941"></a>
 - t-009
   global_id: t-65941
-  teiginys: 'Dusburgietis teigia, kad katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
+  teiginys: 'Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
   pagrindžia:
     - c-008
 
@@ -111,6 +111,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-006
 
 - c-002
+  santrauka: 'Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aštunta — Skalva198, kurioje [gyveno]
@@ -166,6 +167,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-001
 
 - c-005
+  santrauka: 'Septinta — Nadruva197, kurioje [gyveno] nadruviai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Septinta — Nadruva197, kurioje [gyveno] nadruviai. Aštunta — Skalva198, kurioje [gyveno]
@@ -229,6 +231,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-010
 
 - c-008
+  santrauka: 'Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn. 4, sk. 3, § 2,
@@ -272,7 +275,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Becenbergeris]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/daiktai/Ginklai]]
@@ -309,7 +311,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]
-- [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
 - [[objektai/zodynas/fogtas]]
 - [[objektai/zodynas/lietuvininkai]]
 - [[objektai/zodynas/vakariniai baltai]]

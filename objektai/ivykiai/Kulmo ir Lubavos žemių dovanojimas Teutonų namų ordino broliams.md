@@ -125,7 +125,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]

@@ -71,6 +71,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Albrechtas (Prūsijos hercogas)]]
 - [[objektai/asmenys/P. Speratas]]

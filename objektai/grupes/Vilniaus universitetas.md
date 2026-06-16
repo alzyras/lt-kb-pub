@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu patvirtinta akademija ir universitetas. Iki 1832 m. uždarymo jis buvo pagrindinė Lietuvos mokykla, svarbus kultūros centras ir Rusijos imperijos laikotarpiu Vilniaus švietimo apygardos centras.
+Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba. Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Iki 1832 m. uždarymo Vilniaus universitetas buvo pagrindinė Lietuvos mokykla ir svarbiausias kultūros centras.
 
 ## Pavadinimai šaltiniuose
 
@@ -81,7 +81,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   global_id: t-113355
   teiginys: 'Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-113356"></a>
 - t-005
@@ -123,7 +123,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   global_id: t-113361
   teiginys: 'Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-113363"></a>
 - t-011
@@ -132,61 +132,54 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   pagrindžia:
     - c-005
 
-<a id="claim-t-113364"></a>
-- t-012
-  global_id: t-113364
-  teiginys: 'Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru už etnografinės Lenkijos ribų.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-113365"></a>
-- t-013
+- t-012
   global_id: t-113365
-  teiginys: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
+  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-113366"></a>
-- t-014
+- t-013
   global_id: t-113366
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-113367"></a>
-- t-015
+- t-014
   global_id: t-113367
   teiginys: '1803 m. Vilniaus universitetas reorganizuotas pagal populiarų Europos universitetų modelį ir gavo Imperatoriškojo universiteto statusą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-113368"></a>
-- t-016
+- t-015
   global_id: t-113368
   teiginys: 'Vilniaus universitetas buvo Vilniaus švietimo apygardos, apėmusios prie Rusijos prijungtas buvusios LLV žemes, centras.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-113369"></a>
-- t-017
+- t-016
   global_id: t-113369
   teiginys: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė vylėsi atkurti Vilniaus universitetą.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-113370"></a>
-- t-018
+- t-017
   global_id: t-113370
   teiginys: 'Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-113371"></a>
-- t-019
+- t-018
   global_id: t-113371
   teiginys: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
   pagrindžia:
-    - c-014
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -240,8 +233,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-014
     - t-015
-    - t-016
     - t-007
 
 - c-004
@@ -346,24 +339,9 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
 - c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio,
-    tačiau Aleksandras I nesutiko.
-     Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
-    centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru
-    už etnografinės Lenkijos ribų. Šis laikotarpis bene didžiausio universiteto
-    klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-010
   santrauka: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė vylėsi atkurti Vilniaus universitetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -375,9 +353,9 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-011
+- c-010
   santrauka: 'Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -395,10 +373,10 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-012
-  santrauka: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
+- c-011
+  santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
@@ -416,9 +394,9 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-013
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Varšuvoje valdžios apkaltintas „lenkiškuo­
@@ -440,7 +418,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - t-010
     - t-004
 
-- c-014
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nustatyta, kad vietos bajorai
@@ -455,16 +433,14 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Aleksandras I]]
 - [[objektai/asmenys/Andrius Sniadeckis]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/grupes/Bajorai]]
@@ -481,7 +457,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/autoriai/Lelevelis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Lotynai]]
 - [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/asmenys/Martynas iš Golino]]
@@ -498,9 +473,8 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
-- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
 - [[objektai/asmenys/Horacijus]]

@@ -9,12 +9,12 @@ date_start: '1566'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - grupe
   - seimas
   - sutartis
-amziai:
-  - 'XVI'
 ---
 # Gardino seimas (1566 m.)
 
@@ -23,17 +23,18 @@ amziai:
 Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Livonija pasidarė Lietuvos provincija su kunigaikštystės titulu.
 
 ## Teiginiai
-
 <a id="claim-t-01315"></a>
 - t-001
   global_id: t-01315
   teiginys: '1566 m. Gardino seime sudaryta sutartimi Livonija tapo Lietuvos provincija su kunigaikštystės titulu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1566 m. Gardino seime sudaryta sutartimi Livonija tapo Lietuvos provincija su kunigaikštystės titulu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu tais pat 1566 m. Gardino seime buvo su-
@@ -42,9 +43,11 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
     su visomis Lietuvos provincijomis siųsti į Lietuvos seimą. Len-
     kai be galo buvo pasipiktinę dėl šito lietuvių laimėjimo; jie nuo-
     lat reikalavo, kad Livonija lygia dalia ir jiems priklausytų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

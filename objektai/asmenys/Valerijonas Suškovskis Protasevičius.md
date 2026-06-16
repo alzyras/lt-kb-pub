@@ -55,4 +55,5 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
 ### Susiję objektai
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

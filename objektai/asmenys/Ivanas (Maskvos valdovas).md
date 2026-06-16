@@ -150,10 +150,10 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

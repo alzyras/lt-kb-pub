@@ -19,21 +19,21 @@ amziai:
 
 ## Santrauka
 
-Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kario, kpt. 1945 m. įstojo į partizanų Žebenkšties rinktinę Raseinių rajone.
+1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.
 
 ## Teiginiai
 
 <a id="claim-t-38912"></a>
 - t-001
   global_id: t-38912
-  teiginys: 'Apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
+  teiginys: '1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
+  santrauka: '1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     2% VIRTUKŲ KAUTYNĖS

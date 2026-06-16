@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE LIETUVOJE 293 galėjo skelbtis pasauliui, kad ji jau yra paženklinta kryžiaus ženklu. Hruševskyj, M.
+M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.
 
 ## Teiginiai
 
 <a id="claim-t-30833"></a>
 - t-001
   global_id: t-30833
-  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo Kijevo žemės istoriją iki mongolų laikų.'
+  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos klausimus
@@ -55,3 +56,4 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/kunigaikščiai]]

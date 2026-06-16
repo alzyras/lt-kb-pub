@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: 'Tikslas pateisino priemones.'
+pavadinimas: "Tikslas pateisino priemones."
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -8,11 +8,16 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
+aliases:
+  - '„Tikslas pateisino priemones.“'
+  - 'objektai/posakiai/„Tikslas pateisino priemones.“'
+variantai:
+  - '„Tikslas pateisino priemones.“'
 amziai:
   - 'XIV'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 ---
 # Tikslas pateisino priemones.
 
@@ -25,17 +30,20 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 - Pagrindinė forma: Tikslas pateisino priemones.
 
 ## Teiginiai
-
-<a id="claim-t-67287"></a>
+<a id="claim-t-186418"></a>
 - t-001
-  global_id: t-67287
+  global_id: t-186418
   teiginys: 'Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones.'
   pagrindžia:
     - c-001
     - c-002
-
+<a id="claim-t-186419"></a>
+- t-002
+  global_id: t-186419
+  teiginys: 'Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -49,7 +57,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -67,4 +74,3 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 ### Susiję objektai
 - [[objektai/zodynas/tėviškė]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/posakiai/„Tikslas pateisino priemones.“]]

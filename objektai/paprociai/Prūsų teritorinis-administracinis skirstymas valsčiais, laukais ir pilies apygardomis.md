@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg. Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p.. Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.
+Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą. Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas. Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.
 
 ## Laikotarpis ir datos
 
@@ -63,7 +63,7 @@ Nenurodyta
 <a id="claim-t-59732"></a>
 - t-004
   global_id: t-59732
-  teiginys: 'Prūsų valsčių sudarė pilis ir didelis laukų, pievų bei miškelių plotas su bajorų kaimais ir žemdirbių sodžiais.'
+  teiginys: 'Prūsų valsčių sudarė pilis, dideli laukų, pievų ir miškelių plotai, bajorų sodybos-kaimai ir žemdirbių sodžiai.'
   pagrindžia:
     - c-002
 
@@ -89,7 +89,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Prūsų valsčių sudarė pilis ir didelis laukų, pievų bei miškelių plotas su bajorų kaimais ir žemdirbių sodžiais.'
+  santrauka: 'Prūsų valsčių sudarė pilis, dideli laukų, pievų ir miškelių plotai, bajorų sodybos-kaimai ir žemdirbių sodžiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
@@ -142,8 +142,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/territorium castri pilies apygarda|territorium castri pilies apygarda (pilis)]]
 - [[objektai/zodynas/territorium lant valsčius]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.
+Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių. Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves. Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 
 ## Teiginiai
 
@@ -35,7 +35,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 <a id="claim-t-67763"></a>
 - t-002
   global_id: t-67763
-  teiginys: 'Iki liepos pabaigos lenkai užgrobė Butrimonis ir kitas Lietuvos vietoves.'
+  teiginys: 'Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-001
 
 - c-002
-  santrauka: 'Iki liepos pabaigos lenkai užgrobė Butrimonis ir kitas Lietuvos vietoves.'
+  santrauka: 'Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Dau-
@@ -83,7 +83,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     - t-002
 
 - c-003
-  santrauka: 'Iki liepos pabaigos lenkai užgrobė Butrimonis ir kitas Lietuvos vietoves.'
+  santrauka: 'Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sutelkę

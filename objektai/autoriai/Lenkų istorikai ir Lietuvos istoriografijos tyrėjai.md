@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus Mindaugo laikus^126. Lovmianskis, kuris iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­ mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­ menės ir valstybės pradžią (LowStud). LIETUVOS ISTORIOGRAFIJA 83 dinastija, nuo Gardino kilęs J.
+Po II pasaulinio karo jaunoji lenkų istorikų karta ėmė įžvalgiau ir objektyviau vertinti Lietuvos praeitį. Po II pasaulinio karo J. Ochmańskio ir P. Lossowskio darbai rodė įžvalgesnį jaunosios lenkų istorikų kartos požiūrį į Lietuvos praeitį. J. Latkowskis pirmasis bandė nustatyti Lietuvos valstybės pradžios datą ir moksliškai tyrinėti karaliaus Mindaugo laikus.
 
 ## Teiginiai
 
@@ -101,7 +101,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 <a id="claim-t-179521"></a>
 - t-011
   global_id: t-179521
-  teiginys: 'J. Voigtas veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m.'
+  teiginys: 'J. Voigtas 1827-1838 m. veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m.'
   pagrindžia:
     - c-009
 

@@ -30,38 +30,59 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01875"></a>
 - t-001
   global_id: t-01875
-  teiginys: 'Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.'
+  teiginys: 'Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-01876"></a>
 - t-002
   global_id: t-01876
-  teiginys: 'Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis.'
+  teiginys: 'Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.'
   pagrindžia:
-    - c-003
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-01877"></a>
 - t-003
   global_id: t-01877
   teiginys: 'Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.'
   pagrindžia:
-    - c-002
-
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-01879"></a>
 - t-004
   global_id: t-01879
-  teiginys: 'Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.'
+  teiginys: 'Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    daugelis jų nė neketino jo klausyti. Mat, kiekvienas Algirdo sū-
+    nus jautėsi Vilniaus sričiai turįs daugiau teisių, negu Vytautas.
+    Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi
+    nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
+    iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
+    bajorai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Vytautas apsupo Švitrigailą didele kariuomene, suėmė jį ir išsiuntė Jogailai į Krokuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia Vytautas suvaldė nepaklusnų jauniausiąjį Jogai-
@@ -73,13 +94,15 @@ Nenurodyta
     Kaributas, kuris valdė Naugardą Sieverską. Iš Liubarto sūnaus,
     Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimi-
     ras, o iš Karijoto sūnaus, Teodoro, — Podolė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
-- c-002
+    - t-002
+- c-003
+  santrauka: 'Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Netrukus neteko savo srities ir Kijevo kunigaikštis, Jo-
@@ -88,13 +111,14 @@ Nenurodyta
     ir ten paskyrė savo vietininką — Alšėnų kunigaikštį Joną Algi-
     mantaitį. Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
     viena iš stambiausiųjų kunigaikštysčių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-- c-003
+- c-004
   santrauka: 'Pašalinus Karijotaitį, Podolė padalyta į tris dalis, o tiesioginei Vytauto valdžiai atiteko tik rytinė Podolės dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -106,24 +130,11 @@ Nenurodyta
     kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    daugelis jų nė neketino jo klausyti. Mat, kiekvienas Algirdo sū-
-    nus jautėsi Vilniaus sričiai turįs daugiau teisių, negu Vytautas.
-    Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi
-    nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
-    iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
-    bajorai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 
@@ -138,4 +149,3 @@ Nenurodyta
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/lenas]]

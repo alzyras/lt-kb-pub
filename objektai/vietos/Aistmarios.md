@@ -11,11 +11,11 @@ date_start: '1237'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Aistmarios
 
@@ -24,7 +24,6 @@ amziai:
 Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie kurios statytos Elbingo ir Baigos pilys, iš kurios broliai žvalgė Varmės krantą. Ankstesniuose šaltiniuose jos taip pat minimos kaip ribinė ir kontaktų zona.
 
 ## Teiginiai
-
 <a id="claim-t-97718"></a>
 - t-001
   global_id: t-97718
@@ -40,7 +39,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -58,7 +56,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

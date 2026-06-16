@@ -100,6 +100,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Brunonas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Odoničius]]
 - [[objektai/grupes/Rytas]]

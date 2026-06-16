@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui. Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.
+Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą. Lietuvos pirmininkavimas ES vertintas kaip galimybė priminti pasauliui Lietuvos praeitį ir jos vietą Europoje. 2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui.
 
 ## Laikotarpis ir datos
 
@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-75193"></a>
 - t-003
   global_id: t-75193
-  teiginys: '2013 m. Lietuva ėmėsi pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui.'
+  teiginys: '2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-003
 
@@ -121,7 +121,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: '2013 m. Lietuva ėmėsi pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui.'
+  santrauka: '2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
@@ -143,6 +143,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
 - [[objektai/autoriai/Audronius Ažubalis]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/autoriai/Raimundas Lopata]]

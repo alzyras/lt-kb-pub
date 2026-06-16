@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Smetonos, „ji liovėsi būti valstybe“. Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.
+Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“. Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu. Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe.
 
 ## Teiginiai
 
@@ -65,7 +65,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75714"></a>
 - t-006
   global_id: t-75714
-  teiginys: 'A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.'
+  teiginys: 'Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   pagrindžia:
     - c-004
 
@@ -135,7 +135,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75724"></a>
 - t-016
   global_id: t-75724
-  teiginys: '1938 m. gegužės 12 d. prezidentas A. Smetona ir ministras pirmininkas V. Mironas pasirašė naują šalies konstituciją.'
+  teiginys: '1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.'
   pagrindžia:
     - c-007
 
@@ -247,14 +247,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75740"></a>
 - t-032
   global_id: t-75740
-  teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
+  teiginys: 'Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   pagrindžia:
     - c-026
 
 <a id="claim-t-75741"></a>
 - t-033
   global_id: t-75741
-  teiginys: '1907 m. A. Smetona redagavo „Viltį“.'
+  teiginys: 'Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva.'
   pagrindžia:
     - c-009
 
@@ -290,14 +290,14 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75746"></a>
 - t-038
   global_id: t-75746
-  teiginys: 'A. Smetona buvo Komiteto vicepirmininkas.'
+  teiginys: 'Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios.'
   pagrindžia:
     - c-023
 
 <a id="claim-t-75747"></a>
 - t-039
   global_id: t-75747
-  teiginys: 'A. Smetona buvo išvarytas iš gimnazijos.'
+  teiginys: 'Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas.'
   pagrindžia:
     - c-017
 
@@ -332,7 +332,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 <a id="claim-t-75752"></a>
 - t-044
   global_id: t-75752
-  teiginys: '1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko A. Smetoną Lietuvos prezidentu.'
+  teiginys: '1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu.'
   pagrindžia:
     - c-027
 
@@ -1053,12 +1053,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/zodynas/kunigas]]
 - [[objektai/posakiai/„vietos visiems užteks“]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
+- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
 - [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]
 - [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
-- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
 - [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]

@@ -63,6 +63,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
 - [[objektai/ivykiai/Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)]]

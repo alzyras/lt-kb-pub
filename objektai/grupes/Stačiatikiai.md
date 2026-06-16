@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę. Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.
+Gedimino laikais Vilniaus „rusėnų pusėje“ stovėjo cerkvės, o Algirdas toleravo stačiatikybę, kai ji neprieštaravo valdovo interesams. Bajoriškoji santvarka leido šalia katalikų egzistuoti stačiatikiams ir kitoms etnokonfesinėms bendrijoms. Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 
 ## Teiginiai
 
@@ -53,22 +53,15 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   pagrindžia:
     - c-004
 
-<a id="claim-t-182595"></a>
-- t-004
-  global_id: t-182595
-  teiginys: 'Lietuvių kalba raštijos tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-183185"></a>
-- t-005
+- t-004
   global_id: t-183185
   teiginys: '1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-184225"></a>
-- t-006
+- t-005
   global_id: t-184225
   teiginys: 'Katalikams buvo draudžiamos mišrios vedybos su stačiatikiais, o nekatalikiškai pusei tokiose santuokose liepta priimti katalikybę.'
   pagrindžia:
@@ -89,7 +82,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
   santrauka: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti stačiatikiams ir kitoms etnokonfesinėms bendrijoms.'
@@ -156,21 +149,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     - t-003
 
 - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių kalba raštijos
-    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
-    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų. LDK stačiatikių vienuo-
-    lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-
-    dėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.
-    Aiškiai ją skyrė amžininkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-006
   santrauka: '1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -182,7 +160,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -192,7 +170,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Totoriai]]
@@ -200,7 +177,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
@@ -220,7 +196,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Eufimėjus]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Fotijus]]
@@ -248,21 +223,19 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/posakiai/Lietuva tik iš vardo esanti katalikiška]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/asmenys/Marija (Algirdo žmona)]]
 - [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
+- [[objektai/posakiai/O trečių vasarų]]
 - [[objektai/asmenys/Petras Pliuščius]]
-- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Saksų dinastija]]
-- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]]
 - [[objektai/asmenys/Sofija]]
 - [[objektai/asmenys/Teodosijus]]
@@ -295,7 +268,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
@@ -305,6 +278,5 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
-- [[objektai/grupes/Graikų katalikų bažnyčia]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Liubartas]]

@@ -26,7 +26,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus vilniečius. Lietuvoje protestantų galva ir uoliausias protestantizmo skleidėjas pasidarė artimiausias Zigmanto Augusto patarėjas Mikalojus Radvila Juodasis. Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) knygutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
+Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių. Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge. Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.
 
 ## Teiginiai
 
@@ -40,7 +40,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 <a id="claim-t-113879"></a>
 - t-002
   global_id: t-113879
-  teiginys: 'Mikalojaus Radvilos Juodojo šarvų viršutinė dalis buvo pagaminta Niurnberge apie 1555 m.'
+  teiginys: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.'
   pagrindžia:
     - c-007
 
@@ -75,7 +75,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 <a id="claim-t-113884"></a>
 - t-007
   global_id: t-113884
-  teiginys: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
+  teiginys: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   pagrindžia:
     - c-008
 
@@ -96,7 +96,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 <a id="claim-t-113888"></a>
 - t-011
   global_id: t-113888
-  teiginys: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusį Volaną.'
+  teiginys: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusių priešininkų atremti turėjusį Volaną.'
   pagrindžia:
     - c-005
 
@@ -257,7 +257,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     - t-005
 
 - c-005
-  santrauka: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusį Volaną.'
+  santrauka: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusių priešininkų atremti turėjusį Volaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
@@ -341,6 +341,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     - t-008
 
 - c-008
+  santrauka: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
@@ -360,7 +361,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 ### Susiję objektai
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/daiktai/Namas]]
@@ -371,6 +371,7 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - [[objektai/zodynas/imunitetai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/činšas]]

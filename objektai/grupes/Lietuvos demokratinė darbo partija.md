@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą. Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys.
+Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją. Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP.
 
 ## Teiginiai
 
@@ -35,13 +35,14 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 <a id="claim-t-169680"></a>
 - t-002
   global_id: t-169680
-  teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
+  teiginys: 'Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-

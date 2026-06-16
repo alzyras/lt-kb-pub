@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Saremas brolis Otto (Blanehom).
+Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų.
 
 ## Teiginiai
 
 <a id="claim-t-86103"></a>
 - t-001
   global_id: t-86103
-  teiginys: 'Saremas brolis Otto (Blanehom).'
+  teiginys: 'Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Myko­

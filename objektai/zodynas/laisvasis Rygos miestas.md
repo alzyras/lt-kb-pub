@@ -16,23 +16,16 @@ tags:
 Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas. su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką miestą.
 
 ## Teiginiai
-
-<a id="claim-t-70202"></a>
-- t-001
-  global_id: t-70202
-  teiginys: '1298 m. praturtėjęs laisvasis Rygos miestas kartu su arkivyskupu priešinosi Livonijos ordinui ir pasikvietė Vytenį į talką.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-70203"></a>
-- t-002
+- t-001
   global_id: t-70203
   teiginys: 'Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Laisvasis Rygos miestas buvo laikomas krikščionišku miestu, kurį spaudė savo galybės siekęs ordinas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -46,26 +39,11 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
     o tik jų pavergti ir kad, siekdamas savo galybės, nesiskaito net
     su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką
     miestą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: '1298 m. praturtėjęs laisvasis Rygos miestas kartu su arkivyskupu priešinosi Livonijos ordinui ir pasikvietė Vytenį į talką.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Livonijoje tebeėjo smarkios varžytynės tarp arkivyskupo ir
-    ordino, kurs nenorėjo^2 /з nukariauto krašto atiduoti arkivysku-
-    pui, stengdamasis pasidaryti viso krašto viešpačiu. Tam labai
-    priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori-
-    tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.
-    Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu,
-    pasikvietė Į talką Vytenį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -73,5 +51,3 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rygiečiai]]

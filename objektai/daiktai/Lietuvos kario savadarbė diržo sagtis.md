@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių. Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“) Kėdainių gynyba Karininkai J.
+Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote. Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės. Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-78668"></a>
 - t-001
   global_id: t-78668
-  teiginys: '1919 m. Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėtą, buvusią Panevėžio būrio LIETUVOS KARIO SAVADARBĖ DIRŽO SAGTIS Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pajėgi aprūpinti pirmųjų savanorių.'
+  teiginys: 'Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote.'
   pagrindžia:
     - c-001
 
@@ -67,7 +67,7 @@ Nenurodyta
 <a id="claim-t-78671"></a>
 - t-004
   global_id: t-78671
-  teiginys: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Lietuvos simbolį Vytį.'
+  teiginys: 'Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.'
   pagrindžia:
     - c-002
 
@@ -95,7 +95,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Lietuvos kariai prie gautų vokiečių kariuomenės sagčių pritvirtindavo Lietuvos simbolį Vytį.'
+  santrauka: 'Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
@@ -145,7 +145,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/daiktai/Karūna]]
@@ -153,8 +152,8 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/zodynas/Savanoris]]
-- [[objektai/daiktai/Vytis]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]

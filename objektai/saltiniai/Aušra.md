@@ -14,11 +14,11 @@ date_start: '1851'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - saltinis
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - saltinis
 ---
 # Aušra
 
@@ -27,7 +27,6 @@ amziai:
 1883 m. pirmajame „Aušros“ numeryje J. Basanavičius pradėjo savo žinomą istorinę prakalbą.
 
 ## Teiginiai
-
 <a id="claim-t-179569"></a>
 - t-001
   global_id: t-179569
@@ -49,8 +48,7 @@ amziai:
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -68,7 +66,6 @@ amziai:
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   santrauka: 'Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

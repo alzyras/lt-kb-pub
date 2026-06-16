@@ -62,4 +62,3 @@ Janas Filipovičius buvo daktaras, kustodas ir Vilniaus kanauninkas; Lietuvos Me
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/kustodas]]
-- [[objektai/zodynas/metrika]]

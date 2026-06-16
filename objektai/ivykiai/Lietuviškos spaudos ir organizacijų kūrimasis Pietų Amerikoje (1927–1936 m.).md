@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): lietuviškoji spauda, pirmasis laik- raštis („Brazilijos Lietuvis"), čia atsirado 1927 m. Tiesa, jis ėjo neilgai, bet tuojau jo vietoj atsirado naujų lietuviškų laik- raščių. Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): jau 1931 m. čia susikūrė Lietuvių Sąjunga Bra- zilijoje. Ji ėmė leisti savaitraštį „Lietuvį Brazilijo- je", kurs vėliau buvo pavadintas „Lietuviu". Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): be to, Sao Paule jau su- organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven- tinta 1936 m. vasario 16 d.).
+Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m., bet ėjo neilgai. Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d. Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.
 
 ## Laikotarpis ir datos
 
@@ -33,51 +33,32 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66665"></a>
-- t-001
-  global_id: t-66665
-  teiginys: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m., bet ėjo neilgai.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-66666"></a>
-- t-002
-  global_id: t-66666
-  teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): 1931 m. Lietuvos valdžiai remiant, Buenos Airės mieste buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių Namais. Tačiau yra organizacijų, kurios šalinasi Lietuvių Namų ir tuo būdu skaldo tautiškąjį veikimą Argentinoje.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-66667"></a>
-- t-003
+- t-001
   global_id: t-66667
   teiginys: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
   pagrindžia:
-    - c-005
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66668"></a>
-- t-004
+- t-002
   global_id: t-66668
   teiginys: 'Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.'
   pagrindžia:
-    - c-002
-
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-66669"></a>
-- t-005
+- t-003
   global_id: t-66669
   teiginys: '1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66670"></a>
-- t-006
-  global_id: t-66670
-  teiginys: 'Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.): jau 1931 m. čia susikūrė Lietuvių Sąjunga Bra- zilijoje. Ji ėmė leisti savaitraštį „Lietuvį Brazilijo- je", kurs vėliau buvo pavadintas „Lietuviu".'
-  pagrindžia:
-    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -89,13 +70,30 @@ Nenurodyta
     visokių išnaudotojų ir kenksmingo komunistų darbo. Be to,
     jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-
     rapijos organizavimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-
+    - t-003
 - c-002
+  santrauka: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mokyklose mokoma pagal Lietuvos mokyklų programą; vado-
+    vėliai taip pat gaunami iš Lietuvos. Tuo būdu mokyklų klau-
+    simas čia jau yra įėjęs į tinkamas vėžes. Be to, Sao Paule jau su-
+    organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
+    tinta 1936 m. vasario 16 d.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-003
   santrauka: 'Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -107,72 +105,15 @@ Nenurodyta
     kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
     cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
     pavadintą Urugvajaus Lietuvių Klubu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m., bet ėjo neilgai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuviškoji spauda, pirmasis laik-
-    raštis („Brazilijos Lietuvis"), čia atsirado 1927 m. Tiesa, jis
-    ėjo neilgai, bet tuojau jo vietoj atsirado naujų lietuviškų laik-
-    raščių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1931 m. Lietuvos valdžiai remiant, Buenos Airės mieste
-
-
-    buvo įkurtas kelių organizacijų centras, pavadintas Lietuvių
-    Namais. Tačiau yra organizacijų, kurios šalinasi Lietuvių
-    Namų ir tuo būdu skaldo tautiškąjį veikimą Argentinoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-- c-005
-  santrauka: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mokyklose mokoma pagal Lietuvos mokyklų programą; vado-
-    vėliai taip pat gaunami iš Lietuvos. Tuo būdu mokyklų klau-
-    simas čia jau yra įėjęs į tinkamas vėžes. Be to, Sao Paule jau su-
-    organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
-    tinta 1936 m. vasario 16 d.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvių kultūrinis veikimas Sao Paulo mieste ir visoje
-    Brazilijoje tebėra dar nesutvarkytas, nors ir kiek pažengė į
-    priekį. Jau 1931 m. čia susikūrė Lietuvių Sąjunga Bra-
-    zilijoje. Ji ėmė leisti savaitraštį „Lietuvį Brazilijo-
-    je", kurs vėliau buvo pavadintas „Lietuviu".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigas]]

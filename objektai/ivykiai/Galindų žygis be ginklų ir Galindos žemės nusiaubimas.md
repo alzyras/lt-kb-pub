@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“. Dusburgietis teigia, kad šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje, buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus, 203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio karai, ypač su Lenkija XI—XIII a.
+Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis. Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.
 
 ## Laikotarpis ir datos
 
@@ -45,7 +45,7 @@ Nenurodyta
 <a id="claim-t-91905"></a>
 - t-002
   global_id: t-91905
-  teiginys: 'Dusburgietis teigia, kad šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje, buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus, 203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio karai, ypač su Lenkija XI—XIII a.'
+  teiginys: 'Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje,

@@ -226,12 +226,12 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]

@@ -56,4 +56,5 @@ Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė ke
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

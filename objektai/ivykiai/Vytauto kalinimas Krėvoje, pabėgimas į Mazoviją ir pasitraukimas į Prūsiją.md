@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko. Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas neseniai buvo atėmęs iš lietuvių.
+Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko. Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-185543"></a>
 - t-002
   global_id: t-185543
-  teiginys: 'Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas neseniai buvo atėmęs iš lietuvių.'
+  teiginys: 'Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas neseniai buvo atėmęs iš lietuvių.'
+  santrauka: 'Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tiesą sakant,

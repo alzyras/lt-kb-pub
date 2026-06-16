@@ -16,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai. O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t. Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.
+Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus. Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais. XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.
 
 ## Laikotarpis ir datos
 
@@ -39,7 +39,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-05370"></a>
 - t-001
   global_id: t-05370
@@ -47,36 +46,20 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-97142"></a>
-- t-002
-  global_id: t-97142
-  teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-97143"></a>
-- t-003
-  global_id: t-97143
+- t-007
   teiginys: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-97144"></a>
-- t-004
-  global_id: t-97144
-  teiginys: 'Trūkstant pinigų, valstiečiai mokesčius mokėjo ūkio produktais: javais, šienu, gyvuliais ir kiaušiniais.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-97145"></a>
-- t-005
-  global_id: t-97145
-  teiginys: 'Be rinkliavų ir mokesčių, valstiečiai buvo verčiami statyti pilis bei tiltus ir tiesti kelius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -94,7 +77,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -108,33 +90,14 @@ Nenurodyta
     jorų žemėse, buvo valstiečių, kurie buvo pririšti prie pavestojo
     žemės ploto ir turėjo nustatytas pareigas; tokie valstiečiai vadi-
     nosi nelaisvaisiais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
+    - t-007
 - c-003
-  santrauka: 'Be rinkliavų ir mokesčių, valstiečiai buvo verčiami statyti pilis bei tiltus ir tiesti kelius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių Lietuvoje savų pinigų ne-
-    buvo iš viso; buvo vartojami svetimieji: rusų muštiniai, sidabro
-    lazdelės, vėliau ordino pinigai ir pagaliau Prahos skatikai. Savi
-    pinigai buvo pradėti kalti greičiausiai tik Algirdo ir Kęstučio lai-
-    kais, tačiau daugiau jų buvo kalama Vytauto ir vėlesniaisiais
-    laikais.
-    Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo ver-
-    čiami statyti pilis, tiltus, tiesti kelius ir t.t. Anais laikais dar nie-
-    kas nesistengė daug žemės dirbti, nes tuomet javų eksporto ne-
-    buvo, ir todėl nebūtų buvę kur dėti javų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-004
   santrauka: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -148,38 +111,17 @@ Nenurodyta
     miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
     kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
     kestį sidabriniais pinigais).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-005
-  santrauka: 'Trūkstant pinigų, valstiečiai mokesčius mokėjo ūkio produktais: javais, šienu, gyvuliais ir kiaušiniais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mat, buvo nelengva rasti žmogų, kurs turėtų nori-
-    mųjų prekių ir norėtų gauti pirkėjo turimųjų produktų. Todėl nu-
-    manu, kad kai kurios prekės turėjo atstoti pinigus. O nesant pi-
-    nigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo
-    savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t. t.
-    Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, va-
-    dinami mezliavomis; visa, kas į dvarą buvo sunešama
-    produktais, vadinosi duoklėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/duoklė]]
-- [[objektai/zodynas/mezliava]]
-- [[objektai/zodynas/sidabrinė duoklė]]

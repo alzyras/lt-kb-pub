@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas. Taigi paskutiniais savo valdymo metais Vytautas Aukso Ordą turėjo visiškoje savo įtakoje.
+Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.
 
 ## Laikotarpis ir datos
 
@@ -42,14 +42,7 @@ Nenurodyta
 <a id="claim-t-35891"></a>
 - t-001
   global_id: t-35891
-  teiginys: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-184234"></a>
-- t-002
-  global_id: t-184234
-  teiginys: '1424 m. Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
+  teiginys: 'Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
   pagrindžia:
     - c-001
 

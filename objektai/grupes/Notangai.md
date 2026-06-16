@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
+Notangai ir varmiai išsižadėjo maišto sumanymų ir davė žodį būti ištikimi broliams. 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais. 1260 m. Klaipėdoje tarp Ordino prievarta buriamų karių buvo notangai, pamedėnai, varmiai ir sembai.
 
 ## Teiginiai
 
@@ -94,7 +94,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78403"></a>
 - t-010
   global_id: t-78403
-  teiginys: 'Dusburgietis teigia, kad iš pradžių jis buvo siejamas tik su notangais.'
+  teiginys: 'Iš pradžių jis buvo siejamas tik su notangais.'
   pagrindžia:
     - c-009
 
@@ -129,7 +129,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78408"></a>
 - t-015
   global_id: t-78408
-  teiginys: 'Herkus Mantas pasitraukė į dykras, kur jį užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho.'
+  teiginys: 'Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.'
   pagrindžia:
     - c-013
 
@@ -324,6 +324,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-005
 
 - c-009
+  santrauka: 'Iš pradžių jis buvo siejamas tik su notangais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo vardu iš pradžių, manoma,
@@ -480,7 +481,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/daiktai/Ginklai]]
@@ -537,6 +537,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/asmenys/Henrikas iš Šenenbergo]]
 - [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/asmenys/Govina]]

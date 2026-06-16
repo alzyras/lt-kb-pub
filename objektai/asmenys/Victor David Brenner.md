@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša.
+Victor David Brenner, Šiaulių kilmės skulptorius, buvo JAV vieno cento autorius. Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 <a id="claim-t-76029"></a>
 - t-002
   global_id: t-76029
-  teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
+  teiginys: 'Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.'
   pagrindžia:
     - c-001
 

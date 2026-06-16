@@ -10,12 +10,12 @@ date_start: '1936'
 date_end: '1939'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - saltinis
   - tauta
   - valstybė
-amziai:
-  - 'XX'
 ---
 # A. Šapoka (red.), Lietuvos istorija (1936 m.)
 
@@ -24,7 +24,6 @@ amziai:
 1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka. Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.
 
 ## Teiginiai
-
 <a id="claim-t-78114"></a>
 - t-001
   global_id: t-78114
@@ -39,8 +38,7 @@ amziai:
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'A. Šapokos redaguota 1936 m. Lietuvos istorija vadinama bene žinomiausia tautine Lietuvos valstybės ir lietuvių tautos istorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +64,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

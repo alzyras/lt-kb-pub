@@ -78,6 +78,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Liuteris]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

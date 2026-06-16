@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m. Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į. Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.
+Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį. M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę. 1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.
 
 ## Teiginiai
 
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 <a id="claim-t-59861"></a>
 - t-005
   global_id: t-59861
-  teiginys: 'Konradas, imperatoriaus Fridricho II sūnus, 1251 m. užpuolė Apulijos karalystę ir Neapolį, bet kitais metais mirė nunuodytas.'
+  teiginys: 'Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.'
   pagrindžia:
     - c-007
 
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 <a id="claim-t-59863"></a>
 - t-007
   global_id: t-59863
-  teiginys: '1265 m. Karolis, popiežiaus Klemenso IV vainikuotas Sicilijos karaliumi, atėmė sostą ir gyvybę iš Manfredo, nesantuokinio Fridricho II sūnaus.'
+  teiginys: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
   pagrindžia:
     - c-003
 
@@ -121,7 +121,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-002
 
 - c-003
-  santrauka: '1265 m. Karolis, popiežiaus Klemenso IV vainikuotas Sicilijos karaliumi, atėmė sostą ir gyvybę iš Manfredo, nesantuokinio Fridricho II sūnaus.'
+  santrauka: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
@@ -196,7 +196,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - t-004
 
 - c-007
-  santrauka: 'Konradas, imperatoriaus Fridricho II sūnus, 1251 m. užpuolė Apulijos karalystę ir Neapolį, bet kitais metais mirė nunuodytas.'
+  santrauka: 'Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,
@@ -214,6 +214,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Karolis]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]
@@ -226,6 +227,8 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius)]]
 - [[objektai/asmenys/Konradas (Fridricho II sūnus)]]
 - [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]

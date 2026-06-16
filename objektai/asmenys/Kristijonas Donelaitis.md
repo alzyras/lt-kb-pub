@@ -23,14 +23,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750). Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą).
+Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys. Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą. Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.
 
 ## Teiginiai
 
 <a id="claim-t-19073"></a>
 - t-001
   global_id: t-19073
-  teiginys: 'Kristijono Donelaičio poema „Metai“ apie 1750 m. iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.'
+  teiginys: 'Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.'
   pagrindžia:
     - c-001
 
@@ -40,13 +40,6 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
   teiginys: 'Liudvikas Rėza Karaliaučiuje išleido Kristijono Donelaičio poemą „Metai“ su vertimu į vokiečių kalbą.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-183555"></a>
-- t-003
-  global_id: t-183555
-  teiginys: 'Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys.'
-  pagrindžia:
-    - c-001
 
 <a id="claim-t-183556"></a>
 - t-004

@@ -22,28 +22,28 @@ amziai:
 
 ## Santrauka
 
-Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.
+Gediminas titulavosi Rex Lethowye, derėjosi dėl krikšto ir laiškais kvietė į Lietuvą Vakarų pirklius bei amatininkus. Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus. Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
 
 ## Teiginiai
 
-<a id="claim-t-75598"></a>
+<a id="claim-t-186410"></a>
 - t-001
-  global_id: t-75598
+  global_id: t-186410
   teiginys: 'Gediminas titulavosi Rex Lethowye, derėjosi dėl krikšto ir laiškais kvietė į Lietuvą Vakarų pirklius bei amatininkus.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-75599"></a>
+<a id="claim-t-186411"></a>
 - t-002
-  global_id: t-75599
-  teiginys: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims kvietė į Lietuvą pirklius bei amatininkus.'
+  global_id: t-186411
+  teiginys: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims kvietė į Lietuvą pirklius bei amatininkus.'
+  santrauka: 'Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
@@ -80,7 +80,5 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/Rex Lethowye]]
 - [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/asmenys/Gediminas]]

@@ -11,20 +11,19 @@ date_start: '1843'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Kauno gubernija
 
 ## Santrauka
 
-Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
+Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc. Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis. 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
 
 ## Teiginiai
-
 <a id="claim-t-170421"></a>
 - t-001
   global_id: t-170421
@@ -56,26 +55,13 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 <a id="claim-t-183026"></a>
 - t-005
   global_id: t-183026
-  teiginys: 'Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.'
+  teiginys: 'Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.'
   pagrindžia:
-    - c-001
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kareiviai, apsigyvenę kaimuose, ištisus mėnesius kankino vals-
-    tiečius, naikino jų turtą. Vien Kauno gubernijoje tokių žiaurių
-    egzekucijų buvo padaryta net 117. Kariuomenės šaukėsi tiek
-    daug dvarininkų, kad reikėjo jos atvežti net iš kitų gubernijų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-002
   santrauka: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -96,7 +82,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -111,7 +96,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
   santrauka: 'Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -128,7 +112,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -149,3 +132,18 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   statusas: verified
   pagrindžia:
     - t-003
+- c-006
+  santrauka: 'Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kareiviai, apsigyvenę kaimuose, ištisus mėnesius kankino vals-
+    tiečius, naikino jų turtą. Vien Kauno gubernijoje tokių žiaurių
+    egzekucijų buvo padaryta net 117. Kariuomenės šaukėsi tiek
+    daug dvarininkų, kad reikėjo jos atvežti net iš kitų gubernijų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005

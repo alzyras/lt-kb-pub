@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]. Dusburgietis teigia, kad ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab. Dusburgietis teigia, kad pilis buvo stipriai 3 pylimais įtvirtintoje kalvoje, į šiaurės vakarus nuo Girmavos, vakarinėje Sembos pusiasalio pakrantėje (CF, p. 29—32, Nr. 12; Гуревич Ф.
+Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo. Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo. Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 <a id="claim-t-90455"></a>
 - t-003
   global_id: t-90455
-  teiginys: 'Dusburgietis teigia, kad ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
+  teiginys: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-001
 
 - c-002
+  santrauka: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į

@@ -3,11 +3,13 @@ tipas: vieta
 pavadinimas: 'Zaslavlis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1366 m.'
   - '1387 m.'
   - '2026 m.'
-date_start: '1387'
+date_start: '1366'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -21,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis. Netoliese nuo ten, būtent, Zaslavlyje (tarp Volinijos ir Podolės) valdė Jaunučio sūnus.
+Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno. Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus. Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.
 
 ## Teiginiai
 
@@ -38,6 +40,13 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   teiginys: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-187689"></a>
+- t-003
+  global_id: t-187689
+  teiginys: 'Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -99,3 +108,20 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1  Zaslavlis — BTSR gyvenvietė (apie 20 km j šiaurės vakarus
+    nuo Minsko).
+    Pašalintas iš Vilniaus, Jaunutis buvo pabėgęs į Maskvų pas
+    savo seserį, Maskvos didžiojo kunigaikščio žmonų, bet, nesusilau­
+    kęs paramos, grįžo Ir tada gavo iš Algirdo ir Kęstučio Zaslavl|.
+    Valdė jį iki mirties (apie 1366 m.). Jaunučio palikuonių rankose
+    Zaslavlio valda išbuvo iki XVI a. vidurio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

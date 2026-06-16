@@ -70,4 +70,3 @@ Nenurodyta
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/lenas]]

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­ ja su Lietuva. Atvykę jie į Lenčicą (1429 VI. Paskum Vy­ tauto pasiuntiniai greit išvyko iš Lenčicos.
+Po pareiškimo Jogailai Vytauto pasiuntiniai greitai išvyko iš Lenčicos. 1409 m. visuotiniame Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja. 1429 m. birželio 18 d. Vytauto pasiuntiniai Lenčicoje įteikė Jogailai Vytauto laišką.
 
 ## Teiginiai
 
@@ -64,7 +64,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 <a id="claim-t-185004"></a>
 - t-006
   global_id: t-185004
-  teiginys: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.'
+  teiginys: 'Atleidęs kryžiuočių žygūną, karalius sušaukė seimą Lenčicoje.'
   pagrindžia:
     - c-006
 
@@ -170,7 +170,7 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
     - t-005
 
 - c-006
-  santrauka: 'Karalius, atleidęs kryžiuočių žygūną, sušaukė seimą Lenčicoje.'
+  santrauka: 'Atleidęs kryžiuočių žygūną, karalius sušaukė seimą Lenčicoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitaip paprastai esti, kai vienoje

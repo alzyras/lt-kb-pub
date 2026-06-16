@@ -15,30 +15,23 @@ tags:
 
 ## Santrauka
 
-Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte. Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.
+Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys. Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 
 ## Teiginiai
 
-<a id="claim-t-70413"></a>
-- t-001
-  global_id: t-70413
-  teiginys: 'Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-70414"></a>
-- t-002
+- t-001
   global_id: t-70414
   teiginys: 'Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183486"></a>
-- t-003
+- t-002
   global_id: t-183486
-  teiginys: 'Viena TDA bataliono kuopa buvo paversta zonderkomanda ir 1941 m. liepos 4 ir 6 d. dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
+  teiginys: 'Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -62,29 +55,10 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
-    pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai. Talkinin-
-    kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-
-    dančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD
-    inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
-    27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
-    sakoma, kad surengti pogromus buvo nelengva. Ginkluoti partizanai
-    nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
-    paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
-    batalionas prie Kauno karo komendantūros.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Viena TDA bataliono kuopa buvo paversta zonderkomanda ir 1941 m. liepos 4 ir 6 d. dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
+- c-002
+  santrauka: 'Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talkinin-
@@ -103,13 +77,12 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
-- [[objektai/zodynas/komendantūra]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Andrejaus Vlasovo armija]]

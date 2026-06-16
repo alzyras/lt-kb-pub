@@ -67,5 +67,12 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Herbas]]
+- [[objektai/daiktai/Bychovco kronikos rankraštis]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/daiktai/Kentauro herbas]]
+- [[objektai/grupes/Kentauro herbo dinastija]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
+- [[objektai/zodynas/patricijus]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/asmenys/Julijonas Dausprungas]]
 - [[objektai/daiktai/Stulpai]]

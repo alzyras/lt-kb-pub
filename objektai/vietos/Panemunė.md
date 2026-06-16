@@ -11,27 +11,26 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - karas
   - kraštas
   - miestas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Panemunė
 
 ## Santrauka
 
-Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir patsai Vilniaus miestas.
+Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos. Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.
 
 ## Teiginiai
-
 <a id="claim-t-68891"></a>
 - t-001
   global_id: t-68891
-  teiginys: 'Vytautas, išvykęs žvalgybų į Panemunę, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
+  teiginys: 'Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
   pagrindžia:
     - c-001
 
@@ -41,11 +40,12 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   teiginys: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Vytautas, išvykęs žvalgybų į Panemunę, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
+  santrauka: 'Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas
@@ -60,8 +60,8 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
+  santrauka: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dau-
@@ -70,8 +70,10 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
     karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
     gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
     patsai Vilniaus miestas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

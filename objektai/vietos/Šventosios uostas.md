@@ -9,13 +9,13 @@ date_start: '1660'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - karas
   - kunigaikštis
   - miestas
   - vieta
-amziai:
-  - 'XVII'
 ---
 # Šventosios uostas
 
@@ -24,16 +24,16 @@ amziai:
 Tada net buvo kilusi mintis įkurti Šventosios uostą.
 
 ## Teiginiai
-
 <a id="claim-t-74019"></a>
 - t-001
   global_id: t-74019
   teiginys: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1629–1635 m. suvaržius prekybą Klaipėdoje, buvo kilusi mintis įkurti Šventosios uostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,8 +45,10 @@ Tada net buvo kilusi mintis įkurti Šventosios uostą.
     Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipa-
     laidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme
     jau nebepriklausė karaliaus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

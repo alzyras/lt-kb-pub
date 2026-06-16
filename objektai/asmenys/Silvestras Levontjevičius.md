@@ -67,6 +67,7 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/vietininkas]]

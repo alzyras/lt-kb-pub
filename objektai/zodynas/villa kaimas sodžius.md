@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami. Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
+Sodžių, tiek ir vieno kiemo nobilio gyvenvietę. Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino. Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.
 
 ## Teiginiai
 
 <a id="claim-t-58880"></a>
 - t-001
   global_id: t-58880
-  teiginys: 'Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
+  teiginys: 'Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     244 D.— invaserunt vilias (be to, III, 66, 68, 98, 143, 260, 276, 291, 330, 332

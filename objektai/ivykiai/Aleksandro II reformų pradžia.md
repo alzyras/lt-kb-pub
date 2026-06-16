@@ -106,4 +106,4 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras II]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]

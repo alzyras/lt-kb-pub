@@ -15,24 +15,26 @@ tags:
 Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
 
 ## Teiginiai
-
 <a id="claim-t-02957"></a>
 - t-001
   global_id: t-02957
   teiginys: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-182935"></a>
 - t-002
   global_id: t-182935
   teiginys: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
@@ -42,12 +44,13 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -60,15 +63,16 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     kusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuo-
     sius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms aud-
     roms ir Maskvos įsikišimui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

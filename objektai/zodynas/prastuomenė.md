@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Išbadėjusi prastuomenė ir eiliniai kariai atvirai sukilo prieš Švitrigailą, o pilis atiteko Vytautui.
+Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui.
 
 ## Teiginiai
 
 <a id="claim-t-185408"></a>
 - t-001
   global_id: t-185408
-  teiginys: 'Išbadėjusi prastuomenė ir eiliniai kariai atvirai sukilo prieš Švitrigailą, o pilis atiteko Vytautui.'
+  teiginys: 'Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Išbadėjusi prastuomenė ir eiliniai kariai atvirai sukilo prieš Švitrigailą, o pilis atiteko Vytautui.'
+  santrauka: 'Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši aplinkybė daugiausia ir lėmė jų greitą žūtį. Juo
@@ -45,6 +45,7 @@ Išbadėjusi prastuomenė ir eiliniai kariai atvirai sukilo prieš Švitrigailą
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Laužas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
 - [[objektai/asmenys/Vytenis]]

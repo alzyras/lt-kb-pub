@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti pirties tiesiog kęste nekenčia.
+Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė. Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.
 
 ## Laikotarpis ir datos
 
@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-89446"></a>
 - t-001
   global_id: t-89446
-  teiginys: 'Dusburgietis teigia, kad kitą dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia tesėti susitarimą.'
+  teiginys: 'Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė.'
   pagrindžia:
     - c-001
 

@@ -69,6 +69,5 @@ Nenurodyta
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/zodynas/Romos tikėjimas]]

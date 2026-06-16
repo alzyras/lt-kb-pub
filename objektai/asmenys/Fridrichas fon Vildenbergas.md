@@ -89,7 +89,7 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

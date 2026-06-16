@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t. Dusburgietis teigia, kad zelencovo) apylinkės su Romovupe ir Aukskalių piliakalniu, esančios į pietvakarius nuo Įsruties (dab.
+Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t. Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.
 
 ## Teiginiai
 
 <a id="claim-t-58519"></a>
 - t-001
   global_id: t-58519
-  teiginys: 'Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t.'
+  teiginys: 'Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t.'
   pagrindžia:
     - c-001
 
@@ -33,6 +33,7 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV, t.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nadruvoje, Auksinės ir Didlovos santakoje, esama Aukskalių piliakalnio (HE, p. 46; CV,

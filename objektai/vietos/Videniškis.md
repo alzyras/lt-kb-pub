@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link. 2-asis pulkas turėjo pulti Giedraičius iš Želvos, jų puolimą turėjo paremti 9-ojo pulko vienas batalionas, puldamas Giedraičių kryptimi iš Videniškio.
+9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.
 
 ## Teiginiai
 
@@ -21,32 +21,11 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   global_id: t-42264
   teiginys: '9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-42265"></a>
-- t-002
-  global_id: t-42265
-  teiginys: 'Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Puolimas buvo staigus ir stiprus. Lenkų
-    pajėgos priartėjo prie Videniškio,
-    Gelogalių ir judėjo Balnininkų link.
-    Užėmę Kurklius, lenkai veržėsi Vidiškių
-    ir Ukmergės link.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lapkričio 19 d. į Ukmergę at-

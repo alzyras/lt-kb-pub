@@ -45,5 +45,4 @@ Būrininkas Baziliauskas nusmeigė dar kelis komisarus, ir tuo būdu per minutę
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Durtuvas]]

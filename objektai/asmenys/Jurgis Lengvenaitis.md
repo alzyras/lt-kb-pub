@@ -50,4 +50,6 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/grupes/Čekų ir Silezijos savanoriai]]

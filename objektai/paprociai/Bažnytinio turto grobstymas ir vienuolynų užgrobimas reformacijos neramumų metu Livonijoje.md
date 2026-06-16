@@ -66,6 +66,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Liuteris]]
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/zodynas/magistras]]

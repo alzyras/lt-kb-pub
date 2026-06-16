@@ -74,9 +74,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/Riterių luomas]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/didvalstybė]]
+- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]

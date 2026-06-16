@@ -49,4 +49,3 @@ Kapsukas-Mickevičius.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/husarai]]
-- [[objektai/grupes/Bolševikai]]

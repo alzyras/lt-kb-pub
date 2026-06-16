@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj.) taip pat jotvingiškas (Ochmański J., Nazwa Jaćwięgów, p. 197—204; Непокупный А. Dusburgietis teigia, kad etninio lietuvių ploto rytiniame pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J., Litewska granica..., p..
+J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.
 
 ## Teiginiai
 
 <a id="claim-t-60619"></a>
 - t-001
   global_id: t-60619
-  teiginys: 'Dusburgietis teigia, kad etninio lietuvių ploto rytiniame pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J., Litewska granica..., p..'
+  teiginys: 'J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sūduvių (jotvingių) apgyvendinimą Lietuvos valstybės teritorijoje žr. Kamiński

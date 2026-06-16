@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-~- Rėkė "baškon" įsilipę, Nuleistuko spyruoklė Spynos galinės padėties fiksatorius Nuleistukas Dėtuvės fiksatorius Pistoletinė rankena Spyna juda pirmyn-atgal, kol pirštas atleidžia nuleistuką ir šis pakelia į viršų spynos galinės padėties fiksatorių, kuris.
+Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“.
 
 ## Teiginiai
 
 <a id="claim-t-80664"></a>
 - t-001
   global_id: t-80664
-  teiginys: '~- Rėkė "baškon" įsilipę, Nuleistuko spyruoklė Spynos galinės padėties fiksatorius Nuleistukas Dėtuvės fiksatorius Pistoletinė rankena Spyna juda pirmyn-atgal, kol pirštas atleidžia nuleistuką ir šis pakelia į viršų spynos galinės padėties fiksatorių, kuris.'
+  teiginys: 'Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sovietų gamybos pistoletas-kulko-

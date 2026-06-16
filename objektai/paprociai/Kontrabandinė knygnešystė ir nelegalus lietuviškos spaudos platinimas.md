@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorganizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose ir nelegalų jos platinimą Lietuvoje. Zikaro skulptūra (1939 m.) L I E T U V O S I S T O R I J A 118 griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į Lietuvą nesustabdė.
+Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų. Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje. Lietuviška spauda tradiciniu raidynu buvo spausdinama Rytprūsiuose ir nelegaliai platinama Lietuvoje.
 
 ## Laikotarpis ir datos
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-54252"></a>
 - t-002
   global_id: t-54252
-  teiginys: 'Vyskupas ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.'
+  teiginys: 'Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -118,6 +118,8 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]
 - [[objektai/zodynas/knygnešystė]]
 - [[objektai/zodynas/knygnešystė knygnešiai]]

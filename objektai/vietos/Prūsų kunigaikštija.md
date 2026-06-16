@@ -9,37 +9,30 @@ date_start: '1545'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XVI'
+tags:
+  - vieta
 ---
 # Prūsų kunigaikštija
 
 ## Santrauka
 
-Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas 1545 m. Viršuj parašo lentos matyti Lietuvos Vytis ir Lenkijos erelis.
+1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas pasienio stulpas su Vyčiu ir Lenkijos ereliu.
 
 ## Teiginiai
-
-<a id="claim-t-02704"></a>
-- t-001
-  global_id: t-02704
-  teiginys: '1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje buvo pastatytas pasienio stulpas.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-183085"></a>
-- t-002
+- t-001
   global_id: t-183085
   teiginys: '1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas pasienio stulpas su Vyčiu ir Lenkijos ereliu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas 1545 m. Viršuj parašo lentos matyti Lietuvos Vytis ir Lenkijos erelis.'
+  santrauka: '1545 m. Lietuvos, Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo vietoje pastatytas pasienio stulpas su Vyčiu ir Lenkijos ereliu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonija buvo valdoma
@@ -53,9 +46,10 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
     pastatytas 1545 m. Viršuj parašo
     lentos matyti Lietuvos Vytis ir
     Lenkijos erelis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001

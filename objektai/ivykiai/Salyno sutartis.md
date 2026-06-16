@@ -9,27 +9,27 @@ datos:
   - '1398 m.'
 date_start: '1398'
 date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 aliases:
   - 'objektai/ivykiai/Salyno suvažiavimas ir jo reikšmė'
   - 'objektai/ivykiai/Salyno taika'
 variantai:
   - 'Salyno suvažiavimas ir jo reikšmė'
   - 'Salyno taika'
-sukurta: ''
-atnaujinta: ''
 tags:
   - ivykis
   - kraštas
   - ordinas
   - sutartis
-amziai:
-  - 'XIV'
 ---
 # Salyno sutartis
 
 ## Santrauka
 
-Salyno sutartis buvo 1398 m. Vytauto ir didžiojo magistro susitarimas, galutinai patvirtintas Nemuno saloje Salyne spalio 12 d. Ivinskis ją apibūdina kaip aktą, kuriuo Vytautas užleido ordinui visus Žemaičius, pirmą kartą apytikriai nužymėjo ordinui tenkančių žemių sienas ir kuriame Salyno „amžinoji“ taika būtų reiškusi Lietuvos nustūmimą nuo jūros. 1930 m. veikale sutartis papildomai aiškinama kaip Vytauto galybės demonstracija Lenkijos pusėn ir grasinimas unijai.
+1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona. Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna. Šiame veikale Salyno sutartis aiškinama kaip Vytauto galybės gestas Lenkijai ir grasinimas unijai.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,6 @@ Po preliminarios Gardino taikos sutartis buvo iškilmingai ratifikuota Salyno sa
 Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius su Lenkija.
 
 ## Teiginiai
-
 <a id="claim-t-12411"></a>
 - t-001
   global_id: t-12411
@@ -72,43 +71,35 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   pagrindžia:
     - c-003
 
-<a id="claim-t-66867"></a>
-- t-004
-  global_id: t-66867
-  teiginys: 'Salyno sutartis buvo pasirašyta 1398 m. Salyne, kur Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-66868"></a>
-- t-005
+- t-004
   global_id: t-66868
   teiginys: 'Ivinskis pabrėžia, kad Salyno amžinosios taikos įgyvendinimas būtų reiškęs Lietuvos nustūmimą nuo jūros.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-66869"></a>
-- t-006
+- t-005
   global_id: t-66869
   teiginys: 'Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-66870"></a>
-- t-007
+- t-006
   global_id: t-66870
   teiginys: 'Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-66871"></a>
-- t-008
+- t-007
   global_id: t-66871
   teiginys: '1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -133,7 +124,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -153,7 +143,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -169,26 +158,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
-  santrauka: 'Salyno sutartis buvo pasirašyta 1398 m. Salyne, kur Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
-    įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
-    buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala
-    Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
-    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
-    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
-    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
-    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     b. Salyno suvažiavimas ir jo reikšmė. — 1396 m. jau buvo pa­
@@ -202,9 +172,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-
-- c-006
+    - t-007
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Toliau siena apytikriai buvo nužymėta upė­
@@ -219,9 +188,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: interpretacija
   statusas: verified
   pagrindžia:
-    - t-005
-
-- c-007
+    - t-004
+- c-006
   santrauka: 'Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -236,9 +204,8 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-008
+    - t-006
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
@@ -257,7 +224,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -272,7 +239,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/činšas]]
 - [[objektai/zodynas/dykra]]

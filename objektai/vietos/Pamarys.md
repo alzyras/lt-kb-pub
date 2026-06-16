@@ -11,12 +11,12 @@ date_start: '1325'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - kunigaikštis
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - kunigaikštis
+  - vieta
 ---
 # Pamarys
 
@@ -25,7 +25,6 @@ amziai:
 misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.
 
 ## Teiginiai
-
 <a id="claim-t-182877"></a>
 - t-001
   global_id: t-182877
@@ -39,9 +38,10 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   teiginys: 'Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -54,7 +54,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -66,8 +65,10 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
     kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
     lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

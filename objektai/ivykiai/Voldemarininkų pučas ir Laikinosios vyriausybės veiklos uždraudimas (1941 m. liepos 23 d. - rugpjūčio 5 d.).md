@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemarininkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę LAF paskirtus asmenis, paėmė batalionų ir policijos vadovybę į savo rankas. Vyriausybės pirmininkui J.
+Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę. Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-20564"></a>
 - t-002
   global_id: t-20564
-  teiginys: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė LAF.'
+  teiginys: 'Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vyriausybės pir-

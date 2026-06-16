@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Žemaičiai mielai sutiko priimti Kantautą, visoje Žemaitijoje garsų Daumanto giminaitį, savo seniūnu.
+Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.
 
 ## Teiginiai
 
 <a id="claim-t-186123"></a>
 - t-001
   global_id: t-186123
-  teiginys: 'Žemaičiai mielai sutiko priimti Kantautą, visoje Žemaitijoje garsų Daumanto giminaitį, savo seniūnu.'
+  teiginys: 'Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Žemaičiai mielai sutiko priimti Kantautą, visoje Žemaitijoje garsų Daumanto giminaitį, savo seniūnu.'
+  santrauka: 'Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Juos nesunku paveikti gerumu, paskyrus į se­
@@ -53,3 +53,4 @@ atnaujinta: ''
 - [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]

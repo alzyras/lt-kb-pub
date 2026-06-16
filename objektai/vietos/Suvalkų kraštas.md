@@ -16,72 +16,44 @@ tags:
 
 ## Santrauka
 
-Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti. visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre- tingos ir Telšių apskričių dalys. Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.
+Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais. Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis. Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui.
 
 ## Teiginiai
-
-<a id="claim-t-95214"></a>
-- t-001
-  global_id: t-95214
-  teiginys: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-95215"></a>
-- t-002
-  global_id: t-95215
-  teiginys: 'Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-95216"></a>
-- t-003
-  global_id: t-95216
-  teiginys: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-95217"></a>
-- t-004
-  global_id: t-95217
-  teiginys: 'Suvalkų kraštas: užnemunė Prūsų karalystėje. Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais. Jos visos buvo padalintos į Plocko ir Balstogės departamentus. Lietuviškoji Užnemunė priklausė Balstogės departamentui.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-95219"></a>
-- t-005
+- t-004
   global_id: t-95219
   teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-95220"></a>
-- t-006
+- t-005
   global_id: t-95220
-  teiginys: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
+  teiginys: 'Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą).'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pati
-    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
-    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
-    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
-    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
-    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
-    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
-    vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-002
-
 - c-002
   santrauka: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -95,9 +67,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-
+    - t-004
 - c-003
+  santrauka: 'Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sąjungininkų kariuomenė tik
@@ -109,12 +81,13 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-
+    - t-005
 - c-004
   santrauka: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -127,21 +100,44 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     riomis. Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
     visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
     tingos ir Telšių apskričių dalys.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
+    - t-006
 - c-005
+  santrauka: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pati
+    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
+    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
+    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
+    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
+    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
+    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
+    vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: 'Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
     gautąsias žemes pavadino Naujaisiais Rytprūsiais.
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
     Lietuviškoji Užnemunė priklausė Balstogės departamentui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007

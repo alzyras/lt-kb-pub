@@ -9,10 +9,10 @@ date_start: '1958'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
+tags:
+  - vieta
 ---
 # Šiluva
 
@@ -21,7 +21,6 @@ amziai:
 Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.
 
 ## Teiginiai
-
 <a id="claim-t-47480"></a>
 - t-001
   global_id: t-47480
@@ -30,7 +29,6 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Nuo 1958 m. sovietų valdžia ribojo atlaidų lankymą Šiluvoje, blokuodama miestelį neva dėl „kiaulių maro“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

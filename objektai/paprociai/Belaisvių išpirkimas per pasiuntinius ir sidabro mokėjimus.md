@@ -157,6 +157,7 @@ Nenurodyta
 - [[objektai/autoriai/Karamzin]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Parfėjus]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/bojarinai]]

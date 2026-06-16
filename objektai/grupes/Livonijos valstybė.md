@@ -9,46 +9,33 @@ date_start: '1237'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - bajorija
   - grupe
   - ordinas
   - valdovas
-amziai:
-  - 'XIII'
 ---
 # Livonijos valstybė
 
 ## Santrauka
 
-Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas. Livonijos valstybės vadams reikėjo ne tik apsisaugoti nuo Maskvos, bet ir išspręsti bažnytinės valstybės panaikinimo klausimą, nes krašte labai sparčiai plito protestantizmas. 1559 m. Lietuvos seime Vilniuje buvo pasirašyta nauja sutartis, kuria Zigmantas Augustas apsiėmė ginti Livoniją; jam už tai buvo atiduotos 5 ordino ir 2 arkivyskupo pilys, kurias po karo šie galėjo išsipirkti, — magistras už 600.000, o arkivyskupas už 100.000.
+Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.
 
 ## Teiginiai
-
-<a id="claim-t-72595"></a>
-- t-001
-  global_id: t-72595
-  teiginys: '1559 m. Vilniuje Zigmantas Augustas apsiėmė ginti Livoniją, už tai gaudamas 5 ordino ir 2 arkivyskupo pilis.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-72596"></a>
-- t-002
-  global_id: t-72596
-  teiginys: 'Tuo metu Maskva smarkiai puolė Livonijos valstybių žemes, siekdama pasiekti jūrą.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-72598"></a>
-- t-003
+- t-001
   global_id: t-72598
   teiginys: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik čia
@@ -60,34 +47,10 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     mas. Tačiau, nesant vieno valdovo, buvo sunku dėl to susitarti
     ir sunku apsiginti nuo Maskvos; tad būtinai reikėjo šauktis į
     pagalbą kaimynę Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1559 m. Lietuvos
-    seime Vilniuje buvo pasirašyta nauja sutartis, kuria Zigmantas
-    Augustas apsiėmė ginti Livoniją; jam už tai buvo atiduotos
-    5 ordino ir 2 arkivyskupo pilys, kurias po karo šie galėjo išsi-
-    pirkti, — magistras už 600.000, o arkivyskupas už 100.000 auk-
-    sinų. Maskvos kariuomenė tuo tarpu skersai ir išilgai žygiavo
-    po visą Livoniją; ją tik sulaikė atvykusi Lietuvos kariuomene.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas]]
-- [[objektai/grupes/Maskvos kariuomenė]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zigmantas Augustas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/seimas]]

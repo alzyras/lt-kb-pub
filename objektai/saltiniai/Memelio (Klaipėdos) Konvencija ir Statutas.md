@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi. Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln. Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...
+Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų. 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi. 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.
 
 ## Teiginiai
 
@@ -40,7 +40,7 @@ amziai:
 <a id="claim-t-183377"></a>
 - t-003
   global_id: t-183377
-  teiginys: '1939 m. pradžioje britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.'
+  teiginys: '1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.'
   pagrindžia:
     - c-003
 
@@ -81,7 +81,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: '1939 m. pradžioje britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.'
+  santrauka: '1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-

@@ -61,7 +61,6 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/čiornai čiornyje liūdi]]
 - [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/zodynas/schizmatikai graikų apeigų tikėjimas]]

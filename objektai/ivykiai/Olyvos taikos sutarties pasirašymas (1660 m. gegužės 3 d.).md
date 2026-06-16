@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Jos nepriklausomybė buvo patvirtinta 1660 m. Olyvos sutartimi (ATR ir Švedijos taikos sutartis). 1660 m. gegužės 3 d. Lietuva ir Lenkija su Švedija pasirašė Olyvos taikos sutartį.
+1660 m. Olyvos sutartimi buvo patvirtinta Prūsijos nepriklausomybė nuo Lenkijos.
 
 ## Laikotarpis ir datos
 
@@ -41,15 +41,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-41332"></a>
-- t-001
-  global_id: t-41332
-  teiginys: '1660 m. gegužės 3 d. Lietuva ir Lenkija su Švedija pasirašė Olyvos taikos sutartį.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-41333"></a>
-- t-002
+- t-001
   global_id: t-41333
   teiginys: '1660 m. Olyvos sutartimi buvo patvirtinta Prūsijos nepriklausomybė nuo Lenkijos.'
   pagrindžia:
@@ -68,24 +61,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iki 1657 m. kovos Lietuvoje vis in-
-    tensyvėjo ir galiausiai V. Gonsievskio vadovaujamai Lietuvos ka-
-    riuomenei pasidavė paskutinė švedų įgula, buvusi Biržų pilyje.
-    1659-1660 m. iš Lietuvos buvo išvyti paskutiniai švedų kariuomenės
-    likučiai. 1660 m. gegužės 3 d. Lietuva ir Lenkija su Švedija pasirašė
-    Olyvos taikos sutartį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Švedai]]

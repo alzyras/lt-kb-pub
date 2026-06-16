@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų padarinių. Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas. Dusburgietis teigia, kad tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo.
+1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas. Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime. Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V.
 
 ## Teiginiai
 
@@ -38,14 +38,14 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 <a id="claim-t-89287"></a>
 - t-002
   global_id: t-89287
-  teiginys: 'Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o Klemensas V jį panaikino Vieno suvažiavime 1312 m. kovo 23 d.'
+  teiginys: 'Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89288"></a>
 - t-003
   global_id: t-89288
-  teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  teiginys: 'Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V.'
   pagrindžia:
     - c-002
 
@@ -136,6 +136,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Klemensas V]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laužas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/ekskomunikuoti]]

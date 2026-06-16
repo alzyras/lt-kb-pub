@@ -60,6 +60,7 @@ periodo_grupes:
 
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/zodynas/vietininkas]]

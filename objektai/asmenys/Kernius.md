@@ -18,7 +18,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius neturėjo sūnaus įpėdinio, todėl įsūnijo Živinbudą ir ištekino už jo dukterį Pajautą.
+Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.
 
 ## Teiginiai
 
@@ -32,7 +32,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 <a id="claim-t-186006"></a>
 - t-002
   global_id: t-186006
-  teiginys: 'Kernius neturėjo sūnaus įpėdinio, todėl įsūnijo Živinbudą ir ištekino už jo dukterį Pajautą.'
+  teiginys: 'Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
     - t-001
 
 - c-002
-  santrauka: 'Kernius neturėjo sūnaus įpėdinio, todėl įsūnijo Živinbudą ir ištekino už jo dukterį Pajautą.'
+  santrauka: 'Kernius, neturėdamas sūnaus įpėdinio, įsūnijo Živinbudą, jam atidavė dukterį Pajautą ir pridėjo Lietuvos kunigaikštystę kraičiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Galbūt šitaip ir bū­
@@ -80,5 +80,6 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/tėvonija]]
 - [[objektai/asmenys/Pajauta]]
 - [[objektai/asmenys/Živinbudas]]

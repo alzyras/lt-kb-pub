@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.
+Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.
 
 ## Teiginiai
 
 <a id="claim-t-58727"></a>
 - t-001
   global_id: t-58727
-  teiginys: 'Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.'
+  teiginys: 'Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skokiai žr. Zioka

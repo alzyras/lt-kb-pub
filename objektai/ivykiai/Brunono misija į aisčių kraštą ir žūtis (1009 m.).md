@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-1008 m. gale Brunonas, vienuolio vardu Bonifacas, su Boleslovo parama išvyko iš Lenkijos krikštyti aisčių. Misija baigėsi nesėkmingai: 1009 m. vasario 14 d. jis buvo suimtas ir nužudytas su visais palydovais, o vėliau paskelbtas šventuoju kankiniu.
+Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte. 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
 
 ## Laikotarpis ir datos
 
@@ -53,37 +53,21 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 <a id="claim-t-10801"></a>
 - t-001
   global_id: t-10801
-  teiginys: 'Brunonas žuvo jotvingų krašte ir buvo paskelbtas šventuoju kankiniu.'
+  teiginys: 'Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-71739"></a>
 - t-002
   global_id: t-71739
   teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau
-    1008 m. gale jis iš-
-    vyko iš Lenkijos
-    aisčių krikštyti net
-    su 18 palydovų.
-    Bet ir jo misijos
-    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
-    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
@@ -96,7 +80,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
@@ -116,5 +100,4 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Jotvingai]]
 - [[objektai/asmenys/Brunonas]]

@@ -9,17 +9,17 @@ date_start: '1767'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
 tags:
   - ivykis
   - karalius
-amziai:
-  - 'XVIII'
 ---
 # Radomo konfederacija (1767 m.)
 
 ## Santrauka
 
-Radomo konfederacija. Tačiau ir jis ir visi konfederatai labai apsivylė: Radome rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfederacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir karalių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti.
+Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,24 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01784"></a>
 - t-001
   global_id: t-01784
   teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-01785"></a>
-- t-002
-  global_id: t-01785
-  teiginys: '1767 m. Repninui kurstant, Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Už
@@ -74,36 +68,17 @@ Nenurodyta
     vadino, kardinalines teises; be to, iš Rusijos buvo
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Radomo konfederacija.** 1767 m. Repninui kurstant, visuose
-    pavietuose ėmė kurtis prieš karalių ir Čartoriskius nukreiptos
-    konfederacijos. Visi džiaugėsi galėsią atsikratyti nekenčiamo
-    karaliaus ir numesti Čartoriskių
-    jungą. Konfederacijos centru
-    buvo numatytas Radomas,
-    o jos priešaky buvo pastatytas
-    Rusų iš emigracijos atšauktasis
-    K. Radvila.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/zodynas/kitatikiai]]
-- [[objektai/posakiai/kardinalinės teisės]]

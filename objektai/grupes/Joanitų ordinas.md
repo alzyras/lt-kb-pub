@@ -12,25 +12,24 @@ date_start: '1104'
 date_end: '1312'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - ordinas
 amziai:
   - 'XII'
   - 'XIV'
+tags:
+  - grupe
+  - ordinas
 ---
 # Joanitų ordinas
 
 ## Santrauka
 
-Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
+Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv. Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę. Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.
 
 ## Teiginiai
-
 <a id="claim-t-72078"></a>
 - t-001
   global_id: t-72078
-  teiginys: 'Dusburgietis teigia, kad bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
+  teiginys: 'Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
   pagrindžia:
     - c-001
 
@@ -41,17 +40,10 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   pagrindžia:
     - c-002
 
-<a id="claim-t-72080"></a>
-- t-003
-  global_id: t-72080
-  teiginys: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-72081"></a>
 - t-004
   global_id: t-72081
-  teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
+  teiginys: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.'
   pagrindžia:
     - c-003
 
@@ -61,10 +53,16 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginys: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pr. Eylau, dab. Bagrationovskas)
@@ -84,7 +82,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,8 +116,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
+  santrauka: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tad popiežius, išklausęs šią
@@ -141,24 +138,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  santrauka: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš pradžių tokios brolijos
-    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
-    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
-    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
-    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
-    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
-    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-005
   santrauka: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -175,17 +154,35 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   statusas: verified
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš pradžių tokios brolijos
+    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
+    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
+    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
+    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
+    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/asmenys/Klemensas V]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/grupes/Teutonai]]

@@ -29,7 +29,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-07763"></a>
 - t-001
   global_id: t-07763
@@ -45,7 +44,6 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -58,7 +56,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |

@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai 1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva pripažintų Versalio sutarties nuostatus, liečiančius.
+Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos. Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas. Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės.
 
 ## Teiginiai
 
@@ -34,86 +34,54 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   global_id: t-111491
   teiginys: 'Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.'
   pagrindžia:
-    - c-008
+    - c-006
 
 <a id="claim-t-111492"></a>
 - t-002
   global_id: t-111492
-  teiginys: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
+  teiginys: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.'
   pagrindžia:
-    - c-005
+    - c-003
 
 <a id="claim-t-111493"></a>
 - t-003
   global_id: t-111493
-  teiginys: 'Anglijoje gyveno apie 6 000 lietuvių, o JAV – apie 350 000 ir Vilniaus krašte – apie 100 000 lietuvių.'
+  teiginys: 'Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės.'
   pagrindžia:
-    - c-004
+    - c-002
 
 <a id="claim-t-111494"></a>
 - t-004
   global_id: t-111494
-  teiginys: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
+  teiginys: '1588 m. Nenugalimosios armados išsilaipinimui Anglijoje sutrukdė audra, todėl Ispanija šio žygio nekartojo.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-111495"></a>
-- t-005
-  global_id: t-111495
-  teiginys: 'Anglija Lietuvą pripažino 1922 m. gruodžio 20 d. kartu su Prancūzija, Italija ir Japonija.'
-  pagrindžia:
-    - c-001
+    - c-004
 
 <a id="claim-t-111496"></a>
-- t-006
+- t-005
   global_id: t-111496
   teiginys: 'Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.'
   pagrindžia:
-    - c-008
+    - c-006
 
 <a id="claim-t-111497"></a>
-- t-007
+- t-006
   global_id: t-111497
   teiginys: 'Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.'
   pagrindžia:
-    - c-007
-
-<a id="claim-t-111498"></a>
-- t-008
-  global_id: t-111498
-  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  pagrindžia:
-    - c-003
+    - c-005
 
 <a id="claim-t-111499"></a>
-- t-009
+- t-007
   global_id: t-111499
-  teiginys: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.'
+  teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė Angliją, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. išversta į anglų kalbą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    De jure
-    Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos,
-    Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias
-    tada jau buvo pripažinusi de jure 21 valstybė). Iš didžiųjų
-    santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika
-    (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
-    1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva
-    pripažintų Versalio sutarties nuostatus, liečiančius Nemuno
-    navigacijos režimą, t. y. jo internacionalizavimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-002
-  santrauka: 'Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.'
+  santrauka: 'Vilniaus universiteto profesorių veikalai pasiekė Angliją, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. išversta į anglų kalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
@@ -132,30 +100,10 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Turėdami savo rankose uostų kontrolę,
-    sukilėliai tikėjosi palaikyti nuolatinius
-    ryšius su Lenkija ir kitomis šalimis, iš kur
-    tikėtasi paramos. Z. Sierakausko manymu,
-    po mėnesio kito turėjo prasidėti Anglijos
-    ir Prancūzijos intervencija prieš Rusiją.
-    Šiems tikslams įgyvendinti už Anykščių
-    esančio Andrioniškio miške prie Teresboro
-    palivarko (dabar Knebių kaimas) sukilėliai
-    įrengė stovyklą, į kurią sutraukė didesnę
-    dalį savo pajėgų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-004
-  santrauka: 'Anglijoje gyveno apie 6 000 lietuvių, o JAV – apie 350 000 ir Vilniaus krašte – apie 100 000 lietuvių.'
+- c-002
+  santrauka: 'Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     visų prekybos
@@ -173,7 +121,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   pagrindžia:
     - t-003
 
-- c-005
+- c-003
+  santrauka: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
@@ -190,7 +139,8 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   pagrindžia:
     - t-002
 
-- c-006
+- c-004
+  santrauka: '1588 m. Nenugalimosios armados išsilaipinimui Anglijoje sutrukdė audra, todėl Ispanija šio žygio nekartojo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viena priežasčių, dėl kurių Ispanija
@@ -205,7 +155,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   pagrindžia:
     - t-004
 
-- c-007
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miechovita, Strijkovskis
@@ -240,9 +190,9 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-008
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
@@ -261,5 +211,5 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
     - t-001

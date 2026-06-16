@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis — Krismence (ПСРЛ, 2, стб. Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.
+Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“. Volynės metraštyje teritorija Crasim minima forma Krismence.
 
 ## Teiginiai
 
 <a id="claim-t-61014"></a>
 - t-001
   global_id: t-61014
-  teiginys: 'Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.'
+  teiginys: 'Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus

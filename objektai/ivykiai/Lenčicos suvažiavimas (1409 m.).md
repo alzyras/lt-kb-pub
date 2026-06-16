@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas išspręstas, gavo viršų bendradarbiavimo idė­ ja su Lietuva.
+1409 m. Lenčicos suvažiavime buvo pritarta bendradarbiavimui su Lietuva prieš Ordiną.
 
 ## Laikotarpis ir datos
 
@@ -42,13 +42,14 @@ Nenurodyta
 <a id="claim-t-35852"></a>
 - t-001
   global_id: t-35852
-  teiginys: '1409 m. Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja.'
+  teiginys: '1409 m. Lenčicos suvažiavime buvo pritarta bendradarbiavimui su Lietuva prieš Ordiną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1409 m. Lenčicos suvažiavime buvo pritarta bendradarbiavimui su Lietuva prieš Ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada jie

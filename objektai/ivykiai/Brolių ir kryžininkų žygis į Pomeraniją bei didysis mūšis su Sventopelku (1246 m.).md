@@ -142,6 +142,7 @@ Nenurodyta
 - [[objektai/asmenys/Druzigeris]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Pomeranai]]

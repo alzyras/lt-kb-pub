@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.). Sumanęs suduoti Augustui smūgį skaudžiausioje vietoje, Karolis nužygiavo į Saksoniją.
+Karolis XII, siekdamas smogti Augustui skaudžiausioje vietoje, nužygiavo į Saksoniją.
 
 ## Laikotarpis ir datos
 
@@ -31,57 +31,34 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66604"></a>
+<a id="claim-t-66605"></a>
 - t-001
-  global_id: t-66604
-  teiginys: 'Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
+  global_id: t-66605
+  teiginys: 'Karolis XII, siekdamas smogti Augustui skaudžiausioje vietoje, nužygiavo į Saksoniją.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66605"></a>
-- t-002
-  global_id: t-66605
-  teiginys: 'Sumanęs suduoti Augustui smūgį skaudžiausioje vietoje, Karolis nužygiavo į Saksoniją.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Karolis XII
-    staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
-    pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
-    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
-    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
-    atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
-    (1706 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Karolis XII, siekdamas smogti Augustui skaudžiausioje vietoje, nužygiavo į Saksoniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į Brastą atvyko ir Augustas. Karolis XII
     staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
     pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
     vietoje, Karolis nužygiavo į Saksoniją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Karolis]]
 - [[objektai/asmenys/Karolis XII]]
-- [[objektai/asmenys/Augustas II]]
-- [[objektai/asmenys/Stanislovas Leščinskis]]

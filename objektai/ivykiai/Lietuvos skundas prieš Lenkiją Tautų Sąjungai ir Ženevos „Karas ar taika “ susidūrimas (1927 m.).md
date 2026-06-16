@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo atšaukusi karo padėties su Lenkija. Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administracine linija“, bet ne „siena“, kaip norėjo lietuviai.
+Lenkijai ėmusis sankcijų prieš Vilniaus krašto lietuvių organizacijas, 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai. Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet nepripažino jos valstybine siena. Ženevoje Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-101531"></a>
 - t-001
   global_id: t-101531
-  teiginys: 'Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo atšaukusi karo padėties su Lenkija.'
+  teiginys: 'Lenkijai ėmusis sankcijų prieš Vilniaus krašto lietuvių organizacijas, 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai.'
   pagrindžia:
     - c-001
 
@@ -58,13 +58,14 @@ Nenurodyta
 <a id="claim-t-101533"></a>
 - t-003
   global_id: t-101533
-  teiginys: 'Ženevoje Tautų Sąjungos Taryba patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
+  teiginys: 'Ženevoje Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lenkijai ėmusis sankcijų prieš Vilniaus krašto lietuvių organizacijas, 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų Sąjungos Tarybai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
@@ -103,4 +104,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]

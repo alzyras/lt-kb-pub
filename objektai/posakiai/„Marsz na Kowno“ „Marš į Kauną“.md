@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-„Marsz na Kowno“ („Marš į Kauną“) yra Lenkijos miestų gatvėse skanduota formulė 1938 m. ultimatumo Lietuvai kontekste. Ištraukoje ji rodoma kaip karštakošių gatvės reakcija, nors oficialiąją Varšuvą ultimatumo rezultatai tenkino.
+1938 m. Lenkijos ultimatumo Lietuvai kontekste Lenkijos miestų gatvėse skanduota „Marsz na Kowno“. Lenkijos miestų gatvėse tūkstančiai žmonių skandavo „Marsz na Kowno“ („Marš į Kauną“), nors oficialiąją Varšuvą ultimatumo rezultatai tenkino. 1938 m. kovo 19 d. Lietuvai priėmus Lenkijos ultimatumą, Lenkijos miestų gatvėse skanduota „Marsz na Kowno“ („Marš į Kauną“).
 
 ## Teiginiai
 
@@ -47,7 +47,7 @@ amziai:
 <a id="claim-t-104219"></a>
 - t-004
   global_id: t-104219
-  teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
+  teiginys: 'Po Lietuvos priimto Lenkijos ultimatumo tūkstančiai žmonių Lenkijos miestų gatvėse skandavo „Marsz na Kowno“ („Marš į Kauną“).'
   pagrindžia:
     - c-001
 

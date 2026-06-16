@@ -14,36 +14,28 @@ date_start: '1211'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XXI'
 tags:
   - ginklas
   - karalius
   - ordinas
   - valstybė
-amziai:
-  - 'XIII'
-  - 'XXI'
 ---
 # Vengrija
 
 ## Santrauka
 
-Į Vengriją ordinas buvo pakviestas kariauti su ją puolančiais pagonimis kumanais. Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),. Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.
+Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis. 1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje. Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje.
 
 ## Teiginiai
-
 <a id="claim-t-180762"></a>
 - t-001
   global_id: t-180762
   teiginys: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-180763"></a>
-- t-002
-  global_id: t-180763
-  teiginys: '1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-180764"></a>
 - t-003
@@ -59,33 +51,12 @@ amziai:
   pagrindžia:
     - c-002
 
-<a id="claim-t-180766"></a>
-- t-005
-  global_id: t-180766
-  teiginys: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-180767"></a>
 - t-006
   global_id: t-180767
-  teiginys: 'Tais pačiais metais totoriai nuniokojo Vengriją ir Lenkiją.'
+  teiginys: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-180768"></a>
-- t-007
-  global_id: t-180768
-  teiginys: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-180770"></a>
-- t-009
-  global_id: t-180770
-  teiginys: 'Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.'
-  pagrindžia:
-    - c-004
 
 <a id="claim-t-180772"></a>
 - t-010
@@ -97,7 +68,7 @@ amziai:
 <a id="claim-t-180773"></a>
 - t-011
   global_id: t-180773
-  teiginys: 'Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).'
+  teiginys: 'Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).'
   pagrindžia:
     - c-002
 
@@ -111,40 +82,56 @@ amziai:
 <a id="claim-t-180775"></a>
 - t-013
   global_id: t-180775
-  teiginys: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  teiginys: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-183102"></a>
-- t-014
-  global_id: t-183102
-  teiginys: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-185173"></a>
-- t-015
+- t-014
   global_id: t-185173
   teiginys: 'Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-185174"></a>
-- t-016
+- t-015
   global_id: t-185174
   teiginys: 'Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-185175"></a>
-- t-017
+- t-016
   global_id: t-185175
   teiginys: 'Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu.'
   pagrindžia:
+    - c-011
+- t-017
+  teiginys: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui.'
+  pagrindžia:
     - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-018
+  teiginys: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti.'
+  pagrindžia:
+    - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.'
+  pagrindžia:
+    - c-013
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: '1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje.'
+  pagrindžia:
+    - c-013
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -161,7 +148,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -179,41 +165,8 @@ amziai:
   pagrindžia:
     - t-004
     - t-011
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
-    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
-    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
-    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-    - t-005
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau laimėjo lietuviai
-    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
-    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-
-    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
-    kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-    - t-002
-
 - c-005
+  santrauka: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi,
@@ -229,9 +182,8 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-013
-
 - c-006
-  santrauka: 'Tais pačiais metais totoriai nuniokojo Vengriją ir Lenkiją.'
+  santrauka: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     22. Apie Vengrijos ir Lenkijos nusiaubimą
@@ -242,7 +194,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -257,7 +208,6 @@ amziai:
   pagrindžia:
     - t-010
     - t-012
-
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -279,23 +229,7 @@ amziai:
   pagrindžia:
     - t-003
     - t-008
-
 - c-009
-  santrauka: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vidaus gyvenimas Stepono Batoro laikais
-    Tikybiniai santykiai.** Nors Stepono Batoro tėvynėje, Veng-
-    rijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauk-
-    lėtas katalikiškai. Kad ir užaugęs tikybinių kovų metu, jis vis
-    dėlto buvo ne fanatikas, bet didelis tolerantas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-010
   santrauka: 'Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -316,9 +250,8 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
-
-- c-011
+    - t-014
+- c-010
   santrauka: 'Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -334,9 +267,8 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-016
-
-- c-012
+    - t-015
+- c-011
   santrauka: 'Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -353,4 +285,41 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-016
+- c-012
+  santrauka: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
+    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
+    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
+    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
+    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-017
+    - t-018
+- c-013
+  santrauka: 'Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau laimėjo lietuviai
+    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
+    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+
+    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
+    kariuomenę, kuri buvo suspiesta Pskove.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
+    - t-020

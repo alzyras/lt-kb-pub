@@ -23,17 +23,18 @@ tags:
 - Pagrindinė forma: piktuoju iš manęs dar niekas nieko nelaimėjo
 
 ## Teiginiai
-
 <a id="claim-t-06880"></a>
 - t-001
   global_id: t-06880
   teiginys: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas supykęs atrėžė:
@@ -41,9 +42,11 @@ tags:
     nęs dar niekas nieko nelaimėjo. Kas manęs ne-
     gerbia, to nevertinu nė aš. Savo nusistatymo aš nekei-
     čiu, ir niekas negali manęs priversti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

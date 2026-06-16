@@ -13,27 +13,21 @@ tags:
 
 ## Santrauka
 
-Tam įsteigtas Liaudies buities muziejus Rumšiškėse (netoli Kauno), įkurtos meno ir kraštotyros draugijos, legalizuoti etnografiniai tyrimai, leista kurti folkloro ansamblius.
+Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus. Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
 
 ## Teiginiai
 
 <a id="claim-t-21760"></a>
 - t-001
   global_id: t-21760
-  teiginys: 'Rumšiškėse, netoli Kauno, buvo įsteigtas Liaudies buities muziejus.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183628"></a>
-- t-002
-  global_id: t-183628
   teiginys: 'Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nusižengusieji buvo kaltinami „buržuaziniu naciona-

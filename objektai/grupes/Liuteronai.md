@@ -28,14 +28,14 @@ amziai:
 
 ## Santrauka
 
-Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.
+Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis. LDK santvarka leido liuteronams egzistuoti šalia katalikų ir kitų etnokonfesinių bendrijų.
 
 ## Teiginiai
 
 <a id="claim-t-45108"></a>
 - t-001
   global_id: t-45108
-  teiginys: 'Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.'
+  teiginys: 'Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis.'
   pagrindžia:
     - c-001
 
@@ -49,6 +49,7 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Liuteronybė nuo 1539 m. buvo ankstyviausia reformacijos kryptis Lietuvoje, o vėliau liuteronų bendruomenės imtos vadinti vokiečių bendruomenėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
@@ -92,12 +93,10 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
@@ -110,7 +109,6 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
 - [[objektai/asmenys/Valerijonas Suškovskis Protasevičius|Valerijonas Suškovskis Protasevičius (vyskupas)]]
 - [[objektai/zodynas/atskala]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]

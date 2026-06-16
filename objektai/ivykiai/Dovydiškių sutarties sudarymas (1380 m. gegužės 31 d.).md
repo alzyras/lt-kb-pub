@@ -9,11 +9,11 @@ date_start: '1380'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - ivykis
   - sutartis
-amziai:
-  - 'XIV'
 ---
 # Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)
 
@@ -38,7 +38,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-54161"></a>
 - t-001
   global_id: t-54161
@@ -47,7 +46,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

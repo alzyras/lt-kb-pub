@@ -55,4 +55,5 @@ Mackevičius, 1934 m. L I E T U V O S I S T O R I J A 52 ceremonija neįvyko –
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/grupes/Lenkai]]

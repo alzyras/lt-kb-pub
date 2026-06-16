@@ -11,23 +11,23 @@ datos:
   - '1383 m.'
 date_start: '1160'
 date_end: '1383'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XIV'
 aliases:
   - 'objektai/daiktai/Sieliai'
 variantai:
   - 'Sieliai'
-sukurta: ''
-atnaujinta: ''
 tags:
   - daiktas
-amziai:
-  - 'XII'
-  - 'XIV'
 ---
 # Laivai
 
 ## Santrauka
 
-Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryžiuočiai plaukė su karo laivu ir kitais laivais, Vytenis atsakė pasiųsdamas 100 laivų, o rygiečiai bei Livonijos kariuomenė taip pat judėjo laivais.
+1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku. 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos. Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
 
 ## Pavadinimai šaltiniuose
 
@@ -50,11 +50,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-12313"></a>
 - t-001
   global_id: t-12313
-  teiginys: '1382 m. pavasarį Kęstutis armotomis ginkluotais laivais nuplaukė Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
+  teiginys: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
   pagrindžia:
     - c-003
 
@@ -75,7 +74,7 @@ Nenurodyta
 <a id="claim-t-179483"></a>
 - t-004
   global_id: t-179483
-  teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
+  teiginys: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   pagrindžia:
     - c-008
 
@@ -115,15 +114,14 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-179490"></a>
-- t-010
-  global_id: t-179490
+- t-017
   teiginys: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
   pagrindžia:
-    - c-006
+    - c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -134,7 +132,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-002
   santrauka: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -166,9 +163,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-003
-  santrauka: '1382 m. pavasarį Kęstutis armotomis ginkluotais laivais nuplaukė Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
+  santrauka: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     su Vokiečiu Ordinu. Jis darė 1382 m. sausio mėn. žygius į jo
@@ -183,7 +179,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -201,7 +196,6 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-008
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -218,25 +212,6 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-005
-
-- c-006
-  santrauka: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Yra
-    žinių, kad senų senovėje aisčiams daug teko kariauti su skandi-
-    navais (danais ir dabartiniais švedais), kurie nuolat puldavo
-    aisčių kraštus, о IX amž. buvo nęt pavergę kai kurias pajūrio
-    gimines. Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
-    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
-    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
-    jie bus turėję ir laivų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -250,9 +225,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-008
-  santrauka: 'Didysis magistras slapta iš Marienburgo išplaukė laivais Vysla, o per jūros įlanką įplaukė į Nemuną.'
+  santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -271,7 +245,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-009
   santrauka: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -295,6 +268,25 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+- c-010
+  santrauka: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Yra
+    žinių, kad senų senovėje aisčiams daug teko kariauti su skandi-
+    navais (danais ir dabartiniais švedais), kurie nuolat puldavo
+    aisčių kraštus, о IX amž. buvo nęt pavergę kai kurias pajūrio
+    gimines. Aisčiai jau tuomet turėjo savo valstybėlių, kurių vadai
+    dažnai užpuldavo ne tik čia pajūryje įkurtas skandinavų kolo-
+    nijas, bet padarydavo karo žygių net į skandinavų kraštus. Taigi
+    jie bus turėję ir laivų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
@@ -341,7 +333,6 @@ Nenurodyta
 - [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
 - [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
-- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/asmenys/Kodrūnas]]
 - [[objektai/asmenys/Konradas Bremeris]]

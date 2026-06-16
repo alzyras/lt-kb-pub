@@ -45,6 +45,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/žygis]]

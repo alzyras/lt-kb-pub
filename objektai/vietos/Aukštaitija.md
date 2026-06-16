@@ -10,11 +10,11 @@ date_start: '1259'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Aukštaitija
 
@@ -23,7 +23,6 @@ amziai:
 Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas. Platus Nemuno ir Neries baseinas sudarė Aukštaičių žemės pagrindą, pradinė Lietuva buvo tik jos dalis, o apie 1259 m. Aukštaitiją nusiaubė Burundajaus ir Danieliaus pajėgos.
 
 ## Teiginiai
-
 <a id="claim-t-176930"></a>
 - t-001
   global_id: t-176930
@@ -32,7 +31,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

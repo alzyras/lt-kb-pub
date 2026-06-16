@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip Vilniaus universiteto profesorių veikalų poveikio Europai pavyzdį.
+Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį. Martynas Smigleckis parašė veikalą apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir privačią prekybą. Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
 
 ## Darbai
 
@@ -34,7 +34,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 <a id="claim-t-105591"></a>
 - t-001
   global_id: t-105591
-  teiginys: 'Martynas Smigleckis, nagrinėdamas monopolio puses, Vilnių pateikė kaip stiklo prekių pavyzdį.'
+  teiginys: 'Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį.'
   pagrindžia:
     - c-004
 
@@ -49,13 +49,6 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 - t-003
   global_id: t-105593
   teiginys: 'Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-105594"></a>
-- t-004
-  global_id: t-105594
-  teiginys: 'Martyno Smigleckio 1618 m. „Logika“ pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.'
   pagrindžia:
     - c-001
 
@@ -146,6 +139,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     - t-005
 
 - c-004
+  santrauka: 'Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nagrinėdamas geras ir blogas priva­

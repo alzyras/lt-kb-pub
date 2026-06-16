@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­ jėgęs tik vyriausias žynys Lizdeika išaiškinti. 8) 374 Šventaragio slėnys 244 Šv.
+Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv. Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje. Tai buvo Šventaragio slėny prie pat pilies kalno.
 
 ## Teiginiai
 
@@ -74,7 +74,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-120087"></a>
 - t-007
   global_id: t-120087
-  teiginys: 'Balińskis Vilniaus vardą siejo su Vilnios upe ir iš to sprendė, kad pirmykštė gyvenvietė turėjo būti prie Vilnios.'
+  teiginys: 'Balińskis Šventaragio slėnio lydimus siejo su senovinės Vilniaus gyvenvietės plėtra nuo Vilnios krantų Vilijos link.'
   pagrindžia:
     - c-008
 
@@ -137,7 +137,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 <a id="claim-t-185217"></a>
 - t-016
   global_id: t-185217
-  teiginys: 'Skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotuves.'
+  teiginys: 'Skirgaila Šventaragio slėnyje surengė karališkas šermenis ir laidotuves savo dėdei Kęstučiui.'
   pagrindžia:
     - c-011
 
@@ -371,7 +371,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - t-005
 
 - c-011
-  santrauka: 'Skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotuves.'
+  santrauka: 'Skirgaila Šventaragio slėnyje surengė karališkas šermenis ir laidotuves savo dėdei Kęstučiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ši­

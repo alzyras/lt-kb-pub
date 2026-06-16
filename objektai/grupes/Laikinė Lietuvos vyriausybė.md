@@ -16,17 +16,18 @@ tags:
 Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
 
 ## Teiginiai
-
 <a id="claim-t-01362"></a>
 - t-001
   global_id: t-01362
   teiginys: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorijos atsiunčiamoms de-
@@ -35,13 +36,14 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
     kinę savo valdžią.
     Laikinės Lietuvos vyriausybės priešaky
     atsistojo grafas Soltanas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lietuvos bajorija]]

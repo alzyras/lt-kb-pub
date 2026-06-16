@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei. Dusburgietis teigia, kad jėzus Kristus skelbti ir savo stebuklus, nes jie galingi. Dusburgietis teigia, kad septyni Teutonų ordino broliai su keliais ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium], bet ilgainiui, per penkiasdešimt trejus.
+Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai. Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi. Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius.
 
 ## Teiginiai
 
 <a id="claim-t-89876"></a>
 - t-001
   global_id: t-89876
-  teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
+  teiginys: 'Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-89877"></a>
 - t-002
   global_id: t-89877
-  teiginys: 'Dusburgietis teigia, kad jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'
+  teiginys: 'Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'
   pagrindžia:
     - c-001
 
@@ -50,6 +50,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šit
@@ -114,6 +115,8 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/daiktai/Kuoras aukštai ąžuole]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

@@ -88,6 +88,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/zodynas/šeimynykštis]]
 - [[objektai/asmenys/Skomantas]]

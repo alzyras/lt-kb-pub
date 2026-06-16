@@ -53,5 +53,4 @@ Prie kulkosvaidžio pritvirtintas užrašas: „Kulkosvydis, iš kurio šaudydam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Rusai]]

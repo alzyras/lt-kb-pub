@@ -71,9 +71,11 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Bazilijonų ordinas]]
+- [[objektai/asmenys/Jurgis Cemblakas]]
+- [[objektai/grupes/Unitai]]
 - [[objektai/zodynas/metropolitas]]

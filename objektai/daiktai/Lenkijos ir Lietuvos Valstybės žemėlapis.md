@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-vidurio Lenkijos ir Lietuvos Valstybės žemėlapis, kuriame matyti ir LDK sienos (Varšuvos karalių pilis) 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 67 LDK Baroko Europoje.
+XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.
 
 ## Pavadinimai šaltiniuose
 
@@ -42,14 +42,14 @@ Nenurodyta
 <a id="claim-t-64955"></a>
 - t-001
   global_id: t-64955
-  teiginys: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje buvo matyti ir LDK sienos.'
+  teiginys: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje buvo matyti ir LDK sienos.'
+  santrauka: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau

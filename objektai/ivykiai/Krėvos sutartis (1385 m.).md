@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1385 Krėvos sutartis. Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi. 1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.
+Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos. Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos. Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 
 ## Laikotarpis ir datos
 
@@ -80,7 +80,7 @@ Nenurodyta
 <a id="claim-t-183231"></a>
 - t-006
   global_id: t-183231
-  teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.'
+  teiginys: '1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai buvo priimtas dokumentas, į istoriją įėjęs Krėvos sutarties vardu.'
   pagrindžia:
     - c-005
 

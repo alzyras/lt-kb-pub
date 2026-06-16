@@ -17,17 +17,18 @@ tags:
 Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vigriuose (1798 m.; 1818 m. ji buvo perkelta į Seinus).
 
 ## Teiginiai
-
 <a id="claim-t-02863"></a>
 - t-001
   global_id: t-02863
   teiginys: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šiaurinė Užnemunės dalis anksčiau priklausė
@@ -38,8 +39,10 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
     kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
     lankus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

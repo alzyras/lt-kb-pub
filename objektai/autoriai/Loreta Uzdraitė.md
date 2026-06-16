@@ -20,7 +20,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir informacinių blokų bendraautorė. Jos bendraautorystė matoma tiek viduramžių, tiek partizaninio karo ir 1991 m. medžiagoje.
+Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę. Loreta Uzdraitė kartu su Albertu Daugirdu ir Karoliu Zikaru parengė kartoschemą apie AT rūmų gynybos ruožus 1991 m. sausio-rugpjūčio mėnesiais. Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.
 
 ## Darbai
 
@@ -57,7 +57,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 <a id="claim-t-78780"></a>
 - t-004
   global_id: t-78780
-  teiginys: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
+  teiginys: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
   pagrindžia:
     - c-008
 
@@ -224,7 +224,7 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
     - t-002
 
 - c-008
-  santrauka: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
+  santrauka: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,

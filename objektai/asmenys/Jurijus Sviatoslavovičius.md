@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė savo karines jėgas prie Vytauto.
+Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.
 
 ## Teiginiai
 
 <a id="claim-t-186120"></a>
 - t-001
   global_id: t-186120
-  teiginys: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė savo karines jėgas prie Vytauto.'
+  teiginys: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė savo karines jėgas prie Vytauto.'
+  santrauka: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Drucko kunigaikščiai, pirmųjų Rusios valdo­

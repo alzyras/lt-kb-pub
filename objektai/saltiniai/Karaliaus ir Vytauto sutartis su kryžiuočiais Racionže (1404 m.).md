@@ -16,14 +16,14 @@ amziai:
 
 ## Santrauka
 
-Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvyko Jogaila, Vytautas ir magistras Jungingenas. Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę.
+Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių. Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę.
 
 ## Teiginiai
 
 <a id="claim-t-186316"></a>
 - t-001
   global_id: t-186316
-  teiginys: 'Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvyko Jogaila, Vytautas ir magistras Jungingenas.'
+  teiginys: 'Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.'
   pagrindžia:
     - c-001
 
@@ -37,7 +37,7 @@ Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvy
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jogaila ir kryžiuočiai susitarė taikos reikalą svarstyti Racionže, kur atvyko Jogaila, Vytautas ir magistras Jungingenas.'
+  santrauka: 'Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Gavęs ži­

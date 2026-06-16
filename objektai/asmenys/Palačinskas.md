@@ -45,5 +45,4 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Durtuvas]]

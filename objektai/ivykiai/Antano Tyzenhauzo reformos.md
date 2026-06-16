@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia. Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.
+Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius. Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų. Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 
 ## Laikotarpis ir datos
 
@@ -37,7 +37,7 @@ Nenurodyta
 <a id="claim-t-66449"></a>
 - t-001
   global_id: t-66449
-  teiginys: 'Antanas Tyzenhauzas karališkosiose ekonomijose ėmėsi radikalių reformų, keitusių Lietuvos ūkį.'
+  teiginys: 'Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.'
   pagrindžia:
     - c-002
 

@@ -17,14 +17,14 @@ date_start: '1587'
 date_end: '1763'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+  - 'XVIII'
 tags:
   - grupe
   - kunigas
   - ordinas
   - popiežius
-amziai:
-  - 'XVI'
-  - 'XVIII'
 ---
 # Unitai
 
@@ -33,7 +33,6 @@ amziai:
 Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
 
 ## Teiginiai
-
 <a id="claim-t-45238"></a>
 - t-001
   global_id: t-45238
@@ -46,27 +45,11 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   global_id: t-182929
   teiginys: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
   pagrindžia:
-    - c-001
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniuje šie turėjo net savą, popiežiaus iš-
-    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
-    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
-    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
-    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
-    ir aukštesniųjų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-002
   santrauka: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -93,6 +76,24 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   statusas: verified
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
+    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
+    ir aukštesniųjų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -100,19 +101,13 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/pravoslavai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]
-- [[objektai/grupes/Pravoslavai]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
-- [[objektai/zodynas/kitatikiai]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
-- [[objektai/zodynas/pravoslavija]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]

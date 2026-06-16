@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
+Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
 
 ## Teiginiai
 
 <a id="claim-t-60467"></a>
 - t-001
   global_id: t-60467
-  teiginys: 'Dusburgietis teigia, kad vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.'
+  teiginys: 'Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita vertus, jis

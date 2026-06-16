@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo muškietininkų pulko du batalionai, Dono kazokų pulkas, keturios lauko artilerijos kompanijos (kuopos) ir keletas kitų smulkesnių dalinių. Kazimiero bažnyčios), kurią saugojo Narvos muškietininkų pulko dvi kuopos.
+Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos. Narvos muškietininkų pulko dvi kuopos saugojo hauptvachtą prie Šv. Kazimiero bažnyčios. Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.
 
 ## Teiginiai
 
 <a id="claim-t-78388"></a>
 - t-001
   global_id: t-78388
-  teiginys: 'Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
+  teiginys: 'Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
   pagrindžia:
     - c-002
 
@@ -29,13 +29,6 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   teiginys: 'Narvos muškietininkų pulko dvi kuopos saugojo hauptvachtą prie Šv. Kazimiero bažnyčios.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-78390"></a>
-- t-003
-  global_id: t-78390
-  teiginys: 'Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo muškietininkų pulko du batalionai, Dono kazokų pulkas, keturios lauko artilerijos kompanijos (kuopos) ir keletas kitų smulkesnių dalinių.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -56,7 +49,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - t-002
 
 - c-002
-  santrauka: 'Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
+  santrauka: 'Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
@@ -84,6 +77,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - t-001
 
 - c-003
+  santrauka: 'Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuviams puolant balandžio 23 d.
@@ -113,6 +107,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/muškietininkai]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/grupes/Dono kazokų pulkas]]
 - [[objektai/asmenys/E. Sabeckis]]
 - [[objektai/grupes/Pskovo muškietininkų pulkas]]

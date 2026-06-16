@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+Brolio Hermano vadovavimo metais Ordinas gavo puikių dovanų Romanijoje.
 
 ## Teiginiai
 
 <a id="claim-t-58766"></a>
 - t-001
   global_id: t-58766
-  teiginys: 'Brolio Hermano vadovavimo metais Ordinas gavo dovanų Romanijoje.'
+  teiginys: 'Brolio Hermano vadovavimo metais Ordinas gavo puikių dovanų Romanijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Brolio Hermano vadovavimo metais Ordinas gavo dovanų Romanijoje.'
+  santrauka: 'Brolio Hermano vadovavimo metais Ordinas gavo puikių dovanų Romanijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė

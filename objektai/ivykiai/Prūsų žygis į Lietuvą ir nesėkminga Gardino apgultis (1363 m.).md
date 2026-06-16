@@ -67,6 +67,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/autoriai/Volfgangas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

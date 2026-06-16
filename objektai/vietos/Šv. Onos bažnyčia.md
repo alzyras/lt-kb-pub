@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Onos bažnyčios atsiradimo žr.
+Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.
 
 ## Teiginiai
 
 <a id="claim-t-86287"></a>
 - t-001
   global_id: t-86287
-  teiginys: 'Onos bažnyčios atsiradimo žr.'
+  teiginys: 'Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Patartume peri­

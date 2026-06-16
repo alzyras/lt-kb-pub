@@ -19,43 +19,20 @@ amziai:
 
 ## Santrauka
 
-Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą (1993 m. realusis bendrasis vidaus produktas (BVP) sudarė 40 proc.
+Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.
 
 ## Teiginiai
 
-<a id="claim-t-21983"></a>
-- t-001
-  global_id: t-21983
-  teiginys: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP smarkiai sumažėjo.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-183404"></a>
-- t-002
+- t-001
   global_id: t-183404
   teiginys: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nutrū-
-    kus seniems ekonominiams ryšiams, Lietuvos didžiųjų įmonių gamina-
-    mų prekių nebebuvo kur dėti.
-    Padėtį sunkino staiga padidėjusios strateginių žaliavų ir energijos iš-
-    teklių kainos. Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m.
-    patyrė sukrėtimą (1993 m. realusis bendrasis vidaus produktas (BVP) su-
-    darė 40 proc.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -66,4 +43,4 @@ Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą (1
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

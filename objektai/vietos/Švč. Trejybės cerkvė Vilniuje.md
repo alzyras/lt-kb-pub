@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies. Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.
+1505 m. miesto sienoje nurodyta palikti vartus palei Švč. Trejybės cerkvę, dabartinių Aušros vartų vietoje. Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 <a id="claim-t-86135"></a>
 - t-002
   global_id: t-86135
-  teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
+  teiginys: 'Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.'
   pagrindžia:
     - c-002
 
@@ -65,6 +65,7 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
     - t-001
 
 - c-002
+  santrauka: 'Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės

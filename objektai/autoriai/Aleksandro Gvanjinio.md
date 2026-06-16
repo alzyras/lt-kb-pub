@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais. Gvanjinio knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas 1512 m. Lopušnos mūšis, kuriame jungtinė lietuvių ir lenkų kariuomenė sumušė įsiveržusias Krymo totorių pajėgas.
+Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais. Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis. Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.
 
 ## Teiginiai
 
@@ -37,13 +37,14 @@ periodo_grupes:
 <a id="claim-t-78740"></a>
 - t-002
   global_id: t-78740
-  teiginys: 'Gvanjinio knygoje konkrečiai nenurodoma, koks mūšis vaizduojamas, tačiau labiausiai tikėtina, kad čia vaizduojamas 1512 m. Lopušnos mūšis, kuriame jungtinė lietuvių ir lenkų kariuomenė sumušė įsiveržusias Krymo totorių pajėgas.'
+  teiginys: 'Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aleksandro Gvanjinio knygoje neįvardytas iliustracijoje vaizduojamas mūšis, bet labiausiai tikėtina, kad tai 1512 m. Lopušnos mūšis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m. A. Gvanjinio

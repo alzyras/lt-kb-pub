@@ -104,7 +104,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/ivykiai/Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)]]

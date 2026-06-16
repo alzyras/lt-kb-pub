@@ -325,6 +325,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]

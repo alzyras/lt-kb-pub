@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Atrodė, jog trūksta tik karūnos, kad ir antrasis Vytauto politikos prioritetas – Lietuvos karalystė – būtų pasiektas. Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią, numatytą XIV a.
+Vytauto karūna laikyta būtina sąlyga Lietuvos karalystės siekiui įgyvendinti. Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai. Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.
 
 ## Pavadinimai šaltiniuose
 
@@ -62,7 +62,7 @@ Nenurodyta
 <a id="claim-t-19614"></a>
 - t-003
   global_id: t-19614
-  teiginys: 'Lucko suvažiavime iškilo Vytauto vainikavimo planas, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
+  teiginys: 'Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
   pagrindžia:
     - c-002
 
@@ -84,6 +84,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo

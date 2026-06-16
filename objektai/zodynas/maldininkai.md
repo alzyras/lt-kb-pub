@@ -26,21 +26,21 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų. Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais. Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.
+1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių. 1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava. 1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.
 
 ## Teiginiai
 
 <a id="claim-t-58825"></a>
 - t-001
   global_id: t-58825
-  teiginys: 'Maldininkai 1096 m. užėmė Jeruzalę ir daugelį kitų miestų bei pilių, išvaduodami juos iš netikėlių rankų.'
+  teiginys: '1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-58826"></a>
 - t-002
   global_id: t-58826
-  teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
+  teiginys: '1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava.'
   pagrindžia:
     - c-003
 
@@ -108,7 +108,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     - t-003
 
 - c-003
-  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
+  santrauka: '1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
@@ -147,7 +147,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     - t-004
 
 - c-005
-  santrauka: 'Maldininkai 1096 m. užėmė Jeruzalę ir daugelį kitų miestų bei pilių, išvaduodami juos iš netikėlių rankų.'
+  santrauka: '1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
@@ -187,6 +187,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/grupes/Vokiečiai]]
@@ -236,6 +237,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/asmenys/Štenkelis iš Bentheimo]]
+- [[objektai/zodynas/landgrafas]]
 - [[objektai/asmenys/Arnoldas iš Elnerio]]
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
@@ -246,4 +248,3 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
 - [[objektai/asmenys/Elžbieta]]
-- [[objektai/zodynas/landgrafas]]

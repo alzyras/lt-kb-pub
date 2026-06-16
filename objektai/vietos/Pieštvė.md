@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę. Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės. Dusburgietis teigia, kad pieštvės pilis buvo deš.
+Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius. Pieštvės pilis buvo deš. Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 <a id="claim-t-58401"></a>
 - t-002
   global_id: t-58401
-  teiginys: 'Dusburgietis teigia, kad pieštvės pilis buvo deš.'
+  teiginys: 'Pieštvės pilis buvo deš.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pieštvės pilis buvo deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto

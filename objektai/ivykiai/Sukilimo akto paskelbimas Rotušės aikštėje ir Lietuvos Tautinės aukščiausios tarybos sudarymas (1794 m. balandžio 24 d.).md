@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudarytas vykdomosios valdžios organas - Lietuvos Tautinė aukščiausia taryba (Roda Naididžiausia Naradaus Lietuvos).
+1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba. 1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.
 
 ## Laikotarpis ir datos
 
@@ -44,13 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-78638
   teiginys: '1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-78639"></a>
-- t-002
-  global_id: t-78639
-  teiginys: 'Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba.'
   pagrindžia:
     - c-001
 

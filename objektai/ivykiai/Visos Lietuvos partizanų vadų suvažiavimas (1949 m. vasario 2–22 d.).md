@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Suvažiavime aptarti svarbiausi partizanų veiklą reglamentuojantys dokumentai, numatyta bendra kovos strategija ir taktikos kryptys, suformuota aukščiausioji partizanų vadovybė.
+Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.
 
 ## Laikotarpis ir datos
 
@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-20551"></a>
 - t-001
   global_id: t-20551
-  teiginys: 'Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo aukščiausią partizanų generolo laipsnį.'
+  teiginys: 'Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sąjūdis ėmėsi vadovauti ir

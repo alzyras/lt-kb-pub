@@ -61,7 +61,6 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

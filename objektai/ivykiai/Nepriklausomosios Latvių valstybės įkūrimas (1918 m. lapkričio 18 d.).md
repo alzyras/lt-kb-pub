@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis. Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pralaimėjimas vakaruose.
+Po Vokietijos pralaimėjimo Vakaruose Latvija 1918 m. lapkričio 18 d. buvo paskelbta nepriklausoma.
 
 ## Laikotarpis ir datos
 
@@ -32,37 +32,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66798"></a>
+<a id="claim-t-66799"></a>
 - t-001
-  global_id: t-66798
-  teiginys: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
+  global_id: t-66799
+  teiginys: 'Po Vokietijos pralaimėjimo Vakaruose Latvija 1918 m. lapkričio 18 d. buvo paskelbta nepriklausoma.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66799"></a>
-- t-002
-  global_id: t-66799
-  teiginys: 'Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pralaimėjimas vakaruose.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    sybė. Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
-    kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės
-    dalimis. Nuo jų apsigynus, Latvijai nebeliko jokių sunkių už-
-    sienio politikos problemų, ir jos gyvenimas ėjo normalia vaga.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Po Vokietijos pralaimėjimo Vakaruose Latvija 1918 m. lapkričio 18 d. buvo paskelbta nepriklausoma.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Latvių Tautos Taryba pareiškė dėl to pro-
@@ -74,15 +55,16 @@ Nenurodyta
 
 
     sybė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

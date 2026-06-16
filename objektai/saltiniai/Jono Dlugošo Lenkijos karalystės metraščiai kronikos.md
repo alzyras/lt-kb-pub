@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964; lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877. Dusburgietis teigia, kad roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.
+Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 <a id="claim-t-60986"></a>
 - t-002
   global_id: t-60986
-  teiginys: 'Dusburgietis teigia, kad roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
+  teiginys: 'Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
     - t-001
 
 - c-002
+  santrauka: 'Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Długosz J. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks. 1—2,

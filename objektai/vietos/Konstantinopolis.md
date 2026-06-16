@@ -24,87 +24,54 @@ amziai:
 
 ## Santrauka
 
-Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija. Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.
+Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą. Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus. 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 
 ## Teiginiai
-
 <a id="claim-t-177248"></a>
 - t-001
   global_id: t-177248
   teiginys: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
   pagrindžia:
-    - c-004
-
+    - c-003
 <a id="claim-t-177249"></a>
 - t-002
   global_id: t-177249
   teiginys: 'Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
   pagrindžia:
-    - c-002
-
+    - c-001
 <a id="claim-t-177250"></a>
 - t-003
   global_id: t-177250
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   pagrindžia:
-    - c-006
-
+    - c-005
 <a id="claim-t-177251"></a>
 - t-004
   global_id: t-177251
   teiginys: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
   pagrindžia:
-    - c-005
-
+    - c-004
 <a id="claim-t-177253"></a>
 - t-005
   global_id: t-177253
   teiginys: 'Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.'
   pagrindžia:
-    - c-003
-
+    - c-002
 <a id="claim-t-177256"></a>
 - t-008
   global_id: t-177256
   teiginys: 'Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-177257"></a>
-- t-009
-  global_id: t-177257
-  teiginys: 'Tuomet Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
-  pagrindžia:
     - c-001
-
 <a id="claim-t-184164"></a>
-- t-010
+- t-009
   global_id: t-184164
   teiginys: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuomet
-    Maskvoje ir susidarė teorija, kuri skelbė, jog Maskva turinti būti
-    toks pat pravoslaviškojo pasaulio centras, koks anksčiau buvo
-
-
-    Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis. Tuo-
-    būdu į Maskvą dar labiau sužiuro visų rusų akys, ir Lietuvai,
-    kurioje pravoslavams nebuvo jokio moralinio autoriteto, vis
-    sunkiau buvo kovoti su Maskva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet kai Ciprijonas mirė (1406), tai Vytautas,
@@ -124,8 +91,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - t-002
     - t-008
-
-- c-003
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     patriarchą, o Focijui nurašė raštą, atsisakydami klausyti. Bet
@@ -140,8 +106,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - t-007
     - t-005
-
-- c-004
+- c-003
   santrauka: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -177,8 +142,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
+- c-004
   santrauka: '1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -191,8 +155,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
@@ -209,8 +172,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - t-003
     - t-006
-
-- c-007
+- c-006
   santrauka: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -225,4 +187,4 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.
+Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje. Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje. Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-183310"></a>
 - t-003
   global_id: t-183310
-  teiginys: 'Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.'
+  teiginys: 'Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse.'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.'
+  santrauka: 'Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Senieji lietuviai
@@ -87,6 +87,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Romai]]

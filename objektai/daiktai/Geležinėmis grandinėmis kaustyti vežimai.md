@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“. Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
+Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų. Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-40715"></a>
 - t-002
   global_id: t-40715
-  teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę, geležinėmis grandinėmis kaustytus vežimus, patrankas, patrankėles, arbaletus ir daug turto.'
+  teiginys: 'Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O Vytauto
@@ -101,6 +102,7 @@ Nenurodyta
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Arbaletai]]
 - [[objektai/asmenys/Edigėjus]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Totoriai]]

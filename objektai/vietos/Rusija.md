@@ -27,191 +27,149 @@ amziai:
 
 ## Santrauka
 
-Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė. Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.
+Rusija pasisavino iš LDK erdvių kilusius pirties ir „horilkos“ arba „vodkos“ fenomenus. Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų. 1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai.
 
 ## Teiginiai
 
 <a id="claim-t-180505"></a>
 - t-001
   global_id: t-180505
-  teiginys: 'Vis dėlto Vilniaus, Lietuvos ir Abiejų Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisavinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba „vodką“.'
+  teiginys: 'Rusija pasisavino iš LDK erdvių kilusius pirties ir „horilkos“ arba „vodkos“ fenomenus.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-180506"></a>
-- t-002
-  global_id: t-180506
-  teiginys: 'Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-180507"></a>
-- t-003
+- t-002
   global_id: t-180507
   teiginys: 'Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-180508"></a>
-- t-004
-  global_id: t-180508
-  teiginys: 'Rusija užėmė rytinę Didžiosios Lietuvos Kunigaikštijos dalį iki Dauguvos ir Dniepro.'
-  pagrindžia:
-    - c-010
-
 <a id="claim-t-180509"></a>
-- t-005
+- t-003
   global_id: t-180509
-  teiginys: 'Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusijos finansų krizei.'
+  teiginys: '1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-180510"></a>
-- t-006
+- t-004
   global_id: t-180510
-  teiginys: 'Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.'
+  teiginys: 'Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija.'
   pagrindžia:
-    - c-018
+    - c-013
 
 <a id="claim-t-180511"></a>
-- t-007
+- t-005
   global_id: t-180511
   teiginys: 'Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.'
   pagrindžia:
-    - c-016
+    - c-011
 
 <a id="claim-t-180512"></a>
-- t-008
+- t-006
   global_id: t-180512
   teiginys: 'Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją.'
   pagrindžia:
-    - c-014
-
-<a id="claim-t-180513"></a>
-- t-009
-  global_id: t-180513
-  teiginys: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
-  pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-180514"></a>
-- t-010
+- t-007
   global_id: t-180514
-  teiginys: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  teiginys: '1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.'
   pagrindžia:
-    - c-020
+    - c-015
 
 <a id="claim-t-180515"></a>
-- t-011
+- t-008
   global_id: t-180515
   teiginys: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
   pagrindžia:
-    - c-009
+    - c-007
 
 <a id="claim-t-180518"></a>
-- t-013
+- t-009
   global_id: t-180518
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-180519"></a>
-- t-014
+- t-010
   global_id: t-180519
-  teiginys: 'Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus.'
+  teiginys: 'Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-180520"></a>
-- t-015
+- t-011
   global_id: t-180520
   teiginys: 'XVII–XVIII a. Rusijos ir Švedijos karai prisidėjo prie Rusijos kišimosi į Lenkijos ir Lietuvos vidaus reikalus.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-180522"></a>
-- t-016
-  global_id: t-180522
-  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  pagrindžia:
-    - c-015
+    - c-004
 
 <a id="claim-t-180523"></a>
-- t-017
+- t-012
   global_id: t-180523
   teiginys: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
   pagrindžia:
-    - c-014
+    - c-010
 
 <a id="claim-t-180524"></a>
-- t-018
+- t-013
   global_id: t-180524
-  teiginys: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-180526"></a>
-- t-019
-  global_id: t-180526
-  teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
-  pagrindžia:
-    - c-012
-
-<a id="claim-t-180528"></a>
-- t-020
-  global_id: t-180528
-  teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-180529"></a>
-- t-021
-  global_id: t-180529
-  teiginys: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu.'
+  teiginys: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-180530"></a>
-- t-022
-  global_id: t-180530
-  teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
+<a id="claim-t-180526"></a>
+- t-014
+  global_id: t-180526
+  teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
   pagrindžia:
-    - c-019
+    - c-008
+
+<a id="claim-t-180529"></a>
+- t-015
+  global_id: t-180529
+  teiginys: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu.'
+  pagrindžia:
+    - c-004
+
+<a id="claim-t-180530"></a>
+- t-016
+  global_id: t-180530
+  teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija greitai pasiekė Lietuvos miestus.'
+  pagrindžia:
+    - c-014
 
 <a id="claim-t-180531"></a>
-- t-023
+- t-017
   global_id: t-180531
   teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.'
   pagrindžia:
-    - c-017
+    - c-012
 
 <a id="claim-t-180532"></a>
-- t-024
+- t-018
   global_id: t-180532
   teiginys: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
   pagrindžia:
-    - c-013
-
-<a id="claim-t-180534"></a>
-- t-026
-  global_id: t-180534
-  teiginys: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
-  pagrindžia:
-    - c-006
+    - c-009
 
 <a id="claim-t-180535"></a>
-- t-027
+- t-021
   global_id: t-180535
   teiginys: '1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.'
   pagrindžia:
-    - c-022
+    - c-017
 
 <a id="claim-t-180536"></a>
-- t-028
+- t-022
   global_id: t-180536
-  teiginys: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos sutartį.'
+  teiginys: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
-    - c-021
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -227,9 +185,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
+  santrauka: '1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1993 m.
@@ -246,7 +205,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -265,24 +224,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-001
-    - t-013
+    - t-009
 
 - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
-    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
-    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
-    Vakarų kraštu.
-    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-020
-
-- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus,
@@ -306,10 +250,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-011
     - t-015
-    - t-021
 
-- c-006
+- c-005
   santrauka: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -330,10 +274,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
-    - t-018
+    - t-020
+    - t-013
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
@@ -351,23 +295,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
-    - t-014
+    - t-019
+    - t-010
 
-- c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip antai, Fridrikas Didysis
-    savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.
-    Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati
-    rašė. Prie jų dar prisidėjo Austrijos Juozapas II.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-009
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
@@ -378,42 +309,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-008
 
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu 1772 m. rugpiūčio 5 d. buvo pasirašytas visų
-    3 valstybių traktatas; juo kiekvienai buvo numatyta tam tikra
-    dalis, kurias jos tuojau po to ir okupavo.
-    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
-    iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
-    gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
-    visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
-    jos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-    - t-012
-
-- c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taip ir įvyko. Tarp Ru-
-    sijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis,
-    kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą
-    ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų. Taip
-    pat jos įsipareigojo priversti seimą, kad kitatikių, t. y. pravosla-
-    vų ir protestantų teisės būtų sulygintos su katalikų teisėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-012
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
@@ -432,9 +330,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-014
 
-- c-013
+- c-009
   santrauka: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -451,9 +349,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-018
 
-- c-014
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Skaičiuojant nuo pirmųjų žmogaus pėdsakų
@@ -468,30 +366,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-    - t-008
+    - t-012
+    - t-006
 
-- c-015
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Turėdami savo rankose uostų kontrolę,
-    sukilėliai tikėjosi palaikyti nuolatinius
-    ryšius su Lenkija ir kitomis šalimis, iš kur
-    tikėtasi paramos. Z. Sierakausko manymu,
-    po mėnesio kito turėjo prasidėti Anglijos
-    ir Prancūzijos intervencija prieš Rusiją.
-    Šiems tikslams įgyvendinti už Anykščių
-    esančio Andrioniškio miške prie Teresboro
-    palivarko (dabar Knebių kaimas) sukilėliai
-    įrengė stovyklą, į kurią sutraukė didesnę
-    dalį savo pajėgų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-
-- c-016
+- c-011
   santrauka: 'Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -508,9 +386,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-017
+- c-012
   santrauka: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -527,9 +405,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-017
 
-- c-018
+- c-013
+  santrauka: 'Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
@@ -543,9 +422,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-019
+- c-014
+  santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija greitai pasiekė Lietuvos miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
@@ -558,9 +438,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-016
 
-- c-020
+- c-015
+  santrauka: '1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ta-
@@ -578,10 +459,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-007
 
-- c-021
-  santrauka: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos sutartį.'
+- c-016
+  santrauka: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
@@ -596,9 +477,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-022
 
-- c-022
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1795
@@ -611,4 +492,4 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-021

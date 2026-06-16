@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau šį kartą Vytautui neteko su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai buvo užsidarę pilyse ir reikėjo kiekvieną jų imti atskirai. 133 taikytis, bet jis laukdamas Zigmanto pagalbos, pareikalavo vi­ sai atitraukti kariuomenę. Tuo būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­ tuvą nuo didesnės vokiečių įtakos1 2).
+1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus. 1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse. Melno taika Klaipėdą paliko Ordinui, o Palangą Lietuvai; Palanga skyrė Vokiečių ir Livonijos ordinų žemes.
 
 ## Laikotarpis ir datos
 
@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-50799"></a>
 - t-002
   global_id: t-50799
-  teiginys: '1422 m. žygyje prieš Ordiną Vytautas nesusidūrė su Ordino kariuomene atvirame mūšyje, nes vokiečiai užsidarė pilyse.'
+  teiginys: '1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.'
   pagrindžia:
     - c-004
 
@@ -129,6 +129,7 @@ Nenurodyta
     - t-001
 
 - c-004
+  santrauka: '1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Popiežiaus
@@ -170,5 +171,4 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zenonas]]
 - [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/Melno taika (1422)]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

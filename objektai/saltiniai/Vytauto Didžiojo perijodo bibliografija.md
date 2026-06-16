@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-: Kovos bruožai dėl Žemaičių ir jų sienų, Athenaeum, VI, 1935, 54-117 p. — (”) Vytauto Didžiojo perijodo (^37) DlugO, XIII, 119 p.
+Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.
 
 ## Teiginiai
 
 <a id="claim-t-100223"></a>
 - t-001
   global_id: t-100223
-  teiginys: ': Kovos bruožai dėl Žemaičių ir jų sienų, Athenaeum, VI, 1935, 54-117 p. — (”) Vytauto Didžiojo perijodo (^37) DlugO, XIII, 119 p.'
+  teiginys: 'Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Hevekeb, K. : _Die Schlacht bei Tannenberg,_ Diss.

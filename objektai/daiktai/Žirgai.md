@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“.
+Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,14 +39,14 @@ Nenurodyta
 <a id="claim-t-59717"></a>
 - t-001
   global_id: t-59717
-  teiginys: 'Henriko arklys sustojo prie skardžio, nes, pasak pasakojimo, matė pavojų, kurio raitelis nakties tamsoje negalėjo išvysti.'
+  teiginys: 'Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Henriko arklys sustojo prie skardžio, nes, pasak pasakojimo, matė pavojų, kurio raitelis nakties tamsoje negalėjo išvysti.'
+  santrauka: 'Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartą
@@ -72,11 +72,15 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis)]]
+- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
 - [[objektai/asmenys/Asianas Abrahimovičius]]
+- [[objektai/daiktai/Aukso balnai]]
 - [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
+- [[objektai/daiktai/Brangūs aksomai]]
 - [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]
 - [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
 - [[objektai/asmenys/Burnašas]]
@@ -93,6 +97,7 @@ Nenurodyta
 - [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/autoriai/J. G. Vachteris Wächter]]
+- [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
 - [[objektai/asmenys/Jonas Jurgis (Brandenburgo kurfiurstas)]]
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]
@@ -104,19 +109,22 @@ Nenurodyta
 - [[objektai/asmenys/Konradas Jungingenas]]
 - [[objektai/asmenys/Konradas iš Tuteleno]]
 - [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]
+- [[objektai/grupes/Korano giminė]]
 - [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Krivis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/ivykiai/Livonijos raitelių žūtis Žemaitijoje (1466 m.)]]
-- [[objektai/asmenys/Mengli-Girėjus]]
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]
 - [[objektai/asmenys/Ottonas Luterbergas]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
 - [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
+- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
 - [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]
 - [[objektai/grupes/Pomeranai]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
@@ -128,6 +136,7 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]
 - [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
 - [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus]]
 - [[objektai/zodynas/bombarda]]
@@ -140,6 +149,10 @@ Nenurodyta
 - [[objektai/zodynas/žirgų kapai]]
 - [[objektai/zodynas/žygūnai]]
 - [[objektai/asmenys/Dargis]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Henrikas iš Ceico]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
+- [[objektai/grupes/Pskoviečiai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/lengvoji kavalerija]]

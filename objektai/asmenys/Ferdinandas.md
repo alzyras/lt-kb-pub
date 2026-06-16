@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando atstovą taikos reikaluose.
+Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.
 
 ## Teiginiai
 
 <a id="claim-t-186108"></a>
 - t-001
   global_id: t-186108
-  teiginys: 'Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando atstovą taikos reikaluose.'
+  teiginys: 'Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Maskvėnų metraščiai Zigmantą Herberšteiną mini kaip karaliaus Ferdinando atstovą taikos reikaluose.'
+  santrauka: 'Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto, kaip rodo mano šaltiniai, iki Nau­

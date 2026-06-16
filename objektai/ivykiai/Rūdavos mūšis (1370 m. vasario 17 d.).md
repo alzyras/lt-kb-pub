@@ -9,13 +9,13 @@ date_start: '1370'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - ivykis
   - kraštas
   - mūšis
   - ordinas
-amziai:
-  - 'XIV'
 ---
 # Rūdavos mūšis (1370 m. vasario 17 d.)
 
@@ -40,7 +40,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66861"></a>
 - t-001
   global_id: t-66861
@@ -70,7 +69,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -84,7 +82,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

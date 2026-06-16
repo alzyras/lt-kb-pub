@@ -26,28 +26,28 @@ amziai:
 
 ## Santrauka
 
-Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž. gale išmirė, ir jų žemės su paskutine jų giminės dukteria atiteko galingiausiajai to meto ponų šeimai, būtent Radviloms.
+Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis. Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę. Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.
 
 ## Teiginiai
 
 <a id="claim-t-74888"></a>
 - t-001
   global_id: t-74888
-  teiginys: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
+  teiginys: 'Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-74889"></a>
 - t-002
   global_id: t-74889
-  teiginys: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
+  teiginys: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-74890"></a>
 - t-003
   global_id: t-74890
-  teiginys: 'Vienas iš Radvilų 1615 m. laiške apibendrino lenkų kalbos vaidmenį Lietuvos kultūroje.'
+  teiginys: 'Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vienas iš Radvilų 1615 m. laiške apibendrino lenkų kalbos vaidmenį Lietuvos kultūroje.'
+  santrauka: 'Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,
@@ -83,6 +83,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - t-003
 
 - c-002
+  santrauka: 'Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kalvinizmas vėliau pradėjo nykti, tačiau išliko
@@ -97,6 +98,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - t-001
 
 - c-003
+  santrauka: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
@@ -166,6 +168,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - [[objektai/asmenys/Albrechtas Radvila]]
 - [[objektai/autoriai/Andrius Volanas Volanus]]
 - [[objektai/ivykiai/Antrasis valstybės padalijimas]]
+- [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme]]
 - [[objektai/grupes/Biržų Radvilos]]
 - [[objektai/asmenys/Cvinglis]]
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
@@ -201,7 +204,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/grupes/Nesvyžiaus Radvilos]]
+- [[objektai/zodynas/Pataurininkis]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/asmenys/Romanas Sanguška]]
 - [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]

@@ -14,21 +14,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.
+Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.
 
 ## Teiginiai
 
 <a id="claim-t-60412"></a>
 - t-001
   global_id: t-60412
-  teiginys: 'Tais pačiais metais prasidėjo nesantarvė tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo.'
+  teiginys: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Tais pačiais metais prasidėjo nesantarvė tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo.'
+  santrauka: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę

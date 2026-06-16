@@ -15,13 +15,13 @@ variantai:
   - 'Oršos mūšis'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - bajorija
   - ivykis
   - karas
   - mūšis
-amziai:
-  - 'XVI'
 ---
 # Oršos mūšis (1514 m.)
 
@@ -46,7 +46,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-54178"></a>
 - t-001
   global_id: t-54178
@@ -76,7 +75,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -93,7 +91,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -109,7 +106,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

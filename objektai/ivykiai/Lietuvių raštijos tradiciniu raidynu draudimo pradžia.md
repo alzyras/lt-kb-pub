@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.
+Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė. M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose. 1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-25042"></a>
 - t-001
   global_id: t-25042
-  teiginys: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotyniškąjį raidyną pakeisti kirilika žlugo dėl boikoto.'
+  teiginys: 'Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė.'
   pagrindžia:
     - c-001
 
@@ -67,6 +67,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valdžios bandymas lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika žlugo, nes brukamų knygų beveik niekas neskaitė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį

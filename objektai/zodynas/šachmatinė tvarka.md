@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
+Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys. Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 <a id="claim-t-183720"></a>
 - t-002
   global_id: t-183720
-  teiginys: 'Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).'
+  teiginys: 'Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
     - t-001
 
 - c-002
-  santrauka: 'Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).'
+  santrauka: 'Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kavalerija sparnuose tuo pačių metu stengdavosi |
@@ -85,3 +85,4 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/flangas]]
+- [[objektai/daiktai/Šautuvai]]

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18. Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.
+J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba. J. Endzelynas parašė veikalą „Senprūšu valoda“. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.
 
 ## Teiginiai
 
@@ -33,13 +33,14 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
 <a id="claim-t-60573"></a>
 - t-003
   global_id: t-60573
-  teiginys: 'Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.'
+  teiginys: 'Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant

@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
+Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais. 1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą. Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.
 
 ## Teiginiai
 
@@ -67,61 +67,54 @@ amziai:
   pagrindžia:
     - c-009
 
-<a id="claim-t-99863"></a>
-- t-006
-  global_id: t-99863
-  teiginys: 'Dusburgietis teigia, kad vėluva, sietina su lie.'
-  pagrindžia:
-    - c-010
-
 <a id="claim-t-99864"></a>
-- t-007
+- t-006
   global_id: t-99864
   teiginys: 'Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-99865"></a>
-- t-008
+- t-007
   global_id: t-99865
   teiginys: 'Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-99866"></a>
-- t-009
+- t-008
   global_id: t-99866
   teiginys: 'Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-99867"></a>
-- t-010
+- t-009
   global_id: t-99867
   teiginys: 'Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-99868"></a>
-- t-011
+- t-010
   global_id: t-99868
   teiginys: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-99869"></a>
-- t-012
+- t-011
   global_id: t-99869
   teiginys: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-185213"></a>
-- t-014
+- t-013
   global_id: t-185213
   teiginys: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   pagrindžia:
-    - c-011
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -142,8 +135,8 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-010
+    - t-007
+    - t-009
 
 - c-002
   santrauka: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.'
@@ -164,7 +157,7 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
 - c-003
   santrauka: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
@@ -183,7 +176,7 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -245,7 +238,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-007
   santrauka: 'Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.'
@@ -265,7 +258,7 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -285,7 +278,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-    - t-013
+    - t-012
 
 - c-009
   santrauka: 'Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
@@ -305,18 +298,6 @@ amziai:
     - t-005
 
 - c-010
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    329 D. ir Jer.— Wilow; 1258 m.— Velowe (SU, 1, Nr. 58, p. 25) — lie. Vėluva, sietina
-    su lie. vėlė (GAO, p. 198—199; Būga K., 1, p. 168, 425; 3, 136). Vėluva galėjo reikšti
-    ‘mirusių vietą’ (vok. Wehlau, dab. Znamenskas). Alnos ir Priegliaus santakoje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-011
   santrauka: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -331,4 +312,4 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013

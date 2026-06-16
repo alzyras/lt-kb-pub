@@ -77,7 +77,5 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/posakiai/„šviesaus atminimo valdovu“]]
-- [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/asmenys/Karolis (Provanso grafas ir Sicilijos karalius)]]

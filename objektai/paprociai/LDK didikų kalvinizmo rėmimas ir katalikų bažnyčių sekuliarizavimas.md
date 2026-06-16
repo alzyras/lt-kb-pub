@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje.
+LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.
 
 ## Laikotarpis ir datos
 
@@ -48,14 +48,14 @@ Nenurodyta
 <a id="claim-t-77951"></a>
 - t-001
   global_id: t-77951
-  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi katalikai didikai ir dalis ortodoksų perėjo į kalvinizmą.'
+  teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi katalikai didikai ir dalis ortodoksų perėjo į kalvinizmą.'
+  santrauka: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis

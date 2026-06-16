@@ -11,13 +11,13 @@ date_start: '1858'
 date_end: '1902'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
+  - 'XX'
 tags:
   - mokslininkas
   - saltinis
   - tauta
-amziai:
-  - 'XIX'
-  - 'XX'
 ---
 # Varpas
 
@@ -26,7 +26,6 @@ amziai:
 „Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“. Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.
 
 ## Teiginiai
-
 <a id="claim-t-78120"></a>
 - t-001
   global_id: t-78120
@@ -41,8 +40,7 @@ amziai:
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -65,7 +63,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

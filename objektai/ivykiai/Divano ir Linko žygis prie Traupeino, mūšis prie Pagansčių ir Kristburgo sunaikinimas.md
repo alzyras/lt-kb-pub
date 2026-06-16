@@ -155,6 +155,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Divanas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/asmenys/Linkas]]
 - [[objektai/grupes/Pamedėnai]]

@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai. Lietuvos Taryba, krašto ir užsienių lietuvių pripažinta, kaip vienintelė įgaliota lietuvių tautos atstovybė, pasiremdama pripažintąja tautų apsisprendimo teise ir 1917 metų rugsėjo m. 17-23 d. lietuvių konferencijos Vilniuje nutarimu, skelbia nepriklausomos. Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais laikinės konstitucijos pamatiniais dėsniais, kuriuos išleido Valstybės Taryba savo sesijoj spalių mėnesio pabaigoj.
+Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona. Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis. 1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 <a id="claim-t-182709"></a>
 - t-002
   global_id: t-182709
-  teiginys: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija.'
+  teiginys: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 <a id="claim-t-182904"></a>
 - t-004
   global_id: t-182904
-  teiginys: 'Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.'
+  teiginys: 'Konferencija programai vykdyti išrinko 20 asmenų Lietuvos Tarybą, kurią vėliau turėjo papildyti tautinių mažumų atstovai.'
   pagrindžia:
     - c-005
 
@@ -87,7 +87,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - t-006
 
 - c-002
-  santrauka: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija.'
+  santrauka: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kitoje dalyje
@@ -144,7 +144,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     - t-003
 
 - c-005
-  santrauka: 'Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.'
+  santrauka: 'Konferencija programai vykdyti išrinko 20 asmenų Lietuvos Tarybą, kurią vėliau turėjo papildyti tautinių mažumų atstovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Konferencijos sudarytai programai vykdyti buvo išrinkta
@@ -200,7 +200,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - [[objektai/asmenys/Matijas Ercbergeris]]
 - [[objektai/asmenys/Oskaras Milašius]]
 - [[objektai/asmenys/Simonas Rozenbaumas]]
-- [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/asmenys/Vilhelmas fon Urachas]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Valstybės Taryba]]
@@ -208,4 +207,5 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - [[objektai/ivykiai/Karaliaus Uracho rinkimas]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]
+- [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

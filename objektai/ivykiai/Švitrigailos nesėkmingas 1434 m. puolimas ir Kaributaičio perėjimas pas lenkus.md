@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Kaributaičio vasalai ir valdiniai, susitarę su Bučackiais, sumušė Boleslovo kariuomenę ir paleido Teodorą Kaributaitį į laisvę.
+Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -35,14 +35,14 @@ Nenurodyta
 <a id="claim-t-185793"></a>
 - t-001
   global_id: t-185793
-  teiginys: 'Kaributaičio vasalai ir valdiniai, susitarę su Bučackiais, sumušė Boleslovo kariuomenę ir paleido Teodorą Kaributaitį į laisvę.'
+  teiginys: 'Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kaributaičio vasalai ir valdiniai, susitarę su Bučackiais, sumušė Boleslovo kariuomenę ir paleido Teodorą Kaributaitį į laisvę.'
+  santrauka: 'Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat neseniai, prasi­
@@ -63,3 +63,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Teodoras]]

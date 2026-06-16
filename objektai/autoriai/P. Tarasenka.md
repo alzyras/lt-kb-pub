@@ -16,7 +16,6 @@ tags:
 Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 
 ## Teiginiai
-
 <a id="claim-t-71551"></a>
 - t-001
   global_id: t-71551
@@ -26,7 +25,6 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -47,7 +45,6 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -68,3 +65,7 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
+- [[objektai/zodynas/metraštis]]

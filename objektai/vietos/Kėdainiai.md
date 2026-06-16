@@ -22,35 +22,28 @@ amziai:
 
 ## Santrauka
 
-Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj. Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.
+1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius. Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.
 
 ## Teiginiai
 
 <a id="claim-t-182770"></a>
 - t-001
   global_id: t-182770
-  teiginys: '1919 m. sausio 9 d. J. Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
+  teiginys: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-183040"></a>
-- t-002
-  global_id: t-183040
-  teiginys: 'Vienos Radvilų šeimos šakos centrai buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka Voluinėje.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183041"></a>
-- t-003
+- t-002
   global_id: t-183041
   teiginys: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1919 m. sausio 9 d. J. Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
+  santrauka: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 173
@@ -73,24 +66,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-001
 
 - c-002
-  santrauka: 'Vienos Radvilų šeimos šakos centrai buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka Voluinėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -104,4 +79,4 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

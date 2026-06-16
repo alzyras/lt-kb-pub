@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87).. Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi. Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.
+Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę. Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę. Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais.
 
 ## Laikotarpis ir datos
 
@@ -69,7 +69,7 @@ Nenurodyta
 <a id="claim-t-67176"></a>
 - t-004
   global_id: t-67176
-  teiginys: 'Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
+  teiginys: '600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
   pagrindžia:
     - c-003
 
@@ -113,6 +113,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
@@ -174,11 +175,14 @@ Nenurodyta
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/daiktai/Ginklai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
 - [[objektai/zodynas/kankinių vainikai]]

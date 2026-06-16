@@ -74,6 +74,7 @@ periodo_grupes:
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seniūnas]]

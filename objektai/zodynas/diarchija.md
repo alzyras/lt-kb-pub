@@ -52,6 +52,13 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   pagrindžia:
     - c-002
 
+<a id="claim-t-183413"></a>
+- t-005
+  global_id: t-183413
+  teiginys: 'Valdant Ldk Gediminui diarchija buvo vienas ankstyvosios, arba karinės, monarchijos požymių.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -114,7 +121,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     - t-001
 
 - c-004
-  santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  santrauka: 'Valdant Ldk Gediminui diarchija buvo vienas ankstyvosios, arba karinės, monarchijos požymių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminas nebuvo pirmas šios dinastijos atsto-

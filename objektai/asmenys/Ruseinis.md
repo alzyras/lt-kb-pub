@@ -15,21 +15,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido. Dusburgietis teigia, kad šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai atidavė viešpačiui sielą499. 208 (203).
+Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.
 
 ## Teiginiai
 
 <a id="claim-t-60199"></a>
 - t-001
   global_id: t-60199
-  teiginys: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą ir netrukus buvo pakrikštytas.'
+  teiginys: 'Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą ir netrukus buvo pakrikštytas.'
+  santrauka: 'Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį

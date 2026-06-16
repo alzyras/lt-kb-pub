@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu. Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą. Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai. Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.
 
 ## Laikotarpis ir datos
 
@@ -60,13 +60,6 @@ Nenurodyta
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-54246"></a>
-- t-003
-  global_id: t-54246
-  teiginys: 'Jėzuitai Baroko epochos idėjas Lietuvoje skleidė per Vilniaus universitetą.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-183311"></a>
 - t-004
@@ -157,6 +150,5 @@ Nenurodyta
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

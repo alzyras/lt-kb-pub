@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.
+Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.
 
 ## Teiginiai
 
@@ -32,34 +32,11 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   global_id: t-67987
   teiginys: 'Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-67988"></a>
-- t-002
-  global_id: t-67988
-  teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ištremtųjų
-    vietas turėjo užimti atkelti milijonai vokiečių.
-    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
-    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
-    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
-    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
-    (Ostlando) reicho komisariatas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

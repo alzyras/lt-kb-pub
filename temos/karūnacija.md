@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 3.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -19,6 +19,8 @@ Objektų skaičius: 3.
 ## Susiję objektai
 
 ### Įvykiai
+- [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 

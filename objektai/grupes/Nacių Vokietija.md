@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompetentingų Vokietijos įstaigų sutikimo“. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu. Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.
+1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą. Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui. Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.
 
 ## Teiginiai
 
@@ -30,32 +30,26 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   global_id: t-74876
   teiginys: '1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-74877"></a>
 - t-002
   global_id: t-74877
   teiginys: 'Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-74878"></a>
 - t-003
   global_id: t-74878
-  teiginys: 'Vokietijos vyriausybė uždraudė lietuviams kilus karui be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.'
+  teiginys: 'Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-74880"></a>
-- t-004
-  global_id: t-74880
-  teiginys: 'Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
@@ -72,26 +66,6 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     - t-003
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Niekuo nekaltų žydų
-    sunaikinimas tik dėl to, kad jie buvo žydai – kruviniausias Lietuvos is-
-    torijos XX a. puslapis, daugybės talentingų žmonių praradimas, didžiulė
-    žydų tautos ir visos Lietuvos netektis ir tragedija.
-    Nacių savivalda – lietuvių savismauga
-    Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsi-
-    likusiomis tautomis, kurios turėjo paklusti vokiečių viešpatavimui, dėl
-    savo rasinio ir kultūrinio pranašumo vokiečių tauta turinti būti „viešpa-
-    taujanti“ arba „ponų tauta“, o „rasės atžvilgiu svetimus elementus“ bū-
-    tina pašalinti. Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
-    „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
   santrauka: '1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -108,7 +82,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   santrauka: 'Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -134,7 +108,6 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/savismauga]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Abveras]]
@@ -142,4 +115,3 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
 - [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]
-- [[objektai/posakiai/„viešpataujanti“ „ponų tauta“]]

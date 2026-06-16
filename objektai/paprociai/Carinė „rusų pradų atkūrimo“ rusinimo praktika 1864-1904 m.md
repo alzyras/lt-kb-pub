@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika. „Rusų pradų atkūrimo“ politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu.
+Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai. Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą. Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-54214"></a>
 - t-001
   global_id: t-54214
-  teiginys: 'Rusų pradus turėjo diegti iš Rusijos gilumos atvykę mokytojai, o lietuvių kalba į švietimo įstaigas nebuvo įleista.'
+  teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai.'
   pagrindžia:
     - c-002
 
@@ -71,14 +71,14 @@ Nenurodyta
 <a id="claim-t-54217"></a>
 - t-004
   global_id: t-54217
-  teiginys: 'Lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos atvykę mokytojai.'
+  teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-54218"></a>
 - t-005
   global_id: t-54218
-  teiginys: 'Rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
+  teiginys: 'Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika.'
   pagrindžia:
     - c-001
 
@@ -103,6 +103,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Rusų pradų atkūrimo“

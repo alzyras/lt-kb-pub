@@ -13,41 +13,23 @@ tags:
 
 ## Santrauka
 
-Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos imperijoje buvo panaikinta baudžiava, o valstiečiams duota teisė per 49 metus išsipirkti žemę. Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
+1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.
 
 ## Teiginiai
-
-<a id="claim-t-02138"></a>
-- t-001
-  global_id: t-02138
-  teiginys: 'Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-02139"></a>
-- t-002
+- t-001
   global_id: t-02139
   teiginys: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
-    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-    Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
-    manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
-    per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nebuvo tik sutikimo dėl tolimesnio jų li-
@@ -58,8 +40,10 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
     pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSRS. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.
+Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais. J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais. J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.
 
 ## Teiginiai
 
 <a id="claim-t-101639"></a>
 - t-001
   global_id: t-101639
-  teiginys: 'Po J. Stalino mirties 1953 m. SSRS susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
+  teiginys: 'Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
   pagrindžia:
     - c-001
 
@@ -73,7 +73,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 <a id="claim-t-101645"></a>
 - t-007
   global_id: t-101645
-  teiginys: 'Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS.'
+  teiginys: 'Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims.'
   pagrindžia:
     - c-002
 
@@ -94,6 +94,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
@@ -111,6 +112,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - t-001
 
 - c-002
+  santrauka: 'Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
@@ -199,7 +201,6 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Karlas Marksas]]

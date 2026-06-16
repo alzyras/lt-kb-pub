@@ -9,12 +9,12 @@ date_start: '1846'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - autorius
 ---
 # J. Jaroszewicz
 
@@ -23,7 +23,6 @@ periodo_grupes:
 Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 
 ## Teiginiai
-
 <a id="claim-t-30677"></a>
 - t-001
   global_id: t-30677
@@ -39,7 +38,6 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -58,7 +56,6 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

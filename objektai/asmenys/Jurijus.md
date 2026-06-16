@@ -45,10 +45,17 @@ Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Sviatoslavas]]
+- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
 - [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
+- [[objektai/ivykiai/Smolensko atgavimas Vytautui]]
 - [[objektai/ivykiai/Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui]]
+- [[objektai/grupes/Smolensko kunigaikščiai]]
 - [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]
+- [[objektai/zodynas/dijokas]]
+- [[objektai/zodynas/tėvonies kunigaikštis]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/ivykiai/Jurijaus Svetoslavovičiaus priesaika Jogailai ir Skirgailai]]

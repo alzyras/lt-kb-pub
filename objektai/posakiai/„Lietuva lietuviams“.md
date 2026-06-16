@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija.
+Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“. Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai atvirai kėlė šūkį „Lietuva lietuviams“.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
 <a id="claim-t-183498"></a>
 - t-002
   global_id: t-183498
-  teiginys: 'Prasidėjus ekonomikos krizei ir lietuviams veržiantis į miestų pramonę bei prekybą, sustiprėjo konkurencija.'
+  teiginys: 'Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai atvirai kėlė šūkį „Lietuva lietuviams“.'
   pagrindžia:
     - c-001
 

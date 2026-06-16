@@ -13,26 +13,21 @@ tags:
 
 ## Santrauka
 
-Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė tautiškus lietuvių reikalus, o nuo 1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir. Lietuviška Ceitunga: bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas, ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš- čių panašūs bandymai.
+Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.
 
 ## Teiginiai
-
-<a id="claim-t-67432"></a>
-- t-001
-  global_id: t-67432
-  teiginys: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ skelbė bendrumą su Didžiosios Lietuvos lietuviais.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-67433"></a>
-- t-002
+- t-001
   global_id: t-67433
   teiginys: 'Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -44,26 +39,10 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
     ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
     jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
     čių panašūs bandymai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ skelbė bendrumą su Didžiosios Lietuvos lietuviais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vėliau
-    atsirado dar daugiau lietuviškų laikraščių; vieni iš jų gyvavo
-    ilgiau, kiti trumpiau. Jų tarpe buvo ir tokių, kurie jau stojo ant
-    grynai tautiško pagrindo, gynė tautiškus lietuvių reikalus, o nuo
-    1878 m. Šerno redaguojamoji „Lietuviška Ceitunga"
-    net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat,
-    joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradar-
-    biai).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino srities kunigaikštis arba Gardino pilininkas. Jam priskiriami Gedimino laikų žygiai prieš Revelį ir Mozūriją, taip pat Gardino krašto gynyba po kryžiuočių puolimų.
+Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę. Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė žygio mantą, arklius, duoną bei kitą maistą. 1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 <a id="claim-t-173130"></a>
 - t-003
   global_id: t-173130
-  teiginys: '1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė ir Gardiną.'
+  teiginys: '1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 <a id="claim-t-173133"></a>
 - t-006
   global_id: t-173133
-  teiginys: '1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, vėliau puolė Gardiną, o tais metais tęsėsi abipusiai puldinėjimai.'
+  teiginys: '1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.'
   pagrindžia:
     - c-002
 
@@ -112,24 +112,10 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   pagrindžia:
     - c-001
 
-<a id="claim-t-173141"></a>
-- t-013
-  global_id: t-173141
-  teiginys: '1324 m. kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą ir puolė Gardiną.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-173142"></a>
-- t-014
-  global_id: t-173142
-  teiginys: '1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-173143"></a>
 - t-015
   global_id: t-173143
-  teiginys: '1324 m. Ordino būrys sudegino Dovydo dvarą.'
+  teiginys: '1324 m. Ordino būrys užpuolė Gardino pilininko Dovydo dvarą ir sudegino jį iki pamatų.'
   pagrindžia:
     - c-007
 
@@ -150,7 +136,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 <a id="claim-t-173146"></a>
 - t-018
   global_id: t-173146
-  teiginys: 'Lapkričio 21 d. Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.'
+  teiginys: 'Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.'
   pagrindžia:
     - c-009
 
@@ -355,6 +341,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/daiktai/Rūbai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/vyskupystė]]

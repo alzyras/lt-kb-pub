@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems. Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.
+Jis mat norėjo neleisti statyti čia pilies. Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.
 
 ## Laikotarpis ir datos
 
@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-66924"></a>
 - t-001
   global_id: t-66924
-  teiginys: 'Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.'
+  teiginys: 'Jis mat norėjo neleisti statyti čia pilies.'
   pagrindžia:
     - c-002
 
@@ -71,6 +71,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Jis mat norėjo neleisti statyti čia pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
@@ -106,6 +107,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/magistras]]

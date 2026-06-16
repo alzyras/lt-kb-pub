@@ -12,12 +12,12 @@ date_start: '1377'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - ivykis
+  - vyskupas
 ---
 # Vilniaus vyskupystės įkūrimas
 
@@ -44,7 +44,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-176177"></a>
 - t-001
   global_id: t-176177
@@ -74,7 +73,6 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -92,7 +90,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -112,7 +109,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

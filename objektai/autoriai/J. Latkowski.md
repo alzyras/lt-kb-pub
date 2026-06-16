@@ -23,16 +23,13 @@ periodo_grupes:
 Latkowski, Mendog król lit.
 
 ## Teiginiai
-
 <a id="claim-t-47880"></a>
 - t-001
   global_id: t-47880
   teiginys: 'J. Latkowskis pirmasis bandė nustatyti Lietuvos valstybės pradžios datą ir moksliškai tyrinėti karaliaus Mindaugo laikus.'
   pagrindžia:
     - c-001
-
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

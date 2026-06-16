@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai. Ši, silpnesnių miestų ir silpnesnio raštingumo poreikio (palyginti su protestantizmu) katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos (Italija, Ispanija, Portugalija). Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų. Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje. Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 <a id="claim-t-47313"></a>
 - t-002
   global_id: t-47313
-  teiginys: 'Paulavos valstiečių reforma neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės reformų Lenkijos ir Lietuvos Valstybėje.'
+  teiginys: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
   pagrindžia:
     - c-003
 
@@ -47,17 +47,10 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   pagrindžia:
     - c-001
 
-<a id="claim-t-47316"></a>
-- t-005
-  global_id: t-47316
-  teiginys: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-183640"></a>
 - t-006
   global_id: t-183640
-  teiginys: 'Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
+  teiginys: 'Civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai.'
   pagrindžia:
     - c-005
 
@@ -105,7 +98,7 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - t-001
 
 - c-003
-  santrauka: 'Paulavos valstiečių reforma neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės reformų Lenkijos ir Lietuvos Valstybėje.'
+  santrauka: 'Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,

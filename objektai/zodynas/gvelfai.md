@@ -18,21 +18,21 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė.
+1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė bažnyčią, o Gibelinas - imperatorių.
 
 ## Teiginiai
 
 <a id="claim-t-58904"></a>
 - t-001
   global_id: t-58904
-  teiginys: '1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė Bažnyčią, o Gibelinas - imperatorių.'
+  teiginys: '1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė bažnyčią, o Gibelinas - imperatorių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė Bažnyčią, o Gibelinas - imperatorių.'
+  santrauka: '1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gveltas rėmė bažnyčią, o Gibelinas - imperatorių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie gibelinus ir gvelfus

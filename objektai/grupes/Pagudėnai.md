@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Dusburgietis teigia, kad 193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113— 114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę. Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.
+1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį. Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė. 1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.
 
 ## Teiginiai
 
 <a id="claim-t-89155"></a>
 - t-001
   global_id: t-89155
-  teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį.'
+  teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
   pagrindžia:
     - c-017
 
@@ -100,14 +100,14 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 <a id="claim-t-89165"></a>
 - t-011
   global_id: t-89165
-  teiginys: 'Broliai rudenį įsiveržė į Pagudę, ją nusiaubė, o daugybę gyventojų paėmė į nelaisvę arba nukovė.'
+  teiginys: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-89166"></a>
 - t-012
   global_id: t-89166
-  teiginys: 'Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
+  teiginys: 'Trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
   pagrindžia:
     - c-011
 
@@ -254,7 +254,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-007
 
 - c-007
-  santrauka: 'Broliai rudenį įsiveržė į Pagudę, ją nusiaubė, o daugybę gyventojų paėmė į nelaisvę arba nukovė.'
+  santrauka: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     191 (186). Dar apie tą patį
@@ -339,6 +339,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-003
 
 - c-011
+  santrauka: 'Trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
@@ -445,7 +446,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-015
 
 - c-017
-  santrauka: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį.'
+  santrauka: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
@@ -466,7 +467,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/daiktai/Ginklai]]
@@ -500,7 +500,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 - [[objektai/asmenys/Glanda]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/asmenys/Helvigas fon Goldbachas]]
-- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]

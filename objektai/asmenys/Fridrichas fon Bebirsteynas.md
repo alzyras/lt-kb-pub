@@ -23,21 +23,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano gą poną Fridrichą fon Bebirsteyną, priėmiau į savo dvariškių būrį ir kaip malonų patikėtinį", bei prašo, kad panašią paslaugą padarytų to paties svečio.
+Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
 
 ## Teiginiai
 
 <a id="claim-t-87675"></a>
 - t-001
   global_id: t-87675
-  teiginys: 'Didysis kunigaikštis pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.'
+  teiginys: 'Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Didysis kunigaikštis pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.'
+  santrauka: 'Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis kunigaikštis pra­

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
+Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.
 
 ## Teiginiai
 
@@ -25,13 +25,6 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   teiginys: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183459"></a>
-- t-002
-  global_id: t-183459
-  teiginys: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -54,28 +47,8 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Raštija
-    Formuojantis luominei LDK visuomenei ir susidarius su-
-    dėtingam valstybės valdymo aparatui, XIV–XV a. sandūroje skubiai pri-
-    reikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
-    tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
-    didėjo. Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis
-    ir raštininkų mokyklomis. Jų veikla gerokai prisidėjo prie to, kad raštas
-    įsiskverbė į LDK bajorų ir miestiečių buitį. XV–XVI a. pradžios Lietuvos
-    kultūra kartais apibūdinama kaip raštinių kultūra.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/gotika]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

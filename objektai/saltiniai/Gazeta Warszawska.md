@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis). Kituose Gazeta Warszawska spausdintuose straipsniuo­ se istorikas detaliai aprašė Vilniaus Archeologinės komisijos veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­ šuvoje, Vilniuje.
+„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis. „Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.
 
 ## Teiginiai
 
 <a id="claim-t-88251"></a>
 - t-001
   global_id: t-88251
-  teiginys: 'Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis).'
+  teiginys: '„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.'
   pagrindžia:
     - c-002
 
@@ -54,6 +54,7 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     - t-002
 
 - c-002
+  santrauka: '„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­

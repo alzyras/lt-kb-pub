@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdėstęs Kijevo istorikas — Antonovičiaus oponentas, N. Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS ISTORIOGRAFIJA 87 Eilė rusų istorikų susidomėjo specialiau socialine santvarka ir valstybinėmis institucijomis anos Lietuvos, tikėdami joje, be kitko, rasti senosios Kijevo valstybės, ar.
+E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas. Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis. M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
 
 ## Teiginiai
 
@@ -35,14 +35,14 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 <a id="claim-t-47898"></a>
 - t-003
   global_id: t-47898
-  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.'
+  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-47899"></a>
 - t-004
   global_id: t-47899
-  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų.'
+  teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.'
   pagrindžia:
     - c-001
 

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus atrado dar vieną – lenkų polonizatorius. Daugiausia dėmesio jie skyrė katalikišką doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai.
+Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją. Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose. Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.
 
 ## Laikotarpis ir datos
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-75369"></a>
 - t-002
   global_id: t-75369
-  teiginys: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
+  teiginys: 'Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-002
 
@@ -112,3 +112,4 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]

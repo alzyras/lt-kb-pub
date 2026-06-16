@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.
+Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad „inteligentija – liaudies savimonės išraiška“.
 
 ## Teiginiai
 
 <a id="claim-t-20897"></a>
 - t-001
   global_id: t-20897
-  teiginys: 'Po Aleksandro Jakovlevo vizito LKP nebedraudė komunistams dalyvauti Lietuvos Persitvarkymo Sąjūdžio rėmimo grupėse.'
+  teiginys: 'Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad „inteligentija – liaudies savimonės išraiška“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po Aleksandro Jakovlevo vizito LKP nebedraudė komunistams dalyvauti Lietuvos Persitvarkymo Sąjūdžio rėmimo grupėse.'
+  santrauka: 'Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad „inteligentija – liaudies savimonės išraiška“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjo Lietuvos žaliųjų
@@ -47,5 +47,6 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Jakovlevas]]
 - [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]

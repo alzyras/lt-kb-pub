@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
+Po 1990 m. Jungtinė Karalystė, ypač Londonas, buvo viena pagrindinių Lietuvos gyventojų emigracijos krypčių.
 
 ## Teiginiai
 
 <a id="claim-t-21458"></a>
 - t-001
   global_id: t-21458
-  teiginys: 'Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.'
+  teiginys: 'Po 1990 m. Jungtinė Karalystė, ypač Londonas, buvo viena pagrindinių Lietuvos gyventojų emigracijos krypčių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po 1990 m. Jungtinė Karalystė, ypač Londonas, buvo viena pagrindinių Lietuvos gyventojų emigracijos krypčių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-

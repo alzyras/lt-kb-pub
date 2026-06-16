@@ -23,7 +23,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai. Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv.
+Hugonas Butyras buvo kilęs iš Olandijos ir XII a. viduryje tarnavo Mazovijos kunigaikščiui Boleslovui IV Garbanotajam. Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 <a id="claim-t-60146"></a>
 - t-002
   global_id: t-60146
-  teiginys: 'Hugonas, vadinamas Potyre, minimas tarp senaisiais laikais su prūsais kariavusių asmenų.'
+  teiginys: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
     - t-001
 
 - c-002
-  santrauka: 'Hugonas, vadinamas Potyre, minimas tarp senaisiais laikais su prūsais kariavusių asmenų.'
+  santrauka: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie naują Teutonų namų ordino brolių karą su prūsų gentimis

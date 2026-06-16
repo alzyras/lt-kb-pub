@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai. Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko. Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė beraštės visuomenės savimonė.
+Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus. Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą. Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.
 
 ## Laikotarpis ir datos
 
@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-113469"></a>
 - t-006
   global_id: t-113469
-  teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
+  teiginys: '1323–1324 m. Gedimino krikšto akcija žlugo dėl žemaičių ir stačiatikių dvariškių pasipriešinimo, bet Gediminas toliau kvietė vokiečių kolonistus.'
   pagrindžia:
     - c-002
 
@@ -168,6 +168,6 @@ Nenurodyta
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
 - [[objektai/grupes/Totoriai]]

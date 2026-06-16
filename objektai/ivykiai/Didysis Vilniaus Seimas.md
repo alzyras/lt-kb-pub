@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 123 Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis. Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.
+Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis. Didžiojo Vilniaus Seimo rezoliucijoje reikalauta suteikti Lietuvai autonomiją ir leisti Vilniuje turėti visuotiniu balsavimu renkamą Seimą.
 
 ## Laikotarpis ir datos
 
@@ -37,7 +37,7 @@ Nenurodyta
 <a id="claim-t-77881"></a>
 - t-001
   global_id: t-77881
-  teiginys: 'Didysis Vilniaus Seimas, gavus valdžios sutikimą, vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
+  teiginys: 'Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Didysis Vilniaus Seimas, gavus valdžios sutikimą, vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
+  santrauka: 'Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-

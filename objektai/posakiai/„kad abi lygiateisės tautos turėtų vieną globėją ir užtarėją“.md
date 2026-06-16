@@ -14,21 +14,21 @@ tags:
 
 ## Santrauka
 
-Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje, kur anksčiau degė pagonių amžinoji ugnis.
+Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.
 
 ## Teiginiai
 
 <a id="claim-t-20902"></a>
 - t-001
   global_id: t-20902
-  teiginys: 'Jogailai įvedant naująjį tikėjimą pastatyta katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
+  teiginys: 'Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jogailai įvedant naująjį tikėjimą pastatyta katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
+  santrauka: 'Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:

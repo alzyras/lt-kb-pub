@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanorių būrį. Variakojo vadovaujamas Panevėžio srities apsaugos būrys gerokai išaugo ir sustiprėjo. Variakojis, tai sužinojęs, nedelsdamas pasiuntė pustrečios kuopos su dviem kulkosvaidžiais užimti miestą.
+J. Variakojo vadovaujamas Panevėžio batalionas saugojo Klovainių-Rozalimo ruožą. 1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį. Sužinojęs, kad mieste 2–3 dienas nebuvo ginkluotos jėgos, J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais jį užimti.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 <a id="claim-t-40168"></a>
 - t-003
   global_id: t-40168
-  teiginys: 'J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais užimti miestą, kuriame 2-3 dienas nebuvo ginkluotos jėgos.'
+  teiginys: 'Sužinojęs, kad mieste 2–3 dienas nebuvo ginkluotos jėgos, J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais jį užimti.'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
     - t-004
 
 - c-002
-  santrauka: 'J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais užimti miestą, kuriame 2-3 dienas nebuvo ginkluotos jėgos.'
+  santrauka: 'Sužinojęs, kad mieste 2–3 dienas nebuvo ginkluotos jėgos, J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais jį užimti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mieste 2-3 dienas nebuvo jokios
@@ -126,6 +126,5 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Panevėžio batalionas]]

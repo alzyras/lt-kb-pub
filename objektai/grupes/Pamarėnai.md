@@ -11,25 +11,24 @@ date_start: '1218'
 date_end: '1245'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - dokumentas
   - grupe
   - popiežius
-amziai:
-  - 'XIII'
 ---
 # Pamarėnai
 
 ## Santrauka
 
-Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.
+Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29. 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
 
 ## Teiginiai
-
 <a id="claim-t-63188"></a>
 - t-001
   global_id: t-63188
-  teiginys: 'Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
+  teiginys: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   pagrindžia:
     - c-002
 
@@ -41,7 +40,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,8 +58,8 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočiai patyrė pirmą nuo pat
@@ -79,6 +77,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/baltų sąjunga]]

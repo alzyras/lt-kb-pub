@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Tačiau, siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje, lenkai pasiūlė pradėti derybas Suvalkuose. Derybose Lietuvos delegacija reikalavo nustatyti laikiną demarkacijos liniją, pasibaigus lenkų-bolševikų kovoms, atitraukti lenkų pajėgas už Lietuvos su sovietais suderėtų sienų. Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau - palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
+Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų. Siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje, lenkai pasiūlė pradėti derybas Suvalkuose. Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.
 
 ## Laikotarpis ir datos
 
@@ -43,7 +43,7 @@ Nenurodyta
 <a id="claim-t-41366"></a>
 - t-002
   global_id: t-41366
-  teiginys: 'Lenkai pasiūlė pradėti derybas Suvalkuose, siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje.'
+  teiginys: 'Siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje, lenkai pasiūlė pradėti derybas Suvalkuose.'
   pagrindžia:
     - c-001
 
@@ -57,6 +57,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje, lenkai pasiūlė pradėti derybas Suvalkuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Operacijos pasekmės

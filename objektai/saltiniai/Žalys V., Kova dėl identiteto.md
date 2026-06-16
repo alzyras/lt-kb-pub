@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Kova dėl identiteto.
+V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paantrašte apie Lietuvos nesėkmę Klaipėdoje 1923–1939 m.
 
 ## Teiginiai
 
 <a id="claim-t-18070"></a>
 - t-001
   global_id: t-18070
-  teiginys: 'V. Žalio „Kova dėl identiteto“ nagrinėja, kodėl Lietuvai 1923–1939 m. nesisekė Klaipėdoje.'
+  teiginys: 'V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paantrašte apie Lietuvos nesėkmę Klaipėdoje 1923–1939 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Žalio knyga „Kova dėl identiteto“ 1993 m. išleista Liuneburge su paantrašte apie Lietuvos nesėkmę Klaipėdoje 1923–1939 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalys V. Kova dėl identiteto. Kodėl Lietuvai nesisekė Klaipėdoje tarp 1923–

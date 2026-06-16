@@ -82,7 +82,6 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]

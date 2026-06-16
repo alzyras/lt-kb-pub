@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Jie buvo pasiekę Nalšėnų žemę^144.
+Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
 
 ## Teiginiai
 
 <a id="claim-t-32385"></a>
 - t-001
   global_id: t-32385
-  teiginys: 'Apie 1259 m. totorių chanas Burundajus ir Volinijos-Haličo Danielius buvo pasiekę Nalšėnų žemę.'
+  teiginys: 'Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tolimesni smūgiai totorių tačiau iš kri­

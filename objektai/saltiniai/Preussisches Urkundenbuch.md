@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-PUB = Preussisches Urkundenbuch, t.
+1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą. „Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ PUB = Preussisches Urkundenbuch, t.
 <a id="claim-t-67524"></a>
 - t-002
   global_id: t-67524
-  teiginys: '1215 m. antroje pusėje arba 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu.'
+  teiginys: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ PUB = Preussisches Urkundenbuch, t.
     - t-001
 
 - c-002
-  santrauka: '1215 m. antroje pusėje arba 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu.'
+  santrauka: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Realizuojant popiežiaus

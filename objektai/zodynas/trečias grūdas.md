@@ -66,7 +66,6 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/posakiai/Iki gyvos galvos]]

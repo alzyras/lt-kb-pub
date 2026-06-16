@@ -9,10 +9,10 @@ date_start: '1919'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
 amziai:
   - 'XX'
+tags:
+  - ivykis
 ---
 # Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)
 
@@ -33,17 +33,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01849"></a>
 - t-001
   global_id: t-01849
   teiginys: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mūsiškiai, pradėję ka-
@@ -54,9 +55,11 @@ Nenurodyta
     nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
     Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
     landžio 19 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

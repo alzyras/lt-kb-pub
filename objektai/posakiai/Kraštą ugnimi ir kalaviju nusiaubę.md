@@ -60,6 +60,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Tautvilas]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -12,22 +12,21 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - kraštas
   - ordinas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Šešupė
 
 ## Santrauka
 
-Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
+Sūduvos dykroje siena ėjo Lieponos paupiu iki Širvintos ir Širvintos krantu iki jos įtekėjimo į Šešupę. Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui. Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę.
 
 ## Teiginiai
-
 <a id="claim-t-73958"></a>
 - t-001
   global_id: t-73958
@@ -38,7 +37,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 <a id="claim-t-73959"></a>
 - t-002
   global_id: t-73959
-  teiginys: 'Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o jos žemupys buvo paliktas Ordinui.'
+  teiginys: 'Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.'
   pagrindžia:
     - c-002
 
@@ -56,22 +55,14 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-001
 
-<a id="claim-t-73963"></a>
-- t-005
-  global_id: t-73963
-  teiginys: 'Salyno sutartimi ordinui palikta šiaurinė Suvalkų krašto dalis ir kairysis Šešupės krantas.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-73964"></a>
-- t-006
+- t-005
   global_id: t-73964
   teiginys: 'Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -88,7 +79,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - t-004
     - t-003
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -104,7 +94,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - t-001
     - t-002
-
 - c-003
   santrauka: 'Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -120,23 +109,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
     skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
     tuvą nuo didesnės vokiečių įtakos1 2).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-004
-  santrauka: 'Salyno sutartimi ordinui palikta šiaurinė Suvalkų krašto dalis ir kairysis Šešupės krantas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nuo pasirašymo vie-
-    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
-    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
-    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
-    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
-    ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
-    rytuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

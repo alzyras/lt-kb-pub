@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -19,8 +19,12 @@ Objektų skaičius: 5.
 ## Susiję objektai
 
 ### Įvykiai
+- [[objektai/ivykiai/1387 m. balandžio 28 d. Jogailos sprendimas iškelti Skirgailą ir perduoti jam valdas]]
+- [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
+- [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]
 - [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]
+- [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą, kuris apibrėžė žemės paėmimą į Valstybinį žemės fondą ir pirmenybę žemės gavėjams.
+1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą. Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą. Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.
 
 ## Laikotarpis ir datos
 
@@ -61,16 +61,9 @@ Nenurodyta
 <a id="claim-t-23358"></a>
 - t-003
   global_id: t-23358
-  teiginys: 'Vykdant žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios valstybinės ir visuomeninės įstaigos.'
+  teiginys: 'Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-23359"></a>
-- t-004
-  global_id: t-23359
-  teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 
@@ -92,7 +85,6 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-    - t-004
 
 - c-002
   santrauka: 'Vykdant žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.'
@@ -116,7 +108,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

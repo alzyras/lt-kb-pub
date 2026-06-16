@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-„Artis magnae artilleriae“ yra Kazimiero Semenavičiaus 1650 m. veikalas, apibūdinamas kaip reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas. Jame siejamos šiuolaikinės artilerijos ir kosmonautikos ištakos su daugiapakopių raketų teorija.
+Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m. Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas. Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.
 
 ## Bibliografiniai duomenys
 
@@ -36,7 +36,7 @@ amziai:
 <a id="claim-t-23385"></a>
 - t-002
   global_id: t-23385
-  teiginys: 'Kazimiero Semenavičiaus „Artis magnae artilleriae“ 1650 m. tapo reikšmingiausiu Lietuvos karinės inžinerijos mokyklos darbu.'
+  teiginys: 'Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.'
   pagrindžia:
     - c-001
 

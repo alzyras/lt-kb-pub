@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232).
+Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,14 +39,14 @@ Nenurodyta
 <a id="claim-t-59699"></a>
 - t-001
   global_id: t-59699
-  teiginys: 'Dusburgietis pasakoja, kad žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.'
+  teiginys: 'Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Dusburgietis pasakoja, kad žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.'
+  santrauka: 'Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitąkart mūšio metu danguje pasirodžiusi
@@ -63,6 +63,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Marija]]

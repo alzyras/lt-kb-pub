@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Kauno Lietuva pateikiama kaip lenkiškos Lietuvos sampratos vartotas Lietuvos Respublikos pavadinimas.
+Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva. Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba. Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,21 +46,21 @@ Nenurodyta
 <a id="claim-t-23422"></a>
 - t-002
   global_id: t-23422
-  teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
+  teiginys: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-26941"></a>
 - t-003
   global_id: t-26941
-  teiginys: 'Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
+  teiginys: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
+  santrauka: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
@@ -91,6 +91,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Lenkiškoje Lietuvos sampratoje Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent ši samprata iškilo 1920 m.

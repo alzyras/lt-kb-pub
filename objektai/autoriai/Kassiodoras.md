@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą tautą («pacatum hominum genus omnino »), užėmusią labai ilgą pajūrio krantą į rytus.
+Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas. Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 <a id="claim-t-30756"></a>
 - t-002
   global_id: t-30756
-  teiginys: 'Jordanes 551 m. parengė vėliau dingusios Kassiodoro gotų istorijos santrauką ir joje minėjo Aesti kaip taikingą pajūrio tautą.'
+  teiginys: 'Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įdomu tai, kad aisčių vardas VI

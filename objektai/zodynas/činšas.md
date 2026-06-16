@@ -14,20 +14,23 @@ date_start: '1398'
 date_end: '1763'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sąvoka
 amziai:
   - 'XIV'
   - 'XVIII'
+aliases:
+  - 'objektai/zodynas/činšininkas'
+variantai:
+  - 'činšininkas'
+tags:
+  - sąvoka
 ---
 # činšas
 
 ## Santrauka
 
-Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).
+Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis. Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių. 1632 m. Akademijos rektorius Frizijus Valerijono bursai mokėjo 400 auksinų iš 800 auksinų metinio činšo.
 
 ## Teiginiai
-
 <a id="claim-t-82131"></a>
 - t-001
   global_id: t-82131
@@ -74,12 +77,13 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 <a id="claim-t-182992"></a>
 - t-007
   global_id: t-182992
-  teiginys: 'Po sukilimo valdžia konfiskuotų dvarų žemę išdalino valstiečiams ir reikalavo mokėti palyginti mažą činšą.'
+  teiginys: 'Po sukilimo valdžia konfiskuotų bajorų ir dvasininkų dvarų žemę išdalijo valstiečiams, reikalaudama mokėti palyginti mažą činšą.'
   pagrindžia:
-    - c-007
+    - c-009
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -102,7 +106,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   pagrindžia:
     - t-004
     - t-003
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -118,7 +121,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -130,7 +132,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -152,7 +153,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -167,7 +167,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-006
   santrauka: 'Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -192,25 +191,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-007
-  santrauka: 'Po sukilimo valdžia konfiskuotų dvarų žemę išdalino valstiečiams ir reikalavo mokėti palyginti mažą činšą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik po sukilimo konfiskuotose ba-
-    jorų ir dvasininkų žemėse valstiečių būklė žymiai pagerėjo.
-    Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės
-    sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama
-    mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė
-    buvo daug sunkesnė). Tuo buvo norima atkreipti valstiečių
-    akis į carą, duodant jiems suprasti, kad tik iš jo tegalima laukti
-    malonių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 - c-008
   santrauka: 'Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -240,6 +220,25 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   statusas: verified
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Po sukilimo valdžia konfiskuotų bajorų ir dvasininkų dvarų žemę išdalijo valstiečiams, reikalaudama mokėti palyginti mažą činšą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tik po sukilimo konfiskuotose ba-
+    jorų ir dvasininkų žemėse valstiečių būklė žymiai pagerėjo.
+    Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės
+    sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama
+    mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė
+    buvo daug sunkesnė). Tuo buvo norima atkreipti valstiečių
+    akis į carą, duodant jiems suprasti, kad tik iš jo tegalima laukti
+    malonių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -257,7 +256,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaitas]]
-- [[objektai/zodynas/činšininkas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
@@ -265,6 +263,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Vilčiopolskis]]
 - [[objektai/zodynas/Činšas činšininkas]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/zodynas/duoklė]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]

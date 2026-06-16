@@ -112,5 +112,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Liudvikas (Torunės komtūras)]]

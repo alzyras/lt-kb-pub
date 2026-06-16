@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo Lietuvos simbolį - Vytj (dešinėje), taip uždengdami vokišką imperijos karūną su šūkiu „GOT MIT UNS“ („DIEVAS SU MUMIS“) Kėdainių gynyba Karininkai J. Toks buvo pirmasis Kėdainių įgulos savanorių kovos krikštas. Naktį iš vasario 7 į 8 d. Kėdainių gynėjų vadovybė gavo žvalgų pranešimą apie tai, kad bolševikų pajėgos palieka pozicijas ir traukiasi nuo Kėdainių.
+Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių. Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas. Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-41295"></a>
 - t-001
   global_id: t-41295
-  teiginys: 'Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
+  teiginys: 'Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
   pagrindžia:
     - c-004
 
@@ -72,7 +72,7 @@ Nenurodyta
 <a id="claim-t-41299"></a>
 - t-005
   global_id: t-41299
-  teiginys: 'Naktį iš vasario 7 į 8 d. Kėdainių gynėjų vadovybė gavo žvalgų pranešimą apie tai, kad bolševikų pajėgos palieka pozicijas ir traukiasi nuo Kėdainių.'
+  teiginys: 'Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link.'
   pagrindžia:
     - c-002
 
@@ -106,6 +106,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: 'Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Naktį iš vasario 7 į 8 d. Kėdainių gynėjų
@@ -150,7 +151,7 @@ Nenurodyta
     - t-004
 
 - c-004
-  santrauka: 'Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
+  santrauka: 'Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nukauti
@@ -197,7 +198,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
@@ -205,5 +205,6 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/K. Dragunevičius]]

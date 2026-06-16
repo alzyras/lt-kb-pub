@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -29,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske. Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
+Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias. Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais. Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
 
 ## Teiginiai
 
@@ -38,94 +39,74 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180412
   teiginys: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-180413"></a>
 - t-002
   global_id: t-180413
   teiginys: 'Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.'
   pagrindžia:
-    - c-009
-
-<a id="claim-t-180414"></a>
-- t-003
-  global_id: t-180414
-  teiginys: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.'
-  pagrindžia:
-    - c-004
+    - c-007
 
 <a id="claim-t-180415"></a>
-- t-004
+- t-003
   global_id: t-180415
   teiginys: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   pagrindžia:
-    - c-006
+    - c-004
 
 <a id="claim-t-180416"></a>
-- t-005
+- t-004
   global_id: t-180416
   teiginys: 'Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-180417"></a>
-- t-006
-  global_id: t-180417
-  teiginys: 'Pinsko kunigaikštystė buvo prijungta prie Lietuvos kartu su Turovo kunigaikštyste.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-180418"></a>
-- t-007
+- t-005
   global_id: t-180418
   teiginys: 'Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-180419"></a>
-- t-008
+- t-006
   global_id: t-180419
   teiginys: 'Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės.'
   pagrindžia:
-    - c-005
+    - c-003
 
 <a id="claim-t-180420"></a>
-- t-009
+- t-007
   global_id: t-180420
   teiginys: 'Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos.'
   pagrindžia:
-    - c-007
+    - c-005
 
 <a id="claim-t-180422"></a>
-- t-010
+- t-008
   global_id: t-180422
-  teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  teiginys: 'Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.'
   pagrindžia:
-    - c-008
+    - c-006
 
 <a id="claim-t-185085"></a>
-- t-011
+- t-009
   global_id: t-185085
   teiginys: 'Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.'
   pagrindžia:
-    - c-010
+    - c-008
+
+<a id="claim-t-187634"></a>
+- t-010
+  global_id: t-187634
+  teiginys: 'Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Pinsko kunigaikštystė buvo prijungta prie Lietuvos kartu su Turovo kunigaikštyste.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet užtat jis prijungė prie Lietuvos Mindaugo dar
-    nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes. Senasis
-    jotvingų kraštas (t.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-002
   santrauka: 'Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -143,10 +124,10 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
     - t-005
+    - t-004
 
-- c-003
+- c-002
   santrauka: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -166,22 +147,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-001
 
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet per-
-    sekiodamas Lietuvoje buvusius krikščionis ir Mindaugo bendra-
-    darbius, jis sukėlė jų sąmokslą ir, neišvaldęs visiškai 2 metų,
-    buvo nužudytas.
-    **Vaišvilkas** (1265—1268 m.). Mindaugui žuvus, Vaišvilkas
-    buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
@@ -194,9 +160,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
-- c-006
+- c-004
   santrauka: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -210,9 +176,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-007
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -232,9 +198,10 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-008
+- c-006
+  santrauka: 'Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Galiausiai apie liepos 20-22 d. jie sustojo.
@@ -258,9 +225,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
-- c-009
+- c-007
   santrauka: 'Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -278,7 +245,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   pagrindžia:
     - t-002
 
-- c-010
+- c-008
   santrauka: 'Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -291,4 +258,20 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009
+
+- c-009
+  santrauka: 'Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
+    GALĄ
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010

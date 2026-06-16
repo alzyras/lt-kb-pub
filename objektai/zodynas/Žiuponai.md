@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vietiniai ponai, valdovai ar žemaičių krašto kilmingieji. Terminas aiškinamas kaip lietuvių kalbos nesuprantančių prašaleičių vartotas vietinių ponų pavadinimas, siejamas su Žemaičių krašto valdžia. Vartojimo laiko nuoroda: 9 amžius; 890 metai.
+Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte. Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte.
 
 ## Žodis ir formos
 
@@ -26,7 +26,7 @@ Vartojamos formos: `žiuponais`.
 <a id="claim-t-07692"></a>
 - t-001
   global_id: t-07692
-  teiginys: 'Prašaleičiai žiuponais vadino lietuvių sau ponus, kurie IX amžiuje minimi Žemaičių krašte.'
+  teiginys: 'Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.'
   pagrindžia:
     - c-001
     - c-002
@@ -52,7 +52,7 @@ Vartojamos formos: `žiuponais`.
     - t-002
 
 - c-002
-  santrauka: 'Prašaleičiai žiuponais vadino lietuvių sau ponus, kurie IX amžiuje minimi Žemaičių krašte.'
+  santrauka: 'Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
@@ -65,4 +65,5 @@ Vartojamos formos: `žiuponais`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/Šaldros|šaldros]]

@@ -144,5 +144,5 @@ periodo_grupes:
 - [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]
 - [[objektai/asmenys/Fridrichas (Meiseno markgrafas)]]
 - [[objektai/asmenys/Fridrichas (riteris)]]
-- [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]
+- [[objektai/asmenys/Fridrichas II]]
 - [[objektai/zodynas/Papilys suburbium]]

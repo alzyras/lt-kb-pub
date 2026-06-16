@@ -97,6 +97,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Pomeranai]]
 - [[objektai/asmenys/Sventopelkas]]

@@ -15,7 +15,6 @@ tags:
 Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.
 
 ## Teiginiai
-
 <a id="claim-t-78055"></a>
 - t-001
   global_id: t-78055
@@ -31,7 +30,6 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +48,6 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

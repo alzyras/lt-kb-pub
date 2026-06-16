@@ -9,12 +9,12 @@ date_start: '1221'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - karalius
   - popiežius
   - sąvoka
-amziai:
-  - 'XIII'
 ---
 # bulė
 
@@ -23,7 +23,6 @@ amziai:
 Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.
 
 ## Teiginiai
-
 <a id="claim-t-58897"></a>
 - t-001
   global_id: t-58897
@@ -32,7 +31,6 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

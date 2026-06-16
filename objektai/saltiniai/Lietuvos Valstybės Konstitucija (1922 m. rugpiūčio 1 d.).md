@@ -18,24 +18,20 @@ tags:
 Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos formą (str. Tuojau įsigaliojus konstitucijai (1922.
 
 ## Teiginiai
-
 <a id="claim-t-67458"></a>
 - t-001
   global_id: t-67458
   teiginys: 'Lietuvos Valstybės Konstitucija buvo priimta 1922 m. rugpjūčio 1 d.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67459"></a>
-- t-002
-  global_id: t-67459
-  teiginys: '1922 m. Lietuvos Valstybės Konstitucija nustatė Lietuvai demokratinės respublikos formą.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
+  santrauka: 'Lietuvos Valstybės Konstitucija buvo priimta 1922 m. rugpjūčio 1 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Konstitucija. Galu-
@@ -45,26 +41,10 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
     nų krikščionių demokra-
     tų balsais; kitos partijos
     balsavo prieš ją).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Konstitucija nustatė Lietuvos valstybei demokratinės respubli-
-    kos formą (str. 1) su valstybės spalvomis — geltona, žalia, raudona
-    — ir valstybės ženklu — baltu Vyčiu raudoname dugne (str. 7).
-    Piliečiams laidavo plačias teises ir laisves ir apsaugojo nuosavybės
-    teisę (str. 8-21). Tautos atstovai, renkami kas treji metai visuotiniu,
-    lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema,
-    turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau-
-    sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti karą ir t.t.
-    (str. 22-39).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
+Dzežgonis) Žalgirio mūšio laukas (dab.
 
 ## Teiginiai
 
 <a id="claim-t-58755"></a>
 - t-001
   global_id: t-58755
-  teiginys: 'Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.'
+  teiginys: 'Dzežgonis) Žalgirio mūšio laukas (dab.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dzežgonis) Žalgirio mūšio laukas (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dzežgonis)

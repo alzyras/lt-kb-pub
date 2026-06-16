@@ -69,5 +69,6 @@ Nenurodyta
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Grigalius IX]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lietuviai]]

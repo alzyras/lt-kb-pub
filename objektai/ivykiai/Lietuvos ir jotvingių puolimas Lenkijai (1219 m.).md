@@ -86,6 +86,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/Miera|miera]]

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų). Dusburgietis teigia, kad pirmosios žinios apie Dobrynės ordiną išliko 1228 m. dokumentuose, todėl istoriografijoje šie metai pateikiami kaip Ordino įkūrimo data (CDP, Nr. 19—21; Regesta historico-diplomatica Ordinis..., Nr. 38—40; Benninghoven F. Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
+Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje. 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
 
 ## Teiginiai
 
@@ -37,13 +37,14 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 <a id="claim-t-60963"></a>
 - t-002
   global_id: t-60963
-  teiginys: 'Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
+  teiginys: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis

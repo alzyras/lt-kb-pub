@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių. Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.
+SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą. Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe. SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.
 
 ## Teiginiai
 
@@ -28,14 +28,14 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
 <a id="claim-t-75483"></a>
 - t-002
   global_id: t-75483
-  teiginys: 'Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su savo gyventojais ir realizavo suverenitetą.'
+  teiginys: 'Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su savo gyventojais ir realizavo suverenitetą.'
+  santrauka: 'Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     44 min. absoliučia

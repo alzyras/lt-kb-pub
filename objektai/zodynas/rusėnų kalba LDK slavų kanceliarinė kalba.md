@@ -67,6 +67,5 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]

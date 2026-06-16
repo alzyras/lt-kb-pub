@@ -55,6 +55,5 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/grupes/Radvilos]]

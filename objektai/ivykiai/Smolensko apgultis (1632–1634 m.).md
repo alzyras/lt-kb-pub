@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją, apsiautė Smolenską, o miesto gynyba baigėsi 1634 m. kapituliacija ir taika prie Polianovkos. 1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
+1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko. Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai. Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -59,13 +59,14 @@ Nenurodyta
 <a id="claim-t-09883"></a>
 - t-004
   global_id: t-09883
-  teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją siekdama atgauti Smolenską ir lapkričio 14 d. apsiautė miestą.'
+  teiginys: '1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -172,3 +173,4 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/grupes/Maskvėnai]]

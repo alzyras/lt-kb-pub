@@ -67,6 +67,7 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Rapolovska]]
 - [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]
+- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
 - [[objektai/paprociai/Pasiuntinių atsisakymas dalyvauti vaišėse dėl garbingesnės vietos užstalėje]]
 - [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
 - [[objektai/asmenys/Petras Białas]]

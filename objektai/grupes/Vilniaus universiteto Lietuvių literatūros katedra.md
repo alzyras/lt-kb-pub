@@ -12,20 +12,13 @@ tags:
 
 ## Santrauka
 
-Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų, kai kurių kultūros veikėjų ideologinis puolimas.
+Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas. Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.
 
 ## Teiginiai
 
 <a id="claim-t-75040"></a>
 - t-001
   global_id: t-75040
-  teiginys: 'Vengrijos revoliucijos ir tais pačiais metais Lenkijoje vykusio Poznanės darbininkų sukilimo Lietuvos valdžia leido suprasti, kad kultūros politika iš esmės nepasikeis.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75041"></a>
-- t-002
-  global_id: t-75041
   teiginys: 'Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas.'
   pagrindžia:
     - c-001

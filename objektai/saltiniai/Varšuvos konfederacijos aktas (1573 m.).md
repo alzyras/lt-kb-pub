@@ -13,42 +13,31 @@ tags:
 
 ## Santrauka
 
-Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus. Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikėjimo niekas nebus persekiojamas.
+1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas. Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės.
 
 ## Teiginiai
-
 <a id="claim-t-67555"></a>
 - t-001
   global_id: t-67555
-  teiginys: 'Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
+  teiginys: 'Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-67556"></a>
 - t-002
   global_id: t-67556
-  teiginys: 'Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus.'
+  teiginys: '1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi jo artimieji patarėjai taip pat buvo katalikai,
-    daugiausia jėzuitai. Didžiausia jo svajonė buvo sunaikinti pro-
-    testantizmą ir kitas religijas, o savo valstybėse tepalikti tik vieną
-    katalikų tikėjimą. Renkamas karalium jis prisiekė laikytis 1573
-    metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
-    jimo niekas nebus persekiojamas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl jo
@@ -60,8 +49,27 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visi jo artimieji patarėjai taip pat buvo katalikai,
+    daugiausia jėzuitai. Didžiausia jo svajonė buvo sunaikinti pro-
+    testantizmą ir kitas religijas, o savo valstybėse tepalikti tik vieną
+    katalikų tikėjimą. Renkamas karalium jis prisiekė laikytis 1573
+    metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
+    jimo niekas nebus persekiojamas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

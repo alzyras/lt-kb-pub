@@ -47,4 +47,5 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/ivykiai/Astravos sutartis]]
+- [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą]]
 - [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]

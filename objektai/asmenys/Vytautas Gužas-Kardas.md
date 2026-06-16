@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo viršininkas Vytautas GužasKardas, penktas - Tauro apygardos vadas Aleksandras Grybinas-Faustas, septintas — Vakarų Lietuvos srities vadas Aleksandras MilaševičiusRuonis, devintas -.
+Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.
 
 ## Teiginiai
 
 <a id="claim-t-40525"></a>
 - t-001
   global_id: t-40525
-  teiginys: 'Vytautas Gužas-Kardas nurodytas kaip Vakarų Lietuvos srities štabo viršininkas.'
+  teiginys: 'Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas Gužas-Kardas buvo Vakarų Lietuvos srities štabo viršininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į suvažiavimą susitikę Vakarų

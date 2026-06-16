@@ -15,19 +15,12 @@ tags:
 
 ## Santrauka
 
-Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją. Lietuvos krikštas davė pradžią luominei visuomenei.
+Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius.
 
 ## Teiginiai
 
-<a id="claim-t-22329"></a>
-- t-001
-  global_id: t-22329
-  teiginys: 'Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-22330"></a>
-- t-002
+- t-001
   global_id: t-22330
   teiginys: 'Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius.'
   pagrindžia:
@@ -51,24 +44,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
-
-- c-002
-  santrauka: 'Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Su tripartitio christiana (visuomenės skirstymas į
-    karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti
-    ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
-    privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
-    nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą. Lietu-
-    vos krikštas davė pradžią luominei visuomenei.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

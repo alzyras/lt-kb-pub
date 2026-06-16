@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teismuose, pradėta kurti liaudies milicija.
+1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene. 1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija.
 
 ## Laikotarpis ir datos
 
@@ -41,21 +41,21 @@ Nenurodyta
 <a id="claim-t-20313"></a>
 - t-001
   global_id: t-20313
-  teiginys: 'Liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
+  teiginys: '1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183245"></a>
 - t-002
   global_id: t-183245
-  teiginys: 'Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teismuose, pradėta kurti liaudies milicija.'
+  teiginys: '1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
+  santrauka: '1940 m. liepos 3 d. priimtas Lietuvos kariuomenės pertvarkymo įstatymas, po kurio Lietuvos kariuomenė tapo Liaudies kariuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
@@ -70,7 +70,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teismuose, pradėta kurti liaudies milicija.'
+  santrauka: '1940 m. liepą Maskva diegė SSRS valdymo modelį Lietuvos administracijoje, policijoje ir teismuose, pradėta kurti liaudies milicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-

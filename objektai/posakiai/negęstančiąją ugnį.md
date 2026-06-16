@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
+Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
 
 ## Teiginiai
 
 <a id="claim-t-59137"></a>
 - t-001
   global_id: t-59137
-  teiginys: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
+  teiginys: 'Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toks didelis buvo jo autoritetas,

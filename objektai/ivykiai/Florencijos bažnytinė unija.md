@@ -69,7 +69,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Jotvingiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -26,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.
+Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu. II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino. 1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.
 
 ## Teiginiai
 
@@ -61,7 +62,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 <a id="claim-t-178771"></a>
 - t-005
   global_id: t-178771
-  teiginys: 'Dusburgietis teigia, kad prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
+  teiginys: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   pagrindžia:
     - c-005
 
@@ -120,6 +121,27 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginys: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-187707"></a>
+- t-014
+  global_id: t-187707
+  teiginys: 'Danieliaus ir Vasilkos pasiųstas Vykintas sidabru ir dovanomis palenkė jotvingius ir pusę žemaičių.'
+  pagrindžia:
+    - c-012
+
+<a id="claim-t-187708"></a>
+- t-015
+  global_id: t-187708
+  teiginys: 'Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą.'
+  pagrindžia:
+    - c-013
+
+<a id="claim-t-187709"></a>
+- t-016
+  global_id: t-187709
+  teiginys: 'Mindaugo svainis po Mindaugo užsidarymo Vorutos pilyje išvaikė rusus ir jotvingius.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -196,6 +218,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-013
 
 - c-005
+  santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kryžiuočiai patyrė pirmą nuo pat
@@ -325,13 +348,70 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-002
 
+- c-012
+  santrauka: 'Danieliaus ir Vasilkos pasiųstas Vykintas sidabru ir dovanomis palenkė jotvingius ir pusę žemaičių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O
+    paskui Danielius sumanė su savo broliu ir nusiuntė
+    pasiuntinius į Lenkiją, pas lenkų kunigaikščius, bylo­
+    damas: „Dabar proga krikščionims prieš pagonis eiti,
+    nes jie patys vieni su kitais kariauja." Lenkai pažadė­
+    jo, bet netesėjo. Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius,
+    ir Vykintas palenkė juos, jotvingius ir pusę žemaičių
+    sidabru ir įvairiomis dovanomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-013
+  santrauka: 'Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-014
+  santrauka: 'Mindaugo svainis po Mindaugo užsidarymo Vorutos pilyje išvaikė rusus ir jotvingius.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Mindaugas buvo pasiruošęs, bet nutarė su jais at­
+    virame lauke nesikauti. Užsidarė pilyje-vorutoje2 3 , ir
+    55
+
+    ## Puslapis 51
+
+    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
+    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-016
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/paprociai/Bičiulystė ir bitininkystė]]
-- [[objektai/grupes/Jotvingai]]
 - [[objektai/asmenys/Visvaldis]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Gotai]]
@@ -339,23 +419,33 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietgaliai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/grupes/Poloviečiai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/autoriai/Thunmanas]]
+- [[objektai/asmenys/Vasilka]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/daiktai/Arbaletai]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/ivykiai/Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)]]
 - [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]
 - [[objektai/autoriai/Nalepa J]]
 - [[objektai/grupes/Pamarėnai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]
+- [[objektai/daiktai/Trumpos ietys]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/grupes/Prūsijos valstybė]]

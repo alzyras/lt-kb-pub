@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1322 m. Gedimino taikos sutartis su Livonija minima kaip vienas iš šaltinių, kuriuose užfiksuotas Aukštaičių vardas. Šiame kontekste „Eystoythen“ aiškinamas kaip geografinis žemės pavadinimas.
+1322 m. Gediminas sudarė taikos sutartį su Livonija. 1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą. 1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.
 
 ## Laikotarpis ir datos
 
@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-31416"></a>
 - t-002
   global_id: t-31416
-  teiginys: '1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai buvo geografinis žemės pavadinimas.'
+  teiginys: '1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.'
   pagrindžia:
     - c-002
 
@@ -79,6 +79,7 @@ Nenurodyta
     - t-003
 
 - c-002
+  santrauka: '1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šiaip jau platus Nemuno aukštupio-vidurupio dešinės kraštas ir

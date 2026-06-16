@@ -15,9 +15,7 @@ tags:
 
 ## Santrauka
 
-Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius. Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi. Tatai Vytauto santykius su ordinu visai nutraukė, ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir paėmė juos į savo valdžią.
-
-Ivinskis sukilimo pradžią sieja su pasienio uždarymu, prekybos draudimais, Skirsnemunės sudeginimu ir ordino pasitraukimu iš Dubysos pilies.
+1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą. 1409 m. Ordino sulaikyti Jogailos javai nutraukė Vytauto santykius su Ordinu; Vytautas pasiuntė bajorus į Žemaičius ir paėmė Žemaičius į savo valdžią. Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.
 
 ## Laikotarpis ir datos
 
@@ -36,7 +34,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-67016"></a>
 - t-001
   global_id: t-67016
@@ -44,51 +41,28 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-67017"></a>
-- t-002
-  global_id: t-67017
-  teiginys: '1409 m. Ordino sulaikyti Jogailos javai nutraukė Vytauto santykius su Ordinu; Vytautas pasiuntė bajorus į Žemaičius ir paėmė Žemaičius į savo valdžią.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-67018"></a>
+<a id="claim-t-67019"></a>
 - t-003
-  global_id: t-67018
+  global_id: t-67019
   teiginys: 'Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-67019"></a>
+<a id="claim-t-67022"></a>
 - t-004
-  global_id: t-67019
-  teiginys: '1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lietuvon ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
+  global_id: t-67022
+  teiginys: '1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-67020"></a>
 - t-005
-  global_id: t-67020
-  teiginys: 'Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi.'
+  teiginys: 'Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-67021"></a>
-- t-006
-  global_id: t-67021
-  teiginys: 'Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-67022"></a>
-- t-007
-  global_id: t-67022
-  teiginys: 'Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį.'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1409 m. pradžioje ordinas aklinai uždarė Žemaičių sieną Lie­
@@ -99,7 +73,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -112,7 +85,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -125,31 +97,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo
-    apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai
-    saugomi. Dėl viso to žemaičiai tuojau pradėjo nerimauti. Jau
-    1407 m. jie išsiuntinėjo raštus Europos valdovams, skųsdamiesi
-    dėl ordino žiaurumų ir priespaudos. Kitais metais krašte jau
-    buvo pilna Vytauto atsiųstų žmonių, ir bruzdėjimas ėjo atviryn.
-    Tada ordinas ėmė reikalauti, kad Vytautas atsiimtų tuos savo
-    250 žmonių, kuriuos turėjo gauti pagal Racionžo sutartį. Bet
-    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
-    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
-    sulaukė visuotinio sukilimo. Vytautas pats dar laikėsi nuošaliai,
-    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
-    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
-    o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai sukilimas apėmė visą Žemaičių kraštą, kuriame jau nuo
@@ -162,49 +110,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Žemaičių sukilimas 1409 m.** Po Racionžo taikos Vytautas
-    dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pa-
-    vergti nepasiduodančius Žemaičius. Bet po sėkmingo žygio į
-    Smolenską jis vėl ėmė ieškoti progos Žemaičiams atsiimti. Ordi-
-    nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių
-    prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
-    vežti į Pavyslį, kaip įkaitai. Ordino valdžia buvo labai žiauri.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: '1409 m. Ordino sulaikyti Jogailos javai nutraukė Vytauto santykius su Ordinu; Vytautas pasiuntė bajorus į Žemaičius ir paėmė Žemaičius į savo valdžią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
-    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
-    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
-    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
-    paėmė juos į savo valdžią. Po to karas su ordinu jau buvo ne-
-    beišvengiamas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/įgula]]
-- [[objektai/zodynas/įkaitai]]
 - [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Žemaičių sukilimas (1409 m. gegužė)]]

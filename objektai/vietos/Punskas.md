@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas. Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.
+Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską. Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską. Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 
 ## Teiginiai
 
@@ -30,45 +30,25 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   global_id: t-71963
   teiginys: 'Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-71964"></a>
 - t-002
   global_id: t-71964
   teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-71965"></a>
-- t-003
-  global_id: t-71965
-  teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-183623"></a>
-- t-004
+- t-003
   global_id: t-183623
   teiginys: 'Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš Kauno šarvuotas trauki-
-    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
-    lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
-    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
@@ -89,7 +69,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
     - t-002
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -105,4 +85,4 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003

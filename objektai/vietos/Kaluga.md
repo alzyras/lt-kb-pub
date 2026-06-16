@@ -12,38 +12,20 @@ tags:
 
 ## Santrauka
 
-Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.
+Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.
 
 ## Teiginiai
-
-<a id="claim-t-02483"></a>
+<a id="claim-t-183024"></a>
 - t-001
-  global_id: t-02483
+  global_id: t-183024
   teiginys: 'Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas
-    tuojau išžygiavo į Maskvą, bet jaunučio Maskvos kunigaikš-
-    čio Vosyliaus II motina, Vytauto duktė Sofija, atvykusi jo pa-
-    sitikti į Smolenską, permaldavo Vytautą, ir jis tuo metu tepri-
-    jungė prie Lietuvos tik keletą kunigaikštysčių, kurios anksčiau
-    svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė
-    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
-    buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Vytauto žygio į Maskvą metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -52,8 +34,10 @@ tags:
     buvo pasiekta net Tula, Kaluga ir Riazanė. Iš tikro tai buvo
     ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
     išdrįso kariauti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei netikėlių žūtį 1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo. Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.
+1295 m. gegužės 20 d. laivų mūšyje prie Gardino žuvo brolis Ditrichas iš Ezbeko ir dar vienas Ordino brolis. Po to broliai nuplaukė beveik iki Junigedos pilies.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-66505"></a>
 - t-002
   global_id: t-66505
-  teiginys: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
+  teiginys: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   pagrindžia:
     - c-002
 
@@ -77,6 +77,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
@@ -95,6 +96,7 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/posakiai/penktadieni prieš Sekmines]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Heinmanas, vardu Kindas]]

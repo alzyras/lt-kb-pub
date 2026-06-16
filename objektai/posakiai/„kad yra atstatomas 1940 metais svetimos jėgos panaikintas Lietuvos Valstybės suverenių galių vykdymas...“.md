@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus prieš ir šešiems susilaikius) priimtas Lietuvos nepriklausomybės atkūrimo Aktas, kuriame paskelbta, „kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės.
+Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas.
 
 ## Teiginiai
 
 <a id="claim-t-20903"></a>
 - t-001
   global_id: t-20903
-  teiginys: 'Lietuvos nepriklausomybės atkūrimo Aktas priimtas 124 deputatams balsavus už, nė vienam prieš ir šešiems susilaikius.'
+  teiginys: 'Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos nepriklausomybės atkūrimo Aktas paskelbė, kad atkuriamas 1940 m. svetimos jėgos panaikintas Lietuvos valstybės suverenių galių vykdymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     paskelbė oficialiu valstybės herbu ir

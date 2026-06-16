@@ -31,7 +31,6 @@ tags:
 - iki gyvos galvos
 
 ## Teiginiai
-
 <a id="claim-t-10441"></a>
 - t-001
   global_id: t-10441
@@ -39,46 +38,14 @@ tags:
   pagrindžia:
     - c-003
 
-<a id="claim-t-67269"></a>
-- t-002
-  global_id: t-67269
+- t-003
   teiginys: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
   pagrindžia:
-    - c-001
-    - c-002
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    jis turėjo sumokėti 100.000 kapų skatikų karo išlaidų, grą-
-    žino kai kurias žemes Lenkijai ir iki gyvos Vytauto ir Jogailos
-    galvos atsisakė nuo Žemaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Juo buvo patvirtintas Vytauto sava-
-    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
-    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
-    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
-    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: '1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -94,6 +61,24 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Formulė „iki gyvos Vytauto ir Jogailos galvos“ reiškė Žemaičių atsisakymą iki Vytauto ir Jogailos mirties.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
+    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

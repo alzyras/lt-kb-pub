@@ -9,73 +9,41 @@ date_start: '1525'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - didikas
   - karalius
   - ordinas
   - sąvoka
-amziai:
-  - 'XVI'
 ---
 # protestantizmas
 
 ## Santrauka
 
-Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas. protestantizmas: xVI am- žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata- likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir- tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų pastangomis katalikybė ėmė atsigauti, ir daugelis.
+Protestantizmas labai greitai pasiekė Lietuvą. Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai. XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.
 
 ## Teiginiai
-
-<a id="claim-t-168683"></a>
+<a id="claim-t-168684"></a>
 - t-001
-  global_id: t-168683
-  teiginys: 'Protestantizmas labai greitai pasiekė Lietuvą.'
+  global_id: t-168684
+  teiginys: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-168684"></a>
-- t-002
-  global_id: t-168684
-  teiginys: 'Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad protestantizmas Lietuvoje išnyks.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-168686"></a>
-- t-003
-  global_id: t-168686
-  teiginys: 'Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-168688"></a>
-- t-004
-  global_id: t-168688
-  teiginys: 'XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.'
-  pagrindžia:
-    - c-003
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-168689"></a>
-- t-005
+- t-002
   global_id: t-168689
-  teiginys: 'protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas.'
+  teiginys: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Protestantizmas labai greitai pasiekė Lietuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Protestantizmas labai greitai pa-
-    siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
-    kryžiuočių ordino magistras ir daugumas brolių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiausias protestantizmo
@@ -85,43 +53,15 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-
-- c-003
-  santrauka: 'XVI a. protestantizmo banga Lietuvoje paveikė katalikybę, bet amžiaus pabaigoje jėzuitai padėjo jai atsigauti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XVI am-
-    žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata-
-    likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir-
-    tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų
-    pastangomis katalikybė ėmė atsigauti, ir daugelis didžiųjų
-    ponų šeimų sugrįžo atgal į katalikybę (žiūr. 253, 290 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, labai daug pakenkė protestantizmui įvairių jo sektų
-    savitarpio nesutikimai. Lietuvos didikų tarpe labiausiai buvo
-    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
-    rijos tarpe — liuteranizmas. Tačiau buvo nemaža ir kitų sektų;
-    visos jos tarp savęs ginčijosi, vienos kitas smerkdamos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-005
+    - t-001
+- c-002
+  santrauka: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad
@@ -131,31 +71,27 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     tantizmui laikytis buvo neįmanoma. Todėl iki mūsų laikų Lie-
     tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
     vilų centrus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Radvila]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/grupes/Biržų Radvilos]]
-- [[objektai/grupes/Brandenburgo elektoriai]]
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/autoriai/J. Bretkūnas]]
-- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]
 - [[objektai/asmenys/Zigmantas Augustas]]
-- [[objektai/zodynas/gudų rašto kalba]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]

@@ -3,6 +3,12 @@ tipas: grupe
 pavadinimas: 'Alšėnų kunigaikščiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1401 m.'
+  - '1433 m.'
+date_start: '1401'
+date_end: '1433'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,12 +16,14 @@ tags:
   - grupe
   - kunigaikštis
   - valstybė
+amziai:
+  - 'XV'
 ---
 # Alšėnų kunigaikščiai
 
 ## Santrauka
 
-Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.
+Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę. Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos. Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.
 
 ## Teiginiai
 
@@ -32,6 +40,13 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   teiginys: 'Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-187703"></a>
+- t-003
+  global_id: t-187703
+  teiginys: 'Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -70,15 +85,34 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: 'Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    * Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglman-
+    taitls, Alšėnų kunigaikščio Jono Algimantaičio sūnus. Po Skirgailos
+    mirties buvo V ytauto vietininku Kijeve. Pirmą kartą dokumentuose
+    minimas 1401 m., nuskandintas 1433 m. Švitrigailos įsakymu, kaip
+    organizatorius sąmokslo (1432), iškalusio didžiuoju kunigaikščiu Vy­
+    tauto broli Žygimantą KąstulaitĮ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Sanguškos]]
 - [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Vyšnioveckiai]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/grupes/Riurikaičių dinastija]]

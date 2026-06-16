@@ -77,5 +77,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]

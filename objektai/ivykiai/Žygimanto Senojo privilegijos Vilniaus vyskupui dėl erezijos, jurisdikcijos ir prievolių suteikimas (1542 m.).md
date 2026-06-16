@@ -93,6 +93,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/instigatorius]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]

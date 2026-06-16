@@ -107,7 +107,6 @@ Pilis liko nepaimta.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/posakiai/prisiekęs dievų galybe]]
 - [[objektai/daiktai/Laivai]]

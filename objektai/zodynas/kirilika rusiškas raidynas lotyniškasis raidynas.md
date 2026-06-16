@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų. Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika). Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
+Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju. Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių. 1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, pačiame krašte greitai atsirado legali lietuvių spauda.
 
 ## Teiginiai
 
@@ -36,20 +36,21 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 <a id="claim-t-70177"></a>
 - t-002
   global_id: t-70177
-  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
+  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-70178"></a>
 - t-003
   global_id: t-70178
-  teiginys: 'Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.'
+  teiginys: '1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, pačiame krašte greitai atsirado legali lietuvių spauda.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1904 m. pavasarį atšaukus lietuvių spaudos lotyniškuoju raidynu draudimą, pačiame krašte greitai atsirado legali lietuvių spauda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis bajorų apskritai nesuprato
@@ -65,6 +66,7 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
     - t-003
 
 - c-002
+  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-

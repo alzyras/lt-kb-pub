@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios reikalaudavo nesibaigiančio finansavimo).
+Sovietmečiu Lietuvoje nebūdavo „dolgostrojų“, nes naujos įmonės buvo paleidžiamos daugiau ar mažiau laiku. Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 <a id="claim-t-183416"></a>
 - t-002
   global_id: t-183416
-  teiginys: 'Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios reikalaudavo nesibaigiančio finansavimo).'
+  teiginys: 'Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
     - t-001
 
 - c-002
-  santrauka: 'Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios reikalaudavo nesibaigiančio finansavimo).'
+  santrauka: 'Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors pagal mėsos ir pieno

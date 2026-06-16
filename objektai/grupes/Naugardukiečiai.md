@@ -46,4 +46,5 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 - [[objektai/asmenys/Treniota]]
 - [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]
 - [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]
+- [[objektai/ivykiai/Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti]]
 - [[objektai/grupes/Žemaičiai]]

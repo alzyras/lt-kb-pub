@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai. Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.
+Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui. Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje. Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-62682"></a>
 - t-002
   global_id: t-62682
-  teiginys: 'Karaliaučiaus pilies broliai daugiau pasninkavo, meldėsi, ilgiau budėjo naktimis ir klūpojo bažnyčioje.'
+  teiginys: 'Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje.'
   pagrindžia:
     - c-001
     - c-002

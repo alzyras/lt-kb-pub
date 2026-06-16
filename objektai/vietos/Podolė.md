@@ -6,12 +6,15 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1320 m.'
+  - '1393 m.'
   - '1403 m.'
+  - '1934 m.'
   - '2026 m.'
 date_start: '1320'
 date_end: '2026'
@@ -25,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladimiras, o iš Karijoto sūnaus, Teodoro, — Podolė. Iš visų čia suminėtų sričių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji iš seno buvo glaudžiai susijusi su Lenkija. Ir tikrai, tuojau kilo su ja konfliktas dėl Podolės žemių. Šiame pasakojime Podolija pateikiama kaip kraštas, kur anksčiau buvo jūra. Podolė šiame fragmente veikia kaip istorinė teritorija.
+Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu. Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą. Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,35 +50,35 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177907
   teiginys: 'Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu.'
   pagrindžia:
-    - c-011
+    - c-009
 
 <a id="claim-t-177908"></a>
 - t-002
   global_id: t-177908
   teiginys: 'Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   pagrindžia:
-    - c-010
+    - c-008
 
 <a id="claim-t-177909"></a>
 - t-003
   global_id: t-177909
   teiginys: 'Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis.'
   pagrindžia:
-    - c-017
+    - c-015
 
 <a id="claim-t-177910"></a>
 - t-004
   global_id: t-177910
   teiginys: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas.'
   pagrindžia:
-    - c-016
+    - c-014
 
 <a id="claim-t-177911"></a>
 - t-005
   global_id: t-177911
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   pagrindžia:
-    - c-009
+    - c-007
 
 <a id="claim-t-177912"></a>
 - t-006
@@ -89,285 +92,292 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177913
   teiginys: 'Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
   pagrindžia:
-    - c-021
+    - c-019
 
 <a id="claim-t-177914"></a>
 - t-008
   global_id: t-177914
   teiginys: '1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą.'
   pagrindžia:
-    - c-031
+    - c-029
 
 <a id="claim-t-177915"></a>
 - t-009
   global_id: t-177915
   teiginys: 'Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.'
   pagrindžia:
-    - c-012
+    - c-010
 
 <a id="claim-t-177916"></a>
 - t-010
   global_id: t-177916
   teiginys: 'Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.'
   pagrindžia:
-    - c-028
+    - c-026
 
 <a id="claim-t-177917"></a>
 - t-011
   global_id: t-177917
   teiginys: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
   pagrindžia:
-    - c-022
+    - c-020
 
 <a id="claim-t-177918"></a>
 - t-012
   global_id: t-177918
   teiginys: '1395 m. Vytautas paskyrė savo vietininką Podolėje.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-177919"></a>
-- t-013
-  global_id: t-177919
-  teiginys: 'Kazimiero laikais tankiau gyventa Podolės Braclavo srityje, o visa kita Podolė priklausė Lenkijai.'
-  pagrindžia:
     - c-006
 
 <a id="claim-t-177920"></a>
-- t-014
+- t-013
   global_id: t-177920
   teiginys: 'Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
   pagrindžia:
-    - c-025
+    - c-023
 
 <a id="claim-t-177921"></a>
-- t-015
+- t-014
   global_id: t-177921
   teiginys: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
   pagrindžia:
-    - c-013
+    - c-011
 
 <a id="claim-t-177922"></a>
-- t-016
+- t-015
   global_id: t-177922
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   pagrindžia:
-    - c-024
+    - c-022
 
 <a id="claim-t-177924"></a>
-- t-017
+- t-016
   global_id: t-177924
   teiginys: 'Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu.'
   pagrindžia:
-    - c-029
+    - c-027
 
 <a id="claim-t-177926"></a>
-- t-018
+- t-017
   global_id: t-177926
   teiginys: 'Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
   pagrindžia:
-    - c-013
+    - c-011
 
 <a id="claim-t-177927"></a>
-- t-019
+- t-018
   global_id: t-177927
   teiginys: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas.'
   pagrindžia:
-    - c-013
+    - c-011
 
 <a id="claim-t-177928"></a>
-- t-020
+- t-019
   global_id: t-177928
   teiginys: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai.'
   pagrindžia:
-    - c-023
+    - c-021
 
 <a id="claim-t-177929"></a>
-- t-021
+- t-020
   global_id: t-177929
-  teiginys: 'Liepos 14 d. lietuviai atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
+  teiginys: '1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
   pagrindžia:
-    - c-020
+    - c-018
 
 <a id="claim-t-177930"></a>
-- t-022
+- t-021
   global_id: t-177930
   teiginys: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai.'
   pagrindžia:
-    - c-023
+    - c-021
 
 <a id="claim-t-177931"></a>
-- t-023
+- t-022
   global_id: t-177931
   teiginys: 'Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-177932"></a>
-- t-024
+- t-023
   global_id: t-177932
   teiginys: 'Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.'
   pagrindžia:
-    - c-021
+    - c-019
 
 <a id="claim-t-177933"></a>
-- t-025
+- t-024
   global_id: t-177933
   teiginys: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   pagrindžia:
-    - c-030
+    - c-028
 
 <a id="claim-t-177934"></a>
-- t-026
+- t-025
   global_id: t-177934
   teiginys: 'Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.'
   pagrindžia:
-    - c-015
+    - c-013
 
 <a id="claim-t-177935"></a>
-- t-027
+- t-026
   global_id: t-177935
   teiginys: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   pagrindžia:
-    - c-026
-
-<a id="claim-t-177937"></a>
-- t-029
-  global_id: t-177937
-  teiginys: 'Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.'
-  pagrindžia:
-    - c-005
+    - c-024
 
 <a id="claim-t-177938"></a>
-- t-030
+- t-027
   global_id: t-177938
   teiginys: 'Tuo metu Vytautas paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-177939"></a>
-- t-031
+- t-028
   global_id: t-177939
   teiginys: 'Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų.'
   pagrindžia:
-    - c-007
+    - c-005
 
 <a id="claim-t-177940"></a>
-- t-032
+- t-029
   global_id: t-177940
   teiginys: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   pagrindžia:
-    - c-014
+    - c-012
 
 <a id="claim-t-177941"></a>
-- t-033
+- t-030
   global_id: t-177941
   teiginys: '1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.'
   pagrindžia:
-    - c-027
+    - c-025
 
 <a id="claim-t-177942"></a>
-- t-034
+- t-031
   global_id: t-177942
   teiginys: 'Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.'
   pagrindžia:
-    - c-018
+    - c-016
 
 <a id="claim-t-177943"></a>
-- t-035
+- t-032
   global_id: t-177943
   teiginys: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.'
   pagrindžia:
-    - c-017
+    - c-015
 
 <a id="claim-t-177945"></a>
-- t-037
+- t-034
   global_id: t-177945
   teiginys: 'Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-177946"></a>
-- t-038
+- t-035
   global_id: t-177946
   teiginys: 'Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   pagrindžia:
-    - c-019
+    - c-017
 
 <a id="claim-t-177947"></a>
-- t-039
+- t-036
   global_id: t-177947
   teiginys: 'Jadvyga anksčiau buvo kėlusi protestą dėl Podolijos.'
   pagrindžia:
-    - c-026
+    - c-024
 
 <a id="claim-t-183073"></a>
-- t-040
+- t-037
   global_id: t-183073
   teiginys: 'Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija.'
   pagrindžia:
-    - c-032
+    - c-030
 
 <a id="claim-t-183074"></a>
-- t-041
+- t-038
   global_id: t-183074
-  teiginys: 'Po Vytauto mirties kilo konfliktas su Lenkija dėl Podolės žemių.'
+  teiginys: 'Po Vytauto mirties lenkai pradėjo konfliktą dėl Podolės žemių, suėmė Lietuvos vietininką Daugirdą ir užėmė pilis.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-185087"></a>
-- t-042
+- t-039
   global_id: t-185087
   teiginys: 'Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.'
   pagrindžia:
-    - c-033
+    - c-031
 
 <a id="claim-t-185088"></a>
-- t-043
+- t-040
   global_id: t-185088
   teiginys: 'Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.'
   pagrindžia:
-    - c-034
+    - c-032
 
 <a id="claim-t-185089"></a>
-- t-044
+- t-041
   global_id: t-185089
   teiginys: 'Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės.'
   pagrindžia:
-    - c-035
+    - c-033
 
 <a id="claim-t-185090"></a>
-- t-045
+- t-042
   global_id: t-185090
   teiginys: 'Lenkai tvirtino, kad Podolė Lenkijai atiteko dėl Kazimiero Didžiojo užkariavimo ir paveldėjimo teisių, o ne atplėšus ją nuo Lietuvos.'
   pagrindžia:
-    - c-036
+    - c-034
 
 <a id="claim-t-185091"></a>
-- t-046
+- t-043
   global_id: t-185091
   teiginys: 'Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
   pagrindžia:
-    - c-037
+    - c-035
 
 <a id="claim-t-185092"></a>
-- t-047
+- t-044
   global_id: t-185092
   teiginys: 'Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu.'
   pagrindžia:
-    - c-038
+    - c-036
 
 <a id="claim-t-185093"></a>
-- t-048
+- t-045
   global_id: t-185093
   teiginys: 'Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas.'
   pagrindžia:
+    - c-037
+
+<a id="claim-t-187635"></a>
+- t-046
+  global_id: t-187635
+  teiginys: 'Kunigaikštis Jonas Žadivydas valdė Podolės žemę.'
+  pagrindžia:
+    - c-038
+
+<a id="claim-t-187636"></a>
+- t-047
+  global_id: t-187636
+  teiginys: 'Pavasariop didysis kunigaikštis Vytautas ištraukė į Podolės žemę.'
+  pagrindžia:
     - c-039
+
+<a id="claim-t-187637"></a>
+- t-048
+  global_id: t-187637
+  teiginys: 'Podolė yra istorinis Ukrainos dalies į šiaurę nuo Karpatų ir Dnestro pavadinimas.'
+  pagrindžia:
+    - c-040
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po Vytauto mirties kilo konfliktas su Lenkija dėl Podolės žemių.'
+  santrauka: 'Po Vytauto mirties lenkai pradėjo konfliktą dėl Podolės žemių, suėmė Lietuvos vietininką Daugirdą ir užėmė pilis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vos gavęs sostą, jis tuojau paprašė imperatorių
@@ -381,7 +391,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-038
 
 - c-002
   santrauka: '1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai.'
@@ -410,7 +420,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-022
 
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -430,41 +440,10 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
-    - t-037
+    - t-027
+    - t-034
 
 - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva**
-
-    Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų
-    sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.
-    Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje. Bet
-    kai jis nuvyko į Lenkiją, lenkai pareikalavo sau tų žemių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-029
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-    - t-028
-
-- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
@@ -494,10 +473,10 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
-    - t-036
+    - t-028
+    - t-033
 
-- c-008
+- c-006
   santrauka: '1395 m. Vytautas paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -512,7 +491,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-012
 
-- c-009
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi Švitrigaila
@@ -527,7 +506,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-005
 
-- c-010
+- c-008
   santrauka: 'Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -548,7 +527,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-002
 
-- c-011
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
@@ -569,7 +548,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-001
 
-- c-012
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
@@ -588,7 +567,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-009
 
-- c-013
+- c-011
   santrauka: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -605,11 +584,11 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
-    - t-015
     - t-018
+    - t-014
+    - t-017
 
-- c-014
+- c-012
   santrauka: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -626,9 +605,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-029
 
-- c-015
+- c-013
   santrauka: 'Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -647,9 +626,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-025
 
-- c-016
+- c-014
   santrauka: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -665,7 +644,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-004
 
-- c-017
+- c-015
   santrauka: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -697,10 +676,10 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-032
     - t-003
 
-- c-018
+- c-016
   santrauka: 'Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -721,9 +700,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-031
 
-- c-019
+- c-017
   santrauka: 'Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -744,9 +723,10 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-035
 
-- c-020
+- c-018
+  santrauka: '1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1621 m. birželio pabaigoje LDK kariuo-
@@ -763,9 +743,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
-- c-021
+- c-019
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po šio
@@ -785,9 +765,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   statusas: verified
   pagrindžia:
     - t-007
-    - t-024
+    - t-023
 
-- c-022
+- c-020
   santrauka: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -805,7 +785,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-011
 
-- c-023
+- c-021
   santrauka: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -828,10 +808,10 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
-    - t-020
+    - t-021
+    - t-019
 
-- c-024
+- c-022
   santrauka: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -848,9 +828,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-025
+- c-023
   santrauka: 'Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -863,9 +843,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-026
+- c-024
   santrauka: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -879,10 +859,10 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
-    - t-039
+    - t-026
+    - t-036
 
-- c-027
+- c-025
   santrauka: '1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -900,9 +880,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-030
 
-- c-028
+- c-026
   santrauka: 'Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -920,7 +900,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-010
 
-- c-029
+- c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus Voluinėje bei Podolėje įsiplieskė karas su
@@ -935,9 +915,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-030
+- c-028
   santrauka: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -954,9 +934,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-024
 
-- c-031
+- c-029
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Algirdo valdos jau pasiekė Okos šaltinius, bet pačias Okos aukštu­
@@ -973,7 +953,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-008
 
-- c-032
+- c-030
   santrauka: 'Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -989,9 +969,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-037
 
-- c-033
+- c-031
   santrauka: 'Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1005,9 +985,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-039
 
-- c-034
+- c-032
   santrauka: 'Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1028,9 +1008,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-040
 
-- c-035
+- c-033
   santrauka: 'Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1060,9 +1040,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-044
+    - t-041
 
-- c-036
+- c-034
   santrauka: 'Lenkai tvirtino, kad Podolė Lenkijai atiteko dėl Kazimiero Didžiojo užkariavimo ir paveldėjimo teisių, o ne atplėšus ją nuo Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1091,9 +1071,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-042
 
-- c-037
+- c-035
   santrauka: 'Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1109,9 +1089,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-043
 
-- c-038
+- c-036
   santrauka: 'Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1140,9 +1120,9 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-047
+    - t-044
 
-- c-039
+- c-037
   santrauka: 'Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1159,6 +1139,56 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     baigos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-045
+
+- c-038
+  santrauka: 'Kunigaikštis Jonas Žadivydas valdė Podolės žemę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Pirmas bu­
+    vo Vladimiras4 , kuris dalies gavo Kijevą. Antras —
+    kunigaikštis Jonas 2adivydas5 , kuris valdė Podolės že­
+    mę. Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
+    lis— Mstislavlis7 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-046
+
+- c-039
+  santrauka: 'Pavasariop didysis kunigaikštis Vytautas ištraukė į Podolės žemę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Vytautas, paėmęs Vi­
+    tebsko miestą, vėl sugrįžo į Vilnių.
+    09
+
+    ## Puslapis 95
+
+    Tais pačiais metais", pavasariop, didysis kunigaikš­
+    tis Vytautas ištraukė j Podolės žemę 1 2 . O kunigaikštis
+    Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
+    ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-047
+
+- c-040
+  santrauka: 'Podolė yra istorinis Ukrainos dalies į šiaurę nuo Karpatų ir Dnestro pavadinimas.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
+    mltrų žinių nėra.
+    5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo
+    Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių
+    baseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-048

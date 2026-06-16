@@ -86,6 +86,5 @@ Nenurodyta
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Plihta]]
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]

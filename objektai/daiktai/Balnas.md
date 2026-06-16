@@ -77,4 +77,8 @@ Nenurodyta
 - [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Lybiai]]
 - [[objektai/grupes/Rytas]]
+- [[objektai/daiktai/Aukso balnai]]
+- [[objektai/daiktai/Brangūs aksomai]]
+- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
+- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]
 - [[objektai/posakiai/Širvintų stebuklas]]

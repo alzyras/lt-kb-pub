@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai. 1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą, todėl pirmiausia imtasi priemonių prieš pasiturinčius valstiečius – jiems palikta iki 30 ha žemės, jie vadinami „buožėmis“, taip pat tuos, kurie nau.
+Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai. 1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą. Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.
 
 ## Laikotarpis ir datos
 
@@ -59,7 +59,7 @@ Nenurodyta
 <a id="claim-t-75230"></a>
 - t-003
   global_id: t-75230
-  teiginys: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
+  teiginys: 'Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.'
   pagrindžia:
     - c-001
 
@@ -106,3 +106,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kolektyvizacija]]

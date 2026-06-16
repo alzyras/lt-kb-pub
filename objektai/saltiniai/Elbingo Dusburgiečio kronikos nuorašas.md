@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
+Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
 
 ## Teiginiai
 
 <a id="claim-t-61068"></a>
 - t-001
   global_id: t-61068
-  teiginys: 'Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
+  teiginys: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios

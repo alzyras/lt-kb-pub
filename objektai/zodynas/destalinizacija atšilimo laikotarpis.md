@@ -14,39 +14,21 @@ tags:
 
 ## Santrauka
 
-Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
+Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.
 
 ## Teiginiai
 
-<a id="claim-t-22111"></a>
+<a id="claim-t-22112"></a>
 - t-001
-  global_id: t-22111
-  teiginys: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
+  global_id: t-22112
+  teiginys: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-22112"></a>
-- t-002
-  global_id: t-22112
-  teiginys: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Likusius Lietuvoje gyventojus kaustė nuolatinė baimė dėl savo ir arti-
-    mųjų saugumo. Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
-    Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -65,20 +47,7 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
-    Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
-    Tačiau prieš tai vyko kruvina kova.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

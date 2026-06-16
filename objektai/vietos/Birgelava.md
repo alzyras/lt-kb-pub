@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą brolių ir tų žmonių, kurie buvo subėgę į pilį. Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
+Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis. Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą. Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 <a id="claim-t-90328"></a>
 - t-003
   global_id: t-90328
-  teiginys: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
+  teiginys: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
     - t-002
 
 - c-002
+  santrauka: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,

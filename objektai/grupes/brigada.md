@@ -18,19 +18,12 @@ amziai:
 
 ## Santrauka
 
-Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
+Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
 
 ## Teiginiai
 
-<a id="claim-t-80637"></a>
-- t-001
-  global_id: t-80637
-  teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-80638"></a>
-- t-002
+- t-001
   global_id: t-80638
   teiginys: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
   pagrindžia:
@@ -54,38 +47,15 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šaudymo
-    tempas - 300-450 šuvių/min, efektyvaus šaudymo nuotolis —
-    2000 m. Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg)
-
-    Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašo naktinę žvalgybinę-
-    diversinę operaciją į priešo užnugarį - bolševikų divizijos štabą. Marijampolės batali-
-    onas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją
-    vykdžiusi I brigada.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/I brigada]]
-- [[objektai/zodynas/viršila]]
 - [[objektai/grupes/1-asis pėstininkų pulkas]]
 - [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/4-asis pėstininkų pulkas]]
 - [[objektai/grupes/A. Mokšeckio brigada]]
 - [[objektai/grupes/Antantė]]
-- [[objektai/asmenys/Bogdanas Knorringas]]
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
 - [[objektai/grupes/Gardino pulkas]]
 - [[objektai/ivykiai/Giedraičių kautynės]]
@@ -104,6 +74,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - [[objektai/grupes/Vyriausioji Lietuvos karinė vadovybė]]
 - [[objektai/zodynas/demobilizacija]]
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
+- [[objektai/grupes/I brigada]]
 - [[objektai/asmenys/Juozapas Bielakas]]
 - [[objektai/asmenys/Mykolas Sulistrovskis]]
 - [[objektai/grupes/Pietų Lietuvos saksų savanorių brigada]]

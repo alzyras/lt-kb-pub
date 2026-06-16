@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu ir keliomis prieštaringomis pranciškoniškomis tradicijomis. Pasakojimas apima jo kaip valdovo vietininko ar Vilniaus vaivados vaidmenį, pranciškonų atkvietimą, žudynių kontekstą ir autoriaus atsargumą dėl vėlesnių tradicijų.
+Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus Vilniuje ir saugojo juos nuo negandų. Petras Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą. Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
 
 ## Variantai
 
@@ -70,7 +70,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 <a id="claim-t-54989"></a>
 - t-003
   global_id: t-54989
-  teiginys: 'Petras Goštautas prieš apie 1345 m. pranciškonų žudynes dėl šalies reikalų išvyko iš Vilniaus į Tikociną.'
+  teiginys: 'Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.'
   pagrindžia:
     - c-004
 
@@ -105,7 +105,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 <a id="claim-t-173205"></a>
 - t-008
   global_id: t-173205
-  teiginys: 'Petras Goštautas, Algirdo laikų didikas ir Vilniaus vaivada, pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
+  teiginys: 'Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.'
   pagrindžia:
     - c-006
 
@@ -470,6 +470,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Valachai]]
 - [[objektai/zodynas/Adynos|adynos]]
@@ -479,6 +480,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/ivykiai/Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
 - [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]

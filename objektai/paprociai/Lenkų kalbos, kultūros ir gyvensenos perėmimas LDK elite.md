@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
+1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga. Nors Lietuvoje ir toliau bandyta rašyti lotyniškai ir lietuviškai, lenkėjimas pamažu apėmė visą jos politinį ir kultūrinį elitą. Integraciniai procesai viešajame gyvenime skatino lenkiškojo kalbinio kultūros modelio plitimą LDK elite.
 
 ## Laikotarpis ir datos
 
@@ -53,20 +53,21 @@ Nenurodyta
 <a id="claim-t-54272"></a>
 - t-002
   global_id: t-54272
-  teiginys: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
+  teiginys: 'Nors Lietuvoje ir toliau bandyta rašyti lotyniškai ir lietuviškai, lenkėjimas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183318"></a>
 - t-003
   global_id: t-183318
-  teiginys: 'LDK elito lenkėjimas skatino lenkiškojo kalbinio kultūros modelio plitimą viešajame gyvenime.'
+  teiginys: 'Integraciniai procesai viešajame gyvenime skatino lenkiškojo kalbinio kultūros modelio plitimą LDK elite.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Nors Lietuvoje ir toliau bandyta rašyti lotyniškai ir lietuviškai, lenkėjimas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gyveni-
@@ -110,6 +111,4 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]

@@ -17,165 +17,44 @@ tags:
 
 ## Santrauka
 
-Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau- garduko, Slanimo ir Volkovisko sritis. Slanimas: garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus. Slanimas: senasis jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar- duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi Voluinė, jau tapo nebeginčijamu Lietuvos kraštu.
+Jėzuitai Slanime buvo įkūrę mažesnę mokyklą. Slanimas priklausė vadinamajai Juodajai Rusijai, kuri jau buvo tapusi nebeginčijamu Lietuvos kraštu. Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
 
 ## Teiginiai
-
-<a id="claim-t-169166"></a>
-- t-001
-  global_id: t-169166
-  teiginys: 'Slanimas: be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-169168"></a>
-- t-002
-  global_id: t-169168
-  teiginys: 'Slanimas priklausė vadinamajai Juodajai Rusijai, kuri jau buvo tapusi nebeginčijamu Lietuvos kraštu.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-169169"></a>
-- t-003
-  global_id: t-169169
-  teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-169170"></a>
-- t-004
-  global_id: t-169170
-  teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-169171"></a>
-- t-005
+- t-004
   global_id: t-169171
-  teiginys: '1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-169174"></a>
-- t-007
-  global_id: t-169174
-  teiginys: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-169175"></a>
-- t-008
-  global_id: t-169175
-  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-169176"></a>
-- t-009
-  global_id: t-169176
-  teiginys: 'Lietuviai iš totorių nugalėtų Voluinės kunigaikščių atsiėmė Slanimo sritį.'
+  teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
   pagrindžia:
     - c-006
 
-<a id="claim-t-169177"></a>
-- t-010
-  global_id: t-169177
-  teiginys: 'Slanimas: garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+<a id="claim-t-169174"></a>
+- t-005
+  global_id: t-169174
+  teiginys: '1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.'
   pagrindžia:
-    - c-001
+    - c-005
+
+- t-006
+  teiginys: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Jėzuitai Slanime buvo įkūrę mažesnę mokyklą.'
+  pagrindžia:
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Danielius buvo
-    sumuštas ir priverstas taikintis (1255 m.). Sutartis buvo susti-
-    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
-    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
-    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
-    sričių miestus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Sutartis buvo susti-
-    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
-    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
-    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
-    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-003
-  santrauka: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tie generaliniai seimeliai neišnyko nė įvedus bend-
-    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
-    davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-    - t-003
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-005
-  santrauka: 'Slanimas priklausė vadinamajai Juodajai Rusijai, kuri jau buvo tapusi nebeginčijamu Lietuvos kraštu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Senasis
-    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
-    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
-    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-    - t-002
-
-- c-006
-  santrauka: 'Lietuviai iš totorių nugalėtų Voluinės kunigaikščių atsiėmė Slanimo sritį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš totorių nugalėtų Voluinės kunigaikščių lietuviai atsi-
-    ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau-
-    garduko, Slanimo ir Volkovisko sritis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-007
   santrauka: '1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -195,8 +74,7 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   statusas: verified
   pagrindžia:
     - t-005
-
-- c-008
+- c-006
   santrauka: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -212,3 +90,38 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   statusas: verified
   pagrindžia:
     - t-004
+- c-007
+  santrauka: 'Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tie generaliniai seimeliai neišnyko nė įvedus bend-
+    rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
+    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
+    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
+    davo Volkoviske, o vėliau Slanime.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+    - t-008
+- c-008
+  santrauka: 'Jėzuitai Slanime buvo įkūrę mažesnę mokyklą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007

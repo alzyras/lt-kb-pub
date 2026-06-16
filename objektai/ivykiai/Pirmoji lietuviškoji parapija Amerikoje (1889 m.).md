@@ -9,11 +9,11 @@ date_start: '1889'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIX'
 tags:
   - ivykis
   - kunigas
-amziai:
-  - 'XIX'
 ---
 # Pirmoji lietuviškoji parapija Amerikoje (1889 m.)
 
@@ -34,17 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01773"></a>
 - t-001
   global_id: t-01773
   teiginys: '1889 m. buvo įkurta pirmoji lietuviškoji parapija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1889 m. buvo įkurta pirmoji lietuviškoji parapija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet daugiausia Katalikų Federacijos rūpesčio buvo ski-
@@ -53,9 +54,11 @@ Nenurodyta
     tuviškoji parapija; 1907 m. jų buvo jau 41, 1915 m. — 95, 1925 m.
     — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
     kunigų).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

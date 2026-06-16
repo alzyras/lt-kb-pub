@@ -89,5 +89,4 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/marksistinė periodizacija]]

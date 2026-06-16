@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.
+1920 m. rugpjūtį Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,14 +48,14 @@ Nenurodyta
 <a id="claim-t-77931"></a>
 - t-001
   global_id: t-77931
-  teiginys: '1920 m. Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.'
+  teiginys: '1920 m. rugpjūtį Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1920 m. Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.'
+  santrauka: '1920 m. rugpjūtį Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
@@ -74,6 +74,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]

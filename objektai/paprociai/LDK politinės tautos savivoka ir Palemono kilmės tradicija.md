@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-formavosi ir bendra Abiejų Tautų Respublikos kaip Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenkiją“.
+Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu. Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.
 
 ## Laikotarpis ir datos
 
@@ -42,21 +42,21 @@ Nenurodyta
 <a id="claim-t-54264"></a>
 - t-001
   global_id: t-54264
-  teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai kildintis iš Palemono tradicijos.'
+  teiginys: 'Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-54265"></a>
 - t-002
   global_id: t-54265
-  teiginys: 'Palemono legenda Lietuvos metraščiuose tapo pagrindu lietuvių ir rusėnų bajorijai grįsti savo kilmę Palemono tradicija.'
+  teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai kildintis iš Palemono tradicijos.'
+  santrauka: 'Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -82,6 +82,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]

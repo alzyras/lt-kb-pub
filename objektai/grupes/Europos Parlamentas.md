@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.
+Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų. Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų. ES piliečiai turi teisę teikti peticijas Europos Parlamentui.
 
 ## Teiginiai
 
@@ -40,7 +40,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 <a id="claim-t-74107"></a>
 - t-003
   global_id: t-74107
-  teiginys: 'ES piliečiai turi teisę balsuoti ir kandidatuoti Europos rinkimuose toje šalyje, kurioje gyvena.'
+  teiginys: 'ES piliečiai turi teisę teikti peticijas Europos Parlamentui.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
     - t-001
 
 - c-002
-  santrauka: 'ES piliečiai turi teisę balsuoti ir kandidatuoti Europos rinkimuose toje šalyje, kurioje gyvena.'
+  santrauka: 'ES piliečiai turi teisę teikti peticijas Europos Parlamentui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­

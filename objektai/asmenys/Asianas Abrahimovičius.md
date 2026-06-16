@@ -63,5 +63,6 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Žirgai]]

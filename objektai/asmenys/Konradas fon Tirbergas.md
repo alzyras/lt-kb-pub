@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsiveržė į Lietuvą.
+Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.
 
 ## Teiginiai
 
 <a id="claim-t-186129"></a>
 - t-001
   global_id: t-186129
-  teiginys: 'Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsiveržė į Lietuvą.'
+  teiginys: 'Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsiveržė į Lietuvą.'
+  santrauka: 'Žiemą, užšalus Nemunui, magistro Konrado fon Tirbergo vedami kryžiuočiai įsiveržė į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Taigi kai lietuviai įrudenėjus buvo užsi­
@@ -61,3 +61,4 @@ Kryžiuočiai, vedami magistro Konrado fon Tirbergo, užšalus Nemunui ledu įsi
 - [[objektai/asmenys/Treniota]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

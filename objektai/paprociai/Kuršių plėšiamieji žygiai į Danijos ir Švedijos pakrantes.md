@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes. XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-78706"></a>
 - t-002
   global_id: t-78706
-  teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
+  teiginys: 'XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   pagrindžia:
     - c-001
 

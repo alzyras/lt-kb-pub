@@ -93,4 +93,5 @@ atnaujinta: ''
 - [[objektai/asmenys/Treniota]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/skitai]]
+- [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]
 - [[objektai/asmenys/Liubartas]]

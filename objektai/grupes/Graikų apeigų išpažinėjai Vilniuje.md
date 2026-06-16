@@ -117,7 +117,6 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 
 ### Susiję objektai
 - [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Sabinas]]
 - [[objektai/grupes/Vilniaus pirkliai]]

@@ -165,7 +165,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
 - [[objektai/grupes/Rusai]]

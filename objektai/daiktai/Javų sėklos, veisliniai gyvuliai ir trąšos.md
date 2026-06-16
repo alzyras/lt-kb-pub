@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Javų sėklos, veisliniai gyvuliai ir trąšos minimi kaip materialūs žemės ūkio modernizacijos ištekliai. Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus sėklomis ir gyvuliais, o trąšų naudojimas siejamas su javų derlingumo pagerėjimu.
+Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais. Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje.
 
 ## Pavadinimai šaltiniuose
 
@@ -61,14 +61,7 @@ Nenurodyta
 <a id="claim-t-23287"></a>
 - t-002
   global_id: t-23287
-  teiginys: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, o javų derlingumas ketvirtajame dešimtmetyje pagerėjo.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-23288"></a>
-- t-003
-  global_id: t-23288
-  teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
+  teiginys: 'Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje.'
   pagrindžia:
     - c-001
 
@@ -89,8 +82,6 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-003
     - t-002
     - t-001
 

@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad “ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
+Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.
 
 ## Laikotarpis ir datos
 
@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-62675"></a>
 - t-001
   global_id: t-62675
-  teiginys: 'Gedėdami žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
+  teiginys: 'Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
   pagrindžia:
     - c-001
     - c-002
@@ -47,7 +47,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Gedėdami žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
+  santrauka: 'Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
@@ -60,7 +60,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Gedėdami žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
+  santrauka: 'Gedulo metu žmonės suplėšė savo drabužius ir apsivilko ašutinėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tai kam gi mums
@@ -83,3 +83,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
+- [[objektai/zodynas/pagonys]]

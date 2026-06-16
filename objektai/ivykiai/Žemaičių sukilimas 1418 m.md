@@ -11,12 +11,12 @@ date_start: '1418'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
-  - sukilimas
 amziai:
   - 'XV'
   - 'XXI'
+tags:
+  - ivykis
+  - sukilimas
 ---
 # Žemaičių sukilimas 1418 m (sukilimas)
 
@@ -41,7 +41,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-50813"></a>
 - t-001
   global_id: t-50813
@@ -57,7 +56,6 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -77,7 +75,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

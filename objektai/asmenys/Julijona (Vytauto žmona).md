@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūnacijos krizės ir mirties aplinkoje. Šaltiniai leidžia ją sieti su vėlyvuoju Vytauto gyvenimo laikotarpiu ir jos įtaka jo sprendimams bei buitiniam elgesiui.
+Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus. Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje. 1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.
 
 ## Teiginiai
 
@@ -113,7 +113,7 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 <a id="claim-t-113845"></a>
 - t-015
   global_id: t-113845
-  teiginys: 'Julijona gailiai apraudojo mirusį Vytautą.'
+  teiginys: 'Vytauto žmona kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą.'
   pagrindžia:
     - c-001
 
@@ -498,7 +498,6 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/grupes/Kalavijuočių ordinas]]

@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.
+Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui. Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui.
 
 ## Teiginiai
 
 <a id="claim-t-40112"></a>
 - t-001
   global_id: t-40112
-  teiginys: 'Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.'
+  teiginys: 'Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui.'
   pagrindžia:
     - c-001
 
@@ -57,5 +57,3 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/didysis maršalas]]
-- [[objektai/zodynas/maršalas]]

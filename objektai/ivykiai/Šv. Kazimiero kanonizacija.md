@@ -3,25 +3,17 @@ tipas: ivykis
 pavadinimas: 'Šv. Kazimiero kanonizacija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1518 m.'
-  - '1604 m.'
-date_start: '1518'
-date_end: '1604'
 sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
   - mūšis
-amziai:
-  - 'XVI'
-  - 'XVII'
 ---
 # Šv. Kazimiero kanonizacija
 
 ## Santrauka
 
-Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.
+Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris.
 
 ## Laikotarpis ir datos
 
@@ -48,13 +40,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-183288"></a>
-- t-002
-  global_id: t-183288
-  teiginys: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,26 +56,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
-    pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
-    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
-    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos. Šv. Kazimiero
-    kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota
-    religinė savimonė. Po kanonizacijos (1604) šv. Kazimieras tapo svarbiau-
-    siu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mu-
-    gės – tai iki šių dienų iš LDK laikų ateinanti tradicija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/globėjas]]
-- [[objektai/asmenys/Šv. Kazimieras]]
 - [[objektai/ivykiai/Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos]]

@@ -15,7 +15,6 @@ tags:
 Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 
 ## Teiginiai
-
 <a id="claim-t-54147"></a>
 - t-001
   global_id: t-54147
@@ -31,7 +30,6 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

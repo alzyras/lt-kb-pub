@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Žygimanto priesaika patvirtinto susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
+Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,14 +32,14 @@ Nenurodyta
 <a id="claim-t-185882"></a>
 - t-001
   global_id: t-185882
-  teiginys: 'Žygimanto priesaika patvirtinto susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.'
+  teiginys: 'Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Žygimanto priesaika patvirtinto susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.'
+  santrauka: 'Žygimanto patvirtinto politinio susitarimo sąlygos buvo įtrauktos į valstybinius aktus ir patvirtintos parašais bei antspaudais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Tuo
@@ -73,5 +73,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/daiktai/Antspaudai]]

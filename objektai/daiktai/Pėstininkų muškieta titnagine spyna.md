@@ -64,3 +64,7 @@ Nenurodyta
 ## Puslapis 151 Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja).
 
 Nenurodyta
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Šautuvai]]

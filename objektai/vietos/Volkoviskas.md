@@ -4,6 +4,7 @@ pavadinimas: 'Volkoviskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -11,44 +12,35 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - seimas
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - seimas
+  - vieta
 ---
 # Volkoviskas
 
 ## Santrauka
 
-38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis. Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
+Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
 
 ## Teiginiai
-
-<a id="claim-t-182851"></a>
+<a id="claim-t-187385"></a>
 - t-001
-  global_id: t-182851
+  global_id: t-187385
   teiginys: 'Vytautas Didysis Volkoviske pastatė bažnyčią.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183108"></a>
+<a id="claim-t-187386"></a>
 - t-002
-  global_id: t-183108
-  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-183109"></a>
-- t-003
-  global_id: t-183109
+  global_id: t-187386
   teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   pagrindžia:
-    - c-003
-
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vytautas Didysis Volkoviske pastatė bažnyčią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -68,23 +60,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
-  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Sutartis buvo susti-
-    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
-    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
-    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
-    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
   santrauka: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -93,8 +69,10 @@ amziai:
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
     davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002

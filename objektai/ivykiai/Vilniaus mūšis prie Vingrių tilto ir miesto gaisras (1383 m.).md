@@ -128,6 +128,7 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
 - [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]

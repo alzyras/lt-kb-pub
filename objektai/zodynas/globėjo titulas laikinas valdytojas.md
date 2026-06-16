@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Mirus Romuntui, Lietuvą valdyti pavesta Žemaitijos kunigaikščiui Trobiui, o rašytojai nesutarė dėl jo valdovo titulo.
+Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.
 
 ## Teiginiai
 
 <a id="claim-t-185404"></a>
 - t-001
   global_id: t-185404
-  teiginys: 'Mirus Romuntui, Lietuvą valdyti pavesta Žemaitijos kunigaikščiui Trobiui, o rašytojai nesutarė dėl jo valdovo titulo.'
+  teiginys: 'Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Mirus Romuntui, Lietuvą valdyti pavesta Žemaitijos kunigaikščiui Trobiui, o rašytojai nesutarė dėl jo valdovo titulo.'
+  santrauka: 'Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karas prasi­

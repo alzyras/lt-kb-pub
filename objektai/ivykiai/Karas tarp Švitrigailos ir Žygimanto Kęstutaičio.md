@@ -60,6 +60,7 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]

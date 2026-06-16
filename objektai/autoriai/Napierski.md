@@ -120,4 +120,5 @@ periodo_grupes: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“. Nusižengusieji buvo kaltinami „buržuaziniu nacionalizmu“, neigiama Vakarų kultūros įtaka.
+Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiodavo „buržuazinį nacionalizmą“. Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“. Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“.
 
 ## Teiginiai
 
 <a id="claim-t-70102"></a>
 - t-001
   global_id: t-70102
-  teiginys: 'Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiotas „buržuazinis nacionalizmas“.'
+  teiginys: 'Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiodavo „buržuazinį nacionalizmą“.'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiotas „buržuazinis nacionalizmas“.'
+  santrauka: 'Šeštąjį–septintąjį dešimtmetį kai kuriems į Lietuvą grįžusiems tremtiniams ir politiniams kaliniams prikaišiodavo „buržuazinį nacionalizmą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visoje SSRS kalinius ir

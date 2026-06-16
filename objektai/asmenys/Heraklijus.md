@@ -54,4 +54,5 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/ivykiai/Akono miesto sugriovimas (1290 m. gegužės 19 d.)]]

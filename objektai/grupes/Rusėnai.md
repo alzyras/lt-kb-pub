@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos. Jose pamažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos. Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
+Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas. LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu. LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
 
 ## Teiginiai
 
@@ -51,7 +51,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 <a id="claim-t-74907"></a>
 - t-004
   global_id: t-74907
-  teiginys: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
+  teiginys: 'LDK raštinėje pradėjo formuotis rusėnų kalba, skyrusi ją nuo vienuolynuose vartotos bulgarų kilmės slavų bažnytinės kalbos.'
   pagrindžia:
     - c-003
 
@@ -134,6 +134,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - t-003
 
 - c-003
+  santrauka: 'LDK raštinėje pradėjo formuotis rusėnų kalba, skyrusi ją nuo vienuolynuose vartotos bulgarų kilmės slavų bažnytinės kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
@@ -260,13 +261,11 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/asmenys/Bazilijus Ciapinskis]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Jagurčinas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
@@ -275,7 +274,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
 - [[objektai/asmenys/Mamšėjus]]
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/grupes/Mongolai]]
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
@@ -285,7 +283,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]
@@ -297,7 +295,6 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
-- [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/autoriai/B. Włodarski]]
 - [[objektai/grupes/Oginskiai]]

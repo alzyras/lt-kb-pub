@@ -16,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką—ieš­ kojo būdu susitaikinti su Zigmantu D., rengė lenkų bajorų suva­ žiavimą su vengrais, kuriuos neseniai Zigmantas buvo įtraukęs į koaliciją prieš Karūną.
+Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių. Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną. Vengrai nusigręžė nuo jaunikaičio, todėl jis nieko nepešęs turėjo grįžti į Lenkiją.
 
 ## Teiginiai
 
@@ -44,7 +44,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 <a id="claim-t-184585"></a>
 - t-004
   global_id: t-184585
-  teiginys: 'Jonas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.'
+  teiginys: 'Stipri vengrų kariuomenė susidūrė su Jonu, kuris turėjo vos keturis tūkstančius karių.'
   pagrindžia:
     - c-004
 
@@ -118,7 +118,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     - t-003
 
 - c-004
-  santrauka: 'Jonas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.'
+  santrauka: 'Stipri vengrų kariuomenė susidūrė su Jonu, kuris turėjo vos keturis tūkstančius karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
@@ -180,12 +180,12 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/posakiai/Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties]]
-- [[objektai/grupes/Krimo orda]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
 - [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
 - [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Marija (Liudviko duktė)]]
@@ -208,8 +208,11 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/algininkai]]
 - [[objektai/zodynas/applicare]]
 - [[objektai/posakiai/dievas pavydus ir keršijąs, viešpats yra keršytojas savo nedraugams, ir jis rūstinasi ant savo priešų]]
+- [[objektai/zodynas/dvarionis]]
+- [[objektai/zodynas/dvarionys]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/grupes/ojo fuzilierių regimento]]

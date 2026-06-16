@@ -84,6 +84,8 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Arbaletai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/daiktai/Vytauto ženklas]]

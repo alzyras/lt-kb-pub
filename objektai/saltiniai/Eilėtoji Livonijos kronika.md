@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo šaltinis, ir kaip plačiai naudojama Livonijos ordino santykių su Lietuva kronika. Viena citata išskiria jos liudijimą apie lietgalių žemės moteris, kita pabrėžia, kad kronikos autorius beveik trečdalį veikalo paskyrė ordino santykiams su Lietuva.
+Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva. Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis. Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.
 
 ## Teiginiai
 
@@ -41,7 +41,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
 <a id="claim-t-171531"></a>
 - t-002
   global_id: t-171531
-  teiginys: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o Durbės mūšio kontekste - tik lietuvius arba pagonis.'
+  teiginys: 'Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.'
   pagrindžia:
     - c-003
 
@@ -126,7 +126,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
     - t-005
 
 - c-003
-  santrauka: 'Eiliuotoji Livonijos kronika, aprašydama Skuodo mūšį, mini žemaičius, o Durbės mūšio kontekste - tik lietuvius arba pagonis.'
+  santrauka: 'Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pajėgos

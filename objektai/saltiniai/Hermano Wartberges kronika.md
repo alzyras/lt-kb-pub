@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Tos kronikos pamini taip pat mirtį « daugybės kryžininkų » (pilgrimų). Hermano Wartberges kronikoje yra smulkiau pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija, siena turėjo prasidėti nuo Alnos aukštupio.
+Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo prasidėti nuo Alnos aukštupio.
 
 ## Teiginiai
 
 <a id="claim-t-31704"></a>
 - t-001
   global_id: t-31704
-  teiginys: 'Hermano Wartberges kronikoje yra smulkiau pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija, siena turėjo prasidėti nuo Alnos aukštupio.'
+  teiginys: 'Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo prasidėti nuo Alnos aukštupio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hermano Wartberges kronikoje reikalaujamų žemių siena su Mozūrija turėjo prasidėti nuo Alnos aukštupio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­

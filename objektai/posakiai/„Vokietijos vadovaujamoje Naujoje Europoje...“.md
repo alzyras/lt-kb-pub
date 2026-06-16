@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
+LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra. LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
 
 ## Teiginiai
 
 <a id="claim-t-75624"></a>
 - t-001
   global_id: t-75624
-  teiginys: 'LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.'
+  teiginys: 'LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš

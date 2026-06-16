@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai XIII–XIV a.
+XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-19569"></a>
 - t-001
   global_id: t-19569
-  teiginys: 'Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai XIII–XIV a.'
+  teiginys: 'XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Besiformuojančio lietuvių epo

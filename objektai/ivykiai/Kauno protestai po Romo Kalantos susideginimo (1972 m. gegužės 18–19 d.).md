@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.
+Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius. Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-75109"></a>
 - t-002
   global_id: t-75109
-  teiginys: '1972 m. gegužės 18 d. protesto eisenoje Kauno Laisvės alėjoje KGB numeriais pažymėjo eisenos lyderius.'
+  teiginys: '1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.'
   pagrindžia:
     - c-003
 
@@ -58,6 +58,13 @@ Nenurodyta
   teiginys: 'Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183227"></a>
+- t-005
+  global_id: t-183227
+  teiginys: 'Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -123,7 +130,7 @@ Nenurodyta
     - t-002
 
 - c-004
-  santrauka: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
+  santrauka: 'Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš daugiau kaip 3 000 aktyvių protestų dalyvių

@@ -11,14 +11,14 @@ date_start: '1262'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigaikštis
+  - ordinas
 ---
 # Treniota
 
@@ -27,7 +27,6 @@ periodo_grupes:
 Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserėnas Treniota. Treniota ir iš žygio grįžęs Daumantas susimokę jį nužudė.
 
 ## Teiginiai
-
 <a id="claim-t-90060"></a>
 - t-001
   global_id: t-90060
@@ -85,7 +84,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     - c-008
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,7 +101,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -120,7 +117,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: '1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -135,7 +131,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -152,7 +147,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
   santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -167,7 +161,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-006
   santrauka: 'Treniota nedelsdamas griebėsi ginklo, siekdamas narsa ir sėkme nenusileisti savo tėvui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -186,7 +179,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-007
   santrauka: 'Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -208,7 +200,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-008
   santrauka: 'Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -247,8 +238,10 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 - [[objektai/asmenys/Pisimantas]]
 - [[objektai/grupes/Polockiečiai]]
 - [[objektai/autoriai/R. Batūra|Romas Batūra]]
+- [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
 - [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]
+- [[objektai/ivykiai/Tautvilos nužudymas]]
 - [[objektai/asmenys/Treniota Vykintaitis]]
 - [[objektai/ivykiai/Treniotos nužudymas]]
 - [[objektai/ivykiai/Treniotos nužudymas (1264 m.)]]

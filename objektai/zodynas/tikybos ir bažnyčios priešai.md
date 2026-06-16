@@ -61,6 +61,7 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/autoriai/Petras Dusburgietis]]

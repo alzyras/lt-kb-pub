@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulkosvaidžiu. Tigras, nieko nelaukdamas, truktelėjo iš savo kulkosvaidžio. Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.
+Tigras buvo ginkluotas vokišku MG 36 kulkosvaidžiu. Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
 <a id="claim-t-40465"></a>
 - t-002
   global_id: t-40465
-  teiginys: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: Kruglovą, Marcinkevičių ir dar vieną rusų karininką.'
+  teiginys: 'Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.'
   pagrindžia:
     - c-002
 
@@ -46,6 +46,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
     - t-001
 
 - c-002
+  santrauka: 'Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
@@ -59,6 +60,4 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKGB]]
-- [[objektai/grupes/Rusai]]

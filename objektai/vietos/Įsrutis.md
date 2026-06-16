@@ -12,11 +12,11 @@ date_start: '1336'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Įsrutis
 
@@ -25,7 +25,6 @@ amziai:
 kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.
 
 ## Teiginiai
-
 <a id="claim-t-182881"></a>
 - t-001
   global_id: t-182881
@@ -41,7 +40,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -60,7 +58,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

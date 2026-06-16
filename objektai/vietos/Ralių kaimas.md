@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas.
+Dar saulei netekėjus prie Ralių kaimo miško pasigirdo automatų šūviai, o vyrai pakilo ir išėjo į savo vietas.
 
 ## Teiginiai
 

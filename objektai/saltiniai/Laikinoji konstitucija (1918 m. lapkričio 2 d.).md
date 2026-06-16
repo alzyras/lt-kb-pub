@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirmininkas A.
+1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.
 
 ## Teiginiai
 
 <a id="claim-t-21104"></a>
 - t-001
   global_id: t-21104
-  teiginys: '1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pagal kurią pati tapo įstatymų leidimo organu.'
+  teiginys: '1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujas galimybes atvėrė dviejų imperijų – Rusijos ir Vokietijos – pra-

@@ -9,12 +9,12 @@ date_start: '1931'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # A. Brückner
 
@@ -27,7 +27,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - Dzieje kultury polskiej
 
 ## Teiginiai
-
 <a id="claim-t-64507"></a>
 - t-001
   global_id: t-64507
@@ -50,7 +49,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -63,7 +61,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -80,7 +77,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

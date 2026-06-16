@@ -110,11 +110,10 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/grupes/Želigovskininkai]]
-- [[objektai/grupes/L. Želigovskio pajėgos]]
+- [[objektai/grupes/oji pėstininkų divizija]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]

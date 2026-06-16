@@ -4,6 +4,7 @@ pavadinimas: 'Černigovas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -27,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros kunigaikštijos. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
+Švitrigaila paėmė į savo valdžią Černigovo sritį. Valdymo pabaigoje kelios atskiros kunigaikštystės dar buvo likusios Černigovo krašte ir Maskvos pasienyje. Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
 
 ## Teiginiai
 
@@ -38,115 +39,115 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-005
 
-<a id="claim-t-122958"></a>
-- t-002
-  global_id: t-122958
-  teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-122959"></a>
-- t-003
+- t-002
   global_id: t-122959
   teiginys: 'Valdymo pabaigoje kelios atskiros kunigaikštystės dar buvo likusios Černigovo krašte ir Maskvos pasienyje.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-122960"></a>
-- t-004
+- t-003
   global_id: t-122960
   teiginys: 'Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-122961"></a>
-- t-005
+- t-004
   global_id: t-122961
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-122962"></a>
-- t-006
+- t-005
   global_id: t-122962
   teiginys: 'Kai kurie Lietuvos miestai buvo valdomi Černigovo kunigaikščių.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-122963"></a>
-- t-007
+- t-006
   global_id: t-122963
   teiginys: '1411 m. pavasarį Vytautas keliavo pro Černigovą iki Kijevo, o vietos kunigaikščiai jam reiškė paklusnumą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-122964"></a>
-- t-008
+- t-007
   global_id: t-122964
   teiginys: 'Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-122965"></a>
-- t-009
+- t-008
   global_id: t-122965
   teiginys: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-122966"></a>
-- t-010
+- t-009
   global_id: t-122966
   teiginys: 'Jo valdymo pabaigoje atskiros kunigaikštystės dar liko Černigovo krašte ir Maskvos pasienyje.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-122967"></a>
-- t-011
+- t-010
   global_id: t-122967
   teiginys: 'Dalis Lietuvos miestų tuo metu buvo valdoma Černigovo kunigaikščių.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-122968"></a>
-- t-012
+- t-011
   global_id: t-122968
   teiginys: 'Valdymo pabaigoje Černigovo krašte dar buvo likusios kelios atskiros kunigaikštystės.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-122969"></a>
-- t-013
+- t-012
   global_id: t-122969
   teiginys: 'Vytautui vykstant pro Černigovą iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-122970"></a>
-- t-014
+- t-013
   global_id: t-122970
   teiginys: 'Černigove susidarė atskira kunigaikštija.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-122971"></a>
-- t-015
+- t-014
   global_id: t-122971
   teiginys: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams muito laisvę prekiaujant su Černigovu.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-183110"></a>
-- t-016
+- t-015
   global_id: t-183110
   teiginys: 'Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-185215"></a>
-- t-017
+- t-016
   global_id: t-185215
   teiginys: 'Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-187691"></a>
+- t-017
+  global_id: t-187691
+  teiginys: 'Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.'
   pagrindžia:
     - c-010
 
@@ -166,8 +167,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-004
+    - t-007
+    - t-003
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -185,8 +186,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
-    - t-007
+    - t-012
+    - t-006
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -201,9 +202,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-    - t-012
-    - t-010
+    - t-011
+    - t-002
+    - t-009
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -234,8 +235,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
-    - t-006
+    - t-010
+    - t-005
 
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -255,7 +256,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-001
-    - t-016
+    - t-015
 
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -269,23 +270,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
 - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau amžinosios taikos
-    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš viso Mindaugo laikotarpyje po Saulės kautynių
@@ -297,9 +284,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-009
+- c-008
   santrauka: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -326,10 +313,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-015
+    - t-008
+    - t-014
 
-- c-010
+- c-009
   santrauka: 'Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -350,6 +337,29 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     Rylskas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-010
+  santrauka: 'Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    50
+
+    ## Puslapis 48
+
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną ", Su didžios pergalės
+    šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus
+    Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
+    jęs pergalę, be nuostolių pargrįžo atgalios.
+    Turėjo didysis kunigaikštis Skirmantas tris sūnus:
+    vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-017

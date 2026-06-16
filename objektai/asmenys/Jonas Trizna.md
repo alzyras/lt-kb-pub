@@ -46,6 +46,7 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Mechmet Girėjus]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/vaivada]]

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
+Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“. Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba. Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.
 
 ## Laikotarpis ir datos
 
@@ -48,7 +48,7 @@ Nenurodyta
 <a id="claim-t-67138"></a>
 - t-001
   global_id: t-67138
-  teiginys: 'XIX a. pradžioje lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius paskelbė poezijos knygą su „Šlovė žemaičių“.'
+  teiginys: 'Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.'
   pagrindžia:
     - c-002
 
@@ -103,7 +103,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'XIX a. pradžioje lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius paskelbė poezijos knygą su „Šlovė žemaičių“.'
+  santrauka: 'Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Parašytas ir išleistas tiems lai-

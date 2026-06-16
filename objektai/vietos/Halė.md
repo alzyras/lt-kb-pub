@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei protingas, kad visoje Prūsijoje neturėjo sau lygaus281.
+Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas, kad visoje Prūsijoje neturėjo sau lygaus. Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.
 
 ## Teiginiai
 
 <a id="claim-t-58695"></a>
 - t-001
   global_id: t-58695
-  teiginys: 'Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei protingas, kad visoje Prūsijoje neturėjo sau lygaus281.'
+  teiginys: 'Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas, kad visoje Prūsijoje neturėjo sau lygaus.'
   pagrindžia:
     - c-001
 
@@ -34,6 +34,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Halėje gimęs tarnas Dusburgiečio apibūdintas kaip toks padorus ir protingas, kad visoje Prūsijoje neturėjo sau lygaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai sužinojusi, pirmoji moteriškė ilgai

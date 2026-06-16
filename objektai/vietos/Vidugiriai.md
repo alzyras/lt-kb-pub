@@ -20,14 +20,14 @@ amziai:
 
 ## Santrauka
 
-“ | | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisimena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyvavusį to paties pulko I batalioną Vidugirių kaime. „Vidugirių kaimą pasiekėme po pietų. Tuojau pasirodė ir pulko vadas pulkininkas 1920 m. rugsėjo 22 d. 6-ojo pėstininkų pulko kariai prie žuvusio mūšyje netoli Vidugirio kaimo Itn.
+6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu. Vidugirių kaime rasta ką tik iš Eglainės atvykusių 6-ojo pėstininkų pulko batalionų. 1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.
 
 ## Teiginiai
 
 <a id="claim-t-42268"></a>
 - t-001
   global_id: t-42268
-  teiginys: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
+  teiginys: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu.'
   pagrindžia:
     - c-003
 
@@ -77,7 +77,7 @@ amziai:
     - t-003
 
 - c-003
-  santrauka: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
+  santrauka: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 batalionas irgi

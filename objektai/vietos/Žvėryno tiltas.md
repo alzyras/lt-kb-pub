@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje, dalis kovotojų išsidėstė ant Nacionalinės M. , saugomas ATAS (Aukščiausiosios Tarybos Apsaligos skyriaus) pareigūnų prieigose Žvėryno tiltas užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, Goštauto gatvė ties Žvėryno tiltu blokuota sunkiąja technika.
+Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika. Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.
 
 ## Teiginiai
 
@@ -27,7 +27,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 <a id="claim-t-42417"></a>
 - t-002
   global_id: t-42417
-  teiginys: 'Dalis A. Pociaus vadovaujamų ginkluotų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.'
+  teiginys: 'Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.'
   pagrindžia:
     - c-002
 
@@ -57,6 +57,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
     - t-001
 
 - c-002
+  santrauka: 'Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik

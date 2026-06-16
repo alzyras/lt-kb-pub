@@ -8,13 +8,13 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - asmuo
   - bajorija
   - kunigaikštis
   - mūšis
-amziai: []
-periodo_grupes: []
 ---
 # Šv. Kazimieras
 
@@ -23,7 +23,6 @@ periodo_grupes: []
 Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis. pradžioje karalaitis Kazimieras garbintas Vilniaus apylinkėse, o šv. Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.
 
 ## Teiginiai
-
 <a id="claim-t-78014"></a>
 - t-001
   global_id: t-78014
@@ -53,7 +52,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -69,7 +67,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-002
   santrauka: 'Šv. Kazimiero garbinimo tradicijos klostymasis tapo Lietuvos krikščionėjimo simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -87,7 +84,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Šv. Kazimiero kultas rodė Lietuvoje susiformavusią stiprią, į Vakarų Europą orientuotą religinę savimonę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -102,7 +98,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: '1792 m. ant katedros frontono buvo baigta Lietuvos globėjo šv. Kazimiero skulptūra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -117,7 +112,5 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/globėjas]]
-- [[objektai/ivykiai/Šv. Kazimiero kanonizacija]]
 - [[objektai/ivykiai/Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos]]

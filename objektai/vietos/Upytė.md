@@ -23,27 +23,21 @@ amziai:
 
 ## Santrauka
 
-Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaivadijos — Gardino, Kauno ir Upytės pavietai.
+Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą. Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
 
 ## Teiginiai
 
-<a id="claim-t-69479"></a>
-- t-001
-  global_id: t-69479
-  teiginys: 'Įvedant naujuosius teismus, iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-69480"></a>
-- t-002
+- t-001
   global_id: t-69480
-  teiginys: 'Rugpjūčio pabaigoje į Žemaitiją paeiliui įsibrovė trys Livonijos daliniai, jie niokojo Upytės kraštą.'
+  teiginys: 'Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugpjūčio pabaigoje į Žemaitiją paeiliui
@@ -60,29 +54,10 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
-    tas jau anksčiau buvo padalintas į vaivadijas, ir didelių sričių,
-    buvusiųjų kunigaikštysčių, vietininkai jau buvo gavę vaivadų
-    vardą dar XVI amž. pradžioje. Įvedant naujuosius teismus,
-    buvo sudaryti teisminiai pavietai. Kai kurie iš jų sutapo su
-    vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti
-    net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta
-    Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaiva-
-    dijos — Gardino, Kauno ir Upytės pavietai. Pilies teismai
-    pavietuose priklausė seniūnams, o vaivadijose — vaivadoms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'Rugpjūčio pabaigoje į Žemaitiją paeiliui įsibrovė trys Livonijos daliniai, jie niokojo Upytės kraštą.'
+- c-002
+  santrauka: 'Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Magistras grįžo į savo žemę, o Švitrigaila -
@@ -98,4 +73,4 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

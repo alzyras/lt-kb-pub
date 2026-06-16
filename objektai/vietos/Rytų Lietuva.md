@@ -24,20 +24,21 @@ amziai:
 
 ## Santrauka
 
-Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.
+1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.
 
 ## Teiginiai
 
 <a id="claim-t-181515"></a>
 - t-001
   global_id: t-181515
-  teiginys: 'Tuo metu Rytų Lietuvą kontroliavo bolševikai.'
+  teiginys: '1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie

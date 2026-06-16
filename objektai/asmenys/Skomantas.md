@@ -25,14 +25,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192). Dusburgietis teigia, kad apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį Po to Skomantas442, įsibrovęs su sūduviais į Kulmo žemę, padalijo savo kariuomenę 439 Sūduviai puolė tarp 1263 m. balandžio pradžios ir 1264 m. sausio mėn, D. Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.
+1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį. Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą. Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę.
 
 ## Teiginiai
 
 <a id="claim-t-59824"></a>
 - t-001
   global_id: t-59824
-  teiginys: '1284 m. Ordino magistras su vadovu Skomantu vasarą patraukė prieš Gardino pilį.'
+  teiginys: '1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį.'
   pagrindžia:
     - c-009
 
@@ -88,7 +88,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 <a id="claim-t-59832"></a>
 - t-009
   global_id: t-59832
-  teiginys: 'Dusburgietis teigia, kad skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
+  teiginys: 'Skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
   pagrindžia:
     - c-002
 
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 <a id="claim-t-184829"></a>
 - t-013
   global_id: t-184829
-  teiginys: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais patraukė Gardino kryptimi.'
+  teiginys: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.'
   pagrindžia:
     - c-012
 
@@ -134,6 +134,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-008
 
 - c-002
+  santrauka: 'Skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
@@ -268,7 +269,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-004
 
 - c-009
-  santrauka: '1284 m. Ordino magistras su vadovu Skomantu vasarą patraukė prieš Gardino pilį.'
+  santrauka: '1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     223 (218). Apie Gardino pilies sunaikinimą
@@ -341,7 +342,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - t-012
 
 - c-012
-  santrauka: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais patraukė Gardino kryptimi.'
+  santrauka: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Ramiai
@@ -383,8 +384,8 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]
 - [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
+- [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną]]
 - [[objektai/ivykiai/Skomanto mirtis]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/posakiai/jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu]]
-- [[objektai/ivykiai/Skomanto antpuolis prieš Gardiną]]
 - [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]

@@ -31,17 +31,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01945"></a>
 - t-001
   global_id: t-01945
   teiginys: 'Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apie karaliavimą
@@ -50,9 +51,11 @@ Nenurodyta
     **Lietuviai Mykolo elekcijoje** nebuvo visiškai vieningi. Kaip
     paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
     atsiuntė tik atstovus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

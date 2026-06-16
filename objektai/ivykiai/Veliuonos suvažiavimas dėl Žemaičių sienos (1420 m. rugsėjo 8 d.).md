@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Melno ežero. Bet Veliuonoje nieko nebuvo pasiekta, nes ordinas laukė sau naudos iš Romos tarpininkavimo.
+Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros. Veliuonoje susitarimo nepasiekta, nes Ordinas tikėjosi naudos iš Romos tarpininkavimo. Veliuonoje aptartas naujos sienos projektas po dvejų metų buvo priimtas prie Melno ežero.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-31481"></a>
 - t-001
   global_id: t-31481
-  teiginys: 'Veliuonos suvažiavime kunigaikštis taikos labui sutiko atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros.'
+  teiginys: 'Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros.'
   pagrindžia:
     - c-002
 
@@ -81,6 +81,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai esančios senos ir tikros

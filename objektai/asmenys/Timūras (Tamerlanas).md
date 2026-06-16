@@ -58,8 +58,6 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 ### Susiję objektai
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Jagurčinas]]
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/daiktai/Vytauto ženklas]]

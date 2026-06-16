@@ -16,8 +16,10 @@ datos:
 date_start: '1387'
 date_end: '1500'
 aliases:
+  - 'objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)'
   - 'objektai/asmenys/Vytautas Didysis'
 variantai:
+  - 'Vytautas (Lietuvos valdovas, 1384 m.)'
   - 'Vytautas Didysis'
 sukurta: ''
 atnaujinta: ''
@@ -34,7 +36,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kovą, diplomatiją ir valstybės stiprinimą. Su juo siejami pabėgimas iš Krėvos, Astravo susitarimas, Vorsklos pralaimėjimas, Tanenbergo vadovybė, Žemaičių krikštas, Trakų salos pilis, Žemaičių klausimo politika, Salyno suvažiavimas ir 1430 m. mirtis. Papildomai akcentuojama jo kilmė, ankstyvieji karo žygiai, 1377 m. savarankiškas vadovavimas, 1383 m. Tapiau krikštas, 1392 m. lūžis ir išsamūs valdovo išvaizdos, būdo bei gebėjimų aprašymai.
+Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santykių atsiradimu stepėje. Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje. Žemaičiai į Lietuvos valstybę labiau buvo įjungti Vytauto laikais.
 
 ## Vaidmenys
 
@@ -107,7 +109,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą.'
   pagrindžia:
     - c-027
-    - c-106
+    - c-104
 
 <a id="claim-t-05215"></a>
 - t-008
@@ -203,7 +205,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-10108
   teiginys: 'Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune.'
   pagrindžia:
-    - c-114
+    - c-111
     - c-166
 
 <a id="claim-t-10703"></a>
@@ -220,1083 +222,1048 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - c-002
 
-<a id="claim-t-10705"></a>
-- t-023
-  global_id: t-10705
-  teiginys: 'Astravo sutartimi Jogaila grąžino Vytautui tėvo žemes, paliko jam Lucką ir pavedė valdyti Vilnių.'
-  pagrindžia:
-    - c-082
-
-<a id="claim-t-10707"></a>
-- t-024
-  global_id: t-10707
-  teiginys: '1401 m. susitarimas patvirtino Vytauto savarankiškumą ir tikrojo valdovo statusą.'
-  pagrindžia:
-    - c-134
-
 <a id="claim-t-10709"></a>
-- t-025
+- t-023
   global_id: t-10709
   teiginys: 'Lucko suvažiavime Vytautas buvo šeimininkas, o ten iškeltas jo karūnavimo Lietuvos karaliumi sumanymas.'
   pagrindžia:
-    - c-107
+    - c-105
 
 <a id="claim-t-176624"></a>
-- t-026
+- t-024
   global_id: t-176624
   teiginys: '1401 m. Vytautas iškilmingu aktu laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion.'
   pagrindžia:
     - c-068
 
 <a id="claim-t-176625"></a>
-- t-027
+- t-025
   global_id: t-176625
-  teiginys: 'Vytautas tikėjo, kad po pralaimėto mūšio buvo išgelbėtas Švč. Mergelės Marijos.'
+  teiginys: 'Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.'
   pagrindžia:
     - c-060
 
 <a id="claim-t-176626"></a>
-- t-028
+- t-026
   global_id: t-176626
   teiginys: 'Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį, nes nesulaukė Jogailos žodžio pradėti kovą.'
   pagrindžia:
     - c-056
 
-<a id="claim-t-176627"></a>
-- t-029
-  global_id: t-176627
-  teiginys: 'Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje išteklius.'
-  pagrindžia:
-    - c-100
-
 <a id="claim-t-176628"></a>
-- t-030
+- t-027
   global_id: t-176628
   teiginys: 'Vytautas augo susidurdamas ir su pagoniška pasaulėžiūra, ir su krikščionybės idėjomis.'
   pagrindžia:
     - c-061
 
 <a id="claim-t-176629"></a>
-- t-031
+- t-028
   global_id: t-176629
   teiginys: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę, nepakęsdamas Didžiosios Lietuvos Kunigaikštijos žeminimo.'
   pagrindžia:
     - c-027
 
 <a id="claim-t-176630"></a>
-- t-032
+- t-029
   global_id: t-176630
   teiginys: 'Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.'
   pagrindžia:
     - c-066
 
 <a id="claim-t-176631"></a>
-- t-033
+- t-030
   global_id: t-176631
   teiginys: '1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   pagrindžia:
-    - c-086
+    - c-085
 
 <a id="claim-t-176632"></a>
-- t-034
+- t-031
   global_id: t-176632
   teiginys: 'Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.'
   pagrindžia:
-    - c-083
+    - c-082
 
 <a id="claim-t-176633"></a>
-- t-035
+- t-032
   global_id: t-176633
   teiginys: 'Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.'
   pagrindžia:
-    - c-102
+    - c-100
 
 <a id="claim-t-176634"></a>
-- t-036
+- t-033
   global_id: t-176634
   teiginys: 'Vytautas valdė 1392–1430 m. ir šaltinyje vadinamas žymiausiu Lietuvos valdovu.'
   pagrindžia:
-    - c-136
+    - c-132
 
 <a id="claim-t-176635"></a>
-- t-037
+- t-034
   global_id: t-176635
   teiginys: '1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis.'
   pagrindžia:
-    - c-126
+    - c-123
 
 <a id="claim-t-176636"></a>
-- t-038
+- t-035
   global_id: t-176636
   teiginys: 'Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.'
   pagrindžia:
-    - c-083
+    - c-082
 
 <a id="claim-t-176638"></a>
-- t-039
+- t-036
   global_id: t-176638
   teiginys: 'Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.'
   pagrindžia:
     - c-049
 
 <a id="claim-t-176639"></a>
-- t-040
+- t-037
   global_id: t-176639
   teiginys: '1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu.'
   pagrindžia:
-    - c-101
+    - c-099
 
 <a id="claim-t-176640"></a>
-- t-041
+- t-038
   global_id: t-176640
   teiginys: 'Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.'
   pagrindžia:
     - c-074
 
 <a id="claim-t-176641"></a>
-- t-042
+- t-039
   global_id: t-176641
   teiginys: '1377 m. Vytautas surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-176642"></a>
-- t-043
+- t-040
   global_id: t-176642
   teiginys: 'Vytauto Didžiojo vardas siejamas su LDK tradicija, kėlusia atgimstančios lietuvių tautos sąmonę.'
   pagrindžia:
     - c-047
 
 <a id="claim-t-176643"></a>
-- t-044
+- t-041
   global_id: t-176643
   teiginys: 'Vytautas savo sostinėje iškilmingai priėmė Vladislovą Jogailą, atvykusį malšinti kivirčų su kryžiuočiais.'
   pagrindžia:
-    - c-116
+    - c-113
 
 <a id="claim-t-176644"></a>
-- t-045
+- t-042
   global_id: t-176644
   teiginys: '1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.'
   pagrindžia:
     - c-072
 
 <a id="claim-t-176646"></a>
-- t-046
+- t-043
   global_id: t-176646
   teiginys: 'Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.'
   pagrindžia:
     - c-074
 
 <a id="claim-t-176647"></a>
-- t-047
+- t-044
   global_id: t-176647
   teiginys: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.'
   pagrindžia:
-    - c-092
+    - c-091
 
 <a id="claim-t-176648"></a>
-- t-048
+- t-045
   global_id: t-176648
   teiginys: 'Sužinojęs sprendimą Dauguose, Vytautas Didysis pasiuntė sekretorių Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
   pagrindžia:
     - c-042
 
 <a id="claim-t-176650"></a>
-- t-049
+- t-046
   global_id: t-176650
   teiginys: 'Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas.'
   pagrindžia:
-    - c-103
+    - c-101
 
 <a id="claim-t-176651"></a>
-- t-050
+- t-047
   global_id: t-176651
   teiginys: '1429 m. sausio 6 d. Vytautas Didysis Lucke sušaukė popiežiaus paskirtą suvažiavimą.'
   pagrindžia:
     - c-052
 
 <a id="claim-t-176652"></a>
-- t-051
+- t-048
   global_id: t-176652
   teiginys: 'Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.'
   pagrindžia:
     - c-067
 
 <a id="claim-t-176653"></a>
-- t-052
+- t-049
   global_id: t-176653
   teiginys: '1430 m. spalio 27 d. mirė Lietuvos valdovas Vytautas Didysis Kęstutaitis.'
   pagrindžia:
     - c-040
 
 <a id="claim-t-176654"></a>
-- t-053
+- t-050
   global_id: t-176654
   teiginys: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
   pagrindžia:
     - c-033
 
 <a id="claim-t-176655"></a>
-- t-054
+- t-051
   global_id: t-176655
   teiginys: '1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
   pagrindžia:
     - c-016
 
 <a id="claim-t-176656"></a>
-- t-055
+- t-052
   global_id: t-176656
   teiginys: 'Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.'
   pagrindžia:
-    - c-128
+    - c-125
 
 <a id="claim-t-176657"></a>
-- t-056
+- t-053
   global_id: t-176657
   teiginys: '1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.'
   pagrindžia:
     - c-079
 
 <a id="claim-t-176658"></a>
-- t-057
+- t-054
   global_id: t-176658
   teiginys: 'Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.'
   pagrindžia:
-    - c-111
+    - c-109
 
 <a id="claim-t-176659"></a>
-- t-058
+- t-055
   global_id: t-176659
   teiginys: 'Nuo jaunystės Vytautas mėgo karo dalykus ir sekė Vakarų Europos naujoves.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-176660"></a>
-- t-059
+- t-056
   global_id: t-176660
   teiginys: 'Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.'
   pagrindžia:
     - c-054
 
 <a id="claim-t-176661"></a>
-- t-060
+- t-057
   global_id: t-176661
   teiginys: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.'
   pagrindžia:
-    - c-124
+    - c-121
 
 <a id="claim-t-176662"></a>
-- t-061
+- t-058
   global_id: t-176662
   teiginys: '1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-176663"></a>
-- t-062
+- t-059
   global_id: t-176663
   teiginys: 'Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu.'
   pagrindžia:
     - c-081
 
 <a id="claim-t-176664"></a>
-- t-063
+- t-060
   global_id: t-176664
   teiginys: 'Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.'
   pagrindžia:
-    - c-091
+    - c-090
 
 <a id="claim-t-176666"></a>
-- t-064
+- t-061
   global_id: t-176666
   teiginys: 'Kol Jogaila tarėsi su pasiuntiniais, Vytautas Didysis judėjo tarp kariuomenių ir rūpinosi jų tvarka.'
   pagrindžia:
-    - c-120
+    - c-117
 
 <a id="claim-t-176667"></a>
-- t-065
+- t-062
   global_id: t-176667
   teiginys: '1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.'
   pagrindžia:
     - c-037
 
 <a id="claim-t-176668"></a>
-- t-066
+- t-063
   global_id: t-176668
   teiginys: 'Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu.'
   pagrindžia:
     - c-044
 
 <a id="claim-t-176669"></a>
-- t-067
+- t-064
   global_id: t-176669
   teiginys: 'Puolant Vilnių Vytautas su žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais kovėsi su Karigaila.'
   pagrindžia:
     - c-048
 
 <a id="claim-t-176670"></a>
-- t-068
+- t-065
   global_id: t-176670
   teiginys: 'Vilniuje Vytautas iš vyskupo Andriaus Važilo gavo patepimą tapti didžiuoju Lietuvos kunigaikščiu.'
   pagrindžia:
-    - c-089
+    - c-088
 
 <a id="claim-t-176671"></a>
-- t-069
+- t-066
   global_id: t-176671
   teiginys: '1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.'
   pagrindžia:
     - c-058
 
 <a id="claim-t-176672"></a>
-- t-070
+- t-067
   global_id: t-176672
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.'
   pagrindžia:
-    - c-113
+    - c-110
 
 <a id="claim-t-176673"></a>
-- t-071
+- t-068
   global_id: t-176673
   teiginys: 'Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.'
   pagrindžia:
-    - c-133
+    - c-130
 
 <a id="claim-t-176674"></a>
-- t-072
+- t-069
   global_id: t-176674
   teiginys: 'Vytautas viešai dėjosi nekaltas ir, Markvardo Salzbacho įžeistas dėl kaltinimų išdavus ordiną, skundėsi magistrui.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-176675"></a>
-- t-073
+- t-070
   global_id: t-176675
   teiginys: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.'
   pagrindžia:
-    - c-099
+    - c-098
 
 <a id="claim-t-176677"></a>
-- t-075
+- t-072
   global_id: t-176677
   teiginys: 'Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius.'
   pagrindžia:
-    - c-114
+    - c-111
 
 <a id="claim-t-176679"></a>
-- t-077
+- t-074
   global_id: t-176679
   teiginys: '1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.'
   pagrindžia:
-    - c-130
+    - c-127
 
 <a id="claim-t-176680"></a>
-- t-078
+- t-075
   global_id: t-176680
   teiginys: 'Vytautas įkūnijo tautinį ir politinį idealą, siejamą su Lietuvos vadavimu iš priklausomybės nuo lenkų.'
   pagrindžia:
     - c-063
 
 <a id="claim-t-176682"></a>
-- t-079
+- t-076
   global_id: t-176682
   teiginys: 'Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.'
   pagrindžia:
-    - c-119
+    - c-116
 
 <a id="claim-t-176683"></a>
-- t-080
+- t-077
   global_id: t-176683
   teiginys: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.'
   pagrindžia:
     - c-069
 
 <a id="claim-t-176685"></a>
-- t-081
+- t-078
   global_id: t-176685
   teiginys: '1430 m. Vytautas vėl gavo Jogailos sutikimą karūnacijai, bet nesulaukė lenkų didikų pritarimo ir mirė 1430 m. spalio 27 d.'
   pagrindžia:
     - c-077
 
 <a id="claim-t-176687"></a>
-- t-082
+- t-079
   global_id: t-176687
   teiginys: 'Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis.'
   pagrindžia:
-    - c-084
+    - c-083
 
 <a id="claim-t-176688"></a>
-- t-083
+- t-080
   global_id: t-176688
   teiginys: 'Jogaila negrąžino Vytautui nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
   pagrindžia:
-    - c-088
+    - c-087
 
 <a id="claim-t-176690"></a>
-- t-084
+- t-081
   global_id: t-176690
   teiginys: 'Vytautas, nesulaukęs Jogailos įsakymo pradėti mūšį, surizikavo ir pirmasis pasiuntė į kovą Lietuvos kariuomenę.'
   pagrindžia:
     - c-056
 
 <a id="claim-t-176692"></a>
-- t-086
+- t-083
   global_id: t-176692
   teiginys: 'Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-176693"></a>
-- t-087
+- t-084
   global_id: t-176693
   teiginys: 'Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.'
   pagrindžia:
-    - c-132
+    - c-129
 
 <a id="claim-t-176694"></a>
-- t-088
+- t-085
   global_id: t-176694
   teiginys: 'Vytautas Didysis antrą kartą sulaužė sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.'
   pagrindžia:
-    - c-097
+    - c-096
 
 <a id="claim-t-176695"></a>
-- t-089
+- t-086
   global_id: t-176695
   teiginys: 'Vytautas siekė gauti karūną ir Vakarų pripažinimą.'
   pagrindžia:
     - c-038
 
 <a id="claim-t-176696"></a>
-- t-090
+- t-087
   global_id: t-176696
   teiginys: '1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-176698"></a>
-- t-091
+- t-088
   global_id: t-176698
   teiginys: 'Vytauto karas su Skirgaila pablogino Vilniaus padėtį.'
   pagrindžia:
-    - c-135
+    - c-131
 
 <a id="claim-t-176699"></a>
-- t-092
+- t-089
   global_id: t-176699
   teiginys: '1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.'
   pagrindžia:
-    - c-110
+    - c-108
 
 <a id="claim-t-176700"></a>
-- t-093
+- t-090
   global_id: t-176700
   teiginys: 'Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.'
   pagrindžia:
     - c-074
 
 <a id="claim-t-176701"></a>
-- t-094
+- t-091
   global_id: t-176701
   teiginys: 'Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.'
   pagrindžia:
     - c-059
 
 <a id="claim-t-176702"></a>
-- t-095
+- t-092
   global_id: t-176702
   teiginys: 'Vytautas Didysis iš Jogailos gavo Lietuvą kaip lėną didžiojo kunigaikščio teisėmis.'
   pagrindžia:
-    - c-104
+    - c-102
 
 <a id="claim-t-176703"></a>
-- t-096
+- t-093
   global_id: t-176703
   teiginys: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.'
   pagrindžia:
-    - c-117
+    - c-114
 
 <a id="claim-t-176704"></a>
-- t-097
+- t-094
   global_id: t-176704
   teiginys: 'Vytautas Didysis laiške Jogailai piktinosi jo teiginiu, kad Lietuvos bajorai negali laisvai rinkti valdovo be lenkų sutikimo.'
   pagrindžia:
-    - c-121
+    - c-118
 
 <a id="claim-t-176705"></a>
-- t-098
+- t-095
   global_id: t-176705
   teiginys: 'Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.'
   pagrindžia:
     - c-073
 
 <a id="claim-t-176706"></a>
-- t-099
+- t-096
   global_id: t-176706
   teiginys: '1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.'
   pagrindžia:
     - c-039
 
 <a id="claim-t-176707"></a>
-- t-100
+- t-097
   global_id: t-176707
   teiginys: 'Vytauto politika šaltinyje interpretuojama kaip orientuota į „švento valdovo“ įvaizdį.'
   pagrindžia:
     - c-044
 
 <a id="claim-t-176708"></a>
-- t-101
+- t-098
   global_id: t-176708
   teiginys: 'Vytautas susitaikė su pusbroliu Skirgaila ir sudarė su juo sąjungą prieš kiekvieną priešą, išskyrus Lenkijos karalių.'
   pagrindžia:
     - c-071
 
 <a id="claim-t-176709"></a>
-- t-102
+- t-099
   global_id: t-176709
   teiginys: 'Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.'
   pagrindžia:
-    - c-125
+    - c-122
 
 <a id="claim-t-176710"></a>
-- t-103
+- t-100
   global_id: t-176710
   teiginys: 'Vytautas priėmė Maskvos metropolitą Fotijų, tačiau šis nieko nelaimėjęs išvyko į Maskvą.'
   pagrindžia:
     - c-076
 
 <a id="claim-t-176711"></a>
-- t-104
+- t-101
   global_id: t-176711
-  teiginys: '1424 m. Vytautas suteikė Vilniui privilegijų, kuriomis miestiečiai buvo atleidžiami nuo įvairių duoklių.'
+  teiginys: '1424 m. Vytautas suteikė Vilniui privilegijų, kuriomis nuo įvairių duoklių buvo atleisti Romos katalikų tikėjimą išpažinę miestiečiai.'
   pagrindžia:
-    - c-118
+    - c-115
 
 <a id="claim-t-176712"></a>
-- t-105
+- t-102
   global_id: t-176712
   teiginys: 'Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis.'
   pagrindžia:
-    - c-096
+    - c-095
 
 <a id="claim-t-176714"></a>
-- t-106
+- t-103
   global_id: t-176714
   teiginys: '1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.'
   pagrindžia:
     - c-065
 
 <a id="claim-t-176715"></a>
-- t-107
+- t-104
   global_id: t-176715
   teiginys: 'Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.'
   pagrindžia:
     - c-055
 
 <a id="claim-t-176717"></a>
-- t-109
+- t-106
   global_id: t-176717
   teiginys: 'Sausio 19 d. prie Gardino Ordino komtūras sudarė sutartį su Vytautu.'
   pagrindžia:
     - c-075
 
 <a id="claim-t-176718"></a>
-- t-110
+- t-107
   global_id: t-176718
   teiginys: 'Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.'
   pagrindžia:
-    - c-090
+    - c-089
 
 <a id="claim-t-176719"></a>
-- t-111
+- t-108
   global_id: t-176719
   teiginys: 'Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
-    - c-108
+    - c-106
 
 <a id="claim-t-176720"></a>
-- t-112
+- t-109
   global_id: t-176720
   teiginys: 'Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-176721"></a>
-- t-113
+- t-110
   global_id: t-176721
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų.'
   pagrindžia:
     - c-063
 
-<a id="claim-t-176723"></a>
-- t-114
-  global_id: t-176723
-  teiginys: 'XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis kaip savarankiškas valdovas.'
-  pagrindžia:
-    - c-112
-
 <a id="claim-t-176724"></a>
-- t-115
+- t-111
   global_id: t-176724
   teiginys: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
   pagrindžia:
     - c-017
 
 <a id="claim-t-176726"></a>
-- t-116
+- t-112
   global_id: t-176726
   teiginys: '1398 m. pabaigos kompromisu Vytautui Didžiajam buvo pripažinta nuo Lenkijos priklausanti didžiojo kunigaikščio valdžia.'
   pagrindžia:
     - c-070
 
 <a id="claim-t-176728"></a>
-- t-117
+- t-113
   global_id: t-176728
   teiginys: 'Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-176729"></a>
-- t-118
+- t-114
   global_id: t-176729
   teiginys: 'Palikdamas Vilnių, Kęstutis Trakų pilies gynybą ir valdžią pavedė savo sūnui Vytautui.'
   pagrindžia:
     - c-036
 
 <a id="claim-t-176730"></a>
-- t-119
+- t-115
   global_id: t-176730
   teiginys: '1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.'
   pagrindžia:
     - c-058
 
 <a id="claim-t-176731"></a>
-- t-120
+- t-116
   global_id: t-176731
   teiginys: 'Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas.'
   pagrindžia:
     - c-078
 
 <a id="claim-t-176732"></a>
-- t-121
+- t-117
   global_id: t-176732
-  teiginys: 'Po suvažiavimo Vytautas įsitikino, kad geruoju su Lenkija nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
+  teiginys: 'Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
   pagrindžia:
-    - c-129
+    - c-126
 
 <a id="claim-t-176733"></a>
-- t-122
+- t-118
   global_id: t-176733
   teiginys: 'Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.'
   pagrindžia:
     - c-026
 
 <a id="claim-t-176734"></a>
-- t-123
+- t-119
   global_id: t-176734
-  teiginys: 'Vytautas buvo pasirinktas valstybės ir tautos didvyriu kaip senovės Lietuvos valdovas ir Lietuvos didysis kunigaikštis.'
+  teiginys: 'Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.'
   pagrindžia:
-    - c-105
+    - c-103
 
 <a id="claim-t-176735"></a>
-- t-124
+- t-120
   global_id: t-176735
   teiginys: 'Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.'
   pagrindžia:
     - c-080
 
 <a id="claim-t-176736"></a>
-- t-125
+- t-121
   global_id: t-176736
   teiginys: '1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-176737"></a>
-- t-126
+- t-122
   global_id: t-176737
   teiginys: 'Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.'
   pagrindžia:
     - c-057
 
 <a id="claim-t-176738"></a>
-- t-127
+- t-123
   global_id: t-176738
   teiginys: 'Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
   pagrindžia:
     - c-078
 
 <a id="claim-t-176739"></a>
-- t-128
+- t-124
   global_id: t-176739
   teiginys: 'Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes.'
   pagrindžia:
     - c-055
 
 <a id="claim-t-176741"></a>
-- t-129
+- t-125
   global_id: t-176741
   teiginys: 'Vytauto valdymo užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-071
 
 <a id="claim-t-176742"></a>
-- t-130
+- t-126
   global_id: t-176742
-  teiginys: 'Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.'
+  teiginys: 'Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.'
   pagrindžia:
-    - c-094
+    - c-093
 
 <a id="claim-t-176743"></a>
-- t-131
+- t-127
   global_id: t-176743
   teiginys: 'Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-176744"></a>
-- t-132
+- t-128
   global_id: t-176744
   teiginys: 'Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą.'
   pagrindžia:
     - c-043
 
 <a id="claim-t-176745"></a>
-- t-133
+- t-129
   global_id: t-176745
   teiginys: 'Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.'
   pagrindžia:
     - c-064
 
 <a id="claim-t-176746"></a>
-- t-134
+- t-130
   global_id: t-176746
   teiginys: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis ir taip slėpė jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
   pagrindžia:
     - c-051
 
 <a id="claim-t-176747"></a>
-- t-135
+- t-131
   global_id: t-176747
   teiginys: 'Jogailai išvykus į Lenkiją, akylai stebimas Vytautas negalėjo savarankiškai imtis veiksmų.'
   pagrindžia:
-    - c-088
+    - c-087
 
 <a id="claim-t-176748"></a>
-- t-136
+- t-132
   global_id: t-176748
   teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
   pagrindžia:
-    - c-122
+    - c-119
 
 <a id="claim-t-176749"></a>
-- t-137
+- t-133
   global_id: t-176749
-  teiginys: 'Vytautas apgavo Ordino vadus – davė žemaičiams įsakymą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
+  teiginys: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
   pagrindžia:
     - c-051
 
 <a id="claim-t-176750"></a>
-- t-138
+- t-134
   global_id: t-176750
   teiginys: 'Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.'
   pagrindžia:
-    - c-093
+    - c-092
 
 <a id="claim-t-176751"></a>
-- t-139
+- t-135
   global_id: t-176751
   teiginys: 'Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.'
   pagrindžia:
     - c-031
 
 <a id="claim-t-176752"></a>
-- t-140
+- t-136
   global_id: t-176752
   teiginys: 'Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   pagrindžia:
-    - c-123
+    - c-120
 
 <a id="claim-t-176753"></a>
-- t-141
+- t-137
   global_id: t-176753
   teiginys: 'Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.'
   pagrindžia:
     - c-046
 
 <a id="claim-t-176754"></a>
-- t-142
+- t-138
   global_id: t-176754
   teiginys: 'Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą ir klausė, ar jie nori būti pavaldūs Lenkijai.'
   pagrindžia:
     - c-062
 
 <a id="claim-t-176755"></a>
-- t-143
+- t-139
   global_id: t-176755
   teiginys: 'Žalgirio mūšio rytą Vytautas siekė lemiamo mūšio, o Jogaila delsė, laukdamas Ordino pasiūlymo derėtis.'
   pagrindžia:
-    - c-098
+    - c-097
 
 <a id="claim-t-176756"></a>
-- t-144
+- t-140
   global_id: t-176756
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas.'
   pagrindžia:
-    - c-087
+    - c-086
 
 <a id="claim-t-176758"></a>
-- t-145
+- t-141
   global_id: t-176758
   teiginys: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.'
   pagrindžia:
-    - c-085
+    - c-084
 
 <a id="claim-t-176759"></a>
-- t-146
+- t-142
   global_id: t-176759
-  teiginys: 'Nuo 1400 m. Vytautas Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
+  teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
   pagrindžia:
-    - c-115
+    - c-112
 
 <a id="claim-t-176761"></a>
-- t-148
+- t-144
   global_id: t-176761
   teiginys: 'Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų.'
   pagrindžia:
     - c-032
 
 <a id="claim-t-176762"></a>
-- t-149
+- t-145
   global_id: t-176762
   teiginys: 'Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus.'
   pagrindžia:
     - c-045
 
 <a id="claim-t-176763"></a>
-- t-150
+- t-146
   global_id: t-176763
   teiginys: 'Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   pagrindžia:
     - c-050
 
 <a id="claim-t-176764"></a>
-- t-151
+- t-147
   global_id: t-176764
   teiginys: 'Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti.'
   pagrindžia:
     - c-035
 
 <a id="claim-t-176765"></a>
-- t-152
+- t-148
   global_id: t-176765
   teiginys: 'Vytautas Gardine susimokė su jam palankiais Lietuvos kunigaikščiais ir didikais išvyti Skirgailą iš sostinės ir paimti valdžią.'
   pagrindžia:
     - c-035
 
 <a id="claim-t-176766"></a>
-- t-153
+- t-149
   global_id: t-176766
   teiginys: 'Vytautas Didysis nuo pirmos krikšto dienos aktyviai dalyvavo krikštijime, aiškino tikėjimą ir ragino žmones krikštytis.'
   pagrindžia:
-    - c-127
+    - c-124
 
 <a id="claim-t-176767"></a>
-- t-154
+- t-150
   global_id: t-176767
   teiginys: '1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę.'
   pagrindžia:
-    - c-116
+    - c-113
 
 <a id="claim-t-176768"></a>
-- t-155
+- t-151
   global_id: t-176768
   teiginys: 'Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis.'
   pagrindžia:
-    - c-095
+    - c-094
 
 <a id="claim-t-176769"></a>
-- t-156
+- t-152
   global_id: t-176769
   teiginys: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
   pagrindžia:
     - c-034
 
 <a id="claim-t-176770"></a>
-- t-157
+- t-153
   global_id: t-176770
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
   pagrindžia:
     - c-041
 
 <a id="claim-t-176771"></a>
-- t-158
+- t-154
   global_id: t-176771
   teiginys: 'Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną.'
   pagrindžia:
-    - c-109
+    - c-107
 
 <a id="claim-t-176772"></a>
-- t-159
+- t-155
   global_id: t-176772
   teiginys: '1429 m. Vytautas Didysis į Lenčicą pas Jogailą pasiuntė delegatus Gedgaudą ir Rumbaudą.'
   pagrindžia:
-    - c-131
+    - c-128
 
 <a id="claim-t-183844"></a>
-- t-162
+- t-158
   global_id: t-183844
   teiginys: 'Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.'
   pagrindžia:
-    - c-138
+    - c-134
 
 <a id="claim-t-184862"></a>
-- t-164
+- t-160
   global_id: t-184862
   teiginys: 'Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.'
   pagrindžia:
-    - c-140
+    - c-136
 
 <a id="claim-t-184863"></a>
-- t-165
+- t-161
   global_id: t-184863
   teiginys: 'Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.'
   pagrindžia:
-    - c-141
+    - c-137
 
 <a id="claim-t-184864"></a>
-- t-166
+- t-162
   global_id: t-184864
   teiginys: 'Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais.'
   pagrindžia:
-    - c-142
+    - c-138
 
 <a id="claim-t-184865"></a>
-- t-167
+- t-163
   global_id: t-184865
   teiginys: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   pagrindžia:
-    - c-143
+    - c-139
 
 <a id="claim-t-184866"></a>
-- t-168
+- t-164
   global_id: t-184866
   teiginys: 'Vytautas iš Konrado Celnerio gavo karių ir lėšų karui.'
   pagrindžia:
-    - c-144
+    - c-140
 
 <a id="claim-t-184867"></a>
-- t-169
+- t-165
   global_id: t-184867
   teiginys: 'Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos.'
   pagrindžia:
-    - c-145
+    - c-141
 
 <a id="claim-t-184868"></a>
-- t-170
+- t-166
   global_id: t-184868
   teiginys: 'Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis.'
   pagrindžia:
-    - c-146
+    - c-142
 
 <a id="claim-t-184869"></a>
-- t-171
+- t-167
   global_id: t-184869
-  teiginys: 'Olesnickis, gavęs karaliaus nurodymus, laukė Vytauto ir prielankiai įlydėjo jį į Vilnių.'
+  teiginys: 'Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių.'
   pagrindžia:
-    - c-147
+    - c-143
 
 <a id="claim-t-184870"></a>
-- t-172
+- t-168
   global_id: t-184870
   teiginys: 'Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei.'
   pagrindžia:
-    - c-148
+    - c-144
 
 <a id="claim-t-184871"></a>
-- t-173
+- t-169
   global_id: t-184871
   teiginys: 'Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.'
   pagrindžia:
-    - c-149
+    - c-145
 
 <a id="claim-t-184872"></a>
-- t-174
+- t-170
   global_id: t-184872
   teiginys: 'Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.'
   pagrindžia:
-    - c-150
-
-<a id="claim-t-184873"></a>
-- t-175
-  global_id: t-184873
-  teiginys: 'Vytautas įsakė visų Lietuvos žemių karo jėgoms susirinkti į Smolenską.'
-  pagrindžia:
-    - c-151
+    - c-146
 
 <a id="claim-t-184874"></a>
-- t-176
+- t-171
   global_id: t-184874
   teiginys: 'Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką.'
   pagrindžia:
-    - c-152
+    - c-147
 
 <a id="claim-t-184875"></a>
-- t-177
+- t-172
   global_id: t-184875
   teiginys: 'Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.'
   pagrindžia:
-    - c-153
+    - c-148
 
 <a id="claim-t-184876"></a>
-- t-178
+- t-173
   global_id: t-184876
   teiginys: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
   pagrindžia:
-    - c-154
+    - c-149
 
 <a id="claim-t-184877"></a>
-- t-179
+- t-174
   global_id: t-184877
   teiginys: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.'
   pagrindžia:
-    - c-155
+    - c-150
 
 <a id="claim-t-184878"></a>
-- t-180
+- t-175
   global_id: t-184878
   teiginys: 'Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.'
   pagrindžia:
-    - c-156
+    - c-151
 
 <a id="claim-t-184879"></a>
-- t-181
+- t-176
   global_id: t-184879
   teiginys: 'Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.'
   pagrindžia:
-    - c-157
+    - c-152
 
 <a id="claim-t-184880"></a>
-- t-182
+- t-177
   global_id: t-184880
   teiginys: 'Gavęs slaptų laiškų iš kai kurių lenkų, Vytautas griežtai atsakė pasiuntiniams dėl karališkojo vainiko.'
   pagrindžia:
-    - c-158
+    - c-153
 
 <a id="claim-t-184881"></a>
-- t-183
+- t-178
   global_id: t-184881
   teiginys: 'Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.'
   pagrindžia:
-    - c-159
+    - c-154
 
 <a id="claim-t-184882"></a>
-- t-184
+- t-179
   global_id: t-184882
   teiginys: 'Žygimantas buvo palaidotas tame pačiame kape, kuriame jau ilsėjosi jo brolio Vytauto palaikai.'
   pagrindžia:
-    - c-160
+    - c-155
 
 ## Reikšmingi paminėjimai
 
@@ -1345,7 +1312,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-012
-    - t-131
+    - t-127
 
 - c-004
   santrauka: '1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.'
@@ -1362,7 +1329,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-090
+    - t-087
     - t-013
 
 - c-005
@@ -1381,7 +1348,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-014
-    - t-112
+    - t-109
 
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1422,7 +1389,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-117
+    - t-113
 
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1437,7 +1404,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-086
+    - t-083
 
 - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1450,7 +1417,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-039
 
 - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1464,7 +1431,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-125
+    - t-121
 
 - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1479,7 +1446,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-061
+    - t-058
 
 - c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1492,7 +1459,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-058
+    - t-055
 
 - c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1522,7 +1489,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-011
-    - t-072
+    - t-069
 
 - c-016
   santrauka: '1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
@@ -1537,7 +1504,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-054
+    - t-051
 
 - c-017
   santrauka: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
@@ -1553,7 +1520,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-115
+    - t-111
 
 - c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1654,7 +1621,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-108
+    - t-105
 
 - c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1699,7 +1666,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-122
+    - t-118
     - t-009
 
 - c-027
@@ -1716,7 +1683,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-007
-    - t-031
+    - t-028
 
 - c-028
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1783,7 +1750,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-139
+    - t-135
 
 - c-032
   santrauka: 'Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų.'
@@ -1801,7 +1768,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-148
+    - t-144
 
 - c-033
   santrauka: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
@@ -1817,7 +1784,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-053
+    - t-050
 
 - c-034
   santrauka: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
@@ -1834,7 +1801,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-156
+    - t-152
 
 - c-035
   santrauka: 'Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti.'
@@ -1860,7 +1827,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-151
+    - t-147
 
 - c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1880,7 +1847,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-118
+    - t-114
     - t-028
 
 - c-037
@@ -1898,7 +1865,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-065
+    - t-062
 
 - c-038
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1912,7 +1879,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-089
+    - t-086
 
 - c-039
   santrauka: '1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.'
@@ -1944,7 +1911,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-099
+    - t-096
 
 - c-040
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1966,7 +1933,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-049
     - t-019
 
 - c-041
@@ -1990,7 +1957,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-157
+    - t-153
     - t-030
 
 - c-042
@@ -2008,7 +1975,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-045
 
 - c-043
   santrauka: 'Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą.'
@@ -2030,7 +1997,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-132
+    - t-128
 
 - c-044
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2048,8 +2015,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-066
-    - t-100
+    - t-063
+    - t-097
 
 - c-045
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2064,7 +2031,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-149
+    - t-145
 
 - c-046
   santrauka: 'Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.'
@@ -2084,7 +2051,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-141
+    - t-137
 
 - c-047
   santrauka: 'Vytauto Didžiojo vardas siejamas su LDK tradicija, kėlusia atgimstančios lietuvių tautos sąmonę.'
@@ -2099,7 +2066,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-040
 
 - c-048
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2133,7 +2100,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-036
 
 - c-050
   santrauka: 'Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
@@ -2151,7 +2118,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-150
+    - t-146
 
 - c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2167,8 +2134,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-137
-    - t-134
+    - t-133
+    - t-130
 
 - c-052
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2182,7 +2149,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-050
+    - t-047
 
 - c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2219,7 +2186,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-059
+    - t-056
 
 - c-055
   santrauka: 'Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.'
@@ -2237,8 +2204,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-107
-    - t-128
+    - t-104
+    - t-124
 
 - c-056
   santrauka: 'Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį, nes nesulaukė Jogailos žodžio pradėti kovą.'
@@ -2252,8 +2219,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
-    - t-084
+    - t-026
+    - t-081
 
 - c-057
   santrauka: 'Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.'
@@ -2273,7 +2240,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-126
+    - t-122
 
 - c-058
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2294,7 +2261,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-052
-    - t-069
+    - t-066
 
 - c-059
   santrauka: 'Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.'
@@ -2313,10 +2280,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-094
+    - t-091
 
 - c-060
-  santrauka: 'Vytautas tikėjo, kad po pralaimėto mūšio buvo išgelbėtas Švč. Mergelės Marijos.'
+  santrauka: 'Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šventasis valdovas
@@ -2331,7 +2298,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-025
 
 - c-061
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2349,7 +2316,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-027
 
 - c-062
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2386,8 +2353,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-113
-    - t-078
+    - t-110
+    - t-075
 
 - c-064
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2403,7 +2370,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-133
+    - t-129
 
 - c-065
   santrauka: '1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.'
@@ -2433,7 +2400,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-106
+    - t-103
 
 - c-066
   santrauka: 'Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.'
@@ -2452,7 +2419,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-029
 
 - c-067
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2472,7 +2439,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-048
 
 - c-068
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2534,7 +2501,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-080
+    - t-077
     - t-027
 
 - c-070
@@ -2555,7 +2522,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-116
+    - t-112
 
 - c-071
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2590,7 +2557,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-045
-    - t-101
+    - t-098
 
 - c-072
   santrauka: '1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.'
@@ -2604,8 +2571,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-074
-    - t-045
+    - t-071
+    - t-042
 
 - c-073
   santrauka: 'Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.'
@@ -2624,7 +2591,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-098
+    - t-095
     - t-034
 
 - c-074
@@ -2646,9 +2613,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
-    - t-046
-    - t-093
+    - t-038
+    - t-043
+    - t-090
 
 - c-075
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2702,7 +2669,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-103
+    - t-100
 
 - c-077
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2717,8 +2684,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-081
-    - t-085
+    - t-078
+    - t-082
 
 - c-078
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2737,8 +2704,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-127
-    - t-120
+    - t-123
+    - t-116
 
 - c-079
   santrauka: '1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.'
@@ -2755,7 +2722,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-056
+    - t-053
 
 - c-080
   santrauka: 'Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.'
@@ -2785,7 +2752,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-124
+    - t-120
 
 - c-081
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2802,24 +2769,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-062
+    - t-059
 
 - c-082
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas — visos Lietuvos valdovas. Astravos**
-        **sutartis (1392 m.)**
-    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
-    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
-    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
-    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-023
-
-- c-083
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai
@@ -2834,10 +2786,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
-    - t-038
+    - t-031
+    - t-035
 
-- c-084
+- c-083
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iš ki­
@@ -2854,9 +2806,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-082
+    - t-079
 
-- c-085
+- c-084
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaprastas Rin­
@@ -2873,7 +2825,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
 
-- c-086
+- c-085
   santrauka: '1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2891,9 +2843,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-030
 
-- c-087
+- c-086
   santrauka: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2904,9 +2856,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-144
+    - t-140
 
-- c-088
+- c-087
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
@@ -2929,9 +2881,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   statusas: verified
   pagrindžia:
     - t-037
-    - t-083
+    - t-080
 
-- c-089
+- c-088
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai kunigaikštis, toks pat
@@ -2950,7 +2902,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-044
 
-- c-090
+- c-089
   santrauka: 'Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2975,9 +2927,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-110
+    - t-107
 
-- c-091
+- c-090
   santrauka: 'Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3005,10 +2957,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-063
+    - t-060
     - t-041
 
-- c-092
+- c-091
   santrauka: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3036,9 +2988,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-047
+    - t-044
 
-- c-093
+- c-092
   santrauka: 'Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3064,9 +3016,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-138
+    - t-134
 
-- c-094
+- c-093
+  santrauka: 'Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
@@ -3078,9 +3031,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-130
+    - t-126
 
-- c-095
+- c-094
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -3103,7 +3056,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
 
-- c-096
+- c-095
   santrauka: 'Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3122,9 +3075,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-105
+    - t-102
 
-- c-097
+- c-096
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
@@ -3135,9 +3088,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-088
+    - t-085
 
-- c-098
+- c-097
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
@@ -3149,9 +3102,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-143
+    - t-139
 
-- c-099
+- c-098
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl Vytautas
@@ -3162,30 +3115,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-147
-    - t-073
+    - t-143
+    - t-070
 
-- c-100
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Senovės nekeitimo“ tezė tėra istoriografi-
-    nis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė
-    į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo sava-
-    rankiškais keliais.
-    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
-    išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-
-    venimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė
-
-    L I E T U V O S  I S T O R I J A
-    46
-    laikyti tėvonijos dalimi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-029
-
-- c-101
+- c-099
   santrauka: '1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3206,9 +3139,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-037
 
-- c-102
+- c-100
   santrauka: 'Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3224,9 +3157,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-032
 
-- c-103
+- c-101
   santrauka: 'Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3248,9 +3181,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
+    - t-046
 
-- c-104
+- c-102
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
@@ -3260,10 +3193,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-095
+    - t-092
 
-- c-105
-  santrauka: 'Vytautas buvo pasirinktas valstybės ir tautos didvyriu kaip senovės Lietuvos valdovas ir Lietuvos didysis kunigaikštis.'
+- c-103
+  santrauka: 'Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK tradicija, lietuvių ir jų kuni-
@@ -3276,9 +3209,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-123
+    - t-119
 
-- c-106
+- c-104
   santrauka: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3295,7 +3228,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-007
 
-- c-107
+- c-105
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
@@ -3308,9 +3241,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-023
 
-- c-108
+- c-106
   santrauka: 'Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3327,9 +3260,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-111
+    - t-108
 
-- c-109
+- c-107
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
@@ -3347,9 +3280,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-158
+    - t-154
 
-- c-110
+- c-108
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
@@ -3365,9 +3298,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-092
+    - t-089
 
-- c-111
+- c-109
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas turėjo neblogus santykius ir su kita mongolų šaka
@@ -3385,23 +3318,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-057
+    - t-054
 
-- c-112
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
-    kaip savarankiškas valdovas. 1427 m. žygiavo į Maskvą padėti vaikaičiui
-    Baziliui (Vasiliui) II, tam užteko vien pademonstruoti jėgą. Grįžimas
-    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
-    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-114
-
-- c-113
+- c-110
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -3428,7 +3347,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
 
-- c-114
+- c-111
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švitrigaila
@@ -3448,11 +3367,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-075
+    - t-072
     - t-020
 
-- c-115
-  santrauka: 'Nuo 1400 m. Vytautas Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
+- c-112
+  santrauka: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik visą
@@ -3469,9 +3388,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-146
+    - t-142
 
-- c-116
+- c-113
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -3495,9 +3414,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-050
     - t-049
-    - t-044
+    - t-041
 
-- c-117
+- c-114
   santrauka: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3516,9 +3435,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-096
+    - t-093
 
-- c-118
+- c-115
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas Vilniui suteikė (1424 metais)
@@ -3536,7 +3455,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
 
-- c-119
+- c-116
   santrauka: 'Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3557,9 +3476,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-079
+    - t-076
 
-- c-120
+- c-117
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas
@@ -3572,9 +3491,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-064
+    - t-061
 
-- c-121
+- c-118
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Juk
@@ -3590,9 +3509,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-097
+    - t-094
 
-- c-122
+- c-119
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
@@ -3608,9 +3527,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-136
+    - t-132
 
-- c-123
+- c-120
   santrauka: 'Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3625,9 +3544,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-140
+    - t-136
 
-- c-124
+- c-121
   santrauka: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3648,9 +3567,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-060
+    - t-057
 
-- c-125
+- c-122
   santrauka: 'Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3674,9 +3593,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-102
+    - t-099
 
-- c-126
+- c-123
   santrauka: '1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3698,9 +3617,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
+    - t-034
 
-- c-127
+- c-124
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
@@ -3714,9 +3633,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-153
+    - t-149
 
-- c-128
+- c-125
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
@@ -3733,10 +3652,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-052
 
-- c-129
-  santrauka: 'Po suvažiavimo Vytautas įsitikino, kad geruoju su Lenkija nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
+- c-126
+  santrauka: 'Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ir tada nebuvo iš­
@@ -3752,9 +3671,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-121
+    - t-117
 
-- c-130
+- c-127
   santrauka: '1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3781,10 +3700,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-077
+    - t-074
     - t-031
 
-- c-131
+- c-128
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
@@ -3797,9 +3716,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-159
+    - t-155
 
-- c-132
+- c-129
   santrauka: 'Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3823,10 +3742,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-087
+    - t-084
     - t-029
 
-- c-133
+- c-130
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokūbą, vėl išsiruošė ana­
@@ -3842,24 +3761,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-046
 
-- c-134
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu. Juo buvo patvirtintas Vytauto sava-
-    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
-    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
-    gailai ir jo įpėdiniams, Lenkų karaliams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-024
-
-- c-135
+- c-131
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta liūdna Vilniaus
@@ -3878,7 +3780,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-036
 
-- c-136
+- c-132
   santrauka: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3892,11 +3794,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-160
-    - t-036
+    - t-156
+    - t-033
 
-- c-137
-  santrauka: 'Vytautas apgavo Ordino vadus – davė žemaičiams įsakymą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
+- c-133
+  santrauka: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau išvedus visą kariuomenę iš Lietuvos, liko
@@ -3910,9 +3812,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-161
+    - t-157
 
-- c-138
+- c-134
   santrauka: 'Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3931,9 +3833,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-162
+    - t-158
 
-- c-139
+- c-135
   santrauka: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3946,9 +3848,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-163
+    - t-159
 
-- c-140
+- c-136
   santrauka: 'Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3970,9 +3872,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-164
+    - t-160
 
-- c-141
+- c-137
   santrauka: 'Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3999,9 +3901,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-165
+    - t-161
 
-- c-142
+- c-138
   santrauka: 'Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4022,9 +3924,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-166
+    - t-162
 
-- c-143
+- c-139
   santrauka: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4051,9 +3953,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-167
+    - t-163
 
-- c-144
+- c-140
   santrauka: 'Vytautas iš Konrado Celnerio gavo karių ir lėšų karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4075,9 +3977,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-168
+    - t-164
 
-- c-145
+- c-141
   santrauka: 'Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4098,9 +4000,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-169
+    - t-165
 
-- c-146
+- c-142
   santrauka: 'Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4114,10 +4016,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-170
+    - t-166
 
-- c-147
-  santrauka: 'Olesnickis, gavęs karaliaus nurodymus, laukė Vytauto ir prielankiai įlydėjo jį į Vilnių.'
+- c-143
+  santrauka: 'Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Išsiuntęs žygūną,
@@ -4137,9 +4039,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-171
+    - t-167
 
-- c-148
+- c-144
   santrauka: 'Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4153,9 +4055,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-172
+    - t-168
 
-- c-149
+- c-145
   santrauka: 'Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4185,9 +4087,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-173
+    - t-169
 
-- c-150
+- c-146
   santrauka: 'Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4206,28 +4108,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-174
+    - t-170
 
-- c-151
-  santrauka: 'Vytautas įsakė visų Lietuvos žemių karo jėgoms susirinkti į Smolenską.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Mat tų pačių metų pabaigoje, sudeginęs Briansko ir
-    Starodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-
-    gardą, Seversko žemės sosti-
-    1407 m e ta i
-    nę, o pats pabėgo į Maskvą.
-    Taigi jis ir privertė Vy­
-    tautą vėl imtis ginklo ir, gerai pasirengus, pradėti karą
-    su Vasilijumi. Vytautas įsakė visų Lietuvos žemių karo
-    jėgoms susirinkti į Smolenską.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-175
-
-- c-152
+- c-147
   santrauka: 'Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4247,9 +4130,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-176
+    - t-171
 
-- c-153
+- c-148
   santrauka: 'Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4271,9 +4154,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-177
+    - t-172
 
-- c-154
+- c-149
   santrauka: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4291,9 +4174,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-178
+    - t-173
 
-- c-155
+- c-150
   santrauka: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4307,9 +4190,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-179
+    - t-174
 
-- c-156
+- c-151
   santrauka: 'Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4327,9 +4210,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-180
+    - t-175
 
-- c-157
+- c-152
   santrauka: 'Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4352,9 +4235,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-181
+    - t-176
 
-- c-158
+- c-153
   santrauka: 'Gavęs slaptų laiškų iš kai kurių lenkų, Vytautas griežtai atsakė pasiuntiniams dėl karališkojo vainiko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4383,9 +4266,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-182
+    - t-177
 
-- c-159
+- c-154
   santrauka: 'Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4404,9 +4287,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-183
+    - t-178
 
-- c-160
+- c-155
   santrauka: 'Žygimantas buvo palaidotas tame pačiame kape, kuriame jau ilsėjosi jo brolio Vytauto palaikai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4424,7 +4307,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-184
+    - t-179
 
 ## Ryšiai
 ### Susiję objektai
@@ -4463,7 +4346,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
 - [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
-- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Karaimai]]
@@ -4523,7 +4405,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/grupes/Podoliečiai]]
-- [[objektai/grupes/Pravoslavai]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/ivykiai/Racionžo taika (1404 m.)]]
@@ -4539,7 +4420,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
 - [[objektai/grupes/Taikos partija]]
 - [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
@@ -4590,7 +4470,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/zodynas/avantiūristas]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
 - [[objektai/zodynas/bažnytinė provincija]]
-- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/christianizacija]]
 - [[objektai/zodynas/ciesorius]]
@@ -4634,9 +4513,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/zodynas/nukirsdinti]]
 - [[objektai/zodynas/nuomininkas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/pravoslavai]]
 - [[objektai/posakiai/prieš vėją nepapūs]]
 - [[objektai/zodynas/protežė]]
-- [[objektai/zodynas/rezervai]]
 - [[objektai/zodynas/saar]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/posakiai/savo „karaliaus Vytauto”]]
@@ -4668,6 +4547,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]
 - [[objektai/zodynas/šlėkta]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
 - [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
@@ -4681,21 +4561,18 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
 - [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
-- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
 - [[objektai/posakiai/„iki gyvos galvos“]]
 - [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Altorius]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Hanulas]]
 - [[objektai/asmenys/Janas Kropidła]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
@@ -4711,6 +4588,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros]]
 - [[objektai/asmenys/Paleologas]]
 - [[objektai/daiktai/Pilys]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/asmenys/Rumbaudas]]
 - [[objektai/zodynas/Sanctuarium]]
 - [[objektai/asmenys/Skirgaila]]
@@ -4728,25 +4606,30 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/jubiliejus]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/zodynas/pilėnas]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygūnai]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/ivykiai/Astravos sutartis]]
+- [[objektai/daiktai/Auksinės grandinės ir diržai]]
+- [[objektai/daiktai/Aukso balnai]]
 - [[objektai/grupes/Aukso orda]]
 - [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]
+- [[objektai/daiktai/Bachmatai]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
+- [[objektai/daiktai/Brangūs aksomai]]
 - [[objektai/asmenys/Danuta]]
 - [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
 - [[objektai/autoriai/Detmaro Liubeko]]
@@ -4773,7 +4656,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]
 - [[objektai/asmenys/Joachimas Pavlovičius]]
 - [[objektai/ivykiai/Jogailos ir Sofijos santuoka (1421 m.)]]
-- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
+- [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
 - [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
 - [[objektai/autoriai/Johannes Voigt Foigtas]]
 - [[objektai/asmenys/Jonas Olesnickis]]
@@ -4807,7 +4690,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
 - [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
@@ -4818,23 +4700,29 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/asmenys/Maldžykas]]
 - [[objektai/grupes/Maskvos metropolitai]]
 - [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
+- [[objektai/daiktai/Midaus statinės]]
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/asmenys/Muradas II]]
+- [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas]]
 - [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]
+- [[objektai/grupes/Nemiravičių giminė]]
 - [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]
 - [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.)]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/ivykiai/Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
 - [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
+- [[objektai/ivykiai/Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių]]
+- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
 - [[objektai/zodynas/Planinė ekonomika]]
 - [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]
+- [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]
 - [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
 - [[objektai/asmenys/Radvila]]
 - [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
+- [[objektai/daiktai/Sabalų kailiniai]]
 - [[objektai/asmenys/Saladinas]]
 - [[objektai/paprociai/Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą|Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)]]
 - [[objektai/paprociai/Saugaus laidavimo priesaika taikos deryboms tarp karo stovyklų]]
@@ -4865,11 +4753,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
 - [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
 - [[objektai/grupes/Vokiečių pirkliai]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Vosylius I]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 - [[objektai/ivykiai/Vytauto ir Julijonos santuoka]]
+- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]
 - [[objektai/ivykiai/Vytauto ir Vosyliaus susivažiavimai Smolenske ir Kolomnoje (1396 m.)]]
 - [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
 - [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]
@@ -4882,8 +4770,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/daiktai/Vytauto paminklai]]
 - [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]
 - [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
-- [[objektai/ivykiai/Vytauto privilegijos žydams|Vytauto privilegijos žydams (privilegija)]]
 - [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
+- [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]
 - [[objektai/ivykiai/Vytauto susitaikymas su Jogaila ir pabėgimas iš Prūsijos (1388 m.)]]
 - [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]
 - [[objektai/ivykiai/Vytauto šalininkų niokojamasis žygis Lietuvoje (1390 m.)]]
@@ -4892,6 +4780,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/ivykiai/Vytauto žygis į Livoniją ir Daugpilio užėmimas (1396 m.)]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardo žemę ir Porchovo apgultis]]
 - [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
@@ -4899,6 +4788,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/zodynas/atskala]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/florinai]]
+- [[objektai/zodynas/fryzai]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
 - [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas (miestas)]]
 - [[objektai/autoriai/lg. Kliausis]]
@@ -4909,15 +4799,17 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/zodynas/patepimas į valdžią]]
 - [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
 - [[objektai/zodynas/posadnikas bojarinas vietininkas]]
-- [[objektai/zodynas/pravoslavai]]
 - [[objektai/zodynas/siuzerenas]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/zodynas/ulusas]]
 - [[objektai/zodynas/vaivada kaštelionas]]
+- [[objektai/daiktai/Šilko rietimai]]
 - [[objektai/paprociai/Šventųjų sakramentų teikimas pagal graikų papročius]]
 - [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]
 - [[objektai/ivykiai/Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas]]
 - [[objektai/ivykiai/Žemaitijos niokojimas po sugrįžimo į Prūsiją (1391 m.)]]
+- [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
 - [[objektai/ivykiai/Žemaičių sukilimas (1401 m. pavasaris)]]
 - [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
 - [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
@@ -4939,22 +4831,29 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/asmenys/Dmitrijus Kaributas]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]
+- [[objektai/asmenys/Kaributas]]
 - [[objektai/ivykiai/Kryžiuočių provokacijos ir Rumbaudo žygis išvarant juos iš Žemaitijos (1408 m.)]]
 - [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]
 - [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/grupes/Lenkų senatas]]
+- [[objektai/ivykiai/Kęstučio suėmimas ir nužudymas po susitikimo su Jogaila]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
 - [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
-- [[objektai/asmenys/Ona|Ona (vyskupas, XIV a.)]]
+- [[objektai/grupes/Rusijos Federacija]]
+- [[objektai/ivykiai/Smolensko atgavimas Vytautui]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
+- [[objektai/ivykiai/Teodoro Karijotaičio pašalinimas iš Podolės]]
 - [[objektai/ivykiai/Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)]]
 - [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
 - [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
 - [[objektai/ivykiai/Vytauto Vilniaus apgultis ir atsitraukimas į Prūsiją]]
 - [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
+- [[objektai/ivykiai/Vytauto derybos su kryžiuočiais]]
+- [[objektai/ivykiai/Vytauto pabėgimas į Prūsų ordiną]]
 - [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]
 - [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
+- [[objektai/ivykiai/Vytauto tėviškės užrašymas Skirgailai Liubline]]
 - [[objektai/grupes/Vytauto šalininkai]]
 - [[objektai/zodynas/chanas caras]]
 - [[objektai/zodynas/hegemonija]]
@@ -4978,5 +4877,4 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]

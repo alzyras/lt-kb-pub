@@ -46,7 +46,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
@@ -54,4 +53,3 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Jagurčinas]]

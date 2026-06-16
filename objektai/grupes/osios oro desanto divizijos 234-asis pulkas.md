@@ -12,21 +12,21 @@ tags:
 
 ## Santrauka
 
-Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko, karių su kovinėmis desanto mašinomis BMD-1 ir BMD-2 (dėl vikšrinės važiuoklės šnekamojoje kalboje žmonių dažnai vadintomis tanketėmis, t.
+Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.
 
 ## Teiginiai
 
 <a id="claim-t-80651"></a>
 - t-001
   global_id: t-80651
-  teiginys: 'Vilniaus įgulai sustiprinti buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
+  teiginys: 'Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vilniaus įgulai sustiprinti buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
+  santrauka: 'Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sustiprinti esamą Vilniaus įgulą buvo at-

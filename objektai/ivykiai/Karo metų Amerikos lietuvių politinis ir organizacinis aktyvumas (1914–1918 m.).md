@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams". Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą. 1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organizacijų atstovų.
+1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus.
 
 ## Laikotarpis ir datos
 
@@ -34,72 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66595"></a>
+<a id="claim-t-66597"></a>
 - t-001
-  global_id: t-66595
-  teiginys: '1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organizacijų atstovų.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-66596"></a>
-- t-002
-  global_id: t-66596
-  teiginys: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
+  global_id: t-66597
+  teiginys: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-66597"></a>
-- t-003
-  global_id: t-66597
-  teiginys: 'Tuo reikalu dar 1916 m. Brukline įvyko katalikų ir tautininkų organizacijų atstovų suvažiavimas karo sunaikintos Lietuvos kūrimo reikalams apsvarstyti.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-66599"></a>
-- t-004
-  global_id: t-66599
-  teiginys: 'Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.'
-  pagrindžia:
-    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jau 1914 m. Filadelfijoje įvy-
-    ko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „iš-
-    vyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą
-    ukrainiečiams".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį
-    lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organi-
-    zacijų atstovų. Seimas nutarė reikalauti, kad Amerikos vyriausy-
-    bė pripažintų Lietuvai nepriklausomybę, kurią Tautos Taryba
-    Vilniuje jau buvo paskelbusi prieš mėnesį (seimas įvyko kovo
-    13 d., bet Amerikoje tuo metu dar niekas nežinojo to įvykio).
-    Seimas išrinko iš katalikiškosios Tautos Tarybos ir iš tautinin-
-    kų Amerikos Lietuvių Tautos Tarybos atstovų vykdomąjį ko-
-    mitetą ir gegužės 3 d. nusiuntė pas prezidentą Vilsoną abiejų
-    Tarybų delegaciją. Prezidentas delegacijai pažadėjo paremti Lie-
-    tuvos nepriklausomybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
+  santrauka: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo reikalu dar 1916 m. Brukline
@@ -108,29 +54,10 @@ Nenurodyta
     įsteigė Lietuvos Atstatymo Bendrovę; ta bendro-
     vė ėmėsi organizuoti įvairių šakų bendroves, kurios po karo
     turėjo persikelti į Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į katalikų 1916 m. suorganizuotą Tautos Tarybą tau-
-    tininkai nėjo: jie suorganizavo savo Amerikos Lietuvių
-    Tautinę Tarybą. Prie tų Tarybų veikimo, siekiančio auto-
-    nomijos, socialistai visai neprisidėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/zodynas/seimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+    - t-001

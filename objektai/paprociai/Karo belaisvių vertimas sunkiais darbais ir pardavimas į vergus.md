@@ -64,7 +64,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/grupes/Lietuviai]]

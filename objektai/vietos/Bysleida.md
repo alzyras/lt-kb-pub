@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė. Dusburgietis teigia, kad bartoszyce) prie Bysleidos upelio.
+Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino. Bartoszyce) prie Bysleidos upelio.
 
 ## Teiginiai
 
@@ -27,13 +27,14 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 <a id="claim-t-58537"></a>
 - t-002
   global_id: t-58537
-  teiginys: 'Dusburgietis teigia, kad bartoszyce) prie Bysleidos upelio.'
+  teiginys: 'Bartoszyce) prie Bysleidos upelio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bartoszyce) prie Bysleidos upelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab. Bezledai

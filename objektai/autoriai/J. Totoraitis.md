@@ -9,13 +9,13 @@ date_start: '1938'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
-  - karalius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
+  - karalius
 ---
 # J. Totoraitis
 
@@ -24,7 +24,6 @@ periodo_grupes:
 Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 
 ## Teiginiai
-
 <a id="claim-t-64650"></a>
 - t-001
   global_id: t-64650
@@ -33,7 +32,6 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

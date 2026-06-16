@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas. Iš Žemaitijos kilęs ir netrukus valstybinę karjerą padaręs Varšuvoje, asmeninis istoriko draugas žemaitis Leonas Rogalskis nuolat skatino tęsti pradėtą darbą.
+Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui. Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą.
 
 ## Teiginiai
 
@@ -36,13 +36,14 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
 <a id="claim-t-87543"></a>
 - t-002
   global_id: t-87543
-  teiginys: 'Iš Žemaitijos kilęs ir netrukus valstybinę karjerą padaręs Varšuvoje, asmeninis istoriko draugas žemaitis Leonas Rogalskis nuolat skatino tęsti pradėtą darbą.'
+  teiginys: 'Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Grafas Ado­

@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.
+Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi ir ornamentika atspindinčią lietuvių tautos religinę ir tautinę dvasią. Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.
 
 ## Teiginiai
 
 <a id="claim-t-75592"></a>
 - t-001
   global_id: t-75592
-  teiginys: 'Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, lietuvišku stiliumi atspindinčią religinę ir tautinę dvasią.'
+  teiginys: 'Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi ir ornamentika atspindinčią lietuvių tautos religinę ir tautinę dvasią.'
   pagrindžia:
     - c-001
 

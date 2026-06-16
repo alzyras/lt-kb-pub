@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Šubravcų draugija buvo Vilniuje veikusi švietėjiška kultūrinė draugija, kuriai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai. Jos nariai naudojo senovės lietuvių dievybių vardus, kodekse formulavo savitas elgesio normas, o leidžiamas laikraštis `Wiadomości brukowe` išgarsino draugiją už Lietuvos ribų.
+Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai. Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais. Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.
 
 ## Pavadinimai šaltiniuose
 
@@ -62,7 +62,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 <a id="claim-t-55112"></a>
 - t-004
   global_id: t-55112
-  teiginys: 'Draugijos narių leidžiamas laikraštis `Wiadomości brukowe` išgarsino draugiją už Lietuvos ribų.'
+  teiginys: 'Šubravcų draugijos humoristinis laikraštis Wiadomości brukowe išgarsino draugiją net už Lietuvos ribų.'
   pagrindžia:
     - c-003
 
@@ -117,6 +117,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - t-003
 
 - c-003
+  santrauka: 'Šubravcų draugijos humoristinis laikraštis Wiadomości brukowe išgarsino draugiją net už Lietuvos ribų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Draugijos narių leidžiamas

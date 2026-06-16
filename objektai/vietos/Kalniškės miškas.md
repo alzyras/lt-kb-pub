@@ -21,14 +21,14 @@ amziai:
 
 ## Santrauka
 
-Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams kovoje su okupantais. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas. “ Mūšis 220-ojo pasienio pulko kariai apsupo Kalniškės mišką, kuriame buvo įrengta partizanų stovykla.
+1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas. 1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams. Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.
 
 ## Teiginiai
 
 <a id="claim-t-171634"></a>
 - t-001
   global_id: t-171634
-  teiginys: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
+  teiginys: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 <a id="claim-t-171636"></a>
 - t-003
   global_id: t-171636
-  teiginys: 'Kalniškės miškas yra apie 3–4 km pločio ir apie 8 km ilgio kalvotas mišrus miškas netoli Krosnos.'
+  teiginys: 'Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.'
   pagrindžia:
     - c-004
 
@@ -83,7 +83,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-004
 
 - c-002
-  santrauka: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
+  santrauka: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     4 ginkluotų partizanų. 1945 m.
@@ -140,6 +140,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
     - t-002
 
 - c-004
+  santrauka: 'Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį

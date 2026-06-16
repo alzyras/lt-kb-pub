@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje. Per rinkimų agitaciją valdžia daug dėmesio skyrė A. Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.
+Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų. Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje. Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
 
 ## Laikotarpis ir datos
 
@@ -37,14 +37,14 @@ Nenurodyta
 <a id="claim-t-75121"></a>
 - t-001
   global_id: t-75121
-  teiginys: 'Prieš Liaudies seimo rinkimus, liepos 11–12 d., valdžia suėmė kelis šimtus žinomų Lietuvos veikėjų.'
+  teiginys: 'Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75122"></a>
 - t-002
   global_id: t-75122
-  teiginys: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
+  teiginys: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   pagrindžia:
     - c-003
 
@@ -105,6 +105,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pareigų atleisti
@@ -122,7 +123,7 @@ Nenurodyta
     - t-002
 
 - c-004
-  santrauka: 'Prieš Liaudies seimo rinkimus, liepos 11–12 d., valdžia suėmė kelis šimtus žinomų Lietuvos veikėjų.'
+  santrauka: 'Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prieš pat rinkimus, liepos
@@ -140,7 +141,7 @@ Nenurodyta
     - t-001
 
 - c-005
-  santrauka: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
+  santrauka: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –

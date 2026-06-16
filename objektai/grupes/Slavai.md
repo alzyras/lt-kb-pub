@@ -13,111 +13,65 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - grupe
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - grupe
+  - tauta
 ---
 # Slavai
 
 ## Santrauka
 
-Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės. Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.
+Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei. Lietuvių kalbos ir savimonės teritorijai siaurėjant rytuose bei pietuose, Lietuvos vardas su LDK ribomis išplito į plačias rytų slavų žemes. Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.
 
 ## Teiginiai
-
-<a id="claim-t-89225"></a>
-- t-001
-  global_id: t-89225
-  teiginys: 'Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-89226"></a>
 - t-002
   global_id: t-89226
-  teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+  teiginys: 'Lietuvių kalbos ir savimonės teritorijai siaurėjant rytuose bei pietuose, Lietuvos vardas su LDK ribomis išplito į plačias rytų slavų žemes.'
   pagrindžia:
-    - c-005
+    - c-003
 
 <a id="claim-t-89227"></a>
 - t-003
   global_id: t-89227
   teiginys: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
   pagrindžia:
-    - c-006
+    - c-004
 
 <a id="claim-t-89228"></a>
 - t-004
   global_id: t-89228
   teiginys: 'Slavų ekspansija artėjo prie Lietuvos žemių.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-89229"></a>
-- t-005
-  global_id: t-89229
-  teiginys: 'Dusburgietis teigia, kad (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p. Skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
-  pagrindžia:
-    - c-004
+    - c-002
 
 <a id="claim-t-89230"></a>
-- t-006
+- t-005
   global_id: t-89230
   teiginys: 'Vokiečių puolimas ir slavų ekspansija, manoma, sutrukdė Lietuvos valstybei ir vardui aprėpti platesnes baltų genčių žemes.'
   pagrindžia:
-    - c-005
+    - c-003
 
-<a id="claim-t-89231"></a>
-- t-007
-  global_id: t-89231
-  teiginys: 'Dusburgietis teigia, kad skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
+<a id="claim-t-182923"></a>
+- t-006
+  global_id: t-182923
+  teiginys: 'Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-89232"></a>
-- t-008
-  global_id: t-89232
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
   teiginys: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
   pagrindžia:
-    - c-002
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**
-        Pirmosios mus pasiekusios istorinės žinios liudija aisčius jau
-    gyvenus tose pačiose vietose, kur jie gyveno ir vėlesniais, mums
-    gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
-    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
-    čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
-  santrauka: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmasis lietuvių vardą yra
-    paminėjęs vienas Karolio Didžiojo žvalgas. Kurdamas savo
-    imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
-    rytuose ir kokios jų jėgos. Todėl, kai Karolis pasiekė slavus, jo
-    agentai sužinojo, kad už slavų gyvena dar lietuviai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ix a.
@@ -133,31 +87,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    (Skomentner-See, dab. j. Skomętno)
-    Skomanto kalnas (Skomentberg)
-    Skomanto sodyba, p. (Skomantburg)
-    Skorpiono žvaigždynas
-    Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
-    Skronaitė (Scroneyte, Scroneiten), p.
-    Skuodas
-    Skuomantai
-    Slavija
-        slavai
-       vakarų slavai (kašubai)
-        slaviškos žemės
-    Slina (Ślina), u.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-005
-    - t-007
-
-- c-005
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Manoma, kad jei
@@ -174,9 +104,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   statusas: verified
   pagrindžia:
     - t-002
-    - t-006
-
-- c-006
+    - t-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     I tūkstantmetyje po Kr. baltų genčių apgyvendintas
@@ -189,8 +118,24 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-007
+- c-005
+  santrauka: 'Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**
+        Pirmosios mus pasiekusios istorinės žinios liudija aisčius jau
+    gyvenus tose pačiose vietose, kur jie gyveno ir vėlesniais, mums
+    gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
+    ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
+    čios indoeuropiečių, arba arijų, tautų grupės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-006
   santrauka: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -199,11 +144,13 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     rytuose ir kokios jų jėgos. Todėl, kai Karolis pasiekė slavus, jo
     agentai sužinojo, kad už slavų gyvena dar lietuviai. Tas prane-
     šimas yra išlikęs iki mūsų laikų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -248,13 +195,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/asmenys/Martynas Paleckis]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Maskvėnai]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/autoriai/Nepokupnas A]]
 - [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/grupes/Radvilų giminė]]
-- [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
@@ -278,6 +223,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/posakiai/sąmyšio metai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/autoriai/Непокупный А. П]]
+- [[objektai/grupes/Germanai]]
 - [[objektai/autoriai/M. Liubavskij]]
 - [[objektai/autoriai/V. J. Mansikka]]
-- [[objektai/grupes/Germanai]]

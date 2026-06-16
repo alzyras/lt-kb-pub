@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Haličas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1128 m.'
@@ -19,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.
+Rusios kronikininkai liudijo, kad XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai. Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje. Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.
 
 ## Teiginiai
 
@@ -43,6 +44,13 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
   teiginys: 'Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.'
   pagrindžia:
     - c-003
+
+<a id="claim-t-187577"></a>
+- t-004
+  global_id: t-187577
+  teiginys: 'Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -110,3 +118,18 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Pasikrikštijo
+    Naugarduke ir tapo krikščionimi.
+    Paskui Vaišvilkas iškeliavo į Haličąs pas Danielių,
+    pas kunigaikštį Vasilką, ketindamas tapti vienuoliu.
+    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004

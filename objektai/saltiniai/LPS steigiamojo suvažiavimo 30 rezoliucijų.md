@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
+LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo ir demokratijos klausimais. LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 <a id="claim-t-183375"></a>
 - t-002
   global_id: t-183375
-  teiginys: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
+  teiginys: 'LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
     - t-001
 
 - c-002
-  santrauka: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
+  santrauka: 'LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas

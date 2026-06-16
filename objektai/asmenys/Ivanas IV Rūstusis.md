@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis. pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija ir šią šalį ištiko gili krizė.
+Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
 
 ## Teiginiai
 
@@ -33,30 +33,11 @@ periodo_grupes:
   global_id: t-40147
   teiginys: 'Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-40148"></a>
-- t-002
-  global_id: t-40148
-  teiginys: '1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis.'
-  pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pasvalyje su ja sudarė karinę sąjungą
-    gynybai nuo Maskvos. 1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė
-    gilesnes Livonijos sritis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Proga atsiimti Smolenską atsirado
@@ -82,7 +63,6 @@ periodo_grupes:
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Rusai]]

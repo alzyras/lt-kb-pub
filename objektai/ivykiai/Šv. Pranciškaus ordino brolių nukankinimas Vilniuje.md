@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Goštautui išvykus į Tikociną, sukurstyta minia Vilniuje žiauriai susidorojo su krikščionių tikėjimo skelbėjais.
+Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185792"></a>
 - t-001
   global_id: t-185792
-  teiginys: 'Goštautui išvykus į Tikociną, sukurstyta minia Vilniuje žiauriai susidorojo su krikščionių tikėjimo skelbėjais.'
+  teiginys: 'Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Goštautui išvykus į Tikociną, sukurstyta minia Vilniuje žiauriai susidorojo su krikščionių tikėjimo skelbėjais.'
+  santrauka: 'Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kol jis pats gyveno
@@ -63,4 +63,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]

@@ -20,19 +20,12 @@ amziai:
 
 ## Santrauka
 
-Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę. Jis pasiuntė keletą kavalerijos vėliavų į Kopysės pusę, kurios turėjo atvilioti į mūšį pagrindines rusų kariuomenės pajėgas.
+Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.
 
 ## Teiginiai
 
-<a id="claim-t-38490"></a>
-- t-001
-  global_id: t-38490
-  teiginys: 'Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-38491"></a>
-- t-002
+- t-001
   global_id: t-38491
   teiginys: 'Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.'
   pagrindžia:
@@ -49,32 +42,6 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
     jos vėliavų į Kopysės pusę, kurios turėjo
     atvilioti į mūšį pagrindines rusų ka-
     riuomenės pajėgas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-
-    Kariuomenės stovykloje prie Oršos
-    Radvila delsė siųsti pagrindines savo pa-
-    jėgas į mūšį su gausiomis priešo pajėgo-
-    mis. Etmonas siųsdavo atskirus dalinius
-    Smolensko link ir puldinėjo mažesnius
-    priešo dalinius. Caro kariuomenė prie
-    Smolensko taip pat nesiryžo imtis ryz-
-    tingesnių veiksmų ir šturmuoti tvirto-
-    vės, kol netoliese buvo J. Radvilos pajėgos.
-    Esant tokiai padėčiai atėjo 1654 m. rug-
-    pjūčio 12 diena. Kunigaikštis Čerkaskis,
-    turėdamas apie 40000 karių, tuo metu
-    nuo Smolensko žygiavo užimti Oršą
-
-    ir Kopysę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified

@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
+Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.
 
 ## Teiginiai
 
 <a id="claim-t-39695"></a>
 - t-001
   global_id: t-39695
-  teiginys: 'A. Džiuvė su 3 kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.'
+  teiginys: 'Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Birželio 1 d. Zechau, Musteikio ko-

@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuvos atsikurimas ## Puslapis 258 KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI 1947 m. sovietų konstruktoriaus M. Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba, tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai paplito po visą pasaulį.
+1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę. Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba. Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,7 +55,7 @@ Nenurodyta
 <a id="claim-t-78678"></a>
 - t-002
   global_id: t-78678
-  teiginys: 'Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų snaiperiniuose šautuvuose ir kulkosvaidžiuose šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant automatine ugnimi.'
+  teiginys: 'Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba.'
   pagrindžia:
     - c-003
 
@@ -111,6 +111,7 @@ Nenurodyta
     - t-003
 
 - c-003
+  santrauka: 'Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų
@@ -139,6 +140,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Statybininkų šalmai]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]
 - [[objektai/asmenys/M. Kalašnikovas]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AKM]]

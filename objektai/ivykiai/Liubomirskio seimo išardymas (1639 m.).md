@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką pratęsti seimui laiko, ir seimai išsiskirstė. Antai vienas atstovas bandė sukliudyti viso seimo darbą dar 1596 m., o 1639 m. vienas Krokuvos atstovas, Liubomirskis, seimą ir išardė.
+1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė.
 
 ## Laikotarpis ir datos
 
@@ -32,47 +32,29 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66763"></a>
 - t-001
   global_id: t-66763
-  teiginys: 'Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką pratęsti seimui laiko, ir seimai išsiskirstė.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-66764"></a>
-- t-002
-  global_id: t-66764
-  teiginys: 'Antai vienas atstovas bandė sukliudyti viso seimo darbą dar 1596 m., o 1639 m. vienas Krokuvos atstovas, Liubomirskis, seimą ir išardė.'
+  teiginys: '1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet vis dėlto tai nebuvo pirmas toks atsitikimas. Antai vienas
-    atstovas bandė sukliudyti viso seimo darbą dar 1596 m., o 1639 m.
-    vienas Krokuvos atstovas, Liubomirskis, seimą ir išardė. Taigi tą
-    paprotį vienam atstovui išardyti seimą įvedė ne Čičinskas, bet Liu-
-    bomirskis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: '1639 m. Liubomirskis nesutiko pratęsti seimo darbo laiko, todėl seimas išsiskirstė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimas turėdavo tęstis ne ilgiau, kaip 6 savaites. Pasibaigus
     tam laikui, posėdžiauti buvo galima tik visiems atstovams sutikus.
     Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką
     pratęsti seimui laiko, ir seimai išsiskirstė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

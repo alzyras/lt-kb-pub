@@ -190,7 +190,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/grupes/Lietuvos luomai]]
 - [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
-- [[objektai/grupes/Liublino seimas]]
 - [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
 - [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]

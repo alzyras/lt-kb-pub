@@ -42,5 +42,3 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Radžvilas]]
-- [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
-- [[objektai/daiktai/Lietuvos trispalvė]]

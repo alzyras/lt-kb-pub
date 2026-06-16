@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą, o liepos 12-ąją, spaudžiant V.
+1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą. 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą. 1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 
 ## Teiginiai
 
 <a id="claim-t-75474"></a>
 - t-001
   global_id: t-75474
-  teiginys: 'Birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.'
+  teiginys: '1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.'
   pagrindžia:
     - c-002
 

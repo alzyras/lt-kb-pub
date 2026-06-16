@@ -44,7 +44,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje]]
 - [[objektai/asmenys/Augustinas Povilaitis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/grupes/Augustinų ordinas]]
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

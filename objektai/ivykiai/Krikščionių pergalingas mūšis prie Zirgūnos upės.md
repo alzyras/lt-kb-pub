@@ -73,6 +73,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]

@@ -15,17 +15,18 @@ tags:
 Stanevičius — lietuviškų dainų rinkinį.
 
 ## Teiginiai
-
 <a id="claim-t-01132"></a>
 - t-001
   global_id: t-01132
   teiginys: 'S. Stanevičius išleido lietuviškų dainų rinkinį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'S. Stanevičius išleido lietuviškų dainų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įsitraukę į tą sąjūdį, žemaičiai pirmiausia susirūpino kalba.
@@ -36,9 +37,11 @@ Stanevičius — lietuviškų dainų rinkinį.
     bliografiją, S. Stanevi-
     čius — lietuviškų dainų rin-
     kinį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

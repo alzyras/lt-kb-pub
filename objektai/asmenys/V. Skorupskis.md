@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Skorupskio vadovaujamai kolonai (1-ojo pėst.
+V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi.
 
 ## Teiginiai
 
 <a id="claim-t-40490"></a>
 - t-001
   global_id: t-40490
-  teiginys: 'V. Skorupskio vadovaujamai viduriniajai kolonai buvo įsakyta pulti Degučių-Zarasų kryptimi.'
+  teiginys: 'V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     K. Škirpos

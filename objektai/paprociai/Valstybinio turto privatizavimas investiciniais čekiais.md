@@ -109,6 +109,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/zodynas/Privatizacija ir išvalstybinimas]]

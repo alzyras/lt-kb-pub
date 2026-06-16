@@ -10,12 +10,12 @@ date_start: '1573'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
 tags:
   - bajorija
   - sutartis
   - sąvoka
-amziai:
-  - 'XVI'
 ---
 # pacta conventa
 
@@ -24,16 +24,16 @@ amziai:
 Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.
 
 ## Teiginiai
-
 <a id="claim-t-182963"></a>
 - t-001
   global_id: t-182963
   teiginys: 'Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -46,9 +46,11 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
     Tad kai Zigmantas Vaza, o vėliau iš dalies ir jo sūnūs ėmė siekti
     absoliutizmo, tai Lietuvos ir Lenkijos bajorija tam drauge pasi-
     priešino.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -56,7 +58,6 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 ### Susiję objektai
 - [[objektai/grupes/Lenkijos bajorija]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/posakiai/kardinalinės teisės]]

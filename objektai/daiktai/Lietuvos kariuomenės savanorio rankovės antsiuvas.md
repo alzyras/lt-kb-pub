@@ -120,7 +120,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/daiktai/Karūna]]
@@ -129,6 +128,7 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

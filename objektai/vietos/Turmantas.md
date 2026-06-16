@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė užėmusi liniją Aukštakalnis-Salakas-Kiemionys ir turėjo pulti Turmanto kryptimi. Batalionui buvo įsakyta užimti svarbią Turmanto geležinkelio stotį.
+Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui. 4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi. Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.
 
 ## Teiginiai
 
 <a id="claim-t-80249"></a>
 - t-001
   global_id: t-80249
-  teiginys: 'Batalionui buvo įsakyta užimti svarbią Turmanto geležinkelio stotį.'
+  teiginys: 'Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui.'
   pagrindžia:
     - c-002
 
@@ -60,6 +60,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
     - t-002
 
 - c-002
+  santrauka: 'Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bolševikai

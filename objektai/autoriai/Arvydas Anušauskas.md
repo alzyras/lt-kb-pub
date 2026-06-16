@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Lietuvos partizanų susirėmimus autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos naujausių laikų istorikas ir rezistencinių kovų tyrėjas.
+Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris. Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius. Arvydas Anušauskas yra Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.
 
 ## Darbai
 
@@ -47,7 +47,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 <a id="claim-t-78744"></a>
 - t-003
   global_id: t-78744
-  teiginys: 'Arvydas Anušauskas buvo Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.'
+  teiginys: 'Arvydas Anušauskas yra Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.'
   pagrindžia:
     - c-001
 

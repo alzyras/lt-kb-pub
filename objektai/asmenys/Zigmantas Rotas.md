@@ -18,21 +18,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Jonas Čarnkovskis suėmė Cigalą iš Vienos ir vokietį Zigmantą Rotą, atėmė imperatoriaus laišką ir paleido juos į laisvę.
+Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.
 
 ## Teiginiai
 
 <a id="claim-t-186270"></a>
 - t-001
   global_id: t-186270
-  teiginys: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos ir vokietį Zigmantą Rotą, atėmė imperatoriaus laišką ir paleido juos į laisvę.'
+  teiginys: 'Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos ir vokietį Zigmantą Rotą, atėmė imperatoriaus laišką ir paleido juos į laisvę.'
+  santrauka: 'Jonas Čarnkovskis suėmė vokietį Zigmantą Rotą ir Cigalą iš Vienos, atėmė imperatoriaus laišką ir paleido juos laisvėn.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viskam

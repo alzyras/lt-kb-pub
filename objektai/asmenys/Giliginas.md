@@ -47,6 +47,7 @@ Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/asmenys/Germantas]]
 - [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]
 - [[objektai/asmenys/Romuntas]]

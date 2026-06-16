@@ -15,17 +15,18 @@ tags:
 Tai vadinamoji šventoji namų ugnelė, arba gabija.
 
 ## Teiginiai
-
 <a id="claim-t-02996"></a>
 - t-001
   global_id: t-02996
   teiginys: 'Gabija vadinta šventąja namų ugnele.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Gabija vadinta šventąja namų ugnele.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai vadinamoji
@@ -33,9 +34,11 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
     dabar pas mus ugnis tebelaikoma ypatingoj pagarboj (pav., kai
     kur laikoma net nuodėme užlieti ją kokiomis srutomis ar ne-
     švarumais).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

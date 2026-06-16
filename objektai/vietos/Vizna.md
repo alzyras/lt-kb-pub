@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne. Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.
+1294 metais magistras Meinhardas užėmė Mazovijos kunigaikščio Boleslovo pilį Viznoje ir ją iš pamatų sugriovė. Dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.
 
 ## Teiginiai
 
@@ -35,13 +35,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
 <a id="claim-t-58655"></a>
 - t-002
   global_id: t-58655
-  teiginys: 'Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
+  teiginys: 'Dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     dėl Viznos  pilies sugriovimo, pasitaikino lietuvius  ir ją atstatė. Apie  tai sužinojęs,

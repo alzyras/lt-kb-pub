@@ -11,13 +11,13 @@ date_start: '1387'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - kunigas
   - vieta
   - vyskupas
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Verkiai
 
@@ -26,7 +26,6 @@ amziai:
 Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra ir didingi vyskupų rūmai Verkiuose (dabar jų jau nebėra).
 
 ## Teiginiai
-
 <a id="claim-t-119671"></a>
 - t-001
   global_id: t-119671
@@ -70,7 +69,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -85,7 +83,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-002
   santrauka: 'Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -113,7 +110,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   pagrindžia:
     - t-002
     - t-006
-
 - c-003
   santrauka: 'Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,7 +132,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-004
   santrauka: 'Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -157,7 +152,6 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: 'Tarp Verkių ir Šeškinės kalno įsiplieskė įnirtingas mūšis, kuriame kryžiuočiai spaudė lietuvių ir lenkų kariuomenę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

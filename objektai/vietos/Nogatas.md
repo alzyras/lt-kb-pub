@@ -16,7 +16,6 @@ tags:
 Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo plaukiama Deimena pro Labguvą į Prieglių, juo — pro Karaliaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
 
 ## Teiginiai
-
 <a id="claim-t-68827"></a>
 - t-001
   global_id: t-68827
@@ -36,10 +35,11 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   global_id: t-68829
   teiginys: 'Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.'
   pagrindžia:
-    - c-002
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vyslos ir Nogato santakoje buvo pastatyta Santyro pilis, kurios vyrai trukdė brolių valdiniams plaukioti upe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -54,23 +54,6 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    183 psl.), jis pasi-
-    darė svarbiausias Lenkijos žemės produktų eksporto centras.
-    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
-    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
-    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
-    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
-    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-003
   santrauka: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -83,3 +66,21 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   statusas: verified
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    183 psl.), jis pasi-
+    darė svarbiausias Lenkijos žemės produktų eksporto centras.
+    Lietuva kad ir neturėjo savo uosto, tačiau ir ji stengėsi ekspor-
+    tuoti savo javus. Ji veždavo savo prekes Nemunu; iš Nemuno
+    kelias ėjo per jo šaką Giliją; pasiekus Kuršmares, toliau būdavo
+    plaukiama Deimena pro Labguvą į Prieglių, juo — pro Kara-
+    liaučių į Aistmares, iš čia — Nogatu į Vyslą, pagaliau į Dancigą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

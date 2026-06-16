@@ -99,7 +99,6 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/ulonai]]

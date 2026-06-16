@@ -61,6 +61,7 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]

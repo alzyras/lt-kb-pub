@@ -15,27 +15,21 @@ tags:
 
 ## Santrauka
 
-Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti savo kalba, kad nekurianti savos literatūros.
+Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.
 
 ## Teiginiai
-
-<a id="claim-t-01085"></a>
-- t-001
-  global_id: t-01085
-  teiginys: 'Ks. Bauža 1806 m. paskelbė knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-01086"></a>
-- t-002
+- t-001
   global_id: t-01086
   teiginys: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
@@ -43,27 +37,14 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
     tuviškai kalbėti net tie, kurie ir moką. Liaudis tebekalbanti lietu-
     viškai, tačiau turinti mokytis lenkiškai, kad galėtų susikalbėti su
     ponais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tokį pra-
-    nešimą Krokuvoje padarė Vilniaus universiteto garbės narys, uk-
-    mergiškis kunigas Ks. Bauža. Savo tyrinėjimus jis paskelbė
-    ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
-    (1806 m.), kurioje ragina gelbėti lietuvybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/ponai]]

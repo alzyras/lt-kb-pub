@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai. Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.
+Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams. Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga. 1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą.
 
 ## Teiginiai
 
@@ -40,14 +40,14 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 <a id="claim-t-58798"></a>
 - t-002
   global_id: t-58798
-  teiginys: 'Didysis magistras Anonas pažadėjo aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga piliai ginti.'
+  teiginys: 'Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-58799"></a>
 - t-003
   global_id: t-58799
-  teiginys: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą brolių karo laivą.'
+  teiginys: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą.'
   pagrindžia:
     - c-003
 
@@ -122,7 +122,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-009
 
 - c-002
-  santrauka: 'Didysis magistras Anonas pažadėjo aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga piliai ginti.'
+  santrauka: 'Didysis magistras Anonas pažadėjo gausiai aprūpinti Starkenbergo pilėnus viskuo, kas buvo reikalinga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
@@ -141,7 +141,7 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     - t-002
 
 - c-003
-  santrauka: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą brolių karo laivą.'
+  santrauka: '1313 m. Junigedos pilėnai užpuolė prie kranto vėjo nublokštą Ragainės komtūro Vernerio karo laivą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną brolių karo laivą

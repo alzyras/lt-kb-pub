@@ -12,11 +12,11 @@ date_start: '1839'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Didžioji Lietuva
 
@@ -25,7 +25,6 @@ amziai:
 rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
 
 ## Teiginiai
-
 <a id="claim-t-182724"></a>
 - t-001
   global_id: t-182724
@@ -46,9 +45,10 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   teiginys: 'Iš Didžiosios Lietuvos buvo kilę daugelis lietuviškas protestantiškas knygas rašiusių autorių.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -62,7 +62,6 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1914 m. Gintarinėje deklaracijoje lietuviai siekė sujungti Didžiąją ir Mažąją Lietuvą bei gauti autonomiją Rusijos tautų šeimoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -89,7 +88,6 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Iš Didžiosios Lietuvos buvo kilę daugelis lietuviškas protestantiškas knygas rašiusių autorių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -102,8 +100,10 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
 
 
     tizmo skleidėjai Lietuvoje buvo didikai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

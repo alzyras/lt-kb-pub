@@ -18,21 +18,21 @@ amziai:
 
 ## Santrauka
 
-Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyti abi puses.
+Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.
 
 ## Teiginiai
 
 <a id="claim-t-40864"></a>
 - t-001
   global_id: t-40864
-  teiginys: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti abi konfliktuojančias puses.'
+  teiginys: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti abi konfliktuojančias puses.'
+  santrauka: 'Bazelio bažnytinis susirinkimas 1431 m. pabaigoje siekė sutaikyti Lietuvos valdovą ir Jogailą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos valdovas buvo skun-

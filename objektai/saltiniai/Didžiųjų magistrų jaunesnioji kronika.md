@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch ir Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių vardai: Lettouwe, Preroch, Corant. Dusburgietis teigia, kad 412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100), kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. Dusburgietis teigia, kad vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
+Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą. Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu. Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.
 
 ## Teiginiai
 
@@ -42,14 +42,14 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 <a id="claim-t-60952"></a>
 - t-003
   global_id: t-60952
-  teiginys: 'Naujoji didžiojo magistro kronika patikslina, kad minima pilis buvo Cenauwe.'
+  teiginys: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Naujoji didžiojo magistro kronika patikslina, kad minima pilis buvo Cenauwe.'
+  santrauka: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),

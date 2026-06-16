@@ -11,109 +11,78 @@ date_start: '1096'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - valstybė
-  - vieta
 amziai:
   - 'XI'
   - 'XXI'
+tags:
+  - valstybė
+  - vieta
 ---
 # Jeruzalė
 
 ## Santrauka
 
-Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų.
+Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką. Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais. Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.
 
 ## Teiginiai
-
 <a id="claim-t-68010"></a>
 - t-001
   global_id: t-68010
-  teiginys: 'Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių istorijos santrauką.'
+  teiginys: 'Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-68011"></a>
 - t-002
   global_id: t-68011
   teiginys: 'Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-68012"></a>
 - t-003
   global_id: t-68012
   teiginys: 'Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-68013"></a>
 - t-004
   global_id: t-68013
   teiginys: 'Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-68014"></a>
-- t-005
-  global_id: t-68014
-  teiginys: 'Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios maldininkų.'
-  pagrindžia:
     - c-001
 
 <a id="claim-t-68015"></a>
-- t-006
+- t-005
   global_id: t-68015
   teiginys: 'Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-68016"></a>
-- t-007
+- t-006
   global_id: t-68016
   teiginys: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-68017"></a>
-- t-008
+- t-007
   global_id: t-68017
   teiginys: '„Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-68018"></a>
-- t-009
+- t-008
   global_id: t-68018
   teiginys: '1096 m. Petras su kryžininkais ir daugybe vokiečių užėmė Antiochiją ir šventąjį Jeruzalės miestą.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-68019"></a>
-- t-010
-  global_id: t-68019
-  teiginys: 'Po 1099 m. Jeruzalės išvadavimo iš turkų į ją pradėjo traukti minios maldininkų.'
-  pagrindžia:
-    - c-001
+    - c-007
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
-    traukti minios maldininkų. Bet netrukus naujajai Jeruzalės valstybei
-    vėl ėmė grėsti turkų pavojus, ir maldininkams darėsi labai pavojinga
-    ten keliauti. Todėl visos didesniosios valstybės ten ėmė steigti spe-
-    cialias brolijas savo maldininkams globoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-    - t-010
-
-- c-002
   santrauka: 'Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -130,8 +99,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-003
+- c-002
   santrauka: 'Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -155,9 +123,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
-
-- c-004
+    - t-005
+- c-003
   santrauka: 'Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -191,8 +158,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
+- c-004
   santrauka: '„Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -207,9 +173,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
-
-- c-006
+    - t-007
+- c-005
   santrauka: 'Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -226,8 +191,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   statusas: verified
   pagrindžia:
     - t-002
-
-- c-007
+- c-006
   santrauka: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -244,9 +208,8 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-008
+    - t-006
+- c-007
   santrauka: '1096 m. Petras su kryžininkais ir daugybe vokiečių užėmė Antiochiją ir šventąjį Jeruzalės miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -267,10 +230,9 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
-
-- c-009
-  santrauka: 'Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių istorijos santrauką.'
+    - t-008
+- c-008
+  santrauka: 'Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo puikiai suvokė ryšį tarp Ordino kovos prieš Pabaltijo tautas ir kitų

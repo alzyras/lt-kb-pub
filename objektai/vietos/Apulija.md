@@ -18,7 +18,6 @@ tags:
 Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų žemių, tad didysis magistras su taryba ir persikėlė į vieną tokią dovanotąją žemę — į Apuliją (pietų Italijoj).
 
 ## Teiginiai
-
 <a id="claim-t-175281"></a>
 - t-001
   global_id: t-175281
@@ -27,7 +26,6 @@ Ordinui dar liko nemaža vokiečių imperatorių ir kunigaikščių dovanotų ž
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

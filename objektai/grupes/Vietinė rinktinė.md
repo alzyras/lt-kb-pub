@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje. Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi. Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.
+1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas. Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais. Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija.
 
 ## Teiginiai
 
 <a id="claim-t-66256"></a>
 - t-001
   global_id: t-66256
-  teiginys: 'Įstojo į Vietinę rinktinę, 1944 m. kovo mėn.'
+  teiginys: '1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas.'
   pagrindžia:
     - c-005
 
@@ -57,7 +57,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 <a id="claim-t-66260"></a>
 - t-005
   global_id: t-66260
-  teiginys: 'Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie apsiginklavę skirstėsi namo.'
+  teiginys: 'Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo.'
   pagrindžia:
     - c-004
 
@@ -67,13 +67,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   teiginys: 'Vokiečiai pareikalavo, kad Vietinė rinktinė taptų jiems pavaldi.'
   pagrindžia:
     - c-006
-
-<a id="claim-t-183194"></a>
-- t-007
-  global_id: t-183194
-  teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -122,6 +115,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - t-002
 
 - c-004
+  santrauka: 'Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nenorėdamas būti
@@ -140,6 +134,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     - t-005
 
 - c-005
+  santrauka: '1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių okupa-
@@ -167,23 +162,6 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-007
-  santrauka: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vykdžiusi nacių diktuojamą politiką lietuvių admini-
-    stracija nepaisė lenkų daugumos interesų ir susilaukė jų neapykantos.
-    Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
-    Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
-    lenkų Armija Krajova daliniais. Lietuviai laikė, kad Vilnija yra Lietuvos
-    dalis, lenkai – kad Lenkijos, tad ir vieni, ir kiti keliais atvejais išliejo savo
-    įtūžį ant vietinių lietuvių ar lenkų kaimų gyventojų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
 
 ## Ryšiai
 ### Susiję objektai

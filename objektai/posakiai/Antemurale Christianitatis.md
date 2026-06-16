@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Ši lotyniška formulė šiame šaltinyje vartojama kaip Lietuvos kovos Vakarų civilizacijos pusėje ir platesnės prieš rytinius priešus nukreiptos ideologijos apibūdinimas.
+„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija. Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir taip formavo „antemurale Christianitatis“ ideologiją. Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją.
 
 ## Forma
 
@@ -49,7 +49,7 @@ amziai:
 <a id="claim-t-78921"></a>
 - t-003
   global_id: t-78921
-  teiginys: 'Pirmieji krikščioniški Lietuvos valdovai formavo „antemurale Christianitatis“ ideologiją.'
+  teiginys: 'Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-001
 
@@ -96,6 +96,7 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

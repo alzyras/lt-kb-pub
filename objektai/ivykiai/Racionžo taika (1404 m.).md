@@ -11,13 +11,13 @@ date_start: '1401'
 date_end: '1404'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - ivykis
   - ordinas
   - pilis
   - sutartis
-amziai:
-  - 'XV'
 ---
 # Racionžo taika (1404 m.)
 
@@ -42,7 +42,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-92939"></a>
 - t-001
   global_id: t-92939
@@ -56,9 +55,10 @@ Nenurodyta
   teiginys: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -80,7 +80,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -91,9 +90,11 @@ Nenurodyta
     buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau-
     tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
     maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

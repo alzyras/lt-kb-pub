@@ -250,7 +250,6 @@ atnaujinta: ''
 - [[objektai/zodynas/žygūnai]]
 - [[objektai/paprociai/Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas]]
 - [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]
-- [[objektai/asmenys/Vasilijus]]
 - [[objektai/asmenys/Pisonas]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/įgula]]

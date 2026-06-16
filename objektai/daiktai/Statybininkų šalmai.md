@@ -79,6 +79,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/daiktai/Dujokaukės]]
 - [[objektai/asmenys/M. Kalašnikovas]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

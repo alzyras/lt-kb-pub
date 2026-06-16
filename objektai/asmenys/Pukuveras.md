@@ -9,15 +9,15 @@ date_start: '1292'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - ordinas
-amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
 ---
 # Pukuveras (Lietuvos karalius, XIII a.)
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356). Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.
 
 ## Teiginiai
-
 <a id="claim-t-60195"></a>
 - t-001
   global_id: t-60195
@@ -42,7 +41,6 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,7 +78,6 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

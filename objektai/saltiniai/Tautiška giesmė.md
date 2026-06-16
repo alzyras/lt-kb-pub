@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam melodiją – šis kūrinys taps Lietuvos himnu. 1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.
+1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“. Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.
 
 ## Teiginiai
 
@@ -27,13 +27,14 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
 <a id="claim-t-21279"></a>
 - t-002
   global_id: t-21279
-  teiginys: 'V. Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.'
+  teiginys: 'Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Aušros“ idėjas toliau plėto-

@@ -65,6 +65,5 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 - [[objektai/ivykiai/Užpelkių kautynės]]
 - [[objektai/zodynas/agentai smogikai]]
 - [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]
-- [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/zodynas/kovinė-agentūrinė grupė]]
 - [[objektai/zodynas/agentas-smogikas]]

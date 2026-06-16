@@ -11,12 +11,12 @@ date_start: '1598'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - dinastija
-  - grupe
 amziai:
   - 'XVI'
   - 'XXI'
+tags:
+  - dinastija
+  - grupe
 ---
 # Romanovų dinastija
 
@@ -25,7 +25,6 @@ amziai:
 Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.). (iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Romanovais iki pat galo).
 
 ## Teiginiai
-
 <a id="claim-t-66060"></a>
 - t-001
   global_id: t-66060
@@ -33,23 +32,20 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   pagrindžia:
     - c-001
 
-<a id="claim-t-66061"></a>
-- t-002
-  global_id: t-66061
-  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
-  pagrindžia:
-    - c-002
-    - c-003
-
 <a id="claim-t-66062"></a>
 - t-003
   global_id: t-66062
   teiginys: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
   pagrindžia:
     - c-002
+- t-004
+  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -71,7 +67,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   pagrindžia:
     - t-001
     - t-001
-
 - c-002
   santrauka: 'Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -90,8 +85,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
+  santrauka: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O
@@ -103,11 +98,13 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
     linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
     novais iki pat galo).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -126,6 +123,5 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Hohenzollernai]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

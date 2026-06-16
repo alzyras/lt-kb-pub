@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apylinkes, kai pagrindinės pajėgos įsiverš į Rusijos teritoriją šiauriau. Rugpjūčio 29 d. lietuviai susikovė su į pagalbą savo valdovui skubėjusia apie 1000 karių Toropeco įgula. Rugsėjo 9 d. jie dar kartą susirėmė su Toropeco įgula, nukovė 200 rusų šaulių.
+Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių. Rugpjūčio 29 d. lietuviai sumušė apie 1000 karių Toropeco įgulą, skubėjusią į pagalbą savo valdovui. K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.
 
 ## Teiginiai
 
@@ -35,7 +35,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 <a id="claim-t-42190"></a>
 - t-002
   global_id: t-42190
-  teiginys: 'Rugpjūčio 29 d. lietuviai susikovė su į pagalbą savo valdovui skubėjusia apie 1000 karių Toropeco įgula.'
+  teiginys: 'Rugpjūčio 29 d. lietuviai sumušė apie 1000 karių Toropeco įgulą, skubėjusią į pagalbą savo valdovui.'
   pagrindžia:
     - c-003
 
@@ -96,6 +96,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - t-003
 
 - c-003
+  santrauka: 'Rugpjūčio 29 d. lietuviai sumušė apie 1000 karių Toropeco įgulą, skubėjusią į pagalbą savo valdovui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nusiaubęs Staricos apylinkes,

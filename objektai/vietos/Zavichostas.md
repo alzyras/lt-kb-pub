@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Zavichostas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.
+Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto. Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.
 
 ## Teiginiai
 
@@ -20,6 +21,13 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   teiginys: 'Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187690"></a>
+- t-002
+  global_id: t-187690
+  teiginys: 'Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +57,22 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kai visi lietuviai kariai, paėmę po pagalį, me­
+    tė į miestą ir primėtė pilną miestą pagalių, uždegė vi­
+    są Zavichosto miestą6 . Ir sudeginę Zavichostą, nužy­
+    giavo prie Opatovo?, sudegino ir išdegino daug kitų
+
+    ## Puslapis 85
+
+    miestų ir kaimų ligi pat Vislicos8 , ir daug ponių bei
+    panelių parsivarė nelaisvėn.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

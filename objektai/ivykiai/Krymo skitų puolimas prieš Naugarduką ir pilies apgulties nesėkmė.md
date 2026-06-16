@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi. Krymo skitai įžengė į tuščią Naugarduką, pasiuntė lengvai ginkluotus raitelius vytis bėgančiųjų ir su kitais kariais apgulė pilį.
+Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi. Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185723"></a>
 - t-002
   global_id: t-185723
-  teiginys: 'Krymo skitai įžengė į tuščią Naugarduką, pasiuntė lengvai ginkluotus raitelius vytis bėgančiųjų ir su kitais kariais apgulė pilį.'
+  teiginys: 'Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Krymo skitai įžengė į tuščią Naugarduką, pasiuntė lengvai ginkluotus raitelius vytis bėgančiųjų ir su kitais kariais apgulė pilį.'
+  santrauka: 'Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Priešas,
@@ -85,6 +85,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/barbarai]]
 - [[objektai/zodynas/seniūnas]]

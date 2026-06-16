@@ -3,12 +3,14 @@ tipas: zodyno_irasas
 pavadinimas: 'metropolitas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1300 m.'
   - '1415 m.'
+  - '1435 m.'
 date_start: '1300'
-date_end: '1415'
+date_end: '1435'
 sukurta: ''
 atnaujinta: ''
 tags: []
@@ -20,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Metropolitas čia reiškia aukštą stačiatikių bažnytinį hierarchą, nuo kurio priklausė rytinių Lietuvos žemių bažnytinė organizacija.
+Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui. Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams. 1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną.
 
 ## Žodis ir formos
 
@@ -64,7 +66,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 <a id="claim-t-05453"></a>
 - t-002
   global_id: t-05453
-  teiginys: 'Algirdas ir Maskvos kunigaikštis siekė savo valstybės ribose išlaikyti ar atnaujinti atskirą arkivyskupo-metropolito sostą.'
+  teiginys: 'Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
   pagrindžia:
     - c-001
 
@@ -89,13 +91,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - c-004
 
-<a id="claim-t-97284"></a>
-- t-006
-  global_id: t-97284
-  teiginys: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-97285"></a>
 - t-007
   global_id: t-97285
@@ -110,9 +105,17 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - c-007
 
+<a id="claim-t-187523"></a>
+- t-009
+  global_id: t-187523
+  teiginys: '1432 m. Švitrigailos siūlymu Gerasimas Konstantinopolyje buvo įšventintas LDK, Maskvos Didžiosios Kunigaikštystės ir kitų rusų žemių metropolitu.'
+  pagrindžia:
+    - c-008
+
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
@@ -173,6 +176,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-005
 
 - c-005
+  santrauka: 'Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Naugarde,
@@ -231,6 +235,21 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - t-008
 
+- c-008
+  santrauka: '1432 m. Švitrigailos siūlymu Gerasimas Konstantinopolyje buvo įšventintas LDK, Maskvos Didžiosios Kunigaikštystės ir kitų rusų žemių metropolitu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ”  „O  trečių vasarų" — kalbama apie 1435 m
+    w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­
+    vo Volynės (1415— 1428). Smolensko (nuo 1428) vyskupu. 1432 m.
+    Švitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­
+    vos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
@@ -241,20 +260,20 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - [[objektai/daiktai/Altorius]]
 - [[objektai/asmenys/Dimitrijus]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/viečė]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Ciprijonas]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Fotijus]]
 - [[objektai/asmenys/Gr. Camblakas]]
@@ -289,6 +308,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - [„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“](/objektai/posakiai/%E2%80%9Epagal%20Tavo%20palaiminim%C4%85%20jy%20%5Bpromaskvieti%C5%A1kas%5D%20metropolitas%20juos%20%5Bmaskv%C3%A9nus%5D%20laimina%20kraujo%20praliejimui%20iki%20%C5%A1iol%E2%80%9C)
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gerasimas]]
 - [[objektai/grupes/Maskvos metropolitai]]
 - [[objektai/zodynas/metropolitas metropolija]]
 - [[objektai/zodynas/pravoslavai]]

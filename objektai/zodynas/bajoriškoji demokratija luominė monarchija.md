@@ -87,7 +87,6 @@ tags:
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

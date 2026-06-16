@@ -4,6 +4,7 @@ pavadinimas: 'Gediminaičių dinastija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,10 +12,6 @@ datos:
   - '2026 m.'
 date_start: '1316'
 date_end: '2026'
-aliases:
-  - 'objektai/grupes/Gedimino dinastija'
-variantai:
-  - 'Gedimino dinastija'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,.
+Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Su Krėvės unija sutiko ne visi Gediminaičiai. Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių.
 
 ## Teiginiai
 
@@ -79,7 +76,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96100"></a>
 - t-007
   global_id: t-96100
-  teiginys: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  teiginys: 'Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
   pagrindžia:
     - c-017
 
@@ -104,10 +101,17 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - c-015
 
+<a id="claim-t-96105"></a>
+- t-011
+  global_id: t-96105
+  teiginys: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  pagrindžia:
+    - c-009
+
 <a id="claim-t-96106"></a>
 - t-012
   global_id: t-96106
-  teiginys: 'Palemono legenda leido lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
+  teiginys: 'Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
   pagrindžia:
     - c-021
 
@@ -156,7 +160,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 <a id="claim-t-96117"></a>
 - t-021
   global_id: t-96117
-  teiginys: 'Zigmantui Augustui mirus be įpėdinio, Lietuva ir Lenkija galėjo išsirinkti atskirus valdovus.'
+  teiginys: 'Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.'
   pagrindžia:
     - c-006
 
@@ -166,6 +170,13 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginys: 'Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos.'
   pagrindžia:
     - c-023
+
+<a id="claim-t-187706"></a>
+- t-023
+  global_id: t-187706
+  teiginys: 'Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 
@@ -245,7 +256,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-001
 
 - c-006
-  santrauka: 'Zigmantui Augustui mirus be įpėdinio, Lietuva ir Lenkija galėjo išsirinkti atskirus valdovus.'
+  santrauka: 'Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-
@@ -475,7 +486,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-001
 
 - c-017
-  santrauka: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  santrauka: 'Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet Kęstutis vis dėlto gavo didesnes teises negu kiti
@@ -546,7 +557,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - t-009
 
 - c-021
-  santrauka: 'Palemono legenda leido lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
+  santrauka: 'Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi politinės tautos genezės jau galima ieško-
@@ -599,6 +610,27 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   pagrindžia:
     - t-022
 
+- c-024
+  santrauka: 'Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Čia Lietuvos istorija dėstoma nuo seniausiųjų laikų ir
+    prasideda sakiniu apie Kristaus gimimą, valdant Romos
+    imperatoriui Augustui, Romos imperatorių ligi Nerono
+    išvardijimu ir Nerono žiaurybių aprašymu. Gelbėda­
+    miesi nuo jo persekiojimo, dalis romėnų „bajorų", va­
+    dovaujamų imperatoriaus Nerono giminaičio Palemono,
+    pabėgę nuo persekiojimo Į šiaurę ir tapę lietuvių tau­
+    tos ir valstybės pradininkais. Vėliau, išmirus Palemono
+    įpėdiniams ir sekančios Kentauro herbo dinastijos ku­
+    nigaikščiams, Lietuvos sostas atitekęs pirmajam Gedi-
+    minaičių dinastijos valdovui Vyteniui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-023
+
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
@@ -606,20 +638,19 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Butvydas]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/Getautas]]
 - [[objektai/asmenys/Gimbutas]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/grupes/Gudai]]
+- [[objektai/daiktai/Herbas]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/daiktai/Kentauras]]
+- [[objektai/daiktai/Kentauro herbas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -629,6 +660,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - [[objektai/asmenys/Palemonas]]
+- [[objektai/grupes/Romėnai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/asmenys/Skirgaila]]
@@ -639,16 +671,18 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/grupes/Kentauro herbo dinastija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/siuzerenas]]

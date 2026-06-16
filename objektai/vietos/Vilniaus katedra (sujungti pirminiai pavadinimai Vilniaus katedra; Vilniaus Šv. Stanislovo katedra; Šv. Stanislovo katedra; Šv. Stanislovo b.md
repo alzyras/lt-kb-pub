@@ -30,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių. Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).
+Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius. Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu. Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
 
 ## Teiginiai
 
@@ -65,14 +65,14 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
 <a id="claim-t-85802"></a>
 - t-005
   global_id: t-85802
-  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
+  teiginys: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-85803"></a>
 - t-006
   global_id: t-85803
-  teiginys: 'Vilniaus katedroje vyskupas Jonas Lasavičius įrengė Vyskupų koplyčią.'
+  teiginys: 'Vilniaus vyskupas Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   pagrindžia:
     - c-014
 
@@ -365,7 +365,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-010
 
 - c-010
-  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
+  santrauka: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.
@@ -463,7 +463,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
     - t-013
 
 - c-014
-  santrauka: 'Vilniaus katedroje vyskupas Jonas Lasavičius įrengė Vyskupų koplyčią.'
+  santrauka: 'Vilniaus vyskupas Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1 9 1

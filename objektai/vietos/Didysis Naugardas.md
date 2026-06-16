@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -29,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Naugardą.
+1449 m. Kazimieras sutiko, kad Pskovas su Didžiuoju Naugardu liktų Maskvos įtakoje, o Tverė - Lietuvos įtakoje. 1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją. Kazimierui pasidalijus įtakos sritimis su Maskva, Didysis Naugardas buvo paliktas Maskvos įtakoje.
 
 ## Teiginiai
 
@@ -38,7 +39,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   global_id: t-179774
   teiginys: '1449 m. Kazimieras sutiko, kad Pskovas su Didžiuoju Naugardu liktų Maskvos įtakoje, o Tverė - Lietuvos įtakoje.'
   pagrindžia:
-    - c-015
+    - c-013
 
 <a id="claim-t-179775"></a>
 - t-002
@@ -47,143 +48,122 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindžia:
     - c-001
 
-<a id="claim-t-179776"></a>
-- t-003
-  global_id: t-179776
-  teiginys: 'Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
-  pagrindžia:
-    - c-012
-
 <a id="claim-t-179777"></a>
-- t-004
+- t-003
   global_id: t-179777
   teiginys: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Didysis Naugardas buvo paliktas Maskvos įtakoje.'
   pagrindžia:
-    - c-015
+    - c-013
 
 <a id="claim-t-179778"></a>
-- t-005
+- t-004
   global_id: t-179778
   teiginys: '1428 m. Naugardo ir Porchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.'
   pagrindžia:
-    - c-017
+    - c-015
 
 <a id="claim-t-179779"></a>
-- t-006
+- t-005
   global_id: t-179779
-  teiginys: 'Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingesnėmis gyvenvietėmis.'
-  pagrindžia:
-    - c-011
-
-<a id="claim-t-179780"></a>
-- t-007
-  global_id: t-179780
-  teiginys: 'Mindaugas Didžiajame Naugarde sudarė sąjungą su Aleksandru Nevskiu.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-179781"></a>
-- t-008
-  global_id: t-179781
-  teiginys: '1428 m. Naugardas ir Porchovas sumokėjo Vytautui 10 000 rublių kontribuciją.'
-  pagrindžia:
-    - c-008
-
-<a id="claim-t-179782"></a>
-- t-009
-  global_id: t-179782
-  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės.'
-  pagrindžia:
-    - c-018
-
-<a id="claim-t-179783"></a>
-- t-010
-  global_id: t-179783
-  teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-179784"></a>
-- t-011
-  global_id: t-179784
-  teiginys: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-179785"></a>
-- t-012
-  global_id: t-179785
-  teiginys: 'Didysis Naugardas kurį laiką buvo pasidavęs Lietuvos įtakai, o jį valdė Gedimino sūnus Narimantas.'
-  pagrindžia:
-    - c-010
-
-<a id="claim-t-179786"></a>
-- t-013
-  global_id: t-179786
-  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
-  pagrindžia:
-    - c-018
-
-<a id="claim-t-179787"></a>
-- t-014
-  global_id: t-179787
-  teiginys: 'Jonas III po antrojo žygio 1479 m. prijungė Didįjį Naugardą prie Maskvos.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-179789"></a>
-- t-015
-  global_id: t-179789
   teiginys: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.'
-  pagrindžia:
-    - c-013
-
-<a id="claim-t-179790"></a>
-- t-016
-  global_id: t-179790
-  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
-  pagrindžia:
-    - c-012
-
-<a id="claim-t-179791"></a>
-- t-017
-  global_id: t-179791
-  teiginys: 'Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.'
-  pagrindžia:
-    - c-016
-
-<a id="claim-t-179792"></a>
-- t-018
-  global_id: t-179792
-  teiginys: 'Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-179793"></a>
-- t-019
-  global_id: t-179793
-  teiginys: '1407 m. Vytautas susitaikė su Didžiuoju Naugardu ir grąžino ten sau ištikimą Lengvenį Algirdaitį.'
   pagrindžia:
     - c-009
 
-<a id="claim-t-179794"></a>
-- t-020
-  global_id: t-179794
-  teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
+<a id="claim-t-179780"></a>
+- t-006
+  global_id: t-179780
+  teiginys: 'Mindaugas Didžiajame Naugarde sudarė sąjungą su Aleksandru Nevskiu.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-179781"></a>
+- t-007
+  global_id: t-179781
+  teiginys: '1428 m. Naugardas ir Porchovas sumokėjo Vytautui 10 000 rublių kontribuciją.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-179782"></a>
+- t-008
+  global_id: t-179782
+  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės.'
+  pagrindžia:
+    - c-016
+
+<a id="claim-t-179783"></a>
+- t-009
+  global_id: t-179783
+  teiginys: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
     - c-006
 
-<a id="claim-t-179795"></a>
-- t-021
-  global_id: t-179795
-  teiginys: 'Didysis Naugardas netrukus išslydo iš Vytauto įtakos.'
+<a id="claim-t-179784"></a>
+- t-010
+  global_id: t-179784
+  teiginys: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.'
+  pagrindžia:
+    - c-004
+
+<a id="claim-t-179786"></a>
+- t-011
+  global_id: t-179786
+  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
+  pagrindžia:
+    - c-016
+
+<a id="claim-t-179790"></a>
+- t-013
+  global_id: t-179790
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino sutartį, o Švitrigaila sustiprino ryšius su Naugardu.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-179791"></a>
+- t-014
+  global_id: t-179791
+  teiginys: 'Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.'
   pagrindžia:
     - c-014
 
+<a id="claim-t-179792"></a>
+- t-015
+  global_id: t-179792
+  teiginys: 'Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-179793"></a>
+- t-016
+  global_id: t-179793
+  teiginys: '1407 m. Vytautas susitaikė su Didžiuoju Naugardu ir grąžino ten sau ištikimą Lengvenį Algirdaitį.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-179794"></a>
+- t-017
+  global_id: t-179794
+  teiginys: 'Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-179795"></a>
+- t-018
+  global_id: t-179795
+  teiginys: 'Didysis Naugardas netrukus išslydo iš Vytauto įtakos.'
+  pagrindžia:
+    - c-012
+
 <a id="claim-t-179796"></a>
-- t-022
+- t-019
   global_id: t-179796
   teiginys: 'Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.'
+  pagrindžia:
+    - c-017
+
+<a id="claim-t-187570"></a>
+- t-021
+  global_id: t-187570
+  teiginys: 'Didžiojo Naugardo gyventojai pagarbiai sutiko Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.'
   pagrindžia:
     - c-019
 
@@ -202,20 +182,6 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - t-002
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmiausia ji privertė savo valdžiai pasi-
-    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
-    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
-    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
-    Maskvos. Tuo būdu žuvo galingoji D. Naugardo respublika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-014
-
-- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Padaręs sąjungą su Aleksandru Nevskiu (Didž.
@@ -227,9 +193,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
@@ -242,9 +208,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-015
 
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sutvarkė reikalus su Smo­
@@ -255,9 +221,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-006
+- c-005
+  santrauka: 'Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas turėjo patrankų ir savo žygiuose į Pskovą
@@ -271,9 +238,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-017
 
-- c-007
+- c-006
   santrauka: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -289,9 +256,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-008
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -305,9 +272,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
@@ -323,28 +290,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-016
 
-- c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau kai ku-
-    rios sritys Vytenio laikais dar nebuvo visiškai prijungtos: jos
-    tebuvo tiktai pasidavusios Lietuvos įtakai. Gediminas čia glau-
-    džiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pa-
-    girį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės,
-    prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais
-    miestais ir paėmė į savo įtaką tolimąjį Kijevą. Kurį laiką Lietu-
-    vos įtakai buvo pasidavęs net Pskovas su D. Naugardu (Pskovą
-    valdė buvęs Gardino kunigaikštis Dovydas, o D. Naugardą —
-    Gedimino sūnus Narimantas).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-
-- c-011
+- c-009
+  santrauka: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
@@ -358,9 +307,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-012
+- c-010
+  santrauka: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino sutartį, o Švitrigaila sustiprino ryšius su Naugardu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1432 m. pradžioje derybos tarp lenkų
@@ -378,10 +328,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-    - t-003
+    - t-013
 
-- c-013
+- c-011
   santrauka: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -397,9 +346,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-012
 
-- c-014
+- c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vilniaus valdovo susilpnėjimu naudojosi ir kitos jo įtakoje
@@ -412,9 +361,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-018
 
-- c-015
+- c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau neparemti jie pralaimėjo, ir Kazi-
@@ -428,10 +377,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
     - t-001
 
-- c-016
+- c-014
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet užtat daug geriau Algirdui sekėsi į
@@ -445,9 +394,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-014
 
-- c-017
+- c-015
   santrauka: '1428 m. Naugardo ir Porchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -461,9 +410,9 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-018
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -483,10 +432,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-013
+    - t-008
+    - t-011
 
-- c-019
+- c-017
   santrauka: 'Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -499,10 +448,10 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-019
 
-- c-020
-  santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
+- c-018
+  santrauka: 'Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau
@@ -515,4 +464,23 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-020
+
+- c-019
+  santrauka: 'Didžiojo Naugardo gyventojai pagarbiai sutiko Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
+    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
+    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
+    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
+    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
+    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
+    gardo. Naugardiečiai taip pat pareiškė jiems didelę
+    pagarbą ir pagerbdami nulydėjo juos į Maskvą, pas
+    didjjį kunigaikštį Vasilijų Dimitrijevičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-021

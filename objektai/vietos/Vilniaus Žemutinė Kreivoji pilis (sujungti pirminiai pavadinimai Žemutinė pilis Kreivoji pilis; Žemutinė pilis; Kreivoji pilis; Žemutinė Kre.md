@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.
+Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją. Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius. Žemutinė pilis taip pat vadinta Kreivąja pilimi.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 <a id="claim-t-85903"></a>
 - t-003
   global_id: t-85903
-  teiginys: 'Žemutinė, arba Kreivoji pilis.'
+  teiginys: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   pagrindžia:
     - c-004
 
@@ -119,6 +119,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - t-002
 
 - c-004
+  santrauka: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2. Žemutinė, arba Kreivoji pilis.

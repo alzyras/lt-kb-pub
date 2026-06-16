@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos].
+Vilniaus kapitulos archyve buvo didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos.
 
 ## Teiginiai
 
 <a id="claim-t-88247"></a>
 - t-001
   global_id: t-88247
-  teiginys: 'Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos].'
+  teiginys: 'Vilniaus kapitulos archyve buvo didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kapitulos archyve buvo didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta

@@ -5,7 +5,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1920 m.'
-  - '1921 m.'
   - '1923 m.'
 date_start: '1920'
 date_end: '1923'
@@ -23,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-1920 m. pradžioje Lietuva sutiko pradėti derybas. Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą. Semaško) argumentus, lietuviai patenkino dar vieną A.
+1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą. Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis 1920 m. liepos 12 d. taikos sutartį su Sovietų Rusija vertino kaip didelį Lietuvos diplomatijos laimėjimą. Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.
 
 ## Teiginiai
 
@@ -37,7 +36,7 @@ amziai:
 <a id="claim-t-75462"></a>
 - t-002
   global_id: t-75462
-  teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo Lietuvos diplomatijos laimėjimas mezgant santykius su Rusija ir Lenkija.'
+  teiginys: 'Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis 1920 m. liepos 12 d. taikos sutartį su Sovietų Rusija vertino kaip didelį Lietuvos diplomatijos laimėjimą.'
   pagrindžia:
     - c-008
 
@@ -55,36 +54,29 @@ amziai:
   pagrindžia:
     - c-002
 
-<a id="claim-t-75466"></a>
-- t-005
-  global_id: t-75466
-  teiginys: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-75468"></a>
-- t-006
+- t-005
   global_id: t-75468
   teiginys: 'Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-75469"></a>
-- t-007
+- t-006
   global_id: t-75469
   teiginys: '1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75471"></a>
-- t-009
+- t-008
   global_id: t-75471
   teiginys: 'Prie 1920 m. taikos sutarties 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-183368"></a>
-- t-011
+- t-010
   global_id: t-183368
   teiginys: 'Lietuviai sutiko į 1920 m. taikos sutartį įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
   pagrindžia:
@@ -108,7 +100,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -164,7 +156,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-005
   santrauka: 'Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
@@ -182,7 +174,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-006
   santrauka: '1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai.'
@@ -196,7 +188,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-007
   santrauka: '1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą.'
@@ -212,7 +204,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-008
   santrauka: 'Lietuviai sutiko įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje.'
@@ -235,21 +227,5 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
     - t-002
-
-- c-009
-  santrauka: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Liko ir teisinių kolizijų – Lenkijos ir
-    Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietu-
-    vos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos su-
-    tartį tarp Lietuvos ir Sovietų Rusijos. Pagal abiejų tų sutarčių punktus dėl
-    Vilniaus turėjo susitarti Lietuva ir Lenkija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-012
-    - t-005

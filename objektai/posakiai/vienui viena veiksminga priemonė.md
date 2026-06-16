@@ -53,7 +53,6 @@ Lenkai teigė, kad vienui viena veiksminga priemonė ginčui dėl Podolės baigt
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

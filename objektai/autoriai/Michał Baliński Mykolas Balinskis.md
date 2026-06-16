@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus. Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose. Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje.
+M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“. Rodyklė apima įvadą ir M. Balinskio veikalo vertimą. M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.
 
 ## Teiginiai
 
@@ -38,7 +38,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 <a id="claim-t-182788"></a>
 - t-002
   global_id: t-182788
-  teiginys: 'Balinskio veikalo vertimą.'
+  teiginys: 'Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.'
   pagrindžia:
     - c-004
 
@@ -170,6 +170,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
     - t-011
 
 - c-004
+  santrauka: 'Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anastazija, Dobrynės kunigaikštie­
@@ -423,7 +424,6 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vaidotas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/asmenys/Švitrigaila]]

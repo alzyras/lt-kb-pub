@@ -1,6 +1,6 @@
 ---
 tipas: posakis
-pavadinimas: 'gerumu galima ir laukinius žvėris sušvelninti.'
+pavadinimas: "gerumu galima ir laukinius žvėris sušvelninti."
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -8,11 +8,16 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-sukurta: ''
-atnaujinta: ''
+aliases:
+  - '„gerumu galima ir laukinius žvėris sušvelninti.“'
+  - 'objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“'
+variantai:
+  - '„gerumu galima ir laukinius žvėris sušvelninti.“'
 amziai:
   - 'XIV'
   - 'XXI'
+sukurta: ''
+atnaujinta: ''
 ---
 # gerumu galima ir laukinius žvėris sušvelninti.
 
@@ -25,30 +30,31 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - Pagrindinė forma: gerumu galima ir laukinius žvėris sušvelninti.
 
 ## Teiginiai
-
-<a id="claim-t-67291"></a>
+<a id="claim-t-186389"></a>
 - t-001
-  global_id: t-67291
+  global_id: t-186389
   teiginys: 'Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67292"></a>
+<a id="claim-t-186390"></a>
 - t-002
-  global_id: t-67292
+  global_id: t-186390
   teiginys: 'Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-67293"></a>
+<a id="claim-t-186391"></a>
 - t-003
-  global_id: t-67293
+  global_id: t-186391
   teiginys: 'Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-002
-
+<a id="claim-t-186392"></a>
+- t-004
+  global_id: t-186392
+  teiginys: 'Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -67,9 +73,8 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
-
+    - t-002
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -94,4 +99,3 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]

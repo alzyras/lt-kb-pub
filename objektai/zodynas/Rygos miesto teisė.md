@@ -57,4 +57,5 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/dešimtinė]]

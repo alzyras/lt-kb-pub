@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto. Legatų pranešime fiksuojami kryžiuočių ir Gedimino vidaus priešininkų grasinimai, o išvykdami legatai įsakė ketverius metus su Gediminu nekariauti, tikėdamiesi jo krikšto.
+1324 m. gegužės gale popiežiaus delegato pasiuntiniai platų pranešimą apie Vilniaus pokalbius baigė desperatišku prierašu. Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys. Per Vilniaus pokalbius pranešta, kad Prūsijos kryžiuočiai dovanomis skatino Žemaičių galinguosius sukilti prieš Gediminą.
 
 ## Laikotarpis ir datos
 
@@ -51,7 +51,7 @@ Nenurodyta
 <a id="claim-t-97041"></a>
 - t-002
   global_id: t-97041
-  teiginys: 'Išvykdami iš Livonijos, popiežiaus legatai įsakė su Gediminu nekariauti ketverius metus, nes buvo turima vilčių, kad per tą laiką Gediminas galįs pasikrikštyti.'
+  teiginys: 'Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys.'
   pagrindžia:
     - c-003
 
@@ -72,7 +72,7 @@ Nenurodyta
 <a id="claim-t-97044"></a>
 - t-005
   global_id: t-97044
-  teiginys: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus su Gediminu nekariauti, nes tikėjosi jo krikšto.'
+  teiginys: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.'
   pagrindžia:
     - c-002
 
@@ -107,6 +107,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Avignono 1325 m. sugrįžęs Rygos arki­

@@ -8,7 +8,6 @@ datos:
   - '1529 m.'
   - '1581 m.'
   - '1588 m.'
-  - '1605 m.'
   - '2026 m.'
 date_start: '1529'
 date_end: '2026'
@@ -24,49 +23,20 @@ amziai:
 
 ## Santrauka
 
-Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
+Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais.
 
 ## Teiginiai
 
-<a id="claim-t-182780"></a>
-- t-001
-  global_id: t-182780
-  teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-183633"></a>
-- t-002
+- t-001
   global_id: t-183633
   teiginys: 'Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-183634"></a>
-- t-003
-  global_id: t-183634
-  teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
-  pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvių
-    kairiojo sparno sėkmė labai padėjo cen-
-    tre besikaunantiems V. Vainos kariams.
-    Besitraukiantys švedų pėstininkai bandė
-    slėptis Salaspilio (Kircholmo) bažnyčioje.
-    Tačiau jų pasipriešinimas buvo palaužtas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -81,19 +51,4 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kova dėl Livonijos daugiausia buvo suin-
-    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
-    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
-    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
-    Rygą ir užvaldė Baltijos pakrantes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
+    - t-001

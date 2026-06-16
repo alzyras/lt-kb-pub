@@ -61,4 +61,5 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/Miera|miera]]

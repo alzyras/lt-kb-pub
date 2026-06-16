@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Ši formuluotė abiejuose šaltiniuose pateikiama kaip Algirdo politinės pretenzijos į Rusią formulė.
+Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams. Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.
 
 ## Forma
 
@@ -27,44 +27,22 @@ tags:
 - Omnis Russia ad Letwinos deberet simpliciter pertinere
 
 ## Teiginiai
-
 <a id="claim-t-05384"></a>
 - t-001
   global_id: t-05384
   teiginys: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-05385"></a>
 - t-002
   global_id: t-05385
   teiginys: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-10836"></a>
-- t-003
-  global_id: t-10836
-  teiginys: 'Algirdas pareiškė, kad visa Rusija turi priklausyti Lietuvai.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Algirdas pareiškė, kad visa Rusija turi priklausyti Lietuvai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gediminas laikė save „daugelio rusų" valdovu, o Algirdas
-    pareiškė: „Visa Rusija turi priklausyti Lietu-
-    vai".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -82,8 +60,7 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
+- c-002
   santrauka: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -98,9 +75,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Lietuviai]]

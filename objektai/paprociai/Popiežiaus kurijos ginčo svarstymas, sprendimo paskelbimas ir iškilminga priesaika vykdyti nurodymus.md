@@ -171,7 +171,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Pauli]]

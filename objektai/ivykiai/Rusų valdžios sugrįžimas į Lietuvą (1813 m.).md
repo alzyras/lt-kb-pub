@@ -31,40 +31,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66855"></a>
 - t-001
   global_id: t-66855
   teiginys: 'Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-66856"></a>
-- t-002
-  global_id: t-66856
-  teiginys: 'Po Napoleono į Lietuvą atsitraukė jo kariuomenės likučiai, kurie pakeliui plėšė gyventojus.'
-  pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Paskui Napoleoną atslinko į
-    Lietuvą ir jo kariuomenės likučiai. Išbadėjusi ir nuskurusi ka-
-    riuomenė pakeliui viską plėšė. Ypač nuo jos nukentėjo Vilnius.
-    Apiplėšusi gyventojus, ji čia paliko daug iš Rusijos atsinešto
-    grobio, pilnas ligonines sergančių ir sužeistų, o bazilijonų vie-
-    nuolyne net 7.500 lavonų. Pagaliau per Kauną ji pasitraukė į
-    Prūsus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: 'Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu ji dar tebetikėjo
@@ -75,9 +53,11 @@ Nenurodyta
     čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
     bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
     atėmė dvarus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

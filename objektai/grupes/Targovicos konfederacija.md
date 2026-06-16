@@ -12,22 +12,21 @@ date_start: '1773'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVIII'
+  - 'XXI'
 tags:
   - grupe
   - reforma
   - valstybė
-amziai:
-  - 'XVIII'
-  - 'XXI'
 ---
 # Targovicos konfederacija
 
 ## Santrauka
 
-Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija. Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą. Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.
+Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d. 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną. Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.
 
 ## Teiginiai
-
 <a id="claim-t-182712"></a>
 - t-001
   global_id: t-182712
@@ -38,7 +37,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 <a id="claim-t-182713"></a>
 - t-002
   global_id: t-182713
-  teiginys: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją.'
+  teiginys: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.'
   pagrindžia:
     - c-001
 
@@ -48,11 +47,12 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginys: 'Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją.'
+  santrauka: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi lemtis nedavė Lenkijai ir Lietuvai XVIII  a. pabaigoje garbin-
@@ -68,7 +68,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +89,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Targovicos konfederaciją suorganizavo Rusija, remdama reformų priešus savo kariuomene.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -102,9 +100,11 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     skelbimo vietos yra vadinama Targovicos konfederacija.
 
     ##### 4.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

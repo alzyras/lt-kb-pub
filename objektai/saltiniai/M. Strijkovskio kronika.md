@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.
+Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes. Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą. Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.
 
 ## Bibliografiniai duomenys
 
@@ -51,7 +51,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-55222"></a>
 - t-003
   global_id: t-55222
-  teiginys: 'Balińskis teigia, kad Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.'
+  teiginys: 'Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi.'
   pagrindžia:
     - c-002
 
@@ -121,7 +121,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 <a id="claim-t-173001"></a>
 - t-018
   global_id: t-173001
-  teiginys: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
+  teiginys: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ tapo parankine Lietuvos bajorijos knyga.'
   pagrindžia:
     - c-006
 
@@ -301,7 +301,7 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
     - t-006
 
 - c-006
-  santrauka: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio kronika tapo parankine Lietuvos bajorijos knyga.'
+  santrauka: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ tapo parankine Lietuvos bajorijos knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-

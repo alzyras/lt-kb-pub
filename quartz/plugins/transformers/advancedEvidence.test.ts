@@ -28,6 +28,7 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /id="claim-t-00042"/)
     assert.match(transformed, /data-global-claim-id="t-00042"/)
     assert.match(transformed, /href="#claim-t-00042"/)
+    assert.match(transformed, /data-no-popover="true"/)
     assert.match(transformed, /data-supporting-ids="c-001"/)
     assert.doesNotMatch(transformed, /global_id: t-00042/)
     assert.match(transformed, /data-citation-entry="true"/)

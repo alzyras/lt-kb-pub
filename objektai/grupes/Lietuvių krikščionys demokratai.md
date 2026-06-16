@@ -18,27 +18,21 @@ amziai:
 
 ## Santrauka
 
-Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
+Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
 
 ## Teiginiai
 
-<a id="claim-t-74626"></a>
-- t-001
-  global_id: t-74626
-  teiginys: 'Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stiprinimu.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-74627"></a>
-- t-002
+- t-001
   global_id: t-74627
-  teiginys: 'Lietuvių krikščionims demokratams padėjo lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nestatė.'
+  teiginys: 'Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartu su
@@ -54,24 +48,6 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vyskupi-
-    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
-    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
-    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
-    nimu. Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
-    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
-    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
-    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
-    1902 m. „Varpą“ leidusios organizacijos pagrindu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
@@ -80,4 +56,3 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lenkų krikščionys demokratai]]
-- [[objektai/grupes/Lietuvos demokratų partija]]

@@ -121,5 +121,4 @@ Nenurodyta
 - [[objektai/asmenys/Kiška]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Netimeras]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai]]

@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms. Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.
+Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą. Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus. Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
 
 ## Teiginiai
 
 <a id="claim-t-87425"></a>
 - t-001
   global_id: t-87425
-  teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. pirmasis Vilniaus vietoje turėjo įkurdinti vaidilą.'
+  teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą.'
   pagrindžia:
     - c-003
 
@@ -138,7 +138,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-003
 
 - c-003
-  santrauka: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. pirmasis Vilniaus vietoje turėjo įkurdinti vaidilą.'
+  santrauka: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netgi kai kuriuose Jogailos au­
@@ -254,13 +254,13 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Giliginas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/asmenys/Trobius]]
 - [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Leonas]]

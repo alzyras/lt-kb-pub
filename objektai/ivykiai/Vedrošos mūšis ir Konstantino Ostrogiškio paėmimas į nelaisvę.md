@@ -141,6 +141,7 @@ Nenurodyta
 - [[objektai/daiktai/Kardas]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Teodoras]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/asmenys/Bogdanas Maskevičius]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/asmenys/Teodoras Nemyra]]

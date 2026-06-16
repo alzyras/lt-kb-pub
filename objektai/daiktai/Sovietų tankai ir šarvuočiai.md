@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Sovietų tankai ir šarvuočiai šaltinyje minimi kaip karinė technika, judėjusi Vilniaus gatvėmis ir dalyvavusi Sausio 13-osios smurtiniuose veiksmuose prie televizijos bokšto ir Lietuvos radijo bei televizijos komiteto pastato.
+Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai. Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą. Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.
 
 ## Pavadinimai šaltiniuose
 
@@ -61,20 +61,22 @@ Nenurodyta
 <a id="claim-t-13462"></a>
 - t-002
   global_id: t-13462
-  teiginys: 'Sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.'
+  teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-13463"></a>
 - t-003
   global_id: t-13463
-  teiginys: 'Sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
+  teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
   pagrindžia:
+    - c-001
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aplink

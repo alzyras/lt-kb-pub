@@ -128,6 +128,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Gotfridas Lindenas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/komtūras]]

@@ -22,20 +22,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (1413).
+1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas. 1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.
 
 ## Teiginiai
 
 <a id="claim-t-28988"></a>
 - t-001
   global_id: t-28988
-  teiginys: 'Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (1413).'
+  teiginys: '1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Imperatoriaus
@@ -51,7 +52,7 @@ Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (
     - t-001
 
 - c-002
-  santrauka: 'Imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas (1413).'
+  santrauka: '1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po Žalgirio kautynių ir Torno taikos, dvylika metų Žemaičių

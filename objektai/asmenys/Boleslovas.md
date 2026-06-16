@@ -11,54 +11,35 @@ date_start: '1224'
 date_end: '1225'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigaikštis
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+tags:
+  - asmuo
+  - kunigaikštis
 ---
 # Boleslovas
 
 ## Santrauka
 
-Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3) Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo), 5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo. Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės. Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 
 ## Teiginiai
-
-<a id="claim-t-89675"></a>
-- t-001
-  global_id: t-89675
-  teiginys: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-89676"></a>
 - t-002
   global_id: t-89676
   teiginys: 'Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos valstybei grėsė pavo-
-    jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
-    kiai padidėjo ordino puolimai, ir vienam, ordino pasienį valdan-
-    čiam, Kęstučiui būtų buvę sunku atsispirti.
-    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
-    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
-    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,11 +67,28 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
   statusas: verified
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos valstybei grėsė pavo-
+    jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
+    kiai padidėjo ordino puolimai, ir vienam, ordino pasienį valdan-
+    čiam, Kęstučiui būtų buvę sunku atsispirti.
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Adynos|adynos]]
@@ -101,14 +99,14 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - [[objektai/grupes/Lenkijos senatas]]
 - [[objektai/grupes/Lenkų senatas]]
 - [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/asmenys/Petras (Krokuvos vaivada)]]
 - [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai]]
 - [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/paprociai/Valdovo deginimas ant laidotuvių laužo ir atminimo vietos sakralizavimas]]
 - [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lenčicos žudynės]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]
 - [[objektai/ivykiai/Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
@@ -116,6 +114,7 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/ivykiai/Boleslovo, Mazovijos kunigaikščio, Palenkės užėmimas (1440 m.)]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]
 - [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]

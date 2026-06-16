@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes. Ukmergės mūšis (1435 m.).
+1435 m. rugsėjo 1 d. mūšis įvyko per pusantros mylios nuo Ukmergės, prie kelio į Vilnių. Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija. Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
 
 ## Teiginiai
 
@@ -119,7 +119,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 <a id="claim-t-180717"></a>
 - t-013
   global_id: t-180717
-  teiginys: '1919 m. gegužės 24 d. Silvestras Žukauskas įsakė Kaziui Ladygai vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.'
+  teiginys: '1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.'
   pagrindžia:
     - c-005
 
@@ -130,17 +130,10 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-012
 
-<a id="claim-t-180720"></a>
-- t-016
-  global_id: t-180720
-  teiginys: '1919 m. gegužės 24 d. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-180722"></a>
 - t-017
   global_id: t-180722
-  teiginys: 'Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas.'
+  teiginys: 'Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos.'
   pagrindžia:
     - c-012
 
@@ -165,43 +158,36 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-006
 
-<a id="claim-t-180728"></a>
-- t-023
-  global_id: t-180728
-  teiginys: '1435 m. netoli Ukmergės Švitrigailai kelią pastojo Mykolo vadovaujama lietuvių ir lenkų kariuomenė.'
-  pagrindžia:
-    - c-009
-
 <a id="claim-t-180729"></a>
-- t-024
+- t-023
   global_id: t-180729
   teiginys: 'Ukmergėje buvo įkurta pijarų mokykla, priklausiusi jų kolegijų ir žemesniųjų mokyklų tinklui.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-180730"></a>
-- t-025
+- t-024
   global_id: t-180730
   teiginys: 'Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse.'
   pagrindžia:
     - c-014
 
 <a id="claim-t-180731"></a>
-- t-026
+- t-025
   global_id: t-180731
   teiginys: 'Livonijos magistro kariuomenė prisijungė prie jungtinių pajėgų, kurios Užnerio puse žygiavo į Vilkmergę (Ukmergę).'
   pagrindžia:
     - c-001
 
 <a id="claim-t-180732"></a>
-- t-027
+- t-026
   global_id: t-180732
   teiginys: 'Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-180733"></a>
-- t-028
+- t-027
   global_id: t-180733
   teiginys: 'Ukmergė minima tarp vietų, kuriose buvo įkurtos pijarų kolegijos arba žemesniosios mokyklos.'
   pagrindžia:
@@ -227,7 +213,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-025
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -390,7 +376,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-012
-    - t-027
+    - t-026
 
 - c-009
   santrauka: '1435 m. netoli Ukmergės Švitrigailai kelią pastojo Mykolo vadovaujama lietuvių ir lenkų kariuomenė.'
@@ -406,7 +392,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
     - t-010
 
 - c-010
@@ -487,8 +472,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
-    - t-028
+    - t-027
+    - t-023
 
 - c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -505,7 +490,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-019
-    - t-025
+    - t-024
 
 - c-015
   santrauka: 'Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę.'

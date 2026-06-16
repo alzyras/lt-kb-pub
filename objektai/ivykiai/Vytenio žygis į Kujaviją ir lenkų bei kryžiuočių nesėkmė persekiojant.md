@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vytenis per Mazovijos kunigaikščiui Boleslovui pavaldžias žemes nuvedė kariuomenę į Lenkiją, nuniokojo Kujaviją ir išsigabeno gausų grobį.
+Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -29,14 +29,14 @@ Nenurodyta
 <a id="claim-t-185837"></a>
 - t-001
   global_id: t-185837
-  teiginys: 'Vytenis per Mazovijos kunigaikščiui Boleslovui pavaldžias žemes nuvedė kariuomenę į Lenkiją, nuniokojo Kujaviją ir išsigabeno gausų grobį.'
+  teiginys: 'Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vytenis per Mazovijos kunigaikščiui Boleslovui pavaldžias žemes nuvedė kariuomenę į Lenkiją, nuniokojo Kujaviją ir išsigabeno gausų grobį.'
+  santrauka: 'Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vė­
@@ -78,4 +78,6 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytenis]]

@@ -46,6 +46,8 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 ### Susiję objektai
 - [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/žygūnas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/grupes/Lietuvos luomai]]

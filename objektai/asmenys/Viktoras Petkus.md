@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo. Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.
+Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei. Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų. Sovietinė valdžia suimdavo ir nuteisdavo kai kuriuos disidentus, tarp jų Balį Gajauską ir Viktorą Petkų.
 
 ## Teiginiai
 
 <a id="claim-t-19313"></a>
 - t-001
   global_id: t-19313
-  teiginys: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė 1976 m. Vilniuje įsikūrusiai Helsinkio grupei.'
+  teiginys: 'Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Viktoras Petkus buvo buvęs politinis kalinys ir priklausė 1976 m. Vilniuje įsikūrusiai Helsinkio grupei.'
+  santrauka: 'Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-

@@ -137,7 +137,6 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/zodynas/prokuratorius ir provizorius]]

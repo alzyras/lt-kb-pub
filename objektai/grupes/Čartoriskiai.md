@@ -18,7 +18,6 @@ tags:
 Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būklėje dėl valdžios kovojančios Čartoriskių ir Potockių partijos gerai suprato reformų reikalą, bet kiekviena tuo tarpu apie tai nekalbėjo. Antroji Čartoriskių svarbi reforma lietė seimą.
 
 ## Teiginiai
-
 <a id="claim-t-45273"></a>
 - t-001
   global_id: t-45273
@@ -27,7 +26,6 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -57,15 +55,12 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/asmenys/Jekaterina II]]
-- [[objektai/grupes/Karo ir iždo komisijos]]
 - [[objektai/asmenys/Karolis Stanislovas Radvila]]
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/grupes/Nuolatinė Taryba]]
-- [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]
-- [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/grupes/Sanguškos]]

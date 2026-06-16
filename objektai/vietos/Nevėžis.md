@@ -4,6 +4,7 @@ pavadinimas: 'Nevėžis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1384 m.'
@@ -26,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
+Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė. Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio. Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
 
 ## Teiginiai
 
@@ -64,6 +65,13 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginys: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187626"></a>
+- t-006
+  global_id: t-187626
+  teiginys: 'Žemaičiai sustojo anapus Nevėžio, ketindami stoti į mūšį su didžiuoju kunigaikščiu Kazimieru.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -157,3 +165,26 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-006
+  santrauka: 'Žemaičiai sustojo anapus Nevėžio, ketindami stoti į mūšį su didžiuoju kunigaikščiu Kazimieru.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras labai
+    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
+    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
+    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
+    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
+    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
+    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
+    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
+    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
+    didžiuoju kunigaikščiu Kazimieru I S .
+    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
+    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
+    gaikšti Kazimierai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006

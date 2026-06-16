@@ -178,6 +178,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]

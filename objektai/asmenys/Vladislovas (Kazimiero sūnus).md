@@ -16,17 +16,18 @@ tags:
 Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių.
 
 ## Teiginiai
-
 <a id="claim-t-64248"></a>
 - t-001
   global_id: t-64248
   teiginys: 'Vladislovas buvo Čekų ir Vengrų karalius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vladislovas buvo Čekų ir Vengrų karalius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     (Vičulkovskio paveikslas).
@@ -36,9 +37,11 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
     Vladislovas buvo Čekų ir Vengrų karalius; kitas jo sūnus, Jonas
     Albrechtas, buvo tėvo įpėdinis — Lenkų karalius, o sūnus Alek-
     sandras — didysis Lietuvos kunigaikštis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -51,3 +54,4 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/įpėdinis]]

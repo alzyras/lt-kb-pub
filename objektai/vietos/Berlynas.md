@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Brandenburgo elektoriaus Berlyne.
+Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą. Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui. 1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170286"></a>
 - t-002
   global_id: t-170286
-  teiginys: 'Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė Lietuvos deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
+  teiginys: 'Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   pagrindžia:
     - c-010
 
@@ -85,7 +85,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170294"></a>
 - t-009
   global_id: t-170294
-  teiginys: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
+  teiginys: 'Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.'
   pagrindžia:
     - c-011
 
@@ -113,7 +113,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 <a id="claim-t-170300"></a>
 - t-015
   global_id: t-170300
-  teiginys: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
+  teiginys: 'Dėl lietuvių kalbos ir judėjimo suvaržymų, atsišaukimų autorių areštų ir mokytojų deportacijų lietuviai skundėsi Berlynui.'
   pagrindžia:
     - c-009
 
@@ -289,6 +289,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-003
 
 - c-009
+  santrauka: 'Dėl lietuvių kalbos ir judėjimo suvaržymų, atsišaukimų autorių areštų ir mokytojų deportacijų lietuviai skundėsi Berlynui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
@@ -305,7 +306,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-015
 
 - c-010
-  santrauka: 'Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė Lietuvos deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
+  santrauka: 'Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
@@ -327,6 +328,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     - t-002
 
 - c-011
+  santrauka: 'Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti

@@ -56,3 +56,4 @@ Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė ke
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
+- [[objektai/zodynas/vergas]]

@@ -20,7 +20,6 @@ amziai:
 Valstybinė santvarka po Liublino unijos.
 
 ## Teiginiai
-
 <a id="claim-t-72004"></a>
 - t-001
   global_id: t-72004
@@ -43,7 +42,6 @@ Valstybinė santvarka po Liublino unijos.
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -63,7 +61,6 @@ Valstybinė santvarka po Liublino unijos.
   pagrindžia:
     - t-002
     - t-001
-
 - c-002
   santrauka: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -102,7 +99,6 @@ Valstybinė santvarka po Liublino unijos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/santvarka]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
@@ -111,6 +107,7 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
+- [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
@@ -130,7 +127,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
@@ -147,7 +143,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Ivanas Rūstusis]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Jachna Laurinavičius]]
-- [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
@@ -170,6 +165,7 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.)]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]]
 - [[objektai/ivykiai/LDK kanclerio pareigų įsteigimas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkijos bajorija]]
@@ -178,7 +174,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
-- [[objektai/grupes/Lenkų karalystė]]
 - [[objektai/grupes/Lenkų senatas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių bajorija]]
@@ -186,7 +181,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Lietuvos seimas (XVI a.)]]
 - [[objektai/grupes/Liublino seimas]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Liudvikas (Torunės komtūras)]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
@@ -209,7 +203,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
 - [[objektai/ivykiai/Salyno sutartis]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/grupes/Stačiatikiai]]
@@ -237,11 +230,9 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/atskiri seimai]]
 - [[objektai/zodynas/aukso laisvė]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
@@ -277,7 +268,7 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/zodynas/vaivada kaštelionas]]
 - [[objektai/zodynas/valstybingumo sąmonė]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Žemaičiai]]

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų. Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.
+Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau. Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu. Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-169871"></a>
 - t-001
   global_id: t-169871
-  teiginys: 'Po Lietuvos ir Žemaitijos krikšto buvo sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos gyvavo toliau.'
+  teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
   pagrindžia:
     - c-002
 
@@ -109,7 +109,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/gotika]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]

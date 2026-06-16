@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt.
+M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais. 1289 m. balandžio 23 d. brolis Meinhardas su kariuomene įžengė į skalvių žemę ir Nemuno pakrantėje pastatė Landeshutės pilį. Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė.
 
 ## Teiginiai
 
@@ -97,7 +97,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-89221"></a>
 - t-011
   global_id: t-89221
-  teiginys: 'Dusburgietis teigia, kad pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
+  teiginys: 'Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
   pagrindžia:
     - c-010
 
@@ -111,7 +111,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 <a id="claim-t-89223"></a>
 - t-013
   global_id: t-89223
-  teiginys: 'Dusburgietis teigia, kad skalvos centras buvo Ragainė (dab.'
+  teiginys: 'Skalvos centras buvo Ragainė (dab.'
   pagrindžia:
     - c-001
 
@@ -139,6 +139,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skalvos centras buvo Ragainė (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     198  D.— Scalowia, in qua Scalowite, Jer.— Schalowen. Teritorija abipus Nemuno
@@ -364,7 +365,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Becenbergeris]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/daiktai/Laivai]]

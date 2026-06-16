@@ -16,7 +16,6 @@ tags:
 Smetonos, redaguojamoji „Viltis".
 
 ## Teiginiai
-
 <a id="claim-t-45773"></a>
 - t-001
   global_id: t-45773
@@ -24,8 +23,7 @@ Smetonos, redaguojamoji „Viltis".
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

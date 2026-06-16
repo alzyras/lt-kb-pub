@@ -65,9 +65,8 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti]]
 - [[objektai/grupes/Skalviai]]

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti. Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.
+Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus. Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis. Neseniai pažintų patrankų padariniai ir anglų lankininkų narsa lėmė didelius Lietuvos patirtus smūgius.
 
 ## Pavadinimai šaltiniuose
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-87025"></a>
 - t-002
   global_id: t-87025
-  teiginys: 'Dlugošo tekste prūsiškos bombardos minimos kaip stovėjusios pievoje prie medžio, kur buvo kankinamas Narimundas.'
+  teiginys: 'Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis.'
   pagrindžia:
     - c-002
 
@@ -92,7 +92,7 @@ Nenurodyta
     - t-003
 
 - c-002
-  santrauka: 'Dlugošo tekste prūsiškos bombardos minimos kaip stovėjusios pievoje prie medžio, kur buvo kankinamas Narimundas.'
+  santrauka: 'Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-
@@ -135,6 +135,7 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/daiktai/Lankai, strėlės ir šaudyklės]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]

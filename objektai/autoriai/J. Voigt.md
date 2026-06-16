@@ -12,14 +12,13 @@ tags:
 
 ## Santrauka
 
-Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
+J. Voigtas 1827–1838 m. išleido devynių tomų veikalą „Geschichte Preussens“, kuriame nagrinėjo kryžiuočių santykius su Lietuva. J. Voigtas 1827–1838 m. devynių tomų veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m.
 
 ## Teiginiai
-
 <a id="claim-t-71512"></a>
 - t-001
   global_id: t-71512
-  teiginys: 'J. Voigtas 1857–1859 m. atskirai išleido „Geschichte des deutschen Ritterordens“ ir CDPr.'
+  teiginys: 'J. Voigtas 1827–1838 m. išleido devynių tomų veikalą „Geschichte Preussens“, kuriame nagrinėjo kryžiuočių santykius su Lietuva.'
   pagrindžia:
     - c-001
 
@@ -31,7 +30,6 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

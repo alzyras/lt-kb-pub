@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­ veno.
+XII–XIII a. sąvartoje latvių gyvenama sritis dešiniajame Dauguvos krante driekėsi nuo Aizkrauklės iki Burtnieko ežero. Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
 <a id="claim-t-67605"></a>
 - t-002
   global_id: t-67605
-  teiginys: 'Dusburgietis teigia, kad aizkrauklė (buv.'
+  teiginys: 'Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Aizkrauklė šaltinio rodyklėje tapatinama su buvusia Ašerade.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aizkrauklė (buv. Ašeradė)

@@ -57,6 +57,7 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]

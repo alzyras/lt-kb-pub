@@ -1,48 +1,60 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus vaivadija'
+variantai:
+  - 'Vilniaus vaivadijas'
+aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+laikotarpis: ''
+datos:
+  - 'nuo 1502 m.'
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XVI'
+date_start: '1502'
+date_end: '1502'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: ''
 tags:
-  - kraštas
-  - pilis
   - vieta
 ---
 # Vilniaus vaivadija
 
 ## Santrauka
 
-Krašto padalinimas į pavietus ir vaivadijas.
+Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.
 
 ## Teiginiai
-
-<a id="claim-t-74016"></a>
+<a id="claim-t-187383"></a>
 - t-001
-  global_id: t-74016
-  teiginys: 'Iš Vilniaus vaivadijos buvo išskirti Ašmenos, Lydos, Ukmergės ir Breslaujos pavietai.'
+  global_id: t-187383
+  teiginys: 'Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.'
   pagrindžia:
     - c-001
-
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 'Iš Vilniaus vaivadijos buvo išskirti Ašmenos, Lydos, Ukmergės ir Breslaujos pavietai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
-    Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
-    tas jau anksčiau buvo padalintas į vaivadijas, ir didelių sričių,
-    buvusiųjų kunigaikštysčių, vietininkai jau buvo gavę vaivadų
-    vardą dar XVI amž. pradžioje. Įvedant naujuosius teismus,
-    buvo sudaryti teisminiai pavietai. Kai kurie iš jų sutapo su
-    vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti
-    net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta
-    Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaiva-
-    dijos — Gardino, Kauno ir Upytės pavietai. Pilies teismai
-    pavietuose priklausė seniūnams, o vaivadijose — vaivadoms.
-  citata_rodoma: ''
+    BK autoriaus ypatingas dėmesys kovoms su Krymo totoriais,
+    pradedant 1502 m., paaiškinamas, be kitko, tuo, kad iki 1502 m.
+    Krymo totoriai tenkinosi pietinių LDK sričių — Podolės ir Voly­
+    nės — niokojimu, o  nuo 1502 m. persim etė | šiaurę nuo Pripetės
+    pelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­
+    duko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+    - t-002

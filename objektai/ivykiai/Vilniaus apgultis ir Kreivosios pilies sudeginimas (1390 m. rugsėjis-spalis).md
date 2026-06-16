@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-1390 m. rugsėjį kryžiuočių, užsienio riterių ir Vytauto pajėgos apsupo Vilnių. Po puolimo sudegė Kreivoji, arba Žemutinė, pilis, o Aukštutinę pilį penkias savaites gynė Mikalojus Moskoževskis; pasakojime apgultis vaizduojama kaip sunkus smūgis Lietuvos sostinei.
+Mikalojus Moskoževskis penkias savaites atrėmė apgulėjų antpuolius Aukštutinės pilies gynyboje. 1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos. Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.
 
 ## Laikotarpis ir datos
 
@@ -62,7 +62,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 <a id="claim-t-54712"></a>
 - t-003
   global_id: t-54712
-  teiginys: 'Apgultis buvo smūgis Lietuvos sostinei: didelė dalis gyventojų žuvo, pats miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.'
+  teiginys: 'Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.'
   pagrindžia:
     - c-003
 
@@ -109,6 +109,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
     - t-001
 
 - c-003
+  santrauka: 'Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta nelaiminga ap­

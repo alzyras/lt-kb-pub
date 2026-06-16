@@ -5,61 +5,35 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1350 m.'
-  - '1409 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - bajorija
   - ordinas
   - sąvoka
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # įkaitai
 
 ## Santrauka
 
-Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.
+Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.
 
 ## Teiginiai
-
-<a id="claim-t-168696"></a>
-- t-001
-  global_id: t-168696
-  teiginys: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-182994"></a>
-- t-002
-  global_id: t-182994
+- t-004
   teiginys: 'Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet
-    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
-    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
-    sulaukė visuotinio sukilimo. Vytautas pats dar laikėsi nuošaliai,
-    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
-    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
-    o jie patys buvo išvyti iš Žemaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -67,17 +41,17 @@ amziai:
     nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių
     prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
     vežti į Pavyslį, kaip įkaitai. Ordino valdžia buvo labai žiauri.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
 - [[objektai/asmenys/Gediminas]]
@@ -86,6 +60,7 @@ amziai:
 - [[objektai/autoriai/J. Posilge]]
 - [[objektai/asmenys/Jonas von Posilge]]
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Maudelis]]
 - [[objektai/asmenys/Mstivojus]]
 - [[objektai/grupes/Nadruviai]]
@@ -107,9 +82,8 @@ amziai:
 - [[objektai/zodynas/bažnyčios visuotinybė]]
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/posakiai/Žemaičių skundas]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
 - [[objektai/ivykiai/Apuolės apgula (853 m.)]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
+- [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/grupes/Pamedėnai]]

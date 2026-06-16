@@ -46,5 +46,4 @@ Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/statutas]]

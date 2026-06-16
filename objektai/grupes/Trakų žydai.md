@@ -59,7 +59,6 @@ Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiem
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/posakiai/Viešpaties vardu Amen]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Žygimantas]]

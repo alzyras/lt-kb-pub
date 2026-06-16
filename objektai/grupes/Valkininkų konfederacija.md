@@ -24,33 +24,26 @@ amziai:
 
 ## Santrauka
 
-Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t. Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais, jų turėtus urėdus atimtais.
+Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus. Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau. Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
 
 ## Teiginiai
 
-<a id="claim-t-78530"></a>
-- t-001
-  global_id: t-78530
-  teiginys: 'Valkininkų konfederaciją sudariusi bajorija pasižadėjo nesiskirstyti, kol bus sunaikinti Sapiegos.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-78531"></a>
-- t-002
+- t-001
   global_id: t-78531
-  teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir konfiskuoti Sapiegų dvarai.'
+  teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-78532"></a>
-- t-003
+- t-002
   global_id: t-78532
   teiginys: 'Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-78533"></a>
-- t-004
+- t-003
   global_id: t-78533
   teiginys: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
   pagrindžia:
@@ -80,8 +73,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-002
+    - t-004
+    - t-001
 
 - c-002
   santrauka: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
@@ -106,25 +99,9 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau Sapiegų priešų jėgos
-    buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
-    Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
-    samdytos kariuomenės — savo dvarų milicijos. Bajorija sudarė
-    konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
-    Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o
-    regimentorium (karo vadu) — Mykolas Višniaveckis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
   santrauka: 'Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -137,18 +114,13 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/grupes/Sapiegos]]
 - [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]

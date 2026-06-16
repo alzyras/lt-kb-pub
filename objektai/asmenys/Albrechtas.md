@@ -48,7 +48,6 @@ tags:
 - [[objektai/asmenys/Albrechtas iš Hageno]]
 - [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
 - [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
-- [[objektai/grupes/Krimo orda]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
 - [[objektai/asmenys/Sudargas]]

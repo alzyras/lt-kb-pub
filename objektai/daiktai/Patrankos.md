@@ -10,12 +10,12 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - daiktas
-  - ginklas
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - daiktas
+  - ginklas
 ---
 # Patrankos
 
@@ -44,7 +44,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-176197"></a>
 - t-001
   global_id: t-176197
@@ -102,7 +101,6 @@ Nenurodyta
     - c-005
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -117,7 +115,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -130,7 +127,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -152,7 +148,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -167,7 +162,6 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-006
-
 - c-005
   santrauka: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -184,7 +178,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -199,7 +192,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -227,11 +219,9 @@ Nenurodyta
 - [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/zodynas/Kartečė]]
 - [[objektai/asmenys/M. Dejevas]]
 - [[objektai/daiktai/Patranka Hidra]]
 - [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
-- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė]]

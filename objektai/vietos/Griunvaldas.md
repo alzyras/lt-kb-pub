@@ -3,7 +3,9 @@ tipas: vieta
 pavadinimas: 'Griunvaldas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -11,40 +13,31 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - mūšis
   - ordinas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Griunvaldas
 
 ## Santrauka
 
-Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
+1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
 
 ## Teiginiai
-
 <a id="claim-t-63395"></a>
 - t-001
   global_id: t-63395
-  teiginys: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordiną.'
+  teiginys: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-183019"></a>
-- t-002
-  global_id: t-183019
-  teiginys: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordiną.'
+  santrauka: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos mūšiai 15
@@ -63,28 +56,3 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl vienas dideles savo jėgas jis paliko sau-
-    goti pilių nuo Lietuvos, o kitas paliko Pamary saugoti nuo Len-
-    kų. Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino
-    žemėje, tarp Tanenbergo ir Griunvaldo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-
-- c-003
-  santrauka: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet sąjungininkų planas buvo kitoks. Mūšis įvyko ordino
-    žemėje, tarp Tanenbergo ir Griunvaldo.
-    Ordinas prisikvietė daugybę svečių ir samdytos kariuome-
-    nės iš vakarų Europos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

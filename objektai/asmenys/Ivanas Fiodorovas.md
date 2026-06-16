@@ -19,7 +19,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodkevičiai priglobė Zabluduvo spaustuvėje.
+Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai. Chodkevičiai priglobė Ivaną Fiodorovą Zabluduvo spaustuvėje, o jis nulėmė jos stačiatikišką pobūdį. 1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, kuris nulėmė stačiatikišką spaustuvės pobūdį.
 
 ## Teiginiai
 
@@ -40,7 +40,7 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 <a id="claim-t-23200"></a>
 - t-003
   global_id: t-23200
-  teiginys: '1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką spaustuvės pobūdį.'
+  teiginys: '1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, kuris nulėmė stačiatikišką spaustuvės pobūdį.'
   pagrindžia:
     - c-001
 

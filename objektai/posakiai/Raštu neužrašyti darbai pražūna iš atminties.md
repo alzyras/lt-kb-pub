@@ -123,7 +123,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lotynai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]

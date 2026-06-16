@@ -54,4 +54,5 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]

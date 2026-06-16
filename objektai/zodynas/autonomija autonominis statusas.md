@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos. Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos. Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.
+Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms. Pirmojo pasaulinio karo metais Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija nežadėjo Lietuvai autonomijos. Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 <a id="claim-t-70095"></a>
 - t-003
   global_id: t-70095
-  teiginys: 'Ar Varšuva nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politikos?'
+  teiginys: 'Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.'
   pagrindžia:
     - c-004
 
@@ -46,6 +46,13 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183399"></a>
+- t-005
+  global_id: t-183399
+  teiginys: 'Svarstydami Vilnijos autonomiją autoriai kėlė klausimą, ar lietuvių kalba galėjo tapti bent lygiateise su lenkų kalba Vilnijoje.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -99,6 +106,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-002
 
 - c-004
+  santrauka: 'Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tikėtiniau, kad kantoninė
@@ -115,7 +123,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
     - t-003
 
 - c-005
-  santrauka: 'Ar Varšuva nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politikos?'
+  santrauka: 'Svarstydami Vilnijos autonomiją autoriai kėlė klausimą, ar lietuvių kalba galėjo tapti bent lygiateise su lenkų kalba Vilnijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neabejotina, kad lenkų ir lietuvių liberalai būtų sutarę, tačiau kaip būtų
@@ -133,7 +141,6 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/kantonas kantoninis principas]]

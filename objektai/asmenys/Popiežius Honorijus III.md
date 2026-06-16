@@ -58,5 +58,4 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
 - [[objektai/daiktai/Ordino magistro valdžios žymenys]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]
-- [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
 - [[objektai/grupes/Mokinių slėnio brolių ordinas]]

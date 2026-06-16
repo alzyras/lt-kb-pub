@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus mirė carienė Elžbieta, caras Petras III buvo pašalintas nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė). Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vadovauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir vakarų Europos konfliktus, ir jos žodis ten nusverdavo.
+Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas. Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis. Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.
 
 ## Teiginiai
 
@@ -35,9 +35,9 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 <a id="claim-t-63843"></a>
 - t-003
   global_id: t-63843
-  teiginys: 'Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vadovauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir vakarų Europos konfliktus, ir jos žodis ten nusverdavo.'
+  teiginys: 'Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.'
   pagrindžia:
-    - c-006
+    - c-005
 
 <a id="claim-t-63844"></a>
 - t-004
@@ -46,22 +46,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   pagrindžia:
     - c-003
 
-<a id="claim-t-63845"></a>
-- t-005
-  global_id: t-63845
-  teiginys: '1787 m. Kotryna II Dniepru keliavo aplankyti Rusijos neseniai užkariauto Krimo.'
-  pagrindžia:
-    - c-005
-
-<a id="claim-t-63846"></a>
-- t-006
-  global_id: t-63846
-  teiginys: 'Užėmusi Lietuvą, Kotryna II buvo įvedusi joje ir rusų teisę (įstatymus).'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-63849"></a>
-- t-007
+- t-005
   global_id: t-63849
   teiginys: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
   pagrindžia:
@@ -82,7 +68,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -136,19 +122,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     - t-001
 
 - c-005
-  santrauka: '1787 m. Kotryna II Dniepru keliavo aplankyti Rusijos neseniai užkariauto Krimo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1787 m. Kotryna Dniepru keliavo aplankyt Rusijos neseniai
-    užkariauto Krimo. Pakeliui (Kaneve) ji susitiko su buvusiu prieš
-    25 m. savo mylimuoju Stanislovu Augustu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-006
+  santrauka: 'Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo Petro laikų su
@@ -164,19 +138,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   pagrindžia:
     - t-003
 
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik vieni valstiečiai neturėjo jokių
-    savivaldybės organų.
-    Lietuvoje veikusios teisės. Užėmusi Lietuvą, Kotryna II
-    buvo įvedusi joje ir rusų teisę (įstatymus).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
@@ -185,3 +146,4 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Čartoriskiai]]
+- [[objektai/zodynas/įpėdinis]]

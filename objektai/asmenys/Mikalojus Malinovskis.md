@@ -87,5 +87,4 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 - [[temos/schema]]
 
 ### Susiję objektai
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/senatas]]

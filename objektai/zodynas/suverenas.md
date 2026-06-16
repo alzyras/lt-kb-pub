@@ -53,6 +53,5 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
 - [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/sritinė kunigaikštystė]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/zodynas/federacinė valstybė]]

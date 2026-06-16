@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs Karaliaučiaus apylinkes, pasigailėjęs į nelaisvę patekusio Hirtshalso, o galiausiai kryžiuočių sučiuptas ir nužudytas.
+Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį. Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo. Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų.
 
 ## Teiginiai
 
@@ -67,7 +67,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175191"></a>
 - t-006
   global_id: t-175191
-  teiginys: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
+  teiginys: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
   pagrindžia:
     - c-009
 
@@ -88,7 +88,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175194"></a>
 - t-009
   global_id: t-175194
-  teiginys: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. sutriuškino kryžiuočius.'
+  teiginys: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.'
   pagrindžia:
     - c-005
 
@@ -116,7 +116,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175198"></a>
 - t-013
   global_id: t-175198
-  teiginys: 'Dusburgietis teigia, kad herkus Mantas buvo sudegintas367.'
+  teiginys: 'Herkus Mantas buvo sudegintas367.'
   pagrindžia:
     - c-011
 
@@ -144,7 +144,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 <a id="claim-t-175202"></a>
 - t-017
   global_id: t-175202
-  teiginys: 'Notangų prūsų vyriausiasis vadas Herkus Mantas niokojo Kulmo žemę ir triuškino Ordiną Lubavos mūšyje.'
+  teiginys: 'Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.'
   pagrindžia:
     - c-007
 
@@ -227,6 +227,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-004
 
 - c-005
+  santrauka: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Priešiškuose lietuviams
@@ -259,6 +260,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-002
 
 - c-007
+  santrauka: 'Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių, prūsų,
@@ -295,7 +297,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-007
 
 - c-009
-  santrauka: 'Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
+  santrauka: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai Didžiojo prūsų sukilimo
@@ -333,6 +335,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - t-010
 
 - c-011
+  santrauka: 'Herkus Mantas buvo sudegintas367.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po šių skerdynių
@@ -402,6 +405,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

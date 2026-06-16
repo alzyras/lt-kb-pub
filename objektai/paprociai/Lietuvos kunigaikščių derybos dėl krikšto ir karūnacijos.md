@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-o Lietuvą valdė svetimkilmiai valdovai).
+Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės. Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją. Kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, tarsi atstūmė Lietuvą nuo krikščionybės.
 
 ## Laikotarpis ir datos
 
@@ -54,22 +54,15 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-67159"></a>
-- t-002
-  global_id: t-67159
-  teiginys: 'Po Žygimanto Augusto mirties Lietuvą valdė svetimkilmiai valdovai.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-67160"></a>
-- t-003
+- t-002
   global_id: t-67160
   teiginys: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-67161"></a>
-- t-004
+- t-003
   global_id: t-67161
   teiginys: 'Kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, tarsi atstūmė Lietuvą nuo krikščionybės.'
   pagrindžia:
@@ -92,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -183,7 +176,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -192,13 +184,12 @@ Nenurodyta
 - [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Netimeras]]
-- [[objektai/posakiai/Rex Lethowye]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Stulpai]]
 - [[objektai/grupes/Vokiečiai]]

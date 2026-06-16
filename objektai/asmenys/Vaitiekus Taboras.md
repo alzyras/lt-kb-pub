@@ -207,13 +207,15 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Jogailaičiai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvos pasiuntiniai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
 - [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]

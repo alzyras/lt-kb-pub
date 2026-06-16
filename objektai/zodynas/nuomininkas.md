@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­ dinant juose dvaro žmones, arba nuomininkus. Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­ dinti neužimtose, bet jam priklausomose žemėse, plėsdamas jose dvarų ūkį ir įkurdamas darbininkus, kuriuos atleisdavo nuo lažo ir padarydavo laisvus nuomininkus, arba tos žemės būdavo duodamos.
+Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus. Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus. Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.
 
 ## Teiginiai
 
 <a id="claim-t-36818"></a>
 - t-001
   global_id: t-36818
-  teiginys: 'Vytauto vietininkai naujose dvarų žemėse įkurdindavo dvaro žmones arba nuomininkus.'
+  teiginys: 'Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus.'
   pagrindžia:
     - c-001
 
@@ -42,6 +42,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytauto dvarus administravo jo skiriami vietininkai. Jie

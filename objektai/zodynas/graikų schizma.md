@@ -53,7 +53,6 @@ Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudai]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomai]]

@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vilniaus vyskupas Andrius mirė keliais mėnesiais anksčiau už karalių ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.
+Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.
 
 ## Teiginiai
 
 <a id="claim-t-186178"></a>
 - t-001
   global_id: t-186178
-  teiginys: 'Vilniaus vyskupas Andrius mirė keliais mėnesiais anksčiau už karalių ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.'
+  teiginys: 'Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vilniaus vyskupas Andrius mirė keliais mėnesiais anksčiau už karalių ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.'
+  santrauka: 'Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų mokslų pažinimu bei proto aštrumu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Didžiausias palaido
@@ -47,3 +47,7 @@ Vilniaus vyskupas Andrius mirė keliais mėnesiais anksčiau už karalių ir gar
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/įpėdinis]]

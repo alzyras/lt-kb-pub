@@ -21,14 +21,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.
+Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu. XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui.
 
 ## Teiginiai
 
 <a id="claim-t-63715"></a>
 - t-001
   global_id: t-63715
-  teiginys: 'Jonas Chodkevičius buvo būsimasis Livonijos etmonas ir minimas tarp geriausių tuo metu surinktų karių.'
+  teiginys: 'Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
     - t-002
 
 - c-002
-  santrauka: 'Jonas Chodkevičius buvo būsimasis Livonijos etmonas ir minimas tarp geriausių tuo metu surinktų karių.'
+  santrauka: 'Jonas Chodkevičius buvo tarp geriausių tuo metu surinktų karių ir vėliau tapo Livonijos etmonu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
@@ -91,6 +91,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 - [[objektai/grupes/Radvilos]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]

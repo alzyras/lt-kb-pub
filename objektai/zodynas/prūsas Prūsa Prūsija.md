@@ -34,14 +34,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X a.— Bruzi, Burūs. Pruzze, Pruze ir pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs: Pruzia (1141 m.—PUB, 1, 1, Nr. 2, p. 1; 1212 m.— Nr. 10, p. 7; 1222 m.— Nr. 41 A, p.. Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K. Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).
+Prūsų, Prūsijos vardo kilmė nėra aiški. XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos. Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.
 
 ## Teiginiai
 
 <a id="claim-t-58792"></a>
 - t-001
   global_id: t-58792
-  teiginys: 'Dusburgietis teigia, kad prūsų, Prūsijos vardo kilmė nėra aiški.'
+  teiginys: 'Prūsų, Prūsijos vardo kilmė nėra aiški.'
   pagrindžia:
     - c-003
 
@@ -116,6 +116,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
     - t-004
 
 - c-003
+  santrauka: 'Prūsų, Prūsijos vardo kilmė nėra aiški.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsų, Prūsijos vardo kilmė nėra aiški. Tuo klausimu skelbta įvairių hipotezių (žr.

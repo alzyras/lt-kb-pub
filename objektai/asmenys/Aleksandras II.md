@@ -10,14 +10,14 @@ date_start: '1830'
 date_end: '1861'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - karas
-  - tauta
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+tags:
+  - asmuo
+  - karas
+  - tauta
 ---
 # Aleksandras II
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.
 
 ## Teiginiai
-
 <a id="claim-t-82167"></a>
 - t-001
   global_id: t-82167
@@ -42,7 +41,6 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -63,7 +61,6 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

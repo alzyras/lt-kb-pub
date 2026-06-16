@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Trubčevskas'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1379 m.'
@@ -21,13 +22,13 @@ amziai:
 
 ## Santrauka
 
-Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379- 1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir Trubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo valdą. 123 Tret’jakovas, proistorikas 159 Trojos gudrumas 304 Trubčevskas 272 Trubeckoj, kng.
+1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.
 
 ## Teiginiai
 
-<a id="claim-t-32603"></a>
+<a id="claim-t-187359"></a>
 - t-001
-  global_id: t-32603
+  global_id: t-187359
   teiginys: '1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.'
   pagrindžia:
     - c-001
@@ -35,7 +36,6 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laikydamas save tikruoju tėvo sosto paveldėtoju, Andrius

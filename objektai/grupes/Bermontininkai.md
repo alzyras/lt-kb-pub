@@ -121,11 +121,9 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/daiktai/1919 m. Lietuvos kariuomenės pėstininko žieminė kepurė]]
 - [[objektai/daiktai/Baltijos kryžius]]
 - [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]

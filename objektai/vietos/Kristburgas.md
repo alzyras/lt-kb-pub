@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patraukė į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms ilsintis, priartėjo prie pamedėnų pilies, stovėjusios tada toje vietoje, kuri dabar vadinama Senuoju Kristburgu, slapta įsibrovė į pilį. Dusburgietis teigia, kad pakeitę vietą, bet ne vardą, Jėzaus Kristaus garbei ir šlovei jie pastatė Kristburgo pilį toje vietoje, kur ji ir dabar tebėra304, sutvirtinę ją viskuo, kas reikalinga pilims ginti, ir palikę joje daug karių. Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuostabaus santūrumo bei kuo griežčiausios regulos prisilaikymo sekėjai, be to, tokie puikūs kariai karo metu, kad iš tiesų apie juos galima sakyti, kad namuose jie laikėsi kaip tikri vienuoliai, o kovos.
+Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti. 1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai. Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių.
 
 ## Teiginiai
 
@@ -86,7 +86,7 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 <a id="claim-t-90728"></a>
 - t-009
   global_id: t-90728
-  teiginys: 'Magistras Henrikas rengėsi kovoti su Sventopelku ir Prūsijos naujakrikščiais atsimetėliais.'
+  teiginys: 'Kristaus gimimo naktį magistro Henriko kariuomenė užėmė pamedėnų pilį, vėliau pavadintą Kristburgu.'
   pagrindžia:
     - c-001
 

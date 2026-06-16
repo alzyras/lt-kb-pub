@@ -22,21 +22,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­ skutinį patepimą.
+Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.
 
 ## Teiginiai
 
 <a id="claim-t-63987"></a>
 - t-001
   global_id: t-63987
-  teiginys: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
+  teiginys: 'Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
+  santrauka: 'Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
@@ -67,13 +67,15 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Motiejus Kločka]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]
 - [[objektai/zodynas/florinas, zlotas, grašis ir denaras]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
+- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]

@@ -73,5 +73,4 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Žydų bendruomenės]]
 - [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]

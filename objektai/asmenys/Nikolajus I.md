@@ -24,37 +24,30 @@ periodo_grupes:
 
 ## Santrauka
 
-Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.
+1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos. Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė. Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.
 
 ## Teiginiai
 
-<a id="claim-t-82632"></a>
-- t-001
-  global_id: t-82632
-  teiginys: 'Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-82633"></a>
-- t-002
+- t-001
   global_id: t-82633
   teiginys: '1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-82634"></a>
-- t-003
+- t-002
   global_id: t-82634
   teiginys: 'Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-82635"></a>
-- t-004
+- t-003
   global_id: t-82635
   teiginys: 'Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -73,27 +66,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Išvaryti ir politiš-
-    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
-    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
-    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
-    policiją.
-    1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, ku-
-    ris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-
-    mas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
-    sosto ir perduodąs suverenitetą tautai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   santrauka: 'Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -111,12 +86,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-002
+    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kuratorius]]
-- [[objektai/zodynas/seimas]]

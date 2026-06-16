@@ -10,11 +10,11 @@ date_start: '1869'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - saltinis
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - saltinis
 ---
 # J. Caro, Geschichte Polens
 
@@ -23,7 +23,6 @@ amziai:
 Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis Lenkijos istorijos veikalas. Santrumpų sąraše nurodomi 2-5 tomai apie 1300-1506 m. laikotarpį, išleisti Gothoje 1863-1888 m., o kitoje vietoje pacituojamas III tomas, 1869 m., 211 p.
 
 ## Teiginiai
-
 <a id="claim-t-121038"></a>
 - t-001
   global_id: t-121038
@@ -45,8 +44,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -58,7 +56,6 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lietuvą, visiškai neatsižvelgdamas nei į lenkų bajorų, ypač didžlenkių, pasipriešinimą, kurie ypa­ tingai buvo žygio pasisekimu suinteresuoti. Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.
+Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai. Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu. Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai.
 
 ## Teiginiai
 
 <a id="claim-t-34342"></a>
 - t-001
   global_id: t-34342
-  teiginys: 'Kai Jogaila vedė trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai dėl priesaikos Jadvygai.'
+  teiginys: 'Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai.'
   pagrindžia:
     - c-002
 
@@ -82,4 +82,3 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/apsikarūnavimas]]

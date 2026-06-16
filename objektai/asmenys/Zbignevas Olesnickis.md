@@ -125,4 +125,5 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Lenkijos senatas]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lenkų senatas]]

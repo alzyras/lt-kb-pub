@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dembinskiui išvykus, Lietuvoje nebeliko jokios stipresnės pajėgos. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo likviduotas sukilimas.
+1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.
 
 ## Laikotarpis ir datos
 
@@ -34,41 +34,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66913"></a>
 - t-001
   global_id: t-66913
   teiginys: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
   pagrindžia:
-    - c-002
-
-<a id="claim-t-66914"></a>
-- t-002
-  global_id: t-66914
-  teiginys: 'Dembinskiui išvykus, Lietuvoje nebeliko stipresnės sukilėlių pajėgos, o rusų kariuomenei teliko gaudyti sukilėlius.'
-  pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dembinskiui išvykus, Lietuvoje
-    nebeliko jokios stipresnės pajėgos. Rusų kariuomenei jau
-    nebeteko kovoti, o tik sukilėlius gaudyti. Užimdama miestus
-    ir miestelius, ji viską plėšė ir žudė nekaltus žmones. Ypač
-    nukentėjo Ašmena. Užėmę miestelį, rusai išplėšė ne tik gyven-
-    tojų namus, bet ir bažnyčią, išžudė apie 80 žmonių, o tuos, ku-
-    riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
-    į Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
+  santrauka: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač
@@ -77,9 +54,11 @@ Nenurodyta
     riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
     į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

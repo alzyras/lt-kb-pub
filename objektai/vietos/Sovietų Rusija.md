@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas. Apskritai 1920 m. liepos 12 d. pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplomatijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su Lenkija.
+Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi. 1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes. 1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu.
 
 ## Teiginiai
 
@@ -38,30 +38,16 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 <a id="claim-t-77322"></a>
 - t-002
   global_id: t-77322
-  teiginys: 'Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas.'
+  teiginys: '1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-77323"></a>
-- t-003
-  global_id: t-77323
-  teiginys: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-77324"></a>
-- t-004
+- t-003
   global_id: t-77324
   teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-77325"></a>
-- t-005
-  global_id: t-77325
-  teiginys: 'Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -98,41 +84,4 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-
-- c-003
-  santrauka: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    PREILIAI A
-
-    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
-    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
-    Buvo nustatyta Lietuvos siena.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-003
-
-- c-004
-  santrauka: 'Pralaimėjusi kovas dėl Zarasų ir patyrusi didelių nuostolių, Sovietų Rusija po kurio laiko pasiūlė taikos derybas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pasekmės
-    Neišnaudoję įtvirtinimų teikiamų priva-
-
-    lumų, bolševikai buvo priversti trauktis iš
-    Lietuvos. Pralaimėjusi kovas dėl Zarasų ir
-    patyrusi didelių nuostolių, Sovietų Rusija
-    po kurio laiko pasiūlė taikos derybas.
-
-    Dauguvos fronto karininkus ir karei-
-    vius, išvijusius bolševikus iš Lietuvos
-    žemės ir laimėjusius didelę pergalę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-    - t-005

@@ -20,14 +20,14 @@ amziai:
 
 ## Santrauka
 
-1947 m. pabaigoje partizanai Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per „geležinę uždangą“ į laisvąjį pasaulį nugabeno partizanų rašytus dokumentus: apygardų sudarytus okupacinės valdžios ištremtųjų, nužudytųjų ir suimtųjų sąrašus, partizanų.
+1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus. Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.
 
 ## Teiginiai
 
 <a id="claim-t-75441"></a>
 - t-001
   global_id: t-75441
-  teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į Vakarus nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus.'
+  teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis į laisvąjį pasaulį nugabeno apygardų sudarytus okupacinės valdžios aukų sąrašus.'
   pagrindžia:
     - c-001
 

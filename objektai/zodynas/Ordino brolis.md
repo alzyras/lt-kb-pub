@@ -106,4 +106,5 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - [[objektai/zodynas/oktava]]
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/daiktai/Varpai]]

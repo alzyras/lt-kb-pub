@@ -3,24 +3,28 @@ tipas: grupe
 pavadinimas: 'Auksinė Orda'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1360 m.'
+  - '1459 m.'
+  - '1503 m.'
 date_start: '1360'
-date_end: ''
+date_end: '1503'
 sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
 amziai:
   - 'XIV'
+  - 'XVI'
 ---
 # Auksinė Orda
 
 ## Santrauka
 
-Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiame šaltinyje Auksinė Orda taip pat tiesiogiai įvardijama kaip silpnėjanti totorių valstybė, į kurios valdžią Vytautas siekė grąžinti Tochtamišą.
+Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė. Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje. Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.
 
 ## Teiginiai
 
@@ -69,7 +73,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 <a id="claim-t-92025"></a>
 - t-007
   global_id: t-92025
-  teiginys: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
+  teiginys: 'Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.'
   pagrindžia:
     - c-009
 
@@ -83,9 +87,23 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 <a id="claim-t-92027"></a>
 - t-009
   global_id: t-92027
-  teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsigalėti Rytų Europoje ir valdyti rusų žemių plotus.'
+  teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
   pagrindžia:
     - c-008
+
+<a id="claim-t-187704"></a>
+- t-010
+  global_id: t-187704
+  teiginys: 'Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti chanų soste.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-187705"></a>
+- t-011
+  global_id: t-187705
+  teiginys: 'Achmatas buvo Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygiu prie Ugros siekė pajungti Maskvą.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -200,7 +218,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     - t-008
 
 - c-008
-  santrauka: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsigalėti Rytų Europoje ir valdyti rusų žemių plotus.'
+  santrauka: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų tarpe įvyko dideli skilimai,
@@ -217,6 +235,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     - t-009
 
 - c-009
+  santrauka: 'Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
@@ -231,10 +250,52 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   pagrindžia:
     - t-007
 
+- c-010
+  santrauka: 'Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti chanų soste.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    BK Perekopo orda vadinami Krymo chanato
+    totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių
+    110 Siaurės Kaukazo.
+    2 5  Ulan — feodalinis titulas, kuriuo vadinosi žymiausi chanų
+    giminės totorių feodalai, turintys savas žemės valdas — ulusus ir
+    teisę dalyvauti chanų rinkimuose. Aukso ordoje ulanais vadinosi
+
+    ## Puslapis 290
+
+    chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
+    chanų soste.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-011
+  santrauka: 'Achmatas buvo Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygiu prie Ugros siekė pajungti Maskvą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ** Achmatas (Achmetas) — Aukso ordos chanas (1459—1481),
+    Kazimiero Jogailaičio sųjungininkas, paskutini kartų 1480 m. žygiu
+    prie Ugros bandęs pajungti totorių valdžiai Maskvos Didžiųjų Ku­
+    nigaikštystę.
+    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
+    chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo
+    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
+    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
+    Achmetų ir sujungti savo valdžioje visas totorių ordas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Krymo chanatas]]
+- [[objektai/grupes/Perekopo orda]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Timuras]]
 - [[objektai/grupes/Totoriai]]
@@ -242,9 +303,15 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/ulan]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Aukso orda]]
+- [[objektai/ivykiai/Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą|Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)]]
+- [[objektai/ivykiai/Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/asmenys/Burundajus]]
 - [[objektai/asmenys/Chudandachas]]
@@ -258,6 +325,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/asmenys/Kiprijonas]]
+- [[objektai/ivykiai/Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
@@ -270,6 +338,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
 - [[objektai/grupes/Pskovo respublika]]
+- [[objektai/ivykiai/Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
@@ -278,11 +347,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/baskakas]]
-- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/zodynas/kondominiumas]]
-- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/zodynas/ulusas]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]

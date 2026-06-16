@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Kryžiaus karo ir piligrimystės terminija, taikoma į Prūsiją ar į kryžiaus žygį atvykstantiems talkininkams. Šiame leidinyje maldininkai vaizduojami kaip laikini, įžadais apriboti, bet kariniu požiūriu svarbūs Ordino sąjungininkai.
+Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį. Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę. 1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.
 
 ## Žodis ir formos
 
@@ -63,7 +63,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 <a id="claim-t-70225"></a>
 - t-005
   global_id: t-70225
-  teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
+  teiginys: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, buvęs maldininko kelionėje po kryžiaus žygio vėliava.'
   pagrindžia:
     - c-003
 
@@ -155,7 +155,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - t-007
 
 - c-003
-  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava.'
+  santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, buvęs maldininko kelionėje po kryžiaus žygio vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie Šventos Elžbietos vyro mirtį
@@ -300,6 +300,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Otonas]]
 - [[objektai/grupes/Pagudėnai]]
@@ -317,7 +318,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/asmenys/Elžbieta]]
-- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
 - [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]

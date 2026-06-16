@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^1 ). Mokslus jis buvo ėjęs Krokuvoj ir įgijęs laisvųjų mokslų ma­ gistro laipsnį; paskui buvo Trakų klebonu ir Vilniaus kapitulos kanauninku. Taip antai, ketvirtas iš eilės Vilniaus vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­ tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis Žemaičių ir vėliau Vilniaus vysk.
+Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui. Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu. Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas.
 
 ## Teiginiai
 
 <a id="claim-t-176551"></a>
 - t-001
   global_id: t-176551
-  teiginys: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
+  teiginys: 'Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.'
   pagrindžia:
     - c-003
 
@@ -55,13 +55,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   teiginys: 'Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-176556"></a>
-- t-005
-  global_id: t-176556
-  teiginys: 'Vilniaus vyskupui Motiejui Vytautas kelis kartus išpažino nuodėmes ir priėmė paskutinį patepimą.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-176557"></a>
 - t-006

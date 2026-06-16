@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Abiejų Tautų Respublika buvo Liublino unijos sukurta Lenkijos ir Lietuvos jungtinė valstybė. Jos politinė sandara šaltinyje apibūdinama kaip teoriškai federacinė, realiai konfederacinė sąjunga, kurioje LDK išsaugojo dalį atskirų institucijų. XVIII a. pabaigoje valstybė buvo sunaikinta padalijimais, o 1797 m. Peterburgo konvencija panaikino jos valstybingumo likučius.
+1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius. 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu. 1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.
 
 ## Pavadinimai šaltiniuose
 
@@ -137,7 +137,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 <a id="claim-t-80781"></a>
 - t-013
   global_id: t-80781
-  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisą, pavadintą Abiejų Tautų tarpusavio įžadu.'
+  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, pavadintą Abiejų Tautų tarpusavio įžadu.'
   pagrindžia:
     - c-006
 
@@ -151,7 +151,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 <a id="claim-t-80783"></a>
 - t-015
   global_id: t-80783
-  teiginys: 'Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
+  teiginys: 'Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   pagrindžia:
     - c-009
 
@@ -320,7 +320,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-001
 
 - c-009
-  santrauka: 'Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
+  santrauka: 'Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -412,7 +412,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
@@ -421,7 +421,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -460,7 +459,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/zodynas/Baltic Kindergarten]]
-- [[objektai/grupes/Baro konfederacija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/zodynas/Bendrinė sąvoka]]
 - [[objektai/asmenys/Bernardas Berensonas]]
@@ -490,18 +488,15 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/autoriai/Irena Katilienė]]
 - [[objektai/asmenys/Izabelė Jogailaitė]]
 - [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
 - [[objektai/asmenys/Jimi Hendrix]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/asmenys/Juozapas Ignas Kraševskis]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/autoriai/Jūratė Dalia Baronienė]]
-- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]
 - [[objektai/asmenys/Kazimieras Antanavičius]]
 - [[objektai/autoriai/Kazimieras Masiliūnas]]
@@ -510,7 +505,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Keith Richards]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
-- [[objektai/ivykiai/Klaipėdos sukilimas]]
 - [[objektai/ivykiai/Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.)]]
 - [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
 - [[objektai/asmenys/Kotryna II]]
@@ -518,7 +512,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kurtas Valdheimas]]
-- [[objektai/ivykiai/LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)]]
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
 - [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]
 - [[objektai/asmenys/Leonidas Brežnevas]]
@@ -544,16 +537,12 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
 - [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
-- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
 - [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
 - [[objektai/daiktai/Lietuvos valstybės vėliava]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/grupes/Litvakai]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Louis Washkansky]]
 - [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
@@ -576,17 +565,14 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema]]
-- [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/asmenys/Ronnie Wood]]
-- [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
 - [[objektai/ivykiai/Salyno sutartis]]
-- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
 - [[objektai/grupes/Senalietuviai]]
 - [[objektai/autoriai/Skirmantė Ramanauskaitė]]
@@ -604,7 +590,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
 - [[objektai/autoriai/T. Wierzbowski]]
-- [[objektai/asmenys/Tadas Kosciuška]]
 - [[objektai/paprociai/Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes]]
 - [[objektai/asmenys/Valdas Adamkus]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
@@ -619,7 +604,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/zodynas/febri sincopi interna]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/monopolis privati prekyba]]
@@ -638,8 +622,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/posakiai/tokia privilegija yra prieš bendrą gėrį]]
 - [[objektai/asmenys/Česlovas Milošas]]
 - [[objektai/asmenys/Česlovas Stankevičius]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
 - [[objektai/zodynas/šturmovcai]]
 - [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
 - [[objektai/posakiai/„Baltic Kindergarten“]]
@@ -648,7 +630,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/posakiai/„valdomos demokratijos“]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/asmenys/Zigmantas III]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
@@ -673,13 +655,11 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/ivykiai/Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)]]
-- [[objektai/zodynas/Soclageris]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
 - [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
-- [[objektai/posakiai/„idealiąją Lietuvą“]]
 - [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]

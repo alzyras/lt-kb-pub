@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo. Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slapta įpylė nuodų.
+Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo. Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną.
 
 ## Teiginiai
 
@@ -31,7 +31,7 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
 <a id="claim-t-185951"></a>
 - t-003
   global_id: t-185951
-  teiginys: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slapta įpylė nuodų.'
+  teiginys: 'Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną.'
   pagrindžia:
     - c-003
 
@@ -98,7 +98,7 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
     - t-002
 
 - c-003
-  santrauka: 'Skirgaila neilgai džiaugėsi naujomis valdomis, nes vienuolyno viršininkas jam slapta įpylė nuodų.'
+  santrauka: 'Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto neil­

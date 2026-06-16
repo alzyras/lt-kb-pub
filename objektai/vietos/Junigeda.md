@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį. Dusburgietis teigia, kad apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią 531 Žr. Dusburgietis teigia, kad 532 D.— territorium Junigede, Jer — genant zu Junigêdin; valsčius ir pilis (žr.
+Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu. Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius. 1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 <a id="claim-t-90468"></a>
 - t-003
   global_id: t-90468
-  teiginys: 'Didysis magistras Karolis subūrė kariuomenę, ketindamas išvaduoti apgultą Kristmemelio pilį.'
+  teiginys: '1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį.'
   pagrindžia:
     - c-005
 
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 <a id="claim-t-90473"></a>
 - t-008
   global_id: t-90473
-  teiginys: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
+  teiginys: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   pagrindžia:
     - c-004
 
@@ -168,6 +168,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
     - t-007
 
 - c-004
+  santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to broliai nuplaukė beveik iki Junigedos pilies. Kai čia laivai
@@ -269,7 +270,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
     - t-010
 
 - c-009
-  santrauka: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
+  santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto lietuviai neteko 70 prityrusių

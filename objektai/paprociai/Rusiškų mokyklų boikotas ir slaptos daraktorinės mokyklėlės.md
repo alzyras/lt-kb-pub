@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti. Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbaidė – buvo poreikis, susiformavo tradicija. Etninės Lietuvos teritorija visoje europinėje Rusijos imperijos dalyje išsiskyrė bene mažiausiu mokyklinio amžiaus vaikų, lankančių oficialias pradžios mokyklas, procentu – europinėje Rusijos imperijos dalyje XIX a.
+Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose. Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija. XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-75389"></a>
 - t-001
   global_id: t-75389
-  teiginys: 'Daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.'
+  teiginys: 'Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose.'
   pagrindžia:
     - c-003
 

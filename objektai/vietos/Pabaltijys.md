@@ -11,22 +11,21 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - krikštas
   - ordinas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Pabaltijys
 
 ## Santrauka
 
-Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.
+Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį.
 
 ## Teiginiai
-
 <a id="claim-t-182874"></a>
 - t-001
   global_id: t-182874
@@ -34,15 +33,7 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   pagrindžia:
     - c-001
 
-<a id="claim-t-183064"></a>
-- t-002
-  global_id: t-183064
-  teiginys: 'Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -61,23 +52,3 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Delegacija neat-
-    vyko į Lietuvą, bet sustojo pakeliui pas kryžiuočius. Prasidė-
-    jus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis,
-    pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir
-    persikeltų į Rusijos tyrus ginti Europos nuo totorių. Be to, jie
-    pareikalavo, kad daugumas ordino užimtų žemių būtų grąžintos
-    Lietuvai, — kad būtų grąžintos visos žemės anapus Ne-
-    muno iki Priegliaus ir Alnos upės, paskui — visas Kuršas ir visas
-    kairysis Dauguvos krantas, o nuo Aiviekstės upės intako — ana-
-    pus Dauguvos esanti Latgala.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

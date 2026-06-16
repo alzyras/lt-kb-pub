@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
+Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.
 
 ## Teiginiai
 
 <a id="claim-t-60370"></a>
 - t-001
   global_id: t-60370
-  teiginys: 'Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
+  teiginys: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van

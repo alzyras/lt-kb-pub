@@ -10,57 +10,34 @@ atnaujinta: ''
 
 ## Santrauka
 
-Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą. Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.
+Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą. Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų. Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.
 
 ## Teiginiai
 
-<a id="claim-t-185976"></a>
-- t-001
-  global_id: t-185976
-  teiginys: 'Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-185977"></a>
-- t-002
+- t-001
   global_id: t-185977
   teiginys: 'Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-185978"></a>
-- t-003
+- t-002
   global_id: t-185978
   teiginys: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-185979"></a>
-- t-004
+- t-003
   global_id: t-185979
   teiginys: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
-  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
-  citata_originali: |
-    Štai todėl, rūpestingai pagydy­
-    tą ir atgavusį jėgas, jį pasiuntė atgal pas Pisoną. Tuo
-    tarpu kitas žygūnas elgėsi perdėm neatsargiai: iš jo
-    atimtas karaliaus laiškas Glinskiui viską maskvėnams
-    atskleidė. Vasilijus įsakė surakinti Glinskį grandinėmis
-    ir išvežti iš stovyklos.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -77,9 +54,9 @@ Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Ku
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -101,9 +78,9 @@ Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Ku
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -128,16 +105,20 @@ Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Ku
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
 - [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/senatas]]
-- [[objektai/zodynas/žygūnas]]
+- [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]
 - [[objektai/asmenys/Andrius Mackevičius]]
+- [[objektai/daiktai/Auksinės grandinės ir diržai]]
+- [[objektai/daiktai/Aukso balnai]]
+- [[objektai/daiktai/Bachmatai]]
+- [[objektai/daiktai/Brangūs aksomai]]
+- [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]
 - [[objektai/asmenys/Jonas Gornostajus]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
@@ -146,11 +127,16 @@ Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos. Ku
 - [[objektai/asmenys/Ovčina]]
 - [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]
 - [[objektai/ivykiai/Penkerių metų paliaubos tarp Lietuvos ir Maskvos]]
+- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
 - [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
 - [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
 - [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
+- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]
+- [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]
+- [[objektai/zodynas/dijokas]]
 - [[objektai/zodynas/globėjas]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas]]
 - [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]
 - [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]]

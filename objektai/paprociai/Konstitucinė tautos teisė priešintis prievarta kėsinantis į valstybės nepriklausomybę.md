@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę. Ta pati norma saugo teritorijos vientisumą ir konstitucinę santvarką.
+Lietuvos Respublikos Konstitucija numato Tautos ir kiekvieno piliečio teisę priešintis prievartiniam kėsinimuisi į valstybės nepriklausomybę. Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę. Tautos suvereniteto negalima varžyti ar riboti.
 
 ## Laikotarpis ir datos
 
@@ -44,7 +44,7 @@ Nenurodyta
 <a id="claim-t-41421"></a>
 - t-001
   global_id: t-41421
-  teiginys: 'Niekas negali varžyti ar riboti Tautos suvereniteto arba savintis visai Tautai priklausančių suverenių galių.'
+  teiginys: 'Lietuvos Respublikos Konstitucija numato Tautos ir kiekvieno piliečio teisę priešintis prievartiniam kėsinimuisi į valstybės nepriklausomybę.'
   pagrindžia:
     - c-001
 
@@ -91,5 +91,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Suverenitetas]]

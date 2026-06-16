@@ -75,5 +75,6 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/žygis]]

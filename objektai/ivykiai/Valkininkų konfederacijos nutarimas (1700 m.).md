@@ -9,11 +9,11 @@ date_start: '1700'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - bajorija
   - ivykis
-amziai:
-  - 'XVII'
 ---
 # Valkininkų konfederacijos nutarimas (1700 m.)
 
@@ -38,7 +38,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-80679"></a>
 - t-001
   global_id: t-80679
@@ -47,7 +46,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -75,5 +73,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Valkininkų konfederacija]]

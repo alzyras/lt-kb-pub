@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autorių. Redaktoriaus žodyje jam priskiriami V ir VI skyriai, apibendrinantys laikotarpį nuo 1940 m. okupacijų iki 2004 m.; bibliografijoje jis siejamas su „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
+Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m. Bibliografijoje Tamošaitis M. kartu su Blažyte-Baužiene D. ir Truska L. siejamas su veikalu „Lietuvos Seimo istorija: XX–XXI a. pradžia“. 2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.
 
 ## Darbai
 
@@ -48,7 +48,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 <a id="claim-t-169891"></a>
 - t-003
   global_id: t-169891
-  teiginys: '2013 m. antrajame leidime Mindaugui Tamošaičiui nurodytos autorių teisės.'
+  teiginys: '2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.'
   pagrindžia:
     - c-003
 
@@ -107,7 +107,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
     - t-002
 
 - c-003
-  santrauka: '2013 m. antrajame leidime Mindaugui Tamošaičiui nurodytos autorių teisės.'
+  santrauka: '2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redakcinė kolegija:

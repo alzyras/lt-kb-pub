@@ -60,6 +60,7 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/asmenys/Andrius Sniadeckis]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]

@@ -10,12 +10,12 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ežeras
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - ežeras
+  - vieta
 ---
 # Želvos ežerai
 
@@ -24,24 +24,26 @@ amziai:
 toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo.
 
 ## Teiginiai
-
 <a id="claim-t-53419"></a>
 - t-001
   global_id: t-53419
   teiginys: 'Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-53420"></a>
 - t-002
   global_id: t-53420
   teiginys: 'Lietuvos rytinė teritorijos linija buvo vedama per Želvos ežerus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Rytinė Lietuvos teritorijos linija buvo vedama per Drivietų, Želvos ir Oziraičių ežerus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
@@ -56,9 +58,11 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
     Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
     pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
     Bobro upės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
     - t-001
+    - t-002

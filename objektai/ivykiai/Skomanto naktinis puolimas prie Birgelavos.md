@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
+Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 
 ## Laikotarpis ir datos
 
@@ -45,13 +45,14 @@ Nenurodyta
 <a id="claim-t-91919"></a>
 - t-001
   global_id: t-91919
-  teiginys: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
+  teiginys: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį

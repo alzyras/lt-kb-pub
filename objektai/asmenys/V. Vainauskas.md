@@ -79,7 +79,6 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Vokiečiai]]

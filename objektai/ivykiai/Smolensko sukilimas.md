@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Pirmučiausia nuo Vytauto atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo senasis Smolensko kunigaikštis Jurgis). Bet šiuo tarpu karo buvo išvengta ir su Maskva ir su Pskovu, kuris dėl Smolensko taip pat buvo bepradedąs karą.
+Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko.
 
 ## Laikotarpis ir datos
 
@@ -34,23 +34,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66898"></a>
-- t-001
-  global_id: t-66898
-  teiginys: 'Pirmučiausia nuo Vytauto atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo senasis Smolensko kunigaikštis Jurgis).'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-66899"></a>
-- t-002
+- t-001
   global_id: t-66899
   teiginys: 'Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -65,29 +58,15 @@ Nenurodyta
     laiką negalėjo būti pastovios taikos su Maskva. Bet šiuo tarpu
     karo buvo išvengta ir su Maskva ir su Pskovu, kuris dėl Smo-
     lensko taip pat buvo bepradedąs karą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Smolensko sukilimas.** Nelaimingas Vorsklos mūšis buvo di-
-    delis smūgis Vytauto rytų politikai. Pirmučiausia nuo Vytauto
-    atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo se-
-    nasis Smolensko kunigaikštis Jurgis).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
-- [[objektai/zodynas/apostazija]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/žygis]]

@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.
+Antra — Pamedė192, kurioje [gyveno] pamedėnai. Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė. Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.
 
 ## Teiginiai
 
 <a id="claim-t-78414"></a>
 - t-001
   global_id: t-78414
-  teiginys: 'Dusburgietis teigia, kad antra — Pamedė192, kurioje [gyveno] pamedėnai.'
+  teiginys: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 <a id="claim-t-78419"></a>
 - t-004
   global_id: t-78419
-  teiginys: 'Pamedės Reisių valsčiuje gyveno daug garsių vyrų ir drąsių karių, kuriuos valdovas puolė grobimais ir gaisrais.'
+  teiginys: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
   pagrindžia:
     - c-009
 
@@ -114,6 +114,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-003
 
 - c-002
+  santrauka: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lubavos191 [žemė], kuri prieš Teutonų ordino brolių atkilimą, galima sakyti, buvo
@@ -246,7 +247,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-009
 
 - c-009
-  santrauka: 'Pamedės Reisių valsčiuje gyveno daug garsių vyrų ir drąsių karių, kuriuos valdovas puolė grobimais ir gaisrais.'
+  santrauka: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą

@@ -16,10 +16,9 @@ tags:
 
 ## Santrauka
 
-Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku Latviu. Šiame leidinyje jo „Livonijos kronika“ papildomai naudojama kaip šaltinis apie lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti aplinkines gentis.
+Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m. Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.
 
 ## Teiginiai
-
 <a id="claim-t-10128"></a>
 - t-001
   global_id: t-10128
@@ -35,15 +34,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     - c-001
     - c-002
 
-<a id="claim-t-64609"></a>
-- t-003
-  global_id: t-64609
-  teiginys: 'Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -55,7 +46,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   pagrindžia:
     - t-001
     - t-002
-
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -75,29 +65,10 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Henrikas Latvis rašė, kad lietuviai tuose kraštuose viešpatavo krikščioniškoms ir pagoniškoms tautoms.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O Livonijos ordino kronikininkas Henrikas (va-
-    dinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose
-    kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek
-    pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo
-    namuose ... Palikę savo namus, visi slėpdavosi miškų tanku-
-    mynuose, tačiau nė tokiuo būdu negalėdavo ištrūkti iš lietuvių.
-    Ir nuo mažo lietuvių skaičiaus rusai bėgo per miškus ir sodžius,
-    kaip kad bėga kiškiai nuo medžiotojų" ...
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas]]
 - [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
@@ -169,12 +140,12 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
 - [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]
+- [[objektai/grupes/Polocko kunigaikščiai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]

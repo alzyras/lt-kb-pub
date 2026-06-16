@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Aleksandras nusiuntė Stanislovą Narbutą į Maskvą parodyti, kad pats neprieštarauja taikai.
+Stanislovas Narbutas Aleksandro buvo pasiųstas į Maskvą parodyti, kad Aleksandras neprieštarauja taikai.
 
 ## Teiginiai
 
 <a id="claim-t-186256"></a>
 - t-001
   global_id: t-186256
-  teiginys: 'Aleksandras nusiuntė Stanislovą Narbutą į Maskvą parodyti, kad pats neprieštarauja taikai.'
+  teiginys: 'Stanislovas Narbutas Aleksandro buvo pasiųstas į Maskvą parodyti, kad Aleksandras neprieštarauja taikai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Aleksandras nusiuntė Stanislovą Narbutą į Maskvą parodyti, kad pats neprieštarauja taikai.'
+  santrauka: 'Stanislovas Narbutas Aleksandro buvo pasiųstas į Maskvą parodyti, kad Aleksandras neprieštarauja taikai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Broliai karaliai visaip

@@ -15,17 +15,9 @@ tags:
 
 ## Santrauka
 
-Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis. Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
+Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką. Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju. Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus.
 
 ## Teiginiai
-
-<a id="claim-t-82051"></a>
-- t-001
-  global_id: t-82051
-  teiginys: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-82052"></a>
 - t-002
   global_id: t-82052
@@ -33,57 +25,55 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindžia:
     - c-006
 
-<a id="claim-t-82053"></a>
-- t-003
-  global_id: t-82053
-  teiginys: 'Lietuvos feodalizmas nuo Vakarų Europos feodalizmo labiau skyrėsi sritinių kunigaikščių, o ne bajorijos teisėmis.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-82054"></a>
-- t-004
+- t-003
   global_id: t-82054
   teiginys: 'Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-82055"></a>
-- t-005
+- t-004
   global_id: t-82055
   teiginys: 'Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-82056"></a>
-- t-006
+- t-005
   global_id: t-82056
   teiginys: 'Įsitvirtinus feodalizmui, miestai stiprėjo, bet baronų išpuoliai prieš pirklius nuo X amžiaus pradžios juos žlugdė.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-82057"></a>
-- t-007
+- t-006
   global_id: t-82057
   teiginys: 'Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-82058"></a>
-- t-008
-  global_id: t-82058
-  teiginys: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-82059"></a>
-- t-009
+- t-008
   global_id: t-82059
   teiginys: 'Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
   pagrindžia:
     - c-004
-
+<a id="claim-t-182946"></a>
+- t-009
+  global_id: t-182946
+  teiginys: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
+  pagrindžia:
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -100,23 +90,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų val-
-    domosios žemės. Taigi ir pas mus buvo maždaug tokia pat santvarka,
-    kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
-    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
-    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-001
-
+    - t-006
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -137,9 +111,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-006
-
+    - t-003
+    - t-005
 - c-004
   santrauka: 'Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -156,24 +129,8 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-009
-
-- c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl jos
-    buvo nepastovios: kunigaikščiai galėjo būti kilnojami iš vienos vie-
-    tos į kitą, jų sritys galėjo būti karpomos, mažinamos ir didinamos.
-    Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
-    jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
-    Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
+    - t-004
     - t-008
-
 - c-006
   santrauka: 'Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -191,8 +148,40 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-007
+  santrauka: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų val-
+    domosios žemės. Taigi ir pas mus buvo maždaug tokia pat santvarka,
+    kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
+    lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
+    ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-008
+  santrauka: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl jos
+    buvo nepastovios: kunigaikščiai galėjo būti kilnojami iš vienos vie-
+    tos į kitą, jų sritys galėjo būti karpomos, mažinamos ir didinamos.
+    Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
+    jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
+    Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-009
   santrauka: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -201,11 +190,13 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
     **Valstiečiai** buvo žemesnysis ir gausingiausias Lietuvos visuo-
     menės sluoksnis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -220,7 +211,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - [[objektai/zodynas/sritinė kunigaikštystė]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Riterių luomas]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/luomas]]

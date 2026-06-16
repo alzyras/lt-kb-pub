@@ -169,7 +169,6 @@ periodo_grupes:
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Laisvę Lietuvai!]]
 - [[objektai/posakiai/„Laisvę Lietuvai!“]]

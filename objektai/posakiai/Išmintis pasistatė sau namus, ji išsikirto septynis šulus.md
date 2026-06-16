@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TEUTONŲ NAMŲ ORDINO ATSIRADIMĄ Pratarmė apie Teutonų namų ordino įkūrimą (Pat 9,1) „Išmintis pasistatė sau namus, ji išsikirto septynis šulus“ (Patarlių knyga, 9). Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius. Dusburgietis teigia, kad šitokie dvasiniai šulai iškirsti išminties ranka to šventojo tikėjimo namuose, kuriuos taip pastatydino jo šventenybė popiežius, kad, pasipylus ant jų godumo liūčiai ir užplūdus juos prabangos potvyniui, puikybės vėjui juos užgriuvus ir įsibrovus į vidų, jie.
+Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę. Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę. Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
 
 ## Teiginiai
 
 <a id="claim-t-89583"></a>
 - t-001
   global_id: t-89583
-  teiginys: 'Petras Dusburgietis dvasiniais šulais vadina klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.'
+  teiginys: 'Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 <a id="claim-t-89585"></a>
 - t-003
   global_id: t-89585
-  teiginys: 'Petras Dusburgietis Celestiną III lygina su Saliamonu, kurio mokymo trokšta visuotinė bažnyčia.'
+  teiginys: 'Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.'
   pagrindžia:
     - c-002
 
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - t-004
 
 - c-002
-  santrauka: 'Petras Dusburgietis Celestiną III lygina su Saliamonu, kurio mokymo trokšta visuotinė bažnyčia.'
+  santrauka: 'Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat

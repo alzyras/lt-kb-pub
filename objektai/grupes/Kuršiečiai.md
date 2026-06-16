@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė didžiajam etmonui. Rotmistro A.Vainos husarams buvo pasiųstas pastiprinimas — kelios kuršiečių reitarų kuopos.
+Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui. Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.
 
 ## Teiginiai
 
@@ -28,7 +28,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 <a id="claim-t-40967"></a>
 - t-002
   global_id: t-40967
-  teiginys: 'Rotmistro A.Vainos husarams buvo pasiųstas pastiprinimas — kelios kuršiečių reitarų kuopos.'
+  teiginys: 'Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
     - t-001
 
 - c-002
+  santrauka: 'Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos

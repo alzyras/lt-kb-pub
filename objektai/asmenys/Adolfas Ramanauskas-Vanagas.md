@@ -98,8 +98,8 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/maršalas]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
-- [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
 - [[objektai/grupes/Dainavos apygarda]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]
 - [[objektai/grupes/Marcinkonių batalionas]]

@@ -14,27 +14,21 @@ tags:
 
 ## Santrauka
 
-Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia. Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.
+Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
 
 ## Teiginiai
-
-<a id="claim-t-01289"></a>
-- t-001
-  global_id: t-01289
-  teiginys: 'Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-01290"></a>
-- t-002
+- t-001
   global_id: t-01290
   teiginys: 'Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu jie pasiekė ir
@@ -44,24 +38,11 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
     ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Būdami nepaprastai karingi, jie veržėsi
-    į pasaulį, ieškodami turtų ir valdžios. Tuo būdu jie pasiekė ir
-    aisčių gyvenamus kraštus ir čia pajūriuose pristeigė savo ko-
-    lonijų.
-    Tuo metu pasauly geriausiai klestėjo Bizantijos imperija:
-    ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

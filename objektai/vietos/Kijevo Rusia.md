@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią užvaldė pagoniška Lietuvos valstybė tapdama regionine didvalstybe. Rusios žemės taip pat minimos kaip ankstyvų lietuvių karo žygių kryptis.
+Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją. Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes. 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.
 
 ## Pavadinimai šaltiniuose
 
@@ -121,7 +121,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 <a id="claim-t-185124"></a>
 - t-013
   global_id: t-185124
-  teiginys: 'Kukovaitis, būdamas ramus dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
+  teiginys: 'Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
   pagrindžia:
     - c-008
 
@@ -286,7 +286,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     - t-004
 
 - c-008
-  santrauka: 'Kukovaitis, būdamas ramus dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
+  santrauka: 'Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Grėsminga tebuvo šiaurė, tačiau

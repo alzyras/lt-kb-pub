@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, ir kaip prekybą bei pilis Baltijos pakrantėje valdanti jėga. Jiems šiame šaltinyje siejama Mindaugo 1253 m. prekybos privilegija, žemaičių spaudimas per jūros užrakinimą ir 1300 m. draudimai lietuviams, kalnėnams bei žemaičiams gyventi ir dirbti pilyse.
+Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių. Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei. Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų.
 
 ## Teiginiai
 
@@ -89,7 +89,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 <a id="claim-t-117317"></a>
 - t-011
   global_id: t-117317
-  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  teiginys: 'Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
   pagrindžia:
     - c-009
 
@@ -107,6 +107,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   pagrindžia:
     - c-007
 
+<a id="claim-t-183197"></a>
+- t-014
+  global_id: t-183197
+  teiginys: 'Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų.'
+  pagrindžia:
+    - c-011
+
 <a id="claim-t-184587"></a>
 - t-016
   global_id: t-184587
@@ -117,7 +124,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 <a id="claim-t-184588"></a>
 - t-017
   global_id: t-184588
-  teiginys: 'Livonijos vokiečiai pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.'
+  teiginys: 'Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.'
   pagrindžia:
     - c-014
 
@@ -256,6 +263,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-003
 
 - c-009
+  santrauka: 'Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK įsikūrė vokie-
@@ -287,7 +295,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-010
 
 - c-011
-  santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  santrauka: 'Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepasitikėta ir savųjų įgūdžiais,
@@ -348,7 +356,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-016
 
 - c-014
-  santrauka: 'Livonijos vokiečiai pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.'
+  santrauka: 'Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Šitokios mintys teikė
@@ -395,7 +403,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/asmenys/Skirmantas]]
 - [[objektai/grupes/Totoriai]]
@@ -426,6 +433,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
+- [[objektai/daiktai/Arbaletai]]
 - [[objektai/zodynas/Arkikomtūras]]
 - [[objektai/daiktai/Armotos]]
 - [[objektai/autoriai/Augustas Ludvikas Schlözeris]]
@@ -444,13 +452,13 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Birutė]]
 - [[objektai/grupes/Birutės draugija]]
 - [[objektai/asmenys/Boleslovas Droviusis]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Bremeno pirkliai]]
 - [[objektai/autoriai/Bubnys A]]
 - [[objektai/asmenys/Butautas]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
 - [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]
 - [[objektai/posakiai/Dabar tai jie gaus]]
+- [[objektai/ivykiai/Danieliaus ir Vasilkos žygis prieš Mindaugo stovyklą]]
 - [[objektai/daiktai/Deglas]]
 - [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
@@ -460,7 +468,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/posakiai/Drang nach Osten]]
-- [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/autoriai/E. Wermke]]
 - [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
@@ -506,7 +513,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/J. Aukštuolaitis]]
 - [[objektai/autoriai/J. Jakštas]]
 - [[objektai/asmenys/J. Mikoliūnas]]
-- [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/autoriai/J. Voigt]]
 - [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
@@ -517,6 +523,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
 - [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
 - [[objektai/asmenys/Johanas Gotfrydas Herderis]]
 - [[objektai/asmenys/Jonas Hozijus]]
@@ -553,13 +560,11 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/zodynas/Klaipėdiškiai]]
 - [[objektai/grupes/Klaipėdos krašto lietuviai|Klaipėdos krašto lietuviai (kraštas)]]
 - [[objektai/paprociai/Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams]]
-- [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
 - [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/asmenys/Klausigaila]]
 - [[objektai/asmenys/Klemensas IV]]
-- [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
 - [[objektai/asmenys/Konradas Jungingenas]]
@@ -587,7 +592,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/Laikinoji vyriausybė]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
-- [[objektai/grupes/Lenkijos Regentų Taryba]]
 - [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/asmenys/Lešekas Juodasis]]
@@ -635,7 +639,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/ivykiai/Mindaugo mirtis]]
-- [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Motiejus iš Blonios]]
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
@@ -670,10 +673,10 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]]
+- [[objektai/grupes/Poloviečiai]]
 - [[objektai/asmenys/Povilas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Povilas Lukšys]]
 - [[objektai/asmenys/Povilas Russdortas]]
-- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Pranciškus (popiežiaus legatas)]]
 - [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
@@ -702,7 +705,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/SA smogikai]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
-- [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/daiktai/Sklandytuvai]]
 - [[objektai/daiktai/Skobnis]]
@@ -711,21 +713,21 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/daiktai/Sovietų lengvasis (rankinis) kulkosvaidis DP]]
-- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka]]
 - [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/posakiai/Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius]]
 - [[objektai/asmenys/Survila]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
 - [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)]]
 - [[objektai/paprociai/Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/asmenys/Tautvila]]
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
@@ -733,6 +735,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Tomas Survila]]
 - [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
 - [[objektai/asmenys/Treniota]]
+- [[objektai/daiktai/Trumpos ietys]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/asmenys/V. Vainauskas]]
 - [[objektai/asmenys/V. Zechau]]
@@ -747,7 +750,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Vilhelmas (Sabinos kardinolas)]]
 - [[objektai/zodynas/Vilija Vigilia Neris Nerige]]
 - [[objektai/grupes/Vilniaus gyventojai]]
-- [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
@@ -769,13 +771,11 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]
 - [[objektai/grupes/Vokiečių amatininkai Vilniuje]]
 - [[objektai/grupes/Vokiečių ir rusų pirkliai]]
-- [[objektai/grupes/Vokiečių literatų draugija]]
 - [[objektai/grupes/Vokiečių nacionalsocialistų partija]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
 - [[objektai/ivykiai/Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)]]
 - [[objektai/grupes/Vokiečių pirkliai]]
-- [[objektai/daiktai/Vokiškas automatinis šautuvas StG 44]]
 - [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]
 - [[objektai/grupes/Voluiniečiai]]
 - [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
@@ -799,7 +799,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Zenonas]]
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/asmenys/Zigmantas I]]
-- [[objektai/posakiai/`rex` `bazileus`]]
 - [[objektai/zodynas/administracinė linija]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/zodynas/alanai]]
@@ -825,8 +824,6 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/zodynas/krivė krivaitis]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha]]
-- [[objektai/zodynas/kultūrinė autonomija]]
-- [[objektai/zodynas/laikraštpalaikis]]
 - [[objektai/zodynas/liaudies demokratija]]
 - [[objektai/zodynas/lietuvininkai]]
 - [[objektai/zodynas/maldininkai]]
@@ -866,7 +863,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/zodynas/šventas sumanymas]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
 - [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
+- [[objektai/ivykiai/Žemaičių išsivadavimas iš vokiečių valdžios ir Vytauto globa]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]
 - [[objektai/grupes/Žemaičių medininkai]]
 - [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]
 - [[objektai/grupes/Žiemgaliai]]
@@ -904,6 +902,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
 - [[objektai/grupes/Liuksemburgiečių dinastija]]
+- [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Lotoriai]]
 - [[objektai/autoriai/M. Oehler]]
 - [[objektai/daiktai/Malūnas]]
@@ -916,4 +915,3 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - [[objektai/autoriai/W. Eckert]]
 - [[objektai/autoriai/Werminghoee, A]]
 - [[objektai/zodynas/neofitas]]
-- [[objektai/zodynas/tautiška politika]]

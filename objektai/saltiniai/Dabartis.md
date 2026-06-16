@@ -15,7 +15,6 @@ tags:
 Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį". Vilių Steputaitį (vokiečių okupacijos metu jis kurį laiką redagavo lietuviams skirtą laikraštį „Dabartį").
 
 ## Teiginiai
-
 <a id="claim-t-45672"></a>
 - t-001
   global_id: t-45672
@@ -23,8 +22,7 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

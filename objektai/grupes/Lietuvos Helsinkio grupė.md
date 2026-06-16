@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-1976 susikuria Helsinkio grupė. Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus. Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė, poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo.
+Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis. Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus. Lietuvos Helsinkio grupė susikūrė 1976 m.
 
 ## Teiginiai
 
@@ -46,22 +46,15 @@ amziai:
   pagrindžia:
     - c-003
 
-<a id="claim-t-74676"></a>
-- t-004
-  global_id: t-74676
-  teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-74677"></a>
-- t-005
+- t-004
   global_id: t-74677
-  teiginys: 'Andrejaus Sacharovo iniciatyva SSRS kūrėsi Helsinkio akto įgyvendinimą stebėjusios ir apie žmogaus teisių pažeidimus pranešusios grupės.'
+  teiginys: 'Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-74678"></a>
-- t-006
+- t-005
   global_id: t-74678
   teiginys: '1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.'
   pagrindžia:
@@ -86,7 +79,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-    - t-005
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,7 +96,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-    - t-004
 
 - c-003
   santrauka: 'Lietuvos Helsinkio grupė susikūrė 1976 m.'
@@ -141,7 +133,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -156,7 +148,6 @@ amziai:
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Balys Gajauskas]]
-- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/asmenys/Viktoras Petkus]]
 - [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

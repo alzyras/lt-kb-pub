@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinberc) Spitteynen Spittels Sprūdės kalnas Stabo (dab.
+Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras. Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.
 
 ## Teiginiai
 
 <a id="claim-t-58730"></a>
 - t-001
   global_id: t-58730
-  teiginys: 'Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinberc) Spitteynen Spittels Sprūdės kalnas Stabo (dab.'
+  teiginys: 'Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Spąsčių kalnas
@@ -43,7 +44,7 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
     - t-001
 
 - c-002
-  santrauka: 'Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinberc) Spitteynen Spittels Sprūdės kalnas Stabo (dab.'
+  santrauka: 'Stabo ežeras nurodomas kaip dabartinis Kamienne ežeras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sniardwy), ež.

@@ -10,10 +10,10 @@ date_start: '1321'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - simbolis
 amziai:
   - 'XIV'
+tags:
+  - simbolis
 ---
 # Aukuras
 
@@ -43,7 +43,6 @@ Prie aukuro kūrenosi amžinoji ugnis.
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-55031"></a>
 - t-001
   global_id: t-55031
@@ -66,7 +65,6 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -83,7 +81,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -106,7 +103,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -18,21 +18,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė jo nešulius, atėmė imperatoriaus laišką ir paleido jį laisvėn.
+Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.
 
 ## Teiginiai
 
 <a id="claim-t-186191"></a>
 - t-001
   global_id: t-186191
-  teiginys: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė jo nešulius, atėmė imperatoriaus laišką ir paleido jį laisvėn.'
+  teiginys: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė jo nešulius, atėmė imperatoriaus laišką ir paleido jį laisvėn.'
+  santrauka: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Viskam

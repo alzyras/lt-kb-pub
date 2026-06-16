@@ -6,26 +6,24 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1655 m.'
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - sąvoka
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - sąvoka
 ---
 # kapitula
 
 ## Santrauka
 
-XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.
+Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį. Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.
 
 ## Teiginiai
-
 <a id="claim-t-70167"></a>
 - t-001
   global_id: t-70167
@@ -40,15 +38,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   pagrindžia:
     - c-001
 
-<a id="claim-t-182951"></a>
-- t-003
-  global_id: t-182951
-  teiginys: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -63,7 +53,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Ordino kapitulai sutikus, kryžiuočių viršininkas pavedė Vytautui valdyti Naują Marienburgo pilį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -80,24 +69,9 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   pagrindžia:
     - t-001
 
-- c-003
-  santrauka: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XVII amžiuje
-    kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė ru-
-    sai. Tuomet iš katedros buvo išvežtos visos brangenybės ir paslėptos
-    nuo rusų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
 - [[objektai/asmenys/Aaronas]]
 - [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)]]
@@ -175,8 +149,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
-- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
 - [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
 - [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
 - [[objektai/asmenys/Zigfridas iš Foichtvangeno]]
@@ -201,7 +173,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/zodynas/pūdas talentas]]
 - [[objektai/zodynas/suma]]
 - [[objektai/zodynas/tautinė sąmonė]]
-- [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/činšas]]
@@ -212,7 +183,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
 - [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/Jus Patronatus]]
 - [[objektai/asmenys/Kristupas Varševickis]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]

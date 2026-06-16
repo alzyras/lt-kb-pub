@@ -74,6 +74,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ### Susiję objektai
 - [[objektai/asmenys/Druzigeris]]
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/asmenys/Andrejus Kurbskis]]

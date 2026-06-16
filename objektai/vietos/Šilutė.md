@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.
+1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą. 1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba.
 
 ## Teiginiai
 
@@ -29,42 +29,18 @@ amziai:
   global_id: t-69891
   teiginys: '1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-69892"></a>
-- t-002
-  global_id: t-69892
-  teiginys: 'Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 <a id="claim-t-69893"></a>
-- t-003
+- t-002
   global_id: t-69893
   teiginys: '1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sukilėlių pajėgos
-    Vyriausiasis Mažosios Lietuvos gelbėjimo
-    komitetas įsikūrė Šilutėje. Sausio 8 d. su-
-    kilėlių kariuomenės vadas J. Budrys slaptu
-    įsakymu suformavo ypatingos paskir-
-    ties rinktinę, jos štabo viršininku paskyrė
-    Oksą (kpt. Juozą Tomkų).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie sukilimo prisidėjo apie
@@ -83,9 +59,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-003
+- c-002
   santrauka: '1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

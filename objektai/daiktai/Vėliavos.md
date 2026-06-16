@@ -27,7 +27,7 @@ amziai:
 
 ## Santrauka
 
-Vyriausioji Lenkijos vėliava pateko į priešų rankas. Lietuvos pulkai paskui save buvo patraukę eilę priešo vėliavų. Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Šiame šaltinyje papildomai matyti, kad Algirdas prie Maskvos pasirodė išskleidęs vėliavas, o Žalgirio mūšyje Smolensko vėliavos dengė lenkų kraštines pozicijas ir krito didžioji Krokuvos vėliava.
+Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis. Prie karūžojo buvo laikoma karės vėliava tos apykartos. Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.
 
 ## Pavadinimai šaltiniuose
 
@@ -131,7 +131,7 @@ Nenurodyta
 <a id="claim-t-176207"></a>
 - t-012
   global_id: t-176207
-  teiginys: 'Vytauto vadovaujami Lietuvos pulkai paskui save buvo patraukę kelias priešo vėliavas.'
+  teiginys: 'Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką.'
   pagrindžia:
     - c-016
 
@@ -180,7 +180,7 @@ Nenurodyta
 <a id="claim-t-176215"></a>
 - t-019
   global_id: t-176215
-  teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
+  teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
   pagrindžia:
     - c-018
 
@@ -446,7 +446,7 @@ Nenurodyta
     - t-011
 
 - c-016
-  santrauka: 'Vytauto vadovaujami Lietuvos pulkai paskui save buvo patraukę kelias priešo vėliavas.'
+  santrauka: 'Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jiems galėjo atrodyti, jog susilpnėjęs prie­
@@ -476,7 +476,7 @@ Nenurodyta
     - t-013
 
 - c-018
-  santrauka: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
+  santrauka: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagal istorinę tradiciją Vytautas
@@ -585,6 +585,7 @@ Nenurodyta
 - [[objektai/asmenys/H. Brantas]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/ivykiai/Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos|Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]

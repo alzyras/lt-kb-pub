@@ -47,5 +47,4 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Vokiečiai]]

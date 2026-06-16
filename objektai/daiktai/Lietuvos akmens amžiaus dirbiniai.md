@@ -36,7 +36,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-64956"></a>
 - t-001
   global_id: t-64956
@@ -51,22 +50,20 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-64960"></a>
-- t-003
-  global_id: t-64960
-  teiginys: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-64961"></a>
 - t-004
   global_id: t-64961
   teiginys: 'Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais.'
   pagrindžia:
     - c-003
+- t-005
+  teiginys: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -80,7 +77,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -97,7 +93,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -111,7 +106,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-004
   santrauka: 'Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -124,11 +118,13 @@ Nenurodyta
     galai, 16—17 gintariniai amuletai, 18—22 gintariniai papuošalai, 23 puodas,
     24 akmuo, ant kurio su kitu akmeniu trindavo pabertus grūdus, — savotiškos
     girnos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

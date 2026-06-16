@@ -20,20 +20,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.
+1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.
 
 ## Teiginiai
 
 <a id="claim-t-35034"></a>
 - t-001
   global_id: t-35034
-  teiginys: '1387 m. vasarą Jogaila pasiuntė kariuomenę atimti Haličą iš Vengrijos kašteliono Benedikto.'
+  teiginys: '1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1387 m. vasarą Jogaila pasiuntė Vytautą su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, numalšinęs sukilimą, nebegrįžo į Krokuvą, bet
@@ -53,6 +54,5 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/grupes/Švento Benedikto ordinas]]

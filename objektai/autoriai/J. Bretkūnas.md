@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
+J. Bretkūno postilė datuojama 1591 m. J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
 
 ## Teiginiai
 
 <a id="claim-t-05718"></a>
 - t-001
   global_id: t-05718
-  teiginys: 'J. Bretkūno postilė siejama su 1591 m.'
+  teiginys: 'J. Bretkūno postilė datuojama 1591 m.'
   pagrindžia:
     - c-002
 
@@ -48,6 +48,7 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
     - t-002
 
 - c-002
+  santrauka: 'J. Bretkūno postilė datuojama 1591 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1591 m. J. Bretkūno postilė.

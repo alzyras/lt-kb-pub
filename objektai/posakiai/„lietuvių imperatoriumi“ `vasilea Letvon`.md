@@ -1,20 +1,25 @@
 ---
 tipas: posakis
-pavadinimas: '„lietuvių imperatoriumi“ `vasilea Letvon`'
+pavadinimas: "„lietuvių imperatoriumi“ `vasilea Letvon`"
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1371 m.'
 date_start: '1371'
 date_end: ''
+aliases:
+  - '„lietuvių imperatoriumi“ `vasilea Letvon'
+  - 'objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon'
+variantai:
+  - '„lietuvių imperatoriumi“ `vasilea Letvon'
+amziai:
+  - 'XIV'
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - posakis
   - valdovas
-amziai:
-  - 'XIV'
 ---
 # „lietuvių imperatoriumi“ `vasilea Letvon`
 
@@ -23,23 +28,19 @@ amziai:
 Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –.
 
 ## Teiginiai
-
-<a id="claim-t-101633"></a>
+<a id="claim-t-186395"></a>
 - t-001
-  global_id: t-101633
+  global_id: t-186395
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“).'
   pagrindžia:
     - c-001
-
-<a id="claim-t-101634"></a>
+<a id="claim-t-186396"></a>
 - t-002
-  global_id: t-101634
+  global_id: t-186396
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
   pagrindžia:
     - c-001
-
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -58,12 +59,11 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon]]

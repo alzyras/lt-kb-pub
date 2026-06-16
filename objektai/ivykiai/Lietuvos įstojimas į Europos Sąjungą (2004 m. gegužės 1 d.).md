@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis. Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys. Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.
+Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams. Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.
 
 ## Laikotarpis ir datos
 
@@ -40,47 +40,18 @@ Nenurodyta
   global_id: t-75222
   teiginys: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-75223"></a>
 - t-002
   global_id: t-75223
   teiginys: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-75224"></a>
-- t-003
-  global_id: t-75224
-  teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-75225"></a>
-- t-004
-  global_id: t-75225
-  teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
-  pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo oficialių diplomatinių
-    santykių su Lietuva užsimezgimo ES per PHARE programą pradėjo teikti
-    pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
-    (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
-    tapti ES narėmis. 2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę
-    kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-002
   santrauka: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -97,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -115,12 +86,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/peticija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

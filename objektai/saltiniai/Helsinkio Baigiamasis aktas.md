@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasirašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti žmogaus teises savo viduje. Tam padėjo 1975 m. Helsinkio Baigiamasis aktas, kuriuo dalyvės įsipareigojo gerbti žmogaus teises. Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
+Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus. Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą. 1975 m. Helsinkio Baigiamuoju aktu jo dalyvės įsipareigojo gerbti žmogaus teises.
 
 ## Teiginiai
 
@@ -49,13 +49,14 @@ Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kan
 <a id="claim-t-75454"></a>
 - t-004
   global_id: t-75454
-  teiginys: 'Lietuvos laisvės bylai pasitarnavo 1975 m. rugpjūčio 1 d. Helsinkyje JAV, Kanados ir 33 Europos valstybių (tarp jų ir Sovietų Sąjungos) pasirašytas Baigiamasis aktas – jį pasirašiusios valstybės įsipareigojo gerbti žmogaus teises savo viduje.'
+  teiginys: '1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1975 m. rugpjūčio 1 d. Helsinkyje pasirašytas Baigiamasis aktas padėjo Lietuvos laisvės bylai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     žeidimus), informuoti apie Lietuvos bylą Vakarų pasaulį, bendradarbiauti

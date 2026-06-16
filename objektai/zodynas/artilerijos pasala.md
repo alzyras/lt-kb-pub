@@ -14,20 +14,21 @@ tags:
 
 ## Santrauka
 
-Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas, ją pasiekiant didelę reikšmę turėjo šio didžiojo etmono vadovavimo sugebėjimai, jo kariuomenės kovinės savybės, suderinti kariuomenės dalių veiksmai, puikūs taktiniai manevrai -.
+Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.
 
 ## Teiginiai
 
 <a id="claim-t-42432"></a>
 - t-001
   global_id: t-42432
-  teiginys: 'Per Oršos mūšį atsitraukiant priešas buvo atviliotas į artilerijos pasalą.'
+  teiginys: 'Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     vėl atiteko Mstislavlis, Dubrovnos,
@@ -65,6 +66,7 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/zodynas/karyba]]

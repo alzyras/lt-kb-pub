@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi. Promaskviniai būriai turėjo įsiveržti į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskirties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas) ir.
+Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę. Kazimiera Prunskienė priėmė sprendimą padidinti maisto produktų kainas, kuriuo pasinaudojo promaskviniai būriai. Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė įmonių savarankiškumą bei rinkos laisvę.
 
 ## Teiginiai
 
@@ -40,7 +40,7 @@ tags:
 <a id="claim-t-183547"></a>
 - t-004
   global_id: t-183547
-  teiginys: 'Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas pasinaudota rengiant planą nuversti teisėtą Lietuvos valdžią.'
+  teiginys: '1991 m. sausį promaskviniai būriai pasinaudojo Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas, siekdami nuversti teisėtą Lietuvos valdžią.'
   pagrindžia:
     - c-002
 

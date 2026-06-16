@@ -11,11 +11,11 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XX'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Kaišiadorys
 
@@ -24,7 +24,6 @@ amziai:
 Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis.
 
 ## Teiginiai
-
 <a id="claim-t-68034"></a>
 - t-001
   global_id: t-68034
@@ -33,7 +32,6 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

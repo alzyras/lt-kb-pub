@@ -70,5 +70,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Karolis (Prancūzijos karaliaus brolis)]]

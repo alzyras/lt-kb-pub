@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis lietuvis“ minima kaip Vilniuje veikusi masonų ložė, kurios 1816 m. sąraše buvo 114 narių, o 1819 m. į ją įstojo M. Balinskis.
+1816 m. ložės Uolusis Lietuvis sąraše buvo 114 narių, tarp jų nemažai Vilniaus universiteto profesorių. 1819 m. Michał Balińskis įstojo į masonų ložę „Uolusis lietuvis“. „Uolusis lietuvis“ („Gorliwy Litwin“) buvo vadinama garsiausiąja lože.
 
 ## Teiginiai
 
@@ -47,7 +47,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 <a id="claim-t-183171"></a>
 - t-004
   global_id: t-183171
-  teiginys: 'Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui garsiausioji ložė vadinosi „Uolusis lietuvis“.'
+  teiginys: 'Po 1812 m. Lietuvoje išpopuliarėjus masonų judėjimui, „Uolusis lietuvis“ buvo garsiausioji masonų ložė.'
   pagrindžia:
     - c-002
 

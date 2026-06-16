@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.
+1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje. ) Ordino valdas pavyslyje iki Kristburgo (III, 192).
 
 ## Laikotarpis ir datos
 
@@ -49,7 +49,7 @@ Nenurodyta
 <a id="claim-t-89408"></a>
 - t-002
   global_id: t-89408
-  teiginys: 'Dusburgietis teigia, kad ) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
+  teiginys: ') Ordino valdas pavyslyje iki Kristburgo (III, 192).'
   pagrindžia:
     - c-001
 

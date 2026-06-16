@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Dusburgietis teigia, kad kartą, jam pasilikus su kitais prie minėtųjų laivų, atplaukė penkiais laivais ginkluoti prūsai; kai jie priplaukė su savo laivais arčiau, kėsindamiesi sunaikinti mūsiškius, brolis Ulrichas pagriebė savo laivo stiebą ir pradėjo daužyti jų laivus, o tiek jų.
+Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo. Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.
 
 ## Teiginiai
 
 <a id="claim-t-60214"></a>
 - t-001
   global_id: t-60214
-  teiginys: 'Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo apibūdinamas kaip itin stipraus kūno sudėjimo brolis.'
+  teiginys: 'Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.'
   pagrindžia:
     - c-001
 
@@ -66,3 +66,4 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/autoriai/Petras Dusburgietis]]

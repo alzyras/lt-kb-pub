@@ -15,28 +15,21 @@ tags:
 
 ## Santrauka
 
-Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus buitį normuojančius įstatymus. Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.
+Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus. Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje. Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje.
 
 ## Teiginiai
 
 <a id="claim-t-169573"></a>
 - t-001
   global_id: t-169573
-  teiginys: 'Chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir sušvelninti buitį normuojančius įstatymus.'
+  teiginys: 'Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-169575"></a>
 - t-002
   global_id: t-169575
-  teiginys: 'Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-169576"></a>
-- t-003
-  global_id: t-169576
-  teiginys: 'Nors chasidizmas buvo liberalesnė ir demokratiškesnė judaizmo atšaka, atsisakydamas griežtų religijos, dorovės ir apskritai gyvensenos normų, kėlė pavojų pačiam žydiškumui išlaikyti.'
+  teiginys: 'Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -60,6 +53,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
     - t-003
 
 - c-002
+  santrauka: 'Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gaonas ir „Šiaurės Jeruzalė“

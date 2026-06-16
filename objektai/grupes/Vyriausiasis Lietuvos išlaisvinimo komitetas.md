@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje veikė Vyriausiasis Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių politines jėgas. Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.
+1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių. Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.
 
 ## Teiginiai
 
@@ -21,44 +21,19 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
   global_id: t-66324
   teiginys: '1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-66325"></a>
-- t-002
-  global_id: t-66325
-  teiginys: '1943–1944 m. pogrindyje veikė Vyriausiasis Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių politines jėgas.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 <a id="claim-t-66326"></a>
-- t-003
+- t-002
   global_id: t-66326
-  teiginys: 'Iš Europos į JAV persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas siekė tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
+  teiginys: 'Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    antinacinė agitacija, raginta nestoti į vokiečių organizuojamus karinius
-    dalinius, nevykti darbams į Vokietiją, nevykdyti žemės ūkio prievolių,
-    išsaugoti lietuvių kultūros ir švietimo įstaigas, demaskuoti kolaborantus.
-    Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė
-    į Lietuvių frontą (LF) ir Lietuvių vienybės sąjūdį, o liberaliai nusistatę
-    tautininkai – į Lietuvos laisvės kovotojų sąjungą (LLKS), abi kryptys lei-
-    do pogrindinius leidinius. 1943–1944 m. pogrindyje veikė Vyriausiasis
-    Lietuvos išlaisvinimo komitetas (VLIK’as), suvienijęs skirtingas lietuvių
-    politines jėgas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Iš Europos į JAV persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas siekė tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
+  santrauka: 'Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atkūrus Lietuvos
@@ -72,9 +47,9 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-003
+- c-002
   santrauka: '1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

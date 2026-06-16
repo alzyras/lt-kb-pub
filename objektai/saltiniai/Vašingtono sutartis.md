@@ -15,47 +15,27 @@ tags:
 
 ## Santrauka
 
-2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare. Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.
+Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę. Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.
 
 ## Teiginiai
 
 <a id="claim-t-75524"></a>
 - t-001
   global_id: t-75524
-  teiginys: 'Vašingtono sutarties 5-ajame straipsnyje pabrėžiamas pagrindinis narystės NATO pranašumas.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-75525"></a>
-- t-002
-  global_id: t-75525
-  teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
+  teiginys: 'Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-75526"></a>
-- t-003
+- t-002
   global_id: t-75526
   teiginys: 'Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    2003 m. kovą
-    pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
-    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
-    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
   santrauka: 'Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -73,5 +53,5 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
     - t-001

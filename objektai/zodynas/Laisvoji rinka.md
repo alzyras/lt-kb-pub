@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuosmukį, nes 22 proc. Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
+Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų. Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS. Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
 
 ## Teiginiai
 
@@ -26,7 +26,7 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
 <a id="claim-t-75566"></a>
 - t-002
   global_id: t-75566
-  teiginys: 'Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį nei dešimties procentų nuosmukį, nes 22 proc. produkcijos eksportavo į SSRS.'
+  teiginys: 'Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS.'
   pagrindžia:
     - c-001
 

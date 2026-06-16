@@ -69,5 +69,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/unija]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/daiktai/Valstybės antspaudai]]

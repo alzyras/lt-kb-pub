@@ -61,6 +61,7 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/K. Būga]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
 - [[objektai/asmenys/Flekenšteinas]]
 - [[objektai/asmenys/Gebhardas iš Manstfeldo]]

@@ -10,13 +10,13 @@ date_start: '1921'
 date_end: '1928'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - grupe
   - kraštas
   - seimas
   - valstybė
-amziai:
-  - 'XX'
 ---
 # Valstybės Taryba
 
@@ -25,7 +25,6 @@ amziai:
 Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Valstybės Tarybos darbuose.
 
 ## Teiginiai
-
 <a id="claim-t-75012"></a>
 - t-001
   global_id: t-75012
@@ -34,7 +33,6 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -68,7 +66,6 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/asmenys/Maksas fon Badenas]]
 - [[objektai/grupes/Ministerių kabinetas]]
-- [[objektai/grupes/Naujoji Lenkų Valstybės Taryba|Naujoji Lenkų Valstybės Taryba (institucija)]]
 - [[objektai/asmenys/S. Šilingas]]
 - [[objektai/zodynas/rekvizicijos]]
 - [[objektai/zodynas/tautos atstovai]]

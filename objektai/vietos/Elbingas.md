@@ -11,29 +11,28 @@ date_start: '1237'
 date_end: '1466'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
+  - 'XV'
 tags:
   - kraštas
   - ordinas
   - vieta
   - vyskupas
-amziai:
-  - 'XIII'
-  - 'XV'
 ---
 # Elbingas
 
 ## Santrauka
 
-Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų: jis minimas kaip 1237 m. prie Gėlo vandens marių įkurta pilis, karo ir aprūpinimo mazgas, puolimo taikinys ir vieta, kur 1303 m. didysis magistras Gotfridas atsisakė pareigų.
+Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje. Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių. Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
 
 ## Teiginiai
-
 <a id="claim-t-90342"></a>
 - t-001
   global_id: t-90342
   teiginys: 'Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje.'
   pagrindžia:
-    - c-019
+    - c-017
 
 <a id="claim-t-90343"></a>
 - t-002
@@ -45,16 +44,16 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 <a id="claim-t-90344"></a>
 - t-003
   global_id: t-90344
-  teiginys: 'Dusburgietis teigia, kad torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
+  teiginys: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-90345"></a>
 - t-004
   global_id: t-90345
-  teiginys: 'Elbingo broliai, stokodami atsargų ir laukdami laivų, pasiuntė atgal laivus ir žygūnus po žinių apie padėtį Kulmo žemėje.'
+  teiginys: 'Elbingo broliai, stokodami atsargų ir laukdami laivų, gavę žinių apie Kulmo žemę pasiuntė atgal laivus ir žygūnus.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-90346"></a>
 - t-005
@@ -68,7 +67,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   global_id: t-90347
   teiginys: '1303 m. didysis magistras Gotfridas Elbingo kapituloje atsisakė savo pareigų.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-90348"></a>
 - t-007
@@ -77,127 +76,112 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   pagrindžia:
     - c-003
 
-<a id="claim-t-90349"></a>
-- t-008
-  global_id: t-90349
-  teiginys: 'Per sukilimą Prūsuose nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo pilys.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-90350"></a>
-- t-009
+- t-008
   global_id: t-90350
   teiginys: 'Sventopelkas puolė Elbingo pilį ir miestą, manydamas, kad ten beveik neliko nei brolių, nei miestiečių.'
   pagrindžia:
     - c-006
 
-<a id="claim-t-90351"></a>
-- t-010
-  global_id: t-90351
-  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
-  pagrindžia:
-    - c-018
-
 <a id="claim-t-90352"></a>
-- t-011
+- t-009
   global_id: t-90352
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių.'
   pagrindžia:
-    - c-016
+    - c-015
 
 <a id="claim-t-90353"></a>
-- t-012
+- t-010
   global_id: t-90353
   teiginys: '1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.'
   pagrindžia:
-    - c-015
+    - c-014
 
 <a id="claim-t-90354"></a>
-- t-013
+- t-011
   global_id: t-90354
   teiginys: '1237 m. Elbingo pilis buvo pastatyta toje vietoje, kur Elbingo upė įteka į Gėlo vandens marias.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90355"></a>
-- t-014
+- t-012
   global_id: t-90355
   teiginys: '1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.'
   pagrindžia:
-    - c-013
+    - c-012
 
 <a id="claim-t-90356"></a>
-- t-015
+- t-013
   global_id: t-90356
-  teiginys: 'Pavergę pamedėnus, magistras ir broliai ryžosi pradėti karą su pagudėnais.'
+  teiginys: '1237 m. magistras su broliais ir maldininkais Pagudėje pastatė pilį, kurią nuo Elbingo upės vardo pavadino Elbingu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90357"></a>
-- t-016
+- t-014
   global_id: t-90357
   teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis bei saugoti Gėlo vandens marias.'
   pagrindžia:
-    - c-011
+    - c-010
 
 <a id="claim-t-90358"></a>
-- t-017
+- t-015
   global_id: t-90358
   teiginys: '1237 m. Ordino broliai Pagudėje pastatė pilį prie Elbingo upės ir pavadino ją Elbingu.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-90359"></a>
-- t-018
+- t-016
   global_id: t-90359
   teiginys: 'Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.'
   pagrindžia:
-    - c-010
+    - c-009
 
 <a id="claim-t-90360"></a>
-- t-019
+- t-017
   global_id: t-90360
   teiginys: 'Magistras Poponas pasiuntė Konradą Bremerį su būriu ginklanešių nugabenti į Elbingą tris maisto prikrautus laivus.'
   pagrindžia:
-    - c-014
+    - c-013
 
 <a id="claim-t-90361"></a>
-- t-020
+- t-018
   global_id: t-90361
   teiginys: 'Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-90362"></a>
-- t-021
+- t-019
   global_id: t-90362
   teiginys: 'Pomeranijos kunigaikštis Sventopelkas sutelkė kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.'
   pagrindžia:
-    - c-012
+    - c-011
 
 <a id="claim-t-90363"></a>
-- t-022
+- t-020
   global_id: t-90363
   teiginys: 'Elbingo pilis iš pradžių buvo laikini žemių ir medžio įtvirtinimai Elbingo deltos saloje.'
   pagrindžia:
-    - c-017
+    - c-016
 
 <a id="claim-t-90364"></a>
-- t-023
+- t-021
   global_id: t-90364
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184151"></a>
-- t-024
+- t-022
   global_id: t-184151
   teiginys: 'Elbingo broliai pasiuntė 60 krikščionių vyrų į pagalbą atsitraukiantiems pilies ir miesto gynėjams.'
   pagrindžia:
-    - c-020
+    - c-018
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -215,11 +199,10 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
-    - t-023
     - t-013
-    - t-017
-
+    - t-021
+    - t-011
+    - t-015
 - c-002
   santrauka: 'Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -233,8 +216,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-020
-
+    - t-018
 - c-003
   santrauka: 'Dusburgietis apie Elbingo pilį prie to paties vardo upės žiočių rašė remdamasis ir kitų pasakojimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -252,7 +234,6 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-004
   santrauka: 'Elbingo broliai pasiuntė į pagalbą 60 krikščionių vyrų, kurie po žinios apie sudegintą pilį ir miestą patraukė į Elbingą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -267,8 +248,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-005
+  santrauka: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
@@ -280,7 +261,6 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -295,8 +275,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-
+    - t-008
 - c-007
   santrauka: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -311,23 +290,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-008
-  santrauka: 'Per sukilimą Prūsuose nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo pilys.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas atsidūrė dideliam pavojuj. Ypač labai išsi-
-    plėtė sukilimas Prūsuose, kur buvo sunaikintos beveik visos or-
-    dino pilys ir išžudytos jų įgulos. Nesugriautos liko tik Karaliau-
-    čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
-- c-009
-  santrauka: 'Elbingo broliai, stokodami atsargų ir laukdami laivų, pasiuntė atgal laivus ir žygūnus po žinių apie padėtį Kulmo žemėje.'
+  santrauka: 'Elbingo broliai, stokodami atsargų ir laukdami laivų, gavę žinių apie Kulmo žemę pasiuntė atgal laivus ir žygūnus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     51 (50). Dar kartų apie tą patį
@@ -341,8 +305,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-010
+- c-009
   santrauka: 'Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -361,9 +324,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-018
-
-- c-011
+    - t-016
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
@@ -373,9 +335,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-
-- c-012
+    - t-014
+- c-011
   santrauka: 'Pomeranijos kunigaikštis Sventopelkas sutelkė kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -390,9 +351,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-021
-
-- c-013
+    - t-019
+- c-012
   santrauka: '1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -409,10 +369,9 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-012
     - t-006
-
-- c-014
+- c-013
   santrauka: 'Magistras Poponas pasiuntė Konradą Bremerį su būriu ginklanešių nugabenti į Elbingą tris maisto prikrautus laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -429,9 +388,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-019
-
-- c-015
+    - t-017
+- c-014
   santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -448,9 +406,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
-
-- c-016
+    - t-010
+- c-015
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -470,9 +427,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
-
-- c-017
+    - t-009
+- c-016
   santrauka: 'Elbingo pilis iš pradžių buvo laikini žemių ir medžio įtvirtinimai Elbingo deltos saloje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -487,22 +443,8 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-022
-
-- c-018
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1466 m. Torne buvo pasirašyta taika, kuria ordinas
-    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
-    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
-    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-019
+    - t-020
+- c-017
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Elbingo broliai, kurie laukė atplaukiant tų laivų, didžiai nerimaudami ir visa ko stokodami,
@@ -516,8 +458,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-020
+- c-018
   santrauka: 'Elbingo broliai pasiuntė 60 krikščionių vyrų į pagalbą atsitraukiantiems pilies ir miesto gynėjams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -530,4 +471,4 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-022

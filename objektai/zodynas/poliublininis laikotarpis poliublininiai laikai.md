@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline. Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos. Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais.
+Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos. Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje. Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę.
 
 ## Teiginiai
 
@@ -58,7 +58,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 <a id="claim-t-103843"></a>
 - t-005
   global_id: t-103843
-  teiginys: 'Kojalavičius iki T. Narbuto laikų paliko tradiciją poliublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+  teiginys: 'Kojalavičius, baigęs istoriją Žygimanto Augusto mirtimi, įtvirtino tradiciją iki T. Narbuto laikų nebetęsti atskiros Lietuvos istorijos po Liublino unijos.'
   pagrindžia:
     - c-004
 
@@ -115,6 +115,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-004
 
 - c-004
+  santrauka: 'Kojalavičius, baigęs istoriją Žygimanto Augusto mirtimi, įtvirtino tradiciją iki T. Narbuto laikų nebetęsti atskiros Lietuvos istorijos po Liublino unijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Palyginti, objektyviai išdės­
@@ -139,7 +140,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]

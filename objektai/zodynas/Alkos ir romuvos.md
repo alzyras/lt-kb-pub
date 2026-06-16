@@ -36,31 +36,28 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-06171"></a>
-- t-001
-  global_id: t-06171
+- t-004
   teiginys: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-06172"></a>
-- t-002
-  global_id: t-06172
-  teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-06173"></a>
-- t-003
-  global_id: t-06173
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
   teiginys: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O šitos šventovės
@@ -68,13 +65,15 @@ Nenurodyta
     Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
     dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
     kakapių, Alkų kaimų — pilna Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-004
 - c-002
+  santrauka: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
@@ -87,12 +86,14 @@ Nenurodyta
     nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-002
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

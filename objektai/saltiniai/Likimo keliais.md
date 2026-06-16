@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo kelių” turinį sudaro savotiškai pasakiškas pasakoji­ mas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­ siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę, ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią. Labai reikšmingą priedą prie „Likimo kelių” sudaro V.
+„Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais. „Likimo keliais“ pasakoja apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva. V. Bičiūno pastabos ir komentarai prie „Likimo kelių“ aiškino autoriaus intencijas, tikslą ir veikalo idėją.
 
 ## Teiginiai
 
@@ -28,7 +28,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
 <a id="claim-t-36079"></a>
 - t-002
   global_id: t-36079
-  teiginys: '„Likimo kelių“ turinį sudaro pasakiškas pasakojimas apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva.'
+  teiginys: '„Likimo keliais“ pasakoja apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva.'
   pagrindžia:
     - c-003
 
@@ -75,6 +75,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
     - t-003
 
 - c-003
+  santrauka: '„Likimo keliais“ pasakoja apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Abiejų

@@ -49,3 +49,4 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/zodynas/Veldėmė|veldėmė]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

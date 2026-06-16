@@ -115,4 +115,5 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
 - [[objektai/daiktai/Šalmas „Pappenheimer“]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/grupes/Žemaičiai]]

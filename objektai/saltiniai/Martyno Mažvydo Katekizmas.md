@@ -12,14 +12,14 @@ tags:
 
 ## Santrauka
 
-Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“. Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.
+Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga. Martyno Mažvydo „Katekizmas“ citatoje įvardijamas kaip pirmoji lietuviška knyga. 1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba.
 
 ## Teiginiai
 
 <a id="claim-t-71825"></a>
 - t-001
   global_id: t-71825
-  teiginys: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
+  teiginys: 'Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga.'
   pagrindžia:
     - c-002
 

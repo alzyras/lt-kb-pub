@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Masalskis. Masalskis ir Livonijos vyskupas J.
+1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose. Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo Edukacinės komisijos pirmininku. 1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.
 
 ## Teiginiai
 
@@ -45,7 +45,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 <a id="claim-t-75847"></a>
 - t-003
   global_id: t-75847
-  teiginys: '1792 m. birželio 25 d. Targovicos konfederacijai pritarusiai Vilniaus konfederacijai vadovavo ir Vilniaus vyskupas Ignotas Masalskis.'
+  teiginys: '1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.'
   pagrindžia:
     - c-002
 
@@ -85,7 +85,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
     - t-002
 
 - c-002
-  santrauka: '1792 m. birželio 25 d. Targovicos konfederacijai pritarusiai Vilniaus konfederacijai vadovavo ir Vilniaus vyskupas Ignotas Masalskis.'
+  santrauka: '1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl savo
@@ -171,7 +171,6 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/asmenys/Simonas Kosakovskis]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]

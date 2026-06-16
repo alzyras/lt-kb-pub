@@ -57,6 +57,7 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/daiktai/Duona]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
+- [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje]]
 - [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai]]
 - [[objektai/autoriai/August von Kotzebue]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
@@ -108,3 +109,4 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/zodynas/vėliavininkas]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]]
+- [[objektai/ivykiai/Mūšis prie Jieseldos|Mūšis prie Jieseldos (mūšis, XIII a.)]]

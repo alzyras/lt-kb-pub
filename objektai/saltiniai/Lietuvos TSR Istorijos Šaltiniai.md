@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
+Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m. Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
 
 ## Teiginiai
 
@@ -39,7 +39,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 <a id="claim-t-89531"></a>
 - t-003
   global_id: t-89531
-  teiginys: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  teiginys: 'Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
   pagrindžia:
     - c-001
 

@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Didysis X Lietuvos užsienio politikoje.
+A. Kasparavičiaus veikalas „Didysis X Lietuvos užsienio politikoje“ išleistas Vilniuje 1996 m.
 
 ## Teiginiai
 
 <a id="claim-t-78146"></a>
 - t-001
   global_id: t-78146
-  teiginys: 'Didysis X Lietuvos užsienio politikoje.'
+  teiginys: 'A. Kasparavičiaus veikalas „Didysis X Lietuvos užsienio politikoje“ išleistas Vilniuje 1996 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Kasparavičiaus veikalas „Didysis X Lietuvos užsienio politikoje“ išleistas Vilniuje 1996 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius, 2009.

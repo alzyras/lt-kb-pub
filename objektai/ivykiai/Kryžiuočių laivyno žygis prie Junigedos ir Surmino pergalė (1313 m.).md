@@ -150,6 +150,7 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Pilys]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/komtūras]]

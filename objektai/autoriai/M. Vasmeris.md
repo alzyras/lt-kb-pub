@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
+M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 
 ## Teiginiai
 
 <a id="claim-t-30852"></a>
 - t-001
   global_id: t-30852
-  teiginys: 'Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
+  teiginys: 'M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Vasmeris, nagrinėdamas rusų metraščių toponomastinę medžiagą, baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O rytų baltų gyventas

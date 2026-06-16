@@ -4,6 +4,7 @@ pavadinimas: 'Druckas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
+1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes. Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko. Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.
 
 ## Teiginiai
 
@@ -43,7 +44,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 <a id="claim-t-67842"></a>
 - t-003
   global_id: t-67842
-  teiginys: 'Kunigaikščio Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
+  teiginys: 'Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
   pagrindžia:
     - c-002
 
@@ -53,6 +54,13 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginys: 'Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką.'
   pagrindžia:
     - c-004
+
+<a id="claim-t-187574"></a>
+- t-005
+  global_id: t-187574
+  teiginys: 'Vytautas, žygiuodamas prieš Švitrigailą į Vitebską, pirmiausia atvyko prie Drucko pilies.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -75,7 +83,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-001
 
 - c-002
-  santrauka: 'Kunigaikščio Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
+  santrauka: 'Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Viena jų, vadovaujama
@@ -145,3 +153,18 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Vytautas, žygiuodamas prieš Švitrigailą į Vitebską, pirmiausia atvyko prie Drucko pilies.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didysis kunigaikštis Vytautas pasiėmė su sa­
+    vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
+    nę, ir išžygiavo į Vitebsko miestą prieš kunigaikštį
+    Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
+    Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005

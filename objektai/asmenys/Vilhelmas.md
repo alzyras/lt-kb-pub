@@ -9,13 +9,13 @@ date_start: '1383'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - pilis
 ---
 # Vilhelmas
 
@@ -24,7 +24,6 @@ periodo_grupes:
 Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti, buvo sulaikyta ir budriai saugoma. Jadvygos sužadėtinis Vilhelmas taip pat rūpinosi skubiai tapti Jadvygos vyru, taigi ir Lenkijos karalium.
 
 ## Teiginiai
-
 <a id="claim-t-51186"></a>
 - t-001
   global_id: t-51186
@@ -40,7 +39,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -73,7 +71,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 - [[objektai/paprociai/Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje]]
 - [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
-- [[objektai/ivykiai/Vienos išvadavimas (1683 m.)]]
 - [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
 - [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
 - [[objektai/zodynas/bažnytinė valstybė]]

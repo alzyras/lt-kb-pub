@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats, apsirengęs moteriškais.
+Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius. Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti. Nodamas, persirengęs moterimi, priviliojo kryžiuočius prie kranto ir sulaikė jų laivą, kol atskubėjo pasalos kariai.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 <a id="claim-t-184807"></a>
 - t-002
   global_id: t-184807
-  teiginys: 'Nodamas pažadėjo vadui padėti surengti gudrybę, kuri leistų susikauti su priešu ir jį nugalėti.'
+  teiginys: 'Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti.'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
     - t-001
 
 - c-002
-  santrauka: 'Nodamas pažadėjo vadui padėti surengti gudrybę, kuri leistų susikauti su priešu ir jį nugalėti.'
+  santrauka: 'Nodamas pažadėjo įgulos vadui padėti taip, kad kariai galėtų susikauti su priešu ir jį nugalėti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Vis dėlto jis sušaukė įgulą ir visus para­

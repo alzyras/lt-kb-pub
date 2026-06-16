@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.
+Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.
 
 ## Laikotarpis ir datos
 
@@ -39,13 +39,14 @@ Nenurodyta
 <a id="claim-t-77960"></a>
 - t-001
   global_id: t-77960
-  teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
+  teiginys: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su

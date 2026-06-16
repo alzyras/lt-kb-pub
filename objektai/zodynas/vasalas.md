@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be jo nieko negalėjo padaryti Lietuvoje.
+Vokiečių Prūsija tapo Lenkijos karūnos vasale. Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir priimtų įvesdinimą. 1384 m. sausio 30 d. Karaliaučiuje Vytautas išdavė magistrui raštą, pasižadėdamas būti jo vasalu.
 
 ## Teiginiai
 
@@ -50,30 +50,23 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 <a id="claim-t-111385"></a>
 - t-004
   global_id: t-111385
-  teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Vytauto rankų priimtų įvesdinimą.'
+  teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Lietuvos valdovo priimtų įvesdinimą.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-111386"></a>
 - t-005
   global_id: t-111386
-  teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
+  teiginys: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-111387"></a>
-- t-006
-  global_id: t-111387
-  teiginys: 'Ankstyvaisiais Viduramžiais popiežiai maloningai priimdavo valstybių krikštus, ir šios tapdavo popiežiaus ar imperatoriaus vasalėmis.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-182988"></a>
-- t-007
+- t-006
   global_id: t-182988
   teiginys: 'Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +86,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - t-003
 
 - c-002
-  santrauka: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Vytauto rankų priimtų įvesdinimą.'
+  santrauka: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Lietuvos valdovo priimtų įvesdinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     150
@@ -155,6 +148,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - t-001
 
 - c-005
+  santrauka: 'Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
@@ -171,24 +165,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - t-005
 
 - c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Viduramžių Europą, kur gyveno
-    suomiai, estai, latviai, prūsai ir lietuviai, laikyti „naujausiąja“ Viduramžių
-    Europa. Ankstyvaisiais Viduramžiais popiežiai maloningai priimdavo
-    valstybių krikštus, ir šios tapdavo popiežiaus ar imperatoriaus vasalėmis.
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    31
-    Naujosios Europos tautoms buvo leidžiama krikštytis ir tapti imperatoriaus
-    vasalėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-007
   santrauka: 'Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -203,7 +179,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -227,9 +203,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
 - [[objektai/asmenys/Geremferdenas]]
 - [[objektai/posakiai/Herczog von Traken von Gottes Gnaden]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]
+- [[objektai/ivykiai/Jurijaus Svetoslavovičiaus priesaika Jogailai ir Skirgailai]]
 - [[objektai/asmenys/Kerimberdėjus]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
@@ -241,3 +217,4 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Krymo chanatas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

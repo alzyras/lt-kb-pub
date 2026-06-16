@@ -16,16 +16,16 @@ tags:
 Pirmieji žmonės mūsų krašte jau neabejotinai gyveno viduriniojo akmens amžiaus (mezolito) laikotarpiu, kuris tęsėsi maždaug nuo 10.000 iki 3.000 m. pr.
 
 ## Teiginiai
-
 <a id="claim-t-74039"></a>
 - t-001
   global_id: t-74039
   teiginys: 'Pirmieji žmonės Lietuvoje neabejotinai gyveno viduriniojo akmens amžiaus, arba mezolito, laikotarpiu nuo maždaug 10000 iki 3000 m. pr. Kr.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Pirmieji žmonės Lietuvoje neabejotinai gyveno viduriniojo akmens amžiaus, arba mezolito, laikotarpiu nuo maždaug 10000 iki 3000 m. pr. Kr.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -36,8 +36,10 @@ Pirmieji žmonės mūsų krašte jau neabejotinai gyveno viduriniojo akmens amž
     daug nuo 10.000 iki 3.000 m. pr. Kristų. Klimatas tuomet jau bu-
     vo panašus į dabartinį. Šio periodo Lietuvos gyventojai buvo
     klajokliai, mito žvėriena ir žuvimis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

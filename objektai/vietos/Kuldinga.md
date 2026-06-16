@@ -12,27 +12,21 @@ tags:
 
 ## Santrauka
 
-Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo kelią, šie persekiotojus sumušė.
+Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus. Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.
 
 ## Teiginiai
 
 <a id="claim-t-28379"></a>
 - t-001
   global_id: t-28379
-  teiginys: 'Kuldingos komtūras Bernhardas von Haren Skuodo laukuose pastojo kelią su grobiu grįžtantiems žemaičiams, bet buvo sumuštas.'
+  teiginys: 'Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-184390"></a>
-- t-002
-  global_id: t-184390
-  teiginys: 'Kuldingos komtūras Bernhardas von Haren Skuodo laukuose pastojo kelią su grobiu grįžtantiems žemaičiams, bet žemaičiai jį sumušė.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai
@@ -48,7 +42,7 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
     - t-001
 
 - c-002
-  santrauka: 'Kuldingos komtūras Bernhardas von Haren Skuodo laukuose pastojo kelią su grobiu grįžtantiems žemaičiams, bet žemaičiai jį sumušė.'
+  santrauka: 'Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai

@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
+Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais. Gegužės trečiosios konstitucija įformino miestiečių teises.
 
 ## Teiginiai
 
 <a id="claim-t-19942"></a>
 - t-001
   global_id: t-19942
-  teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmą kartą užsiminė apie valstybės globą valstiečiams.'
+  teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prieš tai Seimas ėmėsi la-

@@ -12,9 +12,9 @@ date_start: '1801'
 date_end: '1900'
 sukurta: ''
 atnaujinta: ''
-tags: []
 amziai:
   - 'XIX'
+tags: []
 ---
 # Žemaičių vyskupystės istorija
 
@@ -30,7 +30,6 @@ amziai:
 - Data: aiškiai nenurodyta.
 
 ## Teiginiai
-
 <a id="claim-t-45776"></a>
 - t-001
   global_id: t-45776
@@ -38,8 +37,7 @@ amziai:
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

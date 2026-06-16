@@ -25,21 +25,21 @@ periodo_grupes:
 
 ## Santrauka
 
-R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais. Šiame šaltinyje papildomai pateikta pilna jo vardo forma Romas Batūra ir bibliografinės nuorodos į įvadinę studiją šiame leidime bei darbus „Šiaulių..“, „Lietuva...“ ir „Karinė...“.
+Romas BATŪRA международный конгресс. 191—192; Batūra R., Karinė..., р. Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota.
 
 ## Teiginiai
 
 <a id="claim-t-97209"></a>
 - t-001
   global_id: t-97209
-  teiginys: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
+  teiginys: 'Romas BATŪRA международный конгресс.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-97211"></a>
 - t-002
   global_id: t-97211
-  teiginys: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
+  teiginys: '191—192; Batūra R., Karinė..., р.'
   pagrindžia:
     - c-005
 
@@ -53,7 +53,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 <a id="claim-t-97213"></a>
 - t-004
   global_id: t-97213
-  teiginys: 'Romas Batūra 1966 m. rašė apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais.'
+  teiginys: 'Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.'
   pagrindžia:
     - c-001
 
@@ -67,7 +67,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Romas Batūra 1966 m. rašė apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais.'
+  santrauka: 'Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvių
@@ -82,6 +82,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - t-004
 
 - c-002
+  santrauka: 'Romas BATŪRA международный конгресс.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     ROMAS BATŪRA
@@ -141,6 +142,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     - t-005
 
 - c-005
+  santrauka: '191—192; Batūra R., Karinė..., р.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Minėtieji Numa ir

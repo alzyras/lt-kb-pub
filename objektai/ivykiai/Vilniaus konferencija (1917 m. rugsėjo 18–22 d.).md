@@ -9,17 +9,17 @@ date_start: '1917'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - ivykis
   - tauta
-amziai:
-  - 'XX'
 ---
 # Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)
 
 ## Santrauka
 
-1917 m. rugsėjo mėn. Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.
+Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,23 +34,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-01847"></a>
-- t-001
-  global_id: t-01847
-  teiginys: '1917 m. rugsėjo 18 d. į Vilnių atvyko 214 asmenų, kurie uždaromis durimis posėdžiavo iki rugsėjo 22 d.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-01848"></a>
-- t-002
+- t-001
   global_id: t-01848
   teiginys: 'Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Vilniaus konferencija programai vykdyti išrinko 20 asmenų Tarybą, kuri vėliau turėjo būti papildyta tautinių mažumų atstovais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -64,32 +57,15 @@ Nenurodyta
     Konferencijos sudarytai programai vykdyti buvo išrinkta
     Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
     tautinių mažumų atstovai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    darė konferencijos atstovų sąrašą, — maždaug po 5—8 atstovus
-    iš kiekvienos apskrities (šių buvo tuomet sudaryta 33). Iš 264
-    kviestųjų atstovų 1917 m. rugsėjo mėn. 18 d. į Vilnių atvažiavo
-    214 asmenų, kurie uždaromis durimis posėdžiavo ligi rugsėjo
-    22 d. Biuro mėginimai prieš tai susisiekti su lietuviais Rusijoj ir
-    santarvės šalyse buvo vokiečių sutrukdyti; visgi į pačią konfe-
-    renciją atvyko keletas atstovų ir iš užsienio.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]
-- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
 - [[objektai/zodynas/etnografinė siena]]

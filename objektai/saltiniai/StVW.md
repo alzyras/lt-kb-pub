@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žodžiais : «Kryžiuočiai yra svetimšaliai ir ateiviai iš (^12) StVW, I, 140-144 p.; DlugO, XIII, 240-244 p.
+Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.
 
 ## Teiginiai
 
 <a id="claim-t-31931"></a>
 - t-001
   global_id: t-31931
-  teiginys: 'Vytautas į Ordiną kreipėsi teigdamas, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
+  teiginys: 'Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordi­

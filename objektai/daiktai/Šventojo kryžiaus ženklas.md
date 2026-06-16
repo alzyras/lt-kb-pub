@@ -64,6 +64,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuviai]]

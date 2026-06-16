@@ -23,14 +23,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, Ragainės komtūras, 1313 metais pasistatydino karo laivą su sienomis [cum meniis] ir daug kitų laivų; kai jis nuplaukė su jais pulti Junigedos pilies, laivą pagriebė smarkus vėjas ir nubloškė prie kranto.
+1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti. 1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.
 
 ## Teiginiai
 
 <a id="claim-t-60461"></a>
 - t-001
   global_id: t-60461
-  teiginys: '1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir kitų laivų Junigedos piliai pulti.'
+  teiginys: '1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti.'
   pagrindžia:
     - c-001
 

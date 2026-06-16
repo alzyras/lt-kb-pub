@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
+Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę. Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
 
 ## Teiginiai
 
@@ -37,13 +37,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - t-002
   global_id: t-79084
   teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-79085"></a>
-- t-003
-  global_id: t-79085
-  teiginys: 'Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.'
   pagrindžia:
     - c-002
 
@@ -67,24 +60,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-001
 
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet riterių buvo ne-
-    daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
-    ginti savo pilį.
-    Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-
-    radas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų
-    metu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo
-    vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
-    veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
-    paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
   santrauka: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -104,8 +79,8 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Kryžius]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
 - [[objektai/asmenys/Andrius Vingaudas]]
 - [[objektai/grupes/Anglai]]
@@ -147,6 +122,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
 - [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]
 - [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
 - [[objektai/ivykiai/Laivų kautynės prie Santyro]]
@@ -186,6 +162,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - [[objektai/zodynas/papilys]]
 - [[objektai/ivykiai/Štarkenbergo pilies užgrobimas ir įgulos išžudymas|Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)]]
 - [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas]]
+- [[objektai/asmenys/Fridrichas II]]
 - [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
 - [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
 - [[objektai/asmenys/Konradas (Mainco arkivyskupas)]]

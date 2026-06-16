@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, lengvai paliesdami jų petį kardu.
+Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -32,14 +32,14 @@ Nenurodyta
 <a id="claim-t-185911"></a>
 - t-001
   global_id: t-185911
-  teiginys: 'Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, lengvai paliesdami jų petį kardu.'
+  teiginys: 'Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Aleksandras ir Šich Achmetas bajoriškųjų lengvatų suteikė karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, lengvai paliesdami jų petį kardu.'
+  santrauka: 'Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Aleksandras Šich Achmetą priėmė su didele

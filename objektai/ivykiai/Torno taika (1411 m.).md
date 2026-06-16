@@ -11,12 +11,12 @@ date_start: '1411'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - ivykis
   - karas
   - ordinas
-amziai:
-  - 'XV'
 ---
 # Torno taika (1411 m.)
 
@@ -41,7 +41,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-92944"></a>
 - t-001
   global_id: t-92944
@@ -68,10 +67,11 @@ Nenurodyta
   global_id: t-92947
   teiginys: 'Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.'
   pagrindžia:
-    - c-003
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -87,7 +87,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: '1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -101,25 +100,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-003
-  santrauka: 'Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m.
-    pagaliau buvo pasirašyta taika. Ordinui ji buvo palyginti leng-
-    va: jis turėjo sumokėti 100.000 kapų skatikų karo išlaidų, grą-
-    žino kai kurias žemes Lenkijai ir iki gyvos Vytauto ir Jogailos
-    galvos atsisakė nuo Žemaičių. Bet kadangi nei Vytautas nei
-    Jogaila niekad neketino išsižadėti Žemaičių, tai byla dėl jų dar
-    ilgai tęsėsi. Tik po 11 metų ir po keleto naujų karų ordinas
-    visiškai išsižadėjo Žemaičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -136,6 +116,25 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'Po kurį laiką trukusio Ordino ir Lenkų karo 1411 m. buvo pasirašyta Torno taika.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dar kiek laiko karas tęsėsi tarp ordino ir Lenkų, bet 1411 m.
+    pagaliau buvo pasirašyta taika. Ordinui ji buvo palyginti leng-
+    va: jis turėjo sumokėti 100.000 kapų skatikų karo išlaidų, grą-
+    žino kai kurias žemes Lenkijai ir iki gyvos Vytauto ir Jogailos
+    galvos atsisakė nuo Žemaičių. Bet kadangi nei Vytautas nei
+    Jogaila niekad neketino išsižadėti Žemaičių, tai byla dėl jų dar
+    ilgai tęsėsi. Tik po 11 metų ir po keleto naujų karų ordinas
+    visiškai išsižadėjo Žemaičių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

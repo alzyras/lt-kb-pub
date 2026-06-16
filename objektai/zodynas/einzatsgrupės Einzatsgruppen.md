@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, kurias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.
+Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių. Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų. Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 <a id="claim-t-183419"></a>
 - t-003
   global_id: t-183419
-  teiginys: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
+  teiginys: 'Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   pagrindžia:
     - c-003
 
@@ -83,7 +83,7 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
     - t-002
 
 - c-003
-  santrauka: 'Pirmą nacių okupacijos savaitę atvykusios SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
+  santrauka: 'Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
@@ -110,7 +110,6 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 - [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„kovos su judobolševizmu“]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
 - [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]

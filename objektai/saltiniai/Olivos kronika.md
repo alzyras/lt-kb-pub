@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad 167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
+Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf. Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg. Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.
 
 ## Teiginiai
 
@@ -46,14 +46,14 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 <a id="claim-t-60854"></a>
 - t-003
   global_id: t-60854
-  teiginys: 'Dusburgietis teigia, kad 167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.'
+  teiginys: 'Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-60855"></a>
 - t-004
   global_id: t-60855
-  teiginys: 'Dusburgietis teigia, kad senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
+  teiginys: 'Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
   pagrindžia:
     - c-003
 
@@ -126,6 +126,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-008
 
 - c-003
+  santrauka: 'Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio
@@ -216,6 +217,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - t-009
 
 - c-009
+  santrauka: 'Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.

@@ -9,12 +9,12 @@ date_start: '1328'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
 tags:
   - ivykis
   - ordinas
   - pilis
-amziai:
-  - 'XIV'
 ---
 # Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)
 
@@ -35,17 +35,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01667"></a>
 - t-001
   global_id: t-01667
   teiginys: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordino ekspan-
@@ -56,9 +57,11 @@ Nenurodyta
     1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
     jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

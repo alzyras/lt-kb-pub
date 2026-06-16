@@ -109,8 +109,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

@@ -88,7 +88,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

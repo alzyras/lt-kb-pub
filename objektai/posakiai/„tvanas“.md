@@ -77,10 +77,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Tvanas]]

@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Čeliadnino žodžius, kuriuos jis pasakė sužinoję apie tai, kad Lietuvos kariuomenė jau keliasi per Dniepro upę: „Greitai, kai pusė [lietuvių] kariuomenės buvo persikėlusi per Dnieprą. Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei.
+Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę. Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
 
 ## Teiginiai
 
 <a id="claim-t-40546"></a>
 - t-001
   global_id: t-40546
-  teiginys: 'Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dnieprą.'
+  teiginys: 'Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     - t-002
 
 - c-002
+  santrauka: 'Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado

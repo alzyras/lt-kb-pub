@@ -81,6 +81,8 @@ periodo_grupes:
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Brastos seimas 1505 m.|Brastos seimas 1505 m. (seimas, XVI a.)]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
 - [[objektai/zodynas/didysis komtūras arkikomtūras]]
 - [[objektai/zodynas/didysis magistras]]

@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Oberostas buvo vokiečių karinė administracija okupuotoje Lietuvoje. Ji naudojo krašto išteklius Vokietijos kariuomenės reikalams, vykdė kolonijinį režimą ir 1917 m. spaudė Lietuvos Tarybą priimti Vokietijai palankią rezoliuciją.
+1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu. Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas. Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
 
 ## Pavadinimai šaltiniuose
 
@@ -82,7 +82,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 <a id="claim-t-74885"></a>
 - t-005
   global_id: t-74885
-  teiginys: 'Oberostas įteikė Tarybos prezidiumui rezoliucijos projektą, kurį prezidiumas pataisė ir gruodžio 11 d. grąžino karinei administracijai kaip priimtą.'
+  teiginys: 'Kaune rezidavęs Oberostas įteikė Tarybos prezidiumui rezoliucijos projektą, kurį prezidiumas pataisė ir gruodžio 11 d. grąžino karinei administracijai.'
   pagrindžia:
     - c-003
 

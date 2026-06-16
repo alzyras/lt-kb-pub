@@ -15,17 +15,18 @@ tags:
 Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tamošausko redaguojamoji „Sau1ė", kurios tebeina ir dabar.
 
 ## Teiginiai
-
 <a id="claim-t-01017"></a>
 - t-001
   global_id: t-01017
   teiginys: 'Vargonininkas Bačkauskas Tamošauskas redagavo laikraštį „Saulė“, kuris pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Vargonininkas Bačkauskas Tamošauskas redagavo laikraštį „Saulė“, kuris pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šią kurį laiką (1884—5 m.) redagavo į Ameriką
@@ -34,9 +35,11 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
     tuvišką Balsą". Netrukus pradėjo eiti „Vienybė Lietuvi-
     ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
     „Sau1ė", kurios tebeina ir dabar.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

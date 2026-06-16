@@ -115,7 +115,6 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
-- [[objektai/daiktai/Stogastulpiai, rūpintojėliai, pietos, šventųjų skulptūrėlės, koplytstulpiai ir kryžiai]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/grupes/Vilniaus baroko mokykla]]
 - [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]

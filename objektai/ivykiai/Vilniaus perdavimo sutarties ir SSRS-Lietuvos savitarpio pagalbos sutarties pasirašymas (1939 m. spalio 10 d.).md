@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Lietuva gavo 6,7 tūkst.
+Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija. 1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys. Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.
 
 ## Laikotarpis ir datos
 
@@ -50,7 +50,7 @@ Nenurodyta
 <a id="claim-t-75297"></a>
 - t-002
   global_id: t-75297
-  teiginys: '1939 m. spalio 10 d., agresyviai spaudžiant J. Stalinui ir V. Molotovui, pasirašyta Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartis.'
+  teiginys: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys.'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
 <a id="claim-t-75300"></a>
 - t-005
   global_id: t-75300
-  teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.'
+  teiginys: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir dalies Lietuvos teritorijos perdavimo Vokietijai sutartis.'
   pagrindžia:
     - c-001
 
@@ -94,6 +94,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, buvo pasirašytos Vilniaus perdavimo ir SSRS-Lietuvos savitarpio pagalbos sutartys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai at-

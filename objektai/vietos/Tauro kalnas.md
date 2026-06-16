@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Tauro kalnas'
 saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1429 m.'
@@ -24,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyta rusų artilerija.
+Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį. Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą. Vytautas įkasė patrankas Tauro kalne, kurį Bychovco kronika sieja su Gedimino nudėtu tauru.
 
 ## Teiginiai
 
@@ -41,6 +42,13 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   teiginys: 'Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187659"></a>
+- t-003
+  global_id: t-187659
+  teiginys: 'Vytautas įkasė patrankas Tauro kalne, kurį Bychovco kronika sieja su Gedimino nudėtu tauru.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -112,3 +120,27 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-003
+  santrauka: 'Vytautas įkasė patrankas Tauro kalne, kurį Bychovco kronika sieja su Gedimino nudėtu tauru.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Vokie-
+    Lietuvos mftraiti* 97
+
+    ## Puslapis 93
+
+    čiai patarė didžiajam kunigaikščiui Vytautui nešaudyti
+    į miestą iš patrankų, nes tuo mediniam miestui nieko
+    nepadarysi, o geriau liepkite šaudyti iš patrankų į kal­
+    ną. Ir didysis kunigaikštis Vytautas įkasė patrankas
+    Tauro kalne, ant kurio didysis kunigaikštis Gediminas
+    buvo nudėjęs taurą ir dėl to tas kalnas vadinasi Taura-
+    kalnis. Įsakė šaudyti į Kreivąjį kalną, ir nemaža to
+    Kreivojo kalno su užtvaromis nuvertė, ir pilies žmo­
+    nes apėmė baimė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

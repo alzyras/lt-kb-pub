@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Vėliau praktika parodė, kad durtuvų atakos metu persirikiuoti į liniją nebūtina. Jie, susispaude į krūvą, atstatė durtuvus ir laukė. Kai jis jau buvo visai netoli, mūsų žvalgas pašoko ir atkišo durtuvą lenkui į panosę.
+Durtuvų atakos metu batalionams nebebuvo būtina persirikiuoti į liniją. Dvylika žvalgų, susidūrę su keturiasdešimt lenkų raitelių, susispaudė į krūvą, atstatė durtuvus ir laukė. Žvalgas, lenkui priartėjus, pašoko ir atkišo durtuvą jam į panosę.
 
 ## Pavadinimai šaltiniuose
 
@@ -39,7 +39,7 @@ Nenurodyta
 <a id="claim-t-39170"></a>
 - t-001
   global_id: t-39170
-  teiginys: 'Vėliau praktika parodė, kad durtuvų atakos metu persirikiuoti į liniją nebūtina.'
+  teiginys: 'Durtuvų atakos metu batalionams nebebuvo būtina persirikiuoti į liniją.'
   pagrindžia:
     - c-002
 
@@ -75,6 +75,7 @@ Nenurodyta
     - t-002
 
 - c-002
+  santrauka: 'Durtuvų atakos metu batalionams nebebuvo būtina persirikiuoti į liniją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau praktika parodė,
@@ -105,7 +106,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/asmenys/Barkauskas]]
 - [[objektai/asmenys/Baziliauskas]]
 - [[objektai/asmenys/Lukoševičius]]
 - [[objektai/asmenys/Palačinskas]]

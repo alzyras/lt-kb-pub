@@ -21,20 +21,21 @@ amziai:
 
 ## Santrauka
 
-Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provincijos komitetas, pasivadinęs Laikinąja Vyriausybe Lietuvoje.
+Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.
 
 ## Teiginiai
 
 <a id="claim-t-40980"></a>
 - t-001
   global_id: t-40980
-  teiginys: 'Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provincijos komitetas, pasivadinęs Laikinąja Vyriausybe Lietuvoje.'
+  teiginys: 'Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Varšuvoje įsikūręs sukilimo rengimo

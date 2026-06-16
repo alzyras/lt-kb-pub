@@ -17,20 +17,12 @@ tags:
 Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito po visą Lenkiją.
 
 ## Teiginiai
-
 <a id="claim-t-83237"></a>
 - t-001
   global_id: t-83237
   teiginys: 'Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-83238"></a>
-- t-002
-  global_id: t-83238
-  teiginys: '1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją.'
-  pagrindžia:
-    - c-003
 
 <a id="claim-t-83239"></a>
 - t-003
@@ -52,9 +44,14 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   teiginys: 'Į Vilnių atvykusiems neturtingiems jėzuitams iš Braunsbergo buvo sunku įsitvirtinti Lietuvos sostinėje.'
   pagrindžia:
     - c-002
+- t-006
+  teiginys: '1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -82,7 +79,6 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   pagrindžia:
     - t-003
     - t-004
-
 - c-002
   santrauka: 'Į Vilnių atvykusiems neturtingiems jėzuitams iš Braunsbergo buvo sunku įsitvirtinti Lietuvos sostinėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -101,8 +97,8 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   pagrindžia:
     - t-005
     - t-001
-
 - c-003
+  santrauka: '1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jėzuitų į Lenkiją
@@ -118,8 +114,10 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     kvietė Vilniaus vys-
     kupas Protasevi-
     čius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006

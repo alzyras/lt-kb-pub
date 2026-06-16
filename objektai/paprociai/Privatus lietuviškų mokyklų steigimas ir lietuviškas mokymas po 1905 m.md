@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.
+Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba. Po 1905 m. mokyklas leista steigti privatiems asmenims ir visuomeninėms organizacijoms, o jose galėjo būti mokoma lietuvių ir lenkų kalbomis.
 
 ## Laikotarpis ir datos
 
@@ -46,7 +46,7 @@ Nenurodyta
 <a id="claim-t-183331"></a>
 - t-002
   global_id: t-183331
-  teiginys: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
+  teiginys: 'Po 1905 m. mokyklas leista steigti privatiems asmenims ir visuomeninėms organizacijoms, o jose galėjo būti mokoma lietuvių ir lenkų kalbomis.'
   pagrindžia:
     - c-001
 

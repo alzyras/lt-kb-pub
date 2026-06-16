@@ -115,7 +115,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Fabianas (Varmės vyskupas)]]
 - [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]

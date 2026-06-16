@@ -9,22 +9,21 @@ date_start: '1934'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - diplomatas
   - karas
   - valstybė
   - vieta
-amziai:
-  - 'XX'
 ---
 # Ženeva
 
 ## Santrauka
 
-Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Abi šalys tokius rezultatus Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją A. Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.
+Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos. 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą. Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“
 
 ## Teiginiai
-
 <a id="claim-t-77773"></a>
 - t-001
   global_id: t-77773
@@ -35,7 +34,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 <a id="claim-t-77774"></a>
 - t-002
   global_id: t-77774
-  teiginys: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti Baltijos valstybių bendradarbiavimą.'
+  teiginys: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
   pagrindžia:
     - c-001
 
@@ -47,9 +46,8 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti Baltijos valstybių bendradarbiavimą.'
+  santrauka: '1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos antantė siekė stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     TRIJŲ KAIMYNiŲ ULTIMATUMŲ ERA
@@ -66,7 +64,6 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,7 +79,6 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

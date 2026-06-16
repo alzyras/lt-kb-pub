@@ -11,14 +11,14 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - grupe
   - kunigas
   - ordinas
   - popiežius
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Bazilijonų ordinas
 
@@ -27,14 +27,6 @@ amziai:
 Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.
 
 ## Teiginiai
-
-<a id="claim-t-178763"></a>
-- t-001
-  global_id: t-178763
-  teiginys: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-178764"></a>
 - t-002
   global_id: t-178764
@@ -52,27 +44,19 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
 <a id="claim-t-182884"></a>
 - t-004
   global_id: t-182884
-  teiginys: 'Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.'
+  teiginys: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Daug geriau buvo sutvarkytas
-    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
-    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
-    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
-    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
   santrauka: 'Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -91,7 +75,6 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -106,8 +89,24 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
+  santrauka: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Daug geriau buvo sutvarkytas
+    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
   santrauka: 'Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -118,15 +117,18 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/grupes/Unitai]]
+- [[objektai/zodynas/pravoslavai]]
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]

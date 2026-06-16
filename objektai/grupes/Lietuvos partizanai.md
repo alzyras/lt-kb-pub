@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva sugebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasipriešinimą SSRS ištisą. Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo. Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais.
+1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai. Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m. Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   global_id: t-74759
   teiginys: '1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-74760"></a>
 - t-002
@@ -42,47 +42,33 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   pagrindžia:
     - c-001
 
-<a id="claim-t-74761"></a>
-- t-003
-  global_id: t-74761
-  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-74762"></a>
-- t-004
-  global_id: t-74762
-  teiginys: 'Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-74763"></a>
-- t-005
+- t-003
   global_id: t-74763
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-74764"></a>
-- t-006
+- t-004
   global_id: t-74764
-  teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+  teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-74765"></a>
-- t-007
+- t-005
   global_id: t-74765
   teiginys: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-74766"></a>
-- t-008
+- t-006
   global_id: t-74766
   teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -104,22 +90,6 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
     - t-002
 
 - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo
-    ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą
-    maistu, medikamentais, drabužiais. Pagalbos iš užsienio tikėtis nebuvo
-    įmanoma, jie kovėsi vienų vieni. 1944–1946 m. susidarė dideli, net iki
-    100 kovotojų partizanų būriai – iš viso apie 30 tūkst. vyrų, kurie kontro-
-    liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
-    sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
   santrauka: '1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -135,7 +105,8 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
+  santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Partizanai
@@ -151,9 +122,9 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-005
+- c-004
   santrauka: '1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -173,9 +144,9 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
@@ -191,9 +162,9 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau prieš tai vyko kruvina kova.
@@ -212,11 +183,10 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
     - t-003
 
-- c-008
-  santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+- c-007
+  santrauka: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
@@ -231,7 +201,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -241,10 +211,10 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - [[objektai/grupes/NKVD]]
 - [[objektai/posakiai/karas po karo]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]
-- [[objektai/daiktai/Drabužiai]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
 - [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
 - [[objektai/zodynas/pyliavos]]

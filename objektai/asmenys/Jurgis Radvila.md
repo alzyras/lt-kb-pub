@@ -12,14 +12,14 @@ date_start: '1582'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - kunigas
-  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - kunigas
+  - vyskupas
 ---
 # Jurgis Radvila (vyskupas, XVI a.)
 
@@ -28,7 +28,6 @@ periodo_grupes:
 verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos tėvas, 1510— 1514 m.Kijevo vaivada; 1522—1527 m Trakų, o 1527-1541 m. Vilniaus kaštelionas; 1521 — 1531 m. lauko (kiemo) hetmonas, 1531—1541 m. d. hetmonas. Jurgis Radvila 1582 m. įkūrė visiškai atskirą kunigų seminariją (joje turėjo būti 12 klierikų).
 
 ## Teiginiai
-
 <a id="claim-t-103037"></a>
 - t-001
   global_id: t-103037
@@ -56,13 +55,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   teiginys: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   pagrindžia:
     - c-009
-
-<a id="claim-t-103041"></a>
-- t-005
-  global_id: t-103041
-  teiginys: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
-  pagrindžia:
-    - c-012
 
 <a id="claim-t-103043"></a>
 - t-007
@@ -147,9 +139,14 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   teiginys: 'Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.'
   pagrindžia:
     - c-013
+- t-021
+  teiginys: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
+  pagrindžia:
+    - c-014
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -171,7 +168,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-018
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -194,7 +190,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-012
     - t-013
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -227,7 +222,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-003
     - t-009
-
 - c-004
   santrauka: 'Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -256,7 +250,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-017
     - t-008
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -280,7 +273,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-006
   santrauka: 'Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -308,7 +300,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-015
-
 - c-007
   santrauka: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -338,7 +329,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-002
     - t-014
-
 - c-008
   santrauka: 'Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -359,7 +349,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-016
-
 - c-009
   santrauka: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -383,7 +372,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-006
     - t-004
-
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -414,7 +402,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-007
     - t-019
-
 - c-011
   santrauka: 'Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -435,20 +422,6 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-011
     - t-010
-
-- c-012
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
-    Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji
-    Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta
-    žmona karaliui Henrikui ir kurią vedė Stp.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-013
   santrauka: 'Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -464,6 +437,21 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-020
+- c-014
+  santrauka: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
+    Juos rėmė ir daug kitų atverstų didikų, o ypač dievobaimingoji
+    Zigmanto Augusto sesuo Ona (ta pati, kuri buvo numatyta
+    žmona karaliui Henrikui ir kurią vedė Stp.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -486,9 +474,11 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/samdytiniai]]
 - [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/taurininkas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

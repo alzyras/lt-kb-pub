@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
+Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą. Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
 
 ## Teiginiai
 
 <a id="claim-t-42168"></a>
 - t-001
   global_id: t-42168
-  teiginys: 'Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė.'
+  teiginys: 'Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Strėvos upės Lietuvos kariuomenė pavijo atgal grįžtantį priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Niokotos galbūt plačiosios

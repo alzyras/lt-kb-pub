@@ -18,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai Tulčine, Branickis Balstogėje.
+1917 m. Berno konferencijoje Balstogės apskritis buvo įtraukta į etnografinės Lietuvos teritorijos projektą. Balstogėje Branickis turėjo vieną iš žymių Lenkijos politinių dvarų.
 
 ## Teiginiai
 
@@ -32,7 +32,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 <a id="claim-t-182997"></a>
 - t-002
   global_id: t-182997
-  teiginys: 'Branickis turėjo žymų dvarą Balstogėje.'
+  teiginys: 'Balstogėje Branickis turėjo vieną iš žymių Lenkijos politinių dvarų.'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     - t-001
 
 - c-002
-  santrauka: 'Branickis turėjo žymų dvarą Balstogėje.'
+  santrauka: 'Balstogėje Branickis turėjo vieną iš žymių Lenkijos politinių dvarų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia buvo kuriami visi poli-

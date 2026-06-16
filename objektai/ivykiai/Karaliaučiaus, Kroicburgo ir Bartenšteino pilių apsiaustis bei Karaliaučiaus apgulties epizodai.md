@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji. Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.
+Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti. Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai. Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.
 
 ## Laikotarpis ir datos
 
@@ -75,7 +75,7 @@ Nenurodyta
 <a id="claim-t-59181"></a>
 - t-005
   global_id: t-59181
-  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
+  teiginys: 'Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai.'
   pagrindžia:
     - c-003
 
@@ -92,6 +92,13 @@ Nenurodyta
   teiginys: 'Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-183927"></a>
+- t-008
+  global_id: t-183927
+  teiginys: 'Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -138,6 +145,7 @@ Nenurodyta
     - t-007
 
 - c-003
+  santrauka: 'Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
@@ -215,7 +223,7 @@ Nenurodyta
     - t-004
 
 - c-007
-  santrauka: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
+  santrauka: 'Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop, visiškai pritrūkę maisto, paliko pilį ir slapta atvyko į Elbingo
@@ -258,12 +266,15 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Arbaletai]]
 - [[objektai/daiktai/Arbaletas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/apsiaustis]]
+- [[objektai/zodynas/įkaitai]]
 - [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
 - [[objektai/daiktai/Tiltas per Prieglių]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

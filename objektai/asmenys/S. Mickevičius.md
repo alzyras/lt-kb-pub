@@ -50,5 +50,4 @@ Mickevičius.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/gurguolė]]

@@ -28,7 +28,7 @@ amziai:
 
 ## Santrauka
 
-174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per. Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja. ; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.
+Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė. 1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai. Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
 
 ## Teiginiai
 
@@ -42,7 +42,7 @@ amziai:
 <a id="claim-t-85886"></a>
 - t-002
   global_id: t-85886
-  teiginys: '1610 m. Vilniaus kanauninkas Vilčiopolskis užrašė mūrinį namą su sklypu Akademijos kolegijai, 25 metų činšą skirdamas Dievo Kūno koplyčiai.'
+  teiginys: '1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.'
   pagrindžia:
     - c-002
 
@@ -87,7 +87,7 @@ amziai:
     - t-005
 
 - c-002
-  santrauka: '1610 m. Vilniaus kanauninkas Vilčiopolskis užrašė mūrinį namą su sklypu Akademijos kolegijai, 25 metų činšą skirdamas Dievo Kūno koplyčiai.'
+  santrauka: '1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­

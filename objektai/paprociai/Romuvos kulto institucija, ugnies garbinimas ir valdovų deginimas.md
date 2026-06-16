@@ -114,7 +114,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/pagonybė]]

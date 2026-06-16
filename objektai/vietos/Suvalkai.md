@@ -12,11 +12,11 @@ date_start: '1656'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XVII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Suvalkai
 
@@ -25,7 +25,6 @@ amziai:
 Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 
 ## Teiginiai
-
 <a id="claim-t-182781"></a>
 - t-001
   global_id: t-182781
@@ -33,22 +32,20 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   pagrindžia:
     - c-001
 
-<a id="claim-t-183091"></a>
-- t-002
-  global_id: t-183091
-  teiginys: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-183638"></a>
 - t-003
   global_id: t-183638
   teiginys: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Suvalkų gubernijoje.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -60,22 +57,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ją lankė daugiausia lietuviai (tuo tarpu
-    Panevėžio seminariją lankė beveik vieni rusai, dažniausiai dar
-    ir nevietiniai). Gimnazijų Užnemunėje buvo dvi — Marijam-
-    polėje ir Suvalkuose. Jas taip pat daugiausia lankė lietuvių vai-
-    kai, ir jose taip pat buvo mokoma lietuvių kalbos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Suvalkų gubernijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -96,3 +77,19 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   statusas: verified
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ją lankė daugiausia lietuviai (tuo tarpu
+    Panevėžio seminariją lankė beveik vieni rusai, dažniausiai dar
+    ir nevietiniai). Gimnazijų Užnemunėje buvo dvi — Marijam-
+    polėje ir Suvalkuose. Jas taip pat daugiausia lankė lietuvių vai-
+    kai, ir jose taip pat buvo mokoma lietuvių kalbos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos. Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai. LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.
+Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai. 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis. Lietuviškoji socialdemokratų partija rėmė Lietuvos nepriklausomybės idėją, socialines reformas ir lietuvių bei lenkų kalbų lygybę Lietuvoje.
 
 ## Teiginiai
 
@@ -44,14 +44,7 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 <a id="claim-t-74619"></a>
 - t-003
   global_id: t-74619
-  teiginys: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-74620"></a>
-- t-004
-  global_id: t-74620
-  teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
+  teiginys: 'Lietuviškoji socialdemokratų partija rėmė Lietuvos nepriklausomybės idėją, socialines reformas ir lietuvių bei lenkų kalbų lygybę Lietuvoje.'
   pagrindžia:
     - c-001
 
@@ -74,7 +67,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   statusas: verified
   pagrindžia:
     - t-003
-    - t-004
 
 - c-002
   santrauka: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.'

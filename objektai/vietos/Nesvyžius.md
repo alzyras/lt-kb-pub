@@ -25,114 +25,69 @@ amziai:
 
 ## Santrauka
 
-Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Pirmoji (gražiausioji) yra nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas ir atitinkamas užrašas. Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
+Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje. Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų. Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.
 
 ## Teiginiai
 
-<a id="claim-t-84366"></a>
-- t-001
-  global_id: t-84366
-  teiginys: 'Mikalojus Kristupas Radvila Našlaitėlis 1582 m. Nesvyžiuje įkūrė jėzuitų kolegiją.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-84367"></a>
-- t-002
+- t-001
   global_id: t-84367
   teiginys: 'Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.'
   pagrindžia:
-    - c-008
+    - c-005
 
 <a id="claim-t-84368"></a>
-- t-003
+- t-002
   global_id: t-84368
-  teiginys: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-84369"></a>
-- t-004
-  global_id: t-84369
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-84371"></a>
-- t-006
-  global_id: t-84371
-  teiginys: 'Nesvyžius ir Olyka Voluinėje buvo vienos Radvilų šeimos šakos centrai.'
-  pagrindžia:
-    - c-001
+    - c-003
 
 <a id="claim-t-84372"></a>
-- t-007
+- t-005
   global_id: t-84372
   teiginys: 'Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.'
   pagrindžia:
-    - c-007
+    - c-004
 
 <a id="claim-t-84373"></a>
-- t-008
+- t-006
   global_id: t-84373
-  teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.'
+  teiginys: '1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.'
   pagrindžia:
-    - c-009
+    - c-006
 
 <a id="claim-t-84374"></a>
-- t-009
+- t-007
   global_id: t-84374
   teiginys: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-84375"></a>
-- t-010
+- t-008
   global_id: t-84375
   teiginys: 'Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m.'
   pagrindžia:
-    - c-010
+    - c-007
 
 <a id="claim-t-84376"></a>
-- t-011
+- t-009
   global_id: t-84376
   teiginys: 'Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.'
   pagrindžia:
-    - c-005
+    - c-002
 
 <a id="claim-t-84377"></a>
-- t-012
+- t-010
   global_id: t-84377
   teiginys: 'Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.'
   pagrindžia:
-    - c-005
-
-<a id="claim-t-84378"></a>
-- t-013
-  global_id: t-84378
-  teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
-  pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **XVII amž. patrankos**
@@ -143,40 +98,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    jau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-
-    imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
-    įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
-    stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
-    Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jė-
-    zuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas. Vilniaus praeities žinovas Mikalojus Malinovskis padėjo
-    istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­
-    mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
-    tekos turtus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-005
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
@@ -191,10 +115,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-    - t-011
+    - t-010
+    - t-009
 
-- c-006
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mirė 1507 metais.
@@ -205,10 +129,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-002
     - t-003
-    - t-004
 
-- c-007
+- c-004
   santrauka: 'Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -233,9 +157,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-008
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po dešimtmečio čia pa-
@@ -251,11 +175,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
-    - t-002
+    - t-004
+    - t-001
 
-- c-009
-  santrauka: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.'
+- c-006
+  santrauka: '1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susiformavo barokinis kraštovaizdis, kuriam bū-
@@ -269,9 +193,9 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
-- c-010
+- c-007
   santrauka: 'Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -284,4 +208,4 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008

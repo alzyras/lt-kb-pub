@@ -326,6 +326,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mata]]
 - [[objektai/asmenys/Pipinas]]
@@ -370,7 +371,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]
 - [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/ivykiai/Vilniaus katedros bokšto griūtis ir Vilniaus rotušės bokšto pasvirimas]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
@@ -388,7 +388,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - [[objektai/zodynas/mišparai]]
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/zodynas/oktava]]
-- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
 - [[objektai/zodynas/vikariatas]]

@@ -20,27 +20,21 @@ amziai:
 
 ## Santrauka
 
-Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti Lenkijos pėstininkų daliniai (trys lenkų pėstininkų kuopos - apie 300 karių, viena jų mūšio metu saugojo lietuvių stovyklą), ir lietuviams talkininkavusių leninės Kuršo ir Žiemgalos.
+Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų. Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
 
 ## Teiginiai
 
 <a id="claim-t-38968"></a>
 - t-001
   global_id: t-38968
-  teiginys: 'Mūšyje lietuviams talkino Kuršo ir Žiemgalos kunigaikštystės daliniai - apie 300 Fridricho Ketlerio reitarų.'
+  teiginys: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183656"></a>
-- t-002
-  global_id: t-183656
-  teiginys: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai - apie 300 Fridricho Ketlerio reitarų.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Be lie-
@@ -64,7 +58,7 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
     - t-001
 
 - c-002
-  santrauka: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai - apie 300 Fridricho Ketlerio reitarų.'
+  santrauka: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LDK didysis etmo-

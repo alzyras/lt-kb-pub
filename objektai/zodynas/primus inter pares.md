@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.
+Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.
 
 ## Teiginiai
 
 <a id="claim-t-22257"></a>
 - t-001
   global_id: t-22257
-  teiginys: 'Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.'
+  teiginys: 'Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie pinigai suteikė galimybę LDT išlai-

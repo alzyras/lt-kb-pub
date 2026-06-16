@@ -8,14 +8,18 @@ datos:
   - '1261 m.'
 date_start: '1219'
 date_end: '1261'
+aliases:
+  - 'objektai/ivykiai/Durbės mūšis'
+variantai:
+  - 'Durbės mūšis'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIII'
 tags:
   - ivykis
   - karas
   - mūšis
-amziai:
-  - 'XIII'
 ---
 # Durbės mūšis (1260 m.)
 
@@ -45,7 +49,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 Žemaičiai laimėjo mūšį. Jame žuvo visa ordino vadovybė ir beveik visi broliai, o tai tapo sunkiu smūgiu Livonijos ordinui.
 
 ## Teiginiai
-
 <a id="claim-t-66527"></a>
 - t-001
   global_id: t-66527
@@ -75,7 +78,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,7 +109,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: 'Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,7 +142,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -163,7 +163,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-004
   santrauka: 'Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -192,9 +191,11 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Noliubas]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Henrikas Botelis]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]

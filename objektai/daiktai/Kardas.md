@@ -12,19 +12,19 @@ date_start: '1917'
 date_end: '1920'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - bajorija
   - daiktas
   - didikas
   - ginklas
-amziai:
-  - 'XX'
 ---
 # Kardas
 
 ## Santrauka
 
-Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai). Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.
+Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę. 1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių. 1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,34 +47,12 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-92967"></a>
-- t-001
-  global_id: t-92967
-  teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-92968"></a>
-- t-002
-  global_id: t-92968
-  teiginys: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-92969"></a>
 - t-003
   global_id: t-92969
   teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   pagrindžia:
     - c-005
-
-<a id="claim-t-92970"></a>
-- t-004
-  global_id: t-92970
-  teiginys: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-92971"></a>
 - t-005
@@ -90,29 +68,42 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-92973"></a>
-- t-007
-  global_id: t-92973
-  teiginys: 'Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-92974"></a>
-- t-008
+- t-007
   global_id: t-92974
   teiginys: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
   pagrindžia:
-    - c-009
-
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-92975"></a>
-- t-009
+- t-008
   global_id: t-92975
+  teiginys: 'Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę.'
+  pagrindžia:
+    - c-009
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
+  pagrindžia:
+    - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
   teiginys: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
   pagrindžia:
-    - c-004
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
+  pagrindžia:
+    - c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -128,56 +119,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-002
-  santrauka: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
-    daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
-    liais. Visi batalijonai buvo išardyti be kraujo praliejimo, išsky-
-    rus tik Sibiro batalijoną, kurs susilaukė žiauraus likimo; to
-    batalijono subolševikėjusi kareivių grupė suruošė sąmokslą:
-    buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
-    džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
-    kapoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl didikai stengėsi patraukti į savo
-    pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
-    cijomis ir nuolatinėmis puotomis savo dvaruose. Į seimelius tam
-    pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
-    nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
-    šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
-    vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-004
-  santrauka: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
-    kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
-    rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
-    Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
-    Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
 - c-005
   santrauka: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -194,7 +135,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-006
   santrauka: 'Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -209,42 +149,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
-
 - c-007
-  santrauka: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kovos ėjo prie Alytaus, ir kovo mėnesį iš
-    rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
-    nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
-    Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
-    landžio 19 d.). Nuo 1919 m. gegužės mėn. vidurio prasidėjo
-    planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
-    tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
-    patrankų ir 200 kardų (raitelių).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pasku-
-    tiniame susirėmime jis kaip tik buvo linkęs taikintis, — nesutiko tik
-    jo dėdė iždininkas ir tėvas hetmonas.
-    Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais
-    bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių. Jų visų
-    lavonai ištisas 3 dienas išgulėjo kieme, nes, bijodami būti įtarti Sa-
-    piegų bičiuliais, niekas nedrįso atiduoti jiems paskutinės paslaugos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-009
   santrauka: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -257,17 +162,90 @@ Nenurodyta
     sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
     sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
     buvo sukapoti dar du belaisviai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kiek bajorija degė neapykanta Sapiegoms, rodo Valkininkų įvy-
+    kiai ir belaisvių sukapojimas. Kai Mykolas Sapiega pasidavė, bajo-
+    rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
+    Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
+    Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-009
+  santrauka: 'Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl didikai stengėsi patraukti į savo
+    pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
+    cijomis ir nuolatinėmis puotomis savo dvaruose. Į seimelius tam
+    pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+    nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
+    šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
+    vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-010
+  santrauka: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
+    daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
+    liais. Visi batalijonai buvo išardyti be kraujo praliejimo, išsky-
+    rus tik Sibiro batalijoną, kurs susilaukė žiauraus likimo; to
+    batalijono subolševikėjusi kareivių grupė suruošė sąmokslą:
+    buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
+    džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
+    kapoti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-011
+  santrauka: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kovos ėjo prie Alytaus, ir kovo mėnesį iš
+    rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
+    nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
+    Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
+    landžio 19 d.). Nuo 1919 m. gegužės mėn. vidurio prasidėjo
+    planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
+    tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
+    patrankų ir 200 kardų (raitelių).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/ivykiai/Giedraičių kautynės]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -298,7 +276,6 @@ Nenurodyta
 - [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/grupes/Lietuvos laisvės armija]]
 - [[objektai/grupes/Lietuvos totoriai]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/asmenys/Paulius Vladimiri]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Teodoras Nemyra]]
@@ -307,13 +284,11 @@ Nenurodyta
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
 - [[objektai/zodynas/vachmistras]]
-- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
+- [[objektai/zodynas/plikbajoris]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/zodynas/plikbajoris]]

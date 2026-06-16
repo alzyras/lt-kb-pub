@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
+2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
 
 ## Teiginiai
 
 <a id="claim-t-61199"></a>
 - t-001
   global_id: t-61199
-  teiginys: 'Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.'
+  teiginys: '2: Niemiecko-polska.— Wrocław—Warszawa, 1951.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2: Niemiecko-polska.— Wrocław—Warszawa, 1951.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2:

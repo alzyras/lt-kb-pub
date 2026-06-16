@@ -101,5 +101,6 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia]]
 - [[objektai/zodynas/popiežiaus legatas]]

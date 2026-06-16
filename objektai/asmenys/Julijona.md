@@ -12,22 +12,21 @@ date_start: '1418'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
-  - sutartis
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
+  - sutartis
 ---
 # Julijona
 
 ## Santrauka
 
-Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje.
+Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona. Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba. Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą.
 
 ## Teiginiai
-
 <a id="claim-t-05184"></a>
 - t-001
   global_id: t-05184
@@ -49,17 +48,10 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - c-005
 
-<a id="claim-t-176500"></a>
-- t-004
-  global_id: t-176500
-  teiginys: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-176502"></a>
 - t-005
   global_id: t-176502
-  teiginys: 'Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila minimi kaip liudininkai trijose Jogailos ir Skirgailos sutartyse.'
+  teiginys: 'Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila buvo trijų Jogailos ir Skirgailos sutarčių liudininkai.'
   pagrindžia:
     - c-001
 
@@ -70,29 +62,25 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - c-005
 
-<a id="claim-t-176504"></a>
-- t-007
-  global_id: t-176504
-  teiginys: 'Julijona buvo Tverės kunigaikščio sesuo.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-176505"></a>
+<a id="claim-t-184743"></a>
 - t-008
-  global_id: t-176505
+  global_id: t-184743
   teiginys: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-184743"></a>
 - t-009
-  global_id: t-184743
   teiginys: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   pagrindžia:
     - c-007
+- t-010
+  teiginys: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
+  pagrindžia:
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -114,19 +102,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - t-002
     - t-005
-
-- c-002
-  santrauka: 'Julijona buvo Tverės kunigaikščio sesuo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Norėdamas turėti sąjungininką prieš Maskvą,
-    jis vedė Tverės kunigaikščio seserį Julijoną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 - c-003
   santrauka: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -151,7 +126,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -166,7 +140,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -185,27 +158,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - t-006
     - t-003
-
-- c-006
-  santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu Jo-
-    gaila pasidarė ordino sąjungininkas prieš dėdę. Sutarty net nu-
-    matyta, ką reikėsią daryti, kad Kęstutis apie ją nieko nesužinotų:
-    joje net numatomas atvejis, kad Jogaila galįs būti priverstas
-    žygiuoti tarsi į pagalbą Kęstučiui, bet dėl to sutartis dar ne-
-    būsianti nutraukta; Jogaila neturįs tiktai kautis su kryžiuočiais,
-    tačiau karo veiksmų srityse jam galima būti.
-    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
-    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
-    pastangomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-007
   santrauka: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -224,6 +176,27 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   statusas: verified
   pagrindžia:
     - t-009
+- c-008
+  santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu Jo-
+    gaila pasidarė ordino sąjungininkas prieš dėdę. Sutarty net nu-
+    matyta, ką reikėsią daryti, kad Kęstutis apie ją nieko nesužinotų:
+    joje net numatomas atvejis, kad Jogaila galįs būti priverstas
+    žygiuoti tarsi į pagalbą Kęstučiui, bet dėl to sutartis dar ne-
+    būsianti nutraukta; Jogaila neturįs tiktai kautis su kryžiuočiais,
+    tačiau karo veiksmų srityse jam galima būti.
+    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
+    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
+    pastangomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

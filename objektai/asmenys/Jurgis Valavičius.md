@@ -56,4 +56,5 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/grupes/Valavičiai]]

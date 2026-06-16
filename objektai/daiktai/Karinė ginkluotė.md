@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Iš lietuvių žygio grobio buvo arklių su balnais, skydų ir šalmų. Pilies gynėjai naudojo ietis, kalavijus ir kitokius ginklus. Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstieji daugiau kariavo rendėtais brūkliais. Šiame šaltinyje papildomai aprašoma XIII-XIV a. pėstininkų ir raitininkų apsauga bei puolamieji ginklai, šarvų ir ginklų branginimas bei valstybinio jų paskirstymo praktika.
+Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę. Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo. XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.
 
 ## Pavadinimai šaltiniuose
 
@@ -84,7 +84,7 @@ Nenurodyta
 <a id="claim-t-78663"></a>
 - t-007
   global_id: t-78663
-  teiginys: 'Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti.'
+  teiginys: 'Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.'
   pagrindžia:
     - c-006
 
@@ -218,9 +218,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Arbaletai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/daiktai/Kalavijai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

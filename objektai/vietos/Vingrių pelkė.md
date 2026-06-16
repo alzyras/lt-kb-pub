@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Goštautas pakvietė vienuolių būrį į Vilnių ir paskyrė jiems vietą netoli Vingrių pelkės, žadėdamas ten pastatyti Švč. Mergelės Marijos bažnyčią.
+Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti Švč. Mergelės Marijos bažnyčią.
 
 ## Teiginiai
 
 <a id="claim-t-185318"></a>
 - t-001
   global_id: t-185318
-  teiginys: 'Goštautas pakvietė vienuolių būrį į Vilnių ir paskyrė jiems vietą netoli Vingrių pelkės, žadėdamas ten pastatyti Švč. Mergelės Marijos bažnyčią.'
+  teiginys: 'Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti Švč. Mergelės Marijos bažnyčią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Goštautas pakvietė vienuolių būrį į Vilnių ir paskyrė jiems vietą netoli Vingrių pelkės, žadėdamas ten pastatyti Švč. Mergelės Marijos bažnyčią.'
+  santrauka: 'Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti Švč. Mergelės Marijos bažnyčią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be to, paskelbtas įstatymas, leidžian­

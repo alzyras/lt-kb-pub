@@ -99,5 +99,4 @@ tags:
 - [[objektai/zodynas/regestai]]
 - [[objektai/zodynas/regestas regestai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/senatas]]

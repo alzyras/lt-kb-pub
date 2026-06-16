@@ -46,3 +46,5 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Ginklai]]
+- [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

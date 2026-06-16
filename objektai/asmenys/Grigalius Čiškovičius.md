@@ -60,6 +60,5 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/vaitas]]

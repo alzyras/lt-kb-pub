@@ -10,11 +10,11 @@ date_start: '1919'
 date_end: '1920'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
 tags:
   - sąvoka
   - valstybė
-amziai:
-  - 'XX'
 ---
 # de facto
 
@@ -23,7 +23,6 @@ amziai:
 , Anglija, Prancūzija, Norvegija, Italija, Šveicarija, Švedija, Danija, Olandija, Suomija, Latvija, Lenkija) iš pradžių tepripažino Lietuvą tik de facto, t.
 
 ## Teiginiai
-
 <a id="claim-t-75544"></a>
 - t-001
   global_id: t-75544
@@ -46,7 +45,6 @@ amziai:
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,7 +63,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   santrauka: '1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -84,7 +81,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: '1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

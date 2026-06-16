@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad jie degino jo ginklus, žirgus, vergus ir tarnaites [servi et ancillae]209, drabužius, medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai. Dusburgietis teigia, kad dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas nedvejodamas pasakydavo, kokie buvo. Dusburgietis teigia, kad rašo, jog prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį (III, 91), taip pat darę ir lietuviai (III, 338).
+Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis. Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį.
 
 ## Laikotarpis ir datos
 
@@ -41,7 +41,7 @@ Nenurodyta
 <a id="claim-t-67193"></a>
 - t-001
   global_id: t-67193
-  teiginys: 'Prūsų degintinėse laidotuvėse su mirusiuoju deginti ginklai, žirgai, tarnai, drabužiai, medžiokliniai šunys, sakalai ir darbo reikmenys.'
+  teiginys: 'Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis.'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Prūsų degintinėse laidotuvėse su mirusiuoju deginti ginklai, žirgai, tarnai, drabužiai, medžiokliniai šunys, sakalai ir darbo reikmenys.'
+  santrauka: 'Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,

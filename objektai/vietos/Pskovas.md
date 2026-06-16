@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -31,7 +32,7 @@ amziai:
 
 ## Santrauka
 
-Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas. Nuo pat Melno taikos jis jau ėmė galvoti apie žygį į Pskovą, į kurį teišsiruošė vos 1426 m. Paties Pskovo jis nepaėmė, pasitenkindamas 1.000 rublių kontribucija (anais laikais tai buvo milžiniška suma).
+Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai. Vytautas siekė Pskovą, Naugardą, Maskvą, Tverę, Riazanę ir totorius paimti savo valdžion arba turėti jiems didelę įtaką. Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
 
 ## Teiginiai
 
@@ -59,14 +60,14 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178105"></a>
 - t-004
   global_id: t-178105
-  teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
+  teiginys: '1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.'
   pagrindžia:
     - c-028
 
 <a id="claim-t-178106"></a>
 - t-005
   global_id: t-178106
-  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  teiginys: 'Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.'
   pagrindžia:
     - c-037
 
@@ -94,7 +95,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178110"></a>
 - t-009
   global_id: t-178110
-  teiginys: 'Rugpjūčio pabaigoje jungtinės pajėgos pasiekė gerai įtvirtintą Pskovą.'
+  teiginys: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   pagrindžia:
     - c-010
 
@@ -192,7 +193,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178124"></a>
 - t-023
   global_id: t-178124
-  teiginys: 'Nors Salyno ir Raciąžo aktais Pskovas buvo buvęs garantuotas ordino įtakai, Vytautas su Pskovu 1409 m. vasarą padarė sau naudingą taiką.'
+  teiginys: '1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai.'
   pagrindžia:
     - c-022
 
@@ -206,7 +207,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178126"></a>
 - t-025
   global_id: t-178126
-  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevu ir Tvere.'
+  teiginys: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
   pagrindžia:
     - c-030
 
@@ -223,13 +224,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginys: 'Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos ir laisvės valstybėje.'
   pagrindžia:
     - c-023
-
-<a id="claim-t-178129"></a>
-- t-028
-  global_id: t-178129
-  teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
-  pagrindžia:
-    - c-030
 
 <a id="claim-t-178130"></a>
 - t-029
@@ -269,7 +263,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 <a id="claim-t-178136"></a>
 - t-035
   global_id: t-178136
-  teiginys: 'Pskovo apgultimi susirūpinęs Steponas Batoras iš stovyklos parašė laišką dėl taikos valstybėje saugojimo.'
+  teiginys: 'Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos krašte saugojimo.'
   pagrindžia:
     - c-023
 
@@ -335,13 +329,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginys: 'Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-018
-
-<a id="claim-t-178147"></a>
-- t-046
-  global_id: t-178147
-  teiginys: 'Rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
-  pagrindžia:
-    - c-020
 
 <a id="claim-t-178148"></a>
 - t-047
@@ -412,6 +399,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginys: 'Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.'
   pagrindžia:
     - c-040
+
+<a id="claim-t-187643"></a>
+- t-059
+  global_id: t-187643
+  teiginys: 'Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovo miestą.'
+  pagrindžia:
+    - c-041
 
 ## Reikšmingi paminėjimai
 
@@ -580,6 +574,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-049
 
 - c-010
+  santrauka: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 95
@@ -767,7 +762,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-010
 
 - c-020
-  santrauka: 'Rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
+  santrauka: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Steponas Batoras uždraudė
@@ -824,6 +819,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-036
 
 - c-022
+  santrauka: '1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
@@ -950,6 +946,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-014
 
 - c-028
+  santrauka: '1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugas sukuria Lietuvos valstybę.
@@ -1139,6 +1136,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-019
 
 - c-037
+  santrauka: 'Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
@@ -1217,3 +1215,25 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   statusas: verified
   pagrindžia:
     - t-058
+
+- c-041
+  santrauka: 'Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovo miestą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Tais pačiais metais, Vytautui būnant Vokiečių že­
+    mėje, į Marienburgą atvyko pasiuntiniai iš Maskvos,
+    nuo didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus,
+    prašydami didįjį kunigaikštį Vytautą, kad [leistų] duk­
+    terį už didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.
+    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
+    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
+    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
+    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
+    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
+    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
+    gardo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-059

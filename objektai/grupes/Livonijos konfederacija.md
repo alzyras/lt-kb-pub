@@ -25,20 +25,21 @@ amziai:
 
 ## Santrauka
 
-Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos salą. 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
+1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.
 
 ## Teiginiai
 
 <a id="claim-t-41065"></a>
 - t-001
   global_id: t-41065
-  teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
+  teiginys: '1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protek-
@@ -60,4 +61,5 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 - [[objektai/grupes/Rygos vyskupija]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

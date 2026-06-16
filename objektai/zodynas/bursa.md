@@ -110,6 +110,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
 - [[objektai/asmenys/Eustachijus Kotovičius]]
 - [[objektai/asmenys/Juraha]]

@@ -12,20 +12,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p. (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p.
+Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
 
 ## Teiginiai
 
 <a id="claim-t-58728"></a>
 - t-001
   global_id: t-58728
-  teiginys: 'Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p. (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p.'
+  teiginys: 'Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Skokiai žr. Zioka

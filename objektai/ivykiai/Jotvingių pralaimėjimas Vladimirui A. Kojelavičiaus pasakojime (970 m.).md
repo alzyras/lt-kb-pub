@@ -84,7 +84,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/zodynas/duoklė]]

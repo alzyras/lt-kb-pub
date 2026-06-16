@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį. 7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir. Lenkų vyriausybė apsimetė nieko apie tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems klausimams išspręsti.
+Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus. Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį. Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.
 
 ## Teiginiai
 
@@ -37,27 +37,28 @@ amziai:
 <a id="claim-t-172035"></a>
 - t-002
   global_id: t-172035
-  teiginys: 'Spalio 3 d. lenkai užima Varėnos stotį.'
+  teiginys: 'Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-172037"></a>
 - t-003
   global_id: t-172037
-  teiginys: 'Varėnos ir Bastūnų stotys liko lenkams.'
+  teiginys: 'Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-172038"></a>
 - t-004
   global_id: t-172038
-  teiginys: 'Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
+  teiginys: 'Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkai su tuo nesutiko ir vilkino
@@ -87,7 +88,7 @@ amziai:
     - t-001
 
 - c-003
-  santrauka: 'Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
+  santrauka: 'Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 22 d. „Gediminas“ susirėmė su
@@ -102,6 +103,7 @@ amziai:
     - t-004
 
 - c-004
+  santrauka: 'Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     7-asis ir 2-asis pėst. p. priverstas trauktis į rytus.

@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
+LPS reikalaujant, 1989 m. gegužės 18 d. priimta Deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
 
 ## Teiginiai
 
 <a id="claim-t-21035"></a>
 - t-001
   global_id: t-21035
-  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
+  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimta Deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimta Deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-

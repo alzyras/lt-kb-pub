@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protestuoti dėl paliaubų sulaužymo. Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.
+Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių protestuoti dėl paliaubų sulaužymo. Stanislovas Strumila Petravičius, Smolensko vietininkas, derėjosi su Ivanu ir reikalavo atlyginti skriaudas.
 
 ## Teiginiai
 
 <a id="claim-t-186165"></a>
 - t-001
   global_id: t-186165
-  teiginys: 'Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.'
+  teiginys: 'Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protes
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.'
+  santrauka: 'Stanislovas Strumila Petravičius buvo karaliaus pasiųstas pas Vasiljevičių protestuoti dėl paliaubų sulaužymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Mat prieš keletą mėnesių labai turtingi
@@ -83,6 +83,5 @@ Karalius išsiuntė Stanislovą Strumilą Petravičių pas Vasiljevičių protes
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]

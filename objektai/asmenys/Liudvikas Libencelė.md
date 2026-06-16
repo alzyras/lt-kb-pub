@@ -10,14 +10,14 @@ atnaujinta: ''
 
 ## Santrauka
 
-Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, neatsargiai patekę į priešo žemę. Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.
+Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę. Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.
 
 ## Teiginiai
 
 <a id="claim-t-186145"></a>
 - t-001
   global_id: t-186145
-  teiginys: 'Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, neatsargiai patekę į priešo žemę.'
+  teiginys: 'Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, n
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Nuo Liudviko Libencelės karių žuvo dvidešimt penki Aukaimio įgulos vyrai, neatsargiai patekę į priešo žemę.'
+  santrauka: 'Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukaimio įgulos vyrus, neatsargiai įžengusius į priešo žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl jie priplaukė prie kranto, ketindami tą

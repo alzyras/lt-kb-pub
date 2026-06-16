@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 33.
+Objektų skaičius: 31.
 
 ## Kaip naudoti
 
@@ -55,12 +55,10 @@ Objektų skaičius: 33.
 
 ### Įvykiai
 - [Kėdainių-Šėtos kautynės](../objektai/ivykiai/K%C4%97daini%C5%B3-%C5%A0%C4%97tos%20kautyn%C4%97s)
-- [Pirmoji visam kraštui privilegija (privilegija)](../objektai/ivykiai/Pirmoji%20visam%20kra%C5%A1tui%20privilegija)
 - [Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)](../objektai/ivykiai/%C5%BDygimanto%20Senojo%20privilegijos%20Vilniaus%20vyskupui%20d%C4%97l%20erezijos%2C%20jurisdikcijos%20ir%20prievoli%C5%B3%20suteikimas%20%281542%20m.%29)
 - [Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)](../objektai/ivykiai/%C5%BDygimanto%20Senojo%20privilegijos%20Vilniaus%20vyskupui%20d%C4%97l%20jurisdikcijos%20ir%20prievoli%C5%B3%20suteikimas%20%281542%20m.%29)
 
 ### Žodynas
 - [amžinoji ugnis Gabija](../objektai/zodynas/am%C5%BEinoji%20ugnis%20Gabija)
-- [bažnytinė unija (unija)](../objektai/zodynas/ba%C5%BEnytin%C4%97%20unija)
 - [bažnytinės cenzūros ir pasaulietinė valdžia](../objektai/zodynas/ba%C5%BEnytin%C4%97s%20cenz%C5%ABros%20ir%20pasaulietin%C4%97%20vald%C5%BEia)
 - [schizmatikai graikų apeigų tikėjimas](../objektai/zodynas/schizmatikai%20graik%C5%B3%20apeig%C5%B3%20tik%C4%97jimas)

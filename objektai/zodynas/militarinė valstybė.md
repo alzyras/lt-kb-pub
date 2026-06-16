@@ -10,20 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Įsigalėjęs Ordinas virto paprasta militarine valstybe.
+Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.
 
 ## Teiginiai
 
 <a id="claim-t-11668"></a>
 - t-001
   global_id: t-11668
-  teiginys: 'Įsigalėjęs Ordinas virto paprasta militarine valstybe.'
+  teiginys: 'Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmiausia tai buvo 1202 met.
@@ -37,3 +38,7 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalavijuočių ordinas]]

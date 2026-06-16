@@ -16,24 +16,41 @@ tags:
 alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al- kakapių, Alkų kaimų — pilna Lietuvoje. alkos romuvos: taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne- daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią..
 
 ## Teiginiai
-
 <a id="claim-t-70078"></a>
 - t-001
   global_id: t-70078
   teiginys: 'Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   pagrindžia:
-    - c-002
-
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-70079"></a>
 - t-002
   global_id: t-70079
   teiginys: 'Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu.'
   pagrindžia:
-    - c-001
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O šitos šventovės
+    būdavo rengiamos kur nors arti sodybų, ant atskirų piliakalnių.
+    Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
+    dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
+    kakapių, Alkų kaimų — pilna Lietuvoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -47,26 +64,13 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-- c-002
-  santrauka: 'Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O šitos šventovės
-    būdavo rengiamos kur nors arti sodybų, ant atskirų piliakalnių.
-    Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
-    dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
-    kakapių, Alkų kaimų — pilna Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Susiję objektai

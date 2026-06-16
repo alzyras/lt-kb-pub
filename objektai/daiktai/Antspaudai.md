@@ -191,6 +191,7 @@ Nenurodyta
 - [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/paprociai/Politinių susitarimų tvirtinimas valstybiniais aktais, parašais ir antspaudais]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]

@@ -16,16 +16,16 @@ tags:
 1933 metais Lietuva tą nepuolimo sutartį papildė kita sutartimi, kuri apibūdino užpuoliko sąvoką.
 
 ## Teiginiai
-
 <a id="claim-t-03201"></a>
 - t-001
   global_id: t-03201
   teiginys: '1933 m. Lietuva nepuolimo sutartį papildė sutartimi, apibūdinusia užpuoliko sąvoką.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1933 m. Lietuva nepuolimo sutartį papildė sutartimi, apibūdinusia užpuoliko sąvoką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -35,8 +35,10 @@ tags:
     su minėtu laišku ligi 1944 metų.
     1933 metais Lietuva tą nepuolimo sutartį papildė kita su-
     tartimi, kuri apibūdino užpuoliko sąvoką.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

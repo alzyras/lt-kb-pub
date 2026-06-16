@@ -99,5 +99,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/grupes/Vilniaus universitetas]]

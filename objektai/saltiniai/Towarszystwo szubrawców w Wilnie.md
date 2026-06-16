@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Towarszystwo szubrawców w Wilnie.
+J. Bielińskio „Towarszystwo szubrawców w Wilnie“ buvo išleista Vilniuje 1910 metais.
 
 ## Teiginiai
 
 <a id="claim-t-88483"></a>
 - t-001
   global_id: t-88483
-  teiginys: 'Towarszystwo szubrawców w Wilnie.'
+  teiginys: 'J. Bielińskio „Towarszystwo szubrawców w Wilnie“ buvo išleista Vilniuje 1910 metais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Bielińskio „Towarszystwo szubrawców w Wilnie“ buvo išleista Vilniuje 1910 metais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3 Bieliński J. Towarszystwo szubrawców w Wilnie. Wilno, 1910, s. 45-46.

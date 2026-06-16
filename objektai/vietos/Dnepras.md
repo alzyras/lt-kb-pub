@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Dnepras'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -13,30 +14,34 @@ atnaujinta: ''
 Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai. Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose. Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
 
 ## Teiginiai
-
 <a id="claim-t-185234"></a>
 - t-001
   global_id: t-185234
   teiginys: 'Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.'
   pagrindžia:
     - c-001
-
 <a id="claim-t-185235"></a>
 - t-002
   global_id: t-185235
   teiginys: 'Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
   pagrindžia:
     - c-002
-
 <a id="claim-t-185236"></a>
 - t-003
   global_id: t-185236
   teiginys: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
   pagrindžia:
     - c-003
+<a id="claim-t-187571"></a>
+- t-004
+  global_id: t-187571
+  teiginys: 'Mindaugas buvo visą savo kariuome nę pasiuntęs už Dnepro prieš Romaną, Briansko kuni gaikštį.'
+  pagrindžia:
+    - c-004
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -53,7 +58,6 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -76,7 +80,6 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -93,3 +96,19 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   statusas: verified
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Mindaugas buvo visą savo kariuome nę pasiuntęs už Dnepro prieš Romaną, Briansko kuni gaikštį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O Treniota
+    tuomet buvo Žemaičiuose.
+    6771 metai1 2 . Mindaugas buvo visą savo kariuome­
+    nę pasiuntęs už Dnepro prieš Romaną, Briansko kuni­
+    gaikštį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

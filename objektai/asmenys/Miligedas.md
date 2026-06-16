@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta. Dusburgietis teigia, kad sitai girdėdamas, Miligedas, paprašęs brolių leidimo ir jį gavęs, išėjo ir pradėjo šį bėgantį vytis.
+Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį. Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.
 
 ## Teiginiai
 
 <a id="claim-t-60173"></a>
 - t-001
   global_id: t-60173
-  teiginys: 'Miligedas išvijo priešininką, nukovė savo iššaukėją ir slaptais keliais sugrįžo į Bartenšteino pilį.'
+  teiginys: 'Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Miligedas išvijo priešininką, nukovė savo iššaukėją ir slaptais keliais sugrįžo į Bartenšteino pilį.'
+  santrauka: 'Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai girdėdamas,

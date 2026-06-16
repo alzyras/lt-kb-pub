@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13.
+Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus. 1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių. Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.
 
 ## Teiginiai
 
@@ -37,7 +37,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 <a id="claim-t-118263"></a>
 - t-002
   global_id: t-118263
-  teiginys: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, tada pulti Vilnių pro Lentvarį.'
+  teiginys: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.'
   pagrindžia:
     - c-001
 
@@ -72,7 +72,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, tada pulti Vilnių pro Lentvarį.'
+  santrauka: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.

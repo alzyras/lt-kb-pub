@@ -128,3 +128,4 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 - [[objektai/asmenys/Mikolajus Kulmietis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/nuorašas]]

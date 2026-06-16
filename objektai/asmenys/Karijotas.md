@@ -19,7 +19,6 @@ tags:
 Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių. Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.
 
 ## Teiginiai
-
 <a id="claim-t-179639"></a>
 - t-001
   global_id: t-179639
@@ -35,7 +34,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -51,7 +49,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -95,7 +92,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

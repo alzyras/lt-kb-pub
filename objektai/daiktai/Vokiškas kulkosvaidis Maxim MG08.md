@@ -69,3 +69,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/įgula]]
+- [[objektai/daiktai/Šautuvai]]

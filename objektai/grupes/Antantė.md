@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą. Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripažinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba sugebėjo išlaviruoti ir iškelti Lietuvos. Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir Antantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei apie padėtį Lietuvoje.
+Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti. 1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure. Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje.
 
 ## Teiginiai
 
@@ -35,7 +35,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 <a id="claim-t-19636"></a>
 - t-003
   global_id: t-19636
-  teiginys: 'Antantės karinės misijos sustiprino Lietuvos viltis pasiekti nepriklausomybę ir suteikė Antantei objektyvios informacijos apie padėtį Lietuvoje.'
+  teiginys: 'Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje.'
   pagrindžia:
     - c-003
 
@@ -87,6 +87,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     - t-004
 
 - c-003
+  santrauka: 'Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-

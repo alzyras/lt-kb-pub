@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Aizkrauklės mūšyje pagonims atiteko riterių vėliava. Vėliavos netekimas laikytas didele nelaime.
+Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime. Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,13 +47,14 @@ Nenurodyta
 <a id="claim-t-179493"></a>
 - t-002
   global_id: t-179493
-  teiginys: 'Aizkrauklės mūšyje pagonims atiteko riterių vėliava.'
+  teiginys: 'Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     5 d.), iš kurių kry­

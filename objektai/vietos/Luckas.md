@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -28,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų suvažiavimo ir kunigaikštiško titulo vieta. Šiame šaltinyje Luckas taip pat siejamas su karaimų apgyvendinimu ir Lucko suvažiavimu 1429 m. 1434 m. Jurša gynė Lucko pilį nuo lenkų. 1504 m. į Lucko pilį artinosi platburniai.
+Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką. Vytautas 1429 m. sausio 6 d. Lucke sušaukė popiežiaus paskirtą suvažiavimą pavojui aptarti. Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.
 
 ## Pavadinimai šaltiniuose
 
@@ -56,294 +57,280 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   global_id: t-177642
   teiginys: 'Vytautas 1429 m. sausio 6 d. Lucke sušaukė popiežiaus paskirtą suvažiavimą pavojui aptarti.'
   pagrindžia:
-    - c-019
-
-<a id="claim-t-177643"></a>
-- t-003
-  global_id: t-177643
-  teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  pagrindžia:
-    - c-016
+    - c-018
 
 <a id="claim-t-177644"></a>
-- t-004
+- t-003
   global_id: t-177644
   teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus ir Gardiną, taip pat pridėjo Lucką.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-177646"></a>
-- t-005
+- t-004
   global_id: t-177646
   teiginys: '1432 m. Luckas iš Vladislovo Jogailos gavo Magdeburgo teisę.'
   pagrindžia:
-    - c-026
+    - c-024
 
 <a id="claim-t-177647"></a>
-- t-006
+- t-005
   global_id: t-177647
   teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion.'
   pagrindžia:
-    - c-018
+    - c-017
 
 <a id="claim-t-177649"></a>
-- t-008
+- t-007
   global_id: t-177649
   teiginys: 'Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.'
   pagrindžia:
     - c-007
 
-<a id="claim-t-177650"></a>
-- t-009
-  global_id: t-177650
-  teiginys: 'Jogaila apsiautė Lucką, apgula tęsėsi, tačiau jo pajėgos buvo atremtos — lietuviai sėkmingai gynėsi.'
-  pagrindžia:
-    - c-028
-
 <a id="claim-t-177651"></a>
-- t-010
+- t-008
   global_id: t-177651
   teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-177652"></a>
-- t-011
+- t-009
   global_id: t-177652
   teiginys: 'Žygimantas leido Vilniaus miestiečiams be muito gabenti prekes visoje Lietuvos žemėje, taip pat Lucke.'
   pagrindžia:
-    - c-023
+    - c-021
 
 <a id="claim-t-177653"></a>
-- t-012
+- t-010
   global_id: t-177653
   teiginys: 'Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti.'
   pagrindžia:
-    - c-021
-
-<a id="claim-t-177654"></a>
-- t-013
-  global_id: t-177654
-  teiginys: '1429 m. valdovų suvažiavimas rytų Europos politikos klausimams apsvarstyti buvo sušauktas Vytauto pilyje Lucke.'
-  pagrindžia:
-    - c-029
+    - c-020
 
 <a id="claim-t-177655"></a>
-- t-014
+- t-011
   global_id: t-177655
   teiginys: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-177656"></a>
-- t-015
+- t-012
   global_id: t-177656
   teiginys: 'Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-177657"></a>
-- t-016
+- t-013
   global_id: t-177657
   teiginys: '1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką.'
   pagrindžia:
     - c-007
 
 <a id="claim-t-177658"></a>
-- t-017
+- t-014
   global_id: t-177658
   teiginys: 'Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-177659"></a>
-- t-018
-  global_id: t-177659
-  teiginys: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
-  pagrindžia:
-    - c-022
-
 <a id="claim-t-177660"></a>
-- t-019
+- t-015
   global_id: t-177660
   teiginys: '1392 m. Astrave Vytautas ir Ona jau titulavosi Trakų ir Lucko kunigaikščiais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-177661"></a>
-- t-020
+- t-016
   global_id: t-177661
   teiginys: 'Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.'
   pagrindžia:
     - c-011
 
 <a id="claim-t-177662"></a>
-- t-021
+- t-017
   global_id: t-177662
-  teiginys: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29.'
+  teiginys: '1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.'
   pagrindžia:
     - c-012
 
 <a id="claim-t-177664"></a>
-- t-023
+- t-019
   global_id: t-177664
   teiginys: '1429 m. Vytautas sukvietė Lucko suvažiavimą.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-177665"></a>
-- t-024
+- t-020
   global_id: t-177665
   teiginys: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.'
   pagrindžia:
-    - c-027
+    - c-025
 
 <a id="claim-t-177666"></a>
-- t-025
+- t-021
   global_id: t-177666
-  teiginys: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  teiginys: 'Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų.'
   pagrindžia:
-    - c-024
+    - c-022
 
 <a id="claim-t-177668"></a>
-- t-026
+- t-022
   global_id: t-177668
   teiginys: 'Daugelio monarchų ir kunigaikščių suvažiavimą buvo nutarta sušaukti Lucke.'
   pagrindžia:
-    - c-021
+    - c-020
 
 <a id="claim-t-177670"></a>
-- t-027
+- t-023
   global_id: t-177670
   teiginys: 'Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
   pagrindžia:
     - c-013
 
 <a id="claim-t-177671"></a>
-- t-028
+- t-024
   global_id: t-177671
   teiginys: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   pagrindžia:
     - c-014
 
-<a id="claim-t-177672"></a>
-- t-029
-  global_id: t-177672
-  teiginys: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d.'
-  pagrindžia:
-    - c-020
-
 <a id="claim-t-177673"></a>
-- t-030
+- t-026
   global_id: t-177673
   teiginys: 'Vytautas Lucke keldavo puikias puotas, kai norėdavo parodyti savo galybę ir padaryti įspūdį.'
   pagrindžia:
     - c-009
 
 <a id="claim-t-177674"></a>
-- t-031
+- t-027
   global_id: t-177674
-  teiginys: '1392 m. Astrave duoti dokumentai rodo, kad Vytautas su Ona titulavosi Trakų ir Lucko kunigaikščiais.'
+  teiginys: '1392 m. Astravo dokumentai rodo, kad Vytautas ir Ona titulavosi Trakų ir Lucko kunigaikščiais.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-177675"></a>
-- t-032
+- t-028
   global_id: t-177675
   teiginys: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą.'
   pagrindžia:
     - c-015
 
 <a id="claim-t-177676"></a>
-- t-033
+- t-029
   global_id: t-177676
   teiginys: 'Per žygį paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-177677"></a>
-- t-034
+- t-030
   global_id: t-177677
   teiginys: 'Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-177678"></a>
-- t-035
+- t-031
   global_id: t-177678
   teiginys: 'Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai.'
   pagrindžia:
-    - c-017
+    - c-016
 
 <a id="claim-t-177679"></a>
-- t-036
+- t-032
   global_id: t-177679
   teiginys: '1388 m. Šv. Jono Krikštytojo dieną Lucke dalyvavo Lucko vaivada ir kiti liudytojai.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-177680"></a>
-- t-037
+- t-033
   global_id: t-177680
   teiginys: 'To žygio metu paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-177681"></a>
-- t-038
+- t-034
   global_id: t-177681
   teiginys: '1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams.'
   pagrindžia:
-    - c-025
+    - c-023
 
 <a id="claim-t-177682"></a>
-- t-039
+- t-035
   global_id: t-177682
   teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką.'
   pagrindžia:
-    - c-023
+    - c-021
 
 <a id="claim-t-183860"></a>
-- t-041
+- t-036
   global_id: t-183860
   teiginys: '1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas.'
   pagrindžia:
-    - c-031
+    - c-026
 
 <a id="claim-t-185030"></a>
-- t-042
+- t-037
   global_id: t-185030
   teiginys: 'Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.'
   pagrindžia:
-    - c-032
+    - c-027
 
 <a id="claim-t-185031"></a>
-- t-043
+- t-038
   global_id: t-185031
   teiginys: 'Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.'
   pagrindžia:
-    - c-033
+    - c-028
 
 <a id="claim-t-185032"></a>
-- t-044
+- t-039
   global_id: t-185032
   teiginys: 'Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.'
   pagrindžia:
-    - c-034
+    - c-029
 
 <a id="claim-t-185033"></a>
-- t-045
+- t-040
   global_id: t-185033
   teiginys: 'Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.'
   pagrindžia:
-    - c-035
+    - c-030
 
 <a id="claim-t-185034"></a>
-- t-046
+- t-041
   global_id: t-185034
   teiginys: 'Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.'
   pagrindžia:
-    - c-036
+    - c-031
+
+<a id="claim-t-187600"></a>
+- t-042
+  global_id: t-187600
+  teiginys: 'Prie Jieseldos upės kunigaikštis Skirmantas visiškai sumušė Lucko ir Pinsko kunigaikštį bei rusų karo jėgą.'
+  pagrindžia:
+    - c-032
+
+<a id="claim-t-187601"></a>
+- t-043
+  global_id: t-187601
+  teiginys: 'Ir didysis kunigaikštis Jogaila parsikvie tė jj iš Prūsų 1 0 , davė jam valdyti Lucką ir visą Voly nės 1 1 žemę 1 2 .'
+  pagrindžia:
+    - c-033
+
+<a id="claim-t-187602"></a>
+- t-044
+  global_id: t-187602
+  teiginys: 'Didysis kunigaikštis Vytautas Lucke sutarė išleisti dukterį Sofiją už Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.'
+  pagrindžia:
+    - c-034
 
 ## Reikšmingi paminėjimai
 
@@ -358,7 +345,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-019
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -371,8 +358,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
-    - t-019
+    - t-027
+    - t-015
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -386,7 +373,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-014
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -398,8 +385,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-029
     - t-033
-    - t-037
 
 - c-005
   santrauka: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
@@ -414,7 +401,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-011
 
 - c-006
   santrauka: 'Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
@@ -427,7 +414,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: interpretacija
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-030
 
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -442,8 +429,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-    - t-008
+    - t-013
+    - t-007
 
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -458,7 +445,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
     - t-001
 
 - c-009
@@ -473,7 +460,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-026
 
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -487,7 +474,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-032
 
 - c-011
   santrauka: 'Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.'
@@ -517,10 +504,11 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
-    - t-020
+    - t-018
+    - t-016
 
 - c-012
+  santrauka: '1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
@@ -542,7 +530,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-017
 
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -563,8 +551,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
-    - t-027
+    - t-012
+    - t-023
 
 - c-014
   santrauka: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
@@ -583,7 +571,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-024
 
 - c-015
   santrauka: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
@@ -606,24 +594,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
-    - t-032
+    - t-008
+    - t-028
 
 - c-016
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmąjį nepaklusnumo ženklą Jogailai Vytautas parodė su-
-    siartindamas su Maskva. Bėgdamas iš totorių nelaisvės, Mask-
-    vos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke,
-    susižadėjo su jo dukteria Sofija. Į Maskvą vykstantį sužadėtinį
-    palydėjo Vytauto kariuomenės būrys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-017
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi Jogaila
@@ -637,9 +611,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-031
 
-- c-018
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
@@ -651,10 +625,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-005
     - t-006
-    - t-007
 
-- c-019
+- c-018
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     situs sukiršino ir įdrąsino, jog jie, nepripažindami nei bažny­
@@ -670,7 +644,8 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   pagrindžia:
     - t-002
 
-- c-020
+- c-019
+  santrauka: '1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodė,
@@ -695,9 +670,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-025
 
-- c-021
+- c-020
   santrauka: 'Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -718,22 +693,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-    - t-026
+    - t-010
+    - t-022
 
-- c-022
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
-    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste. Kryžiuočių
-    pavojus pašalintas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
-
-- c-023
+- c-021
   santrauka: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -754,10 +717,11 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
-    - t-011
+    - t-035
+    - t-009
 
-- c-024
+- c-022
+  santrauka: 'Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
@@ -770,9 +734,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-021
 
-- c-025
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 210
@@ -796,9 +760,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-034
 
-- c-026
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
@@ -807,9 +771,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-027
+- c-025
   santrauka: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -834,54 +798,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-020
 
-- c-028
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prie Stirės
-    įvyko Švitrigailos pajėgoms nesékmin-
-    gas mūšis. Jogaila apsiautė Lucką, apgula
-    tęsėsi, tačiau jo pajėgos buvo atremtos —
-    lietuviai sėkmingai gynėsi. Švitrigailos
-    įkalbėtas Ordinas trimis kryptimis puolė
-    Lenkiją, ją puolė ir Moldavija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-029
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lucko suvažiavimas ir karūnacijos sumanymas. 1429 m.
-    turėjo įvykti valdovų suvažiavimas rytų Europos politikos klau-
-    simams apsvarstyti. Jis buvo sušauktas Vytauto pily, Lucke.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-030
-  santrauka: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK
-    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
-
-    L I E T U V O S  I S T O R I J A
-    44
-    imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
-    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-040
-
-- c-031
+- c-026
   santrauka: '1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -894,9 +813,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-036
 
-- c-032
+- c-027
   santrauka: 'Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -931,9 +850,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-037
 
-- c-033
+- c-028
   santrauka: 'Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -967,9 +886,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-038
 
-- c-034
+- c-029
   santrauka: 'Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -991,9 +910,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-044
+    - t-039
 
-- c-035
+- c-030
   santrauka: 'Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1010,9 +929,9 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-040
 
-- c-036
+- c-031
   santrauka: 'Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1033,4 +952,55 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-041
+
+- c-032
+  santrauka: 'Prie Jieseldos upės kunigaikštis Skirmantas visiškai sumušė Lucko ir Pinsko kunigaikštį bei rusų karo jėgą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Šiapus Jieseldos5  upės
+    kunigaikštis Skirmantas visiškai sumušė Lucko ir Pins­
+    ko kunigaikštį bei visą rusų karo jėgą6 . Tiktai kuni­
+    gaikštis Mstislavas su nedidele palyda spėjo pabėgti
+    į Lucko miestą. O didysis kunigaikštis Skirmantas už­
+    ėmė Pinsko miestą7  ir Turovo miestą".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-042
+
+- c-033
+  santrauka: 'Ir didysis kunigaikštis Jogaila parsikvie tė jj iš Prūsų 1 0 , davė jam valdyti Lucką ir visą Voly nės 1 1 žemę 1 2 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didžiajam
+    kunigaikščiui Jogailai ir Skirgailai neįmanoma buvo
+    kovoti prieš jį, kadangi jo pusėje tada buvo susitelku­
+    si didelė jėga. Ir didysis kunigaikštis Jogaila parsikvie­
+    tė jj iš Prūsų 1 0 , davė jam valdyti Lucką ir visą Voly­
+    nės 1 1  žemę 1 2 .
+    28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-043
+
+- c-034
+  santrauka: 'Didysis kunigaikštis Vytautas Lucke sutarė išleisti dukterį Sofiją už Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Paskui išvyko į Lenkiją1 9 , palikęs gubernato­
+    riumi Vilniuje ir Lietuvos Didžiojoje Kunigaikštystėje
+    savo brolį Skirgailą2 0 .
+    O didysis kunigaikštis Vytautas, būdamas Lucke, su­
+    tarė išleisti savo dukterį kunigaikštytę Sofiją2 1  už
+    Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevi-
+    čiaus n .
+    30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-044

@@ -14,10 +14,9 @@ tags:
 
 ## Santrauka
 
-Šis leidinys minimas kaip XV amžiaus laiškų rinkinys. Vienas paminėjimas jį įtraukia tarp išspausdintų dokumentų, o kitas pateikia pilną leidinio pavadinimą, tomus ir leidėjus.
+„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis. „Cod. ep. saec. XV“ nurodomas kaip vienas leidinių, susijusių su išlikusių dokumentų publikavimu.
 
 ## Teiginiai
-
 <a id="claim-t-67360"></a>
 - t-001
   global_id: t-67360
@@ -25,15 +24,8 @@ tags:
   pagrindžia:
     - c-001
 
-<a id="claim-t-67361"></a>
-- t-002
-  global_id: t-67361
-  teiginys: 'Visi išlikę dokumentai yra atspausdinti: St. Kutrzeba i Wl. Semkowicz, Akta unji NNr. 29—31; be to, žiūr.: Codex ep. Vitoldi, 30, 959 psl. ir Cod. ep. saec. XV, 16 psl.).'
-  pagrindžia:
-    - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -45,15 +37,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi išlikę dokumentai yra
-    atspausdinti: _St. Kutrzeba_ i _Wl. Semkowicz,_ Akta unji NNr. 29—31; be to,
-    žiūr.: _Codex ep. Vitoldi,_ 30, 959 psl. ir _Cod. ep. saec. XV,_ 16 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002

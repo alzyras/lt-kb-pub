@@ -55,4 +55,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Liuosybė|liuosybė]]
-- [[objektai/zodynas/karo grobis]]

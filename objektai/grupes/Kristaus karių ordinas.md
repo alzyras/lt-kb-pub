@@ -15,20 +15,21 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr. Dusburgietis teigia, kad kristaus karių ordinas, Dobrynės broliai Kristaus karių ordinas Livonijos žemėje Kristburgas Senasis (Kirsapilis, Kirsa, Kirsberg, Kirsburg; Cristburgk, Cristburc; Christburg, Aldinkirsburg, Kirseburg ir pan.
+Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
 
 ## Teiginiai
 
 <a id="claim-t-63011"></a>
 - t-001
   global_id: t-63011
-  teiginys: 'Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
+  teiginys: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Diewenns

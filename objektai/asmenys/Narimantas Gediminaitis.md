@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“. Rugpjūčio pradžioje švedai paėmė Orechovą - svarbų strateginį punktą Ladogos paežerėje, prie Nevos ištakų, kurį valdė Narimantas, t.y. Rugpjūčio pradžioje švedai paėmė Orechovą - svarbų strateginį punktą Ladogos paežerėje, prie Nevos ištakų, kurį valdė Narimantas, t.
+Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų. Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų. Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 
 ## Teiginiai
 
@@ -36,14 +36,14 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 <a id="claim-t-40370"></a>
 - t-003
   global_id: t-40370
-  teiginys: 'Rusų metraščiai mini, kad mūšyje buvo nukautas kunigaikštis Narimantas Gediminaitis, Algirdo ir Kęstučio brolis.'
+  teiginys: 'Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rusų metraščiai mini, kad mūšyje buvo nukautas kunigaikštis Narimantas Gediminaitis, Algirdo ir Kęstučio brolis.'
+  santrauka: 'Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tam tikslui magistras su

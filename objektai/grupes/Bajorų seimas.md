@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.
+Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis. Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 <a id="claim-t-183121"></a>
 - t-002
   global_id: t-183121
-  teiginys: 'Lenkijoje greta monarcho valstybės valią reiškė valstybės taryba ir pradėjęs veikti bajorų seimas.'
+  teiginys: 'Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
     - t-001
 
 - c-002
-  santrauka: 'Lenkijoje greta monarcho valstybės valią reiškė valstybės taryba ir pradėjęs veikti bajorų seimas.'
+  santrauka: 'Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-

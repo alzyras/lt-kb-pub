@@ -69,6 +69,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Kardas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/pagonybė]]

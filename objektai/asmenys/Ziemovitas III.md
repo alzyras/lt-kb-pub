@@ -67,3 +67,4 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
+- [[objektai/zodynas/ponai]]

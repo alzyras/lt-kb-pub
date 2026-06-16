@@ -9,13 +9,13 @@ date_start: '1429'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XV'
 tags:
   - ežeras
   - karas
   - kraštas
   - ordinas
-amziai:
-  - 'XV'
 ---
 # Melno taika (1422 m.)
 
@@ -24,7 +24,6 @@ amziai:
 Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariuomenės stovykloje, 1422 m. rugsėjo 27 d. Šia taika buvo galutinai išspręstas ginčijamų teritorijų klausimas. Melno taika buvo baigtos ilgai ėjusios Lietuvos kovos su vokiečių ordinu.
 
 ## Teiginiai
-
 <a id="claim-t-75504"></a>
 - t-001
   global_id: t-75504
@@ -39,8 +38,7 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   pagrindžia:
     - c-001
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

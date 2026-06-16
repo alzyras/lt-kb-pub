@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.
+XX a. septintajame dešimtmetyje Plungės gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.
 
 ## Teiginiai
 
 <a id="claim-t-21707"></a>
 - t-001
   global_id: t-21707
-  teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
+  teiginys: 'XX a. septintajame dešimtmetyje Plungės gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XX a. septintajame dešimtmetyje Plungės gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XX a. septintajame dešimtmetyje LSSR administracija parengė šalies

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 38.
+Objektų skaičius: 40.
 
 ## Kaip naudoti
 
@@ -40,14 +40,16 @@ Objektų skaičius: 38.
 ### Įvykiai
 - [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos]]
+- [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]
 - [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
 - [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]
 - [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
 - [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
-- [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
-- [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
+- [Paliaubų protokolo pasirašymas Kaune](../objektai/ivykiai/Paliaub%C5%B3%20protokolo%20pasira%C5%A1ymas%20Kaune)
+- [Rygos pirklių prekybos teisė Lietuvoje (1253 m.)](../objektai/ivykiai/Rygos%20pirkli%C5%B3%20prekybos%20teis%C4%97%20Lietuvoje%20%281253%20m.%29)
 - [Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)](../objektai/ivykiai/Skirgailos%20ir%20Livonijos%20magistro%20Polocko%20apgultis%20%281381%20m.%29)
 - [Skuodo kautynės (1259 m.)](../objektai/ivykiai/Skuodo%20kautyn%C4%97s%20%281259%20m.%29)
 - [Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)](../objektai/ivykiai/Taikos%20atk%C5%ABrimas%20tarp%20Sventopelko%20ir%20broli%C5%B3%20%281246%20m.%29)

@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto. Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas formavosi iškeliant Vytautą ir jo laikus.
+Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto. Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją. Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.
 
 ## Laikotarpis ir datos
 
@@ -63,7 +63,7 @@ Nenurodyta
 <a id="claim-t-75366"></a>
 - t-004
   global_id: t-75366
-  teiginys: 'Knygų spausdinimas Lietuvoje virto nenutrūkstamu procesu.'
+  teiginys: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir sukurta lietuvių kilmės iš romėnų teorija.'
   pagrindžia:
     - c-001
 
@@ -77,6 +77,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir sukurta lietuvių kilmės iš romėnų teorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Knygų spausdini-

@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -29,7 +30,7 @@ amziai:
 
 ## Santrauka
 
-Lietuva šiame šaltinyje aprašoma kaip atskira valstybė su savomis teisėmis, suvažiavimais, seimine praktika ir valstybine savivoka, išlaikyta ir po Liublino unijos.
+Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise. Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų. Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.
 
 ## Pavadinimai šaltiniuose
 
@@ -47,1020 +48,898 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 
 ## Teiginiai
 
-<a id="claim-t-180064"></a>
-- t-001
-  global_id: t-180064
-  teiginys: 'Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.'
-  pagrindžia:
-    - c-115
-
 <a id="claim-t-180065"></a>
-- t-002
+- t-001
   global_id: t-180065
-  teiginys: 'Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kaip naują politinį vienetą ir sutiko pripažinti Lietuvą remdamiesi nacijų apsisprendimo teise – taigi silpnesniu pripažinimo dokumentu.'
-  pagrindžia:
-    - c-068
-
-<a id="claim-t-180066"></a>
-- t-003
-  global_id: t-180066
-  teiginys: 'Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų.'
-  pagrindžia:
-    - c-008
-
-<a id="claim-t-180067"></a>
-- t-004
-  global_id: t-180067
-  teiginys: 'Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.'
-  pagrindžia:
-    - c-040
-
-<a id="claim-t-180068"></a>
-- t-005
-  global_id: t-180068
-  teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
-  pagrindžia:
-    - c-015
-
-<a id="claim-t-180069"></a>
-- t-006
-  global_id: t-180069
-  teiginys: '1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.'
-  pagrindžia:
-    - c-069
-
-<a id="claim-t-180070"></a>
-- t-007
-  global_id: t-180070
-  teiginys: 'Ši partizanų operacija turėjo didelę moralinę reikšmę - kalbos apie kautynes žaibo greitumu pasklido po visą Lietuvą, o tai stiprino gyventojų patriotines nuotaikas bei tikėjimą, kad laisvės kovotojai iš gynybos pereina į ryžtingą puolimą.'
-  pagrindžia:
-    - c-026
-
-<a id="claim-t-180071"></a>
-- t-008
-  global_id: t-180071
-  teiginys: '1440 m. Kazimiero IV privilegija leido Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje.'
-  pagrindžia:
-    - c-091
-
-<a id="claim-t-180072"></a>
-- t-009
-  global_id: t-180072
-  teiginys: 'XIII a. viduryje Lietuva savo žemėje jau turėjo keletą miestų, nors ilgai buvo atsiribojusi nuo krikščionybės.'
-  pagrindžia:
-    - c-033
-
-<a id="claim-t-180073"></a>
-- t-010
-  global_id: t-180073
-  teiginys: 'Lietuvių tautinio judėjimo iškilimą dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą laikys tik Vokietijos intriga.'
-  pagrindžia:
-    - c-011
-
-<a id="claim-t-180074"></a>
-- t-011
-  global_id: t-180074
-  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
-  pagrindžia:
-    - c-120
-
-<a id="claim-t-180075"></a>
-- t-012
-  global_id: t-180075
-  teiginys: 'LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.'
-  pagrindžia:
-    - c-043
-
-<a id="claim-t-180076"></a>
-- t-013
-  global_id: t-180076
-  teiginys: '1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi.'
-  pagrindžia:
-    - c-055
-
-<a id="claim-t-180078"></a>
-- t-014
-  global_id: t-180078
-  teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
-  pagrindžia:
-    - c-108
-
-<a id="claim-t-180079"></a>
-- t-015
-  global_id: t-180079
-  teiginys: 'Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.'
+  teiginys: 'Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise.'
   pagrindžia:
     - c-059
 
-<a id="claim-t-180080"></a>
-- t-016
-  global_id: t-180080
-  teiginys: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
+<a id="claim-t-180066"></a>
+- t-002
+  global_id: t-180066
+  teiginys: 'Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų.'
   pagrindžia:
-    - c-047
+    - c-004
 
-<a id="claim-t-180081"></a>
-- t-017
-  global_id: t-180081
-  teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
-  pagrindžia:
-    - c-020
-
-<a id="claim-t-180082"></a>
-- t-018
-  global_id: t-180082
-  teiginys: 'Visų pirma lietuviai neprastai išmoko rusų kalbą ir galėjo tiesiogiai naudotis didžios rusų kultūros pasiekimais.'
-  pagrindžia:
-    - c-100
-
-<a id="claim-t-180083"></a>
-- t-019
-  global_id: t-180083
-  teiginys: 'Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
-  pagrindžia:
-    - c-093
-
-<a id="claim-t-180084"></a>
-- t-020
-  global_id: t-180084
-  teiginys: 'Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.'
-  pagrindžia:
-    - c-106
-
-<a id="claim-t-180085"></a>
-- t-021
-  global_id: t-180085
-  teiginys: '1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę.'
-  pagrindžia:
-    - c-051
-
-<a id="claim-t-180086"></a>
-- t-022
-  global_id: t-180086
-  teiginys: 'Michałas Balińskis suprato Lietuvos miestų ir miestiečių luomo vėlyvos raidos priežastis.'
-  pagrindžia:
-    - c-035
-
-<a id="claim-t-180087"></a>
-- t-023
-  global_id: t-180087
-  teiginys: 'XVI amžiuje vakaruose Lietuva karų jau nebeturėjo.'
-  pagrindžia:
-    - c-058
-
-<a id="claim-t-180088"></a>
-- t-024
-  global_id: t-180088
-  teiginys: 'Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.'
-  pagrindžia:
-    - c-114
-
-<a id="claim-t-180090"></a>
-- t-025
-  global_id: t-180090
-  teiginys: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva galutinai tapo lietuviška ir jos nebebuvo galima supainioti nei su Lenkija, nei su Rusija.'
-  pagrindžia:
-    - c-080
-
-<a id="claim-t-180091"></a>
-- t-026
-  global_id: t-180091
-  teiginys: '1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.'
-  pagrindžia:
-    - c-062
-
-<a id="claim-t-180092"></a>
-- t-027
-  global_id: t-180092
-  teiginys: 'Lietuva bandys keltis kaip naujai sukurta valstybė, turinti istorinių sąsajų su LDK, kurios jai nedavė jokių kreditų, tad apsispręsta atkurti valstybę etnografiniu principu – lietuviškai kalbančią Lietuvą.'
-  pagrindžia:
-    - c-089
-
-<a id="claim-t-180093"></a>
-- t-028
-  global_id: t-180093
-  teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
-  pagrindžia:
-    - c-025
-
-<a id="claim-t-180094"></a>
-- t-029
-  global_id: t-180094
-  teiginys: 'XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.'
-  pagrindžia:
-    - c-017
-
-<a id="claim-t-180095"></a>
-- t-030
-  global_id: t-180095
-  teiginys: '1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.'
-  pagrindžia:
-    - c-014
-
-<a id="claim-t-180096"></a>
-- t-031
-  global_id: t-180096
-  teiginys: 'XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.'
-  pagrindžia:
-    - c-070
-
-<a id="claim-t-180097"></a>
-- t-032
-  global_id: t-180097
-  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
-  pagrindžia:
-    - c-116
-
-<a id="claim-t-180098"></a>
-- t-033
-  global_id: t-180098
-  teiginys: '1949 m. vasario 16 d. LLKS tarybos deklaracija numatė atkurti nepriklausomą demokratinę Lietuvos Respubliką.'
-  pagrindžia:
-    - c-045
-
-<a id="claim-t-180099"></a>
-- t-034
-  global_id: t-180099
-  teiginys: 'Nutrūkusi prekyba su Rusia ir Prūsija bei nuolatinis priešo pavojus Lietuvos sostinę vertė karine stovykla arba mūšio lauku.'
-  pagrindžia:
-    - c-103
-
-<a id="claim-t-180100"></a>
-- t-035
-  global_id: t-180100
-  teiginys: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
-  pagrindžia:
-    - c-076
-
-<a id="claim-t-180101"></a>
-- t-036
-  global_id: t-180101
-  teiginys: '1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę.'
-  pagrindžia:
-    - c-090
-
-<a id="claim-t-180102"></a>
-- t-037
-  global_id: t-180102
-  teiginys: 'Šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst. tremtinių ir apie 20 tūkst. politinių kalinių.'
-  pagrindžia:
-    - c-023
-
-<a id="claim-t-180103"></a>
-- t-038
-  global_id: t-180103
-  teiginys: 'Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos).'
-  pagrindžia:
-    - c-111
-
-<a id="claim-t-180104"></a>
-- t-039
-  global_id: t-180104
-  teiginys: 'Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.'
-  pagrindžia:
-    - c-019
-
-<a id="claim-t-180105"></a>
-- t-040
-  global_id: t-180105
-  teiginys: '1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.'
-  pagrindžia:
-    - c-121
-
-<a id="claim-t-180107"></a>
-- t-041
-  global_id: t-180107
-  teiginys: 'Naujieji 160 000 ūkininkų vykdė melioraciją, pavertė dirbama žeme tūkstančius hektarų ganyklų, krūmų ir miškų, pasėlių plotai padidėjo trečdaliu, Lietuva pati apsirūpindavo maistiniais ir pašariniais grūdais, o perteklių eksportuodavo (1938 m. – 132 000 tonų).'
+<a id="claim-t-180067"></a>
+- t-003
+  global_id: t-180067
+  teiginys: 'Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.'
   pagrindžia:
     - c-034
 
-<a id="claim-t-180108"></a>
-- t-042
-  global_id: t-180108
-  teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
+<a id="claim-t-180068"></a>
+- t-004
+  global_id: t-180068
+  teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   pagrindžia:
-    - c-032
+    - c-011
 
-<a id="claim-t-180109"></a>
-- t-043
-  global_id: t-180109
-  teiginys: 'Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.'
-  pagrindžia:
-    - c-071
-
-<a id="claim-t-180110"></a>
-- t-044
-  global_id: t-180110
-  teiginys: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
-  pagrindžia:
-    - c-095
-
-<a id="claim-t-180111"></a>
-- t-045
-  global_id: t-180111
-  teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
-  pagrindžia:
-    - c-107
-
-<a id="claim-t-180112"></a>
-- t-046
-  global_id: t-180112
-  teiginys: 'Vėliau tiek Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.'
-  pagrindžia:
-    - c-072
-
-<a id="claim-t-180115"></a>
-- t-047
-  global_id: t-180115
-  teiginys: 'Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai.'
-  pagrindžia:
-    - c-046
-
-<a id="claim-t-180116"></a>
-- t-048
-  global_id: t-180116
-  teiginys: 'Vakarams skirtoje korespondencijoje Lietuva buvo vadinama karalyste.'
-  pagrindžia:
-    - c-119
-
-<a id="claim-t-180117"></a>
-- t-049
-  global_id: t-180117
-  teiginys: 'Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.'
-  pagrindžia:
-    - c-016
-
-<a id="claim-t-180118"></a>
-- t-050
-  global_id: t-180118
-  teiginys: 'Vytauto karūnacija galėjo visiškai išvaduoti Lietuvą iš Lenkijos ir sumažinti Lenkijos galią Europoje.'
-  pagrindžia:
-    - c-094
-
-<a id="claim-t-180119"></a>
-- t-051
-  global_id: t-180119
-  teiginys: 'Dusburgietis teigia, kad taigi Gedimino valdoma Lietuvos valstybė XIV a.'
-  pagrindžia:
-    - c-057
-
-<a id="claim-t-180120"></a>
-- t-052
-  global_id: t-180120
-  teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-180121"></a>
-- t-053
-  global_id: t-180121
-  teiginys: 'Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.'
-  pagrindžia:
-    - c-125
-
-<a id="claim-t-180123"></a>
-- t-054
-  global_id: t-180123
-  teiginys: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą.'
-  pagrindžia:
-    - c-036
-
-<a id="claim-t-180124"></a>
-- t-055
-  global_id: t-180124
-  teiginys: 'Gediminas savo valstybėje turėjo dvi skirtingų kalbų ir religijų tautas: lietuvius ir rusus.'
-  pagrindžia:
-    - c-013
-
-<a id="claim-t-180125"></a>
-- t-056
-  global_id: t-180125
-  teiginys: 'Ūkiai Lietuvoje buvo netvarkyti nuo senų senovės.'
-  pagrindžia:
-    - c-123
-
-<a id="claim-t-180126"></a>
-- t-057
-  global_id: t-180126
-  teiginys: 'Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo 2 028 971 (be Vilniaus ir Klaipėdos kraštų).'
-  pagrindžia:
-    - c-042
-
-<a id="claim-t-180127"></a>
-- t-058
-  global_id: t-180127
-  teiginys: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
-  pagrindžia:
-    - c-044
-
-<a id="claim-t-180128"></a>
-- t-059
-  global_id: t-180128
-  teiginys: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nebuvo, bet 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi.'
-  pagrindžia:
-    - c-067
-
-<a id="claim-t-180129"></a>
-- t-060
-  global_id: t-180129
-  teiginys: 'Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.'
-  pagrindžia:
-    - c-049
-
-<a id="claim-t-180130"></a>
-- t-061
-  global_id: t-180130
-  teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
-  pagrindžia:
-    - c-031
-
-<a id="claim-t-180131"></a>
-- t-062
-  global_id: t-180131
-  teiginys: 'Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.'
-  pagrindžia:
-    - c-010
-
-<a id="claim-t-180132"></a>
-- t-063
-  global_id: t-180132
-  teiginys: 'Iki Jogailos tapimo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama savotiška arba nesistemine karalyste.'
-  pagrindžia:
-    - c-077
-
-<a id="claim-t-180133"></a>
-- t-064
-  global_id: t-180133
-  teiginys: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
-  pagrindžia:
-    - c-065
-
-<a id="claim-t-180134"></a>
-- t-065
-  global_id: t-180134
-  teiginys: 'Steponas Batoras nespaudė lietuvių lenkų naudai ir skaitėsi su Lietuva kaip su atskira valstybe.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-180135"></a>
-- t-066
-  global_id: t-180135
-  teiginys: 'Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.'
-  pagrindžia:
-    - c-086
-
-<a id="claim-t-180136"></a>
-- t-067
-  global_id: t-180136
-  teiginys: 'Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.'
-  pagrindžia:
-    - c-052
-
-<a id="claim-t-180137"></a>
-- t-068
-  global_id: t-180137
-  teiginys: 'Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.'
-  pagrindžia:
-    - c-102
-
-<a id="claim-t-180138"></a>
-- t-069
-  global_id: t-180138
-  teiginys: 'Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.'
-  pagrindžia:
-    - c-048
-
-<a id="claim-t-180139"></a>
-- t-070
-  global_id: t-180139
-  teiginys: 'Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.'
-  pagrindžia:
-    - c-009
-
-<a id="claim-t-180140"></a>
-- t-071
-  global_id: t-180140
-  teiginys: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
-  pagrindžia:
-    - c-054
-
-<a id="claim-t-180141"></a>
-- t-072
-  global_id: t-180141
-  teiginys: 'Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.'
-  pagrindžia:
-    - c-084
-
-<a id="claim-t-180142"></a>
-- t-073
-  global_id: t-180142
-  teiginys: 'Lietuvos nepriklausomybės atkūrimo tikslas skatino vienytis lietuvių diplomatus ir išeiviją.'
-  pagrindžia:
-    - c-064
-
-<a id="claim-t-180143"></a>
-- t-074
-  global_id: t-180143
-  teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
-  pagrindžia:
-    - c-105
-
-<a id="claim-t-180144"></a>
-- t-075
-  global_id: t-180144
-  teiginys: 'Lietuvos vardas įgijo naujų prasmių.'
-  pagrindžia:
-    - c-028
-
-<a id="claim-t-180145"></a>
-- t-076
-  global_id: t-180145
-  teiginys: 'Tačiau Vytautas puikiai žinojo ko siekia – jis kovojo ne su Vakarais, o dėl vietos Vakaruose, ir taip padėjo pagrindus Lietuvos tapsmui Europos dalimi.'
-  pagrindžia:
-    - c-104
-
-<a id="claim-t-180146"></a>
-- t-077
-  global_id: t-180146
-  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras skatino lietuvių pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės.'
-  pagrindžia:
-    - c-021
-
-<a id="claim-t-180148"></a>
-- t-078
-  global_id: t-180148
-  teiginys: 'Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje.'
-  pagrindžia:
-    - c-066
-
-<a id="claim-t-180149"></a>
-- t-079
-  global_id: t-180149
-  teiginys: 'Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.'
-  pagrindžia:
-    - c-087
-
-<a id="claim-t-180150"></a>
-- t-080
-  global_id: t-180150
-  teiginys: 'Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių.'
-  pagrindžia:
-    - c-073
-
-<a id="claim-t-180151"></a>
-- t-081
-  global_id: t-180151
-  teiginys: 'Kryžiuočiai svetimtaučius įtikino, kad visa Lietuva tebėra pagonių šalis.'
-  pagrindžia:
-    - c-039
-
-<a id="claim-t-180152"></a>
-- t-082
-  global_id: t-180152
-  teiginys: 'Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.'
-  pagrindžia:
-    - c-099
-
-<a id="claim-t-180153"></a>
-- t-083
-  global_id: t-180153
-  teiginys: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo.'
-  pagrindžia:
-    - c-038
-
-<a id="claim-t-180154"></a>
-- t-084
-  global_id: t-180154
-  teiginys: '1838 m. Mykolas Balinskis aiškino rusų valdžiai, kad jo Vilniaus istorijos veikalo tikslas buvo Lietuva ir jos senoji sostinė.'
-  pagrindžia:
-    - c-053
-
-<a id="claim-t-180155"></a>
-- t-085
-  global_id: t-180155
-  teiginys: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
-  pagrindžia:
-    - c-109
-
-<a id="claim-t-180156"></a>
-- t-086
-  global_id: t-180156
-  teiginys: 'Masinis nedarbas paskatino masinę Lietuvos gyventojų emigraciją.'
-  pagrindžia:
-    - c-030
-
-<a id="claim-t-180157"></a>
-- t-087
-  global_id: t-180157
-  teiginys: '1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.'
-  pagrindžia:
-    - c-098
-
-<a id="claim-t-180158"></a>
-- t-088
-  global_id: t-180158
-  teiginys: 'Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais.'
-  pagrindžia:
-    - c-027
-
-<a id="claim-t-180159"></a>
-- t-089
-  global_id: t-180159
-  teiginys: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
-  pagrindžia:
-    - c-081
-
-<a id="claim-t-180160"></a>
-- t-090
-  global_id: t-180160
-  teiginys: '1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos.'
-  pagrindžia:
-    - c-124
-
-<a id="claim-t-180162"></a>
-- t-091
-  global_id: t-180162
-  teiginys: 'Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.'
-  pagrindžia:
-    - c-074
-
-<a id="claim-t-180163"></a>
-- t-092
-  global_id: t-180163
-  teiginys: '1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS.'
-  pagrindžia:
-    - c-097
-
-<a id="claim-t-180164"></a>
-- t-093
-  global_id: t-180164
-  teiginys: 'Lietuvos delegacija tarptautiniame forume memorandumais, straipsniais ir pasisakymais kėlė Lietuvos valstybės pripažinimo klausimą.'
-  pagrindžia:
-    - c-018
-
-<a id="claim-t-180165"></a>
-- t-094
-  global_id: t-180165
-  teiginys: 'Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.'
-  pagrindžia:
-    - c-096
-
-<a id="claim-t-180166"></a>
-- t-095
-  global_id: t-180166
-  teiginys: 'Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko Lenkija ir Lietuva.'
-  pagrindžia:
-    - c-022
-
-<a id="claim-t-180169"></a>
-- t-096
-  global_id: t-180169
-  teiginys: 'Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
-  pagrindžia:
-    - c-079
-
-<a id="claim-t-180170"></a>
-- t-097
-  global_id: t-180170
-  teiginys: 'Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti.'
-  pagrindžia:
-    - c-092
-
-<a id="claim-t-180171"></a>
-- t-098
-  global_id: t-180171
-  teiginys: 'Tad išbraukta iš pasaulio politinio žemėlapio Lietuva diplomatų dėka nebuvo išbraukta iš politinės sąmonės.'
+<a id="claim-t-180069"></a>
+- t-005
+  global_id: t-180069
+  teiginys: '1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.'
   pagrindžia:
     - c-060
 
-<a id="claim-t-180172"></a>
-- t-099
-  global_id: t-180172
-  teiginys: 'Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba.'
+<a id="claim-t-180070"></a>
+- t-006
+  global_id: t-180070
+  teiginys: 'Kalbos apie partizanų operacijos kautynes greitai pasklido po Lietuvą ir stiprino gyventojų patriotines nuotaikas.'
   pagrindžia:
-    - c-083
+    - c-020
 
-<a id="claim-t-180173"></a>
-- t-100
-  global_id: t-180173
-  teiginys: '1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.'
+<a id="claim-t-180071"></a>
+- t-007
+  global_id: t-180071
+  teiginys: '1440 m. Kazimiero IV privilegija leido Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje.'
   pagrindžia:
-    - c-112
+    - c-081
 
-<a id="claim-t-180175"></a>
-- t-101
-  global_id: t-180175
-  teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+<a id="claim-t-180072"></a>
+- t-008
+  global_id: t-180072
+  teiginys: 'XIII a. viduryje Lietuva savo žemėje jau turėjo keletą miestų, nors ilgai buvo atsiribojusi nuo krikščionybės.'
   pagrindžia:
-    - c-063
+    - c-027
 
-<a id="claim-t-180176"></a>
-- t-102
-  global_id: t-180176
-  teiginys: 'Vytautas įvairiais būdais stiprino savo aukščiausią valdžią Lietuvoje ir atkakliai šalino kliūtis.'
+<a id="claim-t-180073"></a>
+- t-009
+  global_id: t-180073
+  teiginys: 'Lietuvių tautinio judėjimo iškilimą dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą laikys tik Vokietijos intriga.'
   pagrindžia:
     - c-007
 
-<a id="claim-t-180177"></a>
-- t-103
-  global_id: t-180177
-  teiginys: 'Iki 1569 m. Lietuva faktiškai ir juridiškai buvo visiškai nepriklausoma valstybė.'
+<a id="claim-t-180074"></a>
+- t-010
+  global_id: t-180074
+  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
   pagrindžia:
-    - c-001
+    - c-106
 
-<a id="claim-t-180178"></a>
-- t-104
-  global_id: t-180178
-  teiginys: 'Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.'
-  pagrindžia:
-    - c-050
-
-<a id="claim-t-180179"></a>
-- t-105
-  global_id: t-180179
-  teiginys: 'Daug lietuvių įžygiuojantį vermachtą sutiko palankiai, kai kurie net su gėlėmis rankose.'
+<a id="claim-t-180075"></a>
+- t-011
+  global_id: t-180075
+  teiginys: 'LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.'
   pagrindžia:
     - c-037
 
-<a id="claim-t-180180"></a>
-- t-106
-  global_id: t-180180
-  teiginys: 'Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu.'
+<a id="claim-t-180076"></a>
+- t-012
+  global_id: t-180076
+  teiginys: '1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi.'
   pagrindžia:
-    - c-078
+    - c-048
 
-<a id="claim-t-180181"></a>
-- t-107
-  global_id: t-180181
-  teiginys: 'Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietuvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos valstybingumą.'
+<a id="claim-t-180078"></a>
+- t-013
+  global_id: t-180078
+  teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
   pagrindžia:
-    - c-075
+    - c-097
 
-<a id="claim-t-180182"></a>
-- t-108
-  global_id: t-180182
-  teiginys: '1673 m. nustatyta, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Lietuvoje, Gardine.'
+<a id="claim-t-180079"></a>
+- t-014
+  global_id: t-180079
+  teiginys: 'Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.'
   pagrindžia:
-    - c-066
+    - c-051
 
-<a id="claim-t-180183"></a>
-- t-109
-  global_id: t-180183
-  teiginys: '1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.'
+<a id="claim-t-180080"></a>
+- t-015
+  global_id: t-180080
+  teiginys: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
   pagrindžia:
-    - c-085
+    - c-040
 
-<a id="claim-t-180184"></a>
-- t-110
-  global_id: t-180184
-  teiginys: 'Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.'
+<a id="claim-t-180081"></a>
+- t-016
+  global_id: t-180081
+  teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
   pagrindžia:
-    - c-101
+    - c-016
 
-<a id="claim-t-180185"></a>
-- t-111
-  global_id: t-180185
-  teiginys: 'Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
+<a id="claim-t-180082"></a>
+- t-017
+  global_id: t-180082
+  teiginys: 'Sovietmečiu lietuviai gerai išmoko rusų kalbą ir galėjo tiesiogiai naudotis rusų kultūros pasiekimais.'
   pagrindžia:
-    - c-024
+    - c-090
 
-<a id="claim-t-180186"></a>
-- t-112
-  global_id: t-180186
-  teiginys: 'Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo.'
+<a id="claim-t-180083"></a>
+- t-018
+  global_id: t-180083
+  teiginys: 'Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   pagrindžia:
-    - c-122
+    - c-083
 
-<a id="claim-t-180187"></a>
-- t-113
-  global_id: t-180187
-  teiginys: 'Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė 1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir nacionaliniais pagrindais – Lietuvos Respubliką.'
+<a id="claim-t-180084"></a>
+- t-019
+  global_id: t-180084
+  teiginys: 'Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.'
   pagrindžia:
-    - c-110
+    - c-096
 
-<a id="claim-t-180188"></a>
-- t-114
-  global_id: t-180188
-  teiginys: 'Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.'
+<a id="claim-t-180085"></a>
+- t-020
+  global_id: t-180085
+  teiginys: '1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę.'
   pagrindžia:
-    - c-003
+    - c-044
 
-<a id="claim-t-180189"></a>
-- t-115
-  global_id: t-180189
-  teiginys: 'Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.'
-  pagrindžia:
-    - c-088
-
-<a id="claim-t-180190"></a>
-- t-116
-  global_id: t-180190
-  teiginys: 'Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis.'
-  pagrindžia:
-    - c-012
-
-<a id="claim-t-180191"></a>
-- t-117
-  global_id: t-180191
-  teiginys: 'Steponas Batoras dažnai šaukdavo atskirus Lietuvos seimus ir laikėsi Lietuvos kaip atskiros valstybės sampratos.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-180192"></a>
-- t-118
-  global_id: t-180192
-  teiginys: '1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
-  pagrindžia:
-    - c-113
-
-<a id="claim-t-180193"></a>
-- t-119
-  global_id: t-180193
-  teiginys: 'Nors maksimalus planas nebuvo įgyvendintas, svarbiausią tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą, pritapo prie jos ir joje išsilaikė.'
+<a id="claim-t-180086"></a>
+- t-021
+  global_id: t-180086
+  teiginys: 'Michałas Balińskis suprato Lietuvos miestų ir miestiečių luomo vėlyvos raidos priežastis.'
   pagrindžia:
     - c-029
 
-<a id="claim-t-180194"></a>
-- t-120
-  global_id: t-180194
-  teiginys: 'Jogaila, pavertęs Lietuvą krikščioniška šalimi, panaikino pagrindinę politinės izoliacijos priežastį.'
+<a id="claim-t-180088"></a>
+- t-022
+  global_id: t-180088
+  teiginys: 'Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.'
   pagrindžia:
-    - c-005
+    - c-102
 
-<a id="claim-t-180195"></a>
-- t-121
-  global_id: t-180195
-  teiginys: 'Aprašant XIV a. pradžios įvykius, kronikoje plačiau minimi karo žygių į Lietuvą sunkumai ir atsakomieji lietuvių smūgiai.'
+<a id="claim-t-180090"></a>
+- t-023
+  global_id: t-180090
+  teiginys: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva galutinai tapo lietuviška ir jos nebebuvo galima supainioti nei su Lenkija, nei su Rusija.'
   pagrindžia:
-    - c-117
+    - c-070
 
-<a id="claim-t-180196"></a>
-- t-122
-  global_id: t-180196
-  teiginys: 'Prieš kiekvieną bendrąjį seimą Lietuvoje buvo rengiami atskiri atstovų ir senatorių suvažiavimai.'
+<a id="claim-t-180091"></a>
+- t-024
+  global_id: t-180091
+  teiginys: '1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.'
   pagrindžia:
-    - c-002
+    - c-054
 
-<a id="claim-t-180197"></a>
-- t-123
-  global_id: t-180197
-  teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
+<a id="claim-t-180092"></a>
+- t-025
+  global_id: t-180092
+  teiginys: 'XX a. Lietuva apsisprendė atkurti valstybę etnografiniu principu kaip lietuviškai kalbančią Lietuvą.'
   pagrindžia:
-    - c-118
+    - c-079
 
-<a id="claim-t-180198"></a>
-- t-124
-  global_id: t-180198
-  teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
+<a id="claim-t-180093"></a>
+- t-026
+  global_id: t-180093
+  teiginys: 'Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo.'
   pagrindžia:
-    - c-082
+    - c-019
 
-<a id="claim-t-180199"></a>
-- t-125
-  global_id: t-180199
-  teiginys: '1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
+<a id="claim-t-180094"></a>
+- t-027
+  global_id: t-180094
+  teiginys: 'XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.'
+  pagrindžia:
+    - c-013
+
+<a id="claim-t-180095"></a>
+- t-028
+  global_id: t-180095
+  teiginys: '1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-180096"></a>
+- t-029
+  global_id: t-180096
+  teiginys: 'XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.'
   pagrindžia:
     - c-061
 
-<a id="claim-t-180200"></a>
-- t-126
-  global_id: t-180200
-  teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+<a id="claim-t-180097"></a>
+- t-030
+  global_id: t-180097
+  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   pagrindžia:
-    - c-056
+    - c-103
 
-<a id="claim-t-180201"></a>
-- t-127
-  global_id: t-180201
-  teiginys: 'Lenkijai prijungus sritis, neprisiekusių bajorų žemės buvo atimtos, todėl Lietuvai grėsė suvereniteto praradimas.'
+<a id="claim-t-180098"></a>
+- t-031
+  global_id: t-180098
+  teiginys: '1949 m. vasario 16 d. LLKS tarybos deklaracija numatė atkurti nepriklausomą demokratinę Lietuvos Respubliką.'
+  pagrindžia:
+    - c-038
+
+<a id="claim-t-180099"></a>
+- t-032
+  global_id: t-180099
+  teiginys: 'Nutrūkusi prekyba su Rusia ir Prūsija bei nuolatinis priešo pavojus Lietuvos sostinę vertė karine stovykla arba mūšio lauku.'
+  pagrindžia:
+    - c-093
+
+<a id="claim-t-180100"></a>
+- t-033
+  global_id: t-180100
+  teiginys: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
+  pagrindžia:
+    - c-066
+
+<a id="claim-t-180101"></a>
+- t-034
+  global_id: t-180101
+  teiginys: '1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę.'
+  pagrindžia:
+    - c-080
+
+<a id="claim-t-180103"></a>
+- t-035
+  global_id: t-180103
+  teiginys: 'Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos).'
+  pagrindžia:
+    - c-099
+
+<a id="claim-t-180104"></a>
+- t-036
+  global_id: t-180104
+  teiginys: 'Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.'
+  pagrindžia:
+    - c-015
+
+<a id="claim-t-180105"></a>
+- t-037
+  global_id: t-180105
+  teiginys: '1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.'
+  pagrindžia:
+    - c-107
+
+<a id="claim-t-180107"></a>
+- t-038
+  global_id: t-180107
+  teiginys: 'Naujieji 160 000 ūkininkų padidino Lietuvos pasėlių plotus trečdaliu, o 1938 m. Lietuva eksportavo 132 000 tonų grūdų pertekliaus.'
+  pagrindžia:
+    - c-028
+
+<a id="claim-t-180108"></a>
+- t-039
+  global_id: t-180108
+  teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
+  pagrindžia:
+    - c-026
+
+<a id="claim-t-180109"></a>
+- t-040
+  global_id: t-180109
+  teiginys: 'Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.'
+  pagrindžia:
+    - c-062
+
+<a id="claim-t-180110"></a>
+- t-041
+  global_id: t-180110
+  teiginys: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
+  pagrindžia:
+    - c-085
+
+<a id="claim-t-180115"></a>
+- t-042
+  global_id: t-180115
+  teiginys: 'Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai.'
+  pagrindžia:
+    - c-039
+
+<a id="claim-t-180116"></a>
+- t-043
+  global_id: t-180116
+  teiginys: 'Vakarams skirtoje korespondencijoje Lietuva buvo vadinama karalyste.'
+  pagrindžia:
+    - c-105
+
+<a id="claim-t-180117"></a>
+- t-044
+  global_id: t-180117
+  teiginys: 'Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.'
+  pagrindžia:
+    - c-012
+
+<a id="claim-t-180118"></a>
+- t-045
+  global_id: t-180118
+  teiginys: 'Vytauto karūnacija galėjo visiškai išvaduoti Lietuvą iš Lenkijos ir sumažinti Lenkijos galią Europoje.'
+  pagrindžia:
+    - c-084
+
+<a id="claim-t-180119"></a>
+- t-046
+  global_id: t-180119
+  teiginys: 'Taigi Gedimino valdoma Lietuvos valstybė XIV a.'
+  pagrindžia:
+    - c-050
+
+<a id="claim-t-180120"></a>
+- t-047
+  global_id: t-180120
+  teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.'
+  pagrindžia:
+    - c-002
+
+<a id="claim-t-180121"></a>
+- t-048
+  global_id: t-180121
+  teiginys: 'Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.'
+  pagrindžia:
+    - c-111
+
+<a id="claim-t-180123"></a>
+- t-049
+  global_id: t-180123
+  teiginys: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą.'
+  pagrindžia:
+    - c-030
+
+<a id="claim-t-180124"></a>
+- t-050
+  global_id: t-180124
+  teiginys: 'Gediminas savo valstybėje turėjo dvi skirtingų kalbų ir religijų tautas: lietuvius ir rusus.'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-180125"></a>
+- t-051
+  global_id: t-180125
+  teiginys: 'Ūkiai Lietuvoje buvo netvarkyti nuo senų senovės.'
+  pagrindžia:
+    - c-109
+
+<a id="claim-t-180126"></a>
+- t-052
+  global_id: t-180126
+  teiginys: '1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
+  pagrindžia:
+    - c-036
+
+<a id="claim-t-180128"></a>
+- t-053
+  global_id: t-180128
+  teiginys: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nebuvo, bet 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi.'
+  pagrindžia:
+    - c-058
+
+<a id="claim-t-180129"></a>
+- t-054
+  global_id: t-180129
+  teiginys: 'Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.'
+  pagrindžia:
+    - c-042
+
+<a id="claim-t-180130"></a>
+- t-055
+  global_id: t-180130
+  teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
+  pagrindžia:
+    - c-025
+
+<a id="claim-t-180131"></a>
+- t-056
+  global_id: t-180131
+  teiginys: 'Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.'
+  pagrindžia:
+    - c-006
+
+<a id="claim-t-180132"></a>
+- t-057
+  global_id: t-180132
+  teiginys: 'Iki Jogailos tapimo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama savotiška arba nesistemine karalyste.'
+  pagrindžia:
+    - c-067
+
+<a id="claim-t-180135"></a>
+- t-058
+  global_id: t-180135
+  teiginys: 'Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.'
+  pagrindžia:
+    - c-076
+
+<a id="claim-t-180136"></a>
+- t-059
+  global_id: t-180136
+  teiginys: 'Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.'
+  pagrindžia:
+    - c-045
+
+<a id="claim-t-180137"></a>
+- t-060
+  global_id: t-180137
+  teiginys: 'Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.'
+  pagrindžia:
+    - c-092
+
+<a id="claim-t-180138"></a>
+- t-061
+  global_id: t-180138
+  teiginys: 'Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.'
   pagrindžia:
     - c-041
 
+<a id="claim-t-180139"></a>
+- t-062
+  global_id: t-180139
+  teiginys: 'Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-180140"></a>
+- t-063
+  global_id: t-180140
+  teiginys: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
+  pagrindžia:
+    - c-047
+
+<a id="claim-t-180141"></a>
+- t-064
+  global_id: t-180141
+  teiginys: 'Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.'
+  pagrindžia:
+    - c-074
+
+<a id="claim-t-180142"></a>
+- t-065
+  global_id: t-180142
+  teiginys: 'Lietuvos nepriklausomybės atkūrimo tikslas skatino vienytis lietuvių diplomatus ir išeiviją.'
+  pagrindžia:
+    - c-056
+
+<a id="claim-t-180143"></a>
+- t-066
+  global_id: t-180143
+  teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  pagrindžia:
+    - c-095
+
+<a id="claim-t-180144"></a>
+- t-067
+  global_id: t-180144
+  teiginys: 'Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu.'
+  pagrindžia:
+    - c-022
+
+<a id="claim-t-180145"></a>
+- t-068
+  global_id: t-180145
+  teiginys: 'Vytautas kovojo ne su Vakarais, o dėl Lietuvos vietos Vakaruose ir padėjo pagrindus Lietuvos tapsmui Europos dalimi.'
+  pagrindžia:
+    - c-094
+
+<a id="claim-t-180146"></a>
+- t-069
+  global_id: t-180146
+  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras skatino lietuvių pasipriešinimą, todėl kilo partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  pagrindžia:
+    - c-017
+
+<a id="claim-t-180148"></a>
+- t-070
+  global_id: t-180148
+  teiginys: 'Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje.'
+  pagrindžia:
+    - c-057
+
+<a id="claim-t-180149"></a>
+- t-071
+  global_id: t-180149
+  teiginys: 'Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.'
+  pagrindžia:
+    - c-077
+
+<a id="claim-t-180150"></a>
+- t-072
+  global_id: t-180150
+  teiginys: 'Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių.'
+  pagrindžia:
+    - c-063
+
+<a id="claim-t-180151"></a>
+- t-073
+  global_id: t-180151
+  teiginys: 'Kryžiuočiai svetimtaučius įtikino, kad visa Lietuva tebėra pagonių šalis.'
+  pagrindžia:
+    - c-033
+
+<a id="claim-t-180152"></a>
+- t-074
+  global_id: t-180152
+  teiginys: 'Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.'
+  pagrindžia:
+    - c-089
+
+<a id="claim-t-180153"></a>
+- t-075
+  global_id: t-180153
+  teiginys: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo.'
+  pagrindžia:
+    - c-032
+
+<a id="claim-t-180154"></a>
+- t-076
+  global_id: t-180154
+  teiginys: '1838 m. Mykolas Balinskis aiškino rusų valdžiai, kad jo Vilniaus istorijos veikalo tikslas buvo Lietuva ir jos senoji sostinė.'
+  pagrindžia:
+    - c-046
+
+<a id="claim-t-180155"></a>
+- t-077
+  global_id: t-180155
+  teiginys: 'Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
+  pagrindžia:
+    - c-098
+
+<a id="claim-t-180156"></a>
+- t-078
+  global_id: t-180156
+  teiginys: 'Masinis nedarbas paskatino masinę Lietuvos gyventojų emigraciją.'
+  pagrindžia:
+    - c-024
+
+<a id="claim-t-180157"></a>
+- t-079
+  global_id: t-180157
+  teiginys: '1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.'
+  pagrindžia:
+    - c-088
+
+<a id="claim-t-180158"></a>
+- t-080
+  global_id: t-180158
+  teiginys: 'Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais.'
+  pagrindžia:
+    - c-021
+
+<a id="claim-t-180159"></a>
+- t-081
+  global_id: t-180159
+  teiginys: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
+  pagrindžia:
+    - c-071
+
+<a id="claim-t-180160"></a>
+- t-082
+  global_id: t-180160
+  teiginys: '1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos.'
+  pagrindžia:
+    - c-110
+
+<a id="claim-t-180162"></a>
+- t-083
+  global_id: t-180162
+  teiginys: 'Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.'
+  pagrindžia:
+    - c-064
+
+<a id="claim-t-180163"></a>
+- t-084
+  global_id: t-180163
+  teiginys: '1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS.'
+  pagrindžia:
+    - c-087
+
+<a id="claim-t-180164"></a>
+- t-085
+  global_id: t-180164
+  teiginys: 'Lietuvos delegacija tarptautiniame forume memorandumais, straipsniais ir pasisakymais kėlė Lietuvos valstybės pripažinimo klausimą.'
+  pagrindžia:
+    - c-014
+
+<a id="claim-t-180165"></a>
+- t-086
+  global_id: t-180165
+  teiginys: 'XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių.'
+  pagrindžia:
+    - c-086
+
+<a id="claim-t-180166"></a>
+- t-087
+  global_id: t-180166
+  teiginys: 'Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko Lenkija ir Lietuva.'
+  pagrindžia:
+    - c-018
+
+<a id="claim-t-180169"></a>
+- t-088
+  global_id: t-180169
+  teiginys: 'Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
+  pagrindžia:
+    - c-069
+
+<a id="claim-t-180170"></a>
+- t-089
+  global_id: t-180170
+  teiginys: 'Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti.'
+  pagrindžia:
+    - c-082
+
+<a id="claim-t-180171"></a>
+- t-090
+  global_id: t-180171
+  teiginys: 'Lietuvos diplomatai padėjo išlaikyti okupuotos Lietuvos politinį atminimą tarptautinėje sąmonėje.'
+  pagrindžia:
+    - c-052
+
+<a id="claim-t-180172"></a>
+- t-091
+  global_id: t-180172
+  teiginys: 'Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba.'
+  pagrindžia:
+    - c-073
+
+<a id="claim-t-180173"></a>
+- t-092
+  global_id: t-180173
+  teiginys: '1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.'
+  pagrindžia:
+    - c-100
+
+<a id="claim-t-180175"></a>
+- t-093
+  global_id: t-180175
+  teiginys: '1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  pagrindžia:
+    - c-055
+
+<a id="claim-t-180176"></a>
+- t-094
+  global_id: t-180176
+  teiginys: 'Vytautas įvairiais būdais stiprino savo aukščiausią valdžią Lietuvoje ir atkakliai šalino kliūtis.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-180178"></a>
+- t-095
+  global_id: t-180178
+  teiginys: 'Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.'
+  pagrindžia:
+    - c-043
+
+<a id="claim-t-180179"></a>
+- t-096
+  global_id: t-180179
+  teiginys: 'Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.'
+  pagrindžia:
+    - c-031
+
+<a id="claim-t-180180"></a>
+- t-097
+  global_id: t-180180
+  teiginys: 'Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu.'
+  pagrindžia:
+    - c-068
+
+<a id="claim-t-180181"></a>
+- t-098
+  global_id: t-180181
+  teiginys: 'J. J. Chodkevičius apgynė LDK antspaudus ir paliko galimybę išsaugoti Lietuvos valstybingumą.'
+  pagrindžia:
+    - c-065
+
+<a id="claim-t-180183"></a>
+- t-099
+  global_id: t-180183
+  teiginys: '1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.'
+  pagrindžia:
+    - c-075
+
+<a id="claim-t-180184"></a>
+- t-100
+  global_id: t-180184
+  teiginys: 'Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.'
+  pagrindžia:
+    - c-091
+
+<a id="claim-t-180186"></a>
+- t-101
+  global_id: t-180186
+  teiginys: 'Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo.'
+  pagrindžia:
+    - c-108
+
+<a id="claim-t-180188"></a>
+- t-102
+  global_id: t-180188
+  teiginys: 'Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.'
+  pagrindžia:
+    - c-001
+
+<a id="claim-t-180189"></a>
+- t-103
+  global_id: t-180189
+  teiginys: 'Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.'
+  pagrindžia:
+    - c-078
+
+<a id="claim-t-180190"></a>
+- t-104
+  global_id: t-180190
+  teiginys: 'Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-180192"></a>
+- t-105
+  global_id: t-180192
+  teiginys: '1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
+  pagrindžia:
+    - c-101
+
+<a id="claim-t-180193"></a>
+- t-106
+  global_id: t-180193
+  teiginys: 'Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje.'
+  pagrindžia:
+    - c-023
+
+<a id="claim-t-180195"></a>
+- t-107
+  global_id: t-180195
+  teiginys: 'Aprašant XIV a. pradžios įvykius, kronikoje plačiau minimi karo žygių į Lietuvą sunkumai ir atsakomieji lietuvių smūgiai.'
+  pagrindžia:
+    - c-104
+
+<a id="claim-t-180198"></a>
+- t-108
+  global_id: t-180198
+  teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
+  pagrindžia:
+    - c-072
+
+<a id="claim-t-180199"></a>
+- t-109
+  global_id: t-180199
+  teiginys: '1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
+  pagrindžia:
+    - c-053
+
+<a id="claim-t-180200"></a>
+- t-110
+  global_id: t-180200
+  teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+  pagrindžia:
+    - c-049
+
+<a id="claim-t-180201"></a>
+- t-111
+  global_id: t-180201
+  teiginys: 'Lenkijai prijungus sritis, neprisiekusių bajorų žemės buvo atimtos, todėl Lietuvai grėsė suvereniteto praradimas.'
+  pagrindžia:
+    - c-035
+
 <a id="claim-t-185007"></a>
-- t-129
+- t-113
   global_id: t-185007
   teiginys: 'Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.'
   pagrindžia:
-    - c-126
+    - c-112
 
 <a id="claim-t-185008"></a>
-- t-130
+- t-114
   global_id: t-185008
-  teiginys: 'Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia užgriuvo Kauną.'
+  teiginys: 'Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną.'
   pagrindžia:
-    - c-127
+    - c-113
 
 <a id="claim-t-185009"></a>
-- t-131
+- t-115
   global_id: t-185009
   teiginys: 'Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.'
   pagrindžia:
-    - c-128
+    - c-114
 
 <a id="claim-t-185010"></a>
-- t-132
+- t-116
   global_id: t-185010
   teiginys: 'Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.'
   pagrindžia:
-    - c-129
+    - c-115
 
 <a id="claim-t-185011"></a>
-- t-133
+- t-117
   global_id: t-185011
   teiginys: 'Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje.'
   pagrindžia:
-    - c-130
+    - c-116
 
 <a id="claim-t-185012"></a>
-- t-134
+- t-118
   global_id: t-185012
   teiginys: 'Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.'
   pagrindžia:
-    - c-131
+    - c-117
 
 <a id="claim-t-185013"></a>
-- t-135
+- t-119
   global_id: t-185013
   teiginys: 'Kojelavičius aiškina, kad Jogaila dėjosi nežinąs Vytauto sumanymų, nes troško Vytauto ir Lietuvos vardo išgarsėjimo.'
   pagrindžia:
-    - c-132
+    - c-118
 
 <a id="claim-t-185014"></a>
-- t-136
+- t-120
   global_id: t-185014
   teiginys: 'Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą.'
   pagrindžia:
-    - c-133
+    - c-119
 
 <a id="claim-t-185015"></a>
-- t-137
+- t-121
   global_id: t-185015
   teiginys: 'Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.'
   pagrindžia:
-    - c-134
+    - c-120
 
 <a id="claim-t-185016"></a>
-- t-138
+- t-122
   global_id: t-185016
   teiginys: 'Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą.'
   pagrindžia:
-    - c-135
+    - c-121
 
 <a id="claim-t-185017"></a>
-- t-139
+- t-123
   global_id: t-185017
   teiginys: 'Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.'
   pagrindžia:
-    - c-136
+    - c-122
 
 <a id="claim-t-185018"></a>
-- t-140
+- t-124
   global_id: t-185018
   teiginys: 'Ivanas nesutiko sustabdyti karo veiksmų, kol bus gautas karaliaus atsakymas, o jo kariuomenė telkėsi netoli Lietuvos sienų.'
   pagrindžia:
-    - c-137
+    - c-123
 
 <a id="claim-t-185019"></a>
-- t-141
+- t-125
   global_id: t-185019
   teiginys: 'Andrejus Kurbskis, nepakęsdamas Ivano žiaurumo, su visa šeimyna persikėlė į Lietuvą.'
   pagrindžia:
-    - c-138
+    - c-124
+
+<a id="claim-t-187594"></a>
+- t-126
+  global_id: t-187594
+  teiginys: 'Rygos vyskupas ir katedros klebonas manė, kad neišvarius Tautvilos iš Lietuvos lietuviai būtų priėmę krikštą.'
+  pagrindžia:
+    - c-125
+
+<a id="claim-t-187595"></a>
+- t-127
+  global_id: t-187595
+  teiginys: 'Ir par keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko, ir gyveno tenai.'
+  pagrindžia:
+    - c-126
+
+<a id="claim-t-187596"></a>
+- t-128
+  global_id: t-187596
+  teiginys: 'Lietuvos didysis kunigaikštis Aleksandras pasiuntė pasiuntinius į Maskvą parvežti didžiosios kunigaikštytės Elenos į Lietuvą.'
+  pagrindžia:
+    - c-127
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iki 1569 m. ir faktiškai ir juridiškai
-    Lietuva buvo visiškai nepriklausoma valstybė. Senieji aktai,
-    kuriais ji buvo surišta su Lenkija, jau nebegaliojo. Tiesą sakant,
-    jų niekad nebuvo laikytasi. Tik intereso verčiamos, abi vals-
-    tybės nenorėjo visiškai nutraukti ryšio ir rinkdavosi sau bendrus
-    valdovus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-103
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
-    davo Volkoviske, o vėliau Slanime. Čia būdavo apsvars-
-    tomi iš karaliaus gauti pasiūlymai, suderinamos instruk-
-    cijos ir nusistatoma, kaip turi laikytis seime visi Lietuvos
-    atstovai ir senatoriai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-122
-
-- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Konstitucijos Lietuvai ir Lenkijai būdavo rašomos atskirai. Jei
@@ -1073,45 +952,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-114
+    - t-102
 
-- c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Steponas Batoras buvo paskutinysis garbingas Lietuvos
-    valdovas. Jis buvo svetimšalis, — lietuviai iš pradžių jo neno-
-    rėjo net pripažinti, bet vėliau jis labai susiartino su Lietuva.
-    Jo nuopelnai dideli. Visų pirma jo karo žygių dėka buvo gar-
-    bingai pašalintas beveik šimtą metų Lietuvą varginęs Maskvos
-    pavojus. Jo nuopelnas buvo ir akademijos įkūrimas. Be to, jis
-    rūpinosi ir ekonominiais krašto reikalais; jo laikais net buvo
-    kilęs sumanymas įkurti Vilniuje valstybės banką. Jis niekad
-    nespaudė lietuvių lenkų naudai. Nepaisydamas Liublino unijos
-    nuostatų, jis dažnai šaukdavo atskirus Lietuvos seimus ir visada
-    skaitėsi su Lietuva, kaip su atskira valstybe.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-117
-    - t-065
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vasario 22-ąją Jogai-
-    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
-    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
-    šalimi, panaikino pagrindinę politinės izoliacijos priežastį. Politinė nau-
-    da atėjo netrukus: 1403 m. popiežius uždraudė Vokiečių ordinui kariauti
-    su Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-120
-
-- c-006
+- c-002
+  santrauka: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Susiformavo barokinis kraštovaizdis, kuriam bū-
@@ -1125,9 +969,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-047
 
-- c-007
+- c-003
   santrauka: 'Vytautas įvairiais būdais stiprino savo aukščiausią valdžią Lietuvoje ir atkakliai šalino kliūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1150,9 +994,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-102
+    - t-094
 
-- c-008
+- c-004
   santrauka: 'Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1178,9 +1022,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-009
+- c-005
   santrauka: 'Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1195,9 +1039,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-070
+    - t-062
 
-- c-010
+- c-006
   santrauka: 'Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1221,9 +1065,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-062
+    - t-056
 
-- c-011
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių tautinio judėjimo iškilimą
@@ -1241,9 +1085,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-012
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie intelektualai pro-
@@ -1259,9 +1103,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-116
+    - t-104
 
-- c-013
+- c-009
   santrauka: 'Gediminas savo valstybėje turėjo dvi skirtingų kalbų ir religijų tautas: lietuvius ir rusus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1282,9 +1126,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-050
 
-- c-014
+- c-010
   santrauka: '1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1300,9 +1144,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-028
 
-- c-015
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinė kliūtis –
@@ -1318,9 +1162,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-016
+- c-012
   santrauka: 'Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1340,9 +1184,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
+    - t-044
 
-- c-017
+- c-013
   santrauka: 'XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1357,9 +1201,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-027
 
-- c-018
+- c-014
   santrauka: 'Lietuvos delegacija tarptautiniame forume memorandumais, straipsniais ir pasisakymais kėlė Lietuvos valstybės pripažinimo klausimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1380,9 +1224,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-093
+    - t-085
 
-- c-019
+- c-015
   santrauka: 'Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1403,9 +1247,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-036
 
-- c-020
+- c-016
   santrauka: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1418,10 +1262,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-016
 
-- c-021
-  santrauka: 'Nuo 1944 m. vasaros sovietų represijos ir teroras skatino lietuvių pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės.'
+- c-017
+  santrauka: 'Nuo 1944 m. vasaros sovietų represijos ir teroras skatino lietuvių pasipriešinimą, todėl kilo partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
@@ -1434,9 +1278,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-077
+    - t-069
 
-- c-022
+- c-018
   santrauka: 'Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko Lenkija ir Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1449,43 +1293,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-095
+    - t-087
 
-- c-023
-  santrauka: 'Šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst. tremtinių ir apie 20 tūkst. politinių kalinių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
-    kitai Chruščiovui pasmerkus J. Stalino kultą – susilpnėjo rusinimas, val-
-    džia pradėjo labiau pasitikėti vietiniais lietuviais. Visoje SSRS kalinius ir
-    tremtinius pradėta leisti į laisvę. Nors Lietuvos komunistų administracija
-    nenorėjo, kad ištremtieji grįžtų į tėvynę, nes esą jie stiprina Lietuvos gy-
-    ventojų nacionalistines nuotaikas ir apsunkina jų auklėjimą „tautų drau-
-    gystės“ dvasia, šeštąjį–septintąjį dešimtmetį į Lietuvą grįžo apie 60 tūkst.
-    tremtinių ir apie 20 tūkst. politinių kalinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-037
-
-- c-024
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Prie jau anksčiau lietuvių užvaldytų
-    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
-    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
-    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
-    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
-    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
-    žmonės - kariai, galintys bet kada stoti į tarnybą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-111
-
-- c-025
+- c-019
+  santrauka: 'Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iki šiol labiausiai paplitusi versija buvo
@@ -1498,9 +1309,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-026
 
-- c-026
+- c-020
+  santrauka: 'Kalbos apie partizanų operacijos kautynes greitai pasklido po Lietuvą ir stiprino gyventojų patriotines nuotaikas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Partizanai neturėjo efekty-
@@ -1533,9 +1345,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-027
+- c-021
   santrauka: 'Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1567,9 +1379,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-088
+    - t-080
 
-- c-028
+- c-022
+  santrauka: 'Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -1582,9 +1395,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-075
+    - t-067
 
-- c-029
+- c-023
+  santrauka: 'Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors maksimalus planas nebuvo įgyvendintas, svarbiausią
@@ -1599,9 +1413,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-119
+    - t-106
 
-- c-030
+- c-024
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Padėtis žemės ūkyje taisėsi lėtai.
@@ -1612,9 +1426,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-086
+    - t-078
 
-- c-031
+- c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Manoma, kad jei
@@ -1630,9 +1444,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-061
+    - t-055
 
-- c-032
+- c-026
   santrauka: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1648,9 +1462,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-039
 
-- c-033
+- c-027
   santrauka: 'XIII a. viduryje Lietuva savo žemėje jau turėjo keletą miestų, nors ilgai buvo atsiribojusi nuo krikščionybės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1668,9 +1482,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-034
+- c-028
+  santrauka: 'Naujieji 160 000 ūkininkų padidino Lietuvos pasėlių plotus trečdaliu, o 1938 m. Lietuva eksportavo 132 000 tonų grūdų pertekliaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesiskolino už-
@@ -1684,9 +1499,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-038
 
-- c-035
+- c-029
   santrauka: 'Michałas Balińskis suprato Lietuvos miestų ir miestiečių luomo vėlyvos raidos priežastis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1701,9 +1516,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-021
 
-- c-036
+- c-030
   santrauka: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1721,10 +1536,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-054
+    - t-049
 
-- c-037
-  santrauka: 'Daug lietuvių įžygiuojantį vermachtą sutiko palankiai, kai kurie net su gėlėmis rankose.'
+- c-031
+  santrauka: 'Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to įžygiuojantį vermachtą daug lietu-
@@ -1743,9 +1558,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-105
+    - t-096
 
-- c-038
+- c-032
   santrauka: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1764,9 +1579,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-083
+    - t-075
 
-- c-039
+- c-033
   santrauka: 'Kryžiuočiai svetimtaučius įtikino, kad visa Lietuva tebėra pagonių šalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1784,9 +1599,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-081
+    - t-073
 
-- c-040
+- c-034
   santrauka: 'Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1804,9 +1619,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-041
+- c-035
   santrauka: 'Lenkijai prijungus sritis, neprisiekusių bajorų žemės buvo atimtos, todėl Lietuvai grėsė suvereniteto praradimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1819,9 +1634,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-127
+    - t-111
 
-- c-042
+- c-036
+  santrauka: '1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
@@ -1835,9 +1651,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-057
+    - t-052
 
-- c-043
+- c-037
   santrauka: 'LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1851,24 +1667,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
-- c-044
-  santrauka: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    PREILIAI A
-
-    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
-    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
-    Buvo nustatyta Lietuvos siena.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-058
-
-- c-045
+- c-038
   santrauka: '1949 m. vasario 16 d. LLKS tarybos deklaracija numatė atkurti nepriklausomą demokratinę Lietuvos Respubliką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1885,9 +1686,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-031
 
-- c-046
+- c-039
   santrauka: 'Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1919,9 +1720,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-047
+    - t-042
 
-- c-047
+- c-040
   santrauka: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1947,9 +1748,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-048
+- c-041
   santrauka: 'Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1973,9 +1774,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-069
+    - t-061
 
-- c-049
+- c-042
   santrauka: 'Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2001,9 +1802,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-060
+    - t-054
 
-- c-050
+- c-043
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
@@ -2016,9 +1817,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-104
+    - t-095
 
-- c-051
+- c-044
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Už Lietuvos ribų Lietuvos bajorai
@@ -2030,9 +1831,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-020
 
-- c-052
+- c-045
   santrauka: 'Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2063,9 +1864,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-067
+    - t-059
 
-- c-053
+- c-046
   santrauka: '1838 m. Mykolas Balinskis aiškino rusų valdžiai, kad jo Vilniaus istorijos veikalo tikslas buvo Lietuva ir jos senoji sostinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2083,9 +1884,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-084
+    - t-076
 
-- c-054
+- c-047
   santrauka: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2096,9 +1897,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-071
+    - t-063
 
-- c-055
+- c-048
   santrauka: '1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2118,9 +1919,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
-- c-056
+- c-049
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -2134,9 +1935,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-126
+    - t-110
 
-- c-057
+- c-050
+  santrauka: 'Taigi Gedimino valdoma Lietuvos valstybė XIV a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama
@@ -2151,26 +1953,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-046
 
-- c-058
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Pastangos sutvarkyti ūkį.** XVI amžiuje vakaruose Lietuva
-    karų jau nebeturėjo. Pasibaigus karams su vokiečių ordinu, atsi-
-    darė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba.
-    Rytuose ėję karai su Maskva reikalavo daug pinigų, todėl rei-
-    kėjo rūpintis, kad būtų daugiau ką parduoti. Didžiausi žemės
-    plotai priklausė didžiajam kunigaikščiui, todėl jam pirmiausia
-    teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų
-    daugiau pajamų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-023
-
-- c-059
+- c-051
   santrauka: 'Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2187,9 +1972,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-014
 
-- c-060
+- c-052
+  santrauka: 'Lietuvos diplomatai padėjo išlaikyti okupuotos Lietuvos politinį atminimą tarptautinėje sąmonėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     S. Lozoraitis
@@ -2206,9 +1992,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-098
+    - t-090
 
-- c-061
+- c-053
   santrauka: '1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2227,9 +2013,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-125
+    - t-109
 
-- c-062
+- c-054
   santrauka: '1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2257,9 +2043,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-024
 
-- c-063
+- c-055
+  santrauka: '1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
@@ -2278,9 +2065,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-101
+    - t-093
 
-- c-064
+- c-056
   santrauka: 'Lietuvos nepriklausomybės atkūrimo tikslas skatino vienytis lietuvių diplomatus ir išeiviją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2301,37 +2088,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-073
+    - t-065
 
-- c-065
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kol karas vyko Saksonijoje,
-    Lietuvoje įsigalėjo Rusijos kariuomenė. Nugalėjęs
-    Augustą II, Karolis x11 1708 m. puolė Rusiją, tačiau
-    1709 m. buvo nugalėtas prie Poltavos ir karą pralai-
-    mėjo. Karas dar tęsėsi iki 1721 m., tačiau situacija
-    kardinaliai nebepasikeitė.
-
-    Lietuvos vytis ant Frydricho
-    Augusto I (Augusto II) rūmų
-    Drezdene. Valdant Augustui II
-    faktine Lietuvos sostine tapo
-    Saksonijos pagrindinis miestas
-    Drezdenas
-
-    Išorinės įtakos stiprėjimas
-    Švedų pralaimėjimas leido Augustui 11 sugrįžti į ATR sostą, tačiau
-    laimėtoju kare, kurį pats sukėlė, buvo ne jis, o Petras I, todėl nuo
-    šiol sąlygas diktuoti ėmė Rusija. Šiaurės karo nusiaubtoje Lietuvoje
-    kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-064
-
-- c-066
+- c-057
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
@@ -2346,10 +2105,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-108
-    - t-078
+    - t-070
 
-- c-067
+- c-058
   santrauka: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nebuvo, bet 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2366,9 +2124,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-059
+    - t-053
 
-- c-068
+- c-059
+  santrauka: 'Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf
@@ -2382,9 +2141,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-069
+- c-060
   santrauka: '1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2403,9 +2162,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-070
+- c-061
   santrauka: 'XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2431,9 +2190,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-029
 
-- c-071
+- c-062
   santrauka: 'Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2466,25 +2225,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-043
+    - t-040
 
-- c-072
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
-    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
-    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos. Vėliau tiek
-    Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
-    lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a. Vakarų
-    Europos situaciją XVI a. apibūdina Baltramiejaus naktis Paryžiuje (1572),
-    tapusi religinio nepakantumo simboliu Europos istorijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-046
-
-- c-073
+- c-063
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuva žiūrėjo į juos, kaip į savo seimus. Nors lenkai, žiūrė-
@@ -2498,9 +2241,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-080
+    - t-072
 
-- c-074
+- c-064
   santrauka: 'Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2526,9 +2269,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-091
+    - t-083
 
-- c-075
+- c-065
+  santrauka: 'J. J. Chodkevičius apgynė LDK antspaudus ir paliko galimybę išsaugoti Lietuvos valstybingumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lyg ir sutikdamas su lenkų nuomone,
@@ -2542,9 +2286,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-107
+    - t-098
 
-- c-076
+- c-066
   santrauka: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2566,9 +2310,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-033
 
-- c-077
+- c-067
   santrauka: 'Iki Jogailos tapimo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama savotiška arba nesistemine karalyste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2583,9 +2327,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-063
+    - t-057
 
-- c-078
+- c-068
   santrauka: 'Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2599,9 +2343,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-106
+    - t-097
 
-- c-079
+- c-069
   santrauka: 'Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2622,9 +2366,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-096
+    - t-088
 
-- c-080
+- c-070
   santrauka: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva galutinai tapo lietuviška ir jos nebebuvo galima supainioti nei su Lenkija, nei su Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2639,9 +2383,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-023
 
-- c-081
+- c-071
+  santrauka: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo I a. po
@@ -2660,9 +2405,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-089
+    - t-081
 
-- c-082
+- c-072
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors di-
@@ -2675,9 +2420,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-124
+    - t-108
 
-- c-083
+- c-073
   santrauka: 'Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2693,9 +2438,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-099
+    - t-091
 
-- c-084
+- c-074
   santrauka: 'Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2716,9 +2461,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-072
+    - t-064
 
-- c-085
+- c-075
   santrauka: '1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2735,9 +2480,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-109
+    - t-099
 
-- c-086
+- c-076
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kryžiaus karai prieš Lietuvą iš dalies paaiški-
@@ -2751,9 +2496,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-066
+    - t-058
 
-- c-087
+- c-077
   santrauka: 'Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2770,9 +2515,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-079
+    - t-071
 
-- c-088
+- c-078
   santrauka: 'Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2786,9 +2531,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-115
+    - t-103
 
-- c-089
+- c-079
+  santrauka: 'XX a. Lietuva apsisprendė atkurti valstybę etnografiniu principu kaip lietuviškai kalbančią Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XX a. Lietuva bandys keltis kaip naujai sukurta valstybė, turinti istori-
@@ -2805,9 +2551,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-025
 
-- c-090
+- c-080
   santrauka: '1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2826,9 +2572,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-034
 
-- c-091
+- c-081
   santrauka: '1440 m. Kazimiero IV privilegija leido Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2869,9 +2615,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-092
+- c-082
   santrauka: 'Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2889,9 +2635,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-097
+    - t-089
 
-- c-093
+- c-083
   santrauka: 'Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2924,9 +2670,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
-- c-094
+- c-084
   santrauka: 'Vytauto karūnacija galėjo visiškai išvaduoti Lietuvą iš Lenkijos ir sumažinti Lenkijos galią Europoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2941,9 +2687,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-050
+    - t-045
 
-- c-095
+- c-085
   santrauka: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2965,9 +2711,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-044
+    - t-041
 
-- c-096
+- c-086
+  santrauka: 'XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir
@@ -2985,9 +2732,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-094
+    - t-086
 
-- c-097
+- c-087
   santrauka: '1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3010,9 +2757,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-092
+    - t-084
 
-- c-098
+- c-088
   santrauka: '1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3034,9 +2781,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-087
+    - t-079
 
-- c-099
+- c-089
   santrauka: 'Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3066,9 +2813,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-082
+    - t-074
 
-- c-100
+- c-090
+  santrauka: 'Sovietmečiu lietuviai gerai išmoko rusų kalbą ir galėjo tiesiogiai naudotis rusų kultūros pasiekimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų
@@ -3082,9 +2830,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-101
+- c-091
   santrauka: 'Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3101,9 +2849,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-110
+    - t-100
 
-- c-102
+- c-092
   santrauka: 'Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3122,9 +2870,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-068
+    - t-060
 
-- c-103
+- c-093
   santrauka: 'Nutrūkusi prekyba su Rusia ir Prūsija bei nuolatinis priešo pavojus Lietuvos sostinę vertė karine stovykla arba mūšio lauku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3143,9 +2891,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-032
 
-- c-104
+- c-094
+  santrauka: 'Vytautas kovojo ne su Vakarais, o dėl Lietuvos vietos Vakaruose ir padėjo pagrindus Lietuvos tapsmui Europos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atlaikiusi 200 metų trukusią Vakarų agresiją LDK
@@ -3163,9 +2912,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-076
+    - t-068
 
-- c-105
+- c-095
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ginant Varšuvą žuvo Lietuvos suki-
@@ -3179,9 +2928,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-074
+    - t-066
 
-- c-106
+- c-096
   santrauka: 'Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3203,22 +2952,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-019
 
-- c-107
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    2003 m. kovą
-    pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
-    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
-    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-045
-
-- c-108
+- c-097
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dalis likusių gyven-
@@ -3231,9 +2967,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-109
+- c-098
+  santrauka: 'Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLV sąjungininkę Prūsiją išgąsdino gali-
@@ -3248,25 +2985,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-085
+    - t-077
 
-- c-110
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
-    niosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. O
-    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
-    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
-    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
-    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
-    nacionaliniais pagrindais – Lietuvos Respubliką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-113
-
-- c-111
+- c-099
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maža to,
@@ -3279,9 +3000,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-035
 
-- c-112
+- c-100
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
@@ -3294,9 +3015,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-100
+    - t-092
 
-- c-113
+- c-101
   santrauka: '1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3315,9 +3036,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-118
+    - t-105
 
-- c-114
+- c-102
   santrauka: 'Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3334,25 +3055,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-022
 
-- c-115
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK
-    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
-
-    L I E T U V O S  I S T O R I J A
-    44
-    imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
-    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-116
+- c-103
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
@@ -3366,9 +3071,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-030
 
-- c-117
+- c-104
   santrauka: 'Aprašant XIV a. pradžios įvykius, kronikoje plačiau minimi karo žygių į Lietuvą sunkumai ir atsakomieji lietuvių smūgiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3381,24 +3086,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-121
+    - t-107
 
-- c-118
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo oficialių diplomatinių
-    santykių su Lietuva užsimezgimo ES per PHARE programą pradėjo teikti
-    pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
-    (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
-    tapti ES narėmis. 2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę
-    kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-123
-
-- c-119
+- c-105
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos valdovai vokiečių metraščiuose buvo
@@ -3411,9 +3101,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-043
 
-- c-120
+- c-106
   santrauka: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3432,9 +3122,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
-- c-121
+- c-107
   santrauka: '1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3450,9 +3140,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-037
 
-- c-122
+- c-108
   santrauka: 'Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3466,9 +3156,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-112
+    - t-101
 
-- c-123
+- c-109
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Valakų sistema.** Ūkiai Lietuvoje buvo netvarkyti nuo senų
@@ -3479,9 +3169,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-056
+    - t-051
 
-- c-124
+- c-110
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis trėmimas nacių okupacijos
@@ -3498,9 +3188,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-090
+    - t-082
 
-- c-125
+- c-111
   santrauka: 'Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3541,10 +3231,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-128
-    - t-053
+    - t-112
+    - t-048
 
-- c-126
+- c-112
   santrauka: 'Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3563,10 +3253,10 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-129
+    - t-113
 
-- c-127
-  santrauka: 'Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia užgriuvo Kauną.'
+- c-113
+  santrauka: 'Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be
@@ -3588,9 +3278,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-130
+    - t-114
 
-- c-128
+- c-114
   santrauka: 'Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3613,9 +3303,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-131
+    - t-115
 
-- c-129
+- c-115
   santrauka: 'Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3636,9 +3326,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-132
+    - t-116
 
-- c-130
+- c-116
   santrauka: 'Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3659,9 +3349,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-133
+    - t-117
 
-- c-131
+- c-117
   santrauka: 'Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3686,9 +3376,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-134
+    - t-118
 
-- c-132
+- c-118
   santrauka: 'Kojelavičius aiškina, kad Jogaila dėjosi nežinąs Vytauto sumanymų, nes troško Vytauto ir Lietuvos vardo išgarsėjimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3722,9 +3412,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-135
+    - t-119
 
-- c-133
+- c-119
   santrauka: 'Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3748,9 +3438,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-136
+    - t-120
 
-- c-134
+- c-120
   santrauka: 'Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3771,9 +3461,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-137
+    - t-121
 
-- c-135
+- c-121
   santrauka: 'Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3788,9 +3478,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-138
+    - t-122
 
-- c-136
+- c-122
   santrauka: 'Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3818,9 +3508,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-139
+    - t-123
 
-- c-137
+- c-123
   santrauka: 'Ivanas nesutiko sustabdyti karo veiksmų, kol bus gautas karaliaus atsakymas, o jo kariuomenė telkėsi netoli Lietuvos sienų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3849,9 +3539,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-140
+    - t-124
 
-- c-138
+- c-124
   santrauka: 'Andrejus Kurbskis, nepakęsdamas Ivano žiaurumo, su visa šeimyna persikėlė į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3869,4 +3559,68 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-141
+    - t-125
+
+- c-125
+  santrauka: 'Rygos vyskupas ir katedros klebonas manė, kad neišvarius Tautvilos iš Lietuvos lietuviai būtų priėmę krikštą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir savo dievams tarnavo, ir degino
+    mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
+    Tautvilos išpažinties klausė Rygos vyskupas2 2  ir
+    [katedros] klebonas; gailėjosi jo, žinodami, kad jeigu
+    Tautvilą nebūtų išvarytas iš Lietuvos žemės, jis būtų
+    jų rankose, ir [lietuviai), nors ir nenorėdami, būtų
+    krikštą priėmę.
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-126
+
+- c-126
+  santrauka: 'Ir par keliavo jis atgal j Naugarduką, ir įkūrė6 <sau vienuo lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko, ir gyveno tenai.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O Grigorijus buvo šven­
+    tasis, kokio iki jo nėra buvę ir daugiau nebebus.
+    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
+    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6  <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-127
+
+- c-127
+  santrauka: 'Lietuvos didysis kunigaikštis Aleksandras pasiuntė pasiuntinius į Maskvą parvežti didžiosios kunigaikštytės Elenos į Lietuvą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Lietuvos didy­
+    sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas
+    didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9  par­
+    vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte­
+    lioną, Gardino vietininką kunigaikštį Aleksandrą Jur-
+    jevičių2 0 , Trakų kaštelioną, Polocko vietininką poną
+    Jurjevičių Zaberezinskį2 I, ir Breslaujos vietininką po­
+    no
+
+    ## Puslapis 145
+
+    ną Jurijų Zenovjevičių 2 2 , raštininką, Stakliškių laiky­
+    toją poną Fedkų Hrihorovičių.
+    Jie nuvažiavo ir paėmė didžiąją kunigaikštytę Ele­
+    ną, parvežė ją j Lietuvą. O su ja vyko pasiuntiniai, at­
+    siųsti jos tėvo, Maskvos didžiojo kunigaikščio Ivano
+    Vasiljevičiaus: kunigaikštis, vardu Semionas Riapo-
+    lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
+    Vasilijus Kulešinas2 3 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-128

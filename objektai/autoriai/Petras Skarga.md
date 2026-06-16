@@ -13,10 +13,9 @@ tags:
 
 ## Santrauka
 
-Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.
+Petras Skarga buvo pirmasis Akademijos rektorius, žymus pamokslininkas ir publicistas.
 
 ## Teiginiai
-
 <a id="claim-t-184468"></a>
 - t-001
   global_id: t-184468
@@ -24,15 +23,7 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
   pagrindžia:
     - c-001
 
-<a id="claim-t-184469"></a>
-- t-002
-  global_id: t-184469
-  teiginys: 'Petras Skarga buvo paskirtas pirmuoju akademijos rektoriumi ir buvo žinomas teologas, rašytojas bei pamokslininkas.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Petras Skarga buvo pirmasis Akademijos rektorius, žymus pamokslininkas ir publicistas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -51,25 +42,9 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmuoju akademijos rektorium buvo paskirtas mozūras,
-    ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
-    rašytojas ir pamokslininkas Petras Skarga. Akademija
-    greit iškilo ir ilgą laiką buvo centralinė Lietuvos švietimo įstaiga.
-    Iš pradžių joje buvo tik du fakultetai — teologijos ir filo-
-    sofijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams]]
 - [[objektai/zodynas/erezija]]
 - [[objektai/zodynas/urėdas]]
-- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

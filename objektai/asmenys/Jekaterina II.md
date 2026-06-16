@@ -25,14 +25,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai. Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą.
+Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką. Jekaterinos II laikais į vietinio valdymo sistemą buvo įtrauktos atskirų luomų savivaldos institucijos.
 
 ## Teiginiai
 
 <a id="claim-t-170049"></a>
 - t-001
   global_id: t-170049
-  teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
+  teiginys: 'Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   pagrindžia:
     - c-004
 
@@ -46,14 +46,14 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 <a id="claim-t-170052"></a>
 - t-003
   global_id: t-170052
-  teiginys: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį buvo įtrauktos atskirų luomų savivaldos institucijos.'
+  teiginys: 'Jekaterinos II laikais į vietinio valdymo sistemą buvo įtrauktos atskirų luomų savivaldos institucijos.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-170053"></a>
 - t-004
   global_id: t-170053
-  teiginys: 'Jekaterina II parėmė Čartoriskių priešininkę Vilniaus-Radomo bajorų konfederaciją, veikusią 1767-1768 m.'
+  teiginys: 'Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.'
   pagrindžia:
     - c-002
 
@@ -85,7 +85,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     - t-002
 
 - c-002
-  santrauka: 'Jekaterina II parėmė Čartoriskių priešininkę Vilniaus-Radomo bajorų konfederaciją, veikusią 1767-1768 m.'
+  santrauka: 'Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Todėl Jekaterina 11 parėmė
@@ -126,6 +126,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     - t-005
 
 - c-004
+  santrauka: 'Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugsėjo 11 dieną Targovicos ir Vilniaus

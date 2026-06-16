@@ -15,14 +15,14 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3, p. 115; Salys A. Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg.
+Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie. A. Salys Ragainės vardo kilmę siejo su Lietuva.
 
 ## Teiginiai
 
 <a id="claim-t-64844"></a>
 - t-001
   global_id: t-64844
-  teiginys: 'Dusburgietis teigia, kad asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
+  teiginys: 'Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
   pagrindžia:
     - c-002
 
@@ -51,6 +51,7 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
     - t-002
 
 - c-002
+  santrauka: 'Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     asmenvardžio Ramego

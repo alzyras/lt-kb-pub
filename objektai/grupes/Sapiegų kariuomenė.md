@@ -89,7 +89,6 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 ### Susiję objektai
 - [[objektai/asmenys/B. P. Sapiega]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/zodynas/dvarų milicija]]
 - [[objektai/asmenys/M. P. Sapiega]]
 - [[objektai/grupes/Respublikonai]]

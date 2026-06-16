@@ -57,4 +57,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
+- [[objektai/zodynas/vergas]]
 - [[objektai/zodynas/Miera|miera]]

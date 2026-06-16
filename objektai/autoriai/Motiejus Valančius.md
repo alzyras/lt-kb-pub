@@ -8,24 +8,23 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai: []
+periodo_grupes: []
 aliases:
   - 'objektai/autoriai/Vysk. Motiejus Valančius'
 variantai:
   - 'Vysk. Motiejus Valančius'
-sukurta: ''
-atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
-amziai:
-  - 'V'
-periodo_grupes: []
 ---
 # Motiejus Valančius
 
 ## Santrauka
 
-Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio raštų autorius, bet ir kaip Žemaičių vyskupas, blaivybės skleidėjas bei lietuviškos spaudos ir slaptųjų mokyklų rėmėjas.
+Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu. Vysk. Motiejus Valančius išspausdino 1867—1869 m. knygutes spaudos kovai. Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.
 
 ## Darbai
 
@@ -49,134 +48,62 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - Minimas kaip lietuviškos spaudos ir slaptųjų mokyklų rėmėjas.
 
 ## Teiginiai
-
-<a id="claim-t-00055"></a>
-- t-001
-  global_id: t-00055
-  teiginys: 'Motiejus Valančius 1848 m. parašė dviejų tomų istorinį veikalą „Žemaičių vyskupystė“.'
-  pagrindžia:
-    - c-001
-    - c-009
-
-<a id="claim-t-00056"></a>
-- t-002
-  global_id: t-00056
-  teiginys: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
-  pagrindžia:
-    - c-011
-
-<a id="claim-t-00057"></a>
-- t-003
-  global_id: t-00057
-  teiginys: 'Vysk. Motiejus Valančius išspausdino 1867—1869 m. knygutes spaudos kovai.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-00058"></a>
-- t-004
-  global_id: t-00058
-  teiginys: 'Vysk. Motiejus Valančius parašė ir kitas žinomas knygas bei knygeles.'
-  pagrindžia:
-    - c-010
-
-<a id="claim-t-00059"></a>
-- t-005
-  global_id: t-00059
-  teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
-  pagrindžia:
-    - c-012
-
-<a id="claim-t-00060"></a>
-- t-006
-  global_id: t-00060
-  teiginys: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-00061"></a>
-- t-007
-  global_id: t-00061
-  teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
-  pagrindžia:
-    - c-008
-
-<a id="claim-t-00062"></a>
-- t-008
-  global_id: t-00062
-  teiginys: 'Valančiaus 1867—1869 m. knygutės buvo politinės brošiūros, kuriose pirmą kartą išdėstyta prieš rusų valdžią nukreipta lietuvių politinė programa.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-179551"></a>
-- t-009
-  global_id: t-179551
-  teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-179553"></a>
-- t-010
-  global_id: t-179553
-  teiginys: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-179554"></a>
-- t-011
+- t-008
   global_id: t-179554
-  teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
+  teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-179555"></a>
-- t-012
+- t-009
   global_id: t-179555
+  teiginys: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
+  pagrindžia:
+    - c-002
+
+- t-010
+  teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
+  pagrindžia:
+    - c-004
+
+- t-011
   teiginys: 'Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.'
   pagrindžia:
+    - c-008
+- t-012
+  teiginys: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
+  pagrindžia:
+    - c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.'
+  pagrindžia:
+    - c-012
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
+  pagrindžia:
+    - c-013
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
+  pagrindžia:
     - c-009
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
+  pagrindžia:
+    - c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Motiejus Valančius 1848 m. parašė dviejų tomų istorinį veikalą „Žemaičių vyskupystė“.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmieji tikri, susipratę lietuviai, buvę aiškioje Vilniaus uni-
-    versiteto dvasios įtakoje, buvo Daukantas ir Valan-
-    čius, — abudu Vilniaus universiteto auklėtiniai. Daukantas
-    dar tebestudentaudamas (1822 m.) parašė pirmą savo istorinį
-    veikalą — „Darbus senovės lietuvių ir žemaičių" (išspausdintą
-    vos 1929 m.). Vėliau jis dar parašė „Būdą senovės lietuvių"
-    (1845 m.) ir dviejų tomų „Lietuvos istoriją" (išspausdintą tik
-    1893 m.). Valančius taip pat parašė pirmą savo istorinį vei-
-    kalą — „Žemaičių vyskupystę" (2 tomus, 1848 m.). Tai buvo
-    pirmieji mokslo veikalai, parašyti lietuviškai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Didžiausią reikšmę kovai dėl spaudos
-    laisvės turėjo šios 1867—1869 m. išspausdintos Valančiaus kny-
-    gutės: „Broliai katalikai", „Grometa apskrita", „Iš tamsybės veda
-    kelias teisybės", „Perspėjimas", „Šnekesys kataliko su nekata-
-    liku" ir „Katalikų Bažnyčios vargai". Nors jos lietė tikybos
-    klausimus, bet iš tikrųjų buvo politinės brošiūros. Jose pirmą
-    kartą buvo surašyta lietuvių politinė programa — priešintis ru-
-    sams, — kurios buvo laikomasi iki pat naujo pasaulinių inteli-
-    gentų sukelto judėjimo, prasidėjusio su „Aušra" (1883 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-008
-
-- c-003
   santrauka: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -191,9 +118,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
-
-- c-004
+    - t-009
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pvz., Stanevičius
@@ -210,8 +136,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   statusas: verified
   pagrindžia:
     - t-001
-
-- c-005
+- c-004
   santrauka: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -226,9 +151,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
-
-- c-006
+    - t-010
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai kuriose vietovėse mokančių
@@ -243,41 +167,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Slaptosios mokyklos.** Lietuviai, pajutę, kad rusai per savo
-    mokyklas nori juos surusinti ir supravoslavinti, ėmė priešintis
-    ir neleisti vaikų į tas mokyklas. Vyskupui Valančiui para-
-    ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
-    lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
+    - t-008
 - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
-    saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią
-    pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
-    maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-
-    kupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie
-    jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
-    Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
-    galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
-    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-009
   santrauka: 'Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -293,9 +184,61 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-
+    - t-011
+- c-009
+  santrauka: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Slaptosios mokyklos.** Lietuviai, pajutę, kad rusai per savo
+    mokyklas nori juos surusinti ir supravoslavinti, ėmė priešintis
+    ir neleisti vaikų į tas mokyklas. Vyskupui Valančiui para-
+    ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
+    lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
 - c-010
+  santrauka: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
+    saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią
+    pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
+    maičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vys-
+    kupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie
+    jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno,
+    Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
+    galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
+    blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
+- c-011
+  santrauka: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš ten slapta knygos
+    buvo gabenamos ir skleidžiamos po visą Lietuvą. Tą darbą
+    pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
+    parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
+    nei vargo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-012
+  santrauka: 'Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors jos lietė tikybos
@@ -308,28 +251,14 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     kojimas Antano tretininko", Valančiaus bendradarbio, žemai-
     čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
     niškis senelis" ir kitos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-
-- c-011
-  santrauka: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš ten slapta knygos
-    buvo gabenamos ir skleidžiamos po visą Lietuvą. Tą darbą
-    pradėjo vysk. Valančius su savo artimaisiais padėjėjais. Jis pats
-    parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
-    nei vargo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-012
+    - t-013
+- c-013
   santrauka: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -340,11 +269,13 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
@@ -357,7 +288,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
-- [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
 - [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]
 - [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
@@ -365,4 +295,5 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/zodynas/šiuolaikinė tautos (nacijos) samprata]]
+- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

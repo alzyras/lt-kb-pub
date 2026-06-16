@@ -22,7 +22,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].
+1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų. Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos. Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
 
 ## Teiginiai
 
@@ -43,7 +43,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 <a id="claim-t-184791"></a>
 - t-003
   global_id: t-184791
-  teiginys: 'Mingaila mirė tais pačiais metais, įpėdiniais palikdamas Skirmantą ir Ginvilą.'
+  teiginys: 'Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.'
   pagrindžia:
     - c-003
 
@@ -90,7 +90,7 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
     - t-002
 
 - c-003
-  santrauka: 'Mingaila mirė tais pačiais metais, įpėdiniais palikdamas Skirmantą ir Ginvilą.'
+  santrauka: 'Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Po to, lipte
@@ -115,3 +115,4 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
 - [[objektai/grupes/Polockiečiai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]
+- [[objektai/zodynas/viečė]]

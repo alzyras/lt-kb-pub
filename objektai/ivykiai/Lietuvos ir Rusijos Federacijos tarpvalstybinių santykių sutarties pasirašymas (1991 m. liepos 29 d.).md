@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį. Spalio pradžioje tarp abiejų valstybių buvo užmegzti diplomatiniai santykiai.
+Lietuva pripažino Rusiją nepriklausoma valstybe. Spalio pradžioje Lietuva ir Rusijos Federacija užmezgė diplomatinius santykius. Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
 
 ## Laikotarpis ir datos
 
@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-75148"></a>
 - t-003
   global_id: t-75148
-  teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  teiginys: 'Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
     - c-001
 
@@ -74,6 +74,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Demokratinė Rusija, kaip ir

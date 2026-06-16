@@ -12,7 +12,7 @@ tags:
 
 ## Santrauka
 
-Moderni pieno perdirbimo įranga ir šaldytuvai siejami su pieno perdirbimo bendrovių kūrimusi bei pieno ir mėsos produktų eksporto augimu.
+Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį. Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį. Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.
 
 ## Pavadinimai šaltiniuose
 
@@ -46,13 +46,6 @@ Nenurodyta
   teiginys: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-45534"></a>
-- t-003
-  global_id: t-45534
-  teiginys: 'Pieno perdirbimo bendrovės įsigijo modernią įrangą ir šaldytuvus, o pieno ir mėsos produktų eksportas didėjo.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
 

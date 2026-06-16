@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana žemame kultūros laipsnyje.
+Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
 
 ## Teiginiai
 
 <a id="claim-t-31222"></a>
 - t-001
   global_id: t-31222
-  teiginys: 'Krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.'
+  teiginys: 'Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     mezleva, roitinik, sviren, veldomy ir daug kitų), bet ir šnekamajai
@@ -46,8 +47,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Dregovičiai]]
-- [[objektai/grupes/Gudai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Zinkevičius Z]]
+- [[objektai/asmenys/Zenonas]]

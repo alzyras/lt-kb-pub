@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Sugrąžindamas Lietuvoje sovietų valdžią J. Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.
+1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas. Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.
 
 ## Laikotarpis ir datos
 
@@ -38,7 +38,7 @@ Nenurodyta
 <a id="claim-t-66803"></a>
 - t-001
   global_id: t-66803
-  teiginys: '1946 ir 1947 m. Lietuvoje vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
+  teiginys: '1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: '1946 ir 1947 m. Lietuvoje vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
+  santrauka: '1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Totalitariniam režimui vėl ėmė diri-
@@ -99,4 +99,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/J. Stalinas]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

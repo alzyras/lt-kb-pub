@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus. Aprašomas šių dievų kultas ir kulto tarnų hierarchija, vaidilutės.
+Pasakojime apie prūsų dievų trejybę Pakulas, Perkūnas ir Patrimpas siejami su kultu, kulto tarnų hierarchija ir vaidilutėmis. Prūsų dievų trejybėje Pakulas laikytas požemio, Perkūnas žaibų ir griausmų, o Patrimpas javų dievu. Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.
 
 ## Pavadinimai šaltiniuose
 
@@ -40,7 +40,7 @@ Nenurodyta
 <a id="claim-t-75342"></a>
 - t-001
   global_id: t-75342
-  teiginys: 'Pasakojime apie prūsų dievų trejybę aprašytas jų kultas, kulto tarnų hierarchija ir vaidilutės.'
+  teiginys: 'Pasakojime apie prūsų dievų trejybę Pakulas, Perkūnas ir Patrimpas siejami su kultu, kulto tarnų hierarchija ir vaidilutėmis.'
   pagrindžia:
     - c-002
 

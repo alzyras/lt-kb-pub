@@ -13,20 +13,21 @@ tags:
 
 ## Santrauka
 
-Žemutinė, arba Kreivoji pilis.
+Žemutinė pilis taip pat vadinta Kreivąja pilimi.
 
 ## Teiginiai
 
 <a id="claim-t-86321"></a>
 - t-001
   global_id: t-86321
-  teiginys: 'Žemutinė, arba Kreivoji pilis.'
+  teiginys: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2. Žemutinė, arba Kreivoji pilis.

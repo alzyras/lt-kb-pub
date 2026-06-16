@@ -2,11 +2,16 @@
 tipas: ivykis
 pavadinimas: 'Salaspilio (Kircholmo) mūšis (1605 m.)'
 saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1605 m.'
 date_start: '1605'
 date_end: ''
+aliases:
+  - 'objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis'
+variantai:
+  - 'Salaspilio (Kirkcholmo) mūšis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Šiame gabale aprašomas Salaspilio (Kirkcholmo) mūšio antrasis etapas: kariuomenių išsirikiavimas, apgaulingas Lietuvos kariuomenės atsitraukimas, švedų puolimas, rikiuotės suirimas ir galutinis bėgimas iš mūšio lauko. Tekste kartojami keli mūšio dalyviai ir akcentuojami atskiri taktiniai smūgiai bei žūtys. 1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.
+Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis. Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius. Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis.
 
 ## Laikotarpis ir datos
 
@@ -38,65 +43,72 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-54186"></a>
+<a id="claim-t-10278"></a>
 - t-001
-  global_id: t-54186
+  global_id: t-10278
   teiginys: 'Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-54187"></a>
+<a id="claim-t-10279"></a>
 - t-002
-  global_id: t-54187
+  global_id: t-10279
   teiginys: 'Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-54188"></a>
+<a id="claim-t-10280"></a>
 - t-003
-  global_id: t-54188
-  teiginys: 'Salaspilio mūšyje žuvo Fridrichas Liuneburgietis ir Andrius Lennartssonas, o lietuvių kairiojo sparno sėkmė padėjo V. Vainos kariams centre.'
+  global_id: t-10280
+  teiginys: 'Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis.'
   pagrindžia:
     - c-007
 
-<a id="claim-t-54189"></a>
+<a id="claim-t-10281"></a>
 - t-004
-  global_id: t-54189
+  global_id: t-10281
   teiginys: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-54190"></a>
+<a id="claim-t-10282"></a>
 - t-005
-  global_id: t-54190
-  teiginys: 'Švedų gvardijos kavaleriją pasitiko T. Lackio husarai ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius, po to švedų pajėgos bėgo iš mūšio lauko.'
+  global_id: t-10282
+  teiginys: 'Salaspilio mūšyje T. Lackio husarai nubloškė švedų gvardijos kavaleriją, o švedų pajėgos pabėgo iš mūšio lauko.'
   pagrindžia:
     - c-006
 
-<a id="claim-t-54191"></a>
+<a id="claim-t-10284"></a>
 - t-006
-  global_id: t-54191
-  teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
-  pagrindžia:
-    - c-008
-
-<a id="claim-t-54192"></a>
-- t-007
-  global_id: t-54192
+  global_id: t-10284
   teiginys: 'Salaspilio mūšyje abi kariuomenės iki vidudienio stovėjo nepajudėjusios.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-54193"></a>
-- t-008
-  global_id: t-54193
+<a id="claim-t-10285"></a>
+- t-007
+  global_id: t-10285
   teiginys: 'Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.'
   pagrindžia:
     - c-004
 
-<a id="claim-t-54194"></a>
+<a id="claim-t-186373"></a>
+- t-008
+  global_id: t-186373
+  teiginys: 'Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-186374"></a>
 - t-009
-  global_id: t-54194
+  global_id: t-186374
+  teiginys: '1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-186375"></a>
+- t-010
+  global_id: t-186375
   teiginys: 'Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.'
   pagrindžia:
     - c-005
@@ -104,7 +116,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Salaspilio mūšyje Karolis Chodkevičius pasinaudojo laikina ramybe, pasakė kalbą ir padrąsino savo karius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasinaudodamas laikina ramybe, Karolis
@@ -121,7 +132,6 @@ Nenurodyta
     - t-002
 
 - c-002
-  santrauka: 'Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ J.K. Chodkevičius, pastebėjęs, kad švedų
@@ -159,7 +169,6 @@ Nenurodyta
     - t-001
 
 - c-004
-  santrauka: 'Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-
@@ -180,10 +189,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-005
-  santrauka: 'Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Chodkevičius pastebėjo, kad
@@ -203,9 +211,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-010
 
 - c-006
+  santrauka: 'Salaspilio mūšyje T. Lackio husarai nubloškė švedų gvardijos kavaleriją, o švedų pajėgos pabėgo iš mūšio lauko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka
@@ -220,6 +229,7 @@ Nenurodyta
     - t-005
 
 - c-007
+  santrauka: 'Salaspilio mūšyje žuvo Andrius Lennartssonas, o šaltinyje teigiama, kad nuo T. Dambravos kirčio žuvo Fridrichas Liuneburgietis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prasidėjo žiau-
@@ -238,18 +248,34 @@ Nenurodyta
     - t-003
 
 - c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Besitraukiantys švedų pėstininkai bandė
-    slėptis Salaspilio (Kircholmo) bažnyčioje.
-    Tačiau jų pasipriešinimas buvo palaužtas.
-    Eiliniai kariai buvo išžudyti, o karininkai
-    paimti į nelaisvę.
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-008
+
+- c-009
+  santrauka: '1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
+    vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
+    turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
+    Dail. P. Snayrs, apie 1620 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -259,18 +285,20 @@ Nenurodyta
 - [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Machmetas]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vaina]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/raitarai]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/Laurencijus Bojeris]]
-- [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/T. Lackis]]
 - [[objektai/grupes/Švedų gvardijos kavalerija]]

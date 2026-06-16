@@ -10,21 +10,20 @@ date_start: '1388'
 date_end: '1389'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+tags:
+  - asmuo
 ---
 # Lengvenis
 
 ## Santrauka
 
-Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.
+Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse. Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas. Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.
 
 ## Teiginiai
-
 <a id="claim-t-47953"></a>
 - t-001
   global_id: t-47953
@@ -49,13 +48,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 <a id="claim-t-47956"></a>
 - t-004
   global_id: t-47956
-  teiginys: 'Lengvenis grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam kelioliką metų ištikimai tarnavo.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-47957"></a>
-- t-005
-  global_id: t-47957
   teiginys: 'Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų.'
   pagrindžia:
     - c-001
@@ -68,7 +60,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - c-003
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -84,7 +75,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   pagrindžia:
     - t-004
     - t-005
-
 - c-002
   santrauka: 'Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -105,7 +95,6 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -129,11 +118,19 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/daiktai/Auksinės grandinės ir diržai]]
+- [[objektai/daiktai/Aukso balnai]]
+- [[objektai/daiktai/Bachmatai]]
+- [[objektai/daiktai/Brangūs aksomai]]
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
 - [[objektai/ivykiai/Kališo taika]]
+- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
 - [[objektai/grupes/Smolensko pulkai]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
+- [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]
+- [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]
 - [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Lengvenis Algirdaitis]]
 - [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

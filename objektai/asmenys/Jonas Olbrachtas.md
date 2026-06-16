@@ -19,7 +19,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą. Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu. Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
+Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą. 1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais. Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
 
 ## Teiginiai
 
@@ -33,7 +33,7 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 <a id="claim-t-185964"></a>
 - t-002
   global_id: t-185964
-  teiginys: 'Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu.'
+  teiginys: '1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.'
   pagrindžia:
     - c-002
 
@@ -80,7 +80,7 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     - t-001
 
 - c-002
-  santrauka: 'Jonas Olbrachtas 1489 m. sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su priešu.'
+  santrauka: '1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Todėl, sužinojęs, jog skitai
@@ -150,6 +150,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Jono Olbrachto išrinkimas Lenkijos karaliumi]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/ivykiai/Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)]]
 - [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]
 - [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]

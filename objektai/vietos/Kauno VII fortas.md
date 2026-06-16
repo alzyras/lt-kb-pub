@@ -20,34 +20,28 @@ amziai:
 
 ## Santrauka
 
-Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje. Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.
+TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte. TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte. Laikinoji vyriausybė deklaruojamu antisemitizmu, įskaitant konclagerio steigimą VII forte, siekė nuolaidų iš nacių Vokietijos.
 
 ## Teiginiai
 
 <a id="claim-t-76472"></a>
 - t-001
   global_id: t-76472
-  teiginys: 'Liepos 4 ir 6 d. nacių komanduojama zonderkomanda Kauno VII forte dalyvavo masinėse 3 000 žydų žudynėse.'
+  teiginys: 'TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-76473"></a>
-- t-002
-  global_id: t-76473
-  teiginys: 'Iš savanorių suformuotas Tautinės darbo apsaugos batalionas prie Kauno karo komendantūros.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-183601"></a>
 - t-003
   global_id: t-183601
-  teiginys: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
+  teiginys: 'Laikinoji vyriausybė deklaruojamu antisemitizmu, įskaitant konclagerio steigimą VII forte, siekė nuolaidų iš nacių Vokietijos.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talkinin-
@@ -69,7 +63,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     - t-001
 
 - c-002
-  santrauka: 'Iš savanorių suformuotas Tautinės darbo apsaugos batalionas prie Kauno karo komendantūros.'
+  santrauka: 'TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ginkluoti partizanai
@@ -92,7 +86,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
     - t-002
 
 - c-003
-  santrauka: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
+  santrauka: 'Laikinoji vyriausybė deklaruojamu antisemitizmu, įskaitant konclagerio steigimą VII forte, siekė nuolaidų iš nacių Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietijos okupaciniu režimu ir

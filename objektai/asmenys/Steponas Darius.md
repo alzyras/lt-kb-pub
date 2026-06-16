@@ -59,3 +59,4 @@ periodo_grupes:
 - [[objektai/grupes/JAV lietuviai]]
 - [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]
+- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

@@ -34,7 +34,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-66992"></a>
 - t-001
   global_id: t-66992
@@ -49,22 +48,16 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-<a id="claim-t-66994"></a>
-- t-003
-  global_id: t-66994
-  teiginys: '1430 m. rudenį Vytautas sutiko garantuoti, kad po jo mirties Lietuva atiteks Jogailos sūnui, o Jogaila pritarė Vytauto karūnacijai.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-66995"></a>
-- t-004
+- t-003
   global_id: t-66995
   teiginys: 'Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -76,7 +69,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -90,7 +82,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -101,36 +92,17 @@ Nenurodyta
     ir, raitas jodamas su svečiais iš Vilniaus į Trakus, nukrito nuo
     žirgo. Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
     vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-004
-  santrauka: '1430 m. rudenį Vytautas sutiko garantuoti, kad po jo mirties Lietuva atiteks Jogailos sūnui, o Jogaila pritarė Vytauto karūnacijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Paaštrėjus ginčui dėl karūnacijos, 1430 m.
-    rudenį į Vilnių atvyko Jogaila. Susitikę abudu pusbroliai tuo-
-    jau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lie-
-    tuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila
-    davė savo sutikimą dėl karūnacijos. Dabar Jogailai dar rei-
-    kėjo gauti savo ponų tarybos sutikimą. Tuo reikalu į Krokuvą
-    buvo išsiųsti su Jogaila į Vilnių atvykę Lenkų ponai. Bet Vy-
-    tautas ponų susitarimo jau nebesulaukė: jis mirė 1430 m.
-    spalių m ė n. 27 d.; mirė jau senelis, turėdamas 80 metų
-    su viršum.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]

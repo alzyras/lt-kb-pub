@@ -62,4 +62,7 @@ atnaujinta: ''
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/daiktai/Kentauro herbas]]
+- [[objektai/daiktai/Pajautos stabas]]
 - [[objektai/grupes/Žemaičiai]]

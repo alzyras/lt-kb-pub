@@ -72,6 +72,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]
 - [[objektai/asmenys/Vytenis]]

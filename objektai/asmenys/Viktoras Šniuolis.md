@@ -21,20 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų palaikai surasti ir palaidoti Radviliškio kapinėse.
+Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu 1991 m. partizanų palaikai buvo surasti ir palaidoti Radviliškio kapinėse.
 
 ## Teiginiai
 
 <a id="claim-t-40503"></a>
 - t-001
   global_id: t-40503
-  teiginys: 'Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų palaikai surasti ir palaidoti Radviliškio kapinėse.'
+  teiginys: 'Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu 1991 m. partizanų palaikai buvo surasti ir palaidoti Radviliškio kapinėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu 1991 m. partizanų palaikai buvo surasti ir palaidoti Radviliškio kapinėse.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kaimo gyventojo šulinį. Tik 1991 metais

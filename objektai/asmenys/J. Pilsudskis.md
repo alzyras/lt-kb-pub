@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a. Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.
+Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe. J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu. 1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.
 
 ## Teiginiai
 
@@ -52,30 +52,23 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 <a id="claim-t-108754"></a>
 - t-004
   global_id: t-108754
-  teiginys: '1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.'
+  teiginys: '1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“'
   pagrindžia:
     - c-004
 
 <a id="claim-t-108755"></a>
 - t-005
   global_id: t-108755
-  teiginys: 'J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-108756"></a>
-- t-006
-  global_id: t-108756
-  teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
+  teiginys: 'J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-183534"></a>
-- t-007
+- t-006
   global_id: t-183534
-  teiginys: 'E. Galvanauskas siekė J. Pilsudskio pavyzdžiu pastatyti dėl Klaipėdos visus į fait accompli padėtį ir tada derėtis.'
+  teiginys: 'Ernestas Galvanauskas siekė J. Pilsudskio pavyzdžiu užimti Klaipėdos kraštą jėga, sudaryti fait accompli padėtį ir tada derėtis.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -137,7 +130,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     - t-002
 
 - c-004
-  santrauka: '1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.'
+  santrauka: '1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
@@ -155,23 +148,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     - t-004
 
 - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
-    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
-    Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du
-    prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
-    vokiečiai ir net britai. Lenkija laikėsi ramiai, privengdama karinės Vokie-
-    tijos reakcijos – J. Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir
-    kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
-
-- c-006
-  santrauka: 'J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
+  santrauka: 'J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Delegacija
@@ -193,8 +170,8 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   pagrindžia:
     - t-005
 
-- c-007
-  santrauka: 'E. Galvanauskas siekė J. Pilsudskio pavyzdžiu pastatyti dėl Klaipėdos visus į fait accompli padėtį ir tada derėtis.'
+- c-006
+  santrauka: 'Ernestas Galvanauskas siekė J. Pilsudskio pavyzdžiu užimti Klaipėdos kraštą jėga, sudaryti fait accompli padėtį ir tada derėtis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
@@ -209,13 +186,12 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/grupes/Lenkai]]
@@ -226,18 +202,18 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Narutavičius]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
-- [[objektai/posakiai/„tėvyninė“ šalis]]
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/posakiai/„Karas ar taika “]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/posakiai/„tėvyninė“ šalis]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Romanas Dmovskis]]
 - [[objektai/posakiai/„seimokratija“]]

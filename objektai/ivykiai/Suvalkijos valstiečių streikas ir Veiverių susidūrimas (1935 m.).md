@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija Veiveriuose nušovė tris valstiečius, šimtus areštavo.
+1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.
 
 ## Laikotarpis ir datos
 
@@ -41,13 +41,14 @@ Nenurodyta
 <a id="claim-t-20512"></a>
 - t-001
   global_id: t-20512
-  teiginys: '1935 m. Suvalkijos valstiečiai paskelbė streiką, draudė pristatyti pieną į Kauną, o Veiveriuose policija nušovė tris valstiečius.'
+  teiginys: '1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žemės ūkio

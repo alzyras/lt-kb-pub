@@ -34,38 +34,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-66796"></a>
-- t-001
-  global_id: t-66796
-  teiginys: 'Napoleono kariuomenei žygiuojant į Lietuvą, rusai iš visos Lietuvos pasitraukė be mūšio.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-66797"></a>
-- t-002
+- t-001
   global_id: t-66797
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Paskelbęs
-    karą, Napoleonas su kariuomene persikėlė per Nemuną ties
-    Kaunu ir greit nužygiavo į Vilnių. Iš visos Lietuvos rusai pa-
-    sitraukė be mūšio. Su jais išsikraustė ir Oginskis ir kiti Rusijos
-    globos šalininkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -75,14 +54,14 @@ Nenurodyta
     duoti jo armijai maisto ir kareivių. Bajorijos atsiunčiamoms de-
     legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
     karo pabaiga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]

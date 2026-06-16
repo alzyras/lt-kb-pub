@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Istorinė Lietuva reiškia buvusios LDK erdvę ir jos tradiciją, platesnę už dabartinę ar modernią lietuvių kalbos pagrindu apibrėžtą Lietuvą.
+Modernioji Lietuvos samprata šalies vardą siejo su lietuvių kalbos vartojimu, o ne su visomis istorinės Lietuvos žemėmis. XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais. Lietuvos vardas kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.
 
 ## Žodis ir formos
 
@@ -47,14 +47,14 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 <a id="claim-t-75552"></a>
 - t-003
   global_id: t-75552
-  teiginys: 'Lietuvos vardas kartu su LDK ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.'
+  teiginys: 'Lietuvos vardas kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-75553"></a>
 - t-004
   global_id: t-75553
-  teiginys: 'Autoriai mano, kad be vokiečių puolimo ir slavų ekspansijos Lietuvos vardas būtų aprėpęs platesnes baltų genčių žemes.'
+  teiginys: 'Manoma, kad be vokiečių puolimo ir slavų ekspansijos Lietuvos vardas būtų aprėpęs platesnes baltų genčių žemes.'
   pagrindžia:
     - c-001
 
@@ -132,6 +132,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
     - t-001
 
 - c-004
+  santrauka: 'Lietuvos vardas kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
@@ -168,6 +169,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/asmenys/Česlovas Milošas]]
 - [[objektai/asmenys/Aleksandras I]]

@@ -73,3 +73,4 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Stanislovas Ratka]]
 - [[objektai/asmenys/Vaitiekus Chelminskis]]
+- [[objektai/grupes/Černigovo kunigaikštystė]]

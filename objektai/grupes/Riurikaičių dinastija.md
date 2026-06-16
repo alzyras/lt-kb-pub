@@ -23,65 +23,34 @@ amziai:
 
 ## Santrauka
 
-Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.
+Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai. Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio. Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.
 
 ## Teiginiai
 
-<a id="claim-t-96865"></a>
-- t-001
-  global_id: t-96865
-  teiginys: 'Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.'
-  pagrindžia:
-    - c-005
-
 <a id="claim-t-96866"></a>
-- t-002
+- t-001
   global_id: t-96866
   teiginys: 'Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-96867"></a>
-- t-003
+- t-002
   global_id: t-96867
   teiginys: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   pagrindžia:
-    - c-003
-
-<a id="claim-t-96868"></a>
-- t-004
-  global_id: t-96868
-  teiginys: 'Lietuvai užėmus Rusios žemes, ne visi Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 <a id="claim-t-96869"></a>
-- t-005
+- t-003
   global_id: t-96869
   teiginys: 'Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vėliau
-    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
-    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
-    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
-    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
-    Alšėnų kunigaikščiai. Antra vertus, Lietuvai užėmus Rusios žemes, ne visi
-    senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio
-    gyvenimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-002
   santrauka: 'Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -100,9 +69,9 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-003
+- c-002
   santrauka: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -115,9 +84,9 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -132,25 +101,9 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to,
-    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
-    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
-    Alšėnų kunigaikščiai. Antra vertus, Lietuvai užėmus Rusios žemes, ne visi
-    senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio
-    gyvenimo. Vėlesniais amžiais LDK gyvenime rasis iš tokių kunigaikščių
-    kilusių veiklių Lietuvos giminių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-006
+- c-004
   santrauka: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -163,7 +116,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -177,11 +130,9 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 - [[objektai/asmenys/Jonas Kalita]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
-- [[objektai/grupes/Alšėnų kunigaikščiai]]
 - [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

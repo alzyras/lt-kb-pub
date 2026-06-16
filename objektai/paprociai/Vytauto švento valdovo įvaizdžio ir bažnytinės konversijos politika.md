@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis – Žemaitija.
+Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.
 
 ## Laikotarpis ir datos
 
@@ -49,14 +49,14 @@ Nenurodyta
 <a id="claim-t-77955"></a>
 - t-001
   global_id: t-77955
-  teiginys: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis liko Žemaitija.'
+  teiginys: 'Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis liko Žemaitija.'
+  santrauka: 'Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
@@ -90,6 +90,7 @@ Nenurodyta
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/grupes/Totoriai]]

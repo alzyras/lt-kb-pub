@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Iš žalvario, aukso, sidabro, stiklo ir gintaro buvo dirbami papuošalai. Papuošalai buvo puošiami aukso, sidabro plokštelėmis, mėlyno stiklo akutėmis ir įvairiaspalviu emaliu.
+Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams. Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams. Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose.
 
 ## Pavadinimai šaltiniuose
 
@@ -48,14 +48,7 @@ Nenurodyta
 <a id="claim-t-47814"></a>
 - t-001
   global_id: t-47814
-  teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai buvo tiesiogiai giminingi lietuvių kaimo audinių ir juostų raštams.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-47815"></a>
-- t-002
-  global_id: t-47815
-  teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
+  teiginys: 'Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams.'
   pagrindžia:
     - c-002
 

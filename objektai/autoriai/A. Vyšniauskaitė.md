@@ -20,20 +20,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.
+Vyšniauskaitė.— V., 1964.
 
 ## Teiginiai
 
 <a id="claim-t-60669"></a>
 - t-001
   global_id: t-60669
-  teiginys: 'Dusburgietis teigia, kad vyšniauskaitė.— V., 1964.'
+  teiginys: 'Vyšniauskaitė.— V., 1964.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyšniauskaitė.— V., 1964.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvių etnografijos bruožai / Redagavo A. Vyšniauskaitė.— V., 1964.

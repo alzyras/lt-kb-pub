@@ -26,7 +26,7 @@ amziai:
 
 ## Santrauka
 
-1410 Žalgirio (Griunvaldo) mūšis. Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. 1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
+1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną. Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
 
 ## Laikotarpis ir datos
 
@@ -70,7 +70,7 @@ Nenurodyta
 <a id="claim-t-63389"></a>
 - t-004
   global_id: t-63389
-  teiginys: 'Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį.'
+  teiginys: 'Žalgirio pergalė pakirto Vokiečių ordino hegemoniją ir pašalino jo egzistencinę grėsmę Lietuvai bei Lenkijai.'
   pagrindžia:
     - c-002
 
@@ -179,11 +179,9 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/hegemonija]]
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
 - [[objektai/daiktai/Ordino komtūrų barzdos]]
-- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]

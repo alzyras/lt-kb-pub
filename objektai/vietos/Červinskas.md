@@ -10,11 +10,11 @@ date_start: '1418'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XV'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Červinskas
 
@@ -23,7 +23,6 @@ amziai:
 Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).
 
 ## Teiginiai
-
 <a id="claim-t-178755"></a>
 - t-001
   global_id: t-178755
@@ -39,7 +38,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -57,7 +55,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

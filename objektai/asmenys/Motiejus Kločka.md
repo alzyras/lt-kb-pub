@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi. Aleksandrą atlydėjo Jonas Sapiega, maršalas Motiejus Kločka ir Povilas Naruševičius.
+Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi. Maršalas Motiejus Kločka kartu su Jonu Sapiega ir Povilu Naruševičiumi atlydėjo Aleksandrą.
 
 ## Teiginiai
 
@@ -24,7 +24,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
 <a id="claim-t-186071"></a>
 - t-002
   global_id: t-186071
-  teiginys: 'Aleksandrą atlydėjo Jonas Sapiega, maršalas Motiejus Kločka ir Povilas Naruševičius.'
+  teiginys: 'Maršalas Motiejus Kločka kartu su Jonu Sapiega ir Povilu Naruševičiumi atlydėjo Aleksandrą.'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
     - t-001
 
 - c-002
-  santrauka: 'Aleksandrą atlydėjo Jonas Sapiega, maršalas Motiejus Kločka ir Povilas Naruševičius.'
+  santrauka: 'Maršalas Motiejus Kločka kartu su Jonu Sapiega ir Povilu Naruševičiumi atlydėjo Aleksandrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Jį priėmė iš tiesų gana draugiškai, ta­

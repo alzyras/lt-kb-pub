@@ -19,21 +19,21 @@ amziai:
 
 ## Santrauka
 
-1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai. Slapstėsi Latvijos teritorijoje, vėliau Kretingos rajone.
+P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.
 
 ## Teiginiai
 
 <a id="claim-t-38360"></a>
 - t-001
   global_id: t-38360
-  teiginys: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m. apsuptas Kretingos saugumiečių nusišovė.'
+  teiginys: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m. apsuptas Kretingos saugumiečių nusišovė.'
+  santrauka: 'P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Slapstėsi Latvijos teritorijoje,

@@ -18,23 +18,24 @@ tags:
 partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą. partizaniškas karas: kryžiuočiai ėmė trauktis; Vy- tautas tuo tarpu buvo sunaiki- nęs jų atgaliniam kely paruoštą maisto atsargą, ir jų kariuome- nėje kilo badas. Kęstučio ir Vytauto būriai puolė kryžiuo- čius kur galėdami, ir iš didelio žygio savo kraštą pasiekė vos maži.
 
 ## Teiginiai
-
 <a id="claim-t-70270"></a>
 - t-001
   global_id: t-70270
   teiginys: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes.'
   pagrindžia:
     - c-001
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-70271"></a>
 - t-002
   global_id: t-70271
   teiginys: 'Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -49,12 +50,13 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -71,9 +73,11 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     žygio savo kraštą pasiekė vos
     maži išbadėjusios ir sušalusios
     jų kariuomenės likučiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -81,6 +85,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/žygis]]

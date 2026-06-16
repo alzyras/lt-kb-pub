@@ -15,41 +15,29 @@ tags:
 
 ## Santrauka
 
-Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras. Sąmokslininkai tikėjosi nors keletai valandų paimti valdžią į savo rankas, o toliau turėjo ateiti jau Lenkų kariuomenė. centre (Kau- ne), kur buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo, organizacijos ir kitais dokumentais.
+P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė. Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.
 
 ## Teiginiai
-
 <a id="claim-t-72110"></a>
 - t-001
   global_id: t-72110
-  teiginys: 'Sąmokslininkai tikėjosi nors keletai valandų paimti valdžią į savo rankas, o toliau turėjo ateiti jau Lenkų kariuomenė.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-72111"></a>
-- t-002
-  global_id: t-72111
-  teiginys: 'P.O.W. centre Kaune buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo ir kitais dokumentais.'
+  teiginys: 'P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė.'
   pagrindžia:
     - c-002
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-72112"></a>
-- t-003
+- t-002
   global_id: t-72112
   teiginys: 'Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72113"></a>
-- t-004
-  global_id: t-72113
-  teiginys: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
-  pagrindžia:
-    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš okupuoto Vil-
@@ -65,34 +53,15 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-004
-
-- c-002
-  santrauka: 'P.O.W. centre Kaune buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo ir kitais dokumentais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mūsų saugumo organai susekė sąmokslininkus, tą pačią
-    sukilimui skirtą naktį buvo padaryta krata P.O.W. centre (Kau-
-    ne), kur buvo rastas organizacijos archyvas su narių sąrašais,
-    šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų
-    vadai tuojau buvo areštuoti, ir sukilimo nebeįvyko. Tik vienur
-    kitur tebuvo nupiauti telefono ir telegrafo laidai. Kol saugumo
-    organai surado šifro raktą ir iššifravo sąmokslininkų pavardes,
-    daugelis jų spėjo pasprukti į okupuotą Vilnių. Vis dėlto 117 iš
-    jų 1920 m. gruodžio 11—24 d. buvo teisti kariuomenės teismo
-    (iš viso P.O.W. sąrašuose buvo rasti suregistruoti 435 nariai).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-- c-003
+- c-002
+  santrauka: 'P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
@@ -107,9 +76,11 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     paskelbti, kad sukilęs kraštas nuvertęs vokiečių pastatytos Ta-
     rybos valdžią ir, norėdamas likti laisvas, prisidedąs prie Len-
     kijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -118,4 +89,5 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]

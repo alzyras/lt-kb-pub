@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269. Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
+Vilhelmas iš Modenos apaštališkojo sosto vardu įsakė skelbti kryžiaus karą prieš Sventopelko persekiojimą Prūsijos žemėse. 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
 
 ## Laikotarpis ir datos
 
@@ -52,13 +52,14 @@ Nenurodyta
 <a id="claim-t-66952"></a>
 - t-002
   global_id: t-66952
-  teiginys: 'Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
+  teiginys: '270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
@@ -97,6 +98,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/zodynas/kryžininkai]]

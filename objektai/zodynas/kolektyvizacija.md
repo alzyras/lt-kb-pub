@@ -133,5 +133,6 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vienkiemiai]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/ivykiai/Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)]]
 - [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]
 - [[objektai/zodynas/kolūkiai kolūkietis darbadieniai]]

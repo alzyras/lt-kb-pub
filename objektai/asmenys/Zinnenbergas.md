@@ -21,21 +21,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių.
+1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 
 ## Teiginiai
 
 <a id="claim-t-87893"></a>
 - t-001
   global_id: t-87893
-  teiginys: '1323 metų pradžioje riteris Zinnenbergas su Egerbergu atvyko su stipriu kilmingų karių ir vasalų pulku.'
+  teiginys: '1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1323 metų pradžioje riteris Zinnenbergas su Egerbergu atvyko su stipriu kilmingų karių ir vasalų pulku.'
+  santrauka: '1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     67

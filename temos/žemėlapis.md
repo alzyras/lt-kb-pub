@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 20.
+Objektų skaičius: 19.
 
 ## Kaip naudoti
 
@@ -24,7 +24,6 @@ Objektų skaičius: 20.
 ### Autoriai
 - [[objektai/autoriai/Aldona Bieliūnienė]]
 - [[objektai/autoriai/J. Andrius]]
-- [[objektai/autoriai/Jäger E]]
 - [[objektai/autoriai/Lianskoronskij, V]]
 - [[objektai/autoriai/P. Šinkūnas]]
 - [[objektai/autoriai/Saulius Kaubrys]]

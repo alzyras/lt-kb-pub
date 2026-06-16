@@ -13,21 +13,21 @@ tags:
 
 ## Santrauka
 
-Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenkiją ir Vengriją palikdamas neaiškioje būklėje—savo mažametėms dukterims ir jų būsimiems vyrams.
+Liudvikas Anjou mirė rugsėjo 14 d. ir paliko Lenkiją bei Vengriją neaiškioje būklėje savo mažametėms dukterims ir jų būsimiems vyrams.
 
 ## Teiginiai
 
 <a id="claim-t-100074"></a>
 - t-001
   global_id: t-100074
-  teiginys: 'Rugsėjo 14 d. miręs Liudvikas Anjou paliko Lenkiją ir Vengriją neaiškioje būklėje savo mažametėms dukterims ir jų būsimiems vyrams.'
+  teiginys: 'Liudvikas Anjou mirė rugsėjo 14 d. ir paliko Lenkiją bei Vengriją neaiškioje būklėje savo mažametėms dukterims ir jų būsimiems vyrams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rugsėjo 14 d. miręs Liudvikas Anjou paliko Lenkiją ir Vengriją neaiškioje būklėje savo mažametėms dukterims ir jų būsimiems vyrams.'
+  santrauka: 'Liudvikas Anjou mirė rugsėjo 14 d. ir paliko Lenkiją bei Vengriją neaiškioje būklėje savo mažametėms dukterims ir jų būsimiems vyrams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Su paskutinio pagonio kunigaikščio Kęstučio iškilmingu sude­

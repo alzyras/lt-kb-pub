@@ -38,7 +38,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-78714"></a>
 - t-001
   global_id: t-78714
@@ -75,7 +74,6 @@ Nenurodyta
     - c-004
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -95,7 +93,6 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
-
 - c-002
   santrauka: 'Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -112,7 +109,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -126,7 +122,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
   santrauka: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

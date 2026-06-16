@@ -19,7 +19,7 @@ amziai:
 
 ## Santrauka
 
-Žygdarbį padarė krepšininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.
+Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.
 
 ## Laikotarpis ir datos
 
@@ -39,15 +39,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-75210"></a>
-- t-001
-  global_id: t-75210
-  teiginys: 'Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-75211"></a>
-- t-002
+- t-001
   global_id: t-75211
   teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
@@ -68,7 +61,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

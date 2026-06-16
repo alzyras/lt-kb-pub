@@ -9,13 +9,13 @@ date_start: '1672'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVII'
 tags:
   - bajorija
   - grupe
   - karalius
   - seimas
-amziai:
-  - 'XVII'
 ---
 # Lenkijos bajorų partija
 
@@ -24,23 +24,16 @@ amziai:
 Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.
 
 ## Teiginiai
-
-<a id="claim-t-74047"></a>
-- t-001
-  global_id: t-74047
-  teiginys: 'Lenkijos bajorų partija kelis prancūziškosios partijos žmones apkaltino išdavimu ir patraukė į seimo teismą.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-74048"></a>
-- t-002
+- t-001
   global_id: t-74048
   teiginys: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -51,26 +44,11 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
     tija. Kadangi jo didieji priešai buvo susirišę su Prancūzija, tai
     jis pats tuojau užmezgė ryšius su Austrų Habsburgais ir iš jų
     šeimos net vedė žmoną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Lenkijos bajorų partija kelis prancūziškosios partijos žmones apkaltino išdavimu ir patraukė į seimo teismą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik abiem pusėm
-    nusileidus, buvo išvengta konflikto. Prancūziškoji partija pa-
-    galiau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos
-    kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti ba-
-    jorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltin-
-    dama išdavimu, buvo patraukusi į seimo teismą ir pasmerkusi
-    ištremti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -79,5 +57,3 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Pacai]]
-- [[objektai/grupes/Prancūziškoji partija]]
-- [[objektai/zodynas/seimas]]

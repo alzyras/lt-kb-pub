@@ -9,16 +9,16 @@ date_start: '1812'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - daiktas
 amziai:
   - 'XIX'
+tags:
+  - daiktas
 ---
 # D. Poškos Baublys
 
 ## Santrauka
 
-D. Poškos Baublys šaltinyje pristatomas kaip senienų muziejui pritaikytas objektas. Papildomai nurodoma, kad 1812 m. iš tuščiavidurio ąžuolo buvo padarytos trys trobelės su muziejėliais, tebestovėjusios Bijotuose.
+D. Poška savo Baublyje įtaisė senienų muziejų. D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -41,31 +41,22 @@ Jame buvo įtaisytas senienų muziejus.
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-07519"></a>
-- t-001
-  global_id: t-07519
-  teiginys: '1812 m. D. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-07520"></a>
-- t-002
-  global_id: t-07520
+- t-004
   teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-07521"></a>
-- t-003
-  global_id: t-07521
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
   teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kad nebūtų darkoma
@@ -79,13 +70,15 @@ Nenurodyta
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
+    - t-004
 - c-002
+  santrauka: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
@@ -98,15 +91,15 @@ Nenurodyta
     nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
     nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
     santvarkos formų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/D. Poška]]
-- [[objektai/zodynas/santvarka]]

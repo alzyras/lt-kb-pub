@@ -98,6 +98,7 @@ Nenurodyta
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laužas]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/didysis magistras]]

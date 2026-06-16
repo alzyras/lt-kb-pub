@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis. Su valstiečiais turėjo būti sudarytos specialios sutartys.
+Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais. Baudžiavos panaikinimo reformoje su valstiečiais turėjo būti sudarytos specialios sutartys.
 
 ## Laikotarpis ir datos
 
@@ -36,24 +36,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-67058"></a>
 - t-001
   global_id: t-67058
-  teiginys: 'Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis.'
+  teiginys: 'Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais.'
   pagrindžia:
     - c-002
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-67059"></a>
 - t-002
   global_id: t-67059
-  teiginys: 'Su valstiečiais turėjo būti sudarytos specialios sutartys.'
+  teiginys: 'Baudžiavos panaikinimo reformoje su valstiečiais turėjo būti sudarytos specialios sutartys.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Baudžiavos panaikinimo reformoje su valstiečiais turėjo būti sudarytos specialios sutartys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą reformą pagal
@@ -62,13 +64,15 @@ Nenurodyta
     valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
     praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
     vos tiktai keletas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: 'Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vykdant reformą
@@ -81,8 +85,15 @@ Nenurodyta
     sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/ponai]]
+- [[objektai/zodynas/Baudžiava]]

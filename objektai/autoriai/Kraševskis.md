@@ -16,17 +16,18 @@ tags:
 Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų.
 
 ## Teiginiai
-
 <a id="claim-t-01084"></a>
 - t-001
   global_id: t-01084
   teiginys: 'Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
@@ -38,9 +39,11 @@ tags:
     savo tėvynę Lietuvą, o save laikė tik lenkiškos kultūros lietu-
     viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
     iš liaudies tarpo kilusią lietuviškąją inteligentiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

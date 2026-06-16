@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Mūšio išvakarėse 1768 m. lenkų bei lietuvių didikai ir bajorai, nusistatę prieš Rusijos kontrolę, susibūrė į Baro konfederaciją. Baro konfederacija nepasiekė savo tikslų atsikratyti svetimų šalių įtakos.
+1768 m. prieš Rusijos kontrolę nusistatę lenkų ir lietuvių didikai bei bajorai susibūrė į Baro konfederaciją.
 
 ## Laikotarpis ir datos
 
@@ -43,15 +43,8 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-39126"></a>
-- t-001
-  global_id: t-39126
-  teiginys: 'Baro konfederacija nepasiekė savo tikslų atsikratyti svetimų šalių įtakos.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-39127"></a>
-- t-002
+- t-001
   global_id: t-39127
   teiginys: '1768 m. prieš Rusijos kontrolę nusistatę lenkų ir lietuvių didikai bei bajorai susibūrė į Baro konfederaciją.'
   pagrindžia:
@@ -80,25 +73,12 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Baro konfederacija nepasiekė savo
-    tikslų atsikratyti svetimų šalių įtakos.
-    Konfederatams nepavyko sutrukdyti
-    1772 m. įvykusio pirmajo ATR padalijimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baro konfederacija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/konfederacija]]
+- [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/konfederacija]]

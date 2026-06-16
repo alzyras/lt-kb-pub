@@ -14,14 +14,14 @@ tags:
 
 ## Santrauka
 
-Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką. Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.
+Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d. Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
 
 ## Teiginiai
 
 <a id="claim-t-40392"></a>
 - t-001
   global_id: t-40392
-  teiginys: 'Kunigaikštis P. Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
+  teiginys: 'Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
   pagrindžia:
     - c-002
 
@@ -58,6 +58,7 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     - t-002
 
 - c-002
+  santrauka: 'Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-

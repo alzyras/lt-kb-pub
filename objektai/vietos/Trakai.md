@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -28,7 +29,7 @@ amziai:
 
 ## Santrauka
 
-Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio valdų vieta ir viena iš tankiau apgyventų bei valdovo būstinei artimų žemių.
+1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis. Jogailos ir kryžiuočių kariuomenėms apgulus Trakų pilį, Skirgaila liepos 20 d. įtikino jos įgulą pasiduoti. Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 
 ## Teiginiai
 
@@ -37,7 +38,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   global_id: t-180584
   teiginys: '1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.'
   pagrindžia:
-    - c-032
+    - c-029
 
 <a id="claim-t-180585"></a>
 - t-002
@@ -51,572 +52,565 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   global_id: t-180586
   teiginys: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   pagrindžia:
-    - c-052
+    - c-048
 
 <a id="claim-t-180587"></a>
 - t-004
   global_id: t-180587
   teiginys: 'Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine.'
   pagrindžia:
-    - c-019
-
-<a id="claim-t-180588"></a>
-- t-005
-  global_id: t-180588
-  teiginys: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
-  pagrindžia:
-    - c-047
+    - c-017
 
 <a id="claim-t-180589"></a>
-- t-006
+- t-005
   global_id: t-180589
   teiginys: 'Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.'
   pagrindžia:
-    - c-015
+    - c-013
 
 <a id="claim-t-180590"></a>
-- t-007
+- t-006
   global_id: t-180590
   teiginys: 'Algirdas valdė Vilniuje, o Kęstutis - Trakuose.'
   pagrindžia:
-    - c-046
+    - c-043
 
 <a id="claim-t-180591"></a>
-- t-008
+- t-007
   global_id: t-180591
   teiginys: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
   pagrindžia:
-    - c-055
+    - c-051
 
 <a id="claim-t-180592"></a>
-- t-009
+- t-008
   global_id: t-180592
   teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.'
   pagrindžia:
-    - c-026
+    - c-024
 
 <a id="claim-t-180593"></a>
-- t-010
+- t-009
   global_id: t-180593
   teiginys: '1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių.'
   pagrindžia:
-    - c-030
+    - c-027
 
 <a id="claim-t-180594"></a>
-- t-011
+- t-010
   global_id: t-180594
   teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.'
   pagrindžia:
-    - c-021
+    - c-019
 
 <a id="claim-t-180595"></a>
-- t-012
+- t-011
   global_id: t-180595
   teiginys: '1383 m. Vytautas su magistru Zollneriu žygiavo prie Skirgailos valdytų Trakų, kurie jam greitai pasidavė.'
   pagrindžia:
-    - c-008
-
-<a id="claim-t-180596"></a>
-- t-013
-  global_id: t-180596
-  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
-  pagrindžia:
-    - c-027
+    - c-007
 
 <a id="claim-t-180597"></a>
-- t-014
+- t-012
   global_id: t-180597
   teiginys: '1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.'
   pagrindžia:
-    - c-064
+    - c-060
 
 <a id="claim-t-180599"></a>
-- t-015
+- t-013
   global_id: t-180599
   teiginys: 'To žygio metu paimti karaimai, tikėtina, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
-    - c-040
+    - c-037
 
 <a id="claim-t-180600"></a>
-- t-016
+- t-014
   global_id: t-180600
   teiginys: 'Kęstučiui ir Vytautui rugpjūčio 3 d. atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
   pagrindžia:
-    - c-018
+    - c-016
 
 <a id="claim-t-180601"></a>
-- t-017
+- t-015
   global_id: t-180601
   teiginys: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.'
   pagrindžia:
-    - c-053
+    - c-049
 
 <a id="claim-t-180602"></a>
-- t-018
+- t-016
   global_id: t-180602
   teiginys: 'Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai.'
   pagrindžia:
-    - c-054
+    - c-050
 
 <a id="claim-t-180603"></a>
-- t-019
+- t-017
   global_id: t-180603
   teiginys: 'Jogaila Kęstutį laikė artimiausiu varžovu, nes šis gyveno Trakuose, todėl pirmiausia siekė juo atsikratyti.'
   pagrindžia:
-    - c-014
+    - c-012
 
 <a id="claim-t-180604"></a>
-- t-020
+- t-018
   global_id: t-180604
   teiginys: 'Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios.'
   pagrindžia:
-    - c-061
+    - c-057
 
 <a id="claim-t-180605"></a>
-- t-021
+- t-019
   global_id: t-180605
   teiginys: '1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.'
   pagrindžia:
-    - c-023
+    - c-021
 
 <a id="claim-t-180607"></a>
-- t-022
+- t-020
   global_id: t-180607
   teiginys: '1379 m. rugsėjo 29 d. po trijų dienų sunkių derybų Trakuose buvo pasirašyta sutartis.'
   pagrindžia:
-    - c-044
+    - c-041
 
 <a id="claim-t-180608"></a>
-- t-023
+- t-021
   global_id: t-180608
   teiginys: 'Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.'
   pagrindžia:
-    - c-015
+    - c-013
 
 <a id="claim-t-180609"></a>
-- t-024
+- t-022
   global_id: t-180609
-  teiginys: 'Didysis kunigaikštis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę.'
+  teiginys: 'Kazimieras Jogailaitis Vilniuje negyveno nuolat, nes Trakų pilyse turėjo ištaigingesnę buveinę.'
   pagrindžia:
-    - c-012
+    - c-010
 
 <a id="claim-t-180610"></a>
-- t-025
+- t-023
   global_id: t-180610
   teiginys: '1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.'
   pagrindžia:
-    - c-030
+    - c-027
 
 <a id="claim-t-180611"></a>
-- t-026
+- t-024
   global_id: t-180611
   teiginys: '1383 m. rugpjūčio 12 d. Skirgailos valdyti Trakai greitai pasidavė Vytautui, nes mieste buvo jo šalininkų.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-180612"></a>
-- t-027
+- t-025
   global_id: t-180612
   teiginys: '1377 m. Ordino maršalas buvo atvykęs prie Trakų ir, Wigando teigimu, kalbėjosi su Kęstučiu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-180613"></a>
-- t-028
+- t-026
   global_id: t-180613
   teiginys: '1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Melnike ją patvirtino Žygimantas Senasis.'
   pagrindžia:
-    - c-051
+    - c-047
 
 <a id="claim-t-180614"></a>
-- t-029
+- t-027
   global_id: t-180614
   teiginys: 'Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   pagrindžia:
-    - c-029
+    - c-026
 
 <a id="claim-t-180615"></a>
-- t-030
+- t-028
   global_id: t-180615
   teiginys: 'Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.'
   pagrindžia:
-    - c-010
+    - c-008
 
 <a id="claim-t-180616"></a>
-- t-031
+- t-029
   global_id: t-180616
   teiginys: 'Trakų vardo kildinimas iš lenkiško žodžio trok atmestas, teigiant, kad miesto vardas turėtų būti lietuviškas.'
   pagrindžia:
-    - c-041
+    - c-038
 
 <a id="claim-t-180617"></a>
-- t-032
+- t-030
   global_id: t-180617
   teiginys: 'Trakuose sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.'
   pagrindžia:
-    - c-039
+    - c-036
 
 <a id="claim-t-180618"></a>
-- t-033
+- t-031
   global_id: t-180618
   teiginys: 'Vytautas mirė 1430 m. spalio 30 d. Trakuose, o jo palaikai buvo iškilmingai palaidoti Vilniuje.'
   pagrindžia:
-    - c-029
+    - c-026
 
 <a id="claim-t-180619"></a>
-- t-034
+- t-032
   global_id: t-180619
   teiginys: 'Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų.'
   pagrindžia:
-    - c-059
-
-<a id="claim-t-180620"></a>
-- t-035
-  global_id: t-180620
-  teiginys: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
-  pagrindžia:
-    - c-009
+    - c-055
 
 <a id="claim-t-180621"></a>
-- t-036
+- t-033
   global_id: t-180621
   teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos valstybės reikalus.'
   pagrindžia:
-    - c-026
+    - c-024
 
 <a id="claim-t-180622"></a>
-- t-037
+- t-034
   global_id: t-180622
   teiginys: 'Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams.'
   pagrindžia:
-    - c-014
+    - c-012
 
 <a id="claim-t-180623"></a>
-- t-038
+- t-035
   global_id: t-180623
   teiginys: 'Jogaila atleido Vytautui ir jo šalininkams, paėmė ištikimybės priesaiką ir grąžino Vytautui Trakus bei Gardiną.'
   pagrindžia:
-    - c-042
+    - c-039
 
 <a id="claim-t-180624"></a>
-- t-039
+- t-036
   global_id: t-180624
   teiginys: 'Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus.'
   pagrindžia:
-    - c-038
+    - c-035
 
 <a id="claim-t-180625"></a>
-- t-040
+- t-037
   global_id: t-180625
-  teiginys: 'Surinkęs Žemaičiuose gausų kovotojų būrį, Vytautas su magistru Zollneriu traukė prie Skirgailos valdomų Trakų.'
+  teiginys: 'Vytautas su magistru Zollneriu, surinkęs Žemaičiuose gausų kovotojų būrį, traukė prie Skirgailos valdomų Trakų.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-180626"></a>
-- t-041
+- t-038
   global_id: t-180626
   teiginys: '1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-180627"></a>
-- t-042
+- t-039
   global_id: t-180627
   teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje.'
   pagrindžia:
-    - c-016
+    - c-014
 
 <a id="claim-t-180628"></a>
-- t-043
+- t-040
   global_id: t-180628
-  teiginys: 'Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
+  teiginys: 'Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, žygiavo į Trakus.'
   pagrindžia:
-    - c-013
+    - c-011
 
 <a id="claim-t-180629"></a>
-- t-044
+- t-041
   global_id: t-180629
   teiginys: '1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.'
   pagrindžia:
-    - c-023
+    - c-021
 
 <a id="claim-t-180630"></a>
-- t-045
+- t-042
   global_id: t-180630
   teiginys: 'Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
   pagrindžia:
-    - c-037
+    - c-034
 
 <a id="claim-t-180631"></a>
-- t-046
+- t-043
   global_id: t-180631
   teiginys: 'Prie Trakų atvykęs Kęstutis rado Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-180632"></a>
-- t-047
+- t-044
   global_id: t-180632
   teiginys: 'Ežerų apsupta Trakų pilis buvo minima kaip vienintelė didžiojo kunigaikščio buveinė ir sostinė.'
   pagrindžia:
-    - c-031
-
-<a id="claim-t-180633"></a>
-- t-048
-  global_id: t-180633
-  teiginys: 'Trakuose Žygimanto sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį jis buvo nužudytas Trakų pilyje.'
-  pagrindžia:
-    - c-060
-
-<a id="claim-t-180634"></a>
-- t-049
-  global_id: t-180634
-  teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.'
-  pagrindžia:
-    - c-058
-
-<a id="claim-t-180636"></a>
-- t-050
-  global_id: t-180636
-  teiginys: 'Atgausimus Trakus, Gardiną ir kitas žemes Vytautas turėjo valdyti kaip Ordino vasalas.'
-  pagrindžia:
     - c-028
 
-<a id="claim-t-180637"></a>
-- t-051
-  global_id: t-180637
-  teiginys: 'Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.'
-  pagrindžia:
-    - c-017
-
-<a id="claim-t-180639"></a>
-- t-052
-  global_id: t-180639
-  teiginys: 'Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.'
-  pagrindžia:
-    - c-045
-
-<a id="claim-t-180640"></a>
-- t-053
-  global_id: t-180640
-  teiginys: 'Pirmieji vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.'
-  pagrindžia:
-    - c-007
-
-<a id="claim-t-180642"></a>
-- t-055
-  global_id: t-180642
-  teiginys: 'Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo.'
-  pagrindžia:
-    - c-025
-
-<a id="claim-t-180643"></a>
-- t-056
-  global_id: t-180643
-  teiginys: 'Toliau planavo pulti Trakų - Vilniaus kryptimi.'
-  pagrindžia:
-    - c-013
-
-<a id="claim-t-180645"></a>
-- t-058
-  global_id: t-180645
-  teiginys: 'Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
-  pagrindžia:
-    - c-018
-
-<a id="claim-t-180647"></a>
-- t-060
-  global_id: t-180647
-  teiginys: 'Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą.'
+<a id="claim-t-180633"></a>
+- t-045
+  global_id: t-180633
+  teiginys: 'Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.'
   pagrindžia:
     - c-056
 
+<a id="claim-t-180634"></a>
+- t-046
+  global_id: t-180634
+  teiginys: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.'
+  pagrindžia:
+    - c-054
+
+<a id="claim-t-180636"></a>
+- t-047
+  global_id: t-180636
+  teiginys: 'Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.'
+  pagrindžia:
+    - c-025
+
+<a id="claim-t-180637"></a>
+- t-048
+  global_id: t-180637
+  teiginys: 'Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.'
+  pagrindžia:
+    - c-015
+
+<a id="claim-t-180639"></a>
+- t-049
+  global_id: t-180639
+  teiginys: 'Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.'
+  pagrindžia:
+    - c-042
+
+<a id="claim-t-180642"></a>
+- t-051
+  global_id: t-180642
+  teiginys: 'Švitrigaila daug kartų puolė Žygimantą ir kartą pasiekė Vilnių bei Trakus, tačiau nieko nelaimėjo.'
+  pagrindžia:
+    - c-023
+
+<a id="claim-t-180643"></a>
+- t-052
+  global_id: t-180643
+  teiginys: 'Žygimantas Kęstutaitis, gavęs pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
+  pagrindžia:
+    - c-011
+
+<a id="claim-t-180645"></a>
+- t-054
+  global_id: t-180645
+  teiginys: 'Rugpjūčio 3 d. Kęstučiui su Vytautu ir Liubartu atvykus prie Trakų, Jogailos pusėje jau buvo Livonijos kryžiuočiai.'
+  pagrindžia:
+    - c-016
+
+<a id="claim-t-180647"></a>
+- t-056
+  global_id: t-180647
+  teiginys: 'Islandų keliautojas Snorro prie Vilniaus, Trakų ir kitų miestų rado savo genties naujakurių ir suprato jų kalbą.'
+  pagrindžia:
+    - c-052
+
 <a id="claim-t-180648"></a>
-- t-061
+- t-057
   global_id: t-180648
   teiginys: '1377 m. birželio pabaigoje pakeliui į Vilnių buvo sudegintas Trakų miestas, bet pilys dėl Kęstučio gynybos neužimtos.'
   pagrindžia:
-    - c-035
+    - c-032
 
 <a id="claim-t-180649"></a>
-- t-062
+- t-058
   global_id: t-180649
   teiginys: 'Trakai greitai buvo prarasti, kai Vytauto ir kryžiuočių įgula po 40 dienų apgulties pasidavė Jogailai ir Skirgailai.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-180651"></a>
-- t-064
+- t-060
   global_id: t-180651
   teiginys: 'Trakų pilis, apsupta ežerų, buvo didžiojo kunigaikščio buveinė ir sostinė.'
   pagrindžia:
-    - c-031
+    - c-028
 
 <a id="claim-t-180652"></a>
-- t-065
+- t-061
   global_id: t-180652
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.'
   pagrindžia:
-    - c-034
+    - c-031
 
 <a id="claim-t-180653"></a>
-- t-066
+- t-062
   global_id: t-180653
   teiginys: 'Apie 1432 m. rugpjūčio 28 d. Žygimantas užėmė Vilnių ir Trakus.'
   pagrindžia:
-    - c-020
+    - c-018
 
 <a id="claim-t-180656"></a>
-- t-067
+- t-063
   global_id: t-180656
   teiginys: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   pagrindžia:
-    - c-022
+    - c-020
 
 <a id="claim-t-180657"></a>
-- t-068
+- t-064
   global_id: t-180657
   teiginys: 'Vytauto laikais Trakų žemėje buvo gausu dvarų ir ūkio centrų, nes ji buvo labiau apgyventa ir arčiau valdovo būstinės.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-180658"></a>
-- t-069
-  global_id: t-180658
-  teiginys: 'Švitrigaila daug kartų puolė Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis nieko nelaimėdavo.'
-  pagrindžia:
-    - c-025
-
 <a id="claim-t-180659"></a>
-- t-070
+- t-065
   global_id: t-180659
   teiginys: 'To žygio metu paimti karaimai, kaip spėjama, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
-    - c-063
+    - c-059
 
 <a id="claim-t-180660"></a>
-- t-071
+- t-066
   global_id: t-180660
   teiginys: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.'
   pagrindžia:
-    - c-024
+    - c-022
 
 <a id="claim-t-180661"></a>
-- t-072
+- t-067
   global_id: t-180661
-  teiginys: '1655 m. rugpjūčio 7 d. rusai ir jų sąjungininkai kazokai užėmė Vilnių, o netrukus buvo užimti Trakai ir Kaunas.'
+  teiginys: '1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.'
   pagrindžia:
-    - c-062
+    - c-058
 
 <a id="claim-t-180662"></a>
-- t-073
+- t-068
   global_id: t-180662
   teiginys: 'Atgautus Trakus, Gardiną ir kitas tėviškės žemes Vytautas turėjo valdyti kaip Ordino vasalas.'
   pagrindžia:
-    - c-036
+    - c-033
 
 <a id="claim-t-180663"></a>
-- t-074
+- t-069
   global_id: t-180663
   teiginys: 'Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete.'
   pagrindžia:
-    - c-033
+    - c-030
 
 <a id="claim-t-180664"></a>
-- t-075
+- t-070
   global_id: t-180664
   teiginys: '1377 m. birželį Ordino kariuomenė sudegino Trakų miestą, bet dėl Kęstučio gynybos nepajėgė užimti pilių.'
   pagrindžia:
-    - c-035
+    - c-032
 
 <a id="claim-t-180665"></a>
-- t-076
+- t-071
   global_id: t-180665
   teiginys: 'Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.'
   pagrindžia:
-    - c-046
+    - c-043
 
 <a id="claim-t-180666"></a>
-- t-077
+- t-072
   global_id: t-180666
   teiginys: 'XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės.'
   pagrindžia:
-    - c-016
+    - c-014
 
 <a id="claim-t-180669"></a>
-- t-080
+- t-075
   global_id: t-180669
   teiginys: 'Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.'
   pagrindžia:
-    - c-020
+    - c-018
 
 <a id="claim-t-180670"></a>
-- t-081
+- t-076
   global_id: t-180670
   teiginys: '1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus.'
   pagrindžia:
-    - c-050
+    - c-046
 
 <a id="claim-t-180671"></a>
-- t-082
+- t-077
   global_id: t-180671
   teiginys: 'Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.'
   pagrindžia:
-    - c-011
+    - c-009
 
 <a id="claim-t-180672"></a>
-- t-083
+- t-078
   global_id: t-180672
   teiginys: '1412 m. per Kalėdas Makra jau buvo pas Vytautą jo puošnioje salos pilyje Trakuose.'
   pagrindžia:
-    - c-043
+    - c-040
 
 <a id="claim-t-180673"></a>
-- t-084
+- t-079
   global_id: t-180673
   teiginys: 'Vytautas būdamas Trakuose nerimavo dėl išdavystės ir norėjo ten pasilikti dar dvylika savaičių.'
   pagrindžia:
-    - c-049
+    - c-045
 
 <a id="claim-t-180674"></a>
-- t-085
+- t-080
   global_id: t-180674
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.'
   pagrindžia:
-    - c-034
+    - c-031
 
 <a id="claim-t-185159"></a>
-- t-087
+- t-082
   global_id: t-185159
   teiginys: 'Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos.'
   pagrindžia:
-    - c-066
+    - c-062
 
 <a id="claim-t-185160"></a>
-- t-088
+- t-083
   global_id: t-185160
   teiginys: 'Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.'
   pagrindžia:
-    - c-067
+    - c-063
 
 <a id="claim-t-185161"></a>
-- t-089
+- t-084
   global_id: t-185161
-  teiginys: 'Žymiausieji Lietuvos didikai paliko karalių bei valstybės reikalus ir skubiai pasitraukė į Trakus.'
+  teiginys: 'Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus.'
   pagrindžia:
-    - c-068
+    - c-064
 
 <a id="claim-t-185162"></a>
-- t-090
+- t-085
   global_id: t-185162
   teiginys: 'Karalius iš Zaberezinskio atėmė Trakų vaivadiją.'
   pagrindžia:
-    - c-069
+    - c-065
 
 <a id="claim-t-185163"></a>
-- t-091
+- t-086
   global_id: t-185163
   teiginys: 'Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.'
+  pagrindžia:
+    - c-066
+
+<a id="claim-t-187660"></a>
+- t-087
+  global_id: t-187660
+  teiginys: 'Didysis kunigaikštis Kęstutis valdė Trakus ir Žemaičių žemę.'
+  pagrindžia:
+    - c-067
+
+<a id="claim-t-187661"></a>
+- t-088
+  global_id: t-187661
+  teiginys: 'Iš Smolensko grįžęs didysis kunigaikštis Skirgaila pradėjo kunigaikščiauti Trakuose.'
+  pagrindžia:
+    - c-068
+
+<a id="claim-t-187662"></a>
+- t-089
+  global_id: t-187662
+  teiginys: 'Kęstučiui buvo suteikta valdžia Trakuose.'
+  pagrindžia:
+    - c-069
+
+<a id="claim-t-187663"></a>
+- t-090
+  global_id: t-187663
+  teiginys: 'Kunigaikštis Jogaila be Kęstučio žinios užėmė Trakus.'
   pagrindžia:
     - c-070
 
@@ -637,7 +631,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-068
+    - t-064
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -650,7 +644,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-025
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -675,7 +669,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-062
+    - t-058
 
 - c-005
   santrauka: '1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose.'
@@ -688,7 +682,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-038
 
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -702,24 +696,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-043
 
 - c-007
-  santrauka: 'Pirmieji vaivadų ir kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pirmieji tokie vaivadų ir
-    kaštelionų urėdai buvo įsteigti Vilniuje ir Trakuose. Buvo nu-
-    matyta ir daugiau jų įsteigti, tačiau iki XVI amžiaus jų dau-
-    giau neatsirado, todėl visos kitos sritys ir toliau buvo valdomos
-    vietininkų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-053
-
-- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000),
@@ -730,28 +709,11 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
-    - t-040
-    - t-012
+    - t-024
+    - t-037
+    - t-011
 
-- c-009
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
-    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-    Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir
-    persekiojamų Rusijoje – antrojoje XVII a. pusėje jie kėlėsi į LDK.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-035
-
-- c-010
+- c-008
   santrauka: 'Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -783,9 +745,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-028
 
-- c-011
+- c-009
   santrauka: 'Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -800,9 +762,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-082
+    - t-077
 
-- c-012
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tikrųjų
@@ -820,10 +782,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
-    - t-054
+    - t-022
+    - t-050
 
-- c-013
+- c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Toliau planavo pulti Trakų -
@@ -840,10 +802,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-056
-    - t-043
+    - t-052
+    - t-040
 
-- c-014
+- c-012
   santrauka: 'Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -868,10 +830,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
-    - t-019
+    - t-034
+    - t-017
 
-- c-015
+- c-013
   santrauka: 'Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -905,10 +867,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
-    - t-006
+    - t-021
+    - t-005
 
-- c-016
+- c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^244) II skyrius: valstybės iškilimas
@@ -924,10 +886,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
-    - t-077
+    - t-039
+    - t-072
 
-- c-017
+- c-015
   santrauka: 'Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -968,9 +930,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-051
+    - t-048
 
-- c-018
+- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visas savo
@@ -983,11 +945,11 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-    - t-079
-    - t-058
+    - t-014
+    - t-074
+    - t-054
 
-- c-019
+- c-017
   santrauka: 'Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1003,7 +965,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   pagrindžia:
     - t-004
 
-- c-020
+- c-018
   santrauka: 'Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1036,10 +998,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-080
-    - t-066
+    - t-075
+    - t-062
 
-- c-021
+- c-019
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     |
@@ -1051,10 +1013,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
-    - t-057
+    - t-010
+    - t-053
 
-- c-022
+- c-020
   santrauka: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1076,9 +1038,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-067
+    - t-063
 
-- c-023
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     III KNYGA
@@ -1100,10 +1062,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-044
-    - t-021
+    - t-041
+    - t-019
 
-- c-024
+- c-022
   santrauka: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1128,9 +1090,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-071
+    - t-066
 
-- c-025
+- c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Ukmergės mūšis** (1435 **m.).** Švitrigaila daug kartų puolė
@@ -1142,10 +1104,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-069
-    - t-055
+    - t-051
 
-- c-026
+- c-024
   santrauka: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1164,27 +1125,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
-    - t-036
+    - t-008
+    - t-033
 
-- c-027
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva tuo metu jau
-    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
-    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
-    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
-    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
-    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
-    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
-    buvę Voluinė ir Haličas, Kijevas, Pskovas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
-- c-028
+- c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Siena nuo Livonijos iki Ne­
@@ -1198,10 +1142,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-078
-    - t-050
+    - t-073
+    - t-047
 
-- c-029
+- c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
@@ -1217,10 +1161,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
-    - t-029
+    - t-031
+    - t-027
 
-- c-030
+- c-027
   santrauka: '1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1253,10 +1197,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
-    - t-010
+    - t-023
+    - t-009
 
-- c-031
+- c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Net pirkliai negalėjo jaustis saugūs dėl
@@ -1277,10 +1221,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-064
-    - t-047
+    - t-060
+    - t-044
 
-- c-032
+- c-029
   santrauka: '1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1300,7 +1244,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   pagrindžia:
     - t-001
 
-- c-033
+- c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -1327,9 +1271,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-074
+    - t-069
 
-- c-034
+- c-031
   santrauka: '1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1350,10 +1294,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-085
-    - t-065
+    - t-080
+    - t-061
 
-- c-035
+- c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pra­
@@ -1369,10 +1313,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-061
-    - t-075
+    - t-057
+    - t-070
 
-- c-036
+- c-033
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tos nepaliaujamos kovos yra labiausiai rišamos su Kęstučio
@@ -1386,9 +1330,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-073
+    - t-068
 
-- c-037
+- c-034
   santrauka: 'Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1402,9 +1346,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-045
+    - t-042
 
-- c-038
+- c-035
   santrauka: 'Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1417,9 +1361,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-036
 
-- c-039
+- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
@@ -1435,9 +1379,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-030
 
-- c-040
+- c-037
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jono pilį)^21. Berods, to žygio metu paim­
@@ -1447,9 +1391,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-013
 
-- c-041
+- c-038
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad
@@ -1471,9 +1415,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-029
 
-- c-042
+- c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
@@ -1490,9 +1434,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-035
 
-- c-043
+- c-040
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet visai
@@ -1504,9 +1448,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-083
+    - t-078
 
-- c-044
+- c-041
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada 1379 metais liepos mėn. pabaigoje Kęstutis su Ordino
@@ -1522,10 +1466,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-020
 
-- c-045
-  santrauka: 'Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.'
+- c-042
+  santrauka: 'Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvių kalboje
@@ -1545,9 +1489,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-052
+    - t-049
 
-- c-046
+- c-043
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo pačiu bus aptarta ir tų santykių forma,
@@ -1562,25 +1506,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-    - t-076
+    - t-006
+    - t-071
 
-- c-047
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
-    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
-    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
-    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
-    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
-    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-048
+- c-044
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     223
@@ -1601,9 +1530,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-059
+    - t-055
 
-- c-049
+- c-045
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pats Vytautas užtat
@@ -1618,9 +1547,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-084
+    - t-079
 
-- c-050
+- c-046
   santrauka: '1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1639,9 +1568,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-081
+    - t-076
 
-- c-051
+- c-047
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 210
@@ -1665,9 +1594,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-026
 
-- c-052
+- c-048
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos metraščio liudijimu, „Lietuva
@@ -1685,7 +1614,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   pagrindžia:
     - t-003
 
-- c-053
+- c-049
   santrauka: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1700,9 +1629,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-015
 
-- c-054
+- c-050
   santrauka: 'Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1715,9 +1644,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-016
 
-- c-055
+- c-051
   santrauka: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1766,9 +1695,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-056
+- c-052
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -1785,9 +1714,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-060
+    - t-056
 
-- c-057
+- c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kivirčai tarp brolių da­
@@ -1804,9 +1733,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-063
+    - t-059
 
-- c-058
+- c-054
   santrauka: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1820,9 +1749,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-049
+    - t-046
 
-- c-059
+- c-055
   santrauka: 'Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1844,10 +1773,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-032
 
-- c-060
-  santrauka: 'Trakuose Žygimanto sušauktas seimas paspartino kruviną susidorojimą, o 1440 m. balandį jis buvo nužudytas Trakų pilyje.'
+- c-056
+  santrauka: 'Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To­
@@ -1866,9 +1795,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
+    - t-045
 
-- c-061
+- c-057
   santrauka: 'Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1886,10 +1815,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-018
 
-- c-062
-  santrauka: '1655 m. rugpjūčio 7 d. rusai ir jų sąjungininkai kazokai užėmė Vilnių, o netrukus buvo užimti Trakai ir Kaunas.'
+- c-058
+  santrauka: '1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tais pa-
@@ -1903,9 +1832,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-072
+    - t-067
 
-- c-063
+- c-059
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
@@ -1915,9 +1844,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-070
+    - t-065
 
-- c-064
+- c-060
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie liudytojų, tuo metu su mumis buvusių:
@@ -1958,9 +1887,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-012
 
-- c-065
+- c-061
   santrauka: 'Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1977,9 +1906,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-086
+    - t-081
 
-- c-066
+- c-062
   santrauka: 'Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1996,9 +1925,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-087
+    - t-082
 
-- c-067
+- c-063
   santrauka: 'Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2019,10 +1948,10 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-088
+    - t-083
 
-- c-068
-  santrauka: 'Žymiausieji Lietuvos didikai paliko karalių bei valstybės reikalus ir skubiai pasitraukė į Trakus.'
+- c-064
+  santrauka: 'Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Kaip brolį palaikė jį ir Jogaila. Vos šitai pajutę, žy­
@@ -2038,9 +1967,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-089
+    - t-084
 
-- c-069
+- c-065
   santrauka: 'Karalius iš Zaberezinskio atėmė Trakų vaivadiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2064,9 +1993,9 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-090
+    - t-085
 
-- c-070
+- c-066
   santrauka: 'Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2088,4 +2017,89 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-091
+    - t-086
+
+- c-067
+  santrauka: 'Didysis kunigaikštis Kęstutis valdė Trakus ir Žemaičių žemę.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-087
+
+- c-068
+  santrauka: 'Iš Smolensko grįžęs didysis kunigaikštis Skirgaila pradėjo kunigaikščiauti Trakuose.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Jį pasodino Smolenske di­
+    džiuoju kunigaikščiu1 6 , kadangi kunigaikščio Jurgio
+    žmona buvo Skirgailos vyresniosios sesers duktė.
+    Ir, nuėjęs nuo Smolensko miesto, didysis kunigaikš­
+    tis Skirgaila parvyko į savo Lietuvos žemę ir ėmė ku-
+    nigaikščiauti Trakuose, o į Vilnių karalius Jogaila at­
+    siuntė savo seniūną iš Lenkijos.
+    31.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-088
+
+- c-069
+  santrauka: 'Kęstučiui buvo suteikta valdžia Trakuose.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    . 2 0
+
+    ## Puslapis 171
+
+    PRIEDAI
+
+    ## Puslapis 172
+
+    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
+    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
+    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
+    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
+    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
+    nutį išvyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-089
+
+- c-070
+  santrauka: 'Kunigaikštis Jogaila be Kęstučio žinios užėmė Trakus.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    180
+
+    ## Puslapis 174
+
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-090

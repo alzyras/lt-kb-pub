@@ -52,5 +52,4 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/separatizmas]]

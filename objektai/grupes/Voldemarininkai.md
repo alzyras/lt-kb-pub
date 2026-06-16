@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Voldemarininkai šaltinyje veikia kaip ultraradikali politinė grupuotė, prisidėjusi prie opozicinės „ašies“ pasitarimų. 1939 m. kontekste jie kartu su kitomis grupėmis kaltino valdžią ir ragino jėga atsiimti Vilnių.
+Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų. Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi. Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
 
 ## Pavadinimai šaltiniuose
 
@@ -57,7 +57,7 @@ Politinė grupuotė.
 <a id="claim-t-45270"></a>
 - t-002
   global_id: t-45270
-  teiginys: 'Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai dėjosi prie Smetonos valdymo opozicinių jėgų.'
+  teiginys: 'Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi.'
   pagrindžia:
     - c-001
 

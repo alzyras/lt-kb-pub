@@ -9,15 +9,15 @@ date_start: '1600'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - kunigaikštis
   - popiežius
   - vyskupas
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
 ---
 # Klemensas VIII
 
@@ -26,7 +26,6 @@ periodo_grupes:
 Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elektorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­ tais.
 
 ## Teiginiai
-
 <a id="claim-t-87757"></a>
 - t-001
   global_id: t-87757
@@ -35,7 +34,6 @@ Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popi
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Klemensas VIII buvo vienas iš popiežių, kurių rinkimuose elektoriaus teisėmis dalyvavo Jurgis Radvila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

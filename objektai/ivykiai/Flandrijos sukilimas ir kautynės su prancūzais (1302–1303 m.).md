@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir, suėję į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. Dusburgietis teigia, kad tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys prarado labai daug užmuštaisiais (Ptol.
+Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų. Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.
 
 ## Laikotarpis ir datos
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-62781"></a>
 - t-002
   global_id: t-62781
-  teiginys: 'Per prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.'
+  teiginys: 'Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.'
   pagrindžia:
     - c-002
 
@@ -79,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Per prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.'
+  santrauka: 'Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys

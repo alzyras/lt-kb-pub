@@ -24,7 +24,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilusio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų partija. Pilsudskis – buvusios. Pilsudskis nebuvo kalbinio lenkinimo šalininkas, bet nerimtai žiūrėjo ir į lietuvių pretenzijas kurti nepriklausomą Lietuvą lietuvių istorinėje erdvėje, juolab kad daugelyje tos erdvės pakraščių (kur ir buvo jo gimtinė) lietuvių kalba buvo beprarandanti savo.
+Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai. Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją. Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.
 
 ## Teiginiai
 
@@ -45,28 +45,28 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 <a id="claim-t-101667"></a>
 - t-003
   global_id: t-101667
-  teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
+  teiginys: 'Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-101669"></a>
 - t-004
   global_id: t-101669
-  teiginys: 'Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją šalininkai, nevengę ir teroristinių veiksmų.'
+  teiginys: 'Juzefo Pilsudskio šalininkai rėmė ryžtingą kovą pirmiausia prieš Rusiją ir nevengė teroristinių veiksmų.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-101670"></a>
 - t-005
   global_id: t-101670
-  teiginys: 'Juzefo Pilsudskio šalininkai lenkai 1919 m. siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
+  teiginys: '1919 m. Juzefo Pilsudskio šalininkai tarp lenkų siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-101671"></a>
 - t-006
   global_id: t-101671
-  teiginys: 'Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
+  teiginys: 'Juzefas Pilsudskis Vilniaus užėmimą motyvavo vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   pagrindžia:
     - c-007
 
@@ -101,7 +101,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Juzefo Pilsudskio šalininkai lenkai 1919 m. siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
+  santrauka: '1919 m. Juzefo Pilsudskio šalininkai tarp lenkų siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Delegacija
@@ -223,6 +223,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - t-010
 
 - c-007
+  santrauka: 'Juzefas Pilsudskis Vilniaus užėmimą motyvavo vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi iki XX a. nė viena pusė neneigė,
@@ -241,6 +242,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
     - t-006
 
 - c-008
+  santrauka: 'Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
@@ -280,7 +282,6 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/asmenys/J. Pilsudskis]]

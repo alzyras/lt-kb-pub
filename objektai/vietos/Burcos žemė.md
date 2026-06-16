@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją. Dusburgietis teigia, kad burcos žemė Transilvanijoje.
+Brolio Hermano vadovavimo metais Teutonų ordinas Vengrijoje gavo vadinamąją Burcos žemę. Burcos žemė Transilvanijoje.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
 <a id="claim-t-58691"></a>
 - t-002
   global_id: t-58691
-  teiginys: 'Dusburgietis teigia, kad burcos žemė Transilvanijoje.'
+  teiginys: 'Burcos žemė Transilvanijoje.'
   pagrindžia:
     - c-002
 
@@ -59,6 +59,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
     - t-001
 
 - c-002
+  santrauka: 'Burcos žemė Transilvanijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11

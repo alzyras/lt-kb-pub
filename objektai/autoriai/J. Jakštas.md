@@ -22,21 +22,21 @@ periodo_grupes:
 
 ## Santrauka
 
-Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
+J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.
 
 ## Teiginiai
 
 <a id="claim-t-100099"></a>
 - t-001
   global_id: t-100099
-  teiginys: 'J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis viduramžių istorijoje, kurią 1940–1943 m. dėstė Vilniaus universitete docento teisėmis.'
+  teiginys: 'J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis viduramžių istorijoje, kurią 1940–1943 m. dėstė Vilniaus universitete docento teisėmis.'
+  santrauka: 'J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.

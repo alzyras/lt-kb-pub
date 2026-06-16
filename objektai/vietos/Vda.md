@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių. Dusburgietis teigia, kad 286 Jer.— Bda, tai — upė Vda.
+Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda. Vyslos krante, žemiau Kulmo, prie upės Vda žiočių. Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 
 ## Teiginiai
 
@@ -28,13 +28,14 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 <a id="claim-t-58653"></a>
 - t-002
   global_id: t-58653
-  teiginys: 'Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
+  teiginys: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     285 D.— Swecza, Svečė (Świecie)—kair. Vyslos krante, žemiau Kulmo, prie upės Vda
@@ -62,7 +63,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
     - t-001
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
+  santrauka: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vyslos krante, žemiau Kulmo, prie upės Vda

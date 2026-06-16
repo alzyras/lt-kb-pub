@@ -54,6 +54,7 @@ Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Alg
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Karūna]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Netimeras]]

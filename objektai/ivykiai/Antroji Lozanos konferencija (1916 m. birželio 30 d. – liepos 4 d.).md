@@ -9,10 +9,10 @@ date_start: '1916'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - ivykis
 amziai:
   - 'XX'
+tags:
+  - ivykis
 ---
 # Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)
 
@@ -33,17 +33,18 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01577"></a>
 - t-001
   global_id: t-01577
   teiginys: 'Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šita konferencija tegvildeno propagandos organizacijos
@@ -54,9 +55,11 @@ Nenurodyta
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

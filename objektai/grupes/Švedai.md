@@ -25,7 +25,7 @@ amziai:
 
 ## Santrauka
 
-Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici). ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą. 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
+Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje. XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą. 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
 
 ## Teiginiai
 
@@ -50,22 +50,15 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   pagrindžia:
     - c-003
 
-<a id="claim-t-75061"></a>
-- t-004
-  global_id: t-75061
-  teiginys: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-75062"></a>
-- t-005
+- t-004
   global_id: t-75062
   teiginys: '1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-75063"></a>
-- t-006
+- t-005
   global_id: t-75063
   teiginys: 'Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici.'
   pagrindžia:
@@ -85,7 +78,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-002
   santrauka: 'Švedai sugriovė nedidelius Lietuvos uostus Palangoje ir Šventojoje.'
@@ -107,7 +100,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
     - t-001
 
 - c-003
@@ -127,7 +119,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
     - t-003
 
 - c-004
@@ -143,7 +135,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
     - t-002
 
 ## Ryšiai
@@ -166,7 +158,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/asmenys/Ediga]]
 - [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
 - [[objektai/grupes/Estai]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/asmenys/Georgas Fridrikas Valdekas]]
 - [[objektai/asmenys/Gustavas Adolfas]]
 - [[objektai/asmenys/Henrikas Vrede]]
@@ -181,8 +172,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/posakiai/Jūsų Karališkoji Didenybe, greičiau išvysite Dauguvą aukštyn tekančią]]
 - [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją]]
 - [[objektai/asmenys/Karina Nilsdotter]]
-- [[objektai/ivykiai/Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)]]
-- [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/asmenys/Karolis IX]]
@@ -198,7 +187,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija|Kėdainių sutarties sudarymas su Švedija (sutartis)]]
 - [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.)]]
 - [[objektai/ivykiai/Lietuvos Brastos apsiaustis (1657 m.)]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Liuteronai]]
@@ -207,8 +195,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/ivykiai/Olyvos taikos sutarties pasirašymas (1660 m. gegužės 3 d.)]]
-- [[objektai/asmenys/P. Snayers]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/autoriai/Peringskioeld]]
 - [[objektai/asmenys/Petras I Didysis]]
@@ -218,11 +204,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/autoriai/Rimbertas]]
 - [[objektai/autoriai/Rimberto, Rimbertas]]
 - [[objektai/grupes/Saksų dinastija]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
 - [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Stanislovas Leščinskis]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/T. Dambrava]]
@@ -237,15 +220,10 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Vazų dinastija]]
 - [[objektai/zodynas/Vidivarijai]]
 - [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale]]
-- [[objektai/ivykiai/Vienos išvadavimas (1683 m.)]]
-- [[objektai/ivykiai/Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)]]
 - [[objektai/asmenys/Vladislovas Vaza]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Walenrodto]]
-- [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
 - [[objektai/zodynas/arkebuzieriai]]
-- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]
 - [[objektai/zodynas/karakolė]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/raitarai]]
@@ -260,7 +238,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
 - [[objektai/posakiai/„tvanas“]]
-- [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
 - [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
 - [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]
 - [[objektai/zodynas/rokošas]]

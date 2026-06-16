@@ -9,12 +9,12 @@ date_start: '1939'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+tags:
+  - autorius
 ---
 # Ig. Jonynas
 
@@ -23,7 +23,6 @@ periodo_grupes:
 Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
 
 ## Teiginiai
-
 <a id="claim-t-30648"></a>
 - t-001
   global_id: t-30648
@@ -32,7 +31,6 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

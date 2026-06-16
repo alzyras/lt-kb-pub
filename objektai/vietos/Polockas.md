@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -14,6 +15,8 @@ datos:
   - '1392 m.'
   - '1396 m.'
   - '1470 m.'
+  - '1492 m.'
+  - '1504 m.'
   - '1580 m.'
 date_start: '1183'
 date_end: '1580'
@@ -32,394 +35,373 @@ amziai:
 
 ## Santrauka
 
-Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis artino į aisčių kraštą. Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas. Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.
+1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes. Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką. Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu.
 
 ## Teiginiai
 
-<a id="claim-t-180423"></a>
-- t-001
-  global_id: t-180423
-  teiginys: 'Stepono Batoro laikais po karų su Maskva buvo atgautas Polockas ir visa Livonija.'
-  pagrindžia:
-    - c-016
-
 <a id="claim-t-180424"></a>
-- t-002
+- t-001
   global_id: t-180424
   teiginys: '1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.'
   pagrindžia:
-    - c-018
+    - c-015
 
 <a id="claim-t-180425"></a>
-- t-003
+- t-002
   global_id: t-180425
   teiginys: 'Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką.'
   pagrindžia:
-    - c-040
+    - c-036
 
 <a id="claim-t-180426"></a>
-- t-004
+- t-003
   global_id: t-180426
   teiginys: 'Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu.'
   pagrindžia:
-    - c-015
+    - c-013
 
 <a id="claim-t-180427"></a>
-- t-005
+- t-004
   global_id: t-180427
   teiginys: 'Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-180428"></a>
-- t-006
+- t-005
   global_id: t-180428
   teiginys: '1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos.'
   pagrindžia:
-    - c-023
+    - c-020
 
 <a id="claim-t-180429"></a>
-- t-007
+- t-006
   global_id: t-180429
   teiginys: 'Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.'
   pagrindžia:
-    - c-011
-
-<a id="claim-t-180432"></a>
-- t-009
-  global_id: t-180432
-  teiginys: 'Stepono Batoro laikais per karus su Maskva buvo atgautas Polockas ir visa Livonija.'
-  pagrindžia:
-    - c-016
+    - c-009
 
 <a id="claim-t-180433"></a>
-- t-010
+- t-008
   global_id: t-180433
   teiginys: 'Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštija.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-180434"></a>
-- t-011
+- t-009
   global_id: t-180434
   teiginys: 'Švitrigaila Polocke įkūrė atramos vietą, iš kurios beveik šešerius metus plito pilietinis karas Lietuvos žemėse.'
   pagrindžia:
-    - c-038
+    - c-034
 
 <a id="claim-t-180435"></a>
-- t-012
+- t-010
   global_id: t-180435
-  teiginys: 'Caras pyko, kad karalius nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų.'
+  teiginys: 'Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų.'
   pagrindžia:
-    - c-013
+    - c-011
 
 <a id="claim-t-180436"></a>
-- t-013
+- t-011
   global_id: t-180436
   teiginys: 'Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino „Rusėnų Biblijos“ knygas.'
   pagrindžia:
-    - c-017
-
-<a id="claim-t-180438"></a>
-- t-014
-  global_id: t-180438
-  teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
-  pagrindžia:
     - c-014
 
-<a id="claim-t-180439"></a>
-- t-015
-  global_id: t-180439
-  teiginys: 'Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi.'
-  pagrindžia:
-    - c-008
-
-<a id="claim-t-180440"></a>
-- t-016
-  global_id: t-180440
-  teiginys: '1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.'
+<a id="claim-t-180438"></a>
+- t-012
+  global_id: t-180438
+  teiginys: 'Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.'
   pagrindžia:
     - c-012
 
+<a id="claim-t-180440"></a>
+- t-013
+  global_id: t-180440
+  teiginys: '1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.'
+  pagrindžia:
+    - c-010
+
 <a id="claim-t-180441"></a>
-- t-017
+- t-014
   global_id: t-180441
   teiginys: 'Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
   pagrindžia:
-    - c-018
+    - c-015
 
 <a id="claim-t-180442"></a>
-- t-018
+- t-015
   global_id: t-180442
   teiginys: 'Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė.'
   pagrindžia:
-    - c-037
+    - c-033
 
 <a id="claim-t-180443"></a>
-- t-019
+- t-016
   global_id: t-180443
   teiginys: 'Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai.'
   pagrindžia:
-    - c-032
+    - c-029
 
 <a id="claim-t-180444"></a>
-- t-020
+- t-017
   global_id: t-180444
   teiginys: 'Strėvos kautynėse dalyvavo būriai iš Polocko, o kautynės baigėsi lietuvių pralaimėjimu.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-180445"></a>
-- t-021
+- t-018
   global_id: t-180445
   teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   pagrindžia:
-    - c-019
+    - c-016
 
 <a id="claim-t-180446"></a>
-- t-022
+- t-019
   global_id: t-180446
   teiginys: 'Polockas pasirinko bendradarbiavimą su Lietuva, kuri jam buvo natūrali gynėja ir sąjungininkė.'
   pagrindžia:
-    - c-034
+    - c-030
 
 <a id="claim-t-180448"></a>
-- t-023
+- t-020
   global_id: t-180448
   teiginys: 'Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės.'
   pagrindžia:
-    - c-025
+    - c-022
 
 <a id="claim-t-180449"></a>
-- t-024
+- t-021
   global_id: t-180449
   teiginys: 'Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.'
   pagrindžia:
     - c-006
 
 <a id="claim-t-180450"></a>
-- t-025
+- t-022
   global_id: t-180450
   teiginys: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   pagrindžia:
-    - c-029
+    - c-026
 
 <a id="claim-t-180451"></a>
-- t-026
+- t-023
   global_id: t-180451
   teiginys: 'Polockui Lietuva buvo natūralus gynėjas ir sąjungininkas.'
   pagrindžia:
-    - c-034
+    - c-030
 
 <a id="claim-t-180452"></a>
-- t-027
+- t-024
   global_id: t-180452
-  teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
+  teiginys: 'Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko.'
   pagrindžia:
-    - c-024
+    - c-021
 
 <a id="claim-t-180453"></a>
-- t-028
+- t-025
   global_id: t-180453
   teiginys: 'Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-180455"></a>
-- t-029
+- t-026
   global_id: t-180455
   teiginys: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   pagrindžia:
-    - c-031
+    - c-028
 
 <a id="claim-t-180456"></a>
-- t-030
+- t-027
   global_id: t-180456
   teiginys: 'Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.'
   pagrindžia:
-    - c-022
+    - c-019
 
 <a id="claim-t-180459"></a>
-- t-032
+- t-029
   global_id: t-180459
   teiginys: '1388 m. Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
   pagrindžia:
-    - c-026
+    - c-023
 
 <a id="claim-t-180460"></a>
-- t-033
+- t-030
   global_id: t-180460
   teiginys: 'Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino psalmyną bei 22 Senojo Testamento knygas.'
   pagrindžia:
-    - c-017
+    - c-014
 
 <a id="claim-t-180462"></a>
-- t-034
+- t-031
   global_id: t-180462
   teiginys: 'Vytenio ir Gedimino brolis Vainys valdė Polocką.'
   pagrindžia:
-    - c-020
+    - c-017
 
 <a id="claim-t-180463"></a>
-- t-035
+- t-032
   global_id: t-180463
   teiginys: 'Strėvos kautynėse dalyvavo būriai iš Polocko, o mūšis baigėsi lietuvių pralaimėjimu.'
   pagrindžia:
-    - c-036
+    - c-032
 
 <a id="claim-t-180464"></a>
-- t-036
+- t-033
   global_id: t-180464
   teiginys: '1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
   pagrindžia:
-    - c-009
+    - c-007
 
 <a id="claim-t-180467"></a>
-- t-038
+- t-035
   global_id: t-180467
   teiginys: 'Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.'
   pagrindžia:
-    - c-030
+    - c-027
 
 <a id="claim-t-180468"></a>
-- t-039
+- t-036
   global_id: t-180468
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-180469"></a>
-- t-040
-  global_id: t-180469
-  teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
-  pagrindžia:
-    - c-033
-
 <a id="claim-t-180470"></a>
-- t-041
+- t-037
   global_id: t-180470
   teiginys: '1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką.'
   pagrindžia:
-    - c-010
+    - c-008
 
 <a id="claim-t-180471"></a>
-- t-042
+- t-038
   global_id: t-180471
   teiginys: 'Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.'
   pagrindžia:
-    - c-027
+    - c-024
 
 <a id="claim-t-180472"></a>
-- t-043
+- t-039
   global_id: t-180472
   teiginys: 'Vainys buvo vienas iš brolių ir valdė Polocką.'
   pagrindžia:
-    - c-020
-
-<a id="claim-t-180473"></a>
-- t-044
-  global_id: t-180473
-  teiginys: '1563 m. pradžioje didelė Maskvos kariuomenė užėmė Polocką - strateginės reikšmės Lietuvos tvirtovę.'
-  pagrindžia:
-    - c-007
+    - c-017
 
 <a id="claim-t-180474"></a>
-- t-045
+- t-040
   global_id: t-180474
   teiginys: '1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį.'
   pagrindžia:
-    - c-010
+    - c-008
 
 <a id="claim-t-180475"></a>
-- t-046
+- t-041
   global_id: t-180475
-  teiginys: 'Skirgaila tuo metu buvo išvykęs į Polocką.'
-  pagrindžia:
-    - c-039
-
-<a id="claim-t-180476"></a>
-- t-047
-  global_id: t-180476
-  teiginys: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas.'
-  pagrindžia:
-    - c-021
-
-<a id="claim-t-180479"></a>
-- t-050
-  global_id: t-180479
-  teiginys: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.'
-  pagrindžia:
-    - c-021
-
-<a id="claim-t-180481"></a>
-- t-052
-  global_id: t-180481
-  teiginys: '1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.'
-  pagrindžia:
-    - c-023
-
-<a id="claim-t-180484"></a>
-- t-055
-  global_id: t-180484
-  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
-  pagrindžia:
-    - c-028
-
-<a id="claim-t-180485"></a>
-- t-056
-  global_id: t-180485
-  teiginys: '1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
-  pagrindžia:
-    - c-026
-
-<a id="claim-t-180486"></a>
-- t-057
-  global_id: t-180486
-  teiginys: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
+  teiginys: 'Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje.'
   pagrindžia:
     - c-035
 
+<a id="claim-t-180476"></a>
+- t-042
+  global_id: t-180476
+  teiginys: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas.'
+  pagrindžia:
+    - c-018
+
+<a id="claim-t-180479"></a>
+- t-045
+  global_id: t-180479
+  teiginys: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.'
+  pagrindžia:
+    - c-018
+
+<a id="claim-t-180481"></a>
+- t-047
+  global_id: t-180481
+  teiginys: '1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos.'
+  pagrindžia:
+    - c-020
+
+<a id="claim-t-180484"></a>
+- t-050
+  global_id: t-180484
+  teiginys: 'Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.'
+  pagrindžia:
+    - c-025
+
+<a id="claim-t-180485"></a>
+- t-051
+  global_id: t-180485
+  teiginys: '1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
+  pagrindžia:
+    - c-023
+
+<a id="claim-t-180486"></a>
+- t-052
+  global_id: t-180486
+  teiginys: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
+  pagrindžia:
+    - c-031
+
 <a id="claim-t-180488"></a>
-- t-059
+- t-054
   global_id: t-180488
   teiginys: 'Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.'
   pagrindžia:
-    - c-040
-
-<a id="claim-t-183075"></a>
-- t-060
-  global_id: t-183075
-  teiginys: 'Polocko kunigaikštija šiaurėje palengva artino savo sienas į aisčių kraštą.'
-  pagrindžia:
-    - c-041
+    - c-036
 
 <a id="claim-t-183076"></a>
-- t-061
+- t-055
   global_id: t-183076
   teiginys: 'Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.'
   pagrindžia:
-    - c-042
+    - c-037
 
 <a id="claim-t-185095"></a>
-- t-062
+- t-056
   global_id: t-185095
   teiginys: 'Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą.'
   pagrindžia:
-    - c-043
+    - c-038
 
 <a id="claim-t-185096"></a>
-- t-063
+- t-057
   global_id: t-185096
   teiginys: 'Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai.'
   pagrindžia:
-    - c-044
+    - c-039
 
 <a id="claim-t-185097"></a>
-- t-064
+- t-058
   global_id: t-185097
   teiginys: 'Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   pagrindžia:
-    - c-045
+    - c-040
+
+<a id="claim-t-187639"></a>
+- t-059
+  global_id: t-187639
+  teiginys: 'Užėmęs Vilnių Kęstutis pasiuntė į Polocką du žmones: vieną į kariuomenę, kitą į miestą.'
+  pagrindžia:
+    - c-041
+
+<a id="claim-t-187640"></a>
+- t-060
+  global_id: t-187640
+  teiginys: 'Didysis kunigaikštis Aleksandras, apžiūrėdamas Rusų žemę, su Elena ir didikais lankėsi Smolenske, Vitebske ir Polocke.'
+  pagrindžia:
+    - c-042
+
+<a id="claim-t-187641"></a>
+- t-061
+  global_id: t-187641
+  teiginys: 'Stanislovas Hlebavičius Polocko vietininku buvo bene nuo 1502 m.'
+  pagrindžia:
+    - c-043
 
 ## Reikšmingi paminėjimai
 
@@ -434,7 +416,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-036
 
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -449,7 +431,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-017
 
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -464,7 +446,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -478,7 +460,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-025
 
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -491,7 +473,7 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
 - c-006
   santrauka: 'Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.'
@@ -507,35 +489,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-021
 
 - c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1563 m. pradžioje didelė Maskvos kariuomenė užėmė Polocką - strateginės reikšmės Lietuvos
-    tvirtovę. Kelias į Lietuvos gilumą tapo atviras. 1564 m. dvi didelės rusų kariaunos pajudėjo Vilniaus link. Lietuvos
-    kariuomenė sugebėjo jas abi sumušti, dar nespėjus joms susijungti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-044
-
-- c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
-    lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir
-    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
-    vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
-    kėjo jam duoklę — buvo pripažinusios jo valdžią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-015
-
-- c-009
   santrauka: '1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -552,9 +508,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-033
 
-- c-010
+- c-008
   santrauka: '1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -581,10 +537,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
-    - t-045
+    - t-037
+    - t-040
 
-- c-011
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vykdamu Lietuvon malšinti sukilimo, jiedu
@@ -596,9 +552,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-012
+- c-010
   santrauka: '1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -616,9 +572,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-013
 
-- c-013
+- c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl
@@ -632,10 +588,11 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-    - t-051
+    - t-010
+    - t-046
 
-- c-014
+- c-012
+  santrauka: 'Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai šiek tiek primena frankus Galijoje,
@@ -651,9 +608,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-012
 
-- c-015
+- c-013
   santrauka: 'Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -668,32 +625,15 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
-    - t-037
+    - t-003
+    - t-034
+    - t-048
+    - t-028
     - t-053
-    - t-031
-    - t-058
-    - t-049
-    - t-008
+    - t-044
+    - t-007
 
-- c-016
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos sienos Vazų laikais
-
-    Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lie-
-    tuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo
-    atgautas Polockas ir visa Livonija (žiūr. 285—289 psl.). Zigmanto
-    Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
-    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-009
-
-- c-017
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik XVII a. rusėnai
@@ -708,10 +648,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
-    - t-033
+    - t-011
+    - t-030
 
-- c-018
+- c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
@@ -726,10 +666,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-    - t-002
+    - t-014
+    - t-001
 
-- c-019
+- c-016
   santrauka: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -743,9 +683,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-018
 
-- c-020
+- c-017
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas (1316—1341 m.)**
@@ -756,10 +696,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
-    - t-043
+    - t-039
+    - t-031
 
-- c-021
+- c-018
   santrauka: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -783,10 +723,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-050
-    - t-047
+    - t-045
+    - t-042
 
-- c-022
+- c-019
   santrauka: 'Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -801,9 +741,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-027
 
-- c-023
+- c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jur­
@@ -826,10 +766,11 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-052
+    - t-005
+    - t-047
 
-- c-024
+- c-021
+  santrauka: 'Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Sta-
@@ -841,9 +782,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-024
 
-- c-025
+- c-022
   santrauka: 'Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -858,9 +799,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-020
 
-- c-026
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1388 [pasirašyta ties Kaunu
@@ -878,10 +819,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
-    - t-056
+    - t-029
+    - t-051
 
-- c-027
+- c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Narimantui, kuris 1348 m. žuvo
@@ -894,10 +835,11 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-054
-    - t-042
+    - t-049
+    - t-038
 
-- c-028
+- c-025
+  santrauka: 'Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
@@ -911,9 +853,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-055
+    - t-050
 
-- c-029
+- c-026
   santrauka: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -943,9 +885,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-022
 
-- c-030
+- c-027
   santrauka: 'Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -958,9 +900,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-038
+    - t-035
 
-- c-031
+- c-028
   santrauka: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -977,9 +919,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-026
 
-- c-032
+- c-029
   santrauka: 'Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -991,24 +933,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-016
 
-- c-033
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Mindaugas sukuria Lietuvos valstybę.
-    Mindaugo karūnacija 1253 metais
-    Aktyviausi ir karingiausi iš baltų genčių XI–XII a. atrodė
-    kuršiai, o XII a. pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad
-    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
-    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-040
-
-- c-034
+- c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl pasirinko
@@ -1023,10 +950,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
-    - t-026
+    - t-019
+    - t-023
 
-- c-035
+- c-031
   santrauka: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1044,9 +971,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-057
+    - t-052
 
-- c-036
+- c-032
   santrauka: 'Strėvos kautynėse dalyvavo būriai iš Polocko, o mūšis baigėsi lietuvių pralaimėjimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1058,9 +985,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-032
 
-- c-037
+- c-033
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonijoje tuo metu jau buvo pagerėję reikalai: karalium
@@ -1083,10 +1010,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-048
-    - t-018
+    - t-015
+    - t-043
 
-- c-038
+- c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I I I  KNYGA
@@ -1110,9 +1037,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-009
 
-- c-039
+- c-035
+  santrauka: 'Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. V oi g t, V. 533.
@@ -1130,9 +1058,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-046
+    - t-041
 
-- c-040
+- c-036
   santrauka: 'Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1162,27 +1090,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-059
-    - t-003
+    - t-054
+    - t-002
 
-- c-041
-  santrauka: 'Polocko kunigaikštija šiaurėje palengva artino savo sienas į aisčių kraštą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mer-
-    kinė čia buvo kraštutinė didesnioji lietuvių pilis, nors jotvingų
-    sodybos dar toli nuėjo į pietus.
-    Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
-    lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi. Nors jie ir
-    atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
-    vis artino į aisčių kraštą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-060
-
-- c-042
+- c-037
   santrauka: 'Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1198,9 +1109,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-061
+    - t-055
 
-- c-043
+- c-038
   santrauka: 'Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1222,9 +1133,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-062
+    - t-056
 
-- c-044
+- c-039
   santrauka: 'Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1251,9 +1162,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-063
+    - t-057
 
-- c-045
+- c-040
   santrauka: 'Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1294,4 +1205,63 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-064
+    - t-058
+
+- c-041
+  santrauka: 'Užėmęs Vilnių Kęstutis pasiuntė į Polocką du žmones: vieną į kariuomenę, kitą į miestą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO
+    KUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ
+    Didysis kunigaikštis Kęstutis, užėmęs Vilnių, pasiun­
+    čia į Polocką du žmones, vieną į kariuomenę o kitą
+    į miestą. Polockiečiai apsidžiaugė ir šauksmu pranešė
+    kariuomenei, kariai atsimetė nuo Skirgailos ir patrau­
+    kė į Vilnių, pas didįjį kunigaikštį Kęstutį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-059
+
+- c-042
+  santrauka: 'Didysis kunigaikštis Aleksandras, apžiūrėdamas Rusų žemę, su Elena ir didikais lankėsi Smolenske, Vitebske ir Polocke.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-060
+
+- c-043
+  santrauka: 'Stanislovas Hlebavičius Polocko vietininku buvo bene nuo 1502 m.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 8  Stanislovas Hlebaviėius buvo 1492 m. M erkinės valdytoju
+    ir didžiojo kunigaikščio maršalu (iki 1504 m. imtinai); 1495 m. —
+    Vitebsko vietininku. Polocko vietininku buvo bene nuo 1502 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-061

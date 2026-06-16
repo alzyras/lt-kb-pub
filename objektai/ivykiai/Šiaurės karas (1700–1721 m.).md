@@ -23,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų. Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
+Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
 
 ## Laikotarpis ir datos
 
@@ -50,13 +50,6 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-39144"></a>
-- t-002
-  global_id: t-39144
-  teiginys: 'Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,33 +68,9 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
-  santrauka: 'Šiaurės karo nusiaubtoje Lietuvoje kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos vytis ant Frydricho
-    Augusto I (Augusto II) rūmų
-    Drezdene. Valdant Augustui II
-    faktine Lietuvos sostine tapo
-    Saksonijos pagrindinis miestas
-    Drezdenas
-
-    Išorinės įtakos stiprėjimas
-    Švedų pralaimėjimas leido Augustui 11 sugrįžti į ATR sostą, tačiau
-    laimėtoju kare, kurį pats sukėlė, buvo ne jis, o Petras I, todėl nuo
-    šiol sąlygas diktuoti ėmė Rusija. Šiaurės karo nusiaubtoje Lietuvoje
-    kilo didelis badas ir maras, mirė apie trečdalis Lietuvos gyventojų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Vytis]]
 - [[objektai/ivykiai/Šiaurės karas]]
 - [[objektai/grupes/Švedai]]

@@ -90,5 +90,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/asmenys/Jonas Paulius II]]

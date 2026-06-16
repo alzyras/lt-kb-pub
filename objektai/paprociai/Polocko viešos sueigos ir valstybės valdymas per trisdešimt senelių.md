@@ -105,10 +105,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Graikai]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/skitai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/sueiga]]

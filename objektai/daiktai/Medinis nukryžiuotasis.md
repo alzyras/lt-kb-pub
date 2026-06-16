@@ -70,4 +70,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Heidenrichas|Heidenrichas (kunigas)]]

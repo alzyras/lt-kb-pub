@@ -13,7 +13,7 @@ tags:
 
 ## Santrauka
 
-Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius. Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A. Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V.
+1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu. 1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį. 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
 
 ## Laikotarpis ir datos
 
@@ -57,7 +57,7 @@ Nenurodyta
 <a id="claim-t-66774"></a>
 - t-004
   global_id: t-66774
-  teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
+  teiginys: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
   pagrindžia:
     - c-003
 
@@ -97,6 +97,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-

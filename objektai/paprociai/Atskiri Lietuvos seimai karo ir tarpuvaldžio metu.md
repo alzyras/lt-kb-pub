@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus. Bet dar dažniau atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpuvaldžiuose (karalių nebuvimo metu). Bet XVII amžiuje, kai, pradedant Vladislovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie atskiri Lietuvos seimai ėmė nykti.
+XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti. Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,31 +33,43 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
 <a id="claim-t-01908"></a>
 - t-001
   global_id: t-01908
-  teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-01909"></a>
-- t-002
-  global_id: t-01909
-  teiginys: 'Tarpuvaldžiais atskirus Lietuvos seimus dažniau šaukdavo patys Lietuvos ponai, o po karalių mirties jie atskirai spręsdavo, ką rinkti.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-01910"></a>
-- t-003
-  global_id: t-01910
   teiginys: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
   pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-01910"></a>
+- t-002
+  global_id: t-01910
+  teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
+  pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
+    tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.
+    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
+    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
+    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
+    karui su Maskva (mat, jis nelietė Lenkijos).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, po Zigmanto
@@ -67,39 +79,11 @@ Nenurodyta
     jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
-    tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.
-    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
-    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
-    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
-    karui su Maskva (mat, jis nelietė Lenkijos).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
-    karui su Maskva (mat, jis nelietė Lenkijos). Bet dar dažniau
-    atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpu-
-    valdžiuose (karalių nebuvimo metu). Taip antai, po Zigmanto
-    Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
-    atskiri Lietuvos seimai ir atskirai spręsdavo, ką rinkti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

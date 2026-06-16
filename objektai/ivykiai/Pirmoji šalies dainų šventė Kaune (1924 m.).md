@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.
+1924 m. Kaune surengta pirmoji šalies dainų šventė.
 
 ## Laikotarpis ir datos
 
@@ -43,13 +43,14 @@ Nenurodyta
 <a id="claim-t-77914"></a>
 - t-001
   global_id: t-77914
-  teiginys: 'Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.'
+  teiginys: '1924 m. Kaune surengta pirmoji šalies dainų šventė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1924 m. Kaune surengta pirmoji šalies dainų šventė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kalba tapo ne tik vals-

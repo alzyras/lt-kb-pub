@@ -13,14 +13,14 @@ tags:
 
 ## Santrauka
 
-Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.
+Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių. Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
 
 ## Teiginiai
 
 <a id="claim-t-40125"></a>
 - t-001
   global_id: t-40125
-  teiginys: 'Grigalius Chodkevičius buvo lauko etmonas ir minimas tarp geriausių tuo metu surinktų karių.'
+  teiginys: 'Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Grigalius Chodkevičius buvo lauko etmonas ir minimas tarp geriausių tuo metu surinktų karių.'
+  santrauka: 'Lauko etmonas Grigalius Chodkevičius buvo tarp geriausių tuo metu surinktų karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu

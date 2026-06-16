@@ -20,20 +20,21 @@ amziai:
 
 ## Santrauka
 
-1560 m. rusai užėmė Alūksnę, Vilijandį.
+1560 m. rusai užėmė Alūksnę ir Viljandį.
 
 ## Teiginiai
 
 <a id="claim-t-38591"></a>
 - t-001
   global_id: t-38591
-  teiginys: '1560 m. rusai užėmė Alūksnę, Vilijandį.'
+  teiginys: '1560 m. rusai užėmė Alūksnę ir Viljandį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1560 m. rusai užėmė Alūksnę ir Viljandį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Suomijos įlanka, „ 5

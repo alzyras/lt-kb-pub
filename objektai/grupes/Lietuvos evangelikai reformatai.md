@@ -32,27 +32,21 @@ amziai:
 
 ## Santrauka
 
-Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibliją“.
+XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.
 
 ## Teiginiai
 
 <a id="claim-t-45013"></a>
 - t-001
   global_id: t-45013
-  teiginys: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
+  teiginys: 'XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-45014"></a>
-- t-002
-  global_id: t-45014
-  teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos reformacijos ryškiausia ir įtakin-
@@ -68,49 +62,12 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
   pagrindžia:
     - t-001
 
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagal liberum veto
-    teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami
-    vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis
-    santvarkomis ir trukdė stiprinti bei centralizuoti valstybę. Antra vertus,
-    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
-    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
-    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
-    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
-
-    L I E T U V O S  I S T O R I J A
-    64
-    tiems karaimams, totoriams ir žydams.
-    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
-    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
-    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
-    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Radvila]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/santvarka]]
-- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/posakiai/„tvanas“]]
 - [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Liuteronai]]
-- [[objektai/grupes/Unitai]]
-- [[objektai/grupes/Unitų bažnyčia unitai]]

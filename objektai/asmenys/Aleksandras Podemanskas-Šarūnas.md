@@ -49,5 +49,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/ulonai]]

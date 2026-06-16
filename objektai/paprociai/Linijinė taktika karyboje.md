@@ -133,4 +133,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/flangas]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/zodynas/karyba]]

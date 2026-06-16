@@ -74,4 +74,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]

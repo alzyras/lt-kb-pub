@@ -24,153 +24,119 @@ amziai:
 
 ## Santrauka
 
-LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavojaus nematė. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių) Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuškusius raumenis.
+1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai. Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija. Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis.
 
 ## Teiginiai
 
-<a id="claim-t-78350"></a>
-- t-001
-  global_id: t-78350
-  teiginys: 'Liaudies vyriausybėje LKP vadovas Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi.'
-  pagrindžia:
-    - c-009
-
-<a id="claim-t-78351"></a>
-- t-002
-  global_id: t-78351
-  teiginys: 'Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmieji sekretoriai Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai.'
-  pagrindžia:
-    - c-015
-
 <a id="claim-t-78352"></a>
-- t-003
+- t-001
   global_id: t-78352
-  teiginys: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką komunistų partijos veiklai.'
+  teiginys: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai.'
   pagrindžia:
-    - c-017
+    - c-013
 
 <a id="claim-t-78353"></a>
-- t-004
+- t-002
   global_id: t-78353
   teiginys: 'Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78354"></a>
-- t-005
+- t-003
   global_id: t-78354
   teiginys: 'Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis.'
   pagrindžia:
-    - c-010
+    - c-008
 
 <a id="claim-t-78355"></a>
-- t-006
+- t-004
   global_id: t-78355
   teiginys: 'Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   pagrindžia:
-    - c-013
+    - c-011
 
 <a id="claim-t-78357"></a>
-- t-007
+- t-005
   global_id: t-78357
   teiginys: 'LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   pagrindžia:
-    - c-014
+    - c-012
 
 <a id="claim-t-78358"></a>
-- t-008
+- t-006
   global_id: t-78358
   teiginys: 'Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą.'
   pagrindžia:
-    - c-011
-
-<a id="claim-t-78359"></a>
-- t-009
-  global_id: t-78359
-  teiginys: 'LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų) centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.'
-  pagrindžia:
-    - c-006
+    - c-009
 
 <a id="claim-t-78360"></a>
-- t-010
+- t-007
   global_id: t-78360
   teiginys: 'Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m.'
   pagrindžia:
-    - c-012
+    - c-010
 
 <a id="claim-t-78361"></a>
-- t-011
+- t-008
   global_id: t-78361
   teiginys: 'Prosovietiška Lietuvos komunistų partija organizavo rusakalbius sąjunginio pavaldumo gamyklų darbininkus mėginamam valstybiniam perversmui.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-78362"></a>
-- t-012
+- t-009
   global_id: t-78362
   teiginys: '1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78364"></a>
-- t-013
+- t-010
   global_id: t-78364
   teiginys: 'A. Smetonai pogrindyje veikusi negausi, apie 1 200 narių turėjusi Lietuvos komunistų partija neatrodė kelianti grėsmę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-78365"></a>
-- t-014
+- t-011
   global_id: t-78365
-  teiginys: 'Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio gelbėjimo komitetą, kuris parengė prezidentinio valdymo įvedimo Lietuvoje planą.'
+  teiginys: 'TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
   pagrindžia:
-    - c-008
+    - c-007
 
 <a id="claim-t-78366"></a>
-- t-015
+- t-012
   global_id: t-78366
   teiginys: '1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-78367"></a>
-- t-016
+- t-013
   global_id: t-78367
   teiginys: 'Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-78368"></a>
-- t-017
-  global_id: t-78368
-  teiginys: 'LKP miestų ir rajonų komitetų sekretoriai per pertvarką toliau vykdė CK nurodymus.'
-  pagrindžia:
-    - c-016
-
-<a id="claim-t-78370"></a>
-- t-018
-  global_id: t-78370
-  teiginys: 'Kauno LKP organizacijoje žydai sudarė daugiau kaip 70 proc. narių.'
-  pagrindžia:
-    - c-019
-
 <a id="claim-t-78373"></a>
-- t-019
+- t-014
   global_id: t-78373
   teiginys: '1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“.'
   pagrindžia:
-    - c-018
+    - c-014
 
 <a id="claim-t-78374"></a>
-- t-020
+- t-015
   global_id: t-78374
-  teiginys: 'Po perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.'
+  teiginys: 'Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LKDP blokui atiteko Seimo pir-
@@ -186,7 +152,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-015
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -201,7 +167,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-010
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -216,8 +182,8 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
-    - t-004
+    - t-009
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -237,7 +203,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-012
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -254,30 +220,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-013
 
 - c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
-    Jaltoje duotą jau sergančiam Franklinui D. Ruzveltui (Franklin D. Roose-
-    velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau
-    visai nedemokratiniai) rinkimai į aukščiausias okupacinės valdžios insti-
-    tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
-    (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
-    vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia. Vi-
-    suose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija,
-    rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo
-    per 90 proc. rinkėjų, kurių absoliuti dauguma balsavo už iškeltus kandida-
-    tus. LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
-    centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-009
-
-- c-007
   santrauka: 'Prosovietiška Lietuvos komunistų partija organizavo rusakalbius sąjunginio pavaldumo gamyklų darbininkus mėginamam valstybiniam perversmui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -299,9 +244,10 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-008
 
-- c-008
+- c-007
+  santrauka: 'TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą
@@ -314,31 +260,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-011
 
-- c-009
-  santrauka: 'Liaudies vyriausybėje LKP vadovas Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prireikus ji gins Lietuvos
-    Nepriklausomybę ir laisvę“.
-    Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
-    Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
-    tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
-    Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o
-    Mečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta
-    LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
-    toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
-    žurnalai. Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
-    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
-    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-010
+- c-008
   santrauka: 'Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -359,9 +283,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-011
+- c-009
   santrauka: 'Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -396,9 +320,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
-- c-012
+- c-010
   santrauka: 'Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -415,9 +339,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-007
 
-- c-013
+- c-011
   santrauka: 'Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -433,9 +357,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-014
+- c-012
   santrauka: 'LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -449,73 +373,10 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-015
-  santrauka: 'Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmieji sekretoriai Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
-    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
-    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
-    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
-    vės, demokratijos, nepriklausomybės idealais.
-    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
-    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
-
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-016
-  santrauka: 'LKP miestų ir rajonų komitetų sekretoriai per pertvarką toliau vykdė CK nurodymus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
-    Lietuvos Persitvarkymo Sąjūdis
-    1988–1990 metais
-    Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsau-
-    gos, ekologijos ir kitais klausimais išjudino rašytojus, jie reikalavo, kad stu-
-    miama iš visuomenės apyvartos lietuvių kalba taptų oficiali kalba, kad Lietu-
-    vos istorija mokyklose būtų dėstoma kaip pagrindinė istorijos pamokų tema,
-    prabilta apie vadinamąsias Lietuvos istorijos „baltąsias dėmes“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-017
-
-- c-017
-  santrauka: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką komunistų partijos veiklai.'
+- c-013
+  santrauka: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per pusantrų metų Sąjūdžio atliktais darbais lietuvių tauta žengė
@@ -530,9 +391,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-018
+- c-014
   santrauka: '1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -550,72 +411,35 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
-
-- c-019
-  santrauka: 'Kauno LKP organizacijoje žydai sudarė daugiau kaip 70 proc. narių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jauna ir dar niekuo neimponuojanti lietuvių
-    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
-    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
-    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
-    žydai tarpusavyje dažnai vartojo rusų kalbą.
-    Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruome-
-    nė, turinti daugelį partijų ir organizacijų. Vykstant sekuliarizacijai, jauni-
-    mo modernizacijai, yrant uždaram žydų geto gyvenimui valdžia šnairavo
-    į gausėjančius žydų kairiuosius, akty­vius LKP, komunistinio pogrindžio
-    atstovus, kur žydai dominavo: jie sudarė daugiau kaip 70 proc. narių svar-
-    biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
-    (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
-    kvos).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-018
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/grupes/Komjaunimas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/zodynas/aneksija]]
-- [[objektai/zodynas/getas]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
-- [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/polpredas]]
-- [[objektai/asmenys/Petras Griškevičius]]
 - [[objektai/zodynas/eurokomunistinio tipo partija]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Jedinstvo]]
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/ivykiai/Keturių LKP vadovų sušaudymas po 1926 m. perversmo]]
 - [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/grupes/Lietuvos demokratinė darbo partija]]
 - [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
-- [[objektai/grupes/MOPR]]
-- [[objektai/asmenys/Nikolajus Mitkinas]]
-- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
-- [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/zodynas/sovietizacija sovietizavimas]]
 - [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

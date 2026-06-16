@@ -66,7 +66,6 @@ Dusburgietis teigia, kad gardolfas sušakosiąs ir ateityje duosiąs gausybę va
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]

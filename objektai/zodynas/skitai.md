@@ -201,6 +201,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 ### Susiję objektai
 - [[objektai/autoriai/Albertas Vijūkas-Kojelavičius]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mechmet Girėjus]]
@@ -262,6 +263,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 - [[objektai/grupes/Šventoji kardinolų taryba|Šventoji kardinolų taryba (institucija, XV a.)]]
 - [[objektai/ivykiai/Švitrigailos smūgis Vytauto kariams traukiantis iš Maskvos valdų (1407 m.)]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/asmenys/Ač Girėjus]]
 - [[objektai/paprociai/Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius]]
 - [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]

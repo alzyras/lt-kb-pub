@@ -54,3 +54,4 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]

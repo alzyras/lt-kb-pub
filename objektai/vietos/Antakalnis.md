@@ -16,7 +16,6 @@ tags:
 Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pagonių šventyklos tradicija ir priemiesčio formavimosi užuomazgomis palei Viliją. Balińskio pasakojime Antakalnio vietovardis aiškinamas lietuviškais, ne lotyniškais, pagrindais.
 
 ## Teiginiai
-
 <a id="claim-t-83136"></a>
 - t-001
   global_id: t-83136
@@ -59,13 +58,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindžia:
     - c-005
 
-<a id="claim-t-83142"></a>
-- t-007
-  global_id: t-83142
-  teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
-  pagrindžia:
-    - c-006
-
 <a id="claim-t-83143"></a>
 - t-008
   global_id: t-83143
@@ -79,9 +71,14 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.'
   pagrindžia:
     - c-002
+- t-010
+  teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
+  pagrindžia:
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -95,7 +92,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -111,7 +107,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -138,7 +133,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindžia:
     - t-004
     - t-002
-
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -158,7 +152,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   pagrindžia:
     - t-001
     - t-003
-
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -175,25 +168,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Už jų
-    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
-    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
-    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
-    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
-    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
-    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
-    ir Povilo -bažnyčią Antakalny).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
 - c-007
   santrauka: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -211,3 +185,23 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   statusas: verified
   pagrindžia:
     - t-005
+- c-008
+  santrauka: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Už jų
+    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
+    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
+    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
+    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
+    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
+    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
+    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
+    ir Povilo -bažnyčią Antakalny).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010

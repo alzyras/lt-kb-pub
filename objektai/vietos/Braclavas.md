@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
   - '1449 m.'
 date_start: '1449'
@@ -23,64 +24,42 @@ amziai:
 
 ## Santrauka
 
-Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.
+Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas. Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą. 1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.
 
 ## Teiginiai
 
 <a id="claim-t-46541"></a>
 - t-001
   global_id: t-46541
-  teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės, arba Braclavo, vaivadijas.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-183002"></a>
-- t-002
-  global_id: t-183002
-  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-184935"></a>
-- t-003
+- t-002
   global_id: t-184935
   teiginys: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 <a id="claim-t-184936"></a>
-- t-004
+- t-003
   global_id: t-184936
   teiginys: '1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.'
+  pagrindžia:
+    - c-003
+
+<a id="claim-t-187566"></a>
+- t-004
+  global_id: t-187566
+  teiginys: 'Didysis kunigaikštis Aleksandras įsakė atstatyti Braclavą, nes jį buvo nusiaubęs ir sudeginęs Moldavijos vaivada.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jų kiekvienas
-    pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
-    stalininkų, ir taurininkų, ir ark-
-    lininkų, ir kardininkų ir daugy-
-    bė kitų.
-    **Lietuvos valstybės teritorija**
-    po unijos buvo labai sumažė-
-    jusi, nes didžiuliai Palenkės, Vo-
-    luinės, Braclavo ir Kijevo žemių
-    plotai atiteko Lenkijai. Lietuviai
-    veltui reikalavo, kad lenkai tas
-    žemes jiems grąžintų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės, arba Braclavo, vaivadijas.'
+  santrauka: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
@@ -95,7 +74,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   santrauka: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -117,9 +96,9 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: '1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -147,6 +126,26 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     kus, nes jis mat nepritarė nė vienam jų sumanymui.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Didysis kunigaikštis Aleksandras įsakė atstatyti Braclavą, nes jį buvo nusiaubęs ir sudeginęs Moldavijos vaivada.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir kunigaikštis Alek­
+    sandras siunčia broliui į pagalbą savo maršalą, Lydos
+    vietininką poną Stanislovą Petravičių ls, ir Možaisko
+    kunigaikštį Simoną Ivanovičių ir kunigaikštį Vasili­
+    jų Ivanovičių Semiačičiųl7, su jais keletą tūkstančių
+    kunigaikščių, didikų ir rinktinių dvarionių į Moldavi­
+    jos žemę I S , į pagalbą savo broliui, karaliui Olbrachtui.
+    O likusiai kariuomenei didysis kunigaikštis Aleksandras
+    įsakė atstatyti Braclavą, nes Braclavas buvo Moldavi­
+    jos vaivados nusiaubtas ir sudegintas l!l.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
     - t-004

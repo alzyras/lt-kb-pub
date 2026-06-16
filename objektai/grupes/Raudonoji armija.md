@@ -24,21 +24,21 @@ amziai:
 
 ## Santrauka
 
-Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę. Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą. Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.
+Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu. Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų. Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai atšaukė Lietuvoje rengtą sukilimą.
 
 ## Teiginiai
 
 <a id="claim-t-78427"></a>
 - t-001
   global_id: t-78427
-  teiginys: 'Liepos 3 d. priėmus Lietuvos kariuomenės pertvarkymo įstatymą, ji tapo Liaudies kariuomene, vėliau Raudonosios armijos 29-uoju šaulių korpusu.'
+  teiginys: 'Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.'
   pagrindžia:
     - c-005
 
 <a id="claim-t-78428"></a>
 - t-002
   global_id: t-78428
-  teiginys: 'Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
+  teiginys: 'Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.'
   pagrindžia:
     - c-007
 
@@ -47,7 +47,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   global_id: t-78429
   teiginys: 'Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai atšaukė Lietuvoje rengtą sukilimą.'
   pagrindžia:
-    - c-009
+    - c-008
 
 <a id="claim-t-78430"></a>
 - t-004
@@ -56,52 +56,38 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   pagrindžia:
     - c-006
 
-<a id="claim-t-78431"></a>
-- t-005
-  global_id: t-78431
-  teiginys: 'Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
-  pagrindžia:
-    - c-008
-
 <a id="claim-t-78432"></a>
-- t-006
+- t-005
   global_id: t-78432
   teiginys: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-78433"></a>
-- t-007
+- t-006
   global_id: t-78433
-  teiginys: 'Rusijos bolševikai metė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę.'
+  teiginys: 'Rusijos bolševikai metė Raudonosios armijos divizijas paskui namo traukiančią Vokietijos kariuomenę.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-78434"></a>
-- t-008
-  global_id: t-78434
-  teiginys: 'Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-78435"></a>
-- t-009
+- t-008
   global_id: t-78435
-  teiginys: 'Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvoje, 20 000 kariškių reikmės – trūko kareivinių, patalpų, butų karininkams.'
+  teiginys: 'Lietuvoje dislokuotos Raudonosios armijos 20 000 kariškių reikmėms trūko kareivinių, patalpų ir butų karininkams.'
   pagrindžia:
     - c-004
 
 <a id="claim-t-78436"></a>
-- t-010
+- t-009
   global_id: t-78436
-  teiginys: 'Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.'
+  teiginys: '1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Rusijos bolševikai metė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę.'
+  santrauka: 'Rusijos bolševikai metė Raudonosios armijos divizijas paskui namo traukiančią Vokietijos kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gavusi naujo Vo-
@@ -120,9 +106,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-002
+  santrauka: '1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
@@ -137,7 +124,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 - c-003
   santrauka: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.'
@@ -156,9 +143,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-004
+  santrauka: 'Lietuvoje dislokuotos Raudonosios armijos 20 000 kariškių reikmėms trūko kareivinių, patalpų ir butų karininkams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius
@@ -173,10 +161,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-005
-  santrauka: 'Liepos 3 d. priėmus Lietuvos kariuomenės pertvarkymo įstatymą, ji tapo Liaudies kariuomene, vėliau Raudonosios armijos 29-uoju šaulių korpusu.'
+  santrauka: 'Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
@@ -231,38 +219,9 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   statusas: verified
   pagrindžia:
     - t-002
-    - t-008
+    - t-007
 
 - c-008
-  santrauka: 'Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    7-asis „lietuviškasis“ pulkas vasario 4 d.
-    buvo išrikiuotas prie Vilniaus apygardos
-    teismo rūmų. Jį, „pasipuošusį“ raudonomis
-    vėliavomis, išmargintomis įvairiais šūkiais
-
-    Lietuvių pajėgos
-
-    Lietuvos
-    kariuomenės
-    kario kokarda
-
-    Lietuvos karinė vadovybė turėjo žinių,
-    kad Raudonoji armija planuoja pulti
-
-    Kauną iš pietų. Todėl jau vasario pirmo-
-    siomis dienomis į Jiezno apylinkes buvo
-    pasiuntusi raitųjų žvalgų padalinį, kuris ir
-    turėjo minėtą kontaktą su miestelį uži-
-    mančiais bolševikais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-009
   santrauka: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -277,11 +236,11 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
     - t-003
 
-- c-010
-  santrauka: 'Liepos 3 d. priėmus Lietuvos kariuomenės pertvarkymo įstatymą, ji tapo Liaudies kariuomene, vėliau Raudonosios armijos 29-uoju šaulių korpusu.'
+- c-009
+  santrauka: 'Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
@@ -293,13 +252,12 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Augustinas]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
@@ -311,9 +269,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/ivykiai/Lietuvos kariuomenės pertvarkymas į Liaudies kariuomenę ir Šaulių sąjungos veiklos sustabdymas (1940 m. liepos 3-11 d.)]]
 - [[objektai/grupes/Lietuvos šaulių sąjunga]]
 - [[objektai/asmenys/Vladimiras Leninas]]

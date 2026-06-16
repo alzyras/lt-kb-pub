@@ -48,3 +48,10 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Danieliaus ir Vasilkos žygis prieš Mindaugo stovyklą]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/ivykiai/Mūšis prie Jieseldos|Mūšis prie Jieseldos (mūšis, XIII a.)]]
+- [[objektai/grupes/Žemaičiai]]

@@ -48,5 +48,4 @@ Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/vietininkas]]

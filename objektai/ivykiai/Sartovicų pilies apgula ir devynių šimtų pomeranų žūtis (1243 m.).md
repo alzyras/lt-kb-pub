@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis, jis, nepaprastai irzdamas ir apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės naujakrikščius, atsimetusius. Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.
+1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.
 
 ## Laikotarpis ir datos
 
@@ -42,38 +42,16 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-62466"></a>
-- t-001
-  global_id: t-62466
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-62467"></a>
-- t-002
+- t-001
   global_id: t-62467
   teiginys: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    38. Apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė
-
-      Apaštališkojo sosto  legatas, nuolatos rūpindamasis  tikėjimo  reikalais  ir  dėl  jų
-    sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos
-    kunigaikščiui pakenkti, pastebėjęs, kad karo sėkmė pradeda krypti brolių naudai,
-      274 1242 m. gruodžio mėn. ar 1243 m. pradžios įvykiai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   santrauka: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -95,9 +73,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pomeranai]]
+- [[objektai/daiktai/Strėlės]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­ graudą»^26. Grįždami jie sudegino dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai buvo rodžiusios tvirtą atsparumą. Apie Peštvės įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi krikštytis, po derybų nakčia išbėgiojusi.
+Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta. Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo. Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 <a id="claim-t-32447"></a>
 - t-002
   global_id: t-32447
-  teiginys: 'Apie Peštvės įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi krikštytis, po derybų nakčia išbėgiojusi.'
+  teiginys: 'Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo.'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - t-001
 
 - c-002
+  santrauka: 'Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo būdu Nemuno krantuose

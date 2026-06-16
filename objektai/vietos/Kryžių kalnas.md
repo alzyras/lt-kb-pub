@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir vilties šaltinio, prasmė.
+Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota. Priklausomybės dešimtmečiais Kryžių kalnas išryškino kryžiaus kaip stiprybės ir vilties šaltinio prasmę.
 
 ## Teiginiai
 
 <a id="claim-t-21527"></a>
 - t-001
   global_id: t-21527
-  teiginys: 'Kryžių kalnas tapo simboliu ir buvo pramintas lietuviška Golgota.'
+  teiginys: 'Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001
 

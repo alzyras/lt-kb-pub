@@ -111,6 +111,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Konradas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/ginklanešys]]

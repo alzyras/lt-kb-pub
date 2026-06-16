@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Nalšia'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,7 +11,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo.
+Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo. Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.
 
 ## Teiginiai
 
@@ -20,6 +21,13 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   teiginys: 'Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187620"></a>
+- t-002
+  global_id: t-187620
+  teiginys: 'Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +54,19 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    O jos sesuo buvo ištekėjusi už
+    Daumanto, už Nalšios kunigaikščiol0 . Ir Mindaugas
+    pasiuntė kvieslius į Nalšią pas savo svainę, tarydamas:
+    „Numirė tavo sesuo; atvažiuok savo sesers apraudoti."
+    O kai ji atvažiavo gedėti, Mindaugas užsimanė ves­
+    ti savo svainę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

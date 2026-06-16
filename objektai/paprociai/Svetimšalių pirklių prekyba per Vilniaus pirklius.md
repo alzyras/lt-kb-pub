@@ -149,7 +149,6 @@ Nenurodyta
 - [[objektai/grupes/Valakai]]
 - [[objektai/daiktai/Vaškas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]

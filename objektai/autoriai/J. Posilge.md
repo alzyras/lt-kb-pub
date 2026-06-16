@@ -14,7 +14,7 @@ tags:
 
 ## Santrauka
 
-Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.
+Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų. Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.
 
 ## Teiginiai
 
@@ -28,7 +28,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 <a id="claim-t-184350"></a>
 - t-002
   global_id: t-184350
-  teiginys: 'Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.'
+  teiginys: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
     - t-001
 
 - c-002
-  santrauka: 'Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von Posilge.'
+  santrauka: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gi įkaitus

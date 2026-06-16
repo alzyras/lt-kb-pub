@@ -18,7 +18,7 @@ amziai:
 
 ## Santrauka
 
-Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį. Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.
+Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams. Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį. Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.
 
 ## Laikotarpis ir datos
 
@@ -49,15 +49,8 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-<a id="claim-t-67076"></a>
-- t-002
-  global_id: t-67076
-  teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-67077"></a>
-- t-003
+- t-002
   global_id: t-67077
   teiginys: 'Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.'
   pagrindžia:
@@ -79,7 +72,6 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
     - t-002
     - t-001
 
@@ -98,7 +90,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

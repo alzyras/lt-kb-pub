@@ -46,6 +46,7 @@ Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisid�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Petras Skarga]]
 - [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
 - [[objektai/grupes/Tamplierių ordinas]]

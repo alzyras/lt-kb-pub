@@ -66,7 +66,6 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]

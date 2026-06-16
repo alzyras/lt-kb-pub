@@ -17,17 +17,18 @@ tags:
 Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuojautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pareikšti užuojautą".
 
 ## Teiginiai
-
 <a id="claim-t-02064"></a>
 - t-001
   global_id: t-02064
   teiginys: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskutiniais gyvenimo metais visai
@@ -37,9 +38,11 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
     į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
     reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
     amžiaus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

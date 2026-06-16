@@ -88,5 +88,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Marienverderio miestiečiai]]
 - [[objektai/grupes/Sembai]]
+- [[objektai/daiktai/Vienuolio rūbai]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]

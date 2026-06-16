@@ -24,7 +24,7 @@ amziai:
 
 ## Santrauka
 
-Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.
+1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius. Balandžio 3 d. apie 15 val. bolševikai, sutelkę didesnes pajėgas, užpuolė Panevėžį, bet puolimas iki vidurnakčio buvo atremtas. Panevėžyje buvo įkurta viena iš pijarų mokyklų.
 
 ## Teiginiai
 
@@ -35,33 +35,26 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - c-001
 
-<a id="claim-t-182775"></a>
+<a id="claim-t-182776"></a>
 - t-002
-  global_id: t-182775
-  teiginys: 'Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę.'
+  global_id: t-182776
+  teiginys: 'Balandžio 3 d. apie 15 val. bolševikai, sutelkę didesnes pajėgas, užpuolė Panevėžį, bet puolimas iki vidurnakčio buvo atremtas.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-182776"></a>
-- t-003
-  global_id: t-182776
-  teiginys: 'Bolševikai, reorganizavęsi ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-183069"></a>
-- t-004
+- t-003
   global_id: t-183069
   teiginys: 'Panevėžyje buvo įkurta viena iš pijarų mokyklų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 <a id="claim-t-183620"></a>
-- t-005
+- t-004
   global_id: t-183620
   teiginys: 'Panevėžyje veikusią lenkų gimnaziją finansiškai rėmė Lietuvos vyriausybė ir lenkų kultūros organizacijos.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -89,25 +82,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-001
 
 - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Gegužės 3 d. Panevėžio batalionas, re-
-    miamas saksų savanorių, atliko sėkmingą
-    operaciją ir iš bolševikų išvadavo Ukmergę.
-
-    Pasirengimas naujoms operacijoms
-
-    Tuo metu Lietuvos kariuomenėje prasi-
-    dėjo svarbūs pokyčiai. Laisvose nuo priešo
-    teritorijose prasidėjo naujokų (gimusių
-    1897-1898 metais) šaukimas, o netrukus
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
+  santrauka: 'Balandžio 3 d. apie 15 val. bolševikai, sutelkę didesnes pajėgas, užpuolė Panevėžį, bet puolimas iki vidurnakčio buvo atremtas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Miesto gyvento-
@@ -121,9 +96,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Panevėžyje buvo įkurta viena iš pijarų mokyklų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -140,9 +115,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   santrauka: 'Panevėžyje veikusią lenkų gimnaziją finansiškai rėmė Lietuvos vyriausybė ir lenkų kultūros organizacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -156,4 +131,4 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.
+1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija.
 
 ## Teiginiai
 
 <a id="claim-t-78128"></a>
 - t-001
   global_id: t-78128
-  teiginys: 'Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.'
+  teiginys: '1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos ir Lietuvos

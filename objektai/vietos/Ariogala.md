@@ -17,20 +17,19 @@ date_start: '1254'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Ariogala
 
 ## Santrauka
 
-Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas užrašė karūnavimo metais, ir kaip XIV amžiaus karo veiksmų erdvė. Ji minima kryžiuočių niokojamų sričių sąraše ir Ariogalos–Dubysos rajono žygių aprašuose.
+Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius. 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis. Mindaugas vyskupui dovanojo po pusę Ariogalos ir kelių kitų Žemaičių sričių.
 
 ## Teiginiai
-
 <a id="claim-t-179746"></a>
 - t-001
   global_id: t-179746
@@ -45,64 +44,54 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   pagrindžia:
     - c-002
 
-<a id="claim-t-179748"></a>
-- t-003
-  global_id: t-179748
-  teiginys: 'Mindaugas vyskupui dovanojo po pusę Ariogalos ir kelių kitų Žemaičių sričių.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-179749"></a>
+<a id="claim-t-179750"></a>
 - t-004
-  global_id: t-179749
+  global_id: t-179750
   teiginys: '1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
   pagrindžia:
     - c-003
 
-<a id="claim-t-179750"></a>
+<a id="claim-t-179751"></a>
 - t-005
-  global_id: t-179750
+  global_id: t-179751
   teiginys: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-179751"></a>
+<a id="claim-t-179752"></a>
 - t-006
-  global_id: t-179751
+  global_id: t-179752
   teiginys: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   pagrindžia:
     - c-005
 
-<a id="claim-t-179752"></a>
+<a id="claim-t-179754"></a>
 - t-007
-  global_id: t-179752
+  global_id: t-179754
   teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   pagrindžia:
     - c-007
 
-<a id="claim-t-179754"></a>
+<a id="claim-t-184921"></a>
 - t-008
-  global_id: t-179754
+  global_id: t-184921
   teiginys: 'Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose.'
   pagrindžia:
     - c-001
 
-<a id="claim-t-184921"></a>
+<a id="claim-t-184922"></a>
 - t-009
-  global_id: t-184921
-  teiginys: 'Nusiaubęs Žemaitiją, priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
+  global_id: t-184922
+  teiginys: 'Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
   pagrindžia:
     - c-008
 
-<a id="claim-t-184922"></a>
 - t-010
-  global_id: t-184922
   teiginys: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
   pagrindžia:
     - c-009
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -117,7 +106,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-008
-
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -132,7 +120,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   pagrindžia:
     - t-002
     - t-005
-
 - c-003
   santrauka: '1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -149,23 +136,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-004
-  santrauka: 'Mindaugas vyskupui dovanojo po pusę Ariogalos ir kelių kitų Žemaičių sričių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Saugumo sumetimais, ordino, o gal ir paties vys-
-    kupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė
-    Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Rasei-
-    nių, Ariogalos, Betygalos, Laukuvos ir kt. sričių.Tose srityse vys-
-    kupas jautėsi labai nesaugiai, todėl prašė ordiną globos; už tai jis
-    perleido ordinui kai kurias Mindaugo jam dovanotas žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
 - c-005
   santrauka: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -183,7 +153,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-006
-
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -200,7 +169,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-007
   santrauka: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -217,9 +185,8 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-007
-
 - c-008
-  santrauka: 'Nusiaubęs Žemaitiją, priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
+  santrauka: 'Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
@@ -242,7 +209,6 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-009
-
 - c-009
   santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

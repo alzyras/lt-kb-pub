@@ -129,4 +129,5 @@ Nenurodyta
 - [[objektai/daiktai/Parakas]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Šautuvai]]
 - [[objektai/asmenys/Zaberezinskis]]

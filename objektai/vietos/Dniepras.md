@@ -15,24 +15,23 @@ date_start: '1357'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - vieta
 amziai:
   - 'XIV'
   - 'XXI'
+tags:
+  - vieta
 ---
 # Dniepras
 
 ## Santrauka
 
-Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo rytinės ekspansijos ir Lietuvos valstybės plėtros į pietus bei rytus ašis. Šiame šaltinyje Dniepras siejamas ir su Dniepro kaire pakrante, ir su žemupiu, kurį Lietuva pasiekė po Mėlynųjų Vandenų mūšio.
+1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą. Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį. Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu.
 
 ## Teiginiai
-
 <a id="claim-t-97822"></a>
 - t-001
   global_id: t-97822
-  teiginys: 'Timūro vadai pasiekė Dnieprą.'
+  teiginys: '1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą.'
   pagrindžia:
     - c-010
 
@@ -57,13 +56,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-002
 
-<a id="claim-t-97827"></a>
-- t-005
-  global_id: t-97827
-  teiginys: 'Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.'
-  pagrindžia:
-    - c-007
-
 <a id="claim-t-97828"></a>
 - t-006
   global_id: t-97828
@@ -77,13 +69,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginys: 'Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.'
   pagrindžia:
     - c-011
-
-<a id="claim-t-97830"></a>
-- t-008
-  global_id: t-97830
-  teiginys: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
-  pagrindžia:
-    - c-008
 
 <a id="claim-t-97831"></a>
 - t-009
@@ -162,22 +147,32 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - c-002
 
-<a id="claim-t-183011"></a>
-- t-023
-  global_id: t-183011
-  teiginys: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
-  pagrindžia:
-    - c-014
-
 <a id="claim-t-183782"></a>
 - t-024
   global_id: t-183782
   teiginys: 'Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.'
   pagrindžia:
     - c-015
+- t-025
+  teiginys: 'Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.'
+  pagrindžia:
+    - c-016
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-026
+  teiginys: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
+  pagrindžia:
+    - c-018
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-028
+  teiginys: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
+  pagrindžia:
+    - c-017
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -195,7 +190,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-003
     - t-015
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -216,7 +210,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-004
     - t-022
-
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -236,7 +229,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-019
     - t-010
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -254,7 +246,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-018
     - t-012
-
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -283,7 +274,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-006
     - t-014
-
 - c-006
   santrauka: 'Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -301,38 +291,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   statusas: verified
   pagrindžia:
     - t-013
-
-- c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats Smolenskas išgyveno nepriklauso-
-    mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
-    pietus nuo Smolensko. Čia jis užėmė visas Dniepro ir Desnos
-    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
-    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
-    atiduotos valdyti Algirdo sūnums ar brolėnams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-016
-    - t-005
-
-- c-008
-  santrauka: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą. Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
-    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
-    tinius ir pirklius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-008
-
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -349,9 +307,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   statusas: verified
   pagrindžia:
     - t-020
-
 - c-010
-  santrauka: 'Timūro vadai pasiekė Dnieprą.'
+  santrauka: '1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -374,7 +331,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -389,7 +345,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-007
     - t-011
-
 - c-012
   santrauka: 'Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -414,7 +369,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-021
     - t-017
-
 - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -434,22 +388,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   pagrindžia:
     - t-002
     - t-009
-
-- c-014
-  santrauka: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau amžinosios taikos
-    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
-    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
-    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
-    rą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-023
-
 - c-015
   santrauka: 'Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -468,3 +406,53 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   statusas: verified
   pagrindžia:
     - t-024
+- c-016
+  santrauka: 'Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pats Smolenskas išgyveno nepriklauso-
+    mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
+    pietus nuo Smolensko. Čia jis užėmė visas Dniepro ir Desnos
+    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
+    atiduotos valdyti Algirdo sūnums ar brolėnams.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-025
+    - t-027
+- c-017
+  santrauka: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau amžinosios taikos
+    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-028
+- c-018
+  santrauka: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą. Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
+    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
+    tinius ir pirklius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-026

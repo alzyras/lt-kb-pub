@@ -10,21 +10,21 @@ atnaujinta: ''
 
 ## Santrauka
 
-Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai ir rūmininkai.
+Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 
 ## Teiginiai
 
 <a id="claim-t-185389"></a>
 - t-001
   global_id: t-185389
-  teiginys: 'Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai ir rūmininkai.'
+  teiginys: 'Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai ir rūmininkai.'
+  santrauka: 'Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Karalius
@@ -67,7 +67,7 @@ Maskvėnų pasiuntinius sutiko pataurininkis Mikalojus Kiška, stalininkas Mikal
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Mikalojus Naruševičius]]
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
-- [[objektai/asmenys/Mikalojus Naruševičius]]
 - [[objektai/asmenys/Mikalojus Radvila]]

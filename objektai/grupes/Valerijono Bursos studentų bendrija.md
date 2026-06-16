@@ -214,7 +214,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Žygimantas]]

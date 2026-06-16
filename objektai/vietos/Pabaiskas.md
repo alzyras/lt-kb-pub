@@ -4,6 +4,7 @@ pavadinimas: 'Pabaiskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1344 m.'
@@ -22,7 +23,7 @@ amziai:
 
 ## Santrauka
 
-Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.
+1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia. Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę. Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį.
 
 ## Teiginiai
 
@@ -31,56 +32,49 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   global_id: t-171924
   teiginys: '1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia.'
   pagrindžia:
-    - c-006
-
-<a id="claim-t-171925"></a>
-- t-002
-  global_id: t-171925
-  teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu.'
-  pagrindžia:
-    - c-005
+    - c-004
 
 <a id="claim-t-171926"></a>
-- t-003
+- t-002
   global_id: t-171926
   teiginys: 'Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę.'
   pagrindžia:
     - c-002
 
 <a id="claim-t-171927"></a>
-- t-004
+- t-003
   global_id: t-171927
   teiginys: 'Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-171929"></a>
-- t-005
+- t-004
   global_id: t-171929
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
     - c-001
 
 <a id="claim-t-171930"></a>
-- t-006
+- t-005
   global_id: t-171930
   teiginys: 'Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios.'
   pagrindžia:
     - c-002
 
-<a id="claim-t-171932"></a>
-- t-007
-  global_id: t-171932
-  teiginys: 'Ties Pabaisku, netoli Ukmergės, prie Šventosios kelią pastojo Mykolo vedama lietuvių ir lenkų kariuomenė.'
-  pagrindžia:
-    - c-004
-
 <a id="claim-t-171933"></a>
-- t-008
+- t-006
   global_id: t-171933
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-187629"></a>
+- t-007
+  global_id: t-187629
+  teiginys: 'Tikroji mūšio vieta buvo prie Žirnajų upelio, tarp Žirnajų ežero ir Pabaisko, 9 km nuo Ukmergės.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -100,8 +94,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
-    - t-005
+    - t-006
+    - t-004
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -127,8 +121,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
-    - t-006
+    - t-002
+    - t-005
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -153,36 +147,9 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-004
-  santrauka: 'Ties Pabaisku, netoli Ukmergės, prie Šventosios kelią pastojo Mykolo vedama lietuvių ir lenkų kariuomenė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
-    baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
-    lietuvių ir į pagalbą atėjusių lenkų kariuomenė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-007
-
-- c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Vytauto pralaimėjimas toto-
-    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-
-    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
-    pasibaigusį 1435 m. Pabaisko mūšiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-006
   santrauka: '1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -204,3 +171,18 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-005
+  santrauka: 'Tikroji mūšio vieta buvo prie Žirnajų upelio, tarp Žirnajų ežero ir Pabaisko, 9 km nuo Ukmergės.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    TS Ir PS nuorašuose upė be vardo. Tikroji mūšio vieta buvo prie
+    Ztrnaios upelio, tarp Zirnajų ežero ir Pabaisko — 9 km nuo Uk­
+    mergės, o  nuo Šventosios apie 6 km.
+    * *  Žygimantas Kaributams — Algirdo vaikams, Kaributo Alglr-
+    dalčlo sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007

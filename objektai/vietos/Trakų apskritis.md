@@ -19,14 +19,14 @@ amziai:
 
 ## Santrauka
 
-Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais. Misiūnas, apygarda pavadinta Didžiosios kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
+J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais. Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje.
 
 ## Teiginiai
 
 <a id="claim-t-42201"></a>
 - t-001
   global_id: t-42201
-  teiginys: 'J. Misiūno maždaug 200 partizanų dalinys keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
+  teiginys: 'J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   pagrindžia:
     - c-001
 
@@ -40,6 +40,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-

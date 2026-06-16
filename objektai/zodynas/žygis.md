@@ -15,27 +15,20 @@ tags:
 
 ## Santrauka
 
-Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai. žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį. žygis: šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.
+Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo. Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.
 
 ## Teiginiai
-
 <a id="claim-t-70429"></a>
 - t-001
   global_id: t-70429
-  teiginys: 'Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.'
+  teiginys: 'Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-70430"></a>
-- t-002
-  global_id: t-70430
-  teiginys: 'žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį.'
-  pagrindžia:
-    - c-002
-
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nedideli jo kariuomenės būriai
@@ -45,26 +38,15 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
     gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
     savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
     kelio lietuviai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy-
-    gius: vienas paprastai būdavo sausio ar vasario mėnesį, o
-    antras — vasaros gale, dažniausiai rugpiūčio mėnesį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.'
+  santrauka: 'Kryžiuočių žygis į Lietuvą paprastai trukdavo ne ilgiau kaip savaitę, nes kryžiuočiai skubėdavo išvengti lietuvių pasipriešinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Grįždami jie atsigabendavo pri-
@@ -76,17 +58,19 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
     dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kry-
     žiuočių kelią staiga užvertę medžiais, patys iš visų pusių
     supuolę juos išžudydavo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/1444-1445 m. žiemos karas ir paliaubos tarp Lietuvos ir Maskvos]]
 - [[objektai/autoriai/A. Nasonov]]
 - [[objektai/paprociai/Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas]]
 - [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]]
@@ -99,11 +83,14 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
+- [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]
 - [[objektai/asmenys/Andrejus Možaiskis]]
 - [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]]
 - [[objektai/asmenys/Andriejus Šemiačičius]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
 - [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Aukso orda]]
 - [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
@@ -151,8 +138,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/autoriai/J. Dlugošas Długosz]]
 - [[objektai/asmenys/J. Stalinas]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jagurčinas]]
 - [[objektai/asmenys/Jakovas Zachariničius]]
 - [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]]
 - [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
@@ -160,7 +145,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
 - [[objektai/ivykiai/Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.)]]
 - [[objektai/asmenys/Jonas Budrys (Polovinskas)]]
 - [[objektai/asmenys/Jonas Liuksemburgietis]]
@@ -182,7 +166,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/grupes/Katalikiškoji ir protestantiškoji Europa]]
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]
 - [[objektai/grupes/Kijevo Rusia]]
@@ -216,7 +199,10 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
 - [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]
 - [[objektai/autoriai/Labuda G]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
@@ -234,9 +220,7 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
@@ -246,6 +230,8 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas)]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis]]
+- [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą]]
 - [[objektai/ivykiai/Livonijos raitelių žūtis Žemaitijoje (1466 m.)]]
 - [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
 - [[objektai/autoriai/M. Perlbachas]]
@@ -258,8 +244,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Mata]]
 - [[objektai/daiktai/Mediniai namai]]
 - [[objektai/daiktai/Mediniai namai, trobos ir trobelės]]
-- [[objektai/asmenys/Mengli-Girėjus]]
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Michaila Ivanovičius]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/autoriai/Miechovita]]
@@ -275,7 +259,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
 - [[objektai/asmenys/Nameisis]]
-- [[objektai/grupes/Napoleono kariuomenė]]
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - [[objektai/ivykiai/Nenugalimosios armados nesėkmė]]
 - [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]
@@ -292,7 +275,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Peteris Paulius Rubensas]]
 - [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/asmenys/Petras Šuiskis]]
 - [[objektai/asmenys/Philippe de Mezières]]
 - [[objektai/ivykiai/Pieštvės ir Veliuonos pilių sunaikinimas tame pačiame žygyje (1362 m.)]]
@@ -336,14 +318,12 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/asmenys/Stanta]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
-- [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/asmenys/Trinta]]
@@ -351,7 +331,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vaidotas]]
 - [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai]]
 - [[objektai/paprociai/Vakarų riterių stojimas į žygius prieš pagonis]]
 - [[objektai/paprociai/Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais]]
@@ -396,7 +375,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
 - [[objektai/zodynas/ariergardas]]
 - [[objektai/zodynas/bojarinai]]
-- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
 - [[objektai/posakiai/daugiau nebelieti krikščionių kraujo]]
 - [[objektai/zodynas/didysis komtūras arkikomtūras]]
 - [[objektai/zodynas/didysis magistras]]
@@ -409,7 +387,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/zodynas/kiemai habitaciones curia]]
 - [[objektai/zodynas/komputas]]
 - [[objektai/posakiai/krikščioniškieji plėšikautojai]]
-- [[objektai/posakiai/krikščionys turi raudoti dėl jo mirties]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/landgrafas]]
@@ -422,7 +399,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/posakiai/na Litvu]]
 - [[objektai/zodynas/neofitas]]
-- [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/partizaniškas karas]]
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/prūsiškos grivenos]]
@@ -443,7 +419,6 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
 - [[objektai/asmenys/Živinbudas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
@@ -453,47 +428,54 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
 - [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]
-- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon]]
 - [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
 - [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
 - [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]
 - [[objektai/asmenys/Arnoldas iš Elnerio]]
 - [[objektai/asmenys/Avigenas]]
 - [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
-- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
 - [[objektai/asmenys/Ediga]]
 - [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]
 - [[objektai/grupes/Gepidai]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]
+- [[objektai/daiktai/Ietis]]
 - [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]
 - [[objektai/asmenys/Konradas Lichtenhagenas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
 - [[objektai/asmenys/Lengvenis Algirdaitis]]
 - [[objektai/autoriai/Lianskoronskij, V]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
 - [[objektai/ivykiai/Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)]]
 - [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją]]
 - [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/autoriai/Petras Suchenwirt]]
 - [[objektai/asmenys/Petrašu Montgirdaitis]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/daiktai/Rogės]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
+- [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]
 - [[objektai/daiktai/Skobnis]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
 - [[objektai/ivykiai/Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas]]
 - [[objektai/ivykiai/Treniotos žygis į Mazoviją (1264 m.)]]
 - [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]
 - [[objektai/grupes/Vokietijos maldininkai]]
+- [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]
 - [[objektai/ivykiai/Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
+- [[objektai/zodynas/tėvonija]]
 - [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]

@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas Mindaugo karūnacija.
+Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius. A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“. Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.
 
 ## Laikotarpis ir datos
 
@@ -52,13 +52,14 @@ Nenurodyta
 <a id="claim-t-66788"></a>
 - t-002
   global_id: t-66788
-  teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
+  teiginys: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo vainikavimas
@@ -98,6 +99,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
-- [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]
 - [[objektai/daiktai/Karūna]]

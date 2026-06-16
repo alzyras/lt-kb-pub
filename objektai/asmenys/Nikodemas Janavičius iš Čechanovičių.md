@@ -45,3 +45,4 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 ### Susiję objektai
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/taurininkas]]

@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Švedų karalius Jonas, tačiau labiausiai rūpinosi gauti sostą Prancūzų karaliaus Karolio IX brolis Henrikas Valua (Valois). Henrikas sužinojo, kad mirė jo brolis Karolis IX; slapta, niekam nieko nesakęs, jis išvyko į Prancūziją ir sėdo į sostą (jis ten karaliavo Henriko III vardu, kurs žinomas, kaip vienas iš blogiausių Prancūzijos karalių). Zigmanto tėvas Švedijoje buvo nepopuliarus, todėl bijojo, kad po jo mirties, vietoj Zigmanto, nepaskelbtų karalium jo brolio (Zigmanto dėdės) Karolio, Sudermanlandijos kunigaikščio.
+Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką. Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę. Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.
 
 ## Teiginiai
 
 <a id="claim-t-79076"></a>
 - t-001
   global_id: t-79076
-  teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX ketino siųsti gvardijos kavaleriją į lemiamą ataką.'
+  teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
   pagrindžia:
     - c-002
 
@@ -176,5 +176,4 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
 - [[objektai/asmenys/Karina Nilsdotter]]

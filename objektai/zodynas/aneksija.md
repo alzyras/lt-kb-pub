@@ -24,14 +24,14 @@ amziai:
 
 ## Santrauka
 
-Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje. Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.
+Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks pat scenarijus taikytas Latvijoje ir Estijoje. J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją. Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.
 
 ## Teiginiai
 
 <a id="claim-t-70084"></a>
 - t-001
   global_id: t-70084
-  teiginys: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
+  teiginys: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   pagrindžia:
     - c-001
 
@@ -52,13 +52,14 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 <a id="claim-t-70087"></a>
 - t-004
   global_id: t-70087
-  teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
+  teiginys: 'Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus; toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pareigų atleisti

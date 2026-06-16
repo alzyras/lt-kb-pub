@@ -17,7 +17,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudarytojas, skyrių įvadų autorius ir kelių straipsnių bei informacinių blokų autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.
+Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų. Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius. Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.
 
 ## Darbai
 
@@ -110,7 +110,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 <a id="claim-t-171508"></a>
 - t-012
   global_id: t-171508
-  teiginys: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
+  teiginys: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
   pagrindžia:
     - c-009
 
@@ -343,7 +343,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
     - t-003
 
 - c-009
-  santrauka: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė yra teksto „Lietuvos partizaninų apygardos ir jų žymesni atstovai“ autoriai.'
+  santrauka: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     KARAS PO KARO
@@ -411,11 +411,11 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
-- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
-- [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
@@ -433,7 +433,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/posakiai/karas po karo]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/magistras]]

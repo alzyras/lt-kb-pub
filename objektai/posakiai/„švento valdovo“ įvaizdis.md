@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
+Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu. Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį.
 
 ## Teiginiai
 
@@ -29,7 +29,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 <a id="claim-t-183515"></a>
 - t-002
   global_id: t-183515
-  teiginys: 'Vytauto politika, autorių vertinimu, buvo orientuota į „švento valdovo“ įvaizdį Lietuvos christianizacijos kontekste.'
+  teiginys: 'Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
     - t-001
 
 - c-002
-  santrauka: 'Vytauto politika, autorių vertinimu, buvo orientuota į „švento valdovo“ įvaizdį Lietuvos christianizacijos kontekste.'
+  santrauka: 'Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
@@ -76,6 +76,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]

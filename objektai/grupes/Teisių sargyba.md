@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).
+Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus. Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.
 
 ## Teiginiai
 
@@ -25,13 +25,6 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   teiginys: 'Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-183188"></a>
-- t-002
-  global_id: t-183188
-  teiginys: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +46,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
     - t-001
 
 - c-002
-  santrauka: 'Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo, karo, policijos komisijų – pirmininkai (ministrai).'
+  santrauka: 'Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atšaukiama karalių renkamumo tvarka,

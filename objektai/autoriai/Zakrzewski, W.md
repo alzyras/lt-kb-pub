@@ -47,7 +47,3 @@ Zakrzewski, W.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]

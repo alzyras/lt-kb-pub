@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-1948 m. spalio 8 d. tapo Tauro apygardos, vienijusios Suvalkijos regiono antisovietino pasipriešinimo dalyvius, vadu.
+Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.
 
 ## Teiginiai
 
 <a id="claim-t-80612"></a>
 - t-001
   global_id: t-80612
-  teiginys: '1948 m. spalio 8 d. tapo Tauro apygardos, vienijusios Suvalkijos regiono antisovietino pasipriešinimo dalyvius, vadu.'
+  teiginys: 'Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Partizanas nuo 1945 m.

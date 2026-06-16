@@ -88,7 +88,6 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/autoriai/Isaac Taylor]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

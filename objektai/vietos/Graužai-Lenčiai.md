@@ -18,21 +18,21 @@ amziai:
 
 ## Santrauka
 
-Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš užduoties Kėdainių aps., prie Šilainių miško pateko į Vlado Pabarčiaus 40-ties partizanų būrio pasalą.
+1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą, kurioje žuvo 6 stribai.
 
 ## Teiginiai
 
 <a id="claim-t-38467"></a>
 - t-001
   global_id: t-38467
-  teiginys: '1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
+  teiginys: '1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą, kurioje žuvo 6 stribai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: '1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą.'
+  santrauka: '1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą, kurioje žuvo 6 stribai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X ŠILAINIŲ PASALA

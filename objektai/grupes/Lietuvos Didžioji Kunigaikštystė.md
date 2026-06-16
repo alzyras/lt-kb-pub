@@ -5,13 +5,19 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1386 m.'
+  - '1404 m.'
+  - '1406 m.'
+  - '1408 m.'
+  - '1492 m.'
   - '1559 m.'
   - '1830 m.'
   - '1905 m.'
   - '2026 m.'
-date_start: '1559'
+date_start: '1386'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -21,14 +27,14 @@ tags:
   - kraštas
   - tauta
 amziai:
-  - 'XVI'
+  - 'XIV'
   - 'XXI'
 ---
 # Lietuvos Didžioji Kunigaikštystė
 
 ## Santrauka
 
-Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas. Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės. Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.
+1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu. 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės. 1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
 
 ## Teiginiai
 
@@ -49,7 +55,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 <a id="claim-t-169702"></a>
 - t-003
   global_id: t-169702
-  teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
+  teiginys: '1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   pagrindžia:
     - c-004
 
@@ -73,6 +79,41 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   teiginys: 'Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus.'
   pagrindžia:
     - c-006
+
+<a id="claim-t-187718"></a>
+- t-007
+  global_id: t-187718
+  teiginys: 'Lietuvos Didžiosios Kunigaikštystės kariuomenė prie Klecko paėmė daug totorių belaisvių ir karo grobio.'
+  pagrindžia:
+    - c-007
+
+<a id="claim-t-187719"></a>
+- t-008
+  global_id: t-187719
+  teiginys: 'Vytautas valdė Lietuvos ir Rusų Didžiąją Kunigaikštystę bei kitas šalis, o Romos imperatoriumi vadintas Vengrų valdovas palaikė su juo artimus santykius.'
+  pagrindžia:
+    - c-008
+
+<a id="claim-t-187720"></a>
+- t-009
+  global_id: t-187720
+  teiginys: 'Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą.'
+  pagrindžia:
+    - c-009
+
+<a id="claim-t-187721"></a>
+- t-010
+  global_id: t-187721
+  teiginys: 'LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.'
+  pagrindžia:
+    - c-010
+
+<a id="claim-t-187722"></a>
+- t-011
+  global_id: t-187722
+  teiginys: 'Visų LDK žemių seimas Vilniuje 1492 m. liepos 18 d. patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -160,6 +201,7 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     - t-004
 
 - c-004
+  santrauka: '1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po dešimt
@@ -211,24 +253,125 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   pagrindžia:
     - t-006
 
+- c-007
+  santrauka: 'Lietuvos Didžiosios Kunigaikštystės kariuomenė prie Klecko paėmė daug totorių belaisvių ir karo grobio.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Labai maža jų grįžo į Ordą.
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-008
+  santrauka: 'Vytautas valdė Lietuvos ir Rusų Didžiąją Kunigaikštystę bei kitas šalis, o Romos imperatoriumi vadintas Vengrų valdovas palaikė su juo artimus santykius.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Kaip neišma­
+    tuojama dangaus aukštybė ir jūros gilybė, taip neap­
+    sakoma ir to šlovingojo valdovo galybė ir narsumas.
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    im peratorium igyveno su juo didelėje meilėje.
+    Kartą šis šlovingasis valdovas, būdamas savo pilyje,
+    Didžiajame Lucke, pasiuntė savo pasiuntinius pas Veng­
+    rų karalių, vadinamą Romos imperatoriumi, ir liepė jam
+    atvykti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
+  santrauka: 'Vytautui galutinai prijungus Smolenską prie Lietuvos Didžiosios Kunigaikštystės, Jurijus Svetoslavovičius persikėlė į Didįjį Naugardą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1).
+    '* Jurijus (Georgijus) Svetoslavovičlus — paskutinis Smolensko
+    kunigaikštis (1386— 1392 ir 1401— 1404). Vytautui galutinai prijun­
+    gus Smolensku prie Lietuvos Didžiosios Kunigaikštystės, persikėlė
+    į Didįjį Naugardų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-010
+  santrauka: 'LDK ir Maskvos Didžiosios Kunigaikštystės 1406-1408 m. karo veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
+    Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
+    žastis buvo ne du bebrai ir trys statinės medaus, o  Vytauto progra­
+    ma Išplėsti savo įtakų Pskovo Ir Didžiojo Naugardo bajorų respub­
+    likose ir pasodinti ten savo vietininkus. Karo veiksmai ėjo  LDK
+    rytų pasieniu, Ugios Ir Okos upių ruože, daugiausia dabartinės
+    Kalugos srities teritorijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-011
+  santrauka: 'Visų LDK žemių seimas Vilniuje 1492 m. liepos 18 d. patvirtino Aleksandrą Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Augustas]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Bazilius (Vasilius) II]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/asmenys/Fulvio Ruggieri]]
+- [[objektai/asmenys/Jurijus]]
+- [[objektai/grupes/Korano giminė]]
+- [[objektai/grupes/LDK žemių seimas|LDK žemių seimas (seimas, XV a.)]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rygos vyskupija]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/ponai]]
 - [[objektai/zodynas/seimas]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Monetos]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/ivykiai/Aleksandro patvirtinimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
 - [[objektai/grupes/Livonijos konfederacija]]
-- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]
+- [[objektai/grupes/Smolensko kunigaikščiai]]
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]

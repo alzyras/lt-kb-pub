@@ -61,7 +61,3 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/bajorija]]

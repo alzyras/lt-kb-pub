@@ -45,5 +45,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/nuorašas]]
 - [[objektai/zodynas/regestai]]
 - [[objektai/zodynas/regestas regestai]]

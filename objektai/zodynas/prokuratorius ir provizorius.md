@@ -59,7 +59,6 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/zodynas/muitas tilto mokestis]]

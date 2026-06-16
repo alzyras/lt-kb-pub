@@ -21,7 +21,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jogailos įbrolis ir Polocko kunigaikštis. Jis siejamas su Kęstučio šalininkų kryptimi, Dmitrijaus Doniškio karo žygiais, Kulikovo mūšiu ir žūtimi prie Vorsklos 1399 m.
+Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis. Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona. Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.
 
 ## Variantai
 
@@ -55,7 +55,7 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 <a id="claim-t-54944"></a>
 - t-002
   global_id: t-54944
-  teiginys: 'Andrius buvo Algirdo ir Julijonos sūnus, gimęs iš antros Algirdo santuokos su Vitebsko kunigaikštyte Julijona.'
+  teiginys: 'Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.'
   pagrindžia:
     - c-003
 
@@ -205,7 +205,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 ### Susiję objektai
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
 - [[objektai/ivykiai/1991 m. sausio 13 d]]
-- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
 - [[objektai/asmenys/Jozefas Frankas]]
 - [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
@@ -226,9 +225,11 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - [[objektai/grupes/Polockiečiai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
 - [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]

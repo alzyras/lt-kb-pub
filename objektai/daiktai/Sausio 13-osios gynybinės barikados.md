@@ -17,7 +17,7 @@ amziai:
 
 ## Santrauka
 
-Sausio 13-osios gynybinės barikados aprašomos kaip aplink AT-AS pastatą statytos betoninės sienos ir spygliuotų vielų užtvaros, kai žmonės rinkosi budėti prie parlamento ir kitų objektų.
+1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros. 1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
 
 ## Pavadinimai šaltiniuose
 
@@ -60,7 +60,7 @@ Nenurodyta
 <a id="claim-t-23303"></a>
 - t-002
   global_id: t-23303
-  teiginys: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
+  teiginys: '1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.'
   pagrindžia:
     - c-001
 

@@ -56,5 +56,4 @@ Vartojamos formos: `vėlės`.
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje]]
 - [[objektai/asmenys/Tirskas]]
-- [[objektai/zodynas/dausos]]
 - [[objektai/autoriai/S. Daukantas]]

@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
+Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu. Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną. 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
 
 ## Teiginiai
 
 <a id="claim-t-82777"></a>
 - t-001
   global_id: t-82777
-  teiginys: 'Vaišelga buvo vienintelis kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.'
+  teiginys: 'Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu.'
   pagrindžia:
     - c-002
 
@@ -122,8 +122,5 @@ periodo_grupes:
 - [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Butigeidis]]
-- [[objektai/asmenys/Butvydas]]
 - [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]
-- [[objektai/asmenys/Vytenis]]
 - [[objektai/asmenys/Treniota]]

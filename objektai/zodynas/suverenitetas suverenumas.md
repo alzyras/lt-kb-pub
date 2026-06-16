@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą. Lietuviai atsigriebė 1 sutarties straipsnyje – juo Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
+Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą. Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai. LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 <a id="claim-t-104205"></a>
 - t-002
   global_id: t-104205
-  teiginys: 'Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.'
+  teiginys: 'Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.'
   pagrindžia:
     - c-002
 
@@ -50,14 +50,14 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 <a id="claim-t-104207"></a>
 - t-004
   global_id: t-104207
-  teiginys: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
+  teiginys: 'Vasario 16 Aktas tapo lietuvių nacijos laisvės ir suverenumo simboliu ir davė pradžią tikrai Lietuvos nepriklausomybei.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-104208"></a>
 - t-005
   global_id: t-104208
-  teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
+  teiginys: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
   pagrindžia:
     - c-004
 
@@ -89,7 +89,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-001
 
 - c-002
-  santrauka: 'Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.'
+  santrauka: 'Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal abiejų tų sutarčių punktus dėl
@@ -107,6 +107,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-002
 
 - c-003
+  santrauka: 'Vasario 16 Aktas tapo lietuvių nacijos laisvės ir suverenumo simboliu ir davė pradžią tikrai Lietuvos nepriklausomybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     pabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo
@@ -124,6 +125,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-004
 
 - c-004
+  santrauka: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -195,7 +197,7 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
     - t-007
 
 - c-008
-  santrauka: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
+  santrauka: 'Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-

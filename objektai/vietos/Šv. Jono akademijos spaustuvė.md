@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs. Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė.
+Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve. Akademijos kolegija 1631 m. įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.
 
 ## Teiginiai
 
@@ -34,7 +34,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
 <a id="claim-t-86128"></a>
 - t-002
   global_id: t-86128
-  teiginys: 'Akademijos kolegija vėlesniais laikais į spaustuvę pavertė 1631 m. įgytą sklypą ir mūrinį namą.'
+  teiginys: 'Akademijos kolegija 1631 m. įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
     - t-001
 
 - c-002
-  santrauka: 'Akademijos kolegija vėlesniais laikais į spaustuvę pavertė 1631 m. įgytą sklypą ir mūrinį namą.'
+  santrauka: 'Akademijos kolegija 1631 m. įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi:

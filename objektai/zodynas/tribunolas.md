@@ -11,142 +11,62 @@ date_start: '1581'
 date_end: '1823'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+  - 'XIX'
 tags:
   - bajorija
   - kunigas
   - seimas
   - sąvoka
-amziai:
-  - 'XVI'
-  - 'XIX'
 ---
 # tribunolas
 
 ## Santrauka
 
-Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos. O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai. Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).
+Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m. Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje. Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos.
 
 ## Teiginiai
-
-<a id="claim-t-82097"></a>
-- t-001
-  global_id: t-82097
-  teiginys: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-82098"></a>
-- t-002
-  global_id: t-82098
-  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-82100"></a>
-- t-003
+- t-002
   global_id: t-82100
   teiginys: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   pagrindžia:
-    - c-004
-
-<a id="claim-t-82101"></a>
-- t-004
-  global_id: t-82101
-  teiginys: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
-  pagrindžia:
     - c-003
 
+<a id="claim-t-82101"></a>
+- t-003
+  global_id: t-82101
+  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 <a id="claim-t-82102"></a>
-- t-005
+- t-004
   global_id: t-82102
-  teiginys: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-182981"></a>
-- t-006
-  global_id: t-182981
-  teiginys: 'Bajorijos byloms su dvasininkais tribunole buvo sudaromas mišrusis, arba dvasiškasis, tribunolas.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-182982"></a>
-- t-007
-  global_id: t-182982
-  teiginys: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  teiginys: 'Oginskis siūlė Lietuvos kunigaikštijoje palikti Lietuvos statutą be apribojimų ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+<a id="claim-t-182982"></a>
+- t-005
+  global_id: t-182982
+  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
-    pirmininkas, vadinamas tribunolo maršalka. Bylos bū-
-    davo sprendžiamos balsų dauguma. O bajorijos byloms su
-    dvasininkais būdavo sudaromas mišrasis teismas, arba
-    dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
-    kapitulų skiriami kunigai ir 6 tribunolo deputatai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-    - t-006
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Juo buvo siūloma iš
-    8 Rusijos gubernijų, ku-
-    riose veikė Lietuvos statu-
-    tas, sudaryti didžiąją Lie-
-    tuvos kunigaikštiją (įsidė-
-    mėtina, kad į ją buvo siū-
-    loma įterpti ir Voluinės,
-    Podolės ir Kijevo sritis,
-    kurios nuo 1569 m. buvo
-    Lenkijos ribose: mat, jose
-    taip pat visą laiką veikė
-    Lietuvos statutas). Ogins-
-    kis nurodinėjo, kad tuo
-    būdu kelias Nepoleono
-    įtakai Lietuvoje būtų už-
-    kirstas. Be to, jis siūlė pa-
-    likti toje kunigaikštijoje
-    Lietuvos statutą be jokių
-    apribojimų ir įsteigti nuo
-    Petrapilio visiškai nepri-
-    klausomą tribunolą (mat,
-    tada aukščiausioji instan-
-    cija buvo Rusijos senatas).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet pagaliau,
-    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
-    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
-    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
-    Lietuvoje.
-    Vyriausiojo Lietuvos tribunolo reikalas buvo
-    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
-    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
-    pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-    - t-002
-
-- c-004
   santrauka: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -173,9 +93,63 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-002
+- c-004
+  santrauka: 'Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet pagaliau,
+    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
+    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
+    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
+    Lietuvoje.
+    Vyriausiojo Lietuvos tribunolo reikalas buvo
+    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
+    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-003
-
+    - t-005
 - c-005
+  santrauka: 'Oginskis siūlė Lietuvos kunigaikštijoje palikti Lietuvos statutą be apribojimų ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Juo buvo siūloma iš
+    8 Rusijos gubernijų, ku-
+    riose veikė Lietuvos statu-
+    tas, sudaryti didžiąją Lie-
+    tuvos kunigaikštiją (įsidė-
+    mėtina, kad į ją buvo siū-
+    loma įterpti ir Voluinės,
+    Podolės ir Kijevo sritis,
+    kurios nuo 1569 m. buvo
+    Lenkijos ribose: mat, jose
+    taip pat visą laiką veikė
+    Lietuvos statutas). Ogins-
+    kis nurodinėjo, kad tuo
+    būdu kelias Nepoleono
+    įtakai Lietuvoje būtų už-
+    kirstas. Be to, jis siūlė pa-
+    likti toje kunigaikštijoje
+    Lietuvos statutą be jokių
+    apribojimų ir įsteigti nuo
+    Petrapilio visiškai nepri-
+    klausomą tribunolą (mat,
+    tada aukščiausioji instan-
+    cija buvo Rusijos senatas).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-006
   santrauka: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -193,24 +167,25 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     cija buvo Rusijos senatas).
     Kiek vėliau buvo paruošti
     keli numatomos kunigaikštijos konstitucijos projektai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/autoriai/A. Janulaitis]]
 - [[objektai/autoriai/Aug. Janulaitis]]
@@ -226,7 +201,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]
-- [[objektai/zodynas/maršalka]]
 - [[objektai/grupes/ojo fuzilierių regimento]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/uolektis]]

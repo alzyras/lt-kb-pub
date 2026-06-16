@@ -21,23 +21,16 @@ amziai:
 
 ## Santrauka
 
-Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir Estijos) arba tarp jų, Suomijos ir Lenkijos pasiliko be vaisių, kol pagaliau Lietuvos vyriausybei pavyko surasti bendradarbiavimo formą, kuri buvo ir Latvių ir Estų priimta; pati.
+Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė. Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė. Vilniuje buvo palaiminta Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoka.
 
 ## Teiginiai
 
 <a id="claim-t-110001"></a>
 - t-001
   global_id: t-110001
-  teiginys: 'Sovietams kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  teiginys: 'Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-110002"></a>
-- t-002
-  global_id: t-110002
-  teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
-  pagrindžia:
-    - c-002
 
 <a id="claim-t-183870"></a>
 - t-003
@@ -49,7 +42,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Sovietams kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
+  santrauka: 'Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietija kartojo nebeturinti regione
@@ -68,6 +61,7 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
     - t-001
 
 - c-002
+  santrauka: 'Sovietų Sąjungai kariaujant su Suomija, Baltijos valstybės vengė smerkti SSRS, nors ši buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS 1940 metų ultimatumas ir

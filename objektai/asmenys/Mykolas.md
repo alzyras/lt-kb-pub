@@ -16,7 +16,6 @@ tags:
 Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
 
 ## Teiginiai
-
 <a id="claim-t-64008"></a>
 - t-001
   global_id: t-64008
@@ -25,7 +24,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -57,15 +55,15 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas|1830-1831 m. sukilimas (sukilimas, XIX a.)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]
 - [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]
+- [[objektai/daiktai/Birbynės]]
 - [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]
 - [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas]]
 - [[objektai/grupes/Gediminaičių dinastija]]
@@ -75,11 +73,16 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/grupes/Kauno jėzuitų kolegija]]
 - [[objektai/ivykiai/Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/grupes/Korano giminė]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
@@ -93,28 +96,29 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Trimitai]]
 - [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
-- [[objektai/grupes/Valkininkų konfederacija]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/daiktai/Valstybės antspaudai]]
 - [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais]]
 - [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]
 - [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/etmonų teisė]]
-- [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/kultūrinė autonomija]]
 - [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/posakiai/visur guli nukautas greta nukauto]]
+- [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
 - [[objektai/ivykiai/Žygimanto Kęstutaičio pakėlimas Lietuvos didžiuoju kunigaikščiu (1432 m.)]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
-- [[objektai/asmenys/Kristupas Pacas]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lietuvos didžiuoju kunigaikščiu]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]

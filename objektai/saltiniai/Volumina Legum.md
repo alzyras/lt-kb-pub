@@ -11,11 +11,11 @@ date_start: '1859'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - saltinis
 amziai:
   - 'XIX'
   - 'XXI'
+tags:
+  - saltinis
 ---
 # Volumina Legum
 
@@ -24,23 +24,20 @@ amziai:
 Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos specialiuose rinkiniuose, vadinamuose Volumina Legum. Jų tada buvo iš viso išspausdinta 8 tomai.
 
 ## Teiginiai
-
-<a id="claim-t-67580"></a>
-- t-001
-  global_id: t-67580
-  teiginys: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-67581"></a>
 - t-002
   global_id: t-67581
   teiginys: '„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.'
   pagrindžia:
     - c-001
+- t-003
+  teiginys: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -51,8 +48,8 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
+  santrauka: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po seimo paprastai jie būdavo išspaus-
@@ -60,8 +57,10 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
     konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
     niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
     spausdinta 8 tomai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003

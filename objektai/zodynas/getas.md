@@ -43,6 +43,5 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/MOPR]]
 - [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]

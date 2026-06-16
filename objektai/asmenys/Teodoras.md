@@ -11,47 +11,37 @@ date_start: '1330'
 date_end: '1331'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 tags:
   - asmuo
   - dinastija
   - karas
   - paliaubos
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Teodoras
 
 ## Santrauka
 
-1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo, nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus Lietuvos ir Lenkijos sostus. Po jo, 15 metų buvo caru jokiems dideliems žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim pasibaigė Kalitos dinastija. Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.).
+Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija. 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
 
 ## Teiginiai
-
-<a id="claim-t-79202"></a>
-- t-001
-  global_id: t-79202
-  teiginys: 'Po jo, 15 metų buvo caru jokiems dideliems žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim pasibaigė Kalitos dinastija.'
-  pagrindžia:
-    - c-003
-
 <a id="claim-t-79203"></a>
 - t-002
   global_id: t-79203
   teiginys: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-79204"></a>
 - t-003
-  global_id: t-79204
-  teiginys: '1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo, nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus Lietuvos ir Lenkijos sostus.'
+  teiginys: 'Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -70,25 +60,8 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1571 m. tarp jų buvo pasirašytos 3 me-
-    tų paliaubos, ir abi pusės žinojo, kad toliau neišvengs karo,
-    nes caras Jonas IV žūt būt norėjo gauti sau patogų išėjimą į
-    Baltijos jūrą, t. y. užimti didžiąją dalį Livonijos. Lietuva, o iš
-    dalies ir Lenkija, šias neseniai įsigytas žemes norėjo apginti.
-    1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo,
-    nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus
-    Lietuvos ir Lenkijos sostus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-003
+  santrauka: 'Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
@@ -96,11 +69,13 @@ periodo_grupes:
     žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -108,24 +83,29 @@ periodo_grupes:
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/posakiai/didžioji suirutė]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Brastos seimas 1505 m.|Brastos seimas 1505 m. (seimas, XVI a.)]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/grupes/Radvilų giminė]]
+- [[objektai/grupes/Smolenskiečiai]]
 - [[objektai/ivykiai/Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/ivykiai/Teodoro Karijotaičio mėginimas atgauti Podolę]]
 - [[objektai/asmenys/Uzbeko]]
 - [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/ivykiai/Zigmanto Vazos elekcija (1587 m.)]]
+- [[objektai/ivykiai/Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus]]
 - [[objektai/zodynas/didžioji suirutė smuta]]

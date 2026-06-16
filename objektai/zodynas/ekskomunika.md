@@ -49,6 +49,7 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Čekai]]

@@ -20,20 +20,21 @@ amziai:
 
 ## Santrauka
 
-122, 132, 158, 160, 169, 189, 197, 213, 225, 230, 240- 242, 262, 263, 266, 272, 274, 303, 305, 307, 313, 319-322, 324, 327, 351, 372, 379 Naugardas-Sieverskas 262, 312, 313, 321 Naugardo metraštis 163-164, 168, 183, 244, 311, 320 Naugardukas 119, 125, 126.
+Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.
 
 ## Teiginiai
 
 <a id="claim-t-33800"></a>
 - t-001
   global_id: t-33800
-  teiginys: 'Kita kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
+  teiginys: 'Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pav., Ragainės komtūras vienu puolimu išsivedė 100

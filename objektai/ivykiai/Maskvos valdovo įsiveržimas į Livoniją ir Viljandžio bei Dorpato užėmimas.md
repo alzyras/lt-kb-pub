@@ -10,7 +10,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus. Maskvėnai su 120 tūkstančių vyrų žygiu netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus. Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,7 +36,7 @@ Nenurodyta
 <a id="claim-t-185751"></a>
 - t-002
   global_id: t-185751
-  teiginys: 'Maskvėnai su 120 tūkstančių vyrų žygiu netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
+  teiginys: 'Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Maskvėnai su 120 tūkstančių vyrų žygiu netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
+  santrauka: 'Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Maskvėnai, į šį žygį patraukę

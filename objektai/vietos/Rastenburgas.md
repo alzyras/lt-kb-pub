@@ -24,51 +24,27 @@ amziai:
 
 ## Santrauka
 
-Štai Lietuvai artimesniųjų pilių įkūrimo datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava — 1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m., Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m..
+Rastenburgo pilis buvo įkurta 1345 m. Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.
 
 ## Teiginiai
 
-<a id="claim-t-69144"></a>
-- t-001
-  global_id: t-69144
-  teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-69145"></a>
-- t-002
+- t-001
   global_id: t-69145
   teiginys: 'Rastenburgo pilis buvo įkurta 1345 m.'
   pagrindžia:
-    - c-002
+    - c-001
 
 <a id="claim-t-185122"></a>
-- t-003
+- t-002
   global_id: t-185122
-  teiginys: 'Rastenburgo komtūras surengė pasalas, į kurias medžiodamas vos nepakliuvo Veliuonoje pasilikęs karalius.'
+  teiginys: 'Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1347 m. vasarį „abu lietuvių karaliai“
-    puolė Prūsijoje Rastenburgą, niokojo
-    Bartos žemę iki Girdavų pilies, apgulė
-    Lunenburgą, sunaikino jo papilį.
-
-    Nuo lietuvių puolimo Ordinas bandė sau-
-    goti Sembą. Magistras su gausia kariuomene
-    įvairiose vietose priešais Lietuvos žemes
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
@@ -85,10 +61,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
-  santrauka: 'Rastenburgo komtūras surengė pasalas, į kurias medžiodamas vos nepakliuvo Veliuonoje pasilikęs karalius.'
+- c-002
+  santrauka: 'Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Pasibai­
@@ -111,4 +87,4 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

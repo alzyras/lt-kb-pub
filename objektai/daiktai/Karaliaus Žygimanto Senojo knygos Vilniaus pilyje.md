@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25. 97, ten yra iš Lietuvos Metrikos paimtas karaliaus knygų sąrašas.
+Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje. Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,14 +55,14 @@ Nenurodyta
 <a id="claim-t-87080"></a>
 - t-002
   global_id: t-87080
-  teiginys: 'Karalius Žygimantas Senojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
+  teiginys: 'Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Karalius Žygimantas Senojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
+  santrauka: 'Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suklestėjus prekybai, sukru­
@@ -111,7 +111,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]

@@ -15,50 +15,31 @@ tags:
 
 ## Santrauka
 
-Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).
+Didysis Naugardas buvo galinga miestiečių valstybė ir lietuvių talkininkas žygiuose prieš kalavijuočių ordiną.
 
 ## Teiginiai
-
-<a id="claim-t-67768"></a>
-- t-001
-  global_id: t-67768
-  teiginys: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-67769"></a>
-- t-002
+- t-001
   global_id: t-67769
-  teiginys: 'Naugardo miestiečių valstybė.'
+  teiginys: 'Didysis Naugardas buvo galinga miestiečių valstybė ir lietuvių talkininkas žygiuose prieš kalavijuočių ordiną.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Didysis Naugardas buvo galinga miestiečių valstybė ir lietuvių talkininkas žygiuose prieš kalavijuočių ordiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Padarę taiką pietuose, jie pradėjo
     žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo
     pilis. Šitiems žygiams jie rado ir talkininkų. Tai buvo galinga
     D. Naugardo miestiečių valstybė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mindaugas tuo metu buvo labai nusivylęs
-    santykiais su ordinu, nes neturėjo iš to jokios naudos. Tiesa,
-    ordinas jo žemių nebepuolė, bet užtat jo akivaizdoje vergė že-
-    maičius. Todėl Mindaugas priėmė pasiūlymą ir, sudaręs są-
-    jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
-    žemę net iki Cėsio (Vendeno).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

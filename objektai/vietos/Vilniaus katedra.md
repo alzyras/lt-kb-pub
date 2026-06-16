@@ -15,218 +15,159 @@ date_start: '1389'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 tags:
   - pilis
   - valdovas
   - vieta
-amziai:
-  - 'XIV'
-  - 'XXI'
 ---
 # Vilniaus katedra
 
 ## Santrauka
 
-Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv. Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą; bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas. Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.
+1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra. A. Šapokos redaguotoje istorijoje reiškiama viltis, kad Vytauto kapas bus surastas, o jo kaulai padėti Vilniaus katedroje. Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.
 
 ## Teiginiai
-
 <a id="claim-t-110146"></a>
 - t-001
   global_id: t-110146
   teiginys: '1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra.'
   pagrindžia:
-    - c-013
-
-<a id="claim-t-110147"></a>
-- t-002
-  global_id: t-110147
-  teiginys: 'A. Šapokos redaguotoje istorijoje reiškiama viltis, kad Vytauto kapas bus surastas, o jo kaulai padėti Vilniaus katedroje.'
-  pagrindžia:
-    - c-014
-
-<a id="claim-t-110148"></a>
-- t-003
-  global_id: t-110148
-  teiginys: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
-  pagrindžia:
-    - c-004
+    - c-012
 
 <a id="claim-t-110149"></a>
-- t-004
+- t-003
   global_id: t-110149
-  teiginys: 'Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.'
+  teiginys: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
   pagrindžia:
-    - c-009
+    - c-003
 
 <a id="claim-t-110150"></a>
-- t-005
+- t-004
   global_id: t-110150
-  teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
+  teiginys: 'Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.'
   pagrindžia:
     - c-008
 
 <a id="claim-t-110151"></a>
-- t-006
+- t-005
   global_id: t-110151
-  teiginys: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
+  teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   pagrindžia:
-    - c-012
+    - c-007
 
 <a id="claim-t-110152"></a>
-- t-007
+- t-006
   global_id: t-110152
-  teiginys: 'Užbaigta Vilniaus katedra buvo pašventinta Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulais.'
-  pagrindžia:
-    - c-006
-
-<a id="claim-t-110153"></a>
-- t-008
-  global_id: t-110153
-  teiginys: 'Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.'
-  pagrindžia:
-    - c-010
-
-<a id="claim-t-110154"></a>
-- t-009
-  global_id: t-110154
-  teiginys: 'Vilniaus vyskupas Povilas užkirto kelią karaliui ir privertė jį pasukti į katalikų katedrą.'
+  teiginys: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   pagrindžia:
     - c-011
 
+<a id="claim-t-110153"></a>
+- t-007
+  global_id: t-110153
+  teiginys: 'Užbaigta Vilniaus katedra buvo pašventinta Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulais.'
+  pagrindžia:
+    - c-005
+
+<a id="claim-t-110154"></a>
+- t-008
+  global_id: t-110154
+  teiginys: 'Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.'
+  pagrindžia:
+    - c-009
+
 <a id="claim-t-110155"></a>
-- t-010
+- t-009
   global_id: t-110155
-  teiginys: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-110156"></a>
-- t-011
-  global_id: t-110156
-  teiginys: 'Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-110157"></a>
-- t-012
-  global_id: t-110157
-  teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
+  teiginys: 'Vilniaus vyskupas Povilas užkirto kelią karaliui ir privertė jį pasukti į katalikų katedrą.'
   pagrindžia:
     - c-010
 
 <a id="claim-t-110158"></a>
-- t-013
+- t-011
   global_id: t-110158
-  teiginys: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-110159"></a>
-- t-014
-  global_id: t-110159
-  teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
-  pagrindžia:
-    - c-016
-
-<a id="claim-t-110160"></a>
-- t-015
-  global_id: t-110160
-  teiginys: '1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą.'
-  pagrindžia:
-    - c-008
-
-<a id="claim-t-110161"></a>
-- t-016
-  global_id: t-110161
-  teiginys: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
-  pagrindžia:
-    - c-015
-
-<a id="claim-t-110162"></a>
-- t-017
-  global_id: t-110162
-  teiginys: 'XVIII a. senosios Katedros griuvėsiuose pražuvo Elžbietos ir Barboros antkapiai.'
-  pagrindžia:
-    - c-017
-
-<a id="claim-t-110163"></a>
-- t-018
-  global_id: t-110163
-  teiginys: 'Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.'
+  teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   pagrindžia:
     - c-009
 
-<a id="claim-t-110164"></a>
-- t-019
-  global_id: t-110164
-  teiginys: 'Vilniaus katedra sudegė 1399 metais.'
+<a id="claim-t-110160"></a>
+- t-013
+  global_id: t-110160
+  teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
+  pagrindžia:
+    - c-015
+
+<a id="claim-t-110161"></a>
+- t-014
+  global_id: t-110161
+  teiginys: '1522 m. prie Vilniaus katedros įkurta scholastiko prelatūra, kurios pareiga buvo išlaikyti Katedros mokyklą.'
   pagrindžia:
     - c-007
+
+<a id="claim-t-110162"></a>
+- t-015
+  global_id: t-110162
+  teiginys: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
+  pagrindžia:
+    - c-014
+
+<a id="claim-t-110163"></a>
+- t-016
+  global_id: t-110163
+  teiginys: 'XVIII a. senosios Katedros griuvėsiuose pražuvo Elžbietos ir Barboros antkapiai.'
+  pagrindžia:
+    - c-016
+
+<a id="claim-t-110164"></a>
+- t-017
+  global_id: t-110164
+  teiginys: 'Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.'
+  pagrindžia:
+    - c-008
 
 <a id="claim-t-110165"></a>
-- t-020
+- t-018
   global_id: t-110165
-  teiginys: 'Jogaila Vladislovas buvo Vilniaus katedros fundatorius.'
+  teiginys: 'Vilniaus katedra sudegė 1399 metais.'
   pagrindžia:
-    - c-007
+    - c-006
 
 <a id="claim-t-110166"></a>
-- t-021
+- t-019
   global_id: t-110166
-  teiginys: 'Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.'
+  teiginys: 'Jogaila Vladislovas buvo Vilniaus katedros fundatorius.'
   pagrindžia:
-    - c-005
+    - c-006
 
 <a id="claim-t-183875"></a>
-- t-022
+- t-020
   global_id: t-183875
+  teiginys: 'Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.'
+  pagrindžia:
+    - c-004
+
+- t-021
   teiginys: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
   pagrindžia:
+    - c-017
+- t-022
+  teiginys: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.'
+  pagrindžia:
     - c-018
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-023
+  teiginys: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
+  pagrindžia:
+    - c-019
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
-    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
-    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-010
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Mykolo Arkangelo altorium. 1530 m. ka-
-    tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
-    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
-    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-013
-
 - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo
-    1610 m. gaisro. Tik 1853 m. grafas E. Tiškevičius toje vietoje, kur
-    turėjo būti senasis šv. Mykolo altorius, pastatė naują paminklą; tai
-    marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prie-
-    rašu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-011
-
-- c-004
   santrauka: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -242,8 +183,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-003
-
-- c-005
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Be esančių jau Vilniuje nuo seniau šv.
@@ -254,9 +194,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
-
-- c-006
+    - t-020
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus
@@ -267,8 +206,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-007
-
-- c-007
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Stanislovas —
@@ -280,10 +218,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-018
     - t-019
-    - t-020
-
-- c-008
+- c-007
   santrauka: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -308,9 +245,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-005
-    - t-015
-
-- c-009
+    - t-014
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaunasis karalius nejau­
@@ -334,10 +270,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
     - t-004
-
-- c-010
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
@@ -356,9 +291,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-008
-    - t-012
-
-- c-011
+    - t-011
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
@@ -376,8 +310,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-009
-
-- c-012
+- c-011
   santrauka: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -399,8 +332,7 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-006
-
-- c-013
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne­
@@ -419,28 +351,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-014
-  santrauka: 'A. Šapokos redaguotoje istorijoje reiškiama viltis, kad Vytauto kapas bus surastas, o jo kaulai padėti Vilniaus katedroje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    D. Malinauskas, kurs švenčiausiai
-    tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie
-    galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-
-    lams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis
-    saugomas Vilniaus Lietuvių Mokslo Draugijoje. O vis dėlto yra
-    daug vilties, kad Vytauto kapas kada nors bus surastas, ir jo kaulai
-    bus padėti katedroje garbingoje vietoje.
-
-    Vytauto D. paminklas Vilniaus katedroje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-015
-  santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
+  santrauka: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.
@@ -455,9 +367,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
-
-- c-016
+    - t-015
+- c-015
   santrauka: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -494,9 +405,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
-
-- c-017
+    - t-013
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Italai, čia nuolat dirbdami šešerius metus,
@@ -512,9 +422,8 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
-
-- c-018
+    - t-016
+- c-017
   santrauka: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -533,4 +442,33 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-021
+- c-018
+  santrauka: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytauto kapas. Didžiojo valdovo lavonas buvo laikomas 8 die-
+    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
+    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-022
+- c-019
+  santrauka: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mykolo Arkangelo altorium. 1530 m. ka-
+    tedrai sudegus, altorius žuvo. Tada Zigmanto Augusto motina, ka-
+    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
+    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023

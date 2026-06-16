@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-Lietuvos trispalvė minima kaip materialus valstybės simbolis 1919 m. rugsėjo 26 d. Kaune vykusioje džiaugsmo manifestacijoje, kai lėktuvai danguje tempė trispalvę.
+Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę. Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.
 
 ## Pavadinimai šaltiniuose
 
@@ -54,7 +54,7 @@ Nenurodyta
 <a id="claim-t-75334"></a>
 - t-001
   global_id: t-75334
-  teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti trispalvę ir „Tautišką giesmę“.'
+  teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Nenurodyta
 <a id="claim-t-75336"></a>
 - t-003
   global_id: t-75336
-  teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-004
 
@@ -82,7 +82,7 @@ Nenurodyta
 <a id="claim-t-75338"></a>
 - t-005
   global_id: t-75338
-  teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje partija oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
+  teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-004
 
@@ -115,7 +115,7 @@ Nenurodyta
     - t-006
 
 - c-002
-  santrauka: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti trispalvę ir „Tautišką giesmę“.'
+  santrauka: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmieji
@@ -185,6 +185,5 @@ Nenurodyta
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/de facto]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
 - [[objektai/daiktai/Lėktuvai]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

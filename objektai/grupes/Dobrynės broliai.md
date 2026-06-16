@@ -22,14 +22,14 @@ amziai:
 
 ## Santrauka
 
-Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai. Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie. Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.
+„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos. Dusburgietis Dobrynės brolius, vadintus Kristaus kariais, priskyrė prie ankstesnių kovotojų prieš prūsus. Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 
 ## Teiginiai
 
 <a id="claim-t-65108"></a>
 - t-001
   global_id: t-65108
-  teiginys: 'Dusburgietis teigia, kad „Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas, apie Dobrynės brolius, apie tai, kaip buvo pakviestas Vokiečių ordinas, o Kulmo žemė užrašyta broliams, apie Prūsijos atskirų žemių (iki Sembos) nukariavimą, apie.'
+  teiginys: '„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos.'
   pagrindžia:
     - c-001
 
@@ -71,6 +71,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Pranešime...“ kalbama apie pagonių brovimąsi  į Mazovijos kunigaikščio
@@ -177,7 +178,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -186,14 +187,15 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Hugonas Butyras]]
 - [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kristaus karių ordinas]]
+- [[objektai/zodynas/Kristaus kariai]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
 - [[objektai/asmenys/Brunonas]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/zodynas/Kristaus kariai]]
 - [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

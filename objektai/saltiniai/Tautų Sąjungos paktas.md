@@ -14,27 +14,23 @@ tags:
 
 ## Santrauka
 
-Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str. to, kad daugumas tuometinių Tautų S-gos narių dar netikėjo Pabaltijo valstybių pastovumu, ar nenorėjo prisiimti T. Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internacio- linius santykius ir pareikalavo pritaikyti pakto 11 str.
+Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija konfliktui spręsti pagal pakto 15 straipsnio 4 punktą.
 
 ## Teiginiai
-
-<a id="claim-t-67549"></a>
-- t-001
-  global_id: t-67549
-  teiginys: 'Dalis Tautų Sąjungos narių nenorėjo prisiimti pakto prievolių ginti Pabaltijo valstybes nuo kaimynų agresijos.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-67550"></a>
-- t-002
+- t-001
   global_id: t-67550
-  teiginys: 'Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją (pagal pakto str.'
+  teiginys: 'Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija konfliktui spręsti pagal pakto 15 straipsnio 4 punktą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+## Bibliografiniai įrodymai
 - c-001
+  santrauka: 'Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija konfliktui spręsti pagal pakto 15 straipsnio 4 punktą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     paskutinį Hymanso projektą toliau svarstyti, išrasdama, kad jis
@@ -47,26 +43,10 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
     klausimą sprendė Lietuvos naudai; todėl jis siūlė priimti tą reko-
     mendaciją ir jos suteiktų teisių ribose toliau ieškoti būdų jai
     pagerinti ar pataisyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Dalis Tautų Sąjungos narių nenorėjo prisiimti pakto prievolių ginti Pabaltijo valstybes nuo kaimynų agresijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XI. 15 —
-    XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)
-    prašymą, tačiau nesiryžo dar jo patenkinti; ypač nesiryžo dėl
-    to, kad daugumas tuometinių Tautų S-gos narių dar netikėjo
-    Pabaltijo valstybių pastovumu, ar nenorėjo prisiimti T. Sąjungos
-    pakto (str. 10) uždedamų prievolių ginti tas naujas valstybes
-    prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
-    buvusios ar būsimos Rusijos .atžvilgiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

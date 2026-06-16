@@ -21,7 +21,7 @@ amziai:
 
 ## Santrauka
 
-Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą. Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos. Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.
+Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės. 1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės. 1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu.
 
 ## Teiginiai
 
@@ -35,13 +35,21 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 <a id="claim-t-22082"></a>
 - t-002
   global_id: t-22082
-  teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  teiginys: '1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
   pagrindžia:
     - c-001
+
+<a id="claim-t-183403"></a>
+- t-003
+  global_id: t-183403
+  teiginys: '1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip juos traktavo ir Rusijos imperijos valdžia.
@@ -73,7 +81,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
     - t-001
 
 - c-003
-  santrauka: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  santrauka: '1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
@@ -92,6 +100,6 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras II]]
+- [[objektai/zodynas/luomas]]

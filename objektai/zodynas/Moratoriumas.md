@@ -18,20 +18,21 @@ amziai:
 
 ## Santrauka
 
-Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi 1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komerciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų griūtis tiesiogiai paveikė apie 30 proc..
+1995 m. pabaigoje dviem dideliems komerciniams bankams paskelbtas moratoriumas pakenkė Lietuvos ekonomikos ir finansų raidai.
 
 ## Teiginiai
 
 <a id="claim-t-26337"></a>
 - t-001
   global_id: t-26337
-  teiginys: '1995 m. pabaigoje moratoriumas paskelbtas dviem dideliems komerciniams bankams, o jų griūtis pakenkė Lietuvos finansų raidai.'
+  teiginys: '1995 m. pabaigoje dviem dideliems komerciniams bankams paskelbtas moratoriumas pakenkė Lietuvos ekonomikos ir finansų raidai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1995 m. pabaigoje dviem dideliems komerciniams bankams paskelbtas moratoriumas pakenkė Lietuvos ekonomikos ir finansų raidai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi

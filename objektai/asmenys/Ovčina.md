@@ -45,5 +45,4 @@ Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Vasilijus]]

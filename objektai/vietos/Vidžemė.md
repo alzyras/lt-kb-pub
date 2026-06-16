@@ -11,13 +11,13 @@ date_start: '1936'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XX'
+  - 'XXI'
 tags:
   - bajorija
   - didikas
   - vieta
-amziai:
-  - 'XX'
-  - 'XXI'
 ---
 # Vidžemė
 
@@ -26,7 +26,6 @@ amziai:
 Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 
 ## Teiginiai
-
 <a id="claim-t-69563"></a>
 - t-001
   global_id: t-69563
@@ -40,9 +39,10 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   teiginys: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -61,8 +61,8 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
+  santrauka: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Augustas irgi pasi-
@@ -73,8 +73,10 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

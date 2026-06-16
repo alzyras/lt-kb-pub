@@ -77,10 +77,15 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kalavijas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Tautvilas]]
 - [[objektai/posakiai/Ugnimi ir kalaviju]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/ivykiai/Danieliaus ir Vasilkos žygis prieš Mindaugo stovyklą]]
 - [[objektai/asmenys/Patirgas]]
+- [[objektai/grupes/Poloviečiai]]
+- [[objektai/ivykiai/Tautvilos nužudymas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]
 - [[objektai/asmenys/Algardas Hohenšteino grafas]]

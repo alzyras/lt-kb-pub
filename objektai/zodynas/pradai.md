@@ -22,7 +22,7 @@ amziai:
 
 ## Santrauka
 
-Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika. „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.
+Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, nes separatizmą laikė bajoriškos visuomenės reiškiniu. Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos vengė tiesiogiai ją likviduoti. Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, nes separatizmą laikė bajoriškos visuomenės reiškiniu.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 <a id="claim-t-70288"></a>
 - t-002
   global_id: t-70288
-  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  teiginys: 'Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos vengė tiesiogiai ją likviduoti.'
   pagrindžia:
     - c-002
 
@@ -97,7 +97,6 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/separatizmas]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
@@ -113,4 +112,3 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
-- [[objektai/zodynas/akcijos]]

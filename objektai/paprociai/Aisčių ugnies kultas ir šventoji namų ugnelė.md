@@ -34,21 +34,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-
-<a id="claim-t-10815"></a>
-- t-001
-  global_id: t-10815
-  teiginys: 'Aisčiai ugnį laikė dievybe, per ją susižinodavo su dievais ir degindavo jiems aukas; kai kuriose vietose nuolat kūrenama amžinoji ugnis buvo savotiška šventovė.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-10816"></a>
-- t-002
-  global_id: t-10816
-  teiginys: 'Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.'
-  pagrindžia:
-    - c-002
-
 <a id="claim-t-12421"></a>
 - t-003
   global_id: t-12421
@@ -69,36 +54,20 @@ Nenurodyta
   teiginys: 'Senovės Lietuvoje žinoma keletas kulto tarnų vardų, bet nerasta jų organizacinio ryšio ar rimtų tikybos šventnamių liudijimų.'
   pagrindžia:
     - c-003
+- t-006
+  teiginys: 'Aisčiai ugnį laikė dievybe, per ją susižinodavo su dievais ir degindavo jiems aukas; kai kuriose vietose nuolat kūrenama amžinoji ugnis buvo savotiška šventovė.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Reikšmingą vietą aisčių religijoje turėjo ugnis. Ji buvo
-    ne tik dievybė — per ją žmonės susižinodavo su savo dievais, su-
-    žinodavo jų valią; ugnyje aisčiai degindavo ir dievams aukas.
-    Kai kuriose vietose ji buvo nuolat kūrenama — tai amžinoji
-    ugnis. Tokios vietos buvo savotiškos šventovės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tokios vietos buvo savotiškos šventovės. Ugnis buvo
-    gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
-    bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
-    šventoji namų ugnelė, arba gabija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
 - c-003
   santrauka: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -117,7 +86,6 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-005
-
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -131,6 +99,37 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Aisčiai ugnį laikė dievybe, per ją susižinodavo su dievais ir degindavo jiems aukas; kai kuriose vietose nuolat kūrenama amžinoji ugnis buvo savotiška šventovė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Reikšmingą vietą aisčių religijoje turėjo ugnis. Ji buvo
+    ne tik dievybė — per ją žmonės susižinodavo su savo dievais, su-
+    žinodavo jų valią; ugnyje aisčiai degindavo ir dievams aukas.
+    Kai kuriose vietose ji buvo nuolat kūrenama — tai amžinoji
+    ugnis. Tokios vietos buvo savotiškos šventovės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-006
+  santrauka: 'Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tokios vietos buvo savotiškos šventovės. Ugnis buvo
+    gerbiama ne tik šventovėje, bet ir kiekvienų namų židiny, kur,
+    bent žiemos metu, ji buvo nuolat kūrenama. Tai vadinamoji
+    šventoji namų ugnelė, arba gabija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai

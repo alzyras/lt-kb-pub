@@ -179,6 +179,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/grupes/Rusai]]
@@ -190,7 +191,7 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Pajauta]]
-- [[objektai/asmenys/Kernius]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
+- [[objektai/asmenys/Kernius]]
 - [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
 - [[objektai/grupes/Pamarėnai]]

@@ -14,59 +14,28 @@ tags:
 
 ## Santrauka
 
-Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą. Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?
+Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą. 1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.
 
 ## Teiginiai
 
-<a id="claim-t-104188"></a>
-- t-001
-  global_id: t-104188
-  teiginys: 'Autoriai svarstė, ar Lietuva pralaimėjo neišnaudojusi federacijos su Lenkija ir kantonų principo galimybių.'
-  pagrindžia:
-    - c-001
-
 <a id="claim-t-104189"></a>
-- t-002
+- t-001
   global_id: t-104189
-  teiginys: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.'
-  pagrindžia:
-    - c-004
-
-<a id="claim-t-104191"></a>
-- t-003
-  global_id: t-104191
-  teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-104192"></a>
-- t-004
-  global_id: t-104192
-  teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  teiginys: 'Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą.'
   pagrindžia:
     - c-002
+
+<a id="claim-t-104192"></a>
+- t-002
+  global_id: t-104192
+  teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Autoriai svarstė, ar Lietuva pralaimėjo neišnaudojusi federacijos su Lenkija ir kantonų principo galimybių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
-    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
-    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
-    nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
-    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
-    karo, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų
-    federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
-    tas Šveicarijoje pasiteisinęs kantonų principas?
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+  santrauka: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi šalys sutarė priimti tą planą kaip „bazę
@@ -78,24 +47,10 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
-    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
-    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
-    ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
-    diskusijom“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.'
+- c-002
+  santrauka: 'Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai federacijos
@@ -111,32 +66,12 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-005
-  santrauka: 'Autoriai svarstė, ar Lietuva pralaimėjo neišnaudojusi federacijos su Lenkija ir kantonų principo galimybių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ar Lietuva nepralaimėjo neišnaudojusi visų
-    federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
-    tas Šveicarijoje pasiteisinęs kantonų principas? Tikėtiniau, kad kantoninė
-    Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto
-    tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.
-    Neabejotina, kad lenkų ir lietuvių liberalai būtų sutarę, tačiau kaip būtų
-    sugyvenę Vilniaus regione lenkų ir lietuvių nacionalizmai?
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„bazę diskusijom“]]
-- [[objektai/posakiai/„nei karo, nei taikos“]]
 - [[objektai/zodynas/autonomija autonominis statusas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

@@ -8,12 +8,11 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai: []
+periodo_grupes: []
 tags:
   - autorius
   - kunigaikštis
-amziai:
-  - 'L'
-periodo_grupes: []
 ---
 # I. Lappo
 
@@ -22,7 +21,6 @@ periodo_grupes: []
 Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
 
 ## Teiginiai
-
 <a id="claim-t-100107"></a>
 - t-001
   global_id: t-100107
@@ -31,7 +29,6 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
     - c-001
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

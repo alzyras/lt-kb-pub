@@ -3,23 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: 'klaipėdiečiai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1925 m.'
-date_start: '1925'
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
-amziai:
-  - 'XX'
 ---
 # klaipėdiečiai
 
 ## Santrauka
 
-1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.
+Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.
 
 ## Teiginiai
 
@@ -27,13 +21,6 @@ amziai:
 - t-001
   global_id: t-22188
   teiginys: 'Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.'
-  pagrindžia:
-    - c-001
-
-<a id="claim-t-183430"></a>
-- t-002
-  global_id: t-183430
-  teiginys: '1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai.'
   pagrindžia:
     - c-001
 
@@ -53,7 +40,6 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-001
 
 ## Ryšiai

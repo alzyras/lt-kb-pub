@@ -24,14 +24,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė. Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M.
+1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu. Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą. Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
 
 ## Teiginiai
 
 <a id="claim-t-19060"></a>
 - t-001
   global_id: t-19060
-  teiginys: 'Kazys Grinius buvo išrinktas prezidentu kaip valstiečių liaudininkų lyderis.'
+  teiginys: '1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
   pagrindžia:
     - c-001
 
@@ -45,27 +45,21 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 <a id="claim-t-19062"></a>
 - t-003
   global_id: t-19062
-  teiginys: 'Birželio 19-ąją buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
-  pagrindžia:
-    - c-003
-
-<a id="claim-t-183550"></a>
-- t-004
-  global_id: t-183550
-  teiginys: 'Birželio 19-ąją buvo sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
+  teiginys: 'Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.'
   pagrindžia:
     - c-003
 
 <a id="claim-t-183551"></a>
 - t-005
   global_id: t-183551
-  teiginys: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
+  teiginys: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu, o socialdemokratai jį parėmė su sąlyga derinti veiksmus su jais.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O čia dar po kie-
@@ -117,7 +111,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     - t-003
 
 - c-004
-  santrauka: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
+  santrauka: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu, o socialdemokratai jį parėmė su sąlyga derinti veiksmus su jais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –

@@ -53,7 +53,6 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/lenas]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]

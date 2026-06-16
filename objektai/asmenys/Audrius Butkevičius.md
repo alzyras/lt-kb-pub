@@ -20,14 +20,14 @@ periodo_grupes:
 
 ## Santrauka
 
-Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD direktorius Audrius Butkevičius, A. p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
+Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą. 1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.
 
 ## Teiginiai
 
 <a id="claim-t-40045"></a>
 - t-001
   global_id: t-40045
-  teiginys: 'Iki šio nutarimo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
+  teiginys: 'Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
     - t-002
 
 - c-002
+  santrauka: 'Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sausio 13 d. AT priėmė nutarimą su-

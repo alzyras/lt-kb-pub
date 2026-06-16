@@ -16,7 +16,7 @@ amziai:
 
 ## Santrauka
 
-Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę. Vytauto pakviesti pasiuntiniai greitai atvyko į Žemaitiją ir naujuoju ganytoju paskyrė lietuvį Motiejų.
+Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę. Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,7 +42,7 @@ Nenurodyta
 <a id="claim-t-185719"></a>
 - t-002
   global_id: t-185719
-  teiginys: 'Vytauto pakviesti pasiuntiniai greitai atvyko į Žemaitiją ir naujuoju ganytoju paskyrė lietuvį Motiejų.'
+  teiginys: 'Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.'
   pagrindžia:
     - c-002
 
@@ -80,7 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: 'Vytauto pakviesti pasiuntiniai greitai atvyko į Žemaitiją ir naujuoju ganytoju paskyrė lietuvį Motiejų.'
+  santrauka: 'Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
     Be

@@ -61,4 +61,5 @@ Nenurodyta
 - [[objektai/asmenys/Giliginas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Trobius]]
+- [[objektai/zodynas/įpėdinis]]
 - [[objektai/zodynas/sueiga]]

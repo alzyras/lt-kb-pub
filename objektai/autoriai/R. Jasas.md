@@ -15,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. J a s a s : Didysis prūsų sukilimas 1260-1274 m. (1959), M.
+R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu. Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų. R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 
 ## Teiginiai
 
@@ -36,7 +36,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 <a id="claim-t-64832"></a>
 - t-003
   global_id: t-64832
-  teiginys: 'R. Jasas aprašė lietuvių kovas su kryžiuočiais ir kalavijuočiais darbe „Didysis prūsų sukilimas 1260-1274 m.“'
+  teiginys: 'R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   pagrindžia:
     - c-003
 
@@ -69,6 +69,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     - t-001
 
 - c-003
+  santrauka: 'R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     LTSR Mokslų

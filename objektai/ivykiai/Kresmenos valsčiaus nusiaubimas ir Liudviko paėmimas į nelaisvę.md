@@ -127,4 +127,5 @@ Nenurodyta
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/zodynas/metraštis]]
 - [[objektai/zodynas/magistras]]

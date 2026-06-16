@@ -214,6 +214,7 @@ Nenurodyta
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/pagonys]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Gedūnas]]

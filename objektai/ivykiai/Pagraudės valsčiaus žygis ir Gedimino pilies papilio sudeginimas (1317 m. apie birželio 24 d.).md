@@ -20,7 +20,7 @@ amziai:
 
 ## Santrauka
 
-1317 m. apie Jonines Ordino maršalas su broliais ir Sembos vyrais įsiveržė į Pagraudės valsčių ir padalijo kariuomenę į keturias dalis. Viena jų nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį, o kita sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.
+1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį. To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę. 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
 
 ## Laikotarpis ir datos
 
@@ -58,7 +58,7 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 <a id="claim-t-56683"></a>
 - t-003
   global_id: t-56683
-  teiginys: '1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies; pilėnai pilį apgynė, bet papilys sudegė.'
+  teiginys: '1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.'
   pagrindžia:
     - c-001
 

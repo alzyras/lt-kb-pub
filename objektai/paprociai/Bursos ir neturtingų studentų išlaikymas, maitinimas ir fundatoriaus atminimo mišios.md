@@ -129,6 +129,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Eustachijus (raštininkas)]]
 - [[objektai/asmenys/Juraha]]
+- [[objektai/daiktai/Kryžius]]
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Stanislovas]]

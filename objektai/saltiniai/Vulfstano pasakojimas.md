@@ -3,12 +3,12 @@ tipas: saltinis
 pavadinimas: 'Vulfstano pasakojimas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 aliases:
   - 'objektai/saltiniai/Wulfstano pasakojimai'
 variantai:
   - 'Wulfstano pasakojimai'
-sukurta: ''
-atnaujinta: ''
 tags:
   - dokumentas
   - ežeras
@@ -19,14 +19,13 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).
+Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Vulfstano pasakojime Aismarės vadinamos Estmere.
 
 ## Teiginiai
-
 <a id="claim-t-61016"></a>
 - t-001
   global_id: t-61016
-  teiginys: 'Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
+  teiginys: 'Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   pagrindžia:
     - c-001
 
@@ -37,9 +36,9 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-
+## Bibliografiniai įrodymai
 - c-001
+  santrauka: 'Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie,
@@ -52,7 +51,6 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vulfstano pasakojime Aismarės vadinamos Estmere.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

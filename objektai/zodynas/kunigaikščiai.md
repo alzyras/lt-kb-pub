@@ -18,16 +18,16 @@ tags:
 Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais valdovais — kunigaikščiais.
 
 ## Teiginiai
-
 <a id="claim-t-03055"></a>
 - t-001
   global_id: t-03055
   teiginys: 'Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Laikinos apylinkių sąjungos ilgainiui sustiprėjo, o jų karo vadai tapo nuolatiniais valdovais – kunigaikščiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,15 +42,18 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
     tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
     tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
     valdovais — kunigaikščiais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
+- [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]
 - [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
 - [[objektai/asmenys/Albertas Manvydas]]
 - [[objektai/asmenys/Aleksandras]]
@@ -58,6 +61,8 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą]]
+- [[objektai/grupes/Alšėniškių giminė]]
 - [[objektai/grupes/Alšėnų kunigaikščiai]]
 - [[objektai/asmenys/Andrejus Kurbskis]]
 - [[objektai/asmenys/Andrius Vingaudas]]
@@ -101,6 +106,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/grupes/Glebavičių giminė]]
 - [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/grupes/Goštautų giminė]]
 - [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
 - [[objektai/autoriai/Gurnickis]]
 - [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
@@ -123,7 +129,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jagurčinas]]
 - [[objektai/asmenys/Jaranda iš Brudzevo|Jaranda iš Brudzevo (vyskupas)]]
 - [[objektai/grupes/Jastžembcų giminė]]
 - [[objektai/asmenys/Jedigėjus]]
@@ -148,7 +153,9 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]
 - [[objektai/daiktai/Kilpinė ir strėlė]]
+- [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
 - [[objektai/asmenys/Kristijonas]]
@@ -156,6 +163,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/autoriai/Kučinskas, A]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį]]
 - [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]
 - [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
 - [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas]]
@@ -168,6 +176,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/ivykiai/Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
@@ -191,9 +200,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/zodynas/Metropolija ir metropolitas]]
 - [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
@@ -206,11 +213,13 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Motiejus Strijkovskis]]
 - [[objektai/asmenys/Motiejus iš Blonios]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/daiktai/Mūrinė pilis]]
 - [[objektai/posakiai/Mūsų brolis yra laisvas]]
+- [[objektai/ivykiai/Mūšis prie Jieseldos|Mūšis prie Jieseldos (mūšis, XIII a.)]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
 - [[objektai/asmenys/Nogajus]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
@@ -235,16 +244,19 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/daiktai/Pilaitės kunigaikščių pilis]]
 - [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
 - [[objektai/asmenys/Pisimantas]]
+- [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion]]
 - [[objektai/grupes/Polockiečiai]]
+- [[objektai/grupes/Polocko kunigaikščiai]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
+- [[objektai/grupes/Pskoviečiai]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
 - [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
 - [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties]]
-- [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/asmenys/Rogvoldas Borisovičius]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Rusai]]
@@ -257,6 +269,9 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Skirmantas]]
 - [[objektai/grupes/Sluckiai]]
+- [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]]
+- [[objektai/grupes/Smolenskiečiai]]
+- [[objektai/ivykiai/Smolensko atgavimas Vytautui]]
 - [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
@@ -314,6 +329,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
 - [[objektai/grupes/Vorotinskių giminė]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
@@ -324,6 +340,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]
 - [[objektai/ivykiai/Vytenio žygis į Kujaviją ir lenkų bei kryžiuočių nesėkmė persekiojant]]
 - [[objektai/asmenys/Vytenis]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/grupes/Vyšnioveckiai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/autoriai/Vėlius N]]
@@ -332,7 +349,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Zborovskis]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/asmenys/Zigfridas fon Dahenfeldas]]
-- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
 - [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/ekonomija]]
@@ -349,12 +365,13 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/otčici]]
 - [[objektai/zodynas/patepimas į valdžią]]
+- [[objektai/posakiai/penktadieni prieš Sekmines]]
 - [[objektai/zodynas/pereinamasis laikotarpis]]
 - [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
+- [[objektai/zodynas/prastieji žmonės]]
 - [[objektai/zodynas/prekymečiai ir turgūs]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/scholastiko prelatūra scholastikas]]
-- [[objektai/posakiai/senovės negriauname, naujovių neįvedame]]
 - [[objektai/zodynas/sritinė kunigaikštystė]]
 - [[objektai/zodynas/stalininkas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
@@ -363,9 +380,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/zodynas/tėvūnas]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/grupes/Čekijos husitai]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
@@ -381,31 +396,28 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/zodynas/žemių konfederacija]]
 - [[objektai/zodynas/žemė žemių konfederacija]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
-- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon]]
 - [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/grupes/Apaštalų Sostas]]
-- [[objektai/asmenys/Butigeidis]]
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
+- [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
 - [[objektai/paprociai/Ištikimybės pasižadėjimas valdovui ir jo įpėdiniams]]
 - [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]
-- [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
 - [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
+- [[objektai/autoriai/M. Hruševskis]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Moldovos kunigaikščiai]]
 - [[objektai/grupes/Okos aukštupio kunigaikščiai]]
 - [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]
 - [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/grupes/Seversko kunigaikščiai]]
 - [[objektai/paprociai/Skitų belaisvių tarnybos ir pragyvenimo praktikos Lietuvoje]]
-- [[objektai/grupes/Slucko kunigaikščiai]]
 - [[objektai/asmenys/Vaitiekus Kiočka]]
 - [[objektai/ivykiai/Vasiljevičiaus ir Andrejaus skverbimasis į Lietuvos valdas bei derybos dėl žalos (1487 m.)]]
 - [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
@@ -415,6 +427,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/lėnininkai]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Švitrigailos šalininkai]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 - [[objektai/zodynas/žygūnai]]

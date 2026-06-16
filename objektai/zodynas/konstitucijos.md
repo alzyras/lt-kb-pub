@@ -14,57 +14,33 @@ tags:
 
 ## Santrauka
 
-konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui. konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
+Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui.
 
 ## Teiginiai
-
 <a id="claim-t-72700"></a>
 - t-001
   global_id: t-72700
   teiginys: 'Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-72701"></a>
-- t-002
-  global_id: t-72701
-  teiginys: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
-  pagrindžia:
-    - c-002
-
-<a id="claim-t-72702"></a>
-- t-003
-  global_id: t-72702
-  teiginys: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
-  pagrindžia:
-    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
+  santrauka: 'Konstitucijomis vadinti seimo nutarimai buvo įstatymai, po seimo paprastai išspausdinami ir pranešami visam kraštui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
     jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
     dinami ir pranešami visam kraštui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
     - t-001
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu-
-    rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo _limita._
-    Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -100,7 +76,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema]]
 - [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/grupes/Sapiegos]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 - [[objektai/autoriai/Tadas Korsakas]]
 - [[objektai/grupes/Targovicos konfederacija]]

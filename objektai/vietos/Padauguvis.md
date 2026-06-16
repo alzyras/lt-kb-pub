@@ -8,21 +8,21 @@ datos:
   - '2026 m.'
 date_start: '1199'
 date_end: '2026'
-aliases:
-  - 'objektai/vietos/Padaugavys'
-variantai:
-  - 'Padaugavys'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XII'
   - 'XXI'
+aliases:
+  - 'objektai/vietos/Padaugavys'
+variantai:
+  - 'Padaugavys'
 ---
 # Padauguvis
 
 ## Santrauka
 
-kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai. Į gudus išvirtę lietuviai gyvena apie Padauguvį. Padaugavyje buvo Ašradės pilis.
+Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai. Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.
 
 ## Pavadinimai šaltiniuose
 
@@ -36,30 +36,20 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - tipas: kraštas / regionas
 
 ## Teiginiai
-
-<a id="claim-t-73355"></a>
-- t-001
-  global_id: t-73355
+- t-006
   teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
   pagrindžia:
     - c-001
-
-<a id="claim-t-73356"></a>
-- t-002
-  global_id: t-73356
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
   teiginys: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
   pagrindžia:
     - c-002
-
-<a id="claim-t-73358"></a>
-- t-003
-  global_id: t-73358
-  teiginys: 'Nuo XI amž., kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai.'
-  pagrindžia:
-    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
   santrauka: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -68,13 +58,13 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
     lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-003
-
+    - t-006
 - c-002
   santrauka: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -87,8 +77,10 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
     kluotą savo tikinčiųjų apsaugą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  statusas: verified
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-007
