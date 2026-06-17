@@ -2695,7 +2695,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176372|Gediminas]]: Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/grupes/Moldovos kunigaikščiai.md#claim-t-86812|Moldovos kunigaikščiai]]: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.
 - susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
@@ -4553,9 +4552,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Ragainė: Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.
 - susijęs iš Ragainė: Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas.
 - susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
-- susijęs iš Ragainė: 1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.
 - susijęs iš Ragainė: Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.
 - susijęs iš Ragainė: Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna.
+- susijęs iš Ragainė: 1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.
 - susijęs iš Ragordo ežerai: Siena buvo pravesta nuo Mozūrijos sienos į Grajevo ir Ragordo ežerus, toliau per Vištyčio ežerą ir upes iki Nemuno.
 - susijęs iš Raseiniai: Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.
 - susijęs iš Rastenburgas: Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.
@@ -4597,8 +4596,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš Skalvos žemė: 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
 - susijęs iš Skirsnemunė: Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.
 - susijęs iš Skirsnemunė: 1431 m. birželio 19 d. Skirsnemunėje Švitrigaila pasirašė sutartį su Ordino kryžiuočių ir Livonijos šakomis.
-- susijęs iš Skirsnemunė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.
 - susijęs iš Skirsnemunė: Dėl vandens seklumo kryžiuočiai su Vytautu nuo Skirsnemunės nebegalėjo toliau plaukti.
+- susijęs iš Skirsnemunė: 1409 m. nuo Skirsnemunės pradėtos deginti kryžiuočių pilys, o kryžiuočiai buvo išvyti iš Žemaičių.
 - susijęs iš Skirsnemunė: 1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį.
 - susijęs iš Smalininkai: Sienos linija nuo Šešupės buvo nuvesta tiesiai į Nemuną prie Smalininkų, o iš ten į Palangą.
 - susijęs iš Smardonė: Salyno akte ordinui tekusių žemių siena nuo Vaišvilčių kaimo ėjo Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
@@ -10113,7 +10112,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-275
 
 ## Ryšiai
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/asmenys/Gediminas]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/grupes/Lietuviai]] kariavo_pries Kryžiuočių ordinas

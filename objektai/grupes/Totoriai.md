@@ -607,9 +607,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-049
 - susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
 - susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
 - susijęs iš Mohilna: Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.
 - susijęs iš [[objektai/zodynas/saar.md#claim-t-70316|saar]]: Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.
@@ -2367,7 +2364,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
 ## Ryšiai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Totoriai
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Totoriai
 - [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Totoriai
 - [[objektai/asmenys/Kukovaitis]] kariavo_pries Totoriai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Totoriai
@@ -2376,7 +2372,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - Totoriai kariavo_pries [[objektai/grupes/Polockiečiai]]
 - Totoriai kariavo_pries [[objektai/grupes/Rusai]]
 - Totoriai kariavo_pries [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Totoriai
 - Totoriai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - Totoriai dalyvavo_musyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
 - Totoriai gyveno [[objektai/vietos/Ašmena]]

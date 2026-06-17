@@ -1332,8 +1332,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59882|Liudvikas iš Libencelės]]: 1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
 - susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184562|Kalavijuočių ordinas]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
@@ -1341,7 +1339,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117392|Žydai]]: Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.
 - susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75369|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
 - susijęs iš Viltis: Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
@@ -4549,8 +4546,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš Klaipėda: 1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.
 - susijęs iš Klaipėda: Britai iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, bet vėliau pasisakė už laisvojo miesto statusą.
 - susijęs iš Klaipėda: 1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
+- susijęs iš Klaipėda: 1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda.
 - susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
-- susijęs iš Klaipėda: 1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.
 - susijęs iš Klaipėda: Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.
 - susijęs iš Klaipėda: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
 - susijęs iš Klaipėda: 1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti žymiausių lietuvių karo pergalių pavadinimai.
@@ -8145,7 +8142,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 ## Ryšiai
 - [[objektai/asmenys/Antanas (vaistininkas)]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] kariavo_pries Lietuviai
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Lietuviai
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Georgas Zauerveinas]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Lietuviai

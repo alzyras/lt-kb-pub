@@ -37,7 +37,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   temporalinis_llm_pakomentavimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
@@ -1151,7 +1150,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
     - t-001
 
 ## Ryšiai
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Tomas (Hertvigo iš Pokarvių sūnus)
 - [[objektai/grupes/Lietuviai]] kariavo_pries Tomas (Hertvigo iš Pokarvių sūnus)
 - Tomas (Hertvigo iš Pokarvių sūnus) dalyvavo_musyje [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]
 - Tomas (Hertvigo iš Pokarvių sūnus) gyveno [[objektai/vietos/Trakai]]

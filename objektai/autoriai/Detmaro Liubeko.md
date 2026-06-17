@@ -22,8 +22,7 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
   global_id: t-39865
   teiginys: 'Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį teiginį apie kronikos tęsinyje pateiktą Vorsklos kautynių apibendrinimą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
-  semantiniai_rysiai: '[[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -35,11 +34,9 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Fragmentas sutrumpintas iki aiškaus, citata paremto teiginio apie šaltinio poziciją.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Jonas|Jonas]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
-  semantiniai_rysiai: '[[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/asmenys/Jonas|Jonas]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-183677|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
@@ -98,13 +95,3 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Detmaro Liubeko kariavo_pries [[objektai/grupes/Auksinė Orda]]
-- Detmaro Liubeko kariavo_pries [[objektai/asmenys/Jonas]]
-- Detmaro Liubeko kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Detmaro Liubeko kariavo_pries [[objektai/grupes/Lietuviai]]
-- Detmaro Liubeko kariavo_pries [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- Detmaro Liubeko kariavo_pries [[objektai/grupes/Totoriai]]
-- Detmaro Liubeko kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Detmaro Liubeko

@@ -136,8 +136,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   temporalinis_llm_pakomentavimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
   pagrindžia:
     - c-011
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
@@ -433,8 +431,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     - t-011
 
 ## Ryšiai
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Auksinė Orda
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Auksinė Orda
 - Auksinė Orda valde_teritorija [[objektai/vietos/Auksinė]]
 - Auksinė Orda valde_teritorija [[objektai/vietos/Europa]]
 - Auksinė Orda susije_su [[objektai/vietos/Auksinė]]

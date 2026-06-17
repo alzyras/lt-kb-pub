@@ -35,7 +35,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   global_id: t-67370
   teiginys: 'Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs OCR fragmentas, bet citata pagrindžia rišlų teiginį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   global_id: t-67371
   teiginys: 'Detmaro Liubeko kronikos tęsinyje rašoma, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos patyrė nesėkmę.'
   sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas ir turi skyrybos klaidą; citata leidžia suformuluoti aiškiau.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; counterparty: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   global_id: t-67372
   teiginys: 'Detmaro Liubeko kronikos tęsinyje nurodyta, kad per tuos mūšius žuvo 300 000 totorių, o Vytautas prarado 100 000 karių.'
   sudarymo_pagrindimas: 'Teiginys taisytinas stilistiškai, išlaikant citatoje pateiktą kronikos skaičių atribuciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,7 @@ Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs fragmentas; citata leidžia pateikti aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 

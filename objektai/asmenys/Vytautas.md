@@ -1809,8 +1809,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - c-155
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-39865|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigta, kad lietuviai prieš totorius kariavo tris kartus, dvejas kautynes laimėjo, o prie Vorsklos pralaimėjo.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
 - susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.
@@ -6545,17 +6543,13 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 
 ## Ryšiai
 - Vytautas (Lietuvos valdovas, XIV–XV a.) mire [[objektai/vietos/Vilnius]]
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
 - [[objektai/asmenys/Joachimas (Pskovo vietininkas)]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
 - [[objektai/grupes/Lenkai]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
 - [[objektai/asmenys/Prokopas]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Auksinė Orda]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/autoriai/Detmaro Liubeko]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kalavijuočių ordinas]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Lietuviai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
 - Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Torno taika (1411 m.)]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę]]

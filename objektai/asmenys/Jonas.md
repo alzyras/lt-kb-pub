@@ -40,7 +40,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
-- susijęs iš [[objektai/autoriai/Detmaro Liubeko.md#claim-t-183696|Detmaro Liubeko]]: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius kariavo tris kartus, du mūšius laimėjo, o prie Vorsklos pralaimėjo.
 - susijęs iš Maskva: Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
@@ -675,7 +674,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
     - t-001
 
 ## Ryšiai
-- [[objektai/autoriai/Detmaro Liubeko]] kariavo_pries Jonas
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Jonas
 - [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Jonas
 - Jonas dalyvavo_musyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]
